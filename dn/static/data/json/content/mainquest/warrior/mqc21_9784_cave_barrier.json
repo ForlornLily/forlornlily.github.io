@@ -1,0 +1,195 @@
+{
+  "qkname": "洞穴里的结界",
+  "data": [
+    {
+      "npc": "诺尔佩",
+      "question": "……<br>我担心的事还是发生了。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "ndnpc_Nophee_9784_qu_01.ogg}<br>眼下他吸收的玛蒙宝玉尚未完全融合，<br>强行使用力量，导致身体到达了极限。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "ndnpc_Nophee_9784_qu_02.ogg}<br>这证明他体内的宝玉还没有完全融合<br>也可以看作是宝玉急剧失控的征兆。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>糟了……！<br>这可怎么办？没有办法帮助格雷尔吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "等等……<br><FONT color=#7e12d2>（在屋内翻找着什么的诺尔佩出现了。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "<FONT color=#7e12d2>（诺尔佩递出一瓶药水。）</FONT><br>这是我师父阿卡戴米亚大人为了延缓查尔德化制作的药水。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "不知道能否帮助格雷尔大人融合宝玉<br>但至少能防止其继续失控。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>只要喂格雷尔喝下这药水就可以吧？<br>对了，格雷尔能继续调查卡伊伦岛吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "最近艾达特帝国对梅尔卡的监视越发森严了。<br>就连我也无法随意外出。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "格雷尔大人身上的查尔德气息越来越重，这很危险。<br>虽然格雷尔大人的状态不佳，但此时在这里只会更加危险。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "趁帝国看管松懈的时候，还是一起离开卡伊伦岛更为安全。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。现在只有期盼这药水能派上用场……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "那祝你好运。<br>一定要喂格雷尔大人喝下药水。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "嗬嗬……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格雷尔！你醒醒！<br>赶快把这个喝了！ </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>……？<br><FONT color=#7e12d2>（格雷尔迷茫地望着</FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#7e12d2>，随后喝下了药水。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这药水是诺尔佩给的。说你喝下后，就会没事了。<br>怎么样？似乎好些了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "<FONT color=#7e12d2>（格雷尔的脸色开始明显变好。）</FONT><br>呃嗯……感觉舒服多了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你动得了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "嗯……没问题。<br>你不会丢下我吧？我真的好多了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>唉……我不会丢下你的。<br>我们赶快去海底洞穴那边的结界看看杰兰特吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "嗯，杰兰特应该在等我们。<br>那这就前往<FONT color=#a82424>海底洞穴</FONT> 那边的结界吧。",
+      "answer": "",
+      "image": "qw_129.png"
+    },
+    {
+      "npc": "格雷尔",
+      "question": "看来杰兰特已经破坏了这边的结界？",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你们现在出现有什么用？<br>这边的结界已经被我搞定了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不愧是杰兰特！<br>你真的把结界破坏了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "老早以前就结束了，已经在这等你们好久了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（趁BOSS不备悄悄破坏结界，消灭BOSS的好像是我们啊……）<br>哈哈哈……不管怎么样，岛上的三个结界已经全部破坏了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "那现在马上能找到治愈之杯的线索喽？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……先把结界全部破坏的事告诉诺尔佩吧……<br>顺便探听一下梅尔卡的情况。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "梅尔卡的情况？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>听说艾达特帝国对于梅尔卡的监控更加森严了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "那就是要先返回梅尔卡喽？<br>我会乖乖藏在梅尔卡港口前面。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "好吧。那先返回梅尔卡，去找诺尔佩确认一下情况。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "我在这等你们。<br>快去找诺尔佩吧。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "卡伊伦岛的结界怎么样了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡伊伦岛的结界全被破坏了。<br>现在进入岛内是没什么问题了。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "终于可以正式调查治愈之杯的线索了。",
+      "answer": ""
+    }
+  ]
+}

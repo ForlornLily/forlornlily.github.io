@@ -1,0 +1,36 @@
+{
+  "qkname": "红衣服的黑暗精灵",
+  "data": [
+    {
+      "npc": "悬浮装置",
+      "question": "<FONT color=#7e12d2>（悬浮装置充能完成）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "\n嗯，回来了？",
+      "answer": ""
+    },
+    {
+      "npc": "悬浮装置",
+      "question": "<FONT color=#7e12d2>（悬浮装置充能完成）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "天啊？怎么比我还不像样……？<br>\n发生了什么事情？",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你说<FONT color=#a82424>悬浮装置</FONT>被大块头食人魔给吞掉了，还受到一个从未见过的<FONT color=#a82424>黑暗精灵</FONT>的胁迫？<br>真值得炫耀啊……啧啧……",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

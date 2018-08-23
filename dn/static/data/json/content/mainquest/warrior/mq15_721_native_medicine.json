@@ -1,0 +1,216 @@
+{
+  "qkname": "原住民治疗剂",
+  "data": [
+    {
+      "npc": "西戴尔",
+      "question": "\n暂时我想要和你保持一定的距离。<br>麻烦你让我一个人冷静冷静。<br>\n※<FONT color=#7e12d2>只能从卡拉秋那里获得并进行任务。</FONT>",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "\n原住民的状态越来越糟糕了。<br>\n我们需要卡拉翰的药……<br>\n※<FONT color=#7e12d2>只能从卡拉秋那里获得并进行任务。</FONT>",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "就在你去那个地方的时候，传来了一个坏消息。<br><FONT color=#a82424>塔玛拉</FONT>正在照顾的察提的部族民众状态每况愈下，现在镇静剂对于再次变成魔兽的他们来说似乎已经不管用了。",
+      "answer": "",
+      "image": "qn_npc_soceresstamara.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那该怎么办呢？</FONT>",
+      "answer": "",
+      "image": "qn_npc_soceresstamara.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "看来该采取极端措施了……<br>阻止那些人走上不归之路的方法就只有<FONT color=#a82424>死亡</FONT>了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "老师，您那是什么意思……？<br>他们……是可以康复的！<br>您不是说过<FONT color=#a82424>卡拉翰的药</FONT>是有效果的吗？",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "别说些蠢话了，西戴尔。<br>既然无法获得<FONT color=#a82424>卡拉翰的制作方法</FONT>，就再也没有其他办法可以救治他们了，这一点你不是也很清楚吗。帮他们脱离苦痛也是为了他们着想。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#a82424>卡拉翰在制作药</FONT>的时候我在旁边看了。<br>只要能把材料找全，我也可以制作。所以……",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你说的是真的吗，西戴尔?<br>你只不过是在旁边看到，就可以制作出<FONT color=#a82424>卡拉翰的药</FONT>……？",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我可以的……<br>虽然我不敢保证制出的药可以发挥出和卡拉翰的药相同的效果……但效果是肯定会有的。请相信我，老师。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "真让人惊讶，西戴尔……<br>很好。那么 <FONT color=#387206>{user_nick}</FONT>，寻找药材的重任就交给你吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "需要的材料包括<FONT color=#a82424>腐败的沼泽苔藓</FONT>、<FONT color=#a82424>丛林水芹</FONT>还有<FONT color=#a82424>黑灰蘑菇</FONT>。<br>应该到哪儿去搜集，西戴尔……你知道吗？<br>\n<FONT color=#7e12d2>（卡拉秋看向西戴尔的方向）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "是的。<FONT color=#a82424>腐败的沼泽苔藓</FONT>可以在<FONT color=#a82424>古代图书馆</FONT>搜集到，<FONT color=#a82424>丛林水芹</FONT>可以在<FONT color=#a82424>利物沃特村庄废墟</FONT>搜集到，而<FONT color=#a82424>黑灰蘑菇</FONT>可以在<FONT color=#a82424>古代武器库的东边</FONT>搜集到。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "<FONT color=#7e12d2>（卡拉秋微笑着）</FONT><br>西戴尔，你天才的一面总是让我很震惊。<br>如果能再给我一点时间就好了……",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "看来原住民的病情越来越严重了…… 不管怎样，我必须帮帮他们。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "原住民的情况越来越糟了。<br>要有卡拉翰的药才行……",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "<FONT color=#a82424>腐败的沼泽苔藓</FONT>可以在<FONT color=#a82424>古代图书馆</FONT>搜集到，<FONT color=#a82424>丛林水芹</FONT>可以在<FONT color=#a82424>利物沃特村庄废墟</FONT>搜集到，而<FONT color=#a82424>黑灰蘑菇</FONT>则可以在<FONT color=#a82424>古代武器库的东边</FONT>搜集到。<br>在原住民的病情进一步恶化之前，一定要抓紧时间。",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我一定会想尽办法把药制成的。<br>所以请把材料搜集回……",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "材料搜集回来，就交给<FONT color=#a82424>西戴尔</FONT>吧。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "材料搜集回来啦。<br>这么多足够制药的了。<br>\n<FONT color=#7e12d2>（拿出材料）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#7e12d2>（西戴尔接过材料，开始制药）</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "虽然是否有效还有待确认，但是药似乎制作得还不错。<br>麻烦你帮我把这药交给高级<FONT color=#a82424>魔法师塔玛拉</FONT>。",
+      "answer": "",
+      "image": "qn_npc_soceresstamara.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的。</FONT>",
+      "answer": "",
+      "image": "qn_npc_soceresstamara.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "而且……就在你去搜集药材的这段时间，我瞒着老师去见了<FONT color=#a82424>贝思柯德</FONT>。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>去见贝思柯德？你们说什么了？</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "没说什么特别的。<br>我只是意识到，由别人代替完成的复仇并不是真正的复仇。即使贝思柯德打倒了卡拉翰，那也只是消除了贝思柯德的仇恨，而并不能消除察提的仇恨。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "最终，要想消除<FONT color=#a82424>察提</FONT>的仇恨，就只有我亲自动手才行。这无论是贝思柯德，老师，或者是<FONT color=#387206>{user_nick}</FONT>你，都无法替我做的。",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那不是为了察提的复仇，而是为了你自己的复仇，西戴尔。</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "是啊，你说得没错。为了我自己的复仇……<br>即使打败了<FONT color=#a82424>卡拉翰</FONT>，也无法让察提回来。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>西戴尔，别再轻举妄动了……</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "……<br>万一，我有什么不测的话……老师就托付给你了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>西戴尔？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "快把药送到<FONT color=#a82424>塔玛拉</FONT>那儿去。<br>必须尽可能让原住民早点脱离痛苦。",
+      "answer": "",
+      "image": "qn_npc_soceresstamara.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好……等我回来，我们再继续说。</FONT>",
+      "answer": "",
+      "image": "qn_npc_soceresstamara.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "好吧……<br><FONT color=#7e12d2>（西戴尔的表情有点异常。把药拿给高级魔法师塔玛拉后，再回来和西戴尔对话吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "\n你说这是<FONT color=#a82424>西戴尔</FONT>制作的药……？<br>\n只看了一次居然就记住了，还把药给制作出来了……西戴尔可真是天才啊。<br>\n值得卡拉秋这么宠爱他。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

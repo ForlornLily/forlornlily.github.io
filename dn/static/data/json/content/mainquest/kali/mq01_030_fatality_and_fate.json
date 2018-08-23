@@ -1,0 +1,159 @@
+{
+  "qkname": "死亡与宿命",
+  "data": [
+    {
+      "npc": "村长海洛德",
+      "question": "你来得正好。自卫队长史蒂夫说萝丝和提摩西好像去了 <FONT color=#a82424>古代神殿发掘场</FONT>。",
+      "answer": "",
+      "image": "qw_5.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "萝丝……可怜的孩子。<br>\n冒险家，请再帮我去找一次萝丝吧。",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "自卫团员们目睹到萝丝和提摩西的地方是<FONT color=#a82424>古代神殿发掘场</FONT>。<br>\n请快赶到那个地方去吧。<br><FONT color=#7e12d2>（村长眼圈泛红）</FONT>",
+      "answer": "",
+      "image": "qw_5.png"
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "萝丝和提摩西好像被追赶到了<FONT color=#a82424>古代神殿发掘场</FONT>那里。",
+      "answer": "",
+      "image": "qw_5.png"
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "原来如此。提摩西……<br>\n<FONT color=#7e12d2>（史蒂夫好像一时语塞，并摇了摇头）</FONT><br>\n ",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "提摩西最终为了自己心爱的女人而牺牲了自己。<br>\n他虽然有些鲁莽，但很勇敢。既然是为了萝丝而死的…他也应该毫无遗憾了。<br>\n ",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "请将这一切告诉<FONT color=#a82424>村长海洛德</FONT>吧。<br>\n我要去收拾提摩西的尸体，准备他的葬礼了。",
+      "answer": "",
+      "image": "qn_elder_harold.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "你听到萝丝的消息了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "你，你说什么？提摩西……！！<br>\n怎…怎么会这样…这都是我这个老头子太贪心了啊。<br>所以才会害了这年轻的生命……",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "那么，请将萝丝的消息告诉<FONT color=#a82424>海洛德</FONT>吧。<br>\n我要去收拾提摩西的尸体，准备他的葬礼了。",
+      "answer": "",
+      "image": "qn_elder_harold.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "萝丝那孩子很特别。她传承了<FONT color=#a94407>古代人</FONT>的血统，并拥有预知能力。<br>\n我本该把她送到<FONT color=#a94407>神圣天堂</FONT>去接受保护的。",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "但我更希望她能作为一个平凡的女孩子，幸福地活下去。<br>\n不要管什么先知，什么女神之梦……<br>\n就那么幸福地活下去。",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "唉……看来这只是我这老头的奢望啊。<br>命运毕竟是不能抗拒的……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（平凡的女孩……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>(一听到平凡的生活，我反而有点羡慕萝丝。</FONT><br>\n<FONT color=#662500>那样平凡的生活是我难以想象的。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>(……但是，萝丝只是个乡下小孩而已啊？</FONT><br>\n<FONT color=#662500>这样平凡的小孩，却仅因为天生的命运，就获得先知的资格，这合理吗？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>(…或许，能够确认这件事的方法，只有追踪萝丝，看看命运这东西究竟延伸到了何处。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "在你往后的冒险生活中，如果得到关于萝丝行踪的消息，请你告诉我。<br>还有，我为 <FONT color=#387206>{user_nick}</FONT>你准备了一个东西，我已经把他交给史蒂夫保管了，你去找他要吧。",
+      "answer": "",
+      "image": "qn_guard_steave.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "你先去<FONT color=#a82424>卫兵史蒂夫</FONT>那里看看吧。<br>详细的内容，史蒂夫会告诉你的。<br>\n虽然事情变成这个样子…还是感谢你帮忙。",
+      "answer": "",
+      "image": "qn_guard_steve.png"
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "村长保管在我这里的？<br>啊，我忙得都忘记这件事了。<br><FONT color=#a94407>凯德拉关卡</FONT>有一个叫做<FONT color=#a94407>冒险家公会</FONT>的组织，你知道吗？",
+      "answer": "",
+      "image": "qw_cataractgateway.png"
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "嗯，看来你还是第一次听说啊。<br>\n果然…… 我一直觉得，你是从很远的地方来到这里冒险的……",
+      "answer": "",
+      "image": "qw_cataractgateway.png"
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "如果你想在这一地区进行冒险，肯定有需要帮助的时候。<br>\n此时，你只要去找凯德拉关卡的冒险家公会，就能获得帮助了。",
+      "answer": "",
+      "image": "qw_cataractgateway.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>他们能帮我寻找萝丝吗？</FONT>",
+      "answer": "",
+      "image": "qw_cataractgateway.png"
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "<FONT color=#7e12d2>(卫兵史蒂夫被吓一跳)</FONT><br>啊，我还以为你放弃寻找萝丝了。<br>\n不过，如果你愿意继续寻找萝丝，我将感激不尽。",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "其实，我收到消息，有人看见绑架萝丝的<FONT color=#a82424>红色鹰身人</FONT>。",
+      "answer": "",
+      "image": "qm_harpyred.png"
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "侦察兵<FONT color=#a82424>福古斯</FONT>应该知道那鹰身人的事情。<br>他是<FONT color=#a82424>凯德拉关卡的侦察兵</FONT>，是个非常诚恳的人。<br>你拿着这个通行证，去给他看吧，这样他就会帮你了。",
+      "answer": "",
+      "image": "qn_ranger_fugus.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "像你这样充满正义感的人，肯定会受到女神的庇佑。<br>\n那，再见了。",
+      "answer": "",
+      "image": "qw_cristalstream.png"
+    }
+  ]
+}

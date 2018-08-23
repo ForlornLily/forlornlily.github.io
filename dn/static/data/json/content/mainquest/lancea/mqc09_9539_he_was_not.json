@@ -1,0 +1,195 @@
+{
+  "qkname": "不是他",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "哎呀……姐姐怎么这么激动的样子……发生了什么事？",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "<FONT color=#7e12d2>（听了先知和贝思柯德的事情，吓了一跳）</FONT><br>果然……贝思柯德和凯伊哥哥说的是真的啊。 ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我真是个笨蛋！竟然不相信贝思柯德和凯伊……呃啊啊！！<br>如果贝思柯德死掉的话怎么办！！<br>我错了，都怪我！杰兰特也是因为我死掉了……贝思柯德绝不能因为我而死！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "冷静点，姐姐……如果那么担心贝思柯德的话，就不应该让特拉玛依把他带走。唉……",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……！！是这样吗？！！<br>（现在才意识到，整个人都愣住了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "现在还不晚，现在赶紧去<FONT color=#a82424>神圣天堂</FONT>的<FONT color=#a82424>王城</FONT>吧。",
+      "answer": "",
+      "image": "qw_sainthaven_inside.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "特拉玛依是为了治疗贝思柯德才带走他……这或许不是说谎。<br>如果他想杀死贝思柯德的话，一开始就不会带走他，如果是为了利用他而带走他的话，也肯定会先救活他。",
+      "answer": ""
+    },
+    {
+      "npc": "特拉玛依",
+      "question": "我不知道你对我有什么误会……不过<FONT color=#a82424>贝思柯德</FONT>正在<FONT color=#a82424>王城地下</FONT>休息。<br>贝思柯德虽然度过了危险期，但还需要继续接受治疗。<br>因为他失去了支撑他身体的<FONT color=#a94407>龙之宝玉</FONT>，不知道会出现什么副作用。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你是来看我落魄的样子吗……？咳咳。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呜、呜呜，贝思柯德，我错了！<br>是我害你变成这样。我不该不相信你的话。凯伊也说先知是假冒的，还让我不要相信特拉玛依。现在就算你叫我垃圾，我也不得不接受……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>（贝思柯德像头痛一样按着额头）</FONT><br>……你是想让我的病恶化吗？<br>……真是个笨蛋。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我从一开始就不相信那个古代人小鬼能够从<FONT color=#a82424>那个人</FONT>魔掌中逃出来。 <br>但是我以为她只是诱饵……<br>没想到那个小鬼竟然是新的<FONT color=#a82424>使徒</FONT>……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，对了！我朋友说也不能相信特拉玛依！<br>所以……嗯……如果调查特拉玛依的话，说不定会发现什么？！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……你这话真奇怪。<br>你朋友是谁，怎么能事先知道这些事情呢？<br>告诉你这种话的朋友反而比较可疑吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>凯伊……吗？<br>什么，你让我怀疑凯伊吗~？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你要相信谁怀疑谁是你自己的选择。<br>有谁能替你选择你的生活呢？",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "失去了龙的力量之后，现在的我什么都不是了……<br>但这也是我选择的结果……<br>50年来一直期待着复仇，现在全都变成了泡影。是不是很悲惨？咳咳……",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>（柯梅里纳像要哭了似的站着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "现在我想休息了……你走吧。<br><FONT color=#7e12d2>（贝思柯德的脸色很差。</FONT>和<FONT color=#7e12d2>柯梅里纳对话吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>（柯梅里纳像要哭了似的站着）</FONT><br><FONT color=#a82424>贝思柯德</FONT>受了很重的伤……<br>可我一点忙也帮不上……",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是这样的，柯梅里纳！<br>我调查特拉玛依后，一定能找到使徒们的线索！<br>这样的话，就能找回</FONT><FONT color=#662500>贝思柯德的宝玉了……！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "据我调查，未来的记录中没有特拉玛依是使徒或加入使徒一方的内容。<br><FONT color=#7e12d2>（柯梅里纳咬着牙低下了头）</FONT><br>……当然，也没有关于<FONT color=#a82424>萝丝</FONT>的事情……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你是说特拉玛依不是使徒……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#a82424>使徒</FONT>如他们所愿得到了<FONT color=#a82424>黑龙的宝玉</FONT>。<br>现在他们不需要……贝思柯德了。<br>如果特拉玛依是使徒的话，他没理由把贝思柯德带来这里给他治疗。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……也许他觊觎贝思柯德手里的</FONT><FONT color=#a82424>杰兰特的剑</FONT><FONT color=#662500>？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "如果他觊觎<FONT color=#a82424>杰兰特的剑</FONT>的话，当贝思柯德被萝丝击倒的时候，完全可以把它抢走。<br><FONT color=#7e12d2>（柯梅里纳闭上了嘴，似乎没什么话要说了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（啊……完了！我好像</FONT><FONT color=#662500>误会了什么！我得赶紧去向特拉玛依</FONT><FONT color=#662500>道歉！）</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>（脸色非常苍白。好像很难继续对话了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "怎么样，你见到<FONT color=#a82424>贝思柯德</FONT>了吗？<br>你好像受了很大的打击……虽然我和他之间还有芥蒂，不过现在最重要的还是集中精神，让他赶快恢复健康才是。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（我竟然怀疑这么好的人！最近的我真的是疯了！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你好像有话要对我说……是关于误会了我的事情吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我……我，很抱歉！<br>凯伊说让我不要相信特拉玛依和先知……因为先知是使徒，所以我以为特拉玛依也是叛徒！<br>真的很抱歉！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "没关系，我也没想到先知会变成这样……<br>不知道该相信谁、该怀疑谁，这也是理所当然的……",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我找到先知的时候，她明明依然是沉睡的状态，究竟是哪里出错了呢。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "是什么把她变成了<FONT color=#a82424>使徒</FONT>呢……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>（柯梅里纳担心地看着贝思柯德。去王城内部找泰兰斯·特拉玛依吧）</FONT><FONT color=#662500> </FONT>"
+    }
+  ]
+}

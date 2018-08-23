@@ -1,0 +1,222 @@
+{
+  "qkname": "复苏的黑暗灾难",
+  "data": [
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "与<FONT color=#a82424>道格拉斯将军</FONT>一起辛苦了。<br>请务必救出<FONT color=#a82424>先知</FONT>，我只相信你。",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "不要想着去找<FONT color=#a82424>杰兰特</FONT>了吧，<br>……当然，你要是一意孤行的话，我也不会拦你，反正这是你的自由。"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "…...不要妨碍我，我正在寻找<FONT color=#a82424>他</FONT>的位置。"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "这次，在你的帮助下，<FONT color=#a82424>黑暗大君主的领地</FONT>已经被查得水落石出了，而且我们还掌握了有效路线，所以我们以后的战斗中可以进一步减少损失了。",
+      "answer": "",
+      "image": "qw_28.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那么现在可以追踪黑骑士了吗？</FONT>",
+      "answer": "",
+      "image": "qw_28.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "与<FONT color=#a82424>道格拉斯将军</FONT>一起辛苦了。<br>请务必救出<FONT color=#a82424>先知</FONT>，我只相信你。",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "…...不要妨碍我，我正在寻找<FONT color=#a82424>他</FONT>的位置。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "不要想着去找<FONT color=#a82424>杰兰特</FONT>了吧，<br>……当然，你要是一意孤行的话，我也不会拦你，反正这是你的自由。",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "士兵们已经准备就绪了。我打算兵分几路到黑骑士消失的<FONT color=#a82424>黑暗领地守备队据点</FONT>。你准备好的话也马上出发吧。",
+      "answer": "",
+      "image": "qw_43.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "对于<FONT color=#a82424>黑暗领地守备队据点</FONT>，我们的精锐士兵也不是很熟悉。<br>也可能无法像之前那样提供很多支援，所以请千万当心。",
+      "answer": "",
+      "image": "qw_43.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": "",
+      "image": "qw_43.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "iontalk}<br>一定要找回<FONT color=#a82424>先知</FONT>……<br>国家的前途令人堪忧。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "不过以你目前的实力似乎有些困难。你最好准备得更加充分之后再出发。<br><FONT color=#7e12d2>（只有达到28级后才可执行该任务）</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "我已经将精锐士兵分派到不同路线了。<br>你也尽快向<FONT color=#a82424> 黑暗领地守备队据点</FONT>出发吧。",
+      "answer": "",
+      "image": "qw_43.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……晚了一步。<br>\n<FONT color=#7e12d2>（杰兰特盯着一个方向）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "里边已经形成了<FONT color=#a82424>巢穴</FONT>，我无法继续接近了。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "<FONT color=#662500>巢穴？那是什么意思？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你去问问<FONT color=#a82424>阿尔杰塔</FONT>吧。<br><FONT color=#7e12d2>（杰兰特说完便闭口不言）</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "我听说你受将军之命要去<FONT color=#a82424>黑暗领地守备队据点</FONT>。<br>请务必救出<FONT color=#a82424>先知</FONT>啊，拜托你了。",
+      "image": "qw_43.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……<br><FONT color=#7e12d2>（看上去无意继续对话。应该回到黑山山角阿尔杰塔那里了）</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我也知道出现了<FONT color=#a82424>巢穴</FONT>。刚才已经有所感觉。<br>……不过这可是最糟糕的情况。现在已经没有什么回旋的余地了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个，巢穴是什么呢？？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你难道要我事无巨细都跟你解释一遍吗？<br>为什么？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是杰兰特让我问阿尔杰塔您的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "什么？那家伙这么说的？<br>那么……没办法了。我就告诉你吧，听好了！我不会再说第二遍。",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是……（还是杰兰特的话有用。）</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "所谓<FONT color=#a82424>巢穴</FONT>是指一种具有超强力量的存在为了守护自己的领域而设置的<FONT color=#a82424>结界</FONT>。嗯……也不一定都是力量强大，像地狱犬或者狮蝎领主之类的弱者也是可以设置的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（虽然不是很清楚，但听名字绝对不像是弱者……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "不过这个<FONT color=#a82424>巢穴</FONT>可绝对不是那些弱者建造的，而是以<FONT color=#a82424>黑龙</FONT>之力建成的。<br>也就意味着，<FONT color=#a82424>黑龙再次苏醒了</FONT>。你现在清楚状况了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？！黑龙再次苏醒？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "是的。巢穴将对<FONT color=#a82424>除主人之外的其他存在</FONT>发动超强的<FONT color=#a82424>阻力</FONT>，从而阻止入侵者。要想进入巢穴内部，不使用特殊的力量和武器是绝对不行的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没办法击溃巢穴吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "必须将建造巢穴的<FONT color=#a82424>主人消灭</FONT>才可能。不过这也必须进入巢穴才能实现，不是吗。<br>即使在<FONT color=#a82424>50年前</FONT>，为了打开黑龙的巢穴也必须拿到<FONT color=#a82424>古代祭司长的</FONT> <FONT color=#a82424>符文</FONT>才行。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>您是说六大英雄和黑龙战斗的时候？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "六大英雄还是十大英雄的不重要。总之现在的情况和那时一样。黑龙再次出现而且还建好了巢穴。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#662500>那么……怎么办呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "50年前打开黑龙巢穴时所使用的方法，现在应该也行得通的。因为那是同一个家伙建造的相同属性的巢穴。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>请告诉我那是什么方法！</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我刚刚不是说过吗。<FONT color=#a82424>古代祭司长的符文</FONT>。<br>如果杰兰特能找出其他方法就更好了，不过那还是未知，所以现在最好制作一个<FONT color=#a82424>古代祭司长的符文</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我来吧！</FONT>",
+      "answer": ""
+    }
+  ]
+}

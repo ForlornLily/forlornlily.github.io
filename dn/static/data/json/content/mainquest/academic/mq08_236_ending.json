@@ -1,0 +1,144 @@
+{
+  "qkname": "结局已然注定",
+  "data": [
+    {
+      "npc": "战士西恩",
+      "question": "没～没关系！一切都会好起来的。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_03.ogg}<br>嗯……凯德拉关卡的净化方法？如果利用古代人的研究，说不定可行。<br>无论如何，根据我们的历史记载，凯德拉关卡会被完全净化。<br><FONT color=#7e12d2>（百合花搜索着数据）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "啊，找到啦，嗯……这上面说<FONT color=#a82424>古代人利用古代人机械装置，给凯德拉周围的山林注入了生命力</FONT>。<br>是利用机械装置净化的。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>那是什么样的装置？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "祈祷者安息处那里有古代人制作的净化装置。<br>不过，为了启动净化装置，好像需要纯白之球和净化装置的钥匙……<br><FONT color=#a82424>纯白之球</FONT>在<FONT color=#a82424>圣域中心</FONT>……",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "净化装置的启动钥匙在<FONT color=#a82424>祈祷者安息处</FONT>的沉睡的<FONT color=#a82424>狮蝎克鲁鲁</FONT>手中。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我先去寻找纯白之球。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "寻找……？你去找？<br>凯德拉关卡的污染你就不用担心了。<br>即便你什么都不做，其他人也会很好地应对的。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>但是……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "你快去神圣天堂，找到<FONT color=#a82424>先知</FONT>。<br><FONT color=#387206>{user_nick}</FONT>，你不会忘记自己的任务了吧？<br>你不要忘记，我们是冒着很大的危险，将你送到那个地方的。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_06.ogg}<br>好了，你只要想办法前往神圣天堂就行了。<br>什么<FONT color=#a82424>圣域中心</FONT>的<FONT color=#a82424>纯白之球</FONT>，什么古代人的净化装置，你都不要管了。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "没~没关系！一切都会好起来的。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_06.ogg}<br>想要净化凯德拉，首先要找到<FONT color=#a82424>圣域中心</FONT>的纯白之球。<br>但是……<FONT color=#387206>{user_nick}</FONT>，这件事与你无关，你明白了吗？",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "唉……<FONT color=#a82424>埃雷娜</FONT>最终还是死了。<br><FONT color=#7e12d2>（西恩神情悲伤）</FONT>",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（埃雷娜……我最终还是没能帮到你……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "她肯定是想<FONT color=#a82424>净化覆盖自己的污染物质</FONT>，所以才觊觎<FONT color=#a82424>纯白之球</FONT>的。<br>但是……她最终还是失败了，迎来了死亡。<br>这就是所谓的因果报应吗？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "黑暗精灵和普通的精灵同是精灵，为什么差距这么大呢？<br>在很久之前，他们肯定属于同一种族。<br><FONT color=#a82424>埃雷娜</FONT>与<FONT color=#a82424>弓箭手特里亚纳</FONT>及村中的高级弓箭手完全不同。对吧？",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>并不是所有的黑暗精灵都是坏人。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "是吗？嗯……听到<FONT color=#387206>{user_nick}</FONT>你这么说，我还真想见见心地善良的黑暗精灵。<br>\n虽然我现在很难想象。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>好了，请收下这纯白之球吧。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊！！这是<FONT color=#a82424>纯白之球</FONT>……！！这个真的可以给我吗？<br>呃……我，我会负责将它送到凯德拉关卡！",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "谢谢你！！我不会忘记<FONT color=#387206>{user_nick}</FONT>你的功劳！！<br><FONT color=#7e12d2>（返回凯德拉关卡的学者站台，确认数据吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "<FONT color=#7e12d2>（与姐姐的对话保留在记录装置中。</FONT><br><FONT color=#7e12d2>试着播放）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

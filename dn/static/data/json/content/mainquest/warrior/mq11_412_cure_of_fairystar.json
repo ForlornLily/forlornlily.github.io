@@ -1,0 +1,105 @@
+{
+  "qkname": "佩奥里斯塔的药",
+  "data": [
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "你还在和那个<FONT color=#a82424>浣熊</FONT>在混？<br>哼，谁是浣熊？当然是那位阴险狡猾的<FONT color=#a82424>主教老头子</FONT>，不然还能有谁？"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "\n因为先知没法立刻苏醒过来，也就丧失了原有的那份信任，我就当做你是要更加仰仗女神的意思了。<br>\n ",
+      "answer": "（看起来主教的信心似乎更加充实了）"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "你还在和那个<FONT color=#a82424>浣熊</FONT>在混？<br>哼，谁是浣熊？当然是那位阴险狡猾的<FONT color=#a82424>主教老头子</FONT>，不然还能有谁？",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "我得想想其他的办法。<br>\n要安慰那些在战场上受伤的士兵，还得跟上层汇报……真是忙死我了。",
+      "answer": "您看起来挺忙的。"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "像你这样的人才能够在这种时候出现，简直就是女神对我们的额外关照。<br>对了，<FONT color=#a82424>宫廷魔法师卡拉安</FONT>似乎在找你……",
+      "answer": "是卡拉安大人吗？",
+      "image": "qn_npc_royal_magician_kalaen.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "是的，也许卡拉安也在研究唤醒<FONT color=#a82424>先知</FONT>的办法。<br>希望她那边能有点成果。",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你去见了<FONT color=#a82424>宫廷魔法师卡拉安</FONT>大人了吗？<br>为了唤醒先知，她似乎也在研究佩奥里斯塔的古书。",
+      "image": "qn_npc_royal_magician_kalaen.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "你还有时间在这种地方闲晃？<br>……我说，你赶紧该干嘛干嘛去！<br>\n真是个愣头愣脑的家伙，哼！",
+      "answer": "（这是怎么回事……）"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "听说那个老<FONT color=#a82424>浣熊</FONT> 打算自己偷偷立功，把你给叫去了？说是做了什么<FONT color=#a82424>圣水</FONT>之类的给你了……<br>\n有效吗？",
+      "answer": "没有，她没有醒来。",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "哦～呵呵呵呵。我早就知道会是这样！哈哈哈！全都被我猜到了！！我就知道那只笨蛋浣熊肯定搞不定。哼，以为洒点什么水就能唤醒<FONT color=#a82424>先知</FONT>，真是可笑。",
+      "answer": "（卡拉安猛烈地抨击主教）"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "呵呵，现在心里痛快多了。<br>不论如何，你！我就给你个特别的机会，见识一下我<FONT color=#a82424>佩奥里斯塔</FONT>的惊人能力！",
+      "answer": "（似乎她也要找我帮忙了）"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "你赶紧去<FONT color=#a82424>孤岛中心</FONT>给我弄些<FONT color=#a82424>梦幻草</FONT>回来。<br>\n我需要那种能够在怪物的肚子里发芽成长的东西，消灭孤岛中心的强大怪物就能获得。",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "怎么？你还没走吗？去 <FONT color=#a82424>孤岛中心</FONT>搜集<FONT color=#a82424>梦幻草</FONT>回来吧。<br>我将让你见识到佩奥里斯塔的伟大力量！",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "嗯。看你长得弱不禁风，还挺有本事的嘛？<br>你还是清醒清醒，离开那个<FONT color=#a82424>狡猾的</FONT>主教吧。",
+      "answer": "你打算用这个做什么？",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "急什么急？沉睡的先知又不会跑掉？<br>现在我要用这<FONT color=#a82424>梦幻草</FONT>来制作<FONT color=#a82424>梦粉</FONT>。<br>\n你知道梦粉是什么吗？",
+      "answer": "（怎么又开始自以为是了）",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "呵呵呵呵，我告诉你吧，你可要听好了。这是<FONT color=#a82424>能够让你进入别人梦境</FONT>的魔粉。沉睡不醒大多是精神意识上的问题引起的，因此要解决问题，最快的办法就是直接进入她的梦境问问她本人。<br>\n当然这种方法也很方便。",
+      "answer": "（看来关键还是方便）",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "这种东西不能经常使用，我可是特别为你制作的，你应该感到无比荣幸才对！<br><FONT color=#7e12d2>（卡拉安将各种调料和梦幻草搅拌在一起）</FONT><br>\n这个东西闻起来会很香，你可千万不能吃！记住了吗？",
+      "answer": "我不吃……",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "好了，都做好了。<br>\n<FONT color=#7e12d2>（她将香喷喷的草研磨了一下，便包了一把给我）<br></FONT>拿去吧。",
+      "answer": "（获取梦粉）",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": "<FONT color=#a94407>（获得奖励）</FONT>"
+    }
+  ]
+}

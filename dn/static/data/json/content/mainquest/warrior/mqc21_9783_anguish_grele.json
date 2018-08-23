@@ -1,0 +1,224 @@
+{
+  "qkname": "痛苦的格雷尔",
+  "data": [
+    {
+      "npc": "诺尔佩",
+      "question": "嗯……这么说其他方向也有结界。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "破坏海边的结界时，没出现特别的现象吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>在结界被破坏的瞬间，我在结界两边看到了类似屏障的光。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格雷尔说，那道光分别射向对面的森林和高处的悬崖，随后就消失了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "这么看来…… <br>如果我没猜错，卡伊伦岛的结界应该是按照三阵法布下的魔法结界。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>三阵法？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "ndnpc_Nophee_9783_qu_01.ogg}<br>结界被破坏时，之所以会出现类似屏障的光芒<br>很可能是连接其他结界的魔法力量中断的瞬间反应。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "ndnpc_Nophee_9783_qu_02.ogg}<br>那道光之所以会射向两边，是因为某个地方还有结界存在。<br>一定是为了守护中央的某样东西，才会在三个地方布下结界。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那就是以中央为轴心，向外布下了三角形的结界喽？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "你果然聪明。你们发现的第一个结界在卡伊伦海岸，位于海岛的西面。<br>剩下的结界很可能位于东边和北边的尽头。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "海岛东尽头遍布着森林，是过去卡伊伦岛居民生活过的旧街，<br>北边被悬崖阻隔，只有进入洞穴，才能找到结界。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。只要破坏那两处的结界就行了吧？<br>我这就去告诉杰兰特和格雷尔。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "为了节省时间，我认为你们最好是分头行动，这样能更快地破坏结界。<br>你不如跟杰兰特大人商量一下。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "他的意思是其他地方还存在结界？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，诺尔佩说，三个结界遍布在以海岛为轴心的三角形顶点，剩下两个应该在森林内的旧街和悬崖上的洞穴。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>还有最好是分头行动，这样能在最短的时间内破坏结界。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "好，那我来负责悬崖上的洞穴，<br>你和小不点前往旧街。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你一个人没问题吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你以为我是毛头小子啊？<br>不用担心我，只管照顾好格雷尔吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（我可没说你是毛头小子……）<br>知道了。如果我们先破坏了旧街的结界，就立刻去你那边帮忙。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "别瞎操心了，你和格雷尔千万要小心。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "\n<FONT color=#7e12d2>（看来得先把一起行动的消息告诉格雷尔。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "你和诺尔佩商量得怎么样？<br>诺尔佩怎么说？打听到结界的消息了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（格雷尔看起来兴致勃勃。）<br>嗯，结界还有两处，一个位于旧街，一个位于悬崖的海底洞穴。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "诺尔佩可真了不起。他是怎么知道的？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎么说他也是拉达梅斯的首长啊。<br>对了，为了节省时间，决定由杰兰特负责海底洞穴，你和我负责旧街。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "嗯！两个人也没关系！我会努力帮忙的！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好，那我们去旧街看看吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "嗯，你是说<FONT color=#a82424>旧街</FONT>吧？<br>那快出发吧。",
+      "answer": "",
+      "image": "qw_128.png"
+    },
+    {
+      "npc": "结界",
+      "question": "<FONT color=#7e12d2>（魔法力量越来越近。看来这就是旧街的结界）</FONT>",
+      "answer": "破坏结界。"
+    },
+    {
+      "npc": "格雷尔",
+      "question": "赶快把……结界…… <FONT color=#7e12d2>（格雷尔呼吸突然急促。）</FONT>"
+    },
+    {
+      "npc": "结界",
+      "question": "\n<FONT color=#7e12d2>（结界两边出现类似屏障的光一闪而过。结界好像被成功破坏了。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "呃呃……！胸口……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格雷尔？怎么回事！你怎么了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "ndnpc_Grele_9783_qu_01.ogg}<br>嗬嗬……胸口好……痛……！<br><FONT color=#7e12d2>（格雷尔抓着胸口，表情十分痛苦。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你、你撑住！<br>我这就返回梅尔卡！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "ndnpc_Grele_9783_qu_02.ogg}<br>对、对不……对不起……<br>还有其他结界尚未……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰兰特会解决其他结界的！<br>你还是先顾自己吧！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "<FONT color=#7e12d2>（格雷尔看起来非常痛苦。赶快返回梅尔卡，把格雷尔的情况告诉诺尔佩。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "呃啊……胸口感觉要撕裂了……<br>对不起……我拖累你了……",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "你怎么气喘吁吁跑来了？<br>该不会发生什么意外了吧……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格雷尔突然晕倒了！</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "……<br>我担心的事还是发生了。",
+      "answer": ""
+    }
+  ]
+}

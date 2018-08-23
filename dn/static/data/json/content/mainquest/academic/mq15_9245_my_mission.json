@@ -1,0 +1,109 @@
+{
+  "qkname": "那是我的使命",
+  "data": [
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>网络不稳定。</FONT><br>▷ <FONT color=#7e12d2>重新设置Mission Object。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>Mission Object.</FONT><br>▷ <FONT color=#7e12d2>请前往泰努阿尔神殿。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>有一条未读信息。</FONT><br>▷ <FONT color=#7e12d2>要查看信息吗？</FONT>",
+      "answer": "（查看信息）"
+    },
+    {
+      "npc": "百合花",
+      "question": "<FONT color=#086171>XD-26。不，{user_nick}。</FONT><br><FONT color=#086171>呵呵，你好像妨碍过我们很多次了吧。</FONT><br><FONT color=#086171>不过，计划还在顺利进行中。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（百合花姐姐……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "百合花",
+      "question": "<FONT color=#086171>{user_nick}，你是我制造出来的，是因我而生的孩子。</FONT><br><FONT color=#086171>也就是说，你和我有一样的性格和品性。</FONT><br><FONT color=#086171>所以我十分理解你为什么反抗我，反对我侵略过去。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "百合花",
+      "question": "<FONT color=#086171>但是，你的敌人并不是我。</FONT><br><FONT color=#086171>我认为所有的生命都是可贵的。</FONT><br><FONT color=#086171>即便是微小的生命，我也不会轻视。</FONT><br><FONT color=#086171>你知道为什么吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "百合花",
+      "question": "<FONT color=#086171>为了保存生命。</FONT><FONT color=#086171>因为守护生命，这圣洁崇高的职责正是我的使命。</FONT><br><FONT color=#086171>哪怕只能令一个生命复活，我都愿意付出我自己的生命。</FONT><br><FONT color=#086171>正因为如此，我甘愿牺牲掉和我有一部分相似的你们，只是为了拯救我们的世界。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "百合花",
+      "question": "<FONT color=#086171>{user_nick}，你是我们世界的人。</FONT><br><FONT color=#086171>你现在不应该守护他们，而应该守护我们周围的人！</FONT><br><FONT color=#086171>生命的价值不在于过去和将来。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "百合花",
+      "question": "<FONT color=#086171>生命，因为活在当下，所以值得尊重。</FONT><br><FONT color=#086171>生命，因为现在活在我们身边，所以才显得珍贵。</FONT><br><FONT color=#086171>为了死去的人，而牺牲现在活着的人，是多么的愚蠢啊。</FONT><br><FONT color=#086171>忘掉过去，直视现在吧！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（好的，姐姐……<br>照姐姐的话说，因为活在当下，所以生命才具有价值吧。<br>可是，这可如何是好，姐姐……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（对我来说的当下，就是现在这个时候。<br>而不是50年之后的未来……）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "百合花",
+      "question": "<FONT color=#086171>{user_nick}，我期待着你做出正确的判断。</FONT><br><FONT color=#086171>但是，请记住，</FONT><br><FONT color=#086171>你要为自己的选择负责任……</FONT><br><FONT color=#086171>因为你草率的举动，很多人可能就会因此遭殃，你要为他们的生命负责。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(我没有忘记。<br>姐姐刚刚自己也说了，我和姐姐有着同样的性格和品性……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（就像姐姐打算动用所有手段和方法去守护他们一样，我也会动用所有的手段和方法去守护我要守护的人。<br>因为这是我和姐姐被赋予的使命）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "......",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（学者站台有些奇怪？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "- <FONT color=#a82424>ERROR</FONT><br>- <FONT color=#7e12d2>检测出致命错误。</FONT><br>- <FONT color=#7e12d2>系统无法正常启动。</FONT><br>- <FONT color=#7e12d2>服务相关问题请直接咨询客服中心。</FONT><FONT color=#7e12d2><br></FONT><FONT color=#086171>- Bellin Corporation. 客服中心：1588 - xxxx（24小时运营）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃……？怎么会这样？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#7e12d2>达到58级以后才能继续进行任务。</FONT>",
+      "answer": ""
+    }
+  ]
+}

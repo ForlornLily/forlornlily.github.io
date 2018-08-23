@@ -1,0 +1,169 @@
+{
+  "qkname": "魔力循环草",
+  "data": [
+    {
+      "npc": "炼金术士帕尔加",
+      "question": "我这就为你制作装取汁液的瓶子，你先在这等等吧。",
+      "answer": ""
+    },
+    {
+      "npc": "炼金术士帕尔加",
+      "question": "嗯……<br><FONT color=#7e12d2>（帕尔加开始翻找行李）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "炼金术士帕尔加",
+      "question": "呃啊。瓶子去哪了？对不起，你能再给我点时间吗？<br><FONT color=#7e12d2>（94级以上方可进行）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "炼金术士帕尔加",
+      "question": "喏，这就是你要的瓶子。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>谢谢你！这份恩情，我不会忘记的！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "炼金术士帕尔加",
+      "question": "什么恩情啊……如果有什么疑问，随时来找我。我暂时不会离开这里。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你真是个好人！嗯！我知道了！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "人鱼的海草",
+      "question": "<FONT color=#7e12d2>（看起来黏糊糊的海草。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "炼金术士帕尔加",
+      "question": "那你赶快去找人鱼汁液吧。<br><FONT color=#a94407>人鱼汁液</FONT>在<FONT color=#a82424>卡伊伦海岸</FONT>就能找到吧？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你怎么现在才来？<br>我找到人鱼的海草后，都等你好久了！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你真是办事麻利啊，杰兰特！<br>为了找到装取人鱼的海草汁液的瓶子，所以来晚了。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "诺尔佩已经告诉我了。<br>幸好我听清了，否则差点用水把汁液挤出来了。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "装进你带来的这个瓶子就行了吧？<br>那就别磨蹭了，赶快把汁液装进去吧！",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "赶快把这什么人鱼的海草装进去！",
+      "answer": ""
+    },
+    {
+      "npc": "人鱼的海草",
+      "question": "\n<FONT color=#7e12d2>（看起来黏糊糊的海草。）</FONT>",
+      "answer": "把海草汁液装进瓶子。"
+    },
+    {
+      "npc": "人鱼的海草",
+      "question": "\n<FONT color=#7e12d2>（海草的汁液都出来了。）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "呃呀……这黏糊糊的液体真的能救格雷尔？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>据说是的。<br>除此之外，还需要生长在幻影森林的幻影花！我们得抓紧了，格雷尔情况可不太好！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "格雷尔的情况我也听说了。<br>正好我把藏在梅尔卡的格里高利也拉来了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格里高利？当初他死也不来卡伊伦岛，怎么会跟着过来了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GereintKid_9792_qu_01.ogg}<br>听说格雷尔的情况后，那家伙貌似良心发现了，竟答应跟过来。<br>老实说，如果格雷尔有个三长两短，反女神派也就失去了未来！到时候格反女神派出身的格里高利岂不是要沦为丧家之犬。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "也不完全是因为格雷尔啦。最近帝国那边对梅尔卡的管控愈发森严，格里高利那家伙如坐针毡。<br>万一被发现，那就必死无疑。他心想倒不如跑到卡伊伦岛上更更安全。 ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰兰特……你把格里高利想得也太不堪了吧？ <br>虽然他说话有些粗鲁，但也帮了不少忙。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GereintKid_9792_qu_02.ogg}<br>我就是看不惯那家伙。<br>为了生存，趋炎附势，摇摆不定。阿尔特里亚的龙族绝不会做出这种事！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯嗯……你说的有理……<br>格里高利人在哪里？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我认为还是分头寻找那材料更为妥当，就让那家伙先去<FONT color=#a82424>幻影森林</FONT>那边了。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "他一脸紧张不太想去<br>我就故意刺激他说是不是怕了，他一气之下就去那边了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哈哈……杰兰，你倒是摸透了格里高利的脾气。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "嗯……算是吧……你别用那种含情脉脉的眼神看我。<br>你要磨蹭到什么时候啊？现在每分每秒对格雷尔来说都是折磨！",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我先去看看格雷尔那边的情况，你快去跟格里高利寻找材料，然后来海底洞穴会合。 <br>格里高利已经率先前往<FONT color=#a82424>幻影森林</FONT>，你见到他后，赶快来幻影森林寻找幻影花。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。我会尽快找到剩下的材料跟你会合的。</FONT>",
+      "answer": ""
+    }
+  ]
+}

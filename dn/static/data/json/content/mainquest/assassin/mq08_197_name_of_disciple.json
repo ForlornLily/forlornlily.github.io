@@ -1,0 +1,294 @@
+{
+  "qkname": "使徒之名",
+  "data": [
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "哦，快过来！",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "埃雷娜的指令书的事情我听说了。看来她打算在凯德拉关卡散播<FONT color=#a82424>有毒物质</FONT>。<br>嗯……从事情的规模来看，必须动员更多冒险家公会成员才行。这是件大事情。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "经过我们冒险家公会的仔细调查，发现了一个可能用于储存污染物质的地方。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>在哪里啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "就在不归之路。<br>有人在附近巡逻的时候，看到了穿红衣的黑暗精灵，可能是埃雷娜。",
+      "answer": "",
+      "image": "qw_23.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "接到报告的时候，我还在想她为什么会在那种地方。不过现在我知道了。<br>那个<FONT color=#a82424>可恶的黑暗精灵</FONT>为了在凯德拉关卡散播污染物质，一定是选中了那个地方！",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "我会尽快把其他冒险家也派过去。<br>希望你尽快赶到那里。<br>\n凯德拉关卡有危险！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(不归之路……)</FONT>",
+      "answer": "",
+      "image": "qw_23.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "如果发现线索，我会立刻通知你。希望能获得有关污染物质的情报……嗯……<br>\n<FONT color=#7e12d2>*达到20级以后才能进行下一阶段的任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "嗯，你要去找冒险家公会会长戴卡德，对吧？<br>明白了。你可真忙。",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n你在干嘛？",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "希望能在冒险家公会了解到埃雷娜的行踪……<br><FONT color=#387206>{user_nick}</FONT>，你最好去见见<FONT color=#a82424>冒险家公会会长戴卡德</FONT>。",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "我的能力太弱，这让我感到很无力。<br>身为女神的仆人，却没能帮上更多的忙，真是惭愧。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "你好。我想我们以后应该会经常见面。<br>这也是特雷西亚的一部分。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "哼，找我有什么事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "嗯～凯德拉关卡遇到了前所未有的危机。<br>真让人担心。请你快到不归之路去。",
+      "answer": "",
+      "image": "qw_23.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(把目的地告诉水晶谷的露娜莉娅吧。)</FONT>",
+      "answer": "",
+      "image": "qw_cristalstream.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#387206>{user_nick}</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……嗯？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "干嘛摆出那副表情？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "好像很少听到你叫我的名字。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……是吗？不知道。<br><FONT color=#7e12d2>(露娜莉娅一副无辜的表情，歪了歪脑袋)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "对了，你为什么要插手这里的事情？<br>你什么都不做也没关系，不是吗？<br>\n你看到了未来，一切都已经注定了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>看到眼前发生的事情却完全不管，也有点说不过去吧？<br>对我来说，这一刻，这里才是现在。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>其他人都在努力，我总不能坐视不理吧？<br>对我来说，这一刻，这里才是现在。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……还有，如果能见到埃雷娜，说不定能知道更多有关幻象的事情。</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你想了解你体内的那个男人？<br>为什么？了解他，对你有什么帮助吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道……幻象其实是未来的我。<br>我也知道现在的情况下该怎么办。</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "看来你去暗影喵那里转职……的时候，见到了体内的那个他。",
+      "answer": "",
+      "image": "qn_npc_shadow_meow.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的，他说他就是未来的我。<br>真奇怪，两个时空的同一个人竟然合为了一体，却完全像是陌生人一样。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>和幻象撞到之后，他就在我体内与我共存。<br>就像上次一样，有时他还会蚕食我的意识。</FONT><br>\n<FONT color=#662500>我想摆脱他。我不想被他吞噬。</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "所以？你觉得如果能了解幻象，也许就能改善目前的情况？<br>……有可能吧。知道了。明白了。<br>\n",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你要到不归之路去，对吧？<br>\n我随后就过去。",
+      "answer": "",
+      "image": "qw_23.png"
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "哼，找我有什么事吗？<br>愚蠢的家伙。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "闻名天下的第4位使徒，原来不过是浪得虚名！<br>幻象。",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "曾经是<FONT color=#a82424>第4位使徒的幻象</FONT>竟然决定帮助懦弱的人类！哈哈哈哈！<br>真可笑！会不会是你这种家伙连杀死的价值都没有，所以国王才让你活了下来？！",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "还能是什么呢？我们都是<FONT color=#a82424>红色军队光荣的干部</FONT>。<br>幻象，别装疯卖傻！愚蠢的家伙！",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "像你这种让人寒心的家伙，我要把你和凯德拉关卡的其他人类一起杀死！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不管你在想什么，你的目的是不会达成的。<br>埃雷娜，我劝你还是就此收手吧！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "哼！向人类复仇，找到先知，完成任务。<br>这就是我的目标。别妨碍我，快滚开！！",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "……别在这丢人现眼。<br>幻象，你只不过是个渺小的人类罢了。<br><FONT color=#7e12d2>(埃雷娜用轻蔑的眼神看了我一下，然后消失了)</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "干嘛摆出那副表情？<br>\n<FONT color=#387206>{user_nick}</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "是因为无法弄清楚体内的“<FONT color=#a82424>那个人</FONT>”的真实身份，所以感到失望了吗？<br>还是因为那个<FONT color=#a82424>红色鹰身人</FONT>在你面前被有毒物质污染，所以感到很悲哀？",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "这些都不是的话……难道是担心有毒物质会在凯德拉关卡扩散？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "真是无法理解你。<br>你不是已经看到未来了吗？<br>\n投毒的事情会有其他冒险家去阻止，那个叫埃雷娜的黑暗精灵死了。就是这样。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "干嘛摆出一副郁闷的表情……<br>\n不知道。无法理解。<br>\n",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也不知道，露娜莉娅。<br>虽然看到了未来，但这是现在发生的事情，不是吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……我没办法理解。<br><FONT color=#7e12d2>(露娜莉娅静静地看着我)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不管怎样，我们先回去吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n你要回到凯德拉关卡的<FONT color=#a82424>冒险家公会会长戴卡德</FONT>那里去，对吧？<br>\n明白了。我跟你过去。",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n你要回到凯德拉关卡的<FONT color=#a82424>冒险家公会会长戴卡德</FONT>那里去，对吧？<br>\n明白了。我跟你过去。",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "哈……我打算把由于飞艇坠落事件而受伤的王城精锐兵也投入进去……<br>不知道凯德拉关卡今后会怎么样。真让人担心。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "听说埃雷娜被有毒物质污染，之后就消失了。<br>不过喷射出来的毒素还是对凯德拉关卡附近地区造成了威胁。<br>真让人担心。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    }
+  ]
+}

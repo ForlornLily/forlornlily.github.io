@@ -1,0 +1,187 @@
+{
+  "qkname": "没能说出口的话",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（到炙风地狱去吧）</FONT>",
+      "answer": "",
+      "image": "qw_93.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……</FONT><FONT color=#662500>炙风地狱在火焰山。快走吧。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（炙风地狱在火焰山。快走吧。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你这死小鬼，怎么这么晚才来！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃，对不起……可我不是故意的！<br>我不小心穿越到过去了……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9421_qu_01.ogg}<br>什么叫回到过去，这么说你被巨石碑之力卷进去了？<br>哼，没想到你这副小身子骨居然还能完好无损地回来。一般人被巨石碑卷入的话，回来也得变得半疯半傻。你会不会已经疯了……？<FONT color=#7e12d2>（阿尔杰塔凑过来仔细地打量着我的脸）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9421_qu_02.ogg}<br>啊哈哈！还好你没受到影响。据我所知，被巨石碑卷入的人要不就是被困在过去，分不清过去和现实；要不就是会有部分思想变得与女神的思想同步，导致自己无法进行正常的思考；或者失去对自己内心的控制，进而渐渐失去对身体的掌控，变成怪物……呵呵。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃啊啊啊！？</FONT><br><FONT color=#662500>预言都好恐怖！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……巨石碑比堕落之毒更可怕。可你身上留有那条混沌龙的力量，照理说不可能那么容易被卷进去啊……这是怎么回事呢？<FONT color=#7e12d2>（阿尔杰塔紧蹙眉头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，会不会是因为这个？我捡到这个石板后，就突然回到了过去。<br>（递过古代的石板）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "这不就是块力量全被吸干的碎片嘛？你怎么捡回这种垃圾。<br>嗯，靠着这个穿越到过去……这也倒不是没可能。<br>总之，通过这事，让我明白放你一个人瞎溜达真是件很麻烦的事。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9421_qu_03.ogg}<br>这都怪你自己太弱！<FONT color=#7e12d2>（阿尔杰塔扶着额头）</FONT><br>没办法了。以后你就跟我们一起行动吧。唉，这下子我用你这跑腿的还有什么意义嘛？反而还多了个累赘。你就只能当个拎行李的，哼！",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "\n不错不错，你还没忘记奴隶的态度，真值得表扬！你是奴隶的典范。<br>\n我很~满意。<FONT color=#7e12d2>（阿尔杰塔笑得上气不接下气）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "好，那这事就这么定了。<br>\n杰兰特在干什么呢？我为了让他歇歇，派他去迷雾遗址了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他看上去还很疲倦。我见他好像正在休息。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "呼……我就知道是这样。我们得快点，天知道佩达什么时候会跑来。<br>我可不想看见杰兰特再次跟他交手，然后搞得比刚才还狼狈。<br>那先去哪里好呢……<FONT color=#7e12d2>（阿尔杰塔暂时陷入了沉思）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，阿尔杰塔！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（要不要问问她我在过去看见的情景是不是事实？这块封印石……是由古代人们的生命建成的……还有这之后古代人的结果……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "干嘛，有话快说。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（阿尔杰塔好像也因为这事很受伤，我该不该问呢？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9421_qu_04.ogg}<br>你有事要问我吗？有屁快放！我没时间给你磨蹭。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哦，我想问问……古代人的有关事情。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9421_qu_05.ogg}<br>古代人？啊，你……看样子你是看见了关于古代人的记忆。<br>那么，你是不是也看到了关于封印石，或阿罗诺的事？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃，你怎么知道？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9421_qu_06.ogg}<br>……我也看过几次。<FONT color=#7e12d2>（阿尔杰塔咬咬下唇）</FONT><br>那记忆是深深刻在巨石碑中的。因为我给那封印石注入了力量，所以我也常常能看见。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……那帮不理智的家伙。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……（阿尔杰塔……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9421_qu_07.ogg}<br>哼，小鬼，你少给我露出这种怪表情。<FONT color=#7e12d2>（阿尔杰塔扯扯我的脸）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>疼，嗷！好疼，阿尔杰塔啊啊啊嗷……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我在这个世界上已经度过了不知数千年还是数万年，那样的记忆多了去了。你知道这段时间里发生过多少可以证明你们极其愚蠢傲慢的事件嘛？人类这种生物，就算过了那么多年的岁月，也依然没有点长进！精灵也一样！！<FONT color=#7e12d2>（阿尔杰塔紧攥着手）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃哇咔咔咔咔……（我的脸！脸都被你拉长了，阿尔杰塔！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9421_qu_08.ogg}<br>既然你有时间沉浸在过去记忆的悔恨中，不如快点跟过来。我才不管你个子高矮，多得是任务丢给你！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呜，是呃呃呃呃……（脸，脸失去知觉了……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#7e12d2>（阿尔杰塔这才松开我的脸）</FONT><br>你赶快去影子墓穴！我也会过去。",
+      "answer": "",
+      "image": "qw_91.png"
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（脸颊失去知觉了……我一边揉脸，一边前往影子墓穴）</FONT>",
+      "answer": "",
+      "image": "qw_91.png"
+    }
+  ]
+}

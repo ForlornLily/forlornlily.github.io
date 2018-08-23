@@ -1,0 +1,188 @@
+{
+  "qkname": "病情加重",
+  "data": [
+    {
+      "npc": "小龙",
+      "question": "<FONT color=#7e12d2>（小龙抱着头）</FONT> <br>这么长时间的辛苦就这样付之东流了……",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "事情到底该怎么办才好呢，治好你的手臂，救出村民，还有使我变回原来的样子，这一切都取决于那个少女……你怎么不干脆把她打醒。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎么可以打女孩子呢！<br>我以为只要找到萝丝就可以解决所有的问题……可现在，我真不知该如何是好了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "咔！！！我就是这么培养你的吗！越是艰难的时候，就越要懂得观察周围，寻找别的对策！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>师父你什么时候培养我了！不过……你说得也有道理。<br></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "是吧？我说得没错吧！越是这种时候就越要平心静气！好了，你现在出去修炼吧，顺便提高一下自己的心理素质。 <br><FONT color=#a82424>沉没的货船</FONT>正适合现在的你修行。",
+      "answer": "",
+      "image": "qw_46.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "越是这种时候就越要平心静气！好了，你现在出去修炼吧，顺便提高一下自己的心理素质。<br><FONT color=#a82424>沉没的货船</FONT>正适合现在的你修行。",
+      "answer": "",
+      "image": "qw_46.png"
+    },
+    {
+      "npc": "休利亚",
+      "question": "额，<FONT color=#387206>{user_nick}</FONT><br>你怎么才从村子里出来。我找了你好久。 ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>找我？为什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "ndnpc_Suriya_9602_qu_01.ogg}<br>我听说你能进入先知所在的金龙巢穴。<br>你还记得咱们上次说的话吧？我说那个少女是拯救我们的希望。你见到先知了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>见是见过了，可是萝丝并不想从睡梦中醒来。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "ndnpc_Suriya_9602_qu_02.ogg}<br>什么？因为她拒绝从梦中醒来，所以你根本没机会问？<br>你，该不会是跟我撒谎呢吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我没必要跟你撒谎。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "太不像话了，好不容易找到的先知竟然拒绝从睡梦中醒来……<br><FONT color=#387206>{user_nick}</FONT>，你原来不是反对我的意见嘛？还说即使解读了我们的歌，知道了我们长出尾巴和耳朵的原因，也不可能将兽人变回人类。",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "ndnpc_Suriya_9602_qu_03.ogg}<br>你不是故意没问的吧？<br>你如果再敢骗我的话，我绝不会轻饶你！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是的！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "还好吗？你……突然晕倒了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（是因为黑龙之血吗？要不就是因为那药？？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "ndnpc_Suriya_9602_qu_04.ogg}<br>这事决不能就此罢休，<FONT color=#387206>{user_nick}</FONT>！你现在没时间在这磨蹭。<br>必须尽快唤醒先知，问问她解毒的方法才行。",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "否则的话……你说不定连性命都难保。你会突然晕倒，就说明你所剩的时间已经不多了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>恐怕有些困难。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "对于你的状况，你千万不能掉以轻心！我是认真的，你一定要往心里去。<br><FONT color=#7e12d2>（休利亚的表情很沉重）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "ndnpc_Suriya_9602_qu_05.ogg}<br>呼……不过，现在也不是一点希望都没了，所以你先找找治愈你身体的方法吧。我是说让你赶快把先知唤醒。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我都说了，不是我不想唤醒先知！你怎么总是不相信别人！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "好了。你先回去想想怎么快点把萝丝唤醒吧。去和你师父商量商量办法，知道了吗？",
+      "answer": "",
+      "image": "qn_npc_shaolong.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "你见到休利亚了！？咔！还真够巧的！你们都说什么了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（告诉小龙自己晕倒的事）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "我也同意那个休利亚的说法。可是你怎么会突然间晕倒呢……真让人担心啊。<br>那个先知少女是我们的希望，可是她却不想醒过来…… 咱们得赶快想想别的办法才行。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可是他说并没有失去所有的希望是什么意思？我总觉得有些不对劲。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "是啊。应……应该是说先知吧。他可能以为我们已经放弃了唤醒少女，所以才这么说的吧？<br>他的想法挺积极，这不是很好吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>说得容易，又不是他亲自去做。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "啊！对了。王城有人来找过你。<br><FONT color=#a82424>主教伊格纳西奥</FONT>为什么现在还来找你，真让人担心。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，他说如果得到先知的消息会联系我。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你来了？",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "我都找你好半天了，怎么才来……啧啧……",
+      "answer": ""
+    }
+  ]
+}

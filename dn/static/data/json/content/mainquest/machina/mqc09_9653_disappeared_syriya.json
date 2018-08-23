@@ -1,0 +1,82 @@
+{
+  "qkname": "消失的休利亚",
+  "data": [
+    {
+      "npc": "埃提亚·尤斯提亚",
+      "question": "请别这么说。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚·尤斯提亚",
+      "question": "啊……怎么办呢？嗯……你去见见我姐姐吧！<br>她也许可以让你改变想法！",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚·尤斯提亚",
+      "question": "我姐姐去见<FONT color=#a82424>西戴尔</FONT>了。你到<FONT color=#a82424>卡拉秋的草屋</FONT>去，应该就能见到她。",
+      "answer": "",
+      "image": "qn_npc_lencea.png"
+    },
+    {
+      "npc": "夏洛特",
+      "question": "呃啊啊啊……怎么办……我不知道……呜呜。",
+      "answer": ""
+    },
+    {
+      "npc": "夏洛特",
+      "question": "呃啊啊啊啊……<FONT color=#387206>{user_nick}</FONT>……糟了……呜呜……我不知道……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>擦一下鼻子。有什么事慢慢说……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "夏洛特",
+      "question": "因为寻找<FONT color=#a94407>真实之镜</FONT>的事情……呜呜，我正在请西戴尔和博士帮忙……呜呜。",
+      "answer": ""
+    },
+    {
+      "npc": "夏洛特",
+      "question": "呜呜呜……为什么<FONT color=#a82424>兽人</FONT>……啊……在莲花沼泽那样叫他们的话，是很没礼貌的事情！嗯……<FONT color=#a82424>原住民</FONT>出现，从西戴尔那里……呜呜……抢走了装置一样的东西……呃啊啊啊啊。",
+      "answer": ""
+    },
+    {
+      "npc": "夏洛特",
+      "question": "我……我本来想攻击他们，但是西戴尔阻止了我。呃啊啊啊啊啊，西戴尔受伤了。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "啊……这可怎么办呢……",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚·尤斯提亚",
+      "question": "姐姐去见西戴尔了。你到卡拉秋的草屋去，应该就能见到她。",
+      "answer": ""
+    },
+    {
+      "npc": "夏洛特",
+      "question": "呜呜……呜呜……<br><FONT color=#7e12d2>（不管她，先去见见西戴尔吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>听说你受伤了！到底是怎么回事？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我没受什么伤。夏洛特太大惊小怪了。",
+      "answer": "",
+      "image": "qn_npc_lencea.png"
+    }
+  ]
+}

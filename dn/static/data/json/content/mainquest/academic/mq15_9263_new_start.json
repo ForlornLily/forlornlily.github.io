@@ -1,0 +1,156 @@
+{
+  "qkname": "新的开始",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（刚才那个文件到底是什么？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "NT><br><FONT color=#662500>（把百合花远征基地的传送坐标全部加起来。说不定并不难。再去一趟看看吧。）</FONT>",
+      "answer": "",
+      "image": "qw_81.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（难道指的是没有去过的那些地方的坐标吗？还是有漏掉的坐标？额……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（再去一趟百合花远征基地吧。去过的地方也要再去一遍，并把所有的地方都仔细巡查一遍吧）</FONT>",
+      "answer": "",
+      "image": "qw_81.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（数据收集完成。已全部输入并更新。打开文件……文件名[唯一的希望]，作者是……某某人。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "某某人的文字",
+      "question": "这是关于古代龙的资料。<br>是最高等级的机密，如不更新基地地图的数据，将绝对无法查看。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（古代龙的？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "某某人的文字",
+      "question": "古代龙将自己的宝玉分成了3份。古代龙原本是负责守护阿尔特里亚大陆的巨龙。被分开的宝玉里也蕴含了这一使命。",
+      "answer": ""
+    },
+    {
+      "npc": "某某人的文字",
+      "question": "已知的两个宝玉就是杰兰特和阿尔杰塔……在我们的时代，尽管是由贝思柯德携带着宝玉，但这也是最近才发生的改变。他们每个人都肩负着对抗敌人及维护大陆和平的使命。",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "某某人的文字",
+      "question": "还有…… 剩下的一个宝玉原本由黛西保管着。那块宝玉也肩负着一定的使命。那使命就是……",
+      "answer": "",
+      "image": "qn_npc_daisy.png "
+    },
+    {
+      "npc": "某某人的文字",
+      "question": "<FONT color=#a82424>[守护阿尔特里亚里所有的生命]</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（阿尔特里亚里所有的生命？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "某某人的文字",
+      "question": "<FONT color=#2b2723>百合花是个成功的克隆体。为了完成使命，她什么事情都能做的出来。黛西也是一样。正因为如此，她才会选择采取克隆这种极端的手段。</FONT> ",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（怎么会这样……那我也……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "某某人的文字",
+      "question": "<FONT color=#2b2723>尽管百合花十分希望制造出完全符合自己意志的克隆体出来，但都无一例外的失败了。</FONT><br><FONT color=#2b2723>XD-26是和百合花最为接近的克隆体……</FONT><br><FONT color=#2b2723>但当知道这一情况的时，她已经完全背叛了百合花。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "某某人的文字",
+      "question": "<FONT color=#662500>（……）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "某某人的文字",
+      "question": "<FONT color=#2b2723>还有，百合花觉得就算没了她，她的计划也会成功。</FONT><br><FONT color=#2b2723>……其实这种可能性不过是一半一半……她毕竟只是个克隆体。只要发生了她意想不到的事情……</FONT><br><FONT color=#2b2723>...</FONT><br><FONT color=#7e12d2>（后面没有内容了。好像已经写完的样子）</FONT>",
+      "answer": "",
+      "image": "qm_jasmin_black.png "
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……好多我不曾知道的事情呢……原来如此。黛西的使命， 百合花的使命，还有我的使命…….）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（守护这个世界上所有生命……好吧。我不希望这个世界上任何人死亡。不过这不是出于使命感。）</FONT> ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（因为我知道这个世界上的生命都是如何的在认真的生活着，我只是觉得他们不应该就这么消失罢了。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（百合花尽管也是在遵循自己的使命，但是侵略另一个世界这件事本身就是错误的。大家都是在阿尔特里亚大陆上，只是为了一个时代，就去灭亡另外一个时代，这是不正确的。还有……制造克隆体也是……）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_normal.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（我不会走上和百合花一样的道路……但是我会继承百合花的使命。）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（那么现在就去寻找王城的特拉玛依吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#387206>{user_nick}</FONT> 你来了啊。贝思柯德已经走了。他身体突然恢复了健康，就离开了。不久前他还和个要死的人似的，怎么会突然就恢复了呢？他的作风一贯如此，真是让人郁闷，唉。<br>\n<FONT color=#7e12d2>（看来他还不知道是怎么回事）</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "啊，对了，贝思柯德还说让你去阿努阿兰德一趟。尽管不知道为什么……你自己看着办好了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "贝思柯德那家伙和以前一样，就是搞不懂他到底在想什么。<br>阿努阿兰德……那个几乎和人类没有往来的地方到底发生了什么事呢？虽然不想担这份心，但还是让人始终放心不下。<br><br><FONT color=#7e12d2>* [章节外传 2. 代号杰罗]已完成。</FONT>",
+      "answer": ""
+    }
+  ]
+}

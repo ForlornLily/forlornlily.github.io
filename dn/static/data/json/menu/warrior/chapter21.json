@@ -1,0 +1,184 @@
+[
+  {
+    "id": "mqc21_9779_skeleton_box_key",
+    "name": "骨灰盒的钥匙",
+    "qid": "9779",
+    "nextid": "9780",
+    "chapter": "21"
+  },
+  {
+    "id": "mqc21_9780_kairon_island",
+    "name": "卡伊伦岛",
+    "qid": "9780",
+    "nextid": "9781",
+    "chapter": "21"
+  },
+  {
+    "id": "mqc21_9781_vernika_support",
+    "name": "贝勒尼卡的支援",
+    "qid": "9781",
+    "nextid": "9782",
+    "chapter": "21"
+  },
+  {
+    "id": "mqc21_9782_island_barrier",
+    "name": "岛的结界",
+    "qid": "9782",
+    "nextid": "9783",
+    "chapter": "21"
+  },
+  {
+    "id": "mqc21_9783_anguish_grele",
+    "name": "痛苦的格雷尔",
+    "qid": "9783",
+    "nextid": "9784",
+    "chapter": "21"
+  },
+  {
+    "id": "mqc21_9784_cave_barrier",
+    "name": "洞穴里的结界",
+    "qid": "9784",
+    "nextid": "9785",
+    "chapter": "21"
+  },
+  {
+    "id": "mqc21_9785_island_center",
+    "name": "前往岛中心",
+    "qid": "9785",
+    "nextid": "9786",
+    "chapter": "21"
+  },
+  {
+    "id": "mqc21_9786_fishy_impression",
+    "name": "可疑的人迹",
+    "qid": "9786",
+    "nextid": "9787",
+    "chapter": "21"
+  },
+  {
+    "id": "mqc21_9787_question_assistance",
+    "name": "可疑的帮助",
+    "qid": "9787",
+    "nextid": "9788",
+    "chapter": "21"
+  },
+  {
+    "id": "mqc21_9788_beautiful_man",
+    "name": "俊美男子",
+    "qid": "9788",
+    "nextid": "9789",
+    "chapter": "21"
+  },
+  {
+    "id": "mqc21_9789_mysterious_woman",
+    "name": "神秘女人",
+    "qid": "9789",
+    "nextid": "9790",
+    "chapter": "21"
+  },
+  {
+    "id": "mqc21_9790_grele_body_ache",
+    "name": "格雷尔的病痛",
+    "qid": "9790",
+    "nextid": "9791",
+    "chapter": "21"
+  },
+  {
+    "id": "mqc21_9791_glass_bottle",
+    "name": "不腐之瓶",
+    "qid": "9791",
+    "nextid": "9792",
+    "chapter": "21"
+  },
+  {
+    "id": "mqc21_9792_medicinal_herb",
+    "name": "魔力循环草",
+    "qid": "9792",
+    "nextid": "9793",
+    "chapter": "21"
+  },
+  {
+    "id": "mqc21_9793_secret_garden",
+    "name": "秘密庭院",
+    "qid": "9793",
+    "nextid": "9794",
+    "chapter": "21"
+  },
+  {
+    "id": "mqc21_9794_jewel_harmonize",
+    "name": "宝玉融合",
+    "qid": "9794",
+    "nextid": "9795",
+    "chapter": "21"
+  },
+  {
+    "id": "mqc21_9795_vernika_anger",
+    "name": "贝勒尼卡的愤怒",
+    "qid": "9795",
+    "nextid": "9796",
+    "chapter": "21"
+  },
+  {
+    "id": "mqc21_9796_merca_fisherman",
+    "name": "梅尔卡的渔夫",
+    "qid": "9796",
+    "nextid": "9797",
+    "chapter": "21"
+  },
+  {
+    "id": "mqc21_9797_heroine_rica",
+    "name": "女汉子莉卡",
+    "qid": "9797",
+    "nextid": "9798",
+    "chapter": "21"
+  },
+  {
+    "id": "mqc21_9798_irradiation_recovery",
+    "name": "恢复调查",
+    "qid": "9798",
+    "nextid": "9799",
+    "chapter": "21"
+  },
+  {
+    "id": "mqc21_9799_owner_of_clue",
+    "name": "留下线索的主人",
+    "qid": "9799",
+    "nextid": "9800",
+    "chapter": "21"
+  },
+  {
+    "id": "mqc21_9800_rica_proposal",
+    "name": "莉卡的提议",
+    "qid": "9800",
+    "nextid": "9801",
+    "chapter": "21"
+  },
+  {
+    "id": "mqc21_9801_an_unwelcome_reunion",
+    "name": "不愉快的重逢",
+    "qid": "9801",
+    "nextid": "9802",
+    "chapter": "21"
+  },
+  {
+    "id": "mqc21_9802_intelligence_of_the_dead",
+    "name": "亡灵的信息",
+    "qid": "9802",
+    "nextid": "9803",
+    "chapter": "21"
+  },
+  {
+    "id": "mqc21_9803_tail_tail",
+    "name": "接二连三",
+    "qid": "9803",
+    "nextid": "9804",
+    "chapter": "21"
+  },
+  {
+    "id": "mqc21_9804_full_blown_game",
+    "name": "正式游戏",
+    "qid": "9804",
+    "nextid": "",
+    "chapter": "21"
+  }
+]

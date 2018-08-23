@@ -1,0 +1,218 @@
+{
+  "qkname": "何处是归路",
+  "data": [
+    {
+      "npc": "暗影喵",
+      "question": "听说附近有个非常有名的魔法师，应该是卡拉秋喵。",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "据说卡拉秋的草屋就在利物沃特码头那边，我想什么时候过去看看喵。<br>看到比任何人都强！！的暗影喵之后，卡拉秋一定会大吃一惊的喵～！！<br><FONT color=#7e12d2>(暗影喵指着利物沃特码头方向)</FONT>",
+      "answer": "",
+      "image": "qw_liverwortferry.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "力量不是别人可以给予的。<br>自己的不足之处是什么，只能自己去领悟。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳咳……你先获得保护自己的力量再说吧。<br>你去找那边的啰嗦鬼查克博士，就能看到我解读出来的记录了。<br><FONT color=#7e12d2>(* 完成2次转职任务[镜中的影子]之后，可以执行下一阶段。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_bookdoc.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "……现在的你好像比刚才强了一些。<br>虽然还能感觉到不安的气色，但至少不会就那样跪倒在魔物面前了。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "如果你觉得自己的力量足够强了，可以去帮帮<FONT color=#a82424>西戴尔</FONT>。<br>那个孩子认为自己很弱，但其实他的内心很坚强。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "我担心那么坚强的内心反而会毁掉那个孩子。<br>要是那个原住民臭丫头不嚷嚷着要报仇，不做那种无用功就好了……",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "光靠想要帮助别人的一腔热血，到底能走到哪一步呢？",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……烦人的不速之客。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "\n你先到<FONT color=#a82424>利物沃特码头</FONT>去见见其他冒险家。<br>比起一个人，人多一些总是好的。齐心协力并不是什么丢人的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊，你来啦！{user_nick}。<br>你来得正好。<br><FONT color=#7e12d2>(西恩好像很高兴)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>…….</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(身体为什么这么沉……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "嗯～一段时间不见，感觉好像不太一样了嘛。<br>怎么说呢……就像一下子长大了一样。<br>\n哈哈，你一定是在刻苦修行吧？",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "嗯……你应该已经听说了，我们想和西戴尔一起去寻找察提。<br>发现察提的地方是……喂，<FONT color=#387206>{user_nick}</FONT>？你没事吧？<br><FONT color=#7e12d2>(西恩一脸不安地看着我)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>…….</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "ndnpc_Illusion_qu_9345_01.ogg}<br>……那个原住民小丫头跟我没什么关系。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "……嗯？不好意思，你刚才说什么来着……？！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "ndnpc_Illusion_qu_9345_02.ogg}<br>我说跟我没关系。<br>露娜莉娅去哪儿了？回答我，冒险家。",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "<FONT color=#7e12d2>(西恩好像非常担心的样子)</FONT><br>……露娜莉娅……<FONT color=#387206>{user_nick} </FONT>，你是说和你一起的那个女的吧？<br>她刚才往利物沃特村庄废墟方向去了。",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "你和她之间发生什么误会了吗？<br>如果需要我帮什么忙，请尽管……嗯，<FONT color=#387206>{user_nick}</FONT>，你真的没关系吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "ndnpc_Illusion_qu_9345_03.ogg}<br>别管我。走开。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "需要帮助的话，请一定要告诉我。我和其他人一起去找察提了。<br><FONT color=#7e12d2>(西恩冲我招了招手，大声说道)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "ndnpc_Illusion_qu_9345_04.ogg}<br>(利物沃特村庄废墟。<br>露娜莉娅，又想逃走吗？)",
+      "answer": "",
+      "image": "qw_51.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "这是谁啊？<br><FONT color=#387206>{user_nick}</FONT>？还是<FONT color=#a82424>幻象</FONT>？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "ndnpc_Illusion_qu_9345_05.ogg}<br>我跟你没什么可说的，竞技场的骑士。<br>哼哼，现在你好像也没办法卖弄那个冠冕堂皇的称号了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "ndnpc_Illusion_qu_9345_06.ogg}<br>看你狼狈的样子。<br>忠于那个人的结果，就是这个吗？",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……是幻象啊。<br>总之能遇到过去的老相识，看来我是活了太长时间了。<br><FONT color=#7e12d2>(贝思柯德嘲笑道)</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你又回来了吗？还是一直活到现在？<br>穿越时间什么的，过去和现在我都不完全相信。不过确实是很奇怪的能力。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "ndnpc_Illusion_qu_9345_07.ogg}<br>我有要找的东西。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "是执着吗？<br>或者只是<FONT color=#a82424>迷恋</FONT>呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "ndnpc_Illusion_qu_9345_08.ogg}<br>没想到会从“<FONT color=#a82424>那个</FONT>”竞技场的骑士嘴里听到这种话。<br>好了，你这位不过是迷恋的老相识，快去走自己的路吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……是控制了我的身体的幻象吗？<br>但是现在我好像无法再压制住幻象了。为什么？)</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(在纯粹之镜中，我撞到了幻象，还以为完全把他压制住了。<br>为什么……？)</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "ndnpc_Illusion_qu_9345_Add_01.ogg}<br>……是因为实力的差距。<br>愚蠢的家伙。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……什么！？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "ndnpc_Illusion_qu_9345_09.ogg}<br>……露娜莉娅。<br>逃到哪里去了？",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "徒弟！！快过来喵！<br>你知道暗影喵老师我发现什么了吗喵？新的……鲣鱼……喂……喵喵喵？！",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "喵喵喵……<br><FONT color=#7e12d2>(暗影喵垂下耳朵，歪了歪脑袋)<br></FONT>徒弟，你真的是我徒弟吗喵？",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(现在的我不是我！<br>可恶……幻象好像还在寻找露娜莉娅。)</FONT>",
+      "answer": ""
+    }
+  ]
+}

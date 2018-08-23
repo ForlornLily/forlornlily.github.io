@@ -1,0 +1,239 @@
+{
+  "qkname": "未被邀请的客人",
+  "data": [
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "……真是奇怪的家伙……",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "好，那你就把这些材料交给西戴尔吧……<br>他会为你制作治疗剂的。<br>……忙碌起来的话，就能快点忘掉讨厌的事情了吧……",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "你来了……治疗药……啊对了，必须得制作治疗药……<br><FONT color=#7e12d2>（西戴尔似乎还沉浸在悲伤之中）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>西戴尔……你还是很难过啊……但是，其他原住民们仍然承受着痛苦。<br>所以……我们现在应该做我们力所能及的事情。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "力所能及的事情……如果这个药也能救察提就好了……<br>那个时候，我没有去做我本来能做的事情……我……什么都做不到……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（没自信安慰别人……必须说点什么……唔……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#7e12d2>（西戴尔似乎突然下定了某种决心）</FONT><br>我想亲自见见原住民们。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……？！呃、嗯？！怎么突然……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我想亲自确认一下。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>西戴尔——！！西戴尔突然要去哪里啊？！！<br>（不知道为什么有点不安。快追上西戴尔吧。他好像想去龙之追随者据点</FONT><FONT color=#662500>）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（跟在西戴尔后面吧。他好像想去龙之追随者据点）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "真意外……<br>没想到会在这种地方遇到你。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>咦？是你？！你为什么会在这里？<br>啊，对了，西戴尔……嗯，刚才有个男孩经过了这里，你看到他了吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "哼。我必须知道西戴尔是谁吗？<br>说起来，你究竟在做什么啊，到处跑来跑去的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我？我有很多事情……最近发生了非常悲伤的事情……西戴尔的朋友察提因为</FONT><FONT color=#a82424>绿龙宝玉</FONT><FONT color=#662500>而死了……这都怪卡拉翰那个坏家伙！！但是，那个人好像给原住民制作了药，我都搞不清楚他究竟是好人还是坏人了。卡拉秋说，他这样做是别有目的……啊，对了！卡拉翰是卡拉秋的哥哥……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>（贝思柯德皱着眉头一脸不耐烦）</FONT><br>……我在追<FONT color=#a94407>使徒卡拉翰</FONT>时，感觉到了<FONT color=#a94407>混沌龙的气息</FONT>，所以就到这里来了。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#a82424>使徒卡拉翰</FONT><FONT color=#662500>？！！卡拉翰是使徒？！！那他真的是坏人！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你最开始不是说西戴尔的朋友因为卡拉翰而死了吗？<br>你究竟在这里做什么？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……埃提亚说弱小不是罪过……如果想变强大的话……真正地变强的话……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "啧，真是有趣的说法。<br><FONT color=#7e12d2>（贝思柯德的脸扭曲了）</FONT><br>没错，弱小不是罪过。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "弱小是诅咒。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……啊，这、这……？！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……废话说太多了。<br>卡拉翰已经拿到了<FONT color=#a94407>绿龙宝玉</FONT>的话……接下来就该汇聚唤醒宝玉的力量了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我虽然不知道具体是怎么回事，但我上次看到伊格纳西奥带着先知在进行仪式。<br>而且，卡拉翰好像已经得到了什么……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "先知的力量……？那他下一个目标应该就是<FONT color=#a82424>遗迹</FONT>了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>遗迹？ </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "是的，他肯定想破坏遗迹，吸收遗迹的气息。<br>你如果也想追卡拉翰的话，最好去他觊觎的<FONT color=#a82424>遗迹</FONT>找找。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡拉翰觊觎的遗迹……我明白了。但是我要先去找西戴尔。<br>西戴尔因为察提死了，一直都很消沉……这样下去很危险！</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……真是为情所困的愚蠢人类。<br>我不想听再听垃圾的故事了。你随便吧。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>（贝思柯德拒绝再对话。最好继续追踪西戴尔的痕迹）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "啊……原来你跟着我啊……<br>抱歉……让你为我担心了……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你为什么突然来这里？你想做什么吗……啊好可怕！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "做什么……？<br>我能做什么呢……？ <br>我哪有那么大的力量……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不要轻视自己，西戴尔！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "该死……！！我什么都不能为察提做！<br>而且，凭我现在的力量，我连卡拉翰都打不过！<br>难道我要向身体不适的老师求助吗？！",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，我知道你很善良。可是……<br>不管怎样，我都一定要替察提报仇……所以，你别管我了。<br><FONT color=#7e12d2>（西戴尔似乎不想再说话了。去见卡拉秋吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "别管我……<br><FONT color=#7e12d2>（西戴尔似乎不想再说话了。去见卡拉秋吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "我看到你和西戴尔出去了。<br>究竟发生了什么事？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>西戴尔……他因为察提的死，整个人都很不对劲。他还说一定要报仇……我怕他做什么傻事，所以很担心……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "他怎么就是放不下那丫头呢……<br>不过，这也不完全是一件坏事。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "西戴尔虽然是个出色的孩子，但至今为止他还没有明确的目标或目的，所以还没有激发自己内在的潜能。<br>但是，现在他可以了……卡拉翰这个目标将成为让西戴尔快速成长的跳板。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是吗？这样的话虽然很好……啊！对了，我还遇到了</FONT><FONT color=#a82424>贝思柯德</FONT><FONT color=#662500>！<br>他以前曾经是您的同伴，您应该认识他吧，那个贝思柯德！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你说<FONT color=#a82424>贝思柯德</FONT>出现了……？<br>看来莲花沼泽果真要经历一场灾难了，紧随卡拉翰之后，就连那个叛徒也跟着出现了。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "更重要的是，卡拉翰既然已经把察提的宝玉抢走，说不定是想做什么坏事。<br>我会看着西戴尔的，你先去阻止卡拉翰吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "卡拉翰一定是想去遗迹获取力量。<br>\n你快去<FONT color=#a82424>古代图书馆西边</FONT>看看。",
+      "answer": "",
+      "image": "qw_56.png"
+    }
+  ]
+}

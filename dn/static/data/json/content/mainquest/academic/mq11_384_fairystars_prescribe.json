@@ -1,0 +1,219 @@
+{
+  "qkname": "这是佩奥里斯塔的处方",
+  "data": [
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "哈哈哈哈～终于能够展示魔法师的力量啦！哦吼吼～",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……<br><FONT color=#7e12d2>（贝思柯德包裹着伤口，闭着眼睛）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_03.ogg}<br>事情进展得如何？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（报告情况）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_03.ogg}<br>原来如此。既然已经找到<FONT color=#a82424> 贝思柯德</FONT>，那我就安心了。<br>但是……他不可能会轻易协助我们的。<br><FONT color=#7e12d2>（听到姐姐的叹息声）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "在我们这里，贝思柯德在任何人眼中都是堂堂正正的守护者，为什么那时的他会是人类的敌人呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好像是为了报仇。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "报仇？向谁报仇？<br>……他的话不多，所以没人知道他的过去。<br>只凭借历史记录，无法了解事情原委。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>姐姐你也不知道啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "很遗憾，我确实也不知道。他实在是太沉默寡言了。<br>嗯，既然已经找到了贝思柯德，那<FONT color=#a82424>先知</FONT>现在怎么样了？<br>一直沉睡，还没有睁开眼吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的，还没有。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "就没有什么好办法吗？先知应该知道巨石碑的事情。<br>对了，<FONT color=#a82424>王城</FONT>会一直那样放任先知吗？不会想办法唤醒先知吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我去王城看看。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_06.ogg}<br>好的，你去王城询问有没有唤醒先知的方法。<br>嗯……说不定<FONT color=#a82424>魔法师</FONT>会有什么办法呢。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "\n必须快点唤醒先知才行。<br>\n我查找下记录，你稍等下。<br>\n <br>\n<FONT color=#7e12d2>*达到Lv32以上才能继续进行任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "哈哈哈哈~<br>终于能够展示魔法师的力量啦，哦吼吼吼~！！",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……你知道了就退下吧，小鬼。<br><FONT color=#7e12d2>（请链接神圣天堂的学者站台，向姐姐报告）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br><FONT color=#7e12d2>▷请到王城搜集情报。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "等我恢复之后，我会完成我要做的事情，然后离开。<br>你不要在干预我的事情了。",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "你为什么在这种地方瞎转悠？小冒险家！<br>……天啊？我这么说又不是让你离开！真是不识趣的家伙，哼。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你好。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "我听说<FONT color=#a82424>先知</FONT>陷入了沉睡，一直都没有醒来。哦吼吼吼~<br>当然，我宫廷魔法师卡拉安早就知道啦。哦吼吼~",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是真的吗？你怎么知道的？！</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "我说知道就是知道。为什么要追问这么多？问这么多问题可就不可爱啦。<br>这不是关键。我<FONT color=#a82424>唤醒先知的方法</FONT>！这才是重点！！",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你有唤醒先知的方法？</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "哦吼吼吼。你以为我空口说大话的人吗？<br>你给你个机会，让你亲眼目睹佩奥里斯塔的惊人能力。怎么样，很期待吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真的吗？！谢谢你！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "没错。看来你知道点什么吧。哦吼吼吼~<br>好了，你先到<FONT color=#a82424>孤岛中心</FONT>帮我搜集些梦幻草。",
+      "answer": "",
+      "image": "qw_33.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的！我知道了。</FONT>",
+      "answer": "",
+      "image": "qw_33.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "只要消灭<FONT color=#a82424>孤岛中心</FONT>的强大魔物，就能获得梦幻草。<br>梦幻草是魔物肚子里的发酵物。<br>哦吼吼，我来为你展示佩奥里斯塔的伟大力量！",
+      "answer": "",
+      "image": "qw_33.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "嗯，看你长得病怏怏的，还蛮有用的嘛？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>要用这个来做什么呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "你干嘛这么着急？沉睡的先知还会逃跑吗？<br>从现在开始，我要用梦幻草制作<FONT color=#a82424>梦粉</FONT>。<br>你知道什么是梦粉吗？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，不知道……</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "哦~ 吼吼吼。我来教你，你仔细听好了。<br><FONT color=#7e12d2>（卡拉安装作很了不起）<br></FONT>这是<FONT color=#a82424>进入沉睡者梦中的魔法粉末</FONT>。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "一直沉睡肯定是沉睡者精神上出了问题，因此直接进入沉睡者梦中去询问最为快捷。<br>也很方便。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "这是我特意为你制作的，你应该觉得荣幸！<br><FONT color=#7e12d2>（卡拉安将各种调料撒在梦幻草上）<br></FONT>虽然闻起来很香，但你可不能吃哦，知道了吗？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我才不吃呢……</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "给，都好了。<br><FONT color=#7e12d2>（递过一撮粗略研磨后香味扑鼻的梦幻草）<br></FONT>你拿走吧。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

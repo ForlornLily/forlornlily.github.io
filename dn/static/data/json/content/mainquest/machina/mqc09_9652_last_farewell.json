@@ -1,0 +1,207 @@
+{
+  "qkname": "最后的问候",
+  "data": [
+    {
+      "npc": "小龙",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你的手臂怎么了？",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "看来必须和西戴尔说一下具体的情况才行。<br><FONT color=#7e12d2>（到卡拉秋的草屋去吧）</FONT>",
+      "answer": "",
+      "image": "qw_karakule_house.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我让你去阻止休利亚，并没有让你自己去拿。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……没事。反正现在已经拿到了。呃……我用布裹好了，应该没事。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我已经做好了可以为你治病的<FONT color=#a82424>净化装置</FONT>。你试试看吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不想接受治疗！好了，快收下碎片。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "哎呀，这是怎么回事！！！你的手臂怎么又变成了这个样子！",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚·尤斯提亚",
+      "question": "姐姐最近好像非常辛苦。<br>不过帮助泰兰斯·特拉玛依是件让人快乐的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "为什么要这样做……！<br><FONT color=#7e12d2>（先去和西戴尔对话吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "你还想固执下去吗？<br><FONT color=#a82424>休利亚</FONT>已经来了。你去和他谈谈，相信你一定会改变想法的。",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "别固执了。去接受<FONT color=#a82424>西戴尔</FONT>的治疗吧。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>别说傻话。必须有那个碎片……才能实现你的梦想。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "但是我不想用你的生命去交换！<br>我没能守护你的梦想。你们村里的人也……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你是说你可以死……我就不能死了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "我没事。我本来就做好了为梦想牺牲生命的打算。<br>但是你……你的梦想就是活下去，不是吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>又来说这种话！笨蛋！呃呃，你还有巴奥兽人团，还有洛西塔。<br>你有很多需要守护的东西。但是……我没有。我只有一个人，呃……所以没关系。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "不要。我……不要你死。<br>你也有必须守护的东西！你说过，你妈妈临死之前让你好好活下去……",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "要是你死了的话，<FONT color=#a82424>柯里塔村</FONT>就会被人遗忘。你是柯里塔村唯一的幸存者。<br>现在还不晚！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>看来你比我想象的要心软。<br>呃……我想看看师父的脸。你让……师父……来看看我……</FONT>",
+      "answer": "",
+      "image": "qn_npc_shaolong.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "啊啊，你到底是怎么回事！！！！手臂怎么又变成了这个样子！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（讲述有关陨石中心碎片的事情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "ndnpc_Shaolung_9652_qu_01.ogg}<br>咔，所以陨石核心碎片的量太少……如果救了你，就再也干不了其他的了？<br>要想实现我们的愿望，还得需要更长的时间……？",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "ndnpc_Shaolung_9652_qu_02.ogg}<br>……嗯？看来没有别的办法了。<FONT color=#387206>{user_nick}</FONT>你应该也有心理准备，为了<FONT color=#a94407>大义</FONT>，你可能只有一死了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>唉……师父果然只想着自己的梦想……呃……不过我有个请求。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "说吧。如果我能做到的话，就答应你。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>请把碎片……用来拯救其他人……而不是用来改变我们同胞的外貌。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>虽然不知道有没有用……希望……能帮到先知……还有阿尔杰塔……呃呃……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "ndnpc_Shaolung_9652_qu_03.ogg}<br>别担心，呼……你把我当成师父，在面对死亡之前来找我，可我却只能对你说这些话，我觉得很惭愧。可是<FONT color=#387206>{user_nick}</FONT>，身为一名武者，就是要随时做好为大义牺牲的准备。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "\n我相信你一定会改变自己的想法。"
+    },
+    {
+      "npc": "小龙",
+      "question": "最后……你想去见见<FONT color=#a82424>埃提亚</FONT>吗？听说她们姐妹还在<FONT color=#a82424>神圣天堂</FONT>。相信对你来说可能会是一种安慰。",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "埃提亚·尤斯提亚",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，好久不见。<br>哎呀，你的手臂……怎么回事？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（讲述了事情的始末）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚·尤斯提亚",
+      "question": "<FONT color=#a82424>小龙</FONT>是这么说的？怎么能这么说呢……<br>我认为<FONT color=#a94407>人的生命</FONT>比大义更加重要。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚·尤斯提亚",
+      "question": "牺牲一个人的生命，以此拯救世界，是真善吗？<br>请马上接受治疗。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（默默地摇了摇头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚·尤斯提亚",
+      "question": "为什么……啊……太可怜了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>之前……我为了让自己活下来……杀了太多的人……呃……<br>看到休利亚决定为了让大家活下去而牺牲……我终于觉悟了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>要是我没有执着地想要活下来的话……大家也许就能活下来了。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚·尤斯提亚",
+      "question": "请别这么说。",
+      "answer": ""
+    }
+  ]
+}

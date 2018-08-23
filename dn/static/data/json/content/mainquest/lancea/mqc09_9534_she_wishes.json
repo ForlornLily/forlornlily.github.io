@@ -1,0 +1,196 @@
+{
+  "qkname": "她的希望",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "姐姐这次很快就回来了，真开心，嘻嘻……",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "可是姐姐你怎么满身泥啊？<br>你是坐在地上观察蚂蚁吗？嘻嘻嘻……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没有！我是观察脚印！<br>埃提亚，</FONT><FONT color=#662500>凯伊</FONT><FONT color=#662500>有联络过你吗？</FONT>",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "嗯？我没有他的消息啊。<br>凯伊哥哥怎么啦？<br><FONT color=#7e12d2>（将凯伊发脾气后消失的事情告诉埃提亚）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "啊……凯伊哥哥是这样想的啊……<br><FONT color=#7e12d2>（埃提亚无意识地抚摸着凯伊送的胸针）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9534_qu_01.ogg}<br>哥哥……总是得不到别人的认可，只能在背后行动……<br>而且，他总是尽力帮助我们……可是，对我来说姐姐是第一位的，所以没有办法……<br><FONT color=#7e12d2>（埃提亚的表情变哀伤了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "……啊，虽然没有凯伊哥哥的消息，但先知来找过姐姐。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>先知？有什么事吗？</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐先把衣服上的泥擦干净再说正事吧。</FONT><FONT color=#662500><br><br></FONT><FONT color=#7e12d2>※需达到54级后和埃提亚对话。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "这个嘛，我没有听到具体是什么事情……不过她说她在神圣天堂的</FONT><FONT color=#a82424>王城地下</FONT><FONT color=#2b2723>，姐姐过去看看吧。</FONT>",
+      "answer": "",
+      "image": "qw_sainthaven_inside.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "你来了……<br>不过你怎么全身都是泥，是坐在地上观察蚂蚁了吗……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这全都是因为</FONT><FONT color=#662500>凯伊</FONT><FONT color=#662500>！<br>对了，最近特拉玛依和先知你们都不管凯伊了吗？<br>他来找我，发了好一顿脾气呢！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "……他发脾气后跑掉了？<br><FONT color=#7e12d2>（把凯伊的事情告诉萝丝）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "原来<FONT color=#a82424>凯伊</FONT>还有这样的苦衷啊……<br>或许凯伊也憧憬着普通人的生活啊……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>普通的生活？可是他好像是因为没有受到特殊待遇而闹脾气啊？ </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "呵呵……也可以这么认为。<br>但是，凯伊毕竟不能像<FONT color=#387206>{user_nick}</FONT>一样，正大光明地得到大家的认可，他也想过普通十几岁少年的生活吧……？<br>他只能在暗中独自承担沉重的使命……",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "我也……如果力量消失的话，我也能重新回到普通少女的生活了吧……？<br>我好想念爷爷和莉莉……",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "啊……对了，我叫你来是和爷爷的事情有关。<br>我担心爷爷和莉莉的情况，所以打听了一下普雷利镇那边的消息……爷爷的身体好像还是不太好。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你的爷爷吗？那么应该给他送点药去吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "我听说<FONT color=#a82424>神圣天堂</FONT>有一种对爷爷的病很好的药草，我想给他送一点过去。<br>我也知道，现在这种时期不该拜托你做这种事情……可是，我真的很担心爷爷……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>现在这种时期有什么关系嘛！治疗生病的人才是大事！<br>那么，在神圣天堂哪里可以找到这种药草呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "<FONT color=#7e12d2>（萝丝的脸色稍微变明朗了）</FONT><br>听说以前在神圣天堂那边很容易找到<FONT color=#a82424>古老的蔓藤</FONT>。可是不知什么缘故，最近几乎都快消失了。所以现在只能从<FONT color=#a82424>陨石坠落地中心</FONT>的魔物身上才能找到。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "请你去<FONT color=#a82424>陨石坠落地中心</FONT>搜集<FONT color=#a82424>古老的蔓藤</FONT>。有了这个的话，爷爷的身体一定会好起来的。",
+      "answer": "",
+      "image": "qw_63.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你还是老样子……跟以前一样，还是风中草，两边倒。<br>现在也该少做点那样的蠢事了吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！贝思柯德？<br>我到处找你都没看到你，你怎么在这里？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "这么说来，你还被那个<FONT color=#a94407>假古代人</FONT>的话骗得团团转？<br><FONT color=#a82424>特拉玛依</FONT>那家伙本来从以前开始就是盲目疯狂的信徒，就不用说了。你这家伙，看来女神创造你的时候只在脸蛋上下功夫，忘了给你装脑子了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>先知只是力量变弱了！<br>她说其实自己只是平凡的少女……如果力量消失的话，她想回到爷爷和莉莉身边！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "是啊，笨蛋们都是口里喊着正义最后自取灭亡。<br>等你受骗了，可别哭着来找我。快滚吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呜……呜……贝思柯德是笨蛋、傻瓜、海参、海葵……卡拉秋的缓解剂！<br>像你这种不关心世界和平的人，柯梅里纳还帮你，我真是替他不值！ </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>（贝思柯德愣住了，很快脸变扭曲了）</FONT><br>啊哈？你这垃圾在胡说什么呢？",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "哼，你能说说除了什么正义、和平之外更现实点的东西吗？<br>在我看来，你和特拉玛依只是想解决巴尔纳的问题吧？",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……有个人应该对巴尔纳很了解。<br>如果你能不碍手碍脚的话，就到<FONT color=#a82424>异变栖息地</FONT>来。",
+      "answer": "",
+      "image": "qw_59.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（可以相信贝思柯德的话吗？他总说先知是假的……</FONT>去找<FONT color=#662500>埃提亚</FONT><FONT color=#662500>商量一下吧！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你来不来都跟我没关系，但你最好给我守规矩点。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "啊，姐姐！",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "你见到先知了吗？",
+      "answer": ""
+    }
+  ]
+}

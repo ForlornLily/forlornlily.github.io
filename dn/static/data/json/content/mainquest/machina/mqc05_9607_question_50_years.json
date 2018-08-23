@@ -1,0 +1,263 @@
+{
+  "qkname": "50年前的疑问",
+  "data": [
+    {
+      "npc": "戴维",
+      "question": "你这家伙要认认真真地听<FONT color=#a82424>杰兰特</FONT>所说的。<br>（<FONT color=#7e12d2>需要再返回一趟王城了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我隐约听到<FONT color=#a82424>王城</FONT>里有人在谈论你的名字。",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "我已经和<FONT color=#a82424>精锐士兵</FONT>说了，怎么还没来？那个冒险家……",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "嗯，也是时候该来了……嗯。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我隐约听到<FONT color=#a82424>王城</FONT>里有人在谈论你的名字。",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "我已经和<FONT color=#a82424>精锐士兵</FONT>说了，怎么还没来？那个冒险家……<br><FONT color=#7e12d2>（斯塔西好像在等谁）</FONT>",
+      "answer": "",
+      "image": "qn_npc_elite_soilder.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "……50年前的那件事，我现在还历历在目。<br>他现在就在这里，虽然我很想问问……",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "啊！！你来得正好。我正等你呢。<br>有人想见见你<FONT color=#387206>{user_nick}</FONT>，让我一定要转告。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>是谁呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "是<FONT color=#a82424>纹章学者斯塔西</FONT>。其实……他一直在研究龙族。所以他说想要见见冒险家你。",
+      "answer": "",
+      "image": "qn_npc_scholar_starshy.png"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "你见过<FONT color=#a82424>纹章学者斯塔西</FONT>了吗？<br>他对龙族进行了长时间的研究，现在好像有事找你。",
+      "answer": "",
+      "image": "qn_npc_scholar_starshy.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "你终于来了。我等你等得已经望眼欲穿了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>有什么事吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "虽然消息还没有被广为流传，但我个人经常出入王城，对整个事情的经过已经了解得差不多了。<br>好吧，听说现在王城里……<br><FONT color=#7e12d2>（</FONT><FONT color=#7e12d2>斯塔西环顾着四周）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>王城里……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "嗯嗯。那边总有<FONT color=#a82424>精锐士兵</FONT>往来，让人很不放心。<br>我就简单说了，我需要件东西，请你先接受我的委托。<br>其他的事等你回来我再告诉你吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>好吧。我要怎么做呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "你去<FONT color=#a82424>沉没的货船</FONT>帮我搜集一个<FONT color=#a82424>黑暗精灵的项链</FONT>。传闻说它就混在沉没的货船中的宝物里。一想到那样一个难得的物件竟然被海盗随意乱放……真让人伤心。",
+      "answer": "",
+      "image": "qw_46.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "那是<FONT color=#a82424>沉没的货船里的黑暗精灵的项链</FONT>。也许在一个非常厉害的怪物身上。",
+      "answer": "",
+      "image": "qw_46.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "<FONT color=#2b2723>你果然拿回来啦！</FONT>听说<FONT color=#a82424>黑暗精灵</FONT>的城市遭到了海盗的攻击，看来这是确凿的证据了。工匠的技术十分精细，深入研究的话，一定会发现其他价值的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你说想问的是什么呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "<FONT color=#7e12d2>（斯塔西看了看四周）</FONT><br>\n嗯……<FONT color=#7e12d2>（压低声音，小声说）</FONT><br>我听说……<FONT color=#a82424>金龙</FONT>在王城的地下，正在那里守护先知。这是真的吗……？",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "嗯，还不是时候。虽然前往黑暗大君主的关卡的士兵中流传着目击之谈，但那种说法却由军队和王城<FONT color=#a82424>控制</FONT>着。也许，那是被<FONT color=#a82424>斯图尔特公爵</FONT>美化成佳话后公布出来的。<FONT color=#7e12d2>（斯塔西冷嘲热讽着）</FONT>",
+      "answer": "",
+      "image": "qn_npc_duke_stwart.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "愚昧的人们啊。龙族可不是以人类的尺度可以衡量的存在。就连50年前的<FONT color=#a82424>六大英雄</FONT>也是如此。<br>当他们亲眼见到<FONT color=#a82424>金龙</FONT>现身之后，便大为动摇。因为那就是刚刚还在一起并肩作战的同伴呀。",
+      "answer": "",
+      "image": "qn_six_heroes_silhouette.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "卡拉秋和巴尔纳声称遭到了背叛，非常愤怒。<br>于是陷入混乱的人类便隐藏了六大英雄的统帅<FONT color=#a82424>杰兰特</FONT>就是<FONT color=#a82424> 金龙</FONT>的事实。",
+      "answer": "",
+      "image": "qn_npc_geraint_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你知道杰兰特的真实身份？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "实不相瞒，我也不敢相信当时眼前的情景。打那之后，我便开始努力研究起<FONT color=#a82424>龙族</FONT>来了，可随着研究的深入，我所遇到的谜团就越多。不管怎样，因为手上的信息实在是太少了，这也难免。所以……<FONT color=#7e12d2>（斯塔西眼中放射出光芒，猛地抓住肩膀）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "现在好不容易<FONT color=#a82424>可以和龙对话</FONT>，不是吗？！这样的事一辈子也难遇！不，说不定再也不会有这样的机会了！<br>所以你去找<FONT color=#a82424>杰兰特</FONT>，替我问他几个问题吧。就拜托你了！",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>嗯……我可以帮你问问……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "谢谢你！真的非常感谢！<FONT color=#7e12d2><br></FONT>那你去帮我问问，龙是怎么形成的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>怎么形成……？什么意思？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "我认为50年前和这次的黑龙都是 <FONT color=#a82424>利用古代人的力量而形成的产物</FONT>。虽然这原本只是我的推测，而近来，我已经可以确信了。所以，我想知道其他的<FONT color=#a82424>龙</FONT>是不是也是通过这种方式形成的。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "\n而且……我还有一事相求。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>什么事？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "就是高级弓箭手伊西莉安，她也是50年前黑龙之战的参与者。她虽然一直忍着没说，但也有很多问题想要询问杰兰特。我那时也得到了她的不少帮助……所以，你去问问伊西莉安有什么问题想要询问杰兰特吧。",
+      "answer": "",
+      "image": "qn_npc_archer_ishilien.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "<FONT color=#2b2723>你去问问高级弓箭手伊西莉安吧。她一定也有很多疑问。只要是那时参加过战斗的人应该都……</FONT><br><FONT color=#7e12d2>（</FONT><FONT color=#7e12d2>去找高级弓箭手伊西莉安吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "我都听斯塔西说了。<br>很久以前就想见的<FONT color=#a82424>那个金龙</FONT>现在就在神圣天堂的王城。还有……<FONT color=#387206>{user_nick}</FONT>，只有你才能见到他。",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "50年前，我在<FONT color=#a82424>纳尔希亚</FONT>女王……<br>她当时叫<FONT color=#a82424>内尔文</FONT>，我在她的率领下参加了与黑龙的战斗。",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "一直都以为那是一支由人类和精灵组成的联军，可突然出现的<FONT color=#a82424>龙族</FONT>让所有人都陷入了混乱。",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "<FONT color=#a82424>金龙</FONT>，就在被推选为统帅的<FONT color=#a82424>杰兰特</FONT>变身为龙的时候，所有人都惊讶不已。战争结束后，卡拉秋和巴尔纳都谴责他是个叛徒。",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "<FONT color=#a82424>杰兰特</FONT>曾经是我们的<FONT color=#a82424>统帅</FONT>，所有人都很相信他，喜爱他。我想也正是因此，当卡拉秋和巴尔纳得知他的真实身份后才会大怒。<br>被原本当做是同伴的人，欺骗了……在这种想法下。",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "那时，有很多伤亡。<br>可是<FONT color=#a82424>杰兰特</FONT>却什么话都没说，就那样消失了。<br>和<FONT color=#a82424>阿尔杰塔</FONT>一起，没有任何道歉也没做任何解释，就离开了。<br><FONT color=#7e12d2>（伊西莉安的声音有些颤抖）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "对于剩下的人来说，比起严重的病情，所遭受的背信弃义之感更让大家痛苦不堪。大家都有一种被利用被抛弃的感觉。不过，随着<FONT color=#a82424>黑龙</FONT><FONT color=#2b2723>之血的污染蔓延开来，大家便无暇顾及那种背叛感了。因为对污染的治疗迫在眉睫。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "内尔文也在<FONT color=#a82424>黑龙</FONT>之血的污染下受伤很重，被紧急送往了<FONT color=#a82424>阿努阿兰德</FONT>。<br>就在被送走之前，她还说想要知道杰兰特的真实情况。<br>想知道他们两位那时想要做什么……",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "拜托你了，请帮我和内尔文解开这么久以来心中的疑惑吧。<br>帮我问问他们两位这段时间到底做了什么。",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "拜托你了。<br><br><FONT color=#7e12d2>（去找王城地下的杰兰特吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……看样子你有话要对我说。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的。我受斯塔西和伊西莉安所托。</FONT>",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "qkname": "根源的意义",
+  "data": [
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9292_01.ogg}<br>森林的魔物们吗…那就能理解了。<br>正好特里亚纳传来了不好的消息呢。说女王候补正在被杀害。",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅的尸体",
+      "question": "<FONT color=#7e12d2>(阿洁丽雅的尸体正要变成沙子散掉。</FONT><br><FONT color=#7e12d2>到底在发生什么事呢，回到阿努阿兰德关卡交谈吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "啊，你也见过那个精灵吧? <br>名字叫啥来着。阿杰…什么来着。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>阿洁丽雅?</FONT>",
+      "answer": "",
+      "image": "qn_npc_azelia.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "是啊。说那个精灵死掉了。<br>不知道是不是第一次见到关系好的精灵死掉，我竟然见到了精灵慌张的样子哦?",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9292_02.ogg}<br>特里亚纳似乎没能仔细查看尸体。<br>尸体可能还在，你能去看一下吗? ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>尸体还在吗?<br>在精灵之森死掉不是早就变成了树木了吗。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "说不定真是那样呢?所以你给我快点。<br>按特里亚纳所说，尸体在<FONT color=#a82424>黄金草原</FONT>的某处。",
+      "answer": "",
+      "image": "qw_78.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<br>按特里亚纳所说，尸体在<FONT color=#a82424>黄金草原</FONT>的某处。",
+      "answer": "",
+      "image": "qw_78.png"
+    },
+    {
+      "npc": "阿洁丽雅的尸体",
+      "question": "<FONT color=#7e12d2>(阿洁丽雅的尸体正要变成沙子散掉。再仔细观察吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅的尸体",
+      "question": "<FONT color=#7e12d2>(尸体的手中握着小小的碎片)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "阿洁丽雅的尸体",
+      "question": "<FONT color=#7e12d2>(发现了阿洁丽雅紧攒着的小石碎片。</FONT><br><FONT color=#7e12d2>拿去给阿尔杰塔看看吧)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9292_03.ogg}<br>被杀害的精灵正拿着这个吗?<br>这是我们上次丢失的遗物的一部分嘛?",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是。似乎是萝丝琳德拿着的遗物。</FONT><br><FONT color=#662500>还有阿洁丽雅的尸体正在变成沙子。</FONT>",
+      "answer": "",
+      "image": "qn_npc_rosalin.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "因为死在了失去根源的森林里吧。<br>让精灵陷入永眠的新月森林，其实就是通过森林的根源得到生命之树的力量的森林而已。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "话说回来使徒们正趁着女王选举会议抢夺遗物啊。<br>被隐藏的森林的根源在女王选举会议时会现出原形的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>森林的根源对精灵来说不是很宝贵的东西吗?<br>被萝丝琳德就这么拿走没关系吗?</FONT>",
+      "answer": "",
+      "image": "qn_npc_rosalin.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "呃... 我是没什么关系啦但精灵肯定是有关系吧。<br>在没有根源的森林中，幼小的精灵是无法成长的，落果精灵就是那么诞生的。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "失去女王候补，又失去森林。精灵长老到底在干什么呢?",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

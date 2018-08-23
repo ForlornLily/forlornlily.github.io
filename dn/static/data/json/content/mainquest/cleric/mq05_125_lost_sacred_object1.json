@@ -1,0 +1,140 @@
+{
+  "qkname": "抢走的东西Ⅰ",
+  "data": [
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "你？神圣天堂派来的神殿骑士团？",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "谢谢你救出了处于危险之中的祭司……<br>要不是你的话，他们差点就遇难了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>神的仆人{user_nick}，拜见雷昂纳多。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "愿女神的恩宠与你同在……<br>多亏了你，祭司们捡回了一条命，但却丢失了<FONT color=#a82424>重要的东西</FONT>。真不知道该怎么办才好……哈……这是女神的意志吗……",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "我们在执行护送某件<FONT color=#a82424>东西</FONT>的任务，正在赶往<FONT color=#a82424>魔法山脊</FONT>的途中。<br>这是非常秘密的任务，我们觉得自己已经很谨慎了，不知道怪物们怎么知道了消息，袭击了护送队伍，把<FONT color=#a82424>东西</FONT>抢走了。",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "嗯……你问是什么东西？<br>\n这个，很抱歉。<br>不是我不信任你，而是这件东西不能随便告诉他人。希望你能理解。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>没关系。</FONT><br>\n<FONT color=#662500>请别放在心上。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "多谢你能理解。<br>不过……守护<FONT color=#a82424>神圣天堂大圣堂</FONT>的<FONT color=#a82424>神殿骑士团</FONT>来禁域做什么？",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我是奉大主教之名来的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "\n<FONT color=#a82424>大主教</FONT>的命令……嗯……虽然不知道是怎么回事，不过希望你能注意不要刺激到<FONT color=#a82424>魔法山脊</FONT>的<FONT color=#a82424>魔法师</FONT>。听说她们还没有忘记我们的祖先犯下的错误。",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>是，知道了。</FONT>",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "你去见见<FONT color=#a82424>高级牧师雷昂纳多</FONT>。<br>他说想向你致谢。",
+      "answer": "",
+      "image": "qn_cl_leonardo.png"
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "你来啦？我经常听<FONT color=#a82424>雷昂纳多</FONT>说起你的事迹，耳朵都快磨出茧来了。呵呵……性格像火一样的他，也终究战胜不了岁月……<br>原来那些怪物，对他而言只不过小菜一碟……呵呵……",
+      "answer": "",
+      "image": "qn_cl_leonardo.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n他看上去非常仁慈，只是……",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "啧啧……不要被表面现象所迷惑。你是因为没见过他原来的样子。这个先不说了。不知道他运送的<FONT color=#a82424>东西</FONT>到底是什么……听说是<FONT color=#a82424>教皇</FONT>亲自交给他的<FONT color=#a82424>东西</FONT>，不能告诉别人……",
+      "answer": "",
+      "image": "qn_cl_leonardo.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>是教皇交给他的东西？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "原来如此。到底是什么<FONT color=#a82424>东西</FONT>，会引起怪物们的兴趣呢……？<br>\n嗯……必须去调查一下。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "\n看来还得继续深入调查一番才行，不过我已经派考察团去了护送图案遇袭的地点。<br>\n这是在那个地方发现的……",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "你去见见你的上司<FONT color=#a82424>牧师托马斯</FONT>吧。<br>我在这里等你。",
+      "answer": "",
+      "image": "qn_cl_tomas.png"
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "我觉得你是没什么特别问题的，如果你想要了解基本操作方法的话，随时都可以来找我。<br>选择<FONT color=#a82424>[接受教程]</FONT>我就可以给你指引。",
+      "answer": "我会铭记在心的。"
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "啊，刚到这里的新手也可能会遇到诸多问题的，为了让你能够很好地适应，我为你特别准备了<FONT color=#a82424>简单培训</FONT>。<br>你现在就要接受<FONT color=#a82424>教程</FONT>吗？",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "恩，我看你好像很有自信心嘛，这是好事。<br>日后你随时都可以来找我，选择<FONT color=#a82424>[接受教程]</FONT>我就会给你指引的。",
+      "answer": "我会铭记在心的。"
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "恩，培训是只针对你一个人的。<br>\n你得解散组队，<FONT color=#a82424>一个人</FONT>过来。<br>\n <br>\n※<FONT color=#7e12d2>组队状态下无法进行。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "那么，为了让你能够适应这里的生活，我会指导你一些基本的操作方法。<br>想要重新接受培训的话，你随时都可以来找我，选择<FONT color=#a82424>[接受教程]</FONT>就可以。",
+      "answer": "（移动）"
+    },
+    {
+      "question": "<FONT color=#7e12d2>（</FONT>按下<FONT color=#387206>[H]</FONT><FONT color=#7e12d2>键，就会弹出操作向导窗口。</FONT><br>\n按下<FONT color=#387206>[Ctrl]</FONT><FONT color=#7e12d2>键，便会显示鼠标指针。</FONT><br>\n<FONT color=#7e12d2>再按一次的话，则会恢复原来的界面）</FONT>",
+      "answer": ""
+    }
+  ]
+}

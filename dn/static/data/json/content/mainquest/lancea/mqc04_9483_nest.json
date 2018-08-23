@@ -1,0 +1,290 @@
+{
+  "qkname": "巢穴",
+  "data": [
+    {
+      "npc": "道格拉斯将军",
+      "question": "噢，<FONT color=#387206>{user_nick}</FONT>，是你啊！<br>多亏了你的努力，后方补给变得顺利多了。<br><FONT color=#7e12d2>（道格拉斯将军似乎非常开心）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "我已经将<FONT color=#a82424>黑暗大君主领地</FONT>调查得一清二楚，并且确定了有效路线，以后我们应该可以在战斗中减少很多损失。",
+      "answer": "",
+      "image": "qw_28.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那，我们现在应该能去抓贝思柯德了吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "我相信姐姐你能顺利解决所有的事情。我会在这里等着你……",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "……他究竟在哪里？？<br><FONT color=#7e12d2>（凯伊焦急地看向某处。现在无法与他对话）</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……不要妨碍我。我正在寻找那个人的位置。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "你说贝思柯德？？？是指黑骑士吗？",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！嗯……嗯。<br>碰巧黑骑士的名字也是六大英雄的名字。哈哈哈哈……好巧哦，对吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "你说你不记得杰兰特的名字，但你却记得贝思柯德的名字。你还真是特别啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃... 呃... 我！那…那个… 我从凯德拉一直追踪他到这里啊。<br>但我经常看到他，发现他正是我喜欢的类型。所以我就记住了他的名字……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "<FONT color=#7e12d2>（道格拉斯将军的表情变得阴沉）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>所以我才记住了他的名字，是真的，嗯。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "……我对此并没有什么兴趣，不过你真是个直率的人。<br>那个，士兵们已经准备好了，如果你作好准备，就快点出发吧。",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "我们精锐士兵也不太熟悉<FONT color=#a82424>黑暗领地守备队据点</FONT>，所以我打算将士兵分成几路派遣进去。<br>可能因此无法像之前那样提供很多支援，所以你要千万小心。",
+      "answer": "",
+      "image": "qw_43.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "iontalk}<br>必须要找回先知才行……<br>国家的前途令人堪忧啊。",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "……我对此并没有什么兴趣，不过你真是个直率的人。<br><FONT color=#7e12d2>（道格拉斯的表情并没有好转。达到28LV以后再过来吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "我已经将精锐士兵分批派到了那里。<br>你也尽快出发前往<FONT color=#a82424>黑暗领地守备队据点</FONT>吧。",
+      "answer": "",
+      "image": "qw_43.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……我来晚了一步。<br><FONT color=#7e12d2>（杰兰特盯着一个方向）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "这里面的巢穴已经完成，我无法再靠近了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>巢穴？你那是什么意思？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "这是你去问阿尔杰塔吧。<br><FONT color=#7e12d2>（杰兰特说完便闭口不言）</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……<br><FONT color=#7e12d2>（杰兰特看上去无意继续对话。）</FONT>"
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9483_qu_01.ogg}<br>啊……现在好像无法继续靠近那里了……这可如何是好？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>凯伊！！你是怎么搞得？为什么一直不联系我们！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9483_qu_02.ogg}<br>嗯？<FONT color=#387206>{user_nick}</FONT>？？ <br>你怎么会在这里？我以为你们还在<FONT color=#a94407>凯德拉关卡</FONT>呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你这个搜集情报的人，消息这么不灵通怎么行啊？<br>怎么说我也是拯救凯德拉关卡的英雄啊，嘿嘿~！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9483_qu_03.ogg}<br>……这不像你，别这样。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哼！话说，你搞什么啊？为什么总在黑骑士附近出现？？<br>上次也是的……这与你的任务有关吗？比我们的事情还重要吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9483_qu_04.ogg}<br>你看到我了？呃呃，看来我还差得远呢，我本想不引人注意的。<br>没错，我的任务就是追踪黑骑士，然后报告。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>就像狗仔队？ </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9483_qu_05.ogg}<br>……不一样。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎么不一样？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9483_qu_06.ogg}<br>就是不一样！我这么做是为了拯救世界于危难之中！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯~~ 好，我知道了。但是，为了这任务，你就忘了与我的约定了吗？<br>你不是说要帮我找出让父亲陷入危险之中的坏蛋嘛！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9483_qu_07.ogg}<br>我也在抽空寻找啊。我要忙着做我的任务，还要调查你们家的事情，你都不知道我有多累。唉。<br>话说，你也在追踪黑骑士吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，那个人是找到引发这件事的龙之追随者的唯一线索。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9483_qu_08.ogg}<br>但是，这里太危险了。那个人……你先到安全的地方，例如你的亲戚家去等候怎么样？<br>说不定有人正对你们虎视眈眈呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不要。 </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9483_qu_09.ogg}<br>你干嘛这么固执！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不喜欢什么都不做，就那样默默地等待。现在……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "<FONT color=#2b2723>嗯，随便你。但你一定要注意安全。<br>我刚好得到了一个有用的线索，正在进行调查，如果得到具体的情报，我会跟你联系的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "巢穴居然已经完成了，真是糟糕。<br>我要向国王陛下报告，看看怎么处理当前的局面。<br><FONT color=#7e12d2>（去找埃提亚，和她对话吧）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9483_qu_10.ogg}<br>无论是埃提亚，还是你，都要注意身体。为了兄弟团……<br><FONT color=#7e12d2>（去找埃提亚，将见到卡伊的事情告诉她）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐？你怎么现在才回来？<br>这里的人说出了大事，要把我带到安全的地方……我告诉他们我要等姐姐，才劝阻了他们。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>埃提亚，我见到了凯伊。</FONT>",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "凯伊哥哥？他都没和我们联系，你是怎么见到的？",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>凯伊也在追踪黑骑士。还有……（转述与凯伊的对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "原来如此。我还担心他出了什么事情呢，这真是太好了。<br>但是，事已至此，他居然让我们回家。哥哥好像还把我们当成小孩子呢，自己明明也是小孩。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>凯伊也是担心你，才会那么说的。<br>看到你，我时常会思考在安全的地方等候父亲的消息会不会更好！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "我是你的负担吗？如果你这么想，我会恨你的，姐姐。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……对不起。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "话说，听说什么<FONT color=#a94407>巢穴</FONT>已经完成了，巢穴是什么啊？<br>事情现在进展得怎么样了，你打听到了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……我和凯伊交谈后发现，周围什么人都没有呢！这可怎么办……</FONT>",
+      "answer": ""
+    }
+  ]
+}

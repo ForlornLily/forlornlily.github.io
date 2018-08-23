@@ -1,0 +1,160 @@
+{
+  "qkname": "真实之镜 1",
+  "data": [
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我决定正式放出神殿骑士……不，动员神殿骑士，去寻找贝思柯德和巴尔纳。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "……你在听吗？<br>为了净化巴尔纳，如果收到了什么有用的情报，到时再跟你联系。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？……啊，好的！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(等等……让我想想……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(纯粹之镜！还有那个东西！<br>关于它的记录放在啰嗦鬼查克博士那里了。<br>也许可以使用那个东西。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(回到卡拉秋的草屋去见见啰嗦鬼查克博士吧。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_bookdoc.png"
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "嗯哼，慢慢来！<br>让我看看，你是来问什么问题的吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>纯粹之镜！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "纯粹之镜……啊，在这里。<br>嗯？但是那一项好像被修改过了。西戴尔那个家伙……不，不是西戴尔的手迹，好像是<FONT color=#a82424>卡拉秋</FONT>生前改的。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡拉秋？</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "对于无法完全解决的问题，她会随时进行调查，然后记录下来。嗯哼嗯哼。<br>真不愧是当代最伟大的魔法师啊。<br><FONT color=#7e12d2>(博士好像非常自豪)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "让我看看。根据卡拉秋写的索引……嗯……<br><FONT color=#a82424>纯粹之镜</FONT>……上一级概念，真实，<FONT color=#a82424>真实之镜</FONT>……镜子……嗯？<br><FONT color=#7e12d2>(博士哗啦哗啦地翻着书，然后停了下来)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "在这里，真实之镜！",
+      "answer": ""
+    },
+    {
+      "npc": "真实之镜",
+      "question": "<FONT color=#7e12d2>古代人之间的漫长战争，随着邪恶古代人的首领被俘而落下了帷幕。<br>被俘的邪恶古代人的首领浑身散发出堕落的气息，原本善良的样子消失得无影无踪。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "真实之镜",
+      "question": "善良古代人为了让他摆脱魔性，恢复原本善良的样子，做出了很多的努力。<br>但是尽管他们尽了最大的努力，最终还是没能击退邪恶的气息。",
+      "answer": ""
+    },
+    {
+      "npc": "真实之镜",
+      "question": "<FONT color=#7e12d2>对于如何处置他，古代人内部有很多不同的意见。<br>如果海神没能找到真实之镜的话，他就会被混沌吞噬，在历史的记录中成为恶人。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "真实之镜",
+      "question": "邪恶古代人的首领毕夏思·阿罗诺比乌斯。<br>海神的恋人，后来只身打倒黑龙，拯救了世界的贤者阿罗诺就这样恢复了原本善良的样子。",
+      "answer": ""
+    },
+    {
+      "npc": "真实之镜",
+      "question": "<FONT color=#7e12d2>支配贤者阿罗诺的堕落气息被封印在了真实之镜中。<br>海神决定将它藏在受到蚕食的神殿废墟的某个地方，直到封印在其中的堕落气息被完全中和、消失为止。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "嗯……根据记录，真实之镜所在的地方是<FONT color=#a82424>受到蚕食的神殿废墟</FONT>。",
+      "answer": "",
+      "image": "qw_62.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(卡拉秋……我把不完整的石板交给她解读之后，卡拉秋好像进行了进一步的研究。<br>纯粹之镜只是复制品。根据记录制造的……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(没想到她竟然找到了真品的记录。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "啊，等等，等等。<FONT color=#387206>{user_nick}</FONT>，别只顾着鉴赏。<br>重要的是，真实之镜只有拥有虚假形象的人才能看到。<br>拥有真实形象的人既看不到镜子，也感觉不到它的存在。",
+      "answer": ""
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "也就是说！只有拥有虚假形象的人才能看到，所以只要变成虚假的形象就行了。呵呵～<br><FONT color=#7e12d2>(博士敲着桌子说道)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……不明白到底是什么意思……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "啧啧，什么都需要我跟你解释吗……<br>使用异界面具就可以了。<br>将陨石碎片和突变之眼组合起来，就能制作成<FONT color=#a82424>异界面具</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "戴着由异界的物质组成的面具，真实之镜就会认为你是虚假的形象了，不是吗？<br>那样的话，你就能看到真实之镜了。",
+      "answer": ""
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "你先去搜集制作异界面具所需的东西吧。<br>先从<FONT color=#a82424>陨石碎片</FONT>开始？嗯……根据记录，陨石碎片在<FONT color=#a82424>陨石坠落地中心</FONT>应该可以找到。",
+      "answer": "",
+      "image": "qw_63.png"
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "太慢了，太慢了！<br>陨石碎片现在才拿来吗？！<br>你真的在认真做事吗？！",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "\n<FONT color=#7e12d2>(博士一边嘟囔着，一边翻书)</FONT>",
+      "answer": ""
+    }
+  ]
+}

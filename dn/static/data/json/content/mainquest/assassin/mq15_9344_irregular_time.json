@@ -1,0 +1,260 @@
+{
+  "qkname": "不规则的时间",
+  "data": [
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳咳……<br>其他冒险家在干什么呢？",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "就算催促我，也对解读石板没有任何用处。<br>我还需要一些时间。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "据说是在<FONT color=#a82424>古代武器库的东边</FONT>见到的。<br>不知道消息是不是真的。",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "贝思柯德？啊，是那个黑骑士啊。<br>要到古代武器库的东边去，对吧？",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "特雷西亚是神秘的。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "最近总是有烦人的垃圾出来碍眼。<br>连过去的老相识都出来妨碍我。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你到这里来，是想来向我说教的呢？<br>还是……腆着脸来求我的呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你为什么会在这里？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "可笑。我为什么要回答你的问题？<br>不过就算回答你也没什么关系。告诉你，我是来见卡拉翰的。<br>……我和他之间也有点没有处理完的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>(贝思柯德用不快的眼神瞥了我一眼)</FONT><br>看上去你好像已经不记得在那个男人手下干活时的记忆了。<br>是全部忘记了吗？ 是想洁身自好吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>其中的原因有点复杂……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你已经不记得那时候的事情了吗？<br>哼……也是，那个时候你就是这样，动不动就穿越时间跑掉。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你那时好像在寻找什么东西。<br>某个人……某个<FONT color=#a82424>女人</FONT>。<br>\n你好像是为了找到那个女人，才会成为<FONT color=#a82424>那个男人</FONT>的手下的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(女人？……露娜莉娅？)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "question": "<FONT color=#7e12d2>(看了一眼露娜莉娅，她的表情没有什么变化)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "在那个男人手下做事的人，统称为使徒的那群人，做事一向不讲什么规则。<br>所以像卡拉翰那种疯子，可以以<FONT color=#a82424>使徒</FONT>的名义四处炫耀力量，却没人去管他。长久以来的信任、忠诚，对他来说没有任何价值。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "也许……你是个非常聪明的使徒。<br>\n就算成为了那个人的心腹，你也绝对不会忘记自己的目的。<br>你找到了那个女人，所以才会离开那个人，不是吗？",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "应该就是那个女人吧？<br><FONT color=#7e12d2>(贝思柯德看了露娜莉娅一眼)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "这种无聊的话，再说下去也没什么意思。<br>好了，我没什么话可说了，快让开。就像你有自己的目的一样，我也有我的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你的目的，你的路，应该由你自己去寻找。就算继续缠着我，我也没办法给你解答。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(幻象是为了寻找露娜莉娅才成为使徒的吗？<br>总之再想想吧。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "特雷西亚是神秘的。<br>不管是抗拒还是顺应，最终都摆脱不了命运的安排。这是多么奇怪的事啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>特雷西亚……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "你们通常把这称为命运或<FONT color=#a82424>宿命</FONT>。<br>我们精灵相信所有人都能迎来<FONT color=#a82424>听见特雷西亚的召唤的那一天</FONT>。<br>为了找到自己的特雷西亚，我们踏上了朝圣之路。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "<FONT color=#a82424>总有一天，我也能听到特雷西亚的声音，找到属于自己的路</FONT>……<br>\n<FONT color=#a82424>从那时开始，我会一直沿着那条路前行</FONT>……<br>我一直是这么想的，而且从来都不曾怀疑过。但是……",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "但是……我听到了一个奇怪的故事。<br>虽然我一直在追寻特雷西亚，但据说有人选择了脱离特雷西亚的生活。<br>一想到脱离特雷西亚的生活，我就感到非常恐惧……",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "接到救出萝丝的委托之后，我就把它当成了自己的事情。<br>我们一路追踪，来到了神圣天堂，遇到了黑龙。<br>\n我一点都不害怕。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "但是我们没能救出萝丝。现在不知道她在哪里。<br>杰兰特……杰兰特由于我们的过失而失去了生命。<br>我受到了剧毒的污染，这次察提又……",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "这是我的特雷西亚的一部分吗？是命中注定的道路吗？<br>如果这是真的，那这会让我感到害怕、恐惧、悲伤。<br>如果不是，则会让我感到镇静和痛苦。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "……我觉得我们不能在这里坐以待毙。<br>什么都不做的话，只会让自己枯萎。因为那样什么都不会变，什么都不会不同。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "谢谢你听我说了这么多的话。<br>希望听到特雷西亚的召唤的日子能早日到来……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(心情很复杂。<br>刚才露娜莉娅的表情也很奇怪。要到利物沃特码头去看看吗？)</FONT>",
+      "answer": "",
+      "image": "qw_liverwortferry.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "是不是应该去见见卡拉秋呢？<br>那块石板，现在也许已经解读出来了。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>现在？<br>如果这段时间没有再穿越时间的话。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……<br><FONT color=#7e12d2>(露娜莉娅的表情有点阴沉)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎么了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "头好痛。<br>我想休息一下。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……知道了。<br>那我自己去找卡拉秋吧。</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "光靠想要帮助别人的一腔热血，到底能走到哪一步呢？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(可能是穿越时间的后遗症。<br>不管怎样，先去看看卡拉秋有没有解读出那块石板吧。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳咳……啊，你来啦。只要在需要的时候出现就行。<br>\n穿越时间也好，在时间中徘徊也好……<br>对所有人来说，生活就是不断地徘徊，咳咳咳咳……",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你是来问那块<FONT color=#a82424>石板</FONT>的事情的吧？<br>我已经尽我所能进行了解读。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真的吗？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "哼，你看见我吹过牛吗？<br>虽然有很多缺失或者无法解读的部分，不过应该可以找到有用的信息。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "我把解读出来的部分放在了博士那里，你去看一下吧。",
+      "answer": "",
+      "image": "qn_npc_bookdoc.png"
+    }
+  ]
+}

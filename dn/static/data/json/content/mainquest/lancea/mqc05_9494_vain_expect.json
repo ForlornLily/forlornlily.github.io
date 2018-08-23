@@ -1,0 +1,358 @@
+{
+  "qkname": "徒然的期待",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "寻找柯梅里纳的事情，处理得怎么样了？",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "什么！？你在<FONT color=#a82424>黑山山角</FONT>发现了<FONT color=#a82424>贝思柯德</FONT>？<br>你快去向他询问钢铁兄弟团的叛徒的事情吧。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "冒险家公会会长冈特",
+      "question": "冒险家公会时刻向大家开启着。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "贝思柯德受伤了……你绝对不能攻击他！",
+      "answer": ""
+    },
+    {
+      "npc": "王城近卫兵劳尔",
+      "question": "警备中，无任何异常！欢迎来到神圣天堂王城。",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "在上次的战斗中，很多士兵受了伤。还有，士兵们患上了一种罕见的病。这真是太糟糕了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那…那个……（我要问什么来着？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>（等待了很长时间后，贝思柯德厌烦地说道）</FONT><br>如果你没话要说，那就快滚吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我有话要说！那个，我父亲说钢铁兄弟团中有叛徒。<br>叛徒可能与黑龙…黑骑士……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "钢铁兄弟团？好久没听到这个名称了。<br>跟随着愚蠢的巴尔纳的那群人还在进行活动啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>巴尔纳并不愚蠢！虽然他说话轻浮，但他是个有思想的人！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个，我的父亲被叛徒蒙骗，现在消失了。<br>父亲留下的线索只有黑骑士……只有你而已。请帮帮我。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "叛徒肯定是龙之追随者那些家伙吧。<br>他们在很多地方都安插了自己的人手。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯！龙之追随者太坏了！可恶！！</FONT><br>\n ",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "不过，我得到先知，也是他们计划中的一部分吧？<br>这点让我不太高兴，但他们不会得到自己想要的结果的……<FONT color=#7e12d2>（贝思柯德似乎在自言自语）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>所以呢？到哪里能见到那些龙之追随者？<br>你不是他们的同伴吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "同伴？我现在不相信任何人。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "咦？贝思柯德，你也不相信我吗？<br><FONT color=#7e12d2>（柯梅里纳不知何时跟了过来，她用欲哭的声音问道）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "吵死了，我不知道那个叛徒是谁。<br>你们俩都离开吧。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "我担心你攻击贝思柯德，所以跟了过来，还好没出什么事情。<br>但是，你似乎没得到自己想要的答案啊。<br>\n<FONT color=#7e12d2>（柯梅里纳委屈地望着贝思柯德）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……我也不知道现在该怎么办了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "我刚刚不小心听到了一些你们的对话。我能帮助你吗？<br><FONT color=#7e12d2>（柯梅里纳按着她的小机器，并嘟囔着）</FONT>钢铁兄弟团的叛徒？",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "嗯，我进行了搜索，但是没什么发现。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>搜索？？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "啊，我在自言自语，你不要担心。我来试着增加些关键字。<br><FONT color=#7e12d2>（柯梅里纳再次不停按着她的小机器）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "这上面说，钢铁兄弟团是英雄巴尔纳创建的组织，自从50年前的黑龙之战后，便销声匿迹了。<br>钢铁兄弟团之后好像也就没什么行动了。很抱歉，没能帮上你什么忙。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那是什么啊？？是书吗？<br>如果把它拿给埃提亚，她肯定会很开心……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "嗯？这不是书。那个……虽然和书也有相似之处。<br>这东西很珍贵，只有这一个，我不能给你！<FONT color=#7e12d2>（柯梅里纳充满戒备）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不会抢的。觊觎别人的东西是不好的。哎嘿。<br>首先，我要去见见我的妹妹。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "你要去和你神圣天堂的妹妹商议下？<br>真希望我的<FONT color=#a82424>姐姐</FONT>也在这个地方……我好羡慕你。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9494_qu_01.ogg}<br>黑骑士好像什么都不知道？<br>我一直认为<FONT color=#a82424>黑骑士</FONT>掌握了所有问题的答案…… 没想到会是这样。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>很抱歉，埃提亚。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐，你没必要感到歉疚，是我想错了而已……<br>我认为只要找到黑骑士，就能找到那些龙之追随者，是我想得太简单了。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "我们似乎得从头开始寻找了，姐姐。<br>姐姐，不要放弃！",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9494_qu_02.ogg}<br>你先到<FONT color=#a82424>冒险家公会</FONT>搜集些情报吧。<br>如果你直接询问龙之追随者的事情，大家肯定会觉得你很奇怪，所以你说话时要小心，姐姐。",
+      "answer": "",
+      "image": "qn_npc_master_gunter.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道的，埃提亚。<br>相信我！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长冈特",
+      "question": "欢迎，你有什么事情吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你好，我叫</FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#662500>。<br>我来这里是想询问冒险家公会一些事情。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长冈特",
+      "question": "真是个讲礼貌的孩子。嗯，冒险家公会汇集了所有的情报。你想知道些什么？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么是使徒啊？要怎么样才能找到他们呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长冈特",
+      "question": "嗯？？使徒…使徒啊。我好像没听说过这个呢。<br>很抱歉，我没能帮你什么忙。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那……怎么样才能见到龙之追随者呢？</FONT>",
+      "answer": "",
+      "image": "qm_dragonsycophant.png"
+    },
+    {
+      "npc": "冒险家公会会长冈特",
+      "question": "你为什么要见到那些坏蛋？你最好不要过问这些，不然可能会悄无声息地从这个世界消失呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我必须要见到他们……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长冈特",
+      "question": "你为什么要关心这些事情？<br>现在神圣天堂的麻烦事已经堆积如山了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没错，但是……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长冈特",
+      "question": "你不要过问龙之追随者！之前有很多像你这样的冒险家，懂些战斗就想出面对付龙之追随者，结果都死在他们手中。<br>你还是离开吧！",
+      "answer": ""
+    },
+    {
+      "npc": "王城近卫兵劳尔",
+      "question": "啊，是个可爱的小女孩啊！<br>神，神圣天堂近卫兵是不会被你的美貌所动摇的！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嘿……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "王城近卫兵劳尔",
+      "question": "我有什么能帮助你的吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我要见见龙之追随者。去哪里才能见到呢？</FONT>",
+      "answer": "",
+      "image": "qm_dragonsycophant.png"
+    },
+    {
+      "npc": "王城近卫兵劳尔",
+      "question": "嗯？你想加入龙之追随者吗？我没有听错吧，<FONT color=#387206>{user_nick}</FONT><FONT color=#2b2723>。</FONT><br><FONT color=#7e12d2>（王城近卫兵劳尔从口袋中拿出类似手铐的东西）</FONT>",
+      "answer": "",
+      "image": "qm_dragonsycophant.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不……不是的。我不是想加入，只是想问他们一些事情而已。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "王城近卫兵劳尔",
+      "question": "那么，你是龙之追随者的敌人吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（如果我承认是龙之追随者的敌人，会不会透露出我是钢铁兄弟团的人呢…？我该说什么呢……）啊，嗯…不…不是…</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（冒险家公会会长冈特好像不会再提供情报了。去找其他人吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "王城近卫兵劳尔",
+      "question": "如果你不是龙之追随者的敌人，那我不能放过你。像这样动荡的时期，更加危险的势力……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（先逃跑吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "王城近卫兵劳尔",
+      "question": "啊！！你站住！！！",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "<FONT color=#a82424>先知</FONT>到现在都没有醒来，真是糟糕。<br>参与战斗的士兵健康情况逐渐恶化，我们对此也束手无策。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "由于金龙的出现，士兵们的功劳被完全忽视了。<br>现在最重要的问题是，对于那些为了国家浴血奋战的负伤将士，我们给予的支援太少了。",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "特别是现在越来越多的伤员出现了怪异的症状，这让我十分担心。为了能够对症治疗，需要对士兵们出现的症状进行研究，我正在寻找能帮忙的人。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我愿意帮……啊！不，没什么。</FONT><br>\n<FONT color=#662500>我现在还有更重要的事情，将军道格拉斯</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "嗯，你又有什么麻烦吗？说说看，这次要说得让我能听懂。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你能找到龙之追随者吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "呃，那也是我们王城精锐士兵的宿愿。<br>但想要找到他们并不简单。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>果然是这样啊……</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "你居然如此失望……<FONT color=#7e12d2>（将军道格拉斯用可怜的眼神望着我）</FONT><br>你为什么要找他们啊？之前你也给我提供了很多帮助，这次我就帮帮你吧。",
+      "answer": ""
+    }
+  ]
+}

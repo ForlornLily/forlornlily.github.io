@@ -1,0 +1,192 @@
+{
+  "qkname": "必须变强的理由",
+  "data": [
+    {
+      "npc": "西戴尔",
+      "question": "\n察提……不管用什么方法，我一定要阻止！<br>\n额啊啊~<br>\n<FONT color=#7e12d2>（西戴尔大叫着）</FONT>",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "\n咳咳，我可不是被阿尔杰塔大人给抛弃了。<br>\n我是帮阿尔杰塔大人跑腿才暂时过来这里的。"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "<FONT color=#a82424>卡拉翰</FONT>和<FONT color=#a82424>察提</FONT>朝着部族的圣所方向去了？<br>那个小丫头终于闯出祸来了！",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "必须阻止卡拉翰，不能让他靠近绿龙的宝玉！<br>赶快前往<FONT color=#a82424>古代武器库的东边</FONT>吧！",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "察提……我应该不顾一切加以阻止的！<br>呃啊啊~！！<br><FONT color=#7e12d2>（西戴尔哀呼着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "嗯哼，我不是被阿尔杰塔抛弃的。<br>而是为阿尔杰塔办事才暂时过来一会儿。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "必须阻止卡拉翰，不能让他靠近绿龙的宝玉！<br>赶快前往<FONT color=#a82424>古代武器库的东边</FONT>吧！",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "察提……察提变成怪物了……<br>我应该不顾一切加以阻止的……！<br>呃啊啊~！！<br><FONT color=#7e12d2>（西戴尔哀呼着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>西戴尔！冷静点！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我……我这次也没能救察提！<br>察提……呜呜呜……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我们回去吧。卡拉秋一定有办法的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "是啊。<FONT color=#a82424>老师</FONT>她肯定知道什么方法的。<br>能够帮助察提恢复原状的方法……",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "你才来呀。慢得像个蜗牛！<br>你知道我<FONT color=#a82424>戴维</FONT>在这里等了多久吗？！",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "<FONT color=#662500>这是怎么回事，戴维？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "嗯嗯，阿尔杰塔吩咐我转告你一件重要的事。她说你被龙的血液污染了！绝对不可以触碰<FONT color=#a82424>混沌龙的后代</FONT>的<FONT color=#a82424>龙之宝玉</FONT>。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "像你这种被污染的人如果碰触到龙之宝玉的话，宝玉会对你那被污染的气息做出反应，你也会将宝玉吸收到你的体内。<br>如果你的体质难以承受宝玉的力量，弄不好你就会变为<FONT color=#a82424>怪物</FONT>。但是……你的表情怎么这么难看呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你告诉得还真及时。已经晚了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "什么……？！<br>可你看起来好好的啊……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>西戴尔的朋友……已经吸入了宝玉。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "额啊……？！<br>怎么我一不在你就给我到处捅娄子？！<br>啊……得赶紧将这个状况告知<FONT color=#a82424>阿尔杰塔</FONT>才行。<br>不管用什么方法，这段时间你一定要阻止事态的扩大！",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>阿尔杰塔……现在在哪儿，在干什么？</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "<FONT color=#a82424>阿尔杰塔</FONT>现在正在精灵的圣地<FONT color=#a82424>阿努阿兰德</FONT>。<br>在那里做一件非常……重要的事。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>重要的事……是什么事？</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "你以后自己去看吧，是一件会让你大吃一惊的事。<br>总之，我要先走了~！",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "那丫头到底还是闯祸了。<br><FONT color=#7e12d2>（卡拉秋咂舌道）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没有办法能救察提吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "没有办法能够从已经将宝玉吸收到体内的人身上完好无损地取出宝玉，但是，变成怪物的人并不全都是处于疯癫状态的，说不定还能恢复那个丫头的理智。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可以恢复理智的方法是什么呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "如果那丫头的心中还留有一部分理智的话，那么就有可能实现。所以如果能找到可以唤醒她的心的方法就行了。<br><FONT color=#7e12d2>（卡拉秋意味深长地望着西戴尔）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我……我要让察提 变回原来的样子！",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "事情可不像说得这么简单，西戴尔。<br>就凭你现在的实力，现在只要靠近那个变成怪物的丫头，就会被打得支离破碎。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "就算没法变成龙，那也是蕴含了龙之宝玉中无穷魔力的强大怪物，那可不是什么好对付的对象。<br>若是想要唤醒察提的心，在这之前你还是先得获得<FONT color=#a82424>守护自己的力量</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>守护自己的力量……？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "是啊，至少在获得那力量之前，想都不要想去寻找察提的事情！<br><FONT color=#7e12d2>（卡拉秋斩钉截铁地喊着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>强大的力量……是指什么样的力量呢？</FONT>",
+      "answer": ""
+    }
+  ]
+}

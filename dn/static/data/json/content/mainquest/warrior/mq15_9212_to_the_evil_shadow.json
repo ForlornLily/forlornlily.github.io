@@ -1,0 +1,125 @@
+{
+  "qkname": "向恶灵阴影前进",
+  "data": [
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "贝思柯德在哪里……？<br>\n<br>※ <FONT color=#7e12d2>必须从神圣天堂王城内部的泰兰斯·特拉玛依那里接受任务才能进行。</FONT>",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "这里是我呆过的地方……<br><br>\n※ <FONT color=#7e12d2>可以从神圣天堂王城内部的泰兰斯·特拉玛依那里接受任务。</FONT>",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "\n贝思柯德……<br>\n不知道他在耍什么花招……",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "不能让贝思柯德就这么跑掉。<br>请尽快到<FONT color=#a82424>恶灵阴影</FONT>去。",
+      "answer": "",
+      "image": "qw_61.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "贝思柯德……<br>\n他放弃了为人之道，获得的力量就是那样的东西吗……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>事情怎么样了……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "到底让他给跑了……<br>单凭我们的力量看来很难拿到<FONT color=#a82424>杰兰特的剑</FONT>。应不应该向佩奥里斯塔魔法师团求援……呵呵，我这老头子真是丢脸丢到家了……",
+      "answer": "",
+      "image": "qp_geraint_sword.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "先回到<FONT color=#a82424>神圣天堂</FONT>去吧。<br>应该去看看先知有没有获得什么新的启示。",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>萝丝现在在哪里？</FONT>",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "她在<FONT color=#a82424>王城地下</FONT>。<br>那是杰兰特生前呆过的地方，你应该能很容易找到。你去见见先知吧。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "虽然我再次派人去打听贝思柯德的行踪，可是还没有什么消息。<br>你去见见<FONT color=#a82424>先知</FONT>，看她有没有什么新的启示。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "哦，是<FONT color=#387206>{user_nick}</FONT>啊。<br>你来得正好。我刚才睡觉的时候，在梦里见到了点东西……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>是跟贝思柯德有关的事情吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "不，很可惜不是黑骑士的样子。<br>我见到的是……<FONT color=#a82424>巴尔纳</FONT>的样子。",
+      "answer": "",
+      "image": "qn_npc_death_knight.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>巴尔纳……是什么样的内容？</FONT>",
+      "answer": "",
+      "image": "qn_npc_death_knight.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "是巴尔纳在<FONT color=#a82424>陨石坠落地边界地区</FONT>和某人在一起的场面。",
+      "answer": "",
+      "image": "qw_60.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>某人……？</FONT>",
+      "answer": "",
+      "image": "qw_60.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "是的，虽然不能清楚地看见对方的样子……<br>但是他肯定是跟其他人在一起的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，说不定是操控巴尔纳的龙之追随者。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "那么你最好赶紧行动。<br>要是能抓住操控巴尔纳的人，也许不用<FONT color=#a82424>杰兰特的剑</FONT>，也能救出巴尔纳。",
+      "answer": "",
+      "image": "qp_geraint_sword.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了，我得赶紧去看看。</FONT>",
+      "answer": "",
+      "image": "qp_geraint_sword.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

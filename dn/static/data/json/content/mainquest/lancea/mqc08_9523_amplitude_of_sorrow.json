@@ -1,0 +1,352 @@
+{
+  "qkname": "悲伤加深",
+  "data": [
+    {
+      "npc": "西戴尔",
+      "question": "该做的事情太多了。首先是卡拉秋的葬礼……<br>虽然很不情愿，但还是得送卡拉秋最后一程。<br><FONT color=#7e12d2>（西戴尔深深地叹了一口气）</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我成为佩奥里斯塔新一代魔法师团长的事情，在办完卡拉秋的葬礼之后再公布也为时不晚。<br>那个，<FONT color=#387206>{user_nick}</FONT>，麻烦你去告诉<FONT color=#a82424>高级魔法师塔玛拉</FONT>准备葬礼的相关事宜。",
+      "answer": "",
+      "image": "qn_npc_soceresstamara.png"
+    },
+    {
+      "npc": "魔法师泰莎",
+      "question": "卡拉秋居然已经过世了……难以置信，呜呜……<br><FONT color=#7e12d2>（一个陌生的魔法师在呆呆地抽泣）</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "你听我说，我为了建造<FONT color=#a82424>卡拉秋仙境</FONT>去看了全新的地皮，可是那些怪物又……<br>嗯，你在听吗？从现在开始我要说重要的事情了~哎呀，真是的。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "……你是说在莲花沼泽吧？<br>虽然不知道你有什么事，但麻烦你闪开。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "你过得可好啊？<br>……你去过莲花沼泽了？真的？你真是去得够远的啊！",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "你有什么事情吗？<br>虽然我挺忙的，但也不是一点时间都没有~",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "……难以置信。<br><FONT color=#7e12d2>（塔玛拉一脸沉郁地摇着头）</FONT><br>卡拉秋……她可是我们所有魔法师的精神支柱，就这样踏上了远行之路……",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "<FONT color=#7e12d2>（塔玛拉抿着嘴，似乎在强忍着眼泪）</FONT><br>……我没有时间可以拖延了，她留下的最后一句话就是，让<FONT color=#a82424>西戴尔</FONT>继承佩奥里斯塔的衣钵。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "现在就让所有的魔法师接受<FONT color=#a82424>西戴尔</FONT>这个新团长还是有点困难。<br>毕竟长久以来佩奥里斯塔的称号都是传女不传男的。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "但是慢慢地说服她们，让她们看到西戴尔的能力，应该就可以了。<br>……葬礼的准备工作就由我来负责，你也不用太担心了。<br>光是处理魔法师团的事务，应该就让西戴尔忙得不可开交了。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "我得将这个消息告诉其他的高级魔法师才行……<br>我会写一封<FONT color=#a82424>公文</FONT>，你能帮我去转发一下吗？<br>虽然有些辛苦，但还是麻烦你了。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的！这没什么麻烦的！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "……我不相信。<br><FONT color=#7e12d2>（塔玛拉耷拉着脑袋，一脸沮丧的表情）</FONT><br><FONT color=#a82424>卡拉秋</FONT>……我们魔法师的精神支柱，她怎么会离开……<br><FONT color=#7e12d2>※达到47级后必须和塔玛拉对话。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "<FONT color=#7e12d2>（好像在思考着什么。现在还有事情要做，完成所有事情之后再回来找她吧。）</FONT>"
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "真的非常感谢你的帮忙。<br>那你就先转交给<FONT color=#a82424>神圣天堂</FONT>的<FONT color=#a82424>宫廷魔法师卡拉安</FONT>。<br>其他人的名单我已经一并写在公文里了，到时候你再一一确认就行。",
+      "image": "qn_npc_royal_magician_kalaen.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "我的天啊~这不是上一次连声招呼都不打就一溜烟消失不见的<FONT color=#387206>{user_nick}</FONT>小朋友吗？<br>虽然我有点忙，我也可以听你说两句，呵呵呵呵呵~<br><FONT color=#7e12d2>（把公文交给她）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那、那个……事先声明，希望你不要太受打击……<br>（把公文交给她）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "你……你说什么？！卡，卡拉秋……？！<br><FONT color=#7e12d2>（卡拉安的声音颤抖着）<br></FONT><FONT color=#2b2723>这怎么可能……</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "……难以置信，我卡拉安居然不是继承人！<FONT color=#a82424>西戴尔</FONT>？居然是西戴尔？！<br>我听都没听过！什么破名字！<br>不知道是从哪儿冒出来的阿猫阿狗，我才不会接受这种继承人！",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃？比起卡拉秋的死，这个消息更让你受打击吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "呵……也是，对你这种愣头青</FONT><FONT color=#387206>{user_class}</FONT><FONT color=#2b2723>讲讲也解决不了问题啊。<br>你先走吧，我要独自嗟叹这不公平的继承……不，不是，是哀悼卡拉秋的离世，哼！<br></FONT><FONT color=#7e12d2>（卡拉安摆摆手）</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>（哼……真不知道卡拉安是好人还是坏人）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "嘀嘀咕咕……简直不像话……嘀嘀咕咕……<br>嗯？你看什么呢？有时间就去<FONT color=#a82424>高级魔法师斯泰拉</FONT>那儿看看。",
+      "answer": "",
+      "image": "qn_npc_soceressstella.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "好久不见啊！喂，你听我说。<br>我为了建造卡拉秋仙境去看了全新的地皮，可是那些怪物又……嗯？这是什么啊？<br><FONT color=#7e12d2>（转交公文并转述消息）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>唉，卡拉秋仙境现在没办法建了……<br>（转交公文并转述消息）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "你说什么！！我最<FONT color=#a94407>尊敬</FONT>、<FONT color=#086171>美丽</FONT>、<FONT color=#a94407>善良</FONT>、<FONT color=#086171>完美的</FONT><FONT color=#a82424>卡拉秋</FONT>去、去世了？！<br><br><FONT color=#7e12d2>（斯泰拉的脸色惨白）</FONT><br>这怎么可能……我把所有的财产都放在建造卡拉秋仙境上了，我还计划在莲花沼泽那里树立一座她的铜像来着……！！！",
+      "answer": "",
+      "image": "qn_npc_karakule.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！斯泰拉你振作一点！你站都站不稳了！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "卡拉秋！！呜呜呜呜……我得赶紧去莲花沼泽圣地朝觐才是……呜呜。<br>我还以为今天的运气很好来着……<br>啊啊，呜呜呜呜，为什么我要建造仙境，你却不能来看看！卡拉秋~！！！",
+      "answer": "",
+      "image": "qn_npc_karakule.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呜……呜……看着斯泰拉你哭，我也……我也想哭了……！！<br>我也可以努力吃</FONT><FONT color=#a82424>缓解剂</FONT><FONT color=#662500>的！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "呜呜呜……我现在特别的难过，你让我一个人待会儿。<br>我的妆全花了啊，嘤嘤，呜呜呜呜……",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "呜呜……我要改变计划，开始建造追悼公园。<br>……对了，<FONT color=#a82424>凯德拉关卡</FONT>的<FONT color=#a82424>高级魔法师缇娜</FONT>知道这个消息吗？呜呜。",
+      "answer": "",
+      "image": "qn_npc_soceresstiana.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "老师离世的时候我也很伤心，就感觉像是天塌下来了一样。<br>但是现在，就连我们魔法师的精神支柱<FONT color=#a82424>卡拉秋</FONT>也离我们而去……<br><FONT color=#7e12d2>（缇娜仰望着天空）</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>大家都很伤心……给各位传达消息的我也更难过了……呜呜……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "谢谢你告诉我这个消息。<br><FONT color=#a82424>西戴尔</FONT>……这个名字我还是头一次听说。<br>她会将衣钵交给一位男子继承，可真是挺意外的。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>西戴尔一定能做得很棒的！<br>西戴尔头脑很聪明，他还告诉我，想要守护某个人的力量才是真正的强大！</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "嗯，我会尊重卡拉秋的选择。<br>嗯……想要参加葬礼，就得赶紧出发才行，该怎么办呢。<br>我得先想一想了……<br><FONT color=#7e12d2（缇娜翻找着文件）</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "啊……这个消息你已经告诉过<FONT color=#a82424>魔法山脊</FONT>的<FONT color=#a82424>高级魔法师辛西亚</FONT>了吗？<br>别忘了，也要把公文转交给她。",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "你找我有什么事情吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……那个……这个给你……<br>（不知道为什么辛西亚有点可怕……得赶紧把公文交给她）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "总之这上面写的内容……好吧，我已经知道了。<br>愿故人能在地下安息。<br>我也没什么要说的了。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "<FONT color=#7e12d2>（辛西亚遥望着远山，似乎在压抑着自己的感情）</FONT><br>……时光荏苒，岁月如梭。<br>我相信，总有一天我也会回到她的身旁。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（啊……看来我误会了……辛西亚其实也是很善良的人……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "其他魔法师那边，我会去说的。<br>你还有其他事情要处理吧？那就先回<FONT color=#a82424>莲花沼泽</FONT>去吧。",
+      "answer": "",
+      "image": "qw_lotusmarshtown.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯。我知道了！<br>……那个……不要太伤心了……西戴尔是个很好的孩子，他会做得很棒的！</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "作为一名魔法师，我想要对你说声谢谢……另外我也想嘱咐你一句。<br>新一任佩奥里斯塔的首领……希望你能帮帮他。<br><FONT color=#7e12d2>（辛西亚将公文抱在怀里）</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "你回<FONT color=#a82424>莲花沼泽</FONT>去吧。<br><FONT color=#7e12d2>（辛西亚带着复杂的表情小声说道）</FONT><br>不过话说回来，你这样的小孩子居然能跑到那里，见到她……<br>人生可真是世事无常啊。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "葬礼的准备工作都很顺利。<br>不如你现在……回<FONT color=#a82424>你妹妹</FONT><FONT color=#2b2723>那里看看吧？</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "魔法师泰莎",
+      "question": "卡拉秋居然已经过世了……难以置信，呜呜……<br><FONT color=#7e12d2>（一个陌生的魔法师在抽泣）</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "魔法师泰莎",
+      "question": "你不就是最近经常见到的小 <FONT color=#387206>{user_class}</FONT>吗？<br>我本是抱着修行的心态一路到了莲花沼泽这里，没想到还没好好接受过卡拉秋的教诲就遭遇了这样的事情。<br>我真是太不幸了，呜呜呜呜，哇啊啊……<br><FONT color=#7e12d2>（泰莎开始痛哭起来）</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "魔法师泰莎",
+      "question": "而且继承卡拉秋的遗志，领导我们的那个人……居然是那种小孩子！！！<br>这实在是太不像话了，肯定是搞错了，我，绝对不会承认的！<br><FONT color=#7e12d2>（泰莎盯着卡拉秋的草屋）</FONT>",
+      "answer": "",
+      "image": "qw_karakule_house.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>才不是这样的！西戴尔既聪明又正直……而且他很善良……而且他明白什么是真正的强大……而且……而且……！！</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "魔法师泰莎",
+      "question": "够了！我还想一个人再难过会儿，你还是先走吧，呜呜……<br>卡拉秋！你为什么要留下泰莎一个人呢，呜呜呜呜……<br><FONT color=#7e12d2>（泰莎朝着卡拉秋的草屋的方向发愣，默默地流下了眼泪）</FONT>",
+      "answer": "",
+      "image": "qw_karakule_house.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（唉……真是无法沟通的人啊。现在该回去看埃提亚了）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "一切顺利吗？<br>但是，去见<FONT color=#a82424>特拉玛依</FONT>，然后给<FONT color=#a82424>卡拉秋</FONT>送药，需要花这么长的时间吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊……埃提亚，事情是这样的……<br>（将先知已经苏醒的消息和卡拉秋的死等这段时间发生的事情告诉埃提亚）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9523_qu_01.ogg}<br>啊啊……卡拉秋她居然去世了……呜呜……<br>虽然我没见过她，但毕竟父亲曾让我们去投靠她……这真令人伤心……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不过埃提亚，西戴尔知道什么才是你所说的真正的强大！ <br>所以他一定能够办到的！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "嗯！我相信姐姐和卡拉秋的眼光。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "但是……卡拉秋去世的消息不应该也要告诉特拉玛依吗？<br>他们都同属<FONT color=#a82424>六大英雄</FONT>，应该是很亲密的同伴吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>特拉玛依说过，凯伊和先知会再过来的。你这里没有他们的消息吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "之前他也通知过他会和凯伊哥哥一起过来。<br>应该是为了让我们见见先知吧。",
+      "answer": ""
+    }
+  ]
+}

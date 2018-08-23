@@ -1,0 +1,264 @@
+{
+  "qkname": "轻微的脚步声",
+  "data": [
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "在被遗弃的韦尔顿哈鲁看到了黑骑士？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(对了，忘了到黑山山角去向露娜莉娅说明情况了！)</FONT>",
+      "answer": "",
+      "image": "qw_skirtofblackmountain.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你先回到<FONT color=#a82424>黑山山角</FONT>去。之后去<FONT color=#a82424>王城</FONT>和我们会合。<br>主教伊格纳西奥说人手越多越好。",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "现在神圣天堂勇敢的士兵们正在尽全力抵挡黑暗矿山的魔物！",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "我要处理的事已经堆积如山了，如果你没有急事，请下次再来找我吧。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "在黑山山角的时候，你想跟我说什么来着？<br>我没听见。",
+      "answer": "",
+      "image": "qw_skirtofblackmountain.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "黑骑士和陌生的金发剑客战斗的事情，我已经知道了。<br>最后还是没能和黑骑士说上话，对吧？",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "所以，你接下去打算怎么办呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>冒险家们正在追踪黑骑士，应该去看看他们那里有没有什么情报。</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ionStand1}<br>如果那个主教认识你……不，认识幻影的话，他怎么知道你是不是敌人？<br>他也许把你当成了幻象。<br>说不定他会想加害幻象。",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "如果他不喜欢幻想，那就不会给你正确的情报。<br>\n你可能会落入陷阱。",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这一点我也想到了……但是只要和其他冒险家一起行动，不就行了？<br>他总不会让其他冒险家也一起陷入危险吧？</FONT><br>\n",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "也许吧。<br>你要到王城去和<FONT color=#a82424>主教伊格纳西奥</FONT>见面，对吧？<br>\n明白了。<br>\n",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你要到王城去和主教伊格纳西奥见面，对吧？<br>明白了。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你来啦。没见到其他冒险家吗？<br>他们刚刚出发。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "根据他们从阿尔杰塔那里获得的情报，黑骑士好像往黑暗大君主领地方向去了。<br>真让人担心。黑骑士不在的时候，凶残的魔物们就给我们造成了很大的麻烦……",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "现在黑骑士回来了，不知道他们会不会发动更加猛烈的攻击。<br>为了找到<FONT color=#a82424>先知</FONT>，我想我们最好先攻占黑暗大君主领地。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>要直接动用军队吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "我哪有那样的权力。我只不过是个主教。<br><FONT color=#7e12d2>(伊格纳西奥摆了摆手)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "神殿骑士团被派到了魔法山脊和凯德拉关卡之后，现在还没回来。就算回来了，重新整顿也需要时间，暂时发挥不了太大的作用。魔法师们一向不喜欢多管闲事，所以也很难期待他们出手……",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "希望神圣天堂的精锐士兵能尽快集结。<br>不过他们现在和<FONT color=#a82424>将军道格拉斯</FONT>一起，驻扎在黑暗矿山。必须先获得他的同意。",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "不好意思，你能到<FONT color=#a82424>黑暗矿山</FONT>去，把神圣天堂的消息告诉将军吗？<br>給，把这封紧急信件交给他，他就能理解目前的状况了。",
+      "answer": "",
+      "image": "qw_27.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "嗯？你是谁？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我叫{user_nick}。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "我好像还是第一次听到这个名字……找我有什么事吗？<br>你也看到了，我正在执行重要的作战计划。",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "<FONT color=#7e12d2>(将军看了主教的紧急信件之后，瞪大了眼睛)</FONT><br>这是……嗯，是主教伊格纳西奥的信。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "嗯，<FONT color=#a82424>先知被黑骑士劫持</FONT>，<br>而且黑骑士回到了老巢，<FONT color=#a82424>黑山山角</FONT>附近的局势很紧张。我知道了。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "为了给军队提供补给，黑暗矿山是非常重要的地方。要是这里完全被魔物夺走，那就糟了。<br>不过现在首要任务是救出先知，这里的防卫工作只能暂时交给冒险家公会了。",
+      "answer": "",
+      "image": "qw_27.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "好的，我会把兵力调集过去。我要和副官们商量一下撤退路线，你先回去吧。<br>我必须下达命令，要求紧急征兵，并把预备兵力召集起来才行。",
+      "answer": "",
+      "image": "qw_27.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "估计下次我们要在王城中再见了。<br><FONT color=#7e12d2>(将军拍了拍我的肩膀，转过身去)</FONT>",
+      "answer": "",
+      "image": "qw_sainthaven_inside.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "\n这里的防卫工作暂时交给冒险家公会，我们必须调转兵力。<br>我们在<FONT color=#a82424>王城</FONT>再见吧。",
+      "answer": "",
+      "image": "qw_sainthaven_inside.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "在来这里的时候……<br>好像又穿越了几次时间。也许。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "但是并没有穿越太长时间，应该没有太大的误差。<br>\n……也许。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>也许？……这也太不确定了吧？<br>在凯德拉关卡的时候，你吃了纯白之球的碎片，不是说暂时应该没事了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "不是没那么大的误差吗？<br>\n别太贪心嘛。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……<br>\n<FONT color=#7e12d2>(露娜莉娅把视线转到了身后)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你也发觉了吗？那边，好像有什么人。<br>……也许。<br><FONT color=#7e12d2>(露娜莉娅指着后面说)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "好像不是认识的人。<br>你的人气还真旺。<br>\n……也许。",
+      "answer": "",
+      "image": "qm_dragonsycophant.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>到底是谁呢？总之很奇怪。</FONT>",
+      "answer": "",
+      "image": "qm_dragonsycophant.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "不知道。",
+      "answer": "",
+      "image": "qm_dragonsycophant.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "刚才那个人好像已经逃走了。<br>我们回去吧？回到<FONT color=#a82424>王城</FONT>去……",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "啊，是帮主教送信过来的人啊。<br>刚回来吗？",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "我一回来就把精锐士兵们召集了起来。<br>虽然人数比预想的要少，但都是身经百战的超精锐士兵。相信我们一定可以完成我们的目标。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "在和黑骑士发生对峙以来，我们从来没有攻入他的老巢深处。<br>如果能趁这次机会获得更多的情报，对今后的战斗也会有很大的帮助。",
+      "answer": "",
+      "image": "qw_28.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "将军道格拉斯已经回来了。<br>你快去和他商量一下进攻黑骑士的老巢的计划吧。",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

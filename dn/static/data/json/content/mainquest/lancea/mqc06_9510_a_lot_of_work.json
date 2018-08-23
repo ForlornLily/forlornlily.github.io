@@ -1,0 +1,201 @@
+{
+  "qkname": "要做的事情有很多",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "哇，姐姐！！这次你该不会又是忘了什么事情，所以才回来的吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哦……听你这么一说，我想起了我要做什么事？！！<br></FONT>我要去<FONT color=#387206>古代武器库的东边</FONT><FONT color=#662500>！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "哎哟，姐姐你也真是的。呵呵呵……<br>那好吧，既然你有要紧事，那等你办完回来后，再听你一一细说吧~！",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "那么，我们在<FONT color=#a82424>古代武器库的东边</FONT>重新碰头吧。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "嗯，姐姐？你不是要去<FONT color=#a82424>古代武器库的东边</FONT>吗？",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "你来啦。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>先知还没有苏醒吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "是的，不知道什么原因，她好像陷入了沉睡。<br>在先知恢复精神以前，必须将其送往安全的地方才行。以现在的情况来看，好像没有其他办法。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "送往其他地方啊……有合适的地方吗？",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "把先知送往一个为我<FONT color=#a94407>提供帮助的人</FONT>那里，应该没什么问题。<br>他是钢铁兄弟团的人，而且比谁都能更好地保护先知。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "啊啊……是兄弟团的人啊，那就没什么问题。<br>好吧，那先知的事情就拜托给你了。<br><FONT color=#7e12d2>(特拉玛依拍了拍凯伊的肩膀)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "好的，包在我身上吧。<br>……<FONT color=#387206>{user_nick}</FONT>，这样一来，我们好像又要好久无法见面了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>干嘛，干嘛突然用这种深沉的目光看着我啊？<br>就算见不到你，我也觉得无所谓啊！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "我说，你这……呼呼。 <br>反正，你帮我转告埃提亚，我会一直跟她联系的，所以让她不用太担心。你要是有什么事情的话，也可以让埃提亚通过蓝鸟告诉我，知道了吧？",
+      "answer": "",
+      "image": "qn_eltia.png "
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真是的</FONT><FONT color=#662500>！……知道啦。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "<FONT color=#2b2723>那么，特拉玛依。我现在就带先知走了。<br></FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#2b2723>，我们后会有期，你要注意身体啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哼，真是啰哩啰嗦。<br>(凯伊抱着先知准备走了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "虽然我很在意伊格纳西奥最后说的那句话，不过我们毕竟成功救出了先知啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不过，她还一直睡着呢。有谁来吻她一下的话，她会不会醒过来呢？呵呵。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#7e12d2>(一脸困惑的特拉玛依笑了笑)</FONT><br>……是啊，还得想办法让先知醒过来。还有，得调查清楚那些使徒们在这里的目的。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "不过你也知道，我不方便暴露自己的身份，所以你能不能在百忙之中帮帮我呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我很想知道，你为何不能暴露自己的身份呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我不能透露很多。不过……由于过去我所犯下的错误，还有，我至今还未完全得到女神的原谅。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哇！你好厉害！你亲眼见到过女神？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "不是，我那是一种隐喻的表达……我并没有亲眼见过女神。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你并没有亲眼见到？那你刚刚是在骗人咯？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我没有骗人。就算没有亲眼见到女神，但经历了漫长人生后，我理解了女神的意图。",
+      "answer": ""
+    },
+    {
+      "question": "#VALUE!",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#7e12d2>(特拉玛依先是一愣，然后凭借极强的气魄让自己振作了精神)</FONT> <br>话说，我在伊格纳西奥的仪式中看到了另一个人……我觉得那个人会不会和伊格纳西奥一样，也是使徒呢！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！对了，我记得有一个戴着头巾的人！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#7e12d2>（由于我未察觉到特拉玛依转移了话题……这让他暗自窃喜）</FONT><br>是的，最好对那个人进行调查。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "请你去问一下卡拉秋，最近莲花沼泽中是否出现过陌生人。<br>如果出现的陌生人不多，那应该很快就能搞清楚那个戴头巾的人到底是谁。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "完事儿后，请你到<FONT color=#a82424>古代武器库的西边</FONT>吧。我们在那里重新碰头。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的，我知道了。<br>（嗯……不过，我现在好想见到埃提亚呢。我还得把凯伊的话传达给她。哎呀，我不管了。先去埃提亚那边！）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(去埃提亚那边吧。)</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐，你回来啦！终于可以跟你好好聊聊了，真开心！<br>\n<FONT color=#7e12d2>*达到43级后，可以进行下一个任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐，你回来啦！终于可以跟你好好聊聊了，真开心！",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "再次见到你，我真是太高兴了……",
+      "answer": ""
+    }
+  ]
+}

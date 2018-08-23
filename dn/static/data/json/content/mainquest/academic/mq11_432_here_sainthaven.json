@@ -1,0 +1,278 @@
+{
+  "qkname": "这里是神圣天堂",
+  "data": [
+    {
+      "npc": "精锐士兵克林德",
+      "question": "\n有很多需要报告的事情，我都快忙死了。<br>※<FONT color=#7e12d2>必须在凯德拉关卡的飞艇工程师休伯特那里接受任务才可以进行。</FONT>",
+      "image": "qn_npc_engineer_hubert.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "嗯……糟了，糟了。<br>\n王国的命运危如累卵……真让人担心。<br>\n※<FONT color=#7e12d2>必须在凯德拉关卡的飞艇工程师休伯特那里接受任务才可以进行。</FONT>",
+      "image": "qn_npc_engineer_hubert.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br>▷请移动到<FONT color=#7e12d2>神圣天堂。</FONT><br>\n<br><FONT color=#7e12d2>※</FONT><FONT color=#7e12d2>必须在凯德拉关卡的飞艇工程师休伯特那里领取任务后才可以进行。</FONT>",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "看来你打算前往神圣天堂啊。<br>你要和关系要好的冒险家们一起前往那里吗？",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "呃，当然这与我无关。<br>话说，小姑娘孤身一人四处旅行，真是了不起。呵呵……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不是小孩子。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "你和凯文说的话一样……<br>飞艇修理已经进入最后阶段。飞艇很快就能起飞了，你在等一会儿吧。<br>※ <FONT color=#7e12d2>达到24级以后才能移动到神圣天堂。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "我现在要报告的事情不是一两件，我已经忙得晕头转向了。<br>如果你没急事，还是下次再来找我吧。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "嗯……糟糕，大事不好了。<br>王国的命运已经危在旦夕……真让人担心。",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br>▷ <FONT color=#7e12d2>请和飞艇工程师休伯特对话。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "你和凯文说的话一样……<br>我已经采取了措施，飞艇应该很快就能够起飞了。<br>搭乘手续的问题你去询问那边的<FONT color=#a82424>售票员阿南娜</FONT>小姐吧。<br><FONT color=#7e12d2>※ 组队状态下无法进行该任务。</FONT>",
+      "answer": "",
+      "image": "qn_npc_woman_tiketer_arnene.png"
+    },
+    {
+      "npc": "阿尔杰塔的奴隶戴维",
+      "question": "呼呼呼，你想侍奉在阿尔杰塔身边？<br>很抱歉，没有你的份！呼呼呼。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "到达神圣天堂啦。这里跟以前一样，还是有那么多没被利用的空间啊。<br>哼……人类为什么喜欢住得这么拥挤啊？",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "\n神圣天堂原来是这样的啊……哇~！<br>\n这里真的好大啊，好开心~ 哇哦！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是啊，真的很大啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "哈哈~ 我在凯德拉获得了<FONT color=#387206>{user_nick}</FONT>的诸多帮助，现在来到神圣天堂也要拜托你多多关照我哦！<br>好了，我们现在进入王城吧？嘿嘿~",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "\n我回来啦。神圣天堂……<br>\n<FONT color=#7e12d2>（伊桑的表情错综复杂）</FONT><br>\n<FONT color=#387206>{user_nick}</FONT>，你是第一次来神圣天堂吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没错。在我所在的地方，这里已经成为废墟……啊，没什么。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "嗯…… 总之，神圣天堂是个非常复杂的地方，你要当心不要迷路啊。嗯，不过我会陪你一起去王城，应该没关系的吧。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n呃呃……没想到我会回到这个地方……<br>\n我有种不好的预感。<br>\n就像……有债主在盯着我……",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "不过，你也要前往王城吗？不知道会不会因此白白少了一杯羹。<br>怎么说我们也是拯救凯德拉的英雄，他们应该不会太小气的吧？对吧？<br><FONT color=#7e12d2>（安杰利卡嘟囔着）</FONT>",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "纳尔希亚女王曾在50年前涉足过这个地方吧？<br>特雷西亚的召唤非常奇妙……我感受到了宿命的重量。",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "多亏了许多冒险岛的帮助，凯德拉关卡才能安全。我现在向卡西乌斯国王陛下报告这段时间发生的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "我听说<FONT color=#387206>{user_nick}</FONT>你的表现也非常活跃。<br>如果你愿意，请跟我一起进宫吧。为了向国王陛下生动地报告黑骑士和先知的情况，我需要目击者冒险家的帮助。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "那我先去王城办理手续，好让各位能谒见国王。一切准备好之后，你们就到王城来吧。",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "你来啦。我刚刚报告完。<br>在凯德拉关卡发生的事情我已经都向国王报告了，但与先知有关的部分……因为我没有亲眼目睹，所以还是拜托你向国王进行说明吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，好的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "谢谢你。不过，在去谒见国王陛下之前，你能先和周围的人分开一会儿吗？<br>※ <FONT color=#7e12d2>组队状态下无法进行该任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br>▷ <FONT color=#7e12d2>请进入王城内部，和精锐士兵克林德对话。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "我们不仅失去了很多士兵，还没能找回先知，我真的很惭愧。<br>不过，多亏了<FONT color=#387206>{user_nick}</FONT>和其他冒险家们的帮助，我们的损失也没有扩大，这也算是万幸了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>请打起精神来。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "谢谢你。现在王城也知道了事态的严重性，应该会采取措施的吧。",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "啊，还有，伊格纳西奥主教说想要见见<FONT color=#387206>{user_nick}</FONT>你。<br>主教就在左边等着你。那……",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你帮了我们很大的忙，<FONT color=#387206>{user_nick}</FONT>。<br>如果没有你，我们可能永远无法得知先知的下落。<br>此外，你在凯德拉关卡那里也为我们提供了很大帮助，你真是了不起。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我们必须快点找到先知。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "话说，<br>先知真的被黑骑士带走了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，我确定。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "其他冒险家也亲眼目睹了这一情况，我相信你所说的，但……唉，黑骑士真是个无比危险的家伙。<br>他摧毁了王城军队乘坐的飞艇，还绑架了先知……他可谓是我们王国最大的敌人。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "我们得尽快找到先知，但可惜的是，目前我们没有可调派的兵力，这可如何是好。我去说服下其他贵族，希望你也能为继续帮忙保卫王国。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>请抓紧时间吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br>▷ <FONT color=#7e12d2>请和主教伊格纳西奥对话。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "希望惨无人道的黑骑士没有伤害先知……<br><br><FONT color=#7e12d2>（链接学者站台，向姐姐报告吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_01.ogg}<br>通讯状态良好-.<br><FONT color=#387206>{user_nick}</FONT>，你平安到达了神圣天堂，这真是太好了。<br>记录上说，王城很大，且地势复杂，你要小心不要迷路啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>嗯，你不要担心。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "好了，我把神圣天堂发生的事件相关的数据发送给你。<br>准备好了吗？",
+      "answer": "（接收数据）"
+    },
+    {
+      "npc": "File No.429",
+      "question": "<FONT color=#7e12d2>多亏了金龙的协助，王城成功确保了先知的安全。</FONT><br><FONT color=#7e12d2>金龙在神圣天堂王城保护先知。</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "File No.429",
+      "question": "<FONT color=#7e12d2>但是，神圣天堂很快就会因魔物萨芬特拉而再次陷入危机之中。</FONT><br><FONT color=#7e12d2>金龙和其他4名英雄成功击退了萨芬特拉，但萝丝却不见了。</FONT>",
+      "answer": "",
+      "image": "qm_sea_drake.png"
+    },
+    {
+      "npc": "File No.429",
+      "question": "<FONT color=#7e12d2>神圣天堂因萨芬特拉的出现而陷入危机之中，趁机抢走萝丝的人正是主教伊格纳西奥。</FONT><br><FONT color=#7e12d2>神圣天堂陷入混乱，英雄们……</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>主教伊格纳西奥……？！</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "现在可谓是困难重重。目前先知暂且落入了人类的手中，我们要抓住这个时机。<br>你要时刻保持警惕，并适时采取行动。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

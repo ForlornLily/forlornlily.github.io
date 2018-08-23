@@ -1,0 +1,100 @@
+{
+  "qkname": "奇妙的行程",
+  "data": [
+    {
+      "npc": "西戴尔",
+      "question": "接受老师的遗愿，守卫着莲花沼泽。<br><br>\n※ <FONT color=#7e12d2>可从高级战士佩德罗那里接受任务。</FONT>",
+      "image": "qn_npc_lotus_warriorfedro.png"
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "\n我仔细思考了一下<FONT color=#a82424>巴尔纳</FONT>来到莲花沼泽的原因。<br>\n他和卡拉秋的关系很好，难道是因为听说了卡拉秋去世的传闻才来的吗？",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "如果他是为了吊唁卡拉秋而来的话，最好将这件事告诉佩奥里斯塔。<br><FONT color=#387206>{user_nick}</FONT>，你去找<FONT color=#a82424>西戴尔</FONT>，把巴尔纳现在正在莲花沼泽的事情告诉他。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "（………）",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>？<br>出了什么急事了吗？<br>\n<FONT color=#7e12d2>（转达佩德罗的话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "什么？ <FONT color=#a82424>巴尔纳</FONT>来了？<br>好久没见到他的踪影，还以为他去世了，没想到还活着。….真是太好了。",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，我得为迎接巴尔纳做准备，你能替我将他带过来吗？",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>交给我吧。</FONT>",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "佩德罗是说他去了<FONT color=#a82424>盲目溪谷</FONT>那边了吗？<br>那么就请去那里吧。如果真的是巴尔纳该多好……<br>老师的老朋友要来了，我心里也好激动啊。",
+      "answer": "",
+      "image": "qw_67.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "… 好奇怪。<br><FONT color=#7e12d2>（贝思柯德往一个方向看去）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "巴尔纳….尽管不确定是不是在这里，但情况的确有点异常。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>见到巴尔纳了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>（贝思柯德呆呆地望着）</FONT><br>是又想涉足世事了吗？<br>好了，我知道了，你回去吧，小毛孩。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "回去吧，小毛孩。<br><FONT color=#7e12d2>(贝思柯德好像不想再跟我说话了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "你回来啦，<FONT color=#387206>{user_nick}</FONT>。<br>你见到… 巴尔纳了吗？<br>\n<FONT color=#7e12d2>（转告见过贝思柯德的事情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "难道……按照贝思柯德的意思，巴尔纳的状态有些异常……？刚巧我们正在谈论有关巴尔纳的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>正在谈论……？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

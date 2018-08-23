@@ -1,0 +1,261 @@
+{
+  "qkname": "叛徒是谁?",
+  "data": [
+    {
+      "npc": "阿尔杰塔",
+      "question": "失去女王候补，又失去森林。精灵长老到底在干什么呢?",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "就算是<FONT color=#387206>{user_nick}</FONT>，也不能进到生命之树内。 ",
+      "answer": ""
+    },
+    {
+      "npc": "可疑的信",
+      "question": "<FONT color=#7e12d2>(掉落着无法解读的信)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "<FONT color=#7e12d2>(长老的脸上充满了担心)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "得去精灵长老那儿问问女王选举会议进行得怎么样了。<br>连这种事都要管。真是非常麻烦。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>就由我去问问精灵长老吧?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你不说也会派你去的。<br>你不会以为我会为这种麻烦的事而亲自动身吧?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊... 是....</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "什么啊? 那不利落的回答是。<br>去这前面的生命之树见见<FONT color=#a82424>精灵长老</FONT>，这么简单的事也觉得麻烦吗?",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>长老看起来很忙呢？我想，待会儿再去比较好。</FONT><br>\n <br>\n<FONT color=#7e12d2>(* 67Lv以后才能进行任务)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝琳德",
+      "question": "真是奇怪啊.. 按照那家伙所说应该在这附近。呃嗯....<br><FONT color=#7e12d2>(萝丝琳德陷入沉思)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<br>去这前面的生命之树见见<FONT color=#a82424>精灵长老</FONT>，这么简单的事也觉得麻烦吗?<br>\n<FONT color=#7e12d2>(去生命之树前寻找精灵长老吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9293_01.ogg}<br><FONT color=#7e12d2>(长老的脸上充满了担心)<br></FONT>不是森林之子的人为什么对女王选举会议感到好奇呢。<br>不能把情况告诉给无法相信的人。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我和特里亚纳大人一起追踪使徒们。<br>想要为守护精灵之森添一份力。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "现在的状况不容信任人类的甜蜜话语呢。<br>现在连同族都不能信任，请你理解。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "如果相信我，就可以信他。<br>旅行中受了很多<FONT color=#387206>{user_nick}</FONT>大人的帮助。长老。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "特里亚纳大人是善良又心弱的人。<br>但是人类有时候会利用那种善良的心，所以很难信赖。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "我想尤万西贝尔也是无法探知内心的人。<br>但<FONT color=#387206>{user_nick}</FONT>大人是从追击黑龙的时候开始，就一直是互帮互助的伙伴。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "ndnpc_AN_Archer Triana_qu_9293_01.ogg}<br>长老难道是觉得我的话也不足以信任吗?",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "<FONT color=#7e12d2>(精灵长老对特里亚纳的提问感到为难)<br></FONT>呃... 特里亚纳大人都这么说了，那我看在那份信赖的份上，就相信他吧。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "不过女王选举会议终究是精灵们的仪式。没必要借助人类的力量。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不需要我的帮忙我就不插手了。<br>但敌人是很难用你们自己的力量对抗不是吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>如果女王选举会议受到非精灵的影响，我想帮忙。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9293_02.ogg}<br>听起来似乎也是。<br>这关系到我们种族的未来，就接受像你一样善良的冒险家的帮助吧。<br>\n不过你想知道关于女王选举会议的什么呢?",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "那孩子是我们宝贵的女王候补。她不是这么轻易就能被击败的啊……<br>秘密会议的仪式竟然没能保护候补的安全，这让我更加吃惊。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "我实在搞不明白他们怎么会对女王选举会议如此熟悉并妨碍。<br>\n只知道我们之中有人在帮助他们，只是这样而已。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "那么，一定程度有答案了不是吗?<br>回到要守护这里的那位身边吧。<br><FONT color=#7e12d2>(长老似乎不会再告诉我更多的情报。回到阿尔杰塔处吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "我能说的似乎都说完了。现在你就回到<FONT color=#a82424>阿尔杰塔</FONT>大人身边吧。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "怎么让我等这么久?等你等到脖子都酸了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>精灵长老似乎非常为难。<br>不知道是不是有叛徒，不肯把情况仔细地告诉我呢。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9293_01.ogg}<br>叛徒吗....也是，萝丝琳德怎么可能对女王选举会议知道得那么清楚?<br>肯定是有人通报了候补们的动向。<br>于是。精灵们在干吗?",
+      "answer": "",
+      "image": "qn_npc_rosalin.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>除了被杀害的候补，其他的候补似乎都没有归来。<br>听说要在青铜残月林间路寻找行踪不明的候补。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "\n好吧。已经决定好由你去查探吧?<br>因为使徒们肯定也在追候补们的动向吧。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "那么去<FONT color=#a82424>青铜残月林间路</FONT>找找失踪的女王候补吧。<br>太迟的话，候补又会死掉的。",
+      "answer": "",
+      "image": "qw_79.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "那么去<FONT color=#a82424>青铜残月林间路</FONT>找回失踪的女王候补吧。<br>太迟的话，候补又会死掉的。",
+      "answer": "",
+      "image": "qw_79.png"
+    },
+    {
+      "npc": "萝丝琳德",
+      "question": "ndnpc_AN_Rozalinde_qu_9293_01.ogg}<br>真是奇怪啊.. 按照那家伙所说应该在这附近。呃嗯.... 嗯?<br><FONT color=#7e12d2>(陷入了沉思的萝丝琳德惊慌地看着我)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这尸体…是你干的吧? 这次绝不放过你!</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>又杀害了这个人吗?这次绝不会让你逃走!</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝琳德",
+      "question": "ndnpc_AN_Rozalinde_qu_9293_02.ogg}<br>哼。可笑。今天心情不怎么好所以不想陪你玩哦?<br>因为那家伙不肯协助所以相当头疼，没想到麻烦的家伙也来了!<br><FONT color=#7e12d2>(还没来得及进入战斗，萝丝琳德就消失了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "可疑的信",
+      "question": "<FONT color=#7e12d2>(萝丝琳德消失的位置上有无法解读的信掉在地上)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "可疑的信",
+      "question": "<FONT color=#7e12d2>(可能是有用的线索也说不定，给阿尔杰塔看看吧。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝琳德",
+      "question": "哼。可笑。今天心情不怎么好所以不想陪你玩哦?<br>因为那家伙不肯协助所以相当头疼，没想到麻烦的家伙也来了!<br><FONT color=#7e12d2>(还没来得及进入战斗，萝丝琳德就消失了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "可疑的信",
+      "question": "<FONT color=#7e12d2>(可能是有用的线索也说不定，给阿尔杰塔看看吧。)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "总是那么磨磨蹭蹭的所以才让萝丝琳德跑了吧。<br>比使徒们更快。就做不到吗?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不过发现了这种东西。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9293_03.ogg}<br>是信啊? 不过....嗯....<br><FONT color=#7e12d2>(阿尔杰塔看了好一会儿的信)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>有人似乎在帮助萝丝琳德。<br>这封信中，会不会有能找到叛徒的线索呢?</FONT>",
+      "answer": "",
+      "image": "qn_npc_rosalin.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "可能吧。不过无法读下去不是吗?<br>这也不是古代语。是第一次见到的语言呢?",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

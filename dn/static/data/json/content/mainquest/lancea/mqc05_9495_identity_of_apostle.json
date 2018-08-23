@@ -1,0 +1,191 @@
+{
+  "qkname": "使徒的真实面目",
+  "data": [
+    {
+      "npc": "将军道格拉斯",
+      "question": "你居然如此失望……<FONT color=#7e12d2>（将军道格拉斯用可怜的眼神望着我）</FONT><br>你为什么要找他们啊？之前你也给我提供了很多帮助，这次我就帮帮你吧。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "尤斯提亚家族怎么会变成这样，啧啧……<br><FONT color=#7e12d2>（伊格纳西奥摇晃着脑袋）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "啊！<FONT color=#387206>{user_nick}</FONT>。我们又见面了！<FONT color=#7e12d2>（柯梅里纳莞尔一笑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>龙之追随者抢走了对我来说很珍贵的东西……<br>所以，我要找回来。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "该死，如果是这样的理由，我倒可以理解。<br>嗯！你去见见其他冒险家如何？他们也在寻找龙之追随者。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！原来如此。冒险家们现在在哪里？<br>（说不定又能见到伊桑了！！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "这个么，最近他们好像在帮助<FONT color=#a82424>主教伊格纳西奥</FONT>做什么事情。<br>你去问问伊格纳西奥，应该就知道了吧。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>谢谢你！道格拉斯将军，真的很感谢！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "冒险家们最近好像在帮助<FONT color=#a82424>主教伊格纳西奥</FONT>做什么事情。<br>你去问问伊格纳西奥，应该就知道了吧。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "啊，是<FONT color=#387206>{user_nick}</FONT>啊……你来找我是为何事？<br><FONT color=#7e12d2>（主教伊格纳西奥表情有些不自然）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个，其他冒险家现在在哪里？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你也是来帮我做那件事的吗？但是你……一点都不可靠。<br>我承认你和将军道格拉斯一起立了功，但这件事不需要借助你的手。你就不必费心了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯…呜呜….呜啊….（伊格纳西奥好像总是无视我。眼泪不自主地流了下来）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "别，别…别哭了。他们离开王城了。<FONT color=#7e12d2>（主教伊格纳西奥慌忙地环顾周围）</FONT><br>其，其他人都去<FONT color=#a82424>死亡城市路口</FONT>寻找黑龙的翅膀了。",
+      "answer": "",
+      "image": "qw_38.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呜... （既然他已经告诉我了，那就擦干眼泪吧）</FONT><br>\n<FONT color=#662500>谢谢你，那我走了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "啧……<FONT color=#a82424>死亡城市路口</FONT>非常危险，你要格外小心。你是尤斯提亚家族的后人，如果你死在那里，肯定会有传闻说是我让你前往那里，结果白白害死了你。那，祝你好运。 ",
+      "answer": "",
+      "image": "qw_38.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "啊！<FONT color=#387206>{user_nick}</FONT>。<br>你找到关于你父亲的线索了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>原来是柯梅里纳啊。伊格纳西奥所说的冒险家……原来是柯梅里纳你啊。<br>你在这里做什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "我在这里的事情已经处理好了，正打算前往沉没的货船呢。我要搜集其他药材……<br>嗯？不过，你怎么看起来一点精神都没有啊？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我以为会见到伊桑呢。呃……这件事并不重要，但我最终还是没能找到有关父亲的线索。</FONT><br>\n<FONT color=#662500>所以我正在四处向大家询问。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不知道其他冒险家是否知道见到龙之追随者的办法，柯梅里纳，你知道吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "龙之追随者……我曾经碰到过几次，但没能追上他们。<br>你说你父亲的消失与龙之追随者有关？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯。龙之追随者，还有使徒……我都很讨厌。呜呜…</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "使徒吗？对了！我知道一名<FONT color=#a82424>使徒</FONT>呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？是谁！！？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "王城的<FONT color=#a82424>主教伊格纳西奥</FONT>。他其实是个使徒。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？原来使徒并不是坏人啊。<br>我还以为只要与龙之追随者有关联，就是坏人呢，看来我搞错了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "不是的！使徒是坏人。使徒可以说是龙之追随者中的头目。<br>伊格纳西奥隐藏了自己的真实身份，蒙骗了其他的冒险家。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？真是太坏了！我现在就去找他问清楚！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "嗯？？就算你去找伊格纳西奥，他也不会跟你说实话的……<br><FONT color=#7e12d2>（学者柯梅里纳似乎想要劝阻我，但还是去向伊格纳西奥问个清楚吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你这么快就回来啦。但是，其他冒险家已经来过这里了，他们搜集到了我委托的物品。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哼…哼…哼……（原来他是个坏人……我真是太愤怒了！！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你干嘛站在那里用鼻子发出那种声音？<br>你跟其他冒险家错开了，难道怪我吗？啧啧……拉斯那个人是怎么教育女儿的……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>伊格纳西奥主教，我对你太失望了。<br>听说你是使徒？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "使，使徒？什么使徒，你在说什么啊？<br>你说的话真是令人费解。",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "qkname": "重新探索位置",
+  "data": [
+    {
+      "npc": "学者站台",
+      "question": "\n<FONT color=#7e12d2>(将通讯器连接到学者站台)</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "<FONT color=#086171>System boot…………….</FONT><br><FONT color=#086171>Checking Data………….</FONT><br><FONT color=#086171>LoginID  Academic</FONT><br><FONT color=#086171>Password  ********</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "<FONT color=#086171>Connect…………….</FONT><br><FONT color=#086171>Wellcome Academic Station. ver.2.1.1.</FONT><br><FONT color=#086171>ⓒ Bellin Corporation. All Right Reserved.</FONT><br>\n<br><FONT color=#7e12d2>（听见连接提示音，画面上方出现了熟悉的面容）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_Jasmin_qu91_01.ogg}<br>我是百合花……通讯状态良好……<br>\n咦？！<FONT color=#7e12d2>(百合花眼睛睁得圆圆的)</FONT><br>该死……链接好像出了些问题，收信状态一团糟。现在确认……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>啊，姐姐！是我，我~！</FONT><br>\n<FONT color=#387206>{user_nick}</FONT><FONT color=#662500>！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "\n…？我妹妹<FONT color=#387206>{user_nick}</FONT>？<br>\n<FONT color=#7e12d2>(百合花靠近了屏幕)</FONT><br>\n如此看来……",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "……？<br>……？！<br>天啊~？！！！确实是<FONT color=#387206>{user_nick}</FONT>啊？<br>好可爱！这到底是怎么回事？",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_MR_Jasmin_sp_06.ogg}<br>飞艇迫降了，等你回过神来，已经变成了这样……？<br>没想到天启还有返老还童的功能啊？嘿嘿~<br><FONT color=#7e12d2>（百合花咯咯地直笑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>一点都不好笑！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "\n嘿嘿~我知道啦，你真没劲……<br>\n<FONT color=#7e12d2>（传来了百合花操作机械的声音）</FONT><br>\n所以……嗯，你现在的位置是…… <FONT color=#a82424>魔法山脊</FONT>？与预想的坐标相差很远啊……？",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "不过幸好误差范围还不算很大。<br>坐标已经重新修改为魔法山脊，现在得重新设置下时间。<br>\n你去确认下现在的时间，然后告诉我。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "啊，在此之前，有必要先检修下装备。就像你的身体出现异常一样，装备说不定也出了问题，检测下装备不会有什么坏处的。<br><FONT color=#a82424>铁匠宝林</FONT>应该就住在魔法山脊，你先去找他吧。",
+      "answer": "",
+      "image": "qn_blacksmith_dorin.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_Jasmin_qu91_02.ogg}<br>嗯，如果你需要适应训练，可以通过[<FONT color=#a82424>教程</FONT>]学习下基本的功能。<br>链接学者站台时，你将在菜单中看到[<FONT color=#a82424>教程</FONT>]，千万别忘记啊。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "铁匠宝林",
+      "question": "\n寒风真是刺骨啊……瑟瑟发抖……",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br>▷ <FONT color=#7e12d2>请去找铁匠宝林检修装备。</FONT>",
+      "answer": "",
+      "image": "qn_blacksmith_dorin.png"
+    },
+    {
+      "npc": "铁匠宝林",
+      "question": "\n嗯？我好像在附近没见过你啊……？",
+      "answer": ""
+    },
+    {
+      "npc": "铁匠宝林",
+      "question": "嘿嘿~ 每天只见到冷漠的牧师和麻烦的魔法师，突然见到像你这样可爱的小女孩，心情真好啊。<br>小姑娘，你来铁匠铺做什么呀？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我想修理装备。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "铁匠宝林",
+      "question": "装备……？<br><FONT color=#7e12d2>（宝林接过装备看了看）</FONT><br>哎呀……你怎么拿着这样的大家伙？<br>是你妈妈给你的吗……？还是，你偷拿了你姐姐的？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>这是我自己的装备……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "铁匠宝林",
+      "question": "哦吼……我还是第一个见到这种焊接方法呢？嗯……呃……<br><FONT color=#7e12d2>（宝林的表情逐渐变得真挚）</FONT>",
+      "answer": "",
+      "image": "qn_blacksmith_dorin.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "铁匠宝林",
+      "question": "咦……喂，小姑娘。<br>这装备……你究竟是从哪里得来的？嗯？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>这是个人隐私！</FONT>",
+      "answer": ""
+    }
+  ]
+}

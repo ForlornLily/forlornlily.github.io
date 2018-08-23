@@ -1,0 +1,500 @@
+{
+  "qkname": "别离",
+  "data": [
+    {
+      "npc": "道格拉斯将军",
+      "question": "在侦察兵们去红色胡须之岛调查回来之前，我们先暂时等一下吧。",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "嗯，真是巧了。在红色胡须之岛附近的侦察兵，说那里似乎正在形成 <FONT color=#a82424>巢穴</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "看来<FONT color=#662500>黑骑士说的是真的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "是啊，看来萨芬特拉真的成了<FONT color=#a82424>海龙</FONT>。<br>但是侦察兵说没有在那里见到<FONT color=#a82424>萨芬特拉</FONT>。而是见到了像山一样巨大的，覆盖着一层膜的东西。",
+      "answer": "",
+      "image": "qm_sea_dragon.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "侦察兵的报告上说，那东西看起来很像是爬虫类动物的卵或是昆虫的茧，我在想那会不会是<FONT color=#a82424>萨芬特拉</FONT>的茧。",
+      "answer": "",
+      "image": "qm_sea_dragon.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "<FONT color=#a82424>萨芬特拉</FONT>已经获得了龙的力量。<br>也许那个茧就是成为海龙的最后一个过程。",
+      "answer": "",
+      "image": "qm_sea_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>如果它从那个茧里面出来，我们该怎么办？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "我也不太清楚，不过我的第六感告诉我……<br>我们最好是在那个东西从茧中出来之前就将那东西给摧毁。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是啊。（这不用第六感也能看得出来吧。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "麻烦你再去<FONT color=#a82424>纹章学者斯塔西</FONT>那里一趟，打听一下进入海龙萨芬特拉巢穴的方法，<br>在那东西从茧中出来之前，我们一定要消灭它。",
+      "answer": "",
+      "image": "qn_npc_scholar_starshy.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "我正在认真的寻找记录，<br>总会有什么可以打倒海龙的方法的吧！",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "因为那个海龙还有什么的，地价又跌了。唉，真是气死我了！我还以为上次因为小狗而下跌后的价格就已经是最低的了。<br>道格拉斯将军究竟在干什么呢？！",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "如果<FONT color=#a82424>纹章学者斯塔西</FONT>已经找到进入海龙萨芬特拉巢穴的方法就好了。",
+      "answer": "",
+      "image": "qn_npc_scholar_starshy.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "<FONT color=#7e12d2>（斯塔西打开了几个卷轴，正在查阅）</FONT><br>啊，<FONT color=#387206>{user_nick}</FONT>，你好。<br>你转告了道格拉斯将军吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的，你在调查进入海龙巢穴的办法啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "恩，我已经在调查之中了，<br>但是我得先告诉你一个不好的消息。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不好的消息？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "我曾经听说过有人为了进入<FONT color=#a82424>黑龙</FONT>巢穴使用了<FONT color=#a82424>古代祭司长的月牙</FONT>，但是，用这东西似乎也无法进入海龙巢穴。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "巢穴的钥匙必须要和巢穴主人的力量拥有相同的属性，因为<FONT color=#a82424>黑龙</FONT>是被古代人创造出来的。所以拥有着和<FONT color=#a82424>古代祭司长的月牙</FONT>相同属性的力量。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "但是<FONT color=#a82424>海龙</FONT>的力量不同。现在它是将原本萨芬特拉的属性和金龙的力量，还有黑龙的力量混合在一起的状态。所以，要探究<FONT color=#a82424>海龙</FONT>的力量属性是很复杂的一件事。如果能分析一下就好了，但是现在无法接近萨芬特拉，很难办啊。",
+      "answer": "",
+      "image": "qm_sea_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>说不定我能帮上忙。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "你吗……？<br>这么看来……你，不久之前曾经沾染过<FONT color=#a82424>萨芬特拉</FONT>的血吧？说不定你的血会有所帮助。",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "你先拿着这个纸条去找<FONT color=#a82424>高级魔法师斯泰拉</FONT>吧。<br><FONT color=#7e12d2>（斯塔西拿出了纸条）</FONT>",
+      "answer": "",
+      "image": "qn_npc_soceressstella.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "现在剩下的事情就要<FONT color=#a82424>高级魔法师斯泰拉</FONT>自己看着处理了，<br>咳咳……你要是发生了什么不测，那也是斯泰拉干的，你不要埋怨我哦。",
+      "answer": "",
+      "image": "qn_npc_soceressstella.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "哎哟，地价真是跌到底了。<br><FONT color=#7e12d2>（斯泰拉叹了口气，看着纸条）</FONT><br>你有什么事，小鬼？",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "难道是情书？<br>哎呦，这老家伙真是有眼光……<br>也是，我的人气一直很高啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>晕……（自恋到这种程度也是一种病啊）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "哎？不是情书啊。<br>这什么啊？要我帮忙混合用在制作<FONT color=#a82424>前往海龙巢穴的钥匙</FONT>上的力量的精髓，这老家伙，一有麻烦事准想到我。",
+      "answer": "",
+      "image": "qm_sea_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>拜托你了……</FONT>",
+      "answer": "",
+      "image": "qm_sea_dragon.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "好吧！<br>因为那该死的<FONT color=#a82424>海龙</FONT>让地价暴跌，我也正烦着呢。嗯……好！<br>首先，你！！",
+      "answer": "",
+      "image": "qm_sea_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "我得先分析一下你的血，<br>把胳膊伸出来。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "<FONT color=#7e12d2>（斯泰拉拿出巨大的</FONT><FONT color=#7e12d2>针管(?)，插进了我的胳膊）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>咳啊啊啊～～～～啊！！！！！！！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "这孩子怎么这么会装模作样啊……<br>现在就来分析血液吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗬嗬……（刚才我看到死去的杰兰特应该是错觉吧……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "雅利雅利★ 雅利咻♬ 雅拉利～雅拉♤ 呀～♥<br><FONT color=#7e12d2>（斯泰拉正用严肃的表情念诵奇怪的咒语）</FONT><br>好……<br>完成了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你刚才那是在干什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "当然是在分析你的血啊，不然呢？<br>这都看不出来？<br>你都已经<FONT color=#387206>{user_class}</FONT>了，这都不知道啊？真是一点都不专业。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "这不是<FONT color=#662500>({user_class}的问题吧……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "哎哟，你这孩子怎么就这么不开化呢？你是不知道这调查的过程有多系统吗？抽血！念咒语！然后调查就结束了！",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "总之，你的血里还真是什么都有啊。让我看看你的血液成分，为了制造海龙巢穴钥匙……哦？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "全部都有啊……你是吃什么长大的啊，血液里简直能直接跳出<FONT color=#a82424>巢穴的钥匙</FONT>啊？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这，这个嘛……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "OK～☆<br>那现在就开始吧～<br><FONT color=#7e12d2>（斯泰拉将血液样本和从未见过的东西放进了锅里。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "<FONT color=#a94407>阿布拉卡达布拉</FONT>★ <FONT color=#086171>念诵♡咒语吧</FONT>！<br>阿布拉♤卡达布拉♬全都完成吧～呀！！",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "<FONT color=#7e12d2>（液体咕嘟咕嘟变成了黑色透明的状态）</FONT><br>好，全都完成了！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这，就已经完成了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "材料也放了，咒语也念过了，还有什么需要的吗？<br>来，现在就去把这个交给<FONT color=#a82424>纹章学者斯塔西</FONT>吧。",
+      "answer": "",
+      "image": "qn_npc_scholar_starshy.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "<FONT color=#a82424>纹章学者斯塔西</FONT> 那个老头，整天装作很厉害的样子。<br>没有我伟大的能力就什么都做不成啊，呵呵。",
+      "answer": "",
+      "image": "qn_npc_scholar_starshy.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "你已经完成力量的混合物了吗？！<br><FONT color=#7e12d2>（斯塔西声音焦急地询问着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的，怎么了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "<FONT color=#7e12d2>（斯塔西在力量的混合物中放入了水晶碎片。）</FONT><br>萨芬特拉已经开始破茧了。",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "在收集材料的过程中，似乎已经完全结束了变异的过程，<br><FONT color=#a82424>道格拉斯将军</FONT>会很快向你转交消灭<FONT color=#086171>海龙</FONT>的命令状的。",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我要是能再快点……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "这不是你的错。<br><FONT color=#7e12d2>（斯塔西将混合物中的水晶碎片拿了出来。）</FONT><br>来，你拿着这个。",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "来，赶紧去消灭<FONT color=#a82424>海龙</FONT>吧！<br>已经有输送船在<FONT color=#a82424>赫尔马岱港口</FONT>那里等候，准备将你送去海龙巢穴。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的……我会回来的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "请你小心，快去<FONT color=#a94407>开往孤岛的输送船</FONT>吧。",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "我已经把讨伐海龙命令书交给纹章学者斯塔西了。<br>钥匙已经完成，请你立刻出发去海龙巢穴吧。",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "消灭了<FONT color=#a82424>海龙</FONT>？！",
+      "answer": "",
+      "image": "qm_sea_dragon.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "<FONT color=#7e12d2>（转告了发生的事情）</FONT><br>嗯，<FONT color=#a82424>贝思柯德</FONT>出现在那里，用<FONT color=#a82424>杰兰特的剑</FONT>打倒了海龙……？而且吸收了<FONT color=#a82424>海龙萨芬特拉</FONT>的气息？",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德为什么会出现在那里呢。</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "嗯……<br><FONT color=#7e12d2>（斯塔西陷入沉思）<br></FONT>这么说来，上次贝思柯德在和杰兰特的战斗中失去了<FONT color=#a82424>一个翅膀</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "而主教则利用那个<FONT color=#a82424>翅膀</FONT>制作出了萨芬特拉。如果我猜的没错的话，贝思柯德去那里就是为了<FONT color=#a82424>恢复</FONT>在和杰兰特的战斗中失去的力量。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "不过… 海龙除了黑龙还应拥有金龙的力量啊…不知道他所吸收的是否紧紧是黑龙的力量…",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那是什么意思……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "以杰兰特的剑为媒介吸收了海龙的力量，不知道是不是连金龙的力量也被吸收了。",
+      "answer": "",
+      "image": "qp_geraint_sword.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那种事情……</FONT>",
+      "answer": "",
+      "image": "qp_geraint_sword.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "既然萨芬特拉是用黑龙的翅膀做成的，那萨芬特拉肯定能觉察到贝思柯德的存在。所以，他需要有人吸引海龙的注意力，而那个人就是被<FONT color=#a82424>海龙萨芬特拉的血所污染的</FONT> <FONT color=#a82424>你</FONT>吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那么……我，又被利用了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "虽然消灭<FONT color=#a82424>海龙</FONT>，贝思柯德获得了好处，但要不是因为你，还有谁能够将我们从海龙的威胁中拯救出来呢。你并不是为了他，而是为了我们而战斗的啊。",
+      "answer": "",
+      "image": "qm_sea_dragon.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "别那么垂头丧气啊。现在应该是享受胜利的时候。",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "你快去向<FONT color=#a82424>道格拉斯将军</FONT>转告打败了海龙的消息吧！",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "啊哈哈！<br>我们的英雄终于来了！",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "这是什么话？<br>杀死<FONT color=#a82424>海龙萨芬特拉</FONT>，你是当之无愧的英雄啊！",
+      "answer": "",
+      "image": "qm_sea_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>但是，最后挥剑的是……</FONT>",
+      "answer": "",
+      "image": "qm_sea_dragon.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "嘘！这我也听说了。<br>不过人们现在需要一个英雄。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "人们会更愿意相信你杀死海龙这件事的，所以这件事就不要向别人提起了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "人们喜爱的是美好的假相，而不是残酷的真相。所以，你只要做你的英雄就可以了。<br>不要辜负了人们对你的期待啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>.……（无法回答）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰兰特……<br>我已经为您报了仇。<br>我能做的似乎就只有这么多了。再见……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰兰特……<br>我已经为您报了仇。<br>不管是相遇还是离别，我都是特雷西亚的一部分。帕拉特雷西亚……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰兰特……<br>我已经为您报了仇。“为了”您啊。我一分钱都不收，还努力做到这种程度，这对于我来说很难得啊……所以……现在请您安息吧……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰兰特……这样您就能安息了吧？<br>请在女神的怀抱中永远地安息吧……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰兰特 大人。 虽然我眼睁睁的看着您和师父在我面前死去……<br>我能以这个来偿还一点我的债吗？<br>.……我真的很想再见见您们，师父……还有您……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这和我知道的历史不同。杰兰特大人……现在，失去了您，我很难过。<br>我也很害怕，因为我的错而毁了一切。贝思柯德大人似乎也对我失望了。<br>但是……但是我亲手消灭了海龙！为了您！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰兰特……我还是不了解你。不知道这是不是因为我身为人类，自然无法理解身为龙的你……<br>我不想再看见突然的死亡了。<br>我只祈求和平。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>现在……去莲花沼泽……吧。</FONT>",
+      "answer": ""
+    }
+  ]
+}

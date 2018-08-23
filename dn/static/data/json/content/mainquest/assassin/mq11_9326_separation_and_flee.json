@@ -1,0 +1,103 @@
+{
+  "qkname": "分离和逃跑",
+  "data": [
+    {
+      "npc": "精锐士兵克林德",
+      "question": "萨芬特拉竟然出现了……真让人担心。<br>神圣天堂不会有事吧？",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "啊，你是因为萨芬特拉的事情，要到赫尔马岱港口去吗？<br>真是辛苦你了。",
+      "answer": "",
+      "image": "qw_hermalteport.png"
+    },
+    {
+      "npc": "暗影喵",
+      "question": "你在干什么喵？！",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "要到<FONT color=#a82424>赫尔马岱港口</FONT>去啊。<br>明白了。",
+      "answer": "",
+      "image": "qw_hermalteport.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "冒险家们在那边。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "和我待在一起的话，不知道会发生什么事。<br>我会跟你们保持一定的距离，你先去吧。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "不过在这之前，最好先确认一下目的地是哪里。<br><FONT color=#7e12d2>(露娜莉娅指着前面说)</FONT>",
+      "answer": ""
+    },
+    {
+      "question": " <br>\n<FONT color=#7e12d2>(露娜莉娅好像不想再说话了)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "暗影喵",
+      "question": "哦，{user_nick}，是你啊喵！！<br>你终于清醒了喵！！",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "嗯？发生了什么事……你自己难道不知道吗喵？<br><FONT color=#387206>{user_nick}</FONT>，那个人果然不是你喵！<br>\n这下我明白了喵！谜团全部解开了喵！",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "刚才在来这里的路上，我看到有个和你长得一模一样的人带着一个女人跑了过去喵。<br>不管我怎么叫他，他都不理我喵！稍微变强了一点，就恩将仇报，这让我很生气，但是因为太害怕……<br>\n喵喵！不，因为……我是只深明大义的猫，所以就主动避开了喵。",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "我绝对不是因为害怕而逃走的喵。你必须相信我喵。<br>\n个人名誉是非常重要的喵！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(幻象……吗？那么说他没有控制我的身体，而是分离出去了吗？<br>分离出去，然后带着露娜莉娅逃走了？)</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>其他冒险家呢……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "其他人？没有其他人啊喵。<br>那个长得和你一模一样的人走掉之后，我回头一看，就看见<FONT color=#387206>{user_nick}</FONT>你一个人站在这里喵！",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "暗影喵",
+      "question": "不过即使没有其他人的帮助，你也可以依靠自己的力量到达那里喵！<br>这段时间的修行是不会白费的喵～",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你看见他们去哪里了吗？</FONT><br><FONT color=#662500>去……去哪儿了呢？！</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "你是想问他们去哪儿了吗喵～",
+      "answer": ""
+    }
+  ]
+}

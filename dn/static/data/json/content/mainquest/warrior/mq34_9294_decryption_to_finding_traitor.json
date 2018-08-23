@@ -1,0 +1,135 @@
+{
+  "qkname": "解读暗号",
+  "data": [
+    {
+      "npc": "阿尔杰塔",
+      "question": "可能吧。不过无法读下去不是吗?<br>这也不是古代语。是第一次见到的语言呢?",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "听说你去了<FONT color=#a82424>阿努阿兰德</FONT>，那边的要事办完了吗?",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "这是你带来的信，就由你负责解读吧。<br>去图书馆也好，浸水火烧也行，总之会有方法解读吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>拿到纹章学者那儿看看吧?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#a82424>纹章学者</FONT><FONT color=#2b2723>?</FONT> 好吧，你看着办。",
+      "answer": "",
+      "image": "qn_npc_scholar_starshy.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "不是要去<FONT color=#a82424>神圣天堂的纹章学者</FONT>处吗?<br>嗯，随便你去哪儿，总之要解读这封信。知道了吧?",
+      "answer": "",
+      "image": "qn_npc_scholar_starshy.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "这个无法看作是字。说是画又太有规律性了....<br>这可能就是暗号了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>果然是暗号啊! 可以解读吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "如果是这种方式的暗号…某处肯定有... 痕迹...<br><FONT color=#7e12d2>(斯塔西高举信看着)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没有什么解读法吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "这是部分使用了特殊墨水的暗号。<br>这种墨水用特殊的油制作，用这种墨水写下去之后过一段时间，字就能消失得无影无踪。<br>真是好久没见到这种暗号了啊。",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "这是非常古老的暗号，所以也有很多人知道解读方法。<br>只需要有些材料就好了，你可能得去趟沙漠。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>如果是那种事就交给我吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "呵呵呵，不愧是年轻人，活力充沛啊。<br>那去<FONT color=#a82424>沙尘之海</FONT>找到沙漠植物的汁液再过来吧。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "呵呵呵，不愧是年轻人，活力充沛啊。<br>那去<FONT color=#a82424>沙尘之海</FONT>找到沙漠植物的汁液再过来吧。",
+      "answer": "",
+      "image": "qw_76.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "这本来是很难见到的情况。就像魔法一样，像这样~ <br><FONT color=#7e12d2>(斯塔西喷了些液体之后信上开始出现斑点)<br></FONT>看吧。现在能看懂吧?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不懂哦。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "哎哟，看来你看不懂精灵语啊。<br>最近精灵语和小妖精语是教养是常识。本来就是要趁年轻的时候学习啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>直接解释给我听吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "知道了。嗯，内容不多。是关于某个日程的情报...<br>有出发时间，场所之类的东西写在上面。对，这个可以确认。朱万.. 不对，是一个叫<FONT color=#a82424>尤万西贝尔的人寄出的信</FONT>。",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>尤万西贝尔吗?<br>原来如此。谢谢。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "那封信到底是什么?? 嗯? 要快点回到<FONT color=#a82424>阿努阿兰德</FONT>吗??",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#a82424>尤万西贝尔</FONT>寄出的? <br>尤万西贝尔是使徒中的一个，说起来也很正常。<br><FONT color=#7e12d2>(阿尔杰塔读着信)</FONT>",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9295_02.ogg}<br>这是... 森林的根源的位置和女王候补们行动的时间啊。<br>尤万西贝尔在向萝丝琳德卖掉女王选举会议的情报。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

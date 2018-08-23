@@ -1,0 +1,199 @@
+{
+  "qkname": "龙之追随者据点",
+  "data": [
+    {
+      "npc": "察提",
+      "question": "\n呜呜……外公……<br>\n对不起我来的太迟了……<br>\n外公……呜呜……"
+    },
+    {
+      "npc": "察提",
+      "question": "\n西戴尔好像非常得难过，真叫人担心啊……"
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "什么？你说谁要买什么东西……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>察提让我替她买一只钢笔。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "要是你能替我去<FONT color=#a82424>商人洛西塔</FONT>那里帮西戴尔买个礼物就好了，西戴尔非常喜欢学习，还懂得写字……那个，麻烦你帮我去买支钢笔吧，拜托你了。",
+      "answer": "",
+      "image": "qn_npc_lucita.png"
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "察提姐姐要买钢笔……？<br>姐姐什么时候学会写字了……？她说是她自己用吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不，是用来送礼物的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "啊哈，原来是需要<FONT color=#a82424>用于送人的钢笔</FONT>啊。<br>等一下哦……在这里。<br><FONT color=#7e12d2>（洛西塔递过来用于送人的钢笔）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>谢谢。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "啊，冒险家。这是我听某个客人说的，不知道能不能帮上你的忙，听说某个地方聚集了戴着面具的外地人，所以那个地方好像被称为<FONT color=#a82424>龙之追随者据点</FONT>。",
+      "answer": "",
+      "image": "qw_54.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>龙之追随者据点？</FONT>",
+      "answer": "",
+      "image": "qw_54.png"
+    },
+    {
+      "npc": "察提",
+      "question": "呜呜……爷爷……<br>对不起我来晚了……<br>爷爷……呜呜……",
+      "answer": ""
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "是，好像就在利物沃特村庄废墟的附近，如果你去那里，一定要注意安全。<br><FONT color=#7e12d2>（回到察提那里吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "察提",
+      "question": "你已经回来了啊？",
+      "answer": "（递上用于送人的钢笔）"
+    },
+    {
+      "npc": "察提",
+      "question": "\n谢谢你，希望<FONT color=#a82424>西戴尔</FONT>能喜欢这个……",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不过……（转述从商人洛西塔那里听到的话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "……？！<br><FONT color=#7e12d2>（察提还没等我把话说完就着急地要去什么地方）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你要去哪儿？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "那个地方聚集了龙之追随者的话……说不定，我爷爷就在那里。现在<FONT color=#a82424>卡拉翰</FONT>不在这里，至少我也要过去看看啊。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>等，等等。我去叫西戴尔，一起去吧。</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "察提",
+      "question": "我不想再麻烦西戴尔了。<br>我要一个人去。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不行，太危险。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "不用担心，我也不是傻子。<br>我会悄悄地潜入仔细观察的。<br><FONT color=#7e12d2>（最好还是跟过去看一看）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "<FONT color=#a82424>龙之追随者据点</FONT>对吧……？<br>爷爷一定要没事啊……<br><FONT color=#7e12d2>（跟着察提前往龙之追随者据点）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "\n呜呜……爷爷……对不起我来得太迟了……<br>我……我要是能早点过来……<br>\n爷爷……",
+      "answer": ""
+    },
+    {
+      "npc": "察提的爷爷",
+      "question": "ionStand}<br>不，不是的……孩子啊，趁着现在还不算太晚，你能过来我已经非常感谢我们的祖先了，咳咳咳咳……现在我这老头子就要跟祖先一道……离去了。",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "我不要！不行！你不能留下察提一个人！<br>我还需要爷爷！",
+      "answer": ""
+    },
+    {
+      "npc": "察提的爷爷",
+      "question": "对不起，察提啊……咳咳咳咳……现在我就要将我们部族交付于你了……我会告诉你我们部族圣地……的所在……<br>\n<FONT color=#7e12d2>（察提的爷爷在察提的耳边低声说着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "呜呜……<br><FONT color=#7e12d2>（察提哽咽着点了点头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提的爷爷",
+      "question": "咳咳咳咳……龙之追随者那帮家伙虽然对我严刑拷打，逼问我圣地的位置……但是咳咳……我这老头子……还是守住了……咳咳……祖先的秘密……",
+      "answer": ""
+    },
+    {
+      "npc": "察提的爷爷",
+      "question": "ionDie}<br>察提啊……你也一定要……守住这个秘密……守护好龙之宝玉……守护好……<br><FONT color=#7e12d2>（察提的爷爷合上了双眼）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "不行~！爷爷！求求你……求求你睁开眼睛！<br>求求你……不要丢下我一个人……求求你……呜呜……<br><FONT color=#7e12d2>（察提伤心地哭泣）</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……）</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "察提",
+      "question": "我想……和我爷爷单独待一会儿……<br>拜托你了……呜呜……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好吧……知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "\n<FONT color=#7e12d2>（察提抱着祖父冰冷的尸体不停地哭泣，察提似乎很需要西戴尔的安慰）</FONT>",
+      "answer": ""
+    }
+  ]
+}

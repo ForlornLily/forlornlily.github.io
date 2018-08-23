@@ -1,0 +1,366 @@
+{
+  "qkname": "延续的路",
+  "data": [
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "这就是纯白之球 啊。没想到竟然能亲眼见到如此珍贵的宝物，真是让人感慨万千。<br>它可真美啊。要是老师能活到这一天就好了。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "好了，为了完全净化凯德拉关卡，让我们说说接下去该做的事情吧。<br>根据这份文件，要想激活<FONT color=#a82424>净化装置</FONT>，还需要<FONT color=#a82424>净化装置启动钥匙</FONT>。",
+      "answer": "",
+      "image": "qp_puri_facility.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "那把钥匙在祈祷者安息处的<FONT color=#a82424>狮蝎克鲁鲁</FONT>身上。<br>狮蝎是古代文明和魔导学相结合的产物。<br>是将狮子的脑袋、羊的身体、蛇的尾巴组合在一起创造出来的奇美拉的一种。",
+      "answer": "",
+      "image": "qm_manticore.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "<FONT color=#a82424>祈祷者安息处</FONT>中的狮蝎克鲁鲁似乎是更加高级的魔兽。<br>古代人把它当作守护自己遗迹的守护者，可见它肯定不是那么好对付的。",
+      "answer": "",
+      "image": "qm_manticore.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "其他冒险家已经往那边出发了。<br>如果你做好了心理准备，就快点过去吧。",
+      "answer": "",
+      "image": "qw_26.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "看你好像很忙的样子。<br>嗯……你真的想拯救这里吗？<br>随你的便。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "一开始食人魔吞掉悬浮装置，后来埃雷娜释放毒素形成毒雾。<br>不让我走的方法还真多。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "哈……安杰利卡虽然不是坏人，但似乎有点过于自由奔放了……<br>\n真让人头疼。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "嗯？虽然我平时喜欢玩，但做事的时候还是很认真的！<br>\n我是个认真的人～！！",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "到处弥漫着不明的雾……<br>在雾散开之前，飞艇无法安全出发。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "在<FONT color=#a82424>祈祷者安息处</FONT>打倒狮蝎克鲁鲁，用启动钥匙启动净化装置，就能净化凯德拉关卡的污染物质。",
+      "image": "qw_26.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "\n哈……安杰利卡虽然不是坏人，但似乎有点过于自由奔放了……<br>\n真让人头疼。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "挺厉害的吗？这段时间你帮了我不少忙，谢谢。<br>我经常听其他冒险家提起你的事情。<br>\n比如那边那个叫伊桑的家伙～呵呵呵。",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "嗯～那个总是和你黏在一起的美女去哪儿了呢～？<br><FONT color=#7e12d2>(安杰利卡开玩笑似的笑着看了看周围)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这个暂且不说，你们来这里干什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "嗯？虽然我平时喜欢玩，但做事的时候还是很认真的！我是个认真的人～！！<br>我们当然是为了净化凯德拉关卡，过来启动净化装置的！！真是的！",
+      "answer": "",
+      "image": "qp_puri_facility.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "所有人都觉得我只知道玩……<br>可能是我安杰利卡上辈子欠了太多的债，还得帮凯德拉关卡做这样那样的事情～～～<br><FONT color=#7e12d2>(安杰利卡抱怨道)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "安杰利卡，镇静一点。<br><FONT color=#387206>{user_nick}</FONT>，你来得正好。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "听其他冒险家说，这段时间你好像为凯德拉关卡做了不少事情。<br>我听说……你好像对<FONT color=#a82424>埃雷娜</FONT>很感兴趣。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "你愿意去见见<FONT color=#a82424>阿尔杰塔</FONT>吗？也许她能帮到你。<br>她说不定能解答你的一些疑问。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "哼～去找<FONT color=#a82424>阿尔杰塔 </FONT>的话，一定会被当成奴隶使唤的。或者，现在就已经是奴隶了吗？<br>\n总之～别随便把人送入虎口。<br>\n伊桑，你好像太过分了吧？！",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "<FONT color=#a82424>阿尔杰塔</FONT>不是那种人。<br>什么奴隶之类的，只是说说罢了……嗯……为了锻炼我们……嗯……<br><FONT color=#7e12d2>(伊桑开始吞吞吐吐起来)</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "总……总之阿尔杰塔正在凯德拉关卡治疗伤势。<br>如果你愿意，可以去看看。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "好吧好吧～快去吧～<br>启动净化装置的事情由我们负责。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "漂亮的阿尔杰塔只是坐在那里，就能把奴隶们玩弄于股掌之中～<br>去凯德拉关卡的时候，小心别被她吃了。<br><FONT color=#7e12d2>（安杰利卡咯咯笑道）</FONT>",
+      "answer": "",
+      "image": "qw_grayruin.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "了不起，真了不起～你打败了狮蝎，拯救了凯德拉关卡！",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "虽然有点说不出口……好吧！！趁大家高兴，今天之内就把你称为拯救凯德拉关卡的英雄。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "阿尔杰塔……？<br>……你要到凯德拉关卡去见她吗？",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "那是你的自由。没必要一一向我说明。<br>我只是跟着你罢了。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "啊，是你啊？最近冒险家们经常在嘴边谈论的奇怪的家伙。<br><FONT color=#7e12d2>(阿尔杰塔笑了笑)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "都说你是个奇怪的家伙，不过看起来……<br>\n<FONT color=#7e12d2>(阿尔杰塔上下打量着{user_nick})</FONT><br>……嗯，好像很普通。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "看你好像有什么话要问我的样子，有什么话就快说吧。<br>心情好的话，我会回答你的。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我和埃雷娜之间，有着几十年的恶缘。<br>那个烦人的黑暗精灵一直追在我后面妨碍我。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "差不多有50多年了，埃雷娜每次都费尽心思地拖别人的后腿。<br>也不觉得累。<br>愚蠢的人全都一样，空有一腔热血，却每次都是白辛苦一场。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "之前她曾经想利用小精灵惹事，被我教训了一顿，看来她还是没长记性。<br>听你这么一说，那家伙的背后好像也有人指使，是吗？",
+      "answer": "",
+      "image": "qm_hopgoblingreen.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "使徒？嗯，我从没听说过这种奇怪的名字……<br><FONT color=#7e12d2>(阿尔杰塔歪了歪脑袋)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "如果就像埃雷娜所说，上面有<FONT color=#a82424>国王</FONT>，下面有听命于他的使徒……<br>简单地说，就是埃雷娜和<FONT color=#a82424>幕后的势力</FONT>。<br>就是那个<FONT color=#a82424>红色军队</FONT>。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "虽然不知道他们的目的是什么，但可以确定他们的目标是先知。<br>现在<FONT color=#a82424>先知</FONT>被那个让人看着不爽的黑骑士带走了。不管怎么，我们都必须找到他。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "反正使徒也在寻找先知，不是吗？<br>你必须到<FONT color=#a82424>神圣天堂</FONT>去。<br><FONT color=#7e12d2>(阿尔杰塔微笑了一下)</FONT>",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "那个叫飞艇的东西，差不多该校好了。你快去见见那个飞艇工程师。<br>到了神圣天堂之后，你会暂时成为我的同伴，呵呵呵呵。",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(在这之前，必须去凯德拉关卡见见露娜莉娅。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "见到阿尔杰塔了吗？<br>嗯……<br>原来她也不知道使徒啊。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#a82424>先知被穿黑衣服的男人劫走了，阿尔杰塔想和其他冒险家一起去，到神圣天堂去追踪他</FONT>，是吧？",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "明白了。<br>但是你为什么要去呢？<br>\n你想救出先知吗？还是你想找到那个穿黑衣服的男人？",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "就算幻象……可能是未来的你，就算他是使徒的一员……<br>我也不觉得你有什么必要了解更多有关使徒的情况。无法理解。",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我觉得了解幻象，是回到过去的先决条件。<br>我也要把你送回去。</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "对我来说，不存在可以回去的地方。<br>我只是在跟着你罢了，只是在走你走过的路而已。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我绝不会反对你的选择。但是，<FONT color=#387206>{user_nick}</FONT>，我无法理解你的所作所为。<br><FONT color=#a82424>你想了解幻象</FONT>……？<br>\n还需要知道什么呢？知道了你就能恢复原状吗？",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那你认为我要回去的话，应该怎么做呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n……不知道。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我有很多问题想问你，有太多太多的问题。<br>但是你什么都不告诉我。<br>露娜莉娅，你……</FONT><br>\n",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……我是露娜莉娅。<br>我只知道……你是无法回去的。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……<br><FONT color=#7e12d2>(露娜莉娅垂下了眼睛)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我们到神圣天堂去吧，露娜莉娅。<br>我要继续追踪眼前的线索。</FONT><br>\n<FONT color=#662500>直到发现回去的方法为止。</FONT>",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>如果你什么都不能告诉我，我会一直等下去，等到你告诉我的那一天。<br>或者我会找到愿意告诉我的人。我会找到的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": ".……<br>你的意思我明白了。<FONT color=#387206>{user_nick}</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "去找<FONT color=#a82424>飞艇工程师休伯特</FONT>，就能乘坐开往神圣天堂的飞艇，对吧？<br>到那里去吧。",
+      "answer": "",
+      "image": "qn_npc_engineer_hubert.png"
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "干得好，干得好！哇哈哈哈！<br>多亏了你，凯德拉关卡终于得救了。大家都在称赞你，呵呵！",
+      "answer": "",
+      "image": "qw_cataractgateway.png"
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "好的，笼罩着凯德拉关卡的浓雾也开始消散了。<br>现在可以到神圣天堂去了。",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "精锐士兵们的伤势也恢复了一些，他们决定一起乘坐飞艇回到神圣天堂去。<br>他们说必须回去报告飞艇坠落和<FONT color=#a82424>黑骑士</FONT>有关的事情，以及凯德拉关卡发生的各种事情……",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "因为报告的事情，其他冒险家好像打算一起到神圣天堂去。<br>我想你应该也会一起去吧。",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(倒不是为了那种事……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "在飞艇坠落事件中，军官们全都战死了。现在好像由<FONT color=#a82424>精锐士兵克林德</FONT>率领剩余的士兵回去报告。<br>到达神圣天堂之后，请你去和精锐士兵克林德谈谈，哈哈。",
+      "answer": "",
+      "image": "qn_npc_elite_soilder.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(也许可以获得一些情报。)</FONT>",
+      "answer": ""
+    }
+  ]
+}

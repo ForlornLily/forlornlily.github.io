@@ -1,0 +1,110 @@
+{
+  "qkname": "心浮气躁的重逢",
+  "data": [
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳咳……<br>\n<FONT color=#7e12d2>（只能从西戴尔那里获得并进行任务）</FONT>",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#a82424>老师</FONT>她好像去了码头废墟的方向……我看她的表情有些难看，难道有什么事情吗……？",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>担心的话，就跟去看看吧。</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "这，这样也行吗……？<br><FONT color=#7e12d2>（西戴尔很烦恼）</FONT><br>好吧，万一老师发生了什么事情，我说不定还能帮得上忙……你也和我一起去看看老师吧。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "<FONT color=#7e12d2>（卡拉秋的表情僵硬）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "\n咳咳咳咳……<br>\n你的表情告诉我，你有很多问题……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个男人真的是卡拉秋您的亲人吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "……他叫<FONT color=#a82424>卡拉翰</FONT>。<br>是我的哥哥，虽然难以置信。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "卡拉翰是史上第一个继承了佩奥里斯塔名义的男人，他是个非常优秀的魔法师。<br>不过，作为继承人，他却触犯了禁忌。当然，也做了很多违背佩奥里斯塔名誉的事。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡拉翰的外貌是怎么回事？作为您的哥哥，完全……</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "那是时空魔法的一部分。一个魔法师，如果他具有可以停止时间或是延缓时间的魔力，是很容易学会的。 不过，这种魔法只能维持60几年……可以说这就是他的底线。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "<FONT color=#662500>原来如此……</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "对于卡拉翰，没什么值得我回忆的。<br><FONT color=#7e12d2>（卡拉秋似乎不想再说什么了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "\n<FONT color=#7e12d2>（说明从他那里收到信的经过）</FONT><br>还说会告诉你有关失踪原住民的情报？<br>不知道又是什么鬼把戏……",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "为了查出卡拉翰的阴谋诡计，最好还是能和他再见一面。你去<FONT color=#a82424>利物沃特村庄废墟</FONT>那里见见<FONT color=#a82424>卡拉翰</FONT>吧。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "还有，我有话要单独对<FONT color=#a82424>西戴尔</FONT>说，如果你有什么要和西戴尔说的，现在就去跟他说吧。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#a82424>那个男人</FONT>和老师到底是什么关系……？<br>我记得老师的亲人就只有她母亲一人啊……",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "qkname": "决定性线索",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……那个，不过啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "夏利卡",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "贝勒尼卡",
+      "question": "这下我更担心以后了。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "莉卡竟然是市国首长的女儿……怪不得气质不凡……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>搜查遗物大约需要多久？记得算我一个，今后我的任务也关系到梅尔卡市国……不，是整个迷之大陆的和平。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>所以必须尽快解决梅尔卡的难题，找到治愈之杯。夏利卡想到寻找遗物的线索了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "夏利卡",
+      "question": "用不了太久。我敢肯定决定性线索就在卡伊伦旧街。并且只有一个地方我没搜查过。不如去兽人<FONT color=#a82424>地图学者的家</FONT>仔细搜查一下吧。",
+      "answer": "",
+      "image": "qw_scholarhome.png"
+    },
+    {
+      "npc": "夏利卡",
+      "question": "先别担心阿耶乐卡共国。那里对外来人极其敌视，去了也不会有什么发现。等了结这件事，我再帮你想办法去那。",
+      "answer": ""
+    },
+    {
+      "npc": "贝勒尼卡",
+      "question": "<FONT color=#7e12d2>(一直默不作声的贝勒尼卡又长叹一口气)</FONT><br>你的用心我了解，但一定要保护好自己，夏利卡。尤其是在卡伊伦岛。",
+      "answer": ""
+    },
+    {
+      "npc": "夏利卡",
+      "question": "多谢你的关心，贝勒尼卡。但这次可能没法答应你了，我还是先跟你道个歉吧！当然，我会倾尽全力遵守诺言的。",
+      "answer": ""
+    },
+    {
+      "npc": "贝勒尼卡",
+      "question": "唉……<FONT color=#387206>{user_nick}</FONT>，拜托你帮忙好好照看夏利卡，别让她出事。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>放心好了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝勒尼卡",
+      "question": "<FONT color=#2b2723>让你照看夏利卡，并不是说说而已，</FONT><FONT color=#387206>{user_nick}。</FONT><FONT color=#2b2723>我是真的很担心。</FONT>"
+    },
+    {
+      "npc": "夏利卡",
+      "question": "那就在<FONT color=#a82424>卡伊伦旧街</FONT>的地图学者的家碰面吧。",
+      "image": "qw_128.png"
+    },
+    {
+      "npc": "夏利卡",
+      "question": "嗯……这些记录一看就不对劲！如果是一个人，那可要找上好久了。",
+      "answer": ""
+    },
+    {
+      "npc": "夏利卡",
+      "question": "给，一人一半，如果发现任何线索，就放到旁边。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(夏利卡话音一落，就全神贯注地看起记录来。我也得加油啊……可怎么密密麻麻都是字啊……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "夏利卡",
+      "question": "……<FONT color=#7e12d2>(时间渐渐流逝，空气里只能听见哗啦哗啦的翻书声)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……呃？夏利卡，这里有一本奇怪的手册。手册很厚……上面的字体也是头一次见到。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "夏利卡",
+      "question": "嗯？给我看看。",
+      "answer": ""
+    },
+    {
+      "npc": "夏利卡",
+      "question": "<FONT color=#7e12d2>(夏利卡接过手册，快速翻阅起来)</FONT>……这好像是……暗语？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>暗语？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "夏利卡",
+      "question": "似乎是由迷之大陆文字衍生而来的暗号。嗯……语法也被打乱了……",
+      "answer": ""
+    },
+    {
+      "npc": "夏利卡",
+      "question": "这难道是一种新的……图形文字？“的，都，日志3号，沙地地带”……数字没变，难道这是天气标识？……啊，原来掺杂了北方地区的方言……！<FONT color=#7e12d2>(夏利卡一边嘟囔一边不停翻看日志)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "夏利卡",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，干得漂亮！这是兽人地图学者留下的日志。虽然不敢肯定，但封皮上写的应该是“迷之大陆轶事和地域关联考察”。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>轶事和地域关联……！如果夏利卡没猜错，说不定这上面存在卡伊伦岛遗物的相关记载！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "夏利卡",
+      "question": "一定有。后面还画着卡伊伦岛的植被。这里打X的地方很可能就是遗物所在地……！",
+      "answer": ""
+    },
+    {
+      "npc": "夏利卡",
+      "question": "我们这就返回梅尔卡的心脏吧。我和<FONT color=#a82424>诺尔佩</FONT>齐心协力，用不了一天就能破解这上面的暗语。",
+      "answer": "",
+      "image": "qn_nophee.png"
+    },
+    {
+      "npc": "夏利卡",
+      "question": "我这就去通知贝勒尼卡。你告诉<FONT color=#a82424>诺尔佩</FONT>准备破解暗号吧。",
+      "answer": "",
+      "image": "qn_nophee.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，这到底是怎么回事？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(转告莉卡的真实身份和事情的前因后果)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "莉卡竟然是前市国首长的女儿……早知道她绝不是普通出身，但没想到还有这种事。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "那一切就能解释清楚了。她为什么能混进拉达梅斯，为什么会帮助反女神派，为什么会关心师父的记录……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>夏利卡马上就会把地图学者的日志带过来。她让我拜托你准备着手破解暗号。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "这倒不难。虽然不知道那遗物到底是什么，但我随时准备着手复原。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "在夏利卡的带动下，反女神派和梅尔卡心脏终于能团结一致了。这我当然百分百欢迎。",
+      "answer": ""
+    },
+    {
+      "question": "任务完成",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "不过有件事我始终放心不下。",
+      "answer": ""
+    }
+  ]
+}

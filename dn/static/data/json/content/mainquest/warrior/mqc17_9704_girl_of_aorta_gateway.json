@@ -1,0 +1,290 @@
+{
+  "qkname": "大动脉关卡的少女",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（奇怪的文字……但是总感觉我能直接读出来……这都是卢比纳特宝玉的作用吗……？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "某人的记录",
+      "question": "<FONT color=#086171>我已经3天没吃东西了，在很小的时候，我就得在前院亲手埋葬几个出生后就死去的弟弟妹妹，从那时开始我就产生了疑问。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "某人的记录",
+      "question": "<FONT color=#086171>曾经深爱母亲的孩子杀死了父母，深受居民爱戴的领主虐杀了所有人，前一天还相爱的恋人却互相憎恶，如影随形的疑问渐渐进入我的身体，侵蚀我的内心。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "某人的记录",
+      "question": "<FONT color=#086171>这个世界究竟为什么会是这样的？<br>我们无法获得幸福吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "某人的记录",
+      "question": "<FONT color=#086171>从另一个世界而来，贤明而伟大的存在啊。你知道吗？<br>这个实在……在这个世界生活的我们……<br>最终竟是为了消灭某人而被创造的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "某人的记录",
+      "question": "<FONT color=#086171>维斯提内女神为了消灭阿尔特里亚，创造了这个世界。我们都是从阿尔特里亚复制而来的模型。<br>在这个世界里，一切都只不过是查尔德的道具。这个地方就是噩梦本身。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "某人的记录",
+      "question": "<FONT color=#086171>伟大的存在啊，我要再次发出疑问。<br>我们想要幸福，这难道是种罪吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "某人的记录",
+      "question": "<FONT color=#086171>我们中的任何人……不去伤害阿尔特里亚的任何人……只是为了我们自己而活，这难道是罪吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "某人的记录",
+      "question": "<FONT color=#086171>请告诉我们，请可怜我们。<br>虚幻的如梦的世界。但又是美丽而和平的世界。善良的女神统治的世界……<br>是从我们的根源世界而来的啊……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（果然迷之大陆出了什么事情。消灭维斯提内女神和复仇军团不仅能拯救阿尔特里亚，也能拯救痛苦的迷之大陆居民啊。但是，留下这个记录的人肯定是反女神派的吧？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "某人的记录",
+      "question": "<FONT color=#7e12d2>（用迷之大陆语写下的记录结束了。之后出现了熟悉的阿尔特里亚文字。似乎是卢比纳特草草写下的。）</FONT>",
+      "answer": "",
+      "image": "qn_npc_rubinat.png"
+    },
+    {
+      "npc": "卢比纳特的记录",
+      "question": "<FONT color=#086171>-唱歌的少女交给我的东西。反女神派。请求帮助……？</FONT>",
+      "answer": "",
+      "image": "qn_npc_rubinat.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……啊？唱歌的少女……这应该和大动脉关卡前唱歌的少女有关吧？）</FONT>",
+      "answer": "",
+      "image": "qn_hiver_shadow.png"
+    },
+    {
+      "npc": "少女留下的空位",
+      "question": "<FONT color=#7e12d2>（刚才唱歌的少女好像已经消失了。一个人也没有。）</FONT>",
+      "answer": "",
+      "image": "qn_hiver_shadow.png"
+    },
+    {
+      "npc": "???",
+      "question": "……你找我有什么事吗？<FONT color=#7e12d2>（少女警惕地望着我）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "……<FONT color=#7e12d2>（懒懒地仰头看了看）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（看来现在没有其他线索了。还是去找</FONT><FONT color=#a82424>大动脉关卡前的少女</FONT><FONT color=#662500>吧！）</FONT>",
+      "answer": "",
+      "image": "qn_hiver_shadow.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（啊……那个少女已经消失了吗……？糟糕了，这可怎么办？）</FONT>",
+      "answer": "",
+      "image": "qn_hiver_shadow.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（少女去了哪里呢？）</FONT>",
+      "answer": "",
+      "image": "qn_hiver_shadow.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（不……少女说要去危险的地方，应该很难见到她吧？）</FONT>",
+      "answer": "",
+      "image": "qw_105.png "
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（这里感觉像是城市边缘……既然是贫穷的少女，很可能生活在这里吧？好，就先去这里看看吧。）</FONT>",
+      "answer": "",
+      "image": "qw_106.png "
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（嗯……总感觉是个很危险的地方，少女要去那里吗？）</FONT>",
+      "answer": "",
+      "image": "qw_107.png "
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（平原……这里虽然也可以看看，但总觉得不太对……）</FONT>",
+      "answer": "",
+      "image": "qw_108.png "
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "……你找我有什么事吗？<br><FONT color=#7e12d2>（少女警惕地望着我）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊……所以……<br>（靠近少女的一瞬间，少女腰上的包里有什么发出了光）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "你……？！ <FONT color=#a82424>卢比纳特大人给我的通信石</FONT>怎么会发光……？！<br>它从来没有发出过这么强烈的光啊？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊……应该是因为我拿着卢比纳特的半个宝玉吧……？<br>（感觉到宝玉也有微弱的反应）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "ndnpc_Hiver_9704_qu_01.ogg}<br>你……该不会就是卢比纳特通过通信石告诉我的<FONT color=#a82424>从阿尔特里亚来帮助我们的人</FONT>吧……原来得到白龙艾奥纳的庇护，并持有卢比纳特一半宝玉的人就是你啊。",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "ndnpc_Hiver_9704_qu_02.ogg}<br>我是伊贝尔。我们反女神派由衷欢迎你的到来。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的，没错。你是反女神派的人啊。<br>（向少女伊贝尔讲述 关于卢比纳特的失踪和高级查尔德追击的事情。至于艾瑞斯的事情，我现在还不确定，就不需要说了。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "卢比纳特大人和金龙遭到特里亚的袭击，失踪了……现在阿尔特里亚和迷之大陆之间的防线全靠卢比纳特大人独自全力维持。要是他出了什么事情……只是想想都觉得可怕。",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "我现在立刻和反女神派联系，让他们全力搜索卢比纳特大人和金龙杰兰特大人。但是，进行<FONT color=#a82424>停战协定</FONT>的人手不足……我很担心啊……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>停战协定？休战之后，查尔德之间的宝玉争夺战会停止吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "没错。比起查尔德及其麾下的复仇军团，我们反女神派的势力太弱。要想和强大的敌人战斗，比起正面突破，我们只能拖延时间，进行各个击破。",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "就算是为了培养和敌人同等的力量，现在也不能打开巨石碑之门。在巨石碑之门关闭的状态下，只有反女神派强大到能够对付查尔德，才能让阿尔特里亚和迷之大陆回归和平。<FONT color=#7e12d2>（伊贝尔咬住了嘴唇）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "所以，在出现能够打破卢比纳特大人结界的个体之前，必须阻止查尔德之间的宝玉争夺战。",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "找到卢比纳特大人和停战协定两件事情都很重要。既然如此，就只能这么办了。<FONT color=#387206>{user_nick}</FONT>大人。你能帮助反女神派，为了进行停战协定去见见<FONT color=#a82424>梅尔卡市国首长贝勒尼卡</FONT>大人吗？",
+      "answer": "",
+      "image": "qn_vernicka.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>梅尔卡 市国的首长？他能使停战协定顺利签订吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "这里是梅尔卡的商人们建立的中立市国。经济就是梅尔卡的唯一法则，无数情报都在自由市场中流转。在迷之大陆立稳了脚跟，就连查尔德都不敢对梅尔卡的首长轻举妄动。",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "所以，梅尔卡的首长贝勒尼卡大人和查尔德内部的反对势力也有接触，可以平衡各方势力。",
+      "answer": "",
+      "image": "qn_vernicka.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>但是，就算弱小的查尔德讨厌抢夺宝玉，消灭别人，支持休战，但是强大的查尔德会对能够随意吸收宝玉的现状感到不满吗？他们会同意休战吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "在查尔德之上是<FONT color=#a82424>维斯提内女神在人间的代理人女巫</FONT><FONT color=#2b2723></FONT> 。不管查尔德 怎么想，如果能说服发号施令得女巫，我们就有胜算了。",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "反女神派的高层说，相信贝勒尼卡大人一定能找到方法。因为他号称<FONT color=#a82424>梅尔卡的蓝色毒蛇</FONT>，诡计多端。",
+      "answer": "",
+      "image": "qn_vernicka.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……找到卢比纳特无论对反女神派还是我来说都是很重要的事情。但是，现在用半个宝玉也没法找到卢比纳特，我对迷之大陆完全不了解，参与反女神派的活动应该能帮上忙吧？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了。找寻为了躲避查尔德而隐藏起来的卢比纳特，对于在这里扎根的反女神派来说应该更容易一些。在帮助贝勒尼卡大人的过程中，我会多多学习关于迷之大陆的事情，然后帮助签订停战协定。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "谢谢你能理解我们，<FONT color=#387206>{user_nick}</FONT>大人。梅尔卡是无论什么势力都能来往的自由城市。 比起其他的查尔德 领地，这里既安全又能获得很多情报。我期待你的活跃表现。",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "<FONT color=#7e12d2>（伊贝尔将反女神派给贝勒尼卡的信交给了我。表面上是南部领地高层的介绍信，似乎不会引起怀疑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "贝勒尼卡大人经常在<FONT color=#a82424>梅尔卡的心脏首长府</FONT> 的前面。那我要去苍翠的风之平原了，请你先去见贝勒尼卡大人，然后去那边找我吧。",
+      "answer": "",
+      "image": "qn_vernicka.png"
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "你是谁？看来就算是在自由城市，首长府的警卫也有点疏忽了啊。什么阿猫阿狗都能来见首长了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>因为我有这个介绍信，警卫他们才没拦住我。<br>（交出伊贝尔给的介绍信）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "什么啊……<FONT color=#a82424>南部领地的诺尔佩</FONT>大人送来的介绍信？<br>等等……诺尔佩大人介绍的人……<br><FONT color=#7e12d2>（贝勒尼卡的表情变得很微妙）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9704_qu_01.ogg}<br>……原来是反女神派啊。<br>那也不用警卫了。反正诺尔佩大人派你来了，那就是又要委托我做事吧。我们总得互相信任才能开始对话吧？",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "好啊，在这个时候，反女神派的人来找我的理由，我大概能猜到了。<br>那我先读一下这封信，你等一下。",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "qkname": "记忆3",
+  "data": [
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "沙漠龙和卡西乌斯的故事也到了最后了……怎么样？<br>他们的故事有趣吗？",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "你需要再进去看看吧。沙漠龙究竟发生了什么事，才会长久以来一直以宝玉的形态出现。<br>请你快去看看吧，到那个记忆中去……<br><FONT color=#7e12d2>（要去沙漠龙巢穴）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "<FONT color=#7e12d2>（在沙漠龙巢穴似乎能见到骑士王卡西乌斯）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "阿依夏，对你来说我就这么不值得信任吗？<br>至少我对你…….",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "她在最后关头停止了攻击。<br>她终究是不愿伤害我。在她犹豫的那瞬间如果我停手了会怎么样？<br>如果我停手了……也许她现在还活着。",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "ndnpc_Casius_qu_4280_01.ogg}<br>可惜我没有停下手中的剑，直直刺中了她。<br>我就是个只会花言巧语的骗子。装得一副了不起的样子，光懂得高声宣扬爱情的崇高。",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "ndnpc_Casius_qu_4280_02.ogg}<br>我终于没能相信她到最后，也没有爱护她到最后。<br><FONT color=#7e12d2>（卡西乌斯低头看着自己的剑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "ndnpc_Casius_qu_4280_03.ogg}<br>你是个真诚的朋友。<br>谢谢你跟随我这没用的王。",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "ndnpc_Casius_qu_4280_04.ogg}<br>更谢谢你没因我而死去。<br>……现在一切都结束了。",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "ndnpc_Casius_qu_4280_05.ogg}<br><FONT color=#7e12d2>（卡西乌斯看着荒凉的四周）</FONT><br>走吧。<br>在这里发生的事情我都会埋葬在记忆中，你也把看到的事情都忘了吧。",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "阿依夏……<br><FONT color=#7e12d2>（卡西乌斯看向远方。<br>广阔的沙漠再也没有龙的痕迹了。）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "<br><FONT color=#7e12d2>（年轻的骑士王独自站在荒凉的沙漠中，只留下风吹动沙子的声音）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "ndnpc_Casius_qu_4288_01.ogg}<br>不管在任何情况下，王就是王。",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "ndnpc_Casius_qu_4288_02.ogg}<br>……我和<FONT color=#a82424>征服王</FONT>一样，一直认为放弃一切的行为是不负责任的表现。<br>我决不会这么做。<br>任何事物的重要性都不能高于王座。",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "ndnpc_Casius_qu_4288_03.ogg}<br>但我现在能切身体会他的心情了。",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "ndnpc_Casius_qu_4288_04.ogg}<br>阿依夏，为了不让任何人发现你的宝玉，我要将它放在你的王国的最深处。<br>\n你还是会以龙的模样再次出现的吧。<br>……在很久之后。",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "ndnpc_Casius_qu_4288_05.ogg}<br>到时候我已经不在这里了。<br>正如你所说，我只是个软弱的人类，不久后就会走完我的人生。<br>你会忘记我吗？还是说你会埋怨我，愤怒地说出诅咒的话语？",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "ndnpc_Casius_qu_4288_07.ogg}<br>我的阿依夏，<br>要是能再一次见到你……",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "ndnpc_Casius_qu_4288_08.ogg}<br>要是那样，我会不惜放弃一切也要守在你身边。<br>亲爱的阿依夏。",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "ndnpc_Casius_qu_4288_06.ogg}<br>……怎样都无所谓了。<br>反正我也无法见到你。<br>这绝望正在不断侵蚀着我。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "啊，你来了。怎么一脸复杂的表情。<br>这不过是很久以前的记忆了……你这像是刚刚才失去了朋友啊。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "<FONT color=#7e12d2>（听了故事的摩卡点了点头）</FONT><br>原来如此。人类和异族之间的爱情……<br>据我所知，那样的爱情大多都是以悲剧结尾，你知道原因是什么吗？",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": ".……连当事者都无法准确回答的问题，不管是怎样的回答也不过是推测罢了。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "在那个记忆中似乎只有很久之前的记忆。<br>就像是要给谁看一样。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "可能这就是<FONT color=#a82424>执念</FONT>吧？",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "被人类称为骑士王的人，在征讨了沙漠龙后不久就驾崩了。<br>就在那一年，他像是沉睡一样，停止了呼吸。",
+      "answer": "",
+      "image": "qn_npc_hero_casius.png"
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "年轻国王突然去世，大家都悲痛不已。<br>也因此有很多人都不相信<FONT color=#a82424>骑士王是人类中第一个消灭龙的人</FONT>。",
+      "answer": "",
+      "image": "qn_npc_hero_casius.png"
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "骑士王本人对征讨沙漠龙的事情绝口不提，因为损失了许多士兵，其他将军和大臣也无法炫耀这件事情。",
+      "answer": "",
+      "image": "qn_desert_dragon.png"
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "人们不说也不去记录的事情，就会变成没有发生过的事情。<br>所以，大家所熟知的<FONT color=#a82424>第一次以人类的力量打败龙的人</FONT>不是骑士王，而是<FONT color=#a82424>50多年前的六大英雄</FONT>。",
+      "answer": "",
+      "image": "qn_six_heroes_silhouette.png"
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": ".……为什么呢？为什么在事情过去后还是没有结束，总是会反复想起来呢？<br>就像是音乐，还有传说……<br><FONT color=#7e12d2>（摩卡以幽深的眼神看着我）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "不过，你现在似乎应该去见见教皇。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>特拉玛依大人？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "是的，因为你看完了所有的记忆，沙漠龙巢穴稳定了下来。大概从一开始过去的记忆就已经很不稳定，所以才会向外流出吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>原来如此。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "<FONT color=#7e12d2>（再也听不到任何声音）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "告辞。<br><FONT color=#7e12d2>（回去见特拉玛依吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#387206>{user_nick}</FONT>！你回来了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你有什么事吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我听说<FONT color=#a82424>沙漠龙的巢穴</FONT>消失了，这也是多亏了你吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不，我只是……</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#7e12d2>（特拉玛依似乎还想说什么，又停住了）</FONT><br>是吗，我知道了。那你现在应该去阿努阿兰德了。 ",
+      "answer": ""
+    }
+  ]
+}

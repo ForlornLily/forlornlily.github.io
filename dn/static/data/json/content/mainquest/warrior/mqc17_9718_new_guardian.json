@@ -1,0 +1,272 @@
+{
+  "qkname": "新守护者",
+  "data": [
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "不知道你究竟是在帮我，还是单纯地养成了保护小孩的习惯了。<br><br><FONT color=#7e12d2>※在组队状态下无法完成此任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "通过伊贝尔，我大概知道了关于<FONT color=#a82424>阿尔特里亚世界守护者</FONT>的事情。<br>但是，我还是有点疑问。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么疑问？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "那个叫<FONT color=#a82424>贝思柯德</FONT>的人说，自己的宝玉稳定下来，就能通过你持有的卢比纳特的半个宝玉感觉到异变？",
+      "answer": "",
+      "image": "qn_knight_velskud.png"
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "但是，为什么不能用半个宝玉找到卢比纳特呢？反正是从卢比纳特身体里出来的宝玉，难道不能感知彼此的位置吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那是因为……卢比纳特是</FONT><FONT color=#a82424>混沌龙</FONT><FONT color=#662500>，过去因为暗影龙而被污染了，被迷之大陆的毒气掩盖，就算是同一个身体内出来的宝玉，也找不到位置。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "那你现在持有的半个宝玉也被迷之大陆的毒气牢~牢掩盖，不也无法感受到贝思柯德的异变？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……我没想到这个问题，也有这个可能……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9718_qu_01.ogg}<br><FONT color=#7e12d2>（贝勒尼卡耸了耸肩膀）</FONT><br>说实在的，虽然我对卢比纳特的结界异常坚固表示很惊讶，但它到底能坚持到什么时候呢？",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "虽然阿尔特里亚的龙估计也不是一直都在玩，但是查尔德也号称是龙的进化体，却连半个宝玉都无法抵挡，不是有些奇怪吗？虽然没说出来，但是维斯提内也会觉得伤自尊吧，难道会坐视不理？",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "我总觉得<FONT color=#a82424>不是卢比纳特一个人的力量而是其他的力量</FONT>也介入了进来。但是，重点在于，我们不知道那个力量究竟来自哪里，所以也没办法依靠它。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这么说来，</FONT><FONT color=#a82424>维斯提内</FONT><FONT color=#662500> 女神不会直接打破卢比纳特的结界吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "<FONT color=#a82424>维斯提内</FONT> 女神终究还是在神界闯下大祸才逃到迷之大陆躲起来的。如果不是十分紧急，是不会从<FONT color=#a82424>女巫</FONT>的身体里来到外面的。因为就算是自己的力量受到限制，也不能被其他神发现啊。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "而且，根据从教团那边获得的情报，卢比纳特的结界严格来说是在<FONT color=#a82424>巨石碑之门</FONT><FONT color=#a82424>的内部，迷之大陆</FONT>这边。神在自己创造的世界不能完全发挥自己的力量。女神降临在女巫身上，因为卢比纳特的结界，也无法自由出入巨石碑。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "当然，利用次元缝隙 能够从巨石碑出去。但是，女神的本体过于巨大，无法通过巨石碑之门，一不小心反而会破坏迷之大陆本身。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "所以，为了减少无法预测的危险，她现在还没打破卢比纳特结界的想法。问题是，就像我前面所说，女神有可能以我们不知道的方法介入进来。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "总之，从种种原因来看，我怀疑你的宝玉没能完全发挥功能，你能再去见见叫<FONT color=#a82424>贝思柯德</FONT>的人，确认一下情况吗？",
+      "answer": "",
+      "image": "qn_knight_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好，我知道了。那我去找找贝思柯德可能在的地方，调查一下宝玉的状态如何。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "啊，虽然抱歉，你的伙伴们最好还是先撤退比较好。<br><br><FONT color=#7e12d2>※在组队状态下无法完成此任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（第一次看到贝思柯德的地方是 </FONT><FONT color=#a82424>激战之荒地</FONT><FONT color=#662500>吗……最好从那里开始调查一下吧）</FONT>",
+      "answer": "",
+      "image": "qw_105.png "
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……究竟你去干什么了，现在才来？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊……？……哦……嚯，宝玉已经稳定了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "什么啊，难道卢比纳特的半个宝玉没发挥功能吗？哼，看来因为是半个宝玉，连功能也只有一半啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（呜哇……虽然他应该不是知道了以后才派我来的，贝勒尼卡大人的第六感太强了，我真怀疑他不是人类而是爬虫类啊……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>但是，贝思柯德，你一直都在这里等我吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "ndnpc_Velskud_9718_qu_01.ogg}<br>住嘴，你个垃圾。被你耽误了那么长时间，我们现在必须加快脚步。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "虽然宝玉是稳定了，但是封印石碎了，阿尔杰塔死了，巨石碑之门似乎出了什么问题，无法再次关闭。要不然……在我们无法知道的<FONT color=#a82424>阿尔泰亚</FONT> 女神的领域也许发生了什么变化……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "NT><FONT color=#662500><br>卢比纳特也说过，因为种种原因，要关闭巨石碑之门是很困难的。但是，如果无法关上门，要怎么使用守护之力呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "ndnpc_Velskud_9718_qu_02.ogg}<br>其实，我认为<FONT color=#a82424>阿尔杰塔</FONT>守护阿尔特里亚的形态，就相当于一个<FONT color=#a82424>巨大的结界</FONT>。魔法师说，只要重新生成阿尔杰塔的结界，便可以达到和关闭巨石碑之门基本相同的效果。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "当然，即使结成了结界，毕竟门还没有关闭，所以迷之大陆的物理攻击之外的……次元缝隙或者是扭曲的时空是无法阻挡的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "NT><FONT color=#662500><br>但是，卢比纳特的结界不知道什么时候会被打破，现在最重要的是要守护阿尔特里亚……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你明白了就安静地跟我来。<br><FONT color=#7e12d2>（贝思柯德走向了次元缝隙）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "什么啊？难道你是自己一个人就什么都做不成的依赖症患者吗？<br>\n真是个没用的垃圾。<br>\n <br>\n<br>\n<FONT color=#7e12d2>※在组队状态下无法完成此任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>（贝思柯德脸色苍白）</FONT> 这样就能让阿尔杰塔那家伙的宝玉消停一点吧……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你还好吗，贝思柯德？你会不会太勉强自己了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我只是还没有熟悉这个力量而已，不要多嘴。而且，不知道那<FONT color=#a82424>两个女人</FONT>在宝玉里注入了多少思念，不停地在说悄悄话，搞得我都失眠了。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "真是些麻烦的存在……怕自己守护的世界被破坏，不安得要命……真是可笑。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（是宝玉的影响吗？总觉得在和贝思柯德体内的阿尔杰塔对话一样）</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>总之，现在能松口气了。现在卢比纳特和杰兰特能平安无事就好了……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "卢比纳特的结界还好好的，估计不用担心那个笨蛋也行。也没必要担心那个金发的小鬼。虽然很弱，但是我能确切地感受到在迷之大陆那边，有那家伙的气息。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真的吗？真是太好了……贝思柯德要是能帮我一起寻找杰兰特就好了……不过迷之大陆的毒气对宝玉不好，还是算了吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……如果在有<FONT color=#a82424>次元缝隙</FONT>的地方，我能暂时滞留一会儿。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德也像卢比纳特那样把宝玉分成两半，一半放在</FONT><FONT color=#a82424>阿尔特里亚</FONT><FONT color=#662500>，另一半放在</FONT><FONT color=#a82424>迷之大陆</FONT><FONT color=#662500>，怎么样？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>（像看垃圾一样看着{user_nick}）</FONT> 我突然连暂时滞留的想法都没有了呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……好吧……就算你只是继承了阿尔杰塔的守护，我都要感谢你了……</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……你要是就打算说这些废话，那就快滚吧。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>（似乎无法再和贝思柯德对话了。现在把这件事告诉</FONT><FONT color=#a82424>贝勒尼卡</FONT><FONT color=#7e12d2>吧）</FONT>",
+      "answer": "",
+      "image": "qn_vernicka.png"
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "你来了？",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "好的。你去见了叫<FONT color=#a82424>贝思柯德</FONT>的守护者吗？",
+      "answer": "",
+      "image": "qn_knight_velskud.png"
+    }
+  ]
+}

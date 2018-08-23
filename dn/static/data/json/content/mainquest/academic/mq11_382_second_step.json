@@ -1,0 +1,242 @@
+{
+  "qkname": "要做的事情就从现在开始",
+  "data": [
+    {
+      "npc": "道格拉斯将军",
+      "question": "我要处理的事情已经堆得像小山一样高了，麻烦你以后再来找我。<br><FONT color=#7e12d2>（去神圣天堂的学者站台那里和姐姐通话）</FONT>",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "古代人的后裔由我来守护，你还是去忙你的事情吧。"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "真是个善良的百姓啊，<br>\n不仅年轻而且有为……"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "……都已经到了这个时间了啊？<br>那<FONT color=#387206>{user_nick}</FONT>，那就悠闲地观赏一下神圣天堂的风景吧~"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_02.ogg}<br>你来啦。<br>我正等着你的报告呢。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "好，所以说怎么样了？<br>你救出先知了吗？",
+      "answer": "（转告他之前发生的所有事情）"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "……原来如此，杰兰特居然受伤了，记录中没有提到这件事，所以我不知道。<br>如果<FONT color=#a82424>先知</FONT>在巢穴中央，那就无法立刻去找她了。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "根据记录记载，<FONT color=#a82424>巢穴肯定会被解除</FONT>的。我认为杰兰特解除了神圣天堂的巢穴后，会移动到某处，或者转移先知的位置…….<br>在那一刻带来之前，我们还是耐心等待吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的，我知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "如果能找出<FONT color=#a82424>巨石碑的位置</FONT>就好了……但好像没那么简单。<br>阿尔杰塔对人类并不友善，况且她已经去了莲花沼泽，找她是行不通的。<br>嗯，杰兰特怎么样？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他不怎么说话，我不清楚。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "啊~ 没错~ 应对龙是很困难的！他们说着要守护世界，根本不把人类放在眼里。<br>……如果贝思柯德变成我们所在时期的样子，那就好办了，<FONT color=#a82424>贝思柯德</FONT>现在怎么样了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他目前可以说是失踪了……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "嗯……这正是说服他的好时机，你觉得呢？<br>说不定他就藏在某个地方，你去找找他吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的，去哪里找呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_07.ogg}<br>你不是亲眼目睹了他坠落吗？你自己思考下，大致会坠落到什么位置。<br>首先……你还是前往<FONT color=#a82424>王城</FONT>，看看能不能获得什么情报为好。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我来守护古代人的后裔。你去做你的事情吧。",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "真是善良的百姓啊。你年纪这么小就如此了得…….<br><FONT color=#7e12d2>（链接学者站台，向姐姐报告现在的状况）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "我要处理的事情已经堆得像小山一样高了，麻烦你以后再来找我。<br><FONT color=#7e12d2>（去神圣天堂的学者站台那里和姐姐通话）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "……没想到时间过得这么快？<br>那，<FONT color=#387206>{user_nick}</FONT>，我就出发去做其他事情了。<br>下次再见吧，哈哈。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，下次再见。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "特里亚纳又去了哪里？<br>她这么快就接受其他委托了吗……嗯~<br><FONT color=#7e12d2>（西恩嘟囔着）</FONT>",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_07.ogg}<br>你还是去见见贝思柯德为好……他在什么地方呢？<br>你还是先前往<FONT color=#a82424>王城</FONT>，看看能不能获得什么情报吧。",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "我已经收到了报告，<FONT color=#387206>{user_nick}</FONT>，我善良的百姓。<br>你还是个孩子，但却能为了朕、为了王国尽忠，真是了不起。",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "还有，其他的冒险家们……<br>正奉主教之命努力地……做着……什么。<br>由于此次的战争，兵力严重受损，<FONT color=#a82424>将军</FONT>为此忧心忡忡，我很担心……",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>奉主教之命？</FONT>",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "叔父忙于王城内部的事务，将军则因为士兵们的待遇问题忙得焦头烂额。<br>所，所以其他的事情就由主教……<br>主教能够出面解决，真是万，万幸啊。真是位以身作则的好，好臣子啊，是……吧……？",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "……朕已经厌倦了。对于人们互相谩骂的事情……<br>我希望你不要变成那样。<br><FONT color=#7e12d2>（卡西乌斯神情忧伤地挥了挥手，好像不想听任何话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "如果你也想为国家做更多的事情，那就去见见主教吧。<br>……不，帮助主教的人已经很多了，你还是去做其他事情比较好吗？<br>冒险家公会或者<FONT color=#a82424>将军</FONT>……嗯……总之，你有很多人可以去见。",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，我可爱的百姓。<br>你有什么疑问吗？<br>你的表情很沉重。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你知道坠落的黑龙的行踪吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "黑空的行踪？ ……黑，黑龙难道没有死吗？！<br>朕，朕听说黑龙已经被彻底消灭了啊……？<br><FONT color=#7e12d2>（卡西乌斯变得很不安，他开始瑟瑟发抖并寻找着将军）</FONT>",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "<FONT color=#a82424>将军</FONT>！！将军~ 黑龙已经死了吧？对不对？<br>现，现在……这里是安，安全……的吧……？呜呜….",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "嗯……我听说我们好不容易救出的先知始终沉睡不醒。反正我们已经尽了全力，如何处理<FONT color=#a82424>先知</FONT>的问题就交给国王吧。<br>总之，辛苦你们了。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你有没有寻找黑龙的痕迹？</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "嗯？黑龙？……我听说他在与<FONT color=#a82424>金龙</FONT>的战斗中受了重伤，然后坠落了……<br>在黑暗大君主的领地没有发现黑龙的踪迹。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "话说，由于黑龙从黑暗大君主的领地上空坠落时流下的血，<FONT color=#a82424>黑山山角</FONT>的污染正逐渐加重。<br>我现在没用管污染的问题，这可糟了。",
+      "answer": "",
+      "image": "qw_skirtofblackmountain.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>黑山山角的污染？</FONT>",
+      "answer": "",
+      "image": "qw_skirtofblackmountain.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "我是指<FONT color=#a82424>阴森的丛林路</FONT>那里。玛丽莎泉已经枯竭，那里本来就够荒芜了，现在更是雪上加霜。如果魔物的血洒到土地上，土地就会被污染，寸草不生……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>阴森的丛林路也会受到影响？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "没错。<FONT color=#a82424>黑暗大君主的关卡</FONT>地势较高。<br>从地理位置上看来，位于山脚的<FONT color=#a82424>阴森的丛林路</FONT>也难免会受到影响。",
+      "answer": "",
+      "image": "qw_28.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（那样的话，难道……）</FONT>",
+      "answer": "",
+      "image": "qw_28.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "我正忙着处理战争后事，清点兵力。<br>如果日后你有时间，就助我一臂之力吧。<br><FONT color=#7e12d2>（道格拉斯的动作看起来很愤怒）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "我要处理的事已经堆积如山了，如果你没有急事，请下次再来找我吧。<br><FONT color=#7e12d2>（必须通过国王卡西乌斯了解详情）</FONT>",
+      "image": "qn_npc_king_casius.png"
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "qkname": "复杂的心情",
+  "data": [
+    {
+      "npc": "小龙",
+      "question": "我一直在搜集关于实验……哦不，是治疗所的信息，现在需要进行一下整理。",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "ionTalk2}<br>谢谢，我现在要去看看我的族人。那就拜托你了~",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#7e12d2>（西戴尔看上去还很伤心）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你怎么了？<br>（轻轻拍了一下西戴尔的背）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "察提在做什么呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>带着卡拉翰制作的药，找部族的人去了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "那药，真的可信吗？<br>和我经历了多年的风风雨雨……究竟为什么她会对那个男人深信不疑？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他的样子一看上去不就挺令人信赖的嘛。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "…… 原来在你们眼里，他看上去很可信。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "对了，我要给察提的东西还没给呢…….<br><FONT color=#7e12d2>（西戴尔抚摸着一个精巧包装的东西）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>用不用我替你交给她？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "啊，不。还是等我心情好点了再亲自给她吧。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你们谈完了来我这里一下吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>切，老妖婆叫我了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳……<br>卡拉翰，到底在打什么算盘……？",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "我身上有一种神奇的魔力，它可以让任何人在3秒的时间内被我吸引。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（去找西戴尔吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "老师叫你了，咱们的事下次再说吧。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "<FONT color=#a82424>卡拉翰</FONT>现在在做什么呢……？",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你为什么不回答我。我早就知道你是去见卡拉翰了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不想和你说，谁让你和那个杀人犯走得那么近了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你说什么呢？什么杀人犯？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我说的是休利亚！就是因为他，我们村庄的人才丧生的！</FONT>",
+      "answer": "",
+      "image": "qn_lm_nativeman_b.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "看来休利亚那小子还没跟你解释清楚啊。他可是比任何人都更在意你们原住民的将来。他的家族……咳咳咳咳。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "原本是神圣天堂有名的巨商。由于进行了一次难以言说的实验，结果被王室降了罪，于是便失去了一切。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>实验？你是说雷亚伯爵的事吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "嗯，看来你也没有那么愚昧嘛。咳咳咳咳<br>他不是坏人，你别再误会他了。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "我只是因为和他爷爷的交情，对他的事给出一些建议而已。不过，据他所说，最近莲花沼泽好像又有人在进行像雷亚伯爵那样以原住民为对象的实验。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那家伙说的都是谎话！我既不相信他，也不相信卡拉秋您！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "啧啧，没想到你这么没礼貌……总之，你是要去见<FONT color=#a82424>卡拉翰</FONT>，是吧？<br>你去转告卡拉翰，就说我不会再放任他胡做非为了。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "察提已经把药送到原住民那儿去了。<br>当然，我所制作的药剂一定会发挥出完美效果的。哈哈……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我的药怎么样了呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "你和原住民不同，由于你身上同时存在着好几种病，所以我还要在观察一下才行。由于你身体里几种气息之间相互作用，现在反而会形成一种平衡，保证你的安全。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>也就是说现在没办法制药喽？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "<FONT color=#7e12d2>（卡拉翰拿出一小瓶药）</FONT><br>为了不给我伟大的经历留下污点，我把我无比精心制作的药……喂！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（一把抢过卡拉翰的药，吃到嘴里）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "都没来得及阻止你。由于这种药没能放入决定性的材料，所以你的手臂会疼上一段时间。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……呃啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "哈哈哈哈哈，我对于药的预测还是非常准确的。<br>一段时间里会发痒，但很快就会没事的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……决定性的材料……是什么呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "那材料正是<FONT color=#a82424>龙之宝玉</FONT>。很遗憾这种东西没办法像其他材料那样搜集到。只要有了它，就可以制成最顶级的药物，像你这样的病人，治好百余个都不在话下…….",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真的可以治好……那么多人吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "当然了，对我来说没有什么是不可能的。我要把完美的治疗剂馈赠给你。<br>原住民们吃了我的药，也都痊愈了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>察提把药吃了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "察提不想吃药。<br>嗯，原因你可以亲自去问<FONT color=#a82424>察提</FONT>。",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "察提",
+      "question": "你说你是来问我为什么不接受治疗……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是啊。现在不是有办法治疗的嘛。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "ionTalk2}<br>我到现在还没能找到爷爷，在寻找爷爷的过程中，还不知道会需要多少力量。<br>所以我想救出爷爷之后再接受治疗。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>但如果症状恶化，你就要立即接受治疗！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "你和西戴尔一样啰嗦。<FONT color=#7e12d2>（察提明朗地笑着）</FONT><br>不过西戴尔怎么样了……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（转告西戴尔的状况）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "………….<br>看来西戴尔的心里很不是滋味呀。<br>可是，卡拉翰真的帮了我很多…….",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "怎么做才能让西戴尔的心情好起来呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这个嘛，要不送件礼物给他吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "礼物？",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>西戴尔很喜欢学习，那就送给他一只用来写字的钢笔怎么样？啊，我也不知道，对于这些事我也不太懂。</FONT>",
+      "answer": ""
+    }
+  ]
+}

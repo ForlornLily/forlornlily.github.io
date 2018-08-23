@@ -1,0 +1,212 @@
+{
+  "qkname": "似曾相识",
+  "data": [
+    {
+      "npc": "????",
+      "question": "对不起……"
+    },
+    {
+      "question": "<FONT color=#7e12d2>已经死了。</FONT><br><FONT color=#7e12d2>不想再继续看了。</FONT>"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "啊，对了。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "这样看来，你听说过那个传闻？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么传闻？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "<FONT color=#2b2723>在你不久前去过的</FONT><FONT color=#a82424>奇迹祭坛保护区</FONT><FONT color=#2b2723>，据说有人看到一个少女从那里走出来。</FONT><br><FONT color=#2b2723>是个戴着眼镜和宽大的帽子，穿着一件看上去有点奇怪的衣服的少女……</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_shadow.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊……你是说那个长得像尸体的少女啊。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_shadow.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "啊……？什么意思？<br><FONT color=#7e12d2>（斯泰拉带着疑惑的表情看着你）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "\n<FONT color=#7e12d2>（说明事情原委）</FONT><br><FONT color=#a82424>你说尸体消失了，原来放着尸体的地方站着一个和尸体长得一样的少女，然后看到你就逃跑了</FONT>？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>是的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "那……就是之前，你看到的尸体……你不会误把活人当做死人了吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>当时她明明已经没有呼吸了。瞳孔也是张开的……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "啊，哈哈。难道你把尸体变成的食尸鬼当成了活人……？<br><FONT color=#7e12d2>（斯泰拉否定现实）</FONT>",
+      "answer": "",
+      "image": "qm_ghoulblue.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我还是能分清食尸鬼和人类的……</FONT>",
+      "answer": "",
+      "image": "qm_ghoulblue.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "……。<br><FONT color=#7e12d2>（斯泰拉的脸色渐渐变得苍白）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "……呃。<br><FONT color=#7e12d2>（斯泰拉的身子开始有些发抖）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……斯泰拉？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "我不管-！！！<br>我没听见。我没听见。没听见！！！<br>我没有听到那块地上的尸体还能活过来！我才不管！有什么可怕的！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>斯，斯泰拉，你冷静点！这件事情我们还没有搞清楚啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "那，那那那你就证明给我看！<br>证明那个少女不是尸体！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我要怎么证明啊……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "很很很简单！我听说那个少女去了<FONT color=#a82424>狂人研究所</FONT>方向。<br>你赶紧去确认一下吧！",
+      "answer": "",
+      "image": "qw_70.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我现在就去确认，你先冷静一下。</FONT>",
+      "answer": "",
+      "image": "qw_70.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "谁谁谁谁，谁不冷静啦？<br>去去去去的时候，顺便问问有关K博士的研研研研究资料的事情。<br>问问他看没看到尸尸尸尸体站起来的事情。<br><FONT color=#7e12d2>（斯泰拉颤抖的好像风中的树木）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(…都到这个时候了，还能想到钱，真是令人佩服….)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "<FONT color=#a82424>狂，狂人研究所</FONT>在哪里你知道吧……？<br>去利，利物沃特码，码头吧。",
+      "answer": "",
+      "image": "qw_70.png"
+    },
+    {
+      "npc": "谜之少女",
+      "question": "…….</FONT><br>\n<FONT color=#7e12d2>（又有一具长相相同的尸体）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "<FONT color=#7e12d2>（地上躺着一具和之前见过的尸体长相相同的尸体。</FONT><FONT color=#7e12d2>望着长得和这张脸一样的人……</FONT><br><FONT color=#7e12d2>真是一种超现实的似曾相识的感觉）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "谜之少女",
+      "question": "啊，又见面啦。<br>你来这里做什么呢？<br><FONT color=#7e12d2>（少女露出十分警惕的眼神）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "谜之少女",
+      "question": "<FONT color=#7e12d2>（说明事情原委之后，少女露出苦笑）</FONT><br>哈哈，居然说我是尸体……<FONT color=#a82424>以前的人</FONT>们好像也会有这种错觉。<br>不过要说明的话，可就说来话长了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么意思？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "谜之少女",
+      "question": "……想要听的话，请到<FONT color=#a82424>这里</FONT>来吧。<br><FONT color=#7e12d2>（少女掏出一张地图）</FONT><br>我给你张地图。",
+      "answer": "",
+      "image": "qw_71.png"
+    },
+    {
+      "question": "<FONT color=#7e12d2>已经死了。</FONT><br><FONT color=#7e12d2>不想再继续看了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "有能让尸体……尸体复活的魔法吗？<br>制造食尸鬼和骷髅人……还有……<br>没事的，斯泰拉……你是个善良的人，没关系的……<br><FONT color=#7e12d2>（斯泰拉相当的紧张）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>斯泰拉！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "吓，吓我一跳！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我回来了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "好，好的。怎么样？<br>那那那那个少女，不不不不不是尸尸尸尸尸体吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>尽管我还不太清楚，但那个少女是人类。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "谜之少女",
+      "question": "地图上标记的很清楚，可以很容易找到。<br>一点都不难。",
+      "answer": ""
+    }
+  ]
+}

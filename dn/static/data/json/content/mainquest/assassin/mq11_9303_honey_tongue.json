@@ -1,0 +1,175 @@
+{
+  "qkname": "口蜜腹剑",
+  "data": [
+    {
+      "npc": "将军道格拉斯",
+      "question": "啊，是帮主教送信过来的人啊。<br>刚回来吗？",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "我一回来就把精锐士兵们召集了起来。<br>虽然人数比预想的要少，但都是身经百战的超精锐士兵。相信我们一定可以完成我们的目标。",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "在和黑骑士发生对峙以来，我们从来没有攻入他的老巢深处。<br>如果能趁这次机会获得更多的情报，对今后的战斗也会有很大的帮助。",
+      "answer": "",
+      "image": "qw_28.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "精锐兵力第1军已经和其他冒险家一起出发了。<br>等你完成个人的准备工作之后，就到<FONT color=#a82424>黑暗大君主领地</FONT>去和士兵们会合。",
+      "answer": "",
+      "image": "qw_28.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "嗯……要到黑暗大君主领地去？<br>明白了。",
+      "answer": "",
+      "image": "qw_28.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……你，人气真的很旺啊。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "就像……上次那个人。<br>一直跟着你。应该不是王城的士兵吧？",
+      "answer": "",
+      "image": "qm_dragonsycophant.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……像那样四目相对。<br>\n那个人一定也知道你看见他了。",
+      "answer": "",
+      "image": "qm_dragonsycophant.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "他一定是想杀死你。<br>\n哎呀，真遗憾。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "\n<FONT color=#7e12d2>（请和将军道格拉斯对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……辛苦你了。<br>\n好好干吧。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n他们全都逃走了。",
+      "answer": "",
+      "image": "qm_dragonsycophant.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "这个东西，掉在地上。<br><FONT color=#7e12d2>(露娜莉娅拿出一张折起来的纸片)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "好像是报告书。<br>\n上面还用奇怪的纹章进行了封印。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "报告书",
+      "question": "<FONT color=#086171>……推测为使徒幻象的男人……<br></FONT><FONT color=#7e12d2>(可以看清其中的一些字)</FONT><br><FONT color=#086171>追踪失败……尾随……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "报告书",
+      "question": "<FONT color=#086171>不确定国王陛下是否知道……<br>……龙之追随者教团……约定提供后续报告……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，看到了吗？<br>最后的纹样，在上次主教的信中好像见到过。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "看来那个主教好像也是使徒。<br>埃雷娜、幻象全都是使徒，对吧？",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>“国王”……是使徒们的主人吗？那个人到底是谁？<br>带着露娜莉娅逃走的时候，幻象到底在被谁追杀呢？<br>也许就是那个国王？使徒的主人？</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "也许是的。<br>也许不是。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>如果幻象当时在被国王追杀……<br>但是主教好像不认识露娜莉娅，这一点很奇怪。</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>埃雷娜也没有提过有关露娜莉娅的事情。<br>到底是怎么回事呢？</FONT><br>\n<FONT color=#662500>这该死的谜题越来越复杂，不知道什么时候才能解开。唉……</FONT>",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "所以呢？<br>\n接下去你想怎么做呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>现在最好的办法就是装作不知道。<br>我们没有掌握足以反击的情报，贸然刺激他们的话，只会造成更多的问题。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你是想先观察他们的动向啊。<br>明白了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(我好像不知不觉跟其他冒险家和士兵们分开了……<br>没别的情报的话，最好回到王城去。)</FONT>",
+      "answer": "",
+      "image": "qw_sainthaven_inside.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你要到王城去吗？<br>嗯……是吗？<br>最好去见见<FONT color=#a82424>将军道格拉斯</FONT>。",
+      "answer": "",
+      "image": "qw_sainthaven_inside.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "是你啊？看来你好像一个人在那里多搜索了一会儿。<br>其他冒险家的报告我已经收到了，让黑骑士给跑了。",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "报告说金发剑客追踪黑骑士，进入了黑暗领地守备队据点。<br>我们掌握的情报还不够，没办法派遣大规模部队到那里去。真让人为难。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "不过在冒险家公会的协助下，我们获得了一部分内部地图。我们已经派出了侦察队，应该很快就能进入内部。",
+      "answer": ""
+    }
+  ]
+}

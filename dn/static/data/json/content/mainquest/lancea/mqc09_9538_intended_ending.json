@@ -1,0 +1,126 @@
+{
+  "qkname": "注定的结局",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "姐姐快来。你见到凯伊哥哥了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>（把凯伊说的话告诉埃提亚）</FONT>",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9538_qu_01.ogg}<br><FONT color=#a82424>龙之宝玉</FONT>……这东西什么时候都是个大问题啊……<br><FONT color=#7e12d2>（埃提亚似乎在思考着什么）</FONT><br>我知道了，姐姐。先这样办吧。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "先去找<FONT color=#a82424>先知</FONT>吧。 <br>但是，最好不要告诉她已经找到巴尔纳了。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>先知……我去见她也没关系吗？</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "现在还不知道先知是真是假，先去看看她有没有什么可疑之处吧。<br>如果她是真的，告诉她巴尔纳的事情也没关系，但如果她是假的，那就危险了，所以暂时还是不要告诉她。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊~还是埃提亚最聪明啊！<br>那我这就去找</FONT><FONT color=#662500> 先知！</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "嗯。可是，你没忘记什么吧？<br><br><FONT color=#7e12d2>※需达到56级后和埃提亚对话。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "先知就在<FONT color=#a82424>王城地下</FONT>……姐姐，快去快回吧。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "是<FONT color=#387206>{user_nick}</FONT>啊，欢迎欢迎……<br>你来得正好……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？有什么事吗？<br>（不知为何有种不祥的感觉……？！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "不久前已经打听到了<FONT color=#a82424>巴尔纳</FONT>所在的地方。<br>他好像正在<FONT color=#a82424>陨石坠落地中心</FONT><FONT color=#2b2723>和黑骑士对峙</FONT>……<br>得动作快点了，<FONT color=#387206>{user_nick}</FONT>。",
+      "answer": "",
+      "image": "qw_63.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊？真的吗？！<br>（凯伊，怎么办？真的跟你说的一样……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "我和特拉玛依会一起跟着过去，<FONT color=#387206>{user_nick}</FONT>，请你先向<FONT color=#a82424>陨石坠落地中心</FONT>出发吧。",
+      "answer": "",
+      "image": "qw_63.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "时候……到了。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "怎么会这样……<br>到底是怎么回事……？<br>先知……先知为什么……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>果然……贝思柯德和凯伊说的没错……特拉玛依也是骗子……<br>现在别假装不知情了！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#7e12d2>（泰兰斯咬紧了嘴唇）</FONT><br><FONT color=#2b2723>贝思柯德</FONT>……我要把他送到王城去进行治疗。<br>你也到<FONT color=#a82424>神圣天堂王城</FONT>去吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哼！现在我才不相信特拉玛依说的话！<br>（不理特拉玛依了！我要去找埃提亚！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "哪怕是为了看<FONT color=#a82424>贝思柯德</FONT>……希望你可以过来……",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "哎呀……姐姐？",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "怎么这么激动的样子……发生了什么事？",
+      "answer": ""
+    }
+  ]
+}

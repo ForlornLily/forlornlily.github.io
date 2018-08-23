@@ -1,0 +1,215 @@
+{
+  "qkname": "可疑的商人",
+  "data": [
+    {
+      "npc": "格雷尔",
+      "question": "嗯，她说她是姐姐的朋友，其他的警卫兵也……认识我姐姐。姐姐似乎在这里很有名，我都不知道……",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "啊，累死了，要是有十个我就好了。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "你怎么才来！你快点把这个杂货商处理掉！",
+      "answer": ""
+    },
+    {
+      "npc": "可疑的宝石商人",
+      "question": "居然说我是杂货商！我是宝石商人啊！",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "姐姐……本来可以一直生活在拉达梅斯……但是她一直都在放弃……不能让我们独自生活。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格雷尔…..</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "虽然这里有些古怪、陌生，但一想到姐姐曾经在这里待过，我就什么也不怕了。对了，<FONT color=#387206>{user_nick}</FONT>，那个给我装置的安娜，她现在恐怕遇到了困难。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "虽然我想帮她，但是她不告诉我！说什么小鬼不用知道也行。我可不是小鬼，而是查……唔，干嘛！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你最好在这里不要提起查尔德。我去问问她有什么事。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "哼！不要把我当成小孩子！<br><br><FONT color=#7e12d2>（先听从格雷尔的委托，去找魔法师安娜吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "我都快忙死了，怎么了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你没有遇到什么困难吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "ndnpc_Anna_9751_qu_01.ogg}<br>什么嘛？不买。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不……不是那样。格雷尔说安娜似乎遇到了困难，但是你不肯告诉他……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "那小鬼担心他自己就行了啊，连我都担心，真是的！<br>而且有困难的不是我，是难民。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "来到拉达梅斯的难民大部分都要经过<FONT color=#086171>布卡努斯沼泽地带</FONT>。如果运气好，那就能平安到达，但是大部分都会陷入陷阱里。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "虽然知道安全道路的警卫兵在不断救出陷入陷阱的难民……但是如果陷阱里有复仇军团，很多人都有可能会因此而受伤。 ",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "我要负责给难民们制作药品。但是最近……搜集制作药品的材料实在是不简单。红色荒地的<FONT color=#a82424>城堡盗贼团</FONT>！那些人就是问题所在。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那……我去找材料吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "如果是在这附近就能找到的材料，我早就找来了！那种植物只生长在寒冷的北方，在这里是不会有的。只能通过商团购买！但是最近商团被城堡盗贼团攻击了。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "<FONT color=#a82424>红色荒地的城堡盗贼团</FONT>仓库肯定是满满当当的。雪花精髓！！啊，怎么办呢？要治疗的人一大堆，不能再拖下去了……",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "ndnpc_Anna_9751_qu_02.ogg}<br>不行！我还是得去找<FONT color=#a82424>盗贼团</FONT>！<FONT color=#387206>{user_nick}</FONT>，你打头阵！！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你要去偷？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "反正都是抢来的东西！别废话了，去<FONT color=#a82424> 红色荒地</FONT>吧！ ",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "为什么这么慢！你快点把这个杂货商处理了。",
+      "answer": ""
+    },
+    {
+      "npc": "可疑的宝石商人",
+      "question": "ndnpc_Gregory_9751_qu_01.ogg}<br>杂……杂货商人！！！我……我可是专门贩售历史久远的珍贵宝石的商人，像你这种虫……呃，像你这样的人应该没听过我的大名！",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，我没时间了，你来对付这个宝石商人吧！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "我得去盗贼团的仓库，先走了！",
+      "answer": ""
+    },
+    {
+      "npc": "可疑的宝石商人",
+      "question": "ndnpc_Gregory_9751_qu_02.ogg}<br>居然……把我当成杂货商。居然……如果你们知道我的身份，我肯定就要把你们全都灭了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>身份？你是哪位……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "可疑的宝石商人",
+      "question": "<FONT color=#7e12d2>（吓了一跳）</FONT>我？我嘛……就是扬名三代的宝石商人格里高利！！我所经营的宝石可都是传家宝或者国宝级别的！ ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>如果你是宝石商人，那你应该小心啊，这附近就是盗贼团的老窝。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "盗贼团？那种家伙一点都不可怕。比起那个来，你……知道村庄吗？人很多的那种？？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这个嘛？能够买得起宝石的人生活的地方……没有。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "ndnpc_Gregory_9751_qu_03.ogg}<br>还真有啊？好了！那就赶快带我去那个村庄吧！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>抱歉，那个……呃……我要问问安娜。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "什么？原来你是土包子啊！哼，好吧，你就去先见见那什么魔法师安娜再来吧！",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "呵呵，多亏了你，我才做了足够的药品给难民们。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "正如我所料，城堡盗贼团根本不知道<FONT color=#086171>雪花精髓</FONT>有多珍贵，就直接放在仓库里了！呵呵，我带来了很多哦。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "总之，多亏了你，我才能制作出这个。",
+      "answer": "",
+      "image": "qs_default.png"
+    }
+  ]
+}

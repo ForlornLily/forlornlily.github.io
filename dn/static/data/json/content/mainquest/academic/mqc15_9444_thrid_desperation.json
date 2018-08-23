@@ -1,0 +1,510 @@
+{
+  "qkname": "第三次绝望",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……你怎么在这里？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "你终于，目睹了一切事情经过，以及那些真相，还有事件。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡汉拉，你对我到底有什么企图？</FONT><br><FONT color=#662500>你所谓的命运到底是什么，你给我说清楚！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9444_qu_01.ogg}<br>我只是尽了自己的职责。我在梦中看见了征兆。所以我想为你提供向导……<br>我相信你可以拯救我们。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我到底能拯救谁！？</FONT><FONT color=#662500>我真的什么也做不了，完全无能为力啊。</FONT><br><FONT color=#662500>既然我什么也无法阻止，我离开阿尔杰塔还有什么意义！</FONT><br><FONT color=#662500>阿尔杰塔她怎么样了？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……这是因为历史还没进展到适当的时候。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>适当的时候是什么意思……你不知道吗？ </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9444_qu_02.ogg}<br>我可以确定地告诉你的是，你所见到的巨石碑之门的两次开启，都真实发生过，而且确实也关闭过两次。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9444_qu_03.ogg}<br>第一次关闭，靠的是我们无数族人的生命，以及几乎等同于银龙自身的强大力量。<br>为了与女神维系起来，如尘埃般微小的我们付出那样巨大的代价……建造了封印石。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9444_qu_04.ogg}<br>第二次关上巨石碑之门的，是一个拥有超人之力的人类。<br>那是一位可以为自己的信念不惜牺牲包括自己在内的所有人的王，他很坚强，又很孤独。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>说到这里，你能不能给我解释一下？！明明有封印石，为什么巨石碑之门还会第二次开启？<br>还有，那时候阿尔杰塔为什么不在？</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "封印石……只是在阿尔特里亚大陆上封印巨石碑之门的手段，不是谜之大陆上封印巨石碑之门的手段。如果维斯提内创造的生灵做出行动，封印石是无法阻止她的。<br>因为，那封印石仅仅只是阿尔泰亚女神的碎片们建造的。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "封印石只能阻止阿尔特里亚大陆上的生灵开启巨石碑之门，<br>并在门开启时，将这个消息通知给封印石力量的主人。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "阿尔杰塔，对于银龙的行踪，我们也不知道。因为女神的梦无法完整地显现出她的情况。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可恶……！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "关于第二次关上巨石碑之门的人们的故事……如果你想了解，我可以为你显现出来。<br>但这仅是你个人的意志。这段记忆并不是扭曲的命运洪流中必不可少的成分。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9444_qu_05.ogg}<br>我知道至今为止你走过了许多艰难的路途，也知道许多记忆在折磨着你的心。<br>所以，我没资格勉强你。<br>这是我最后能为你显现的记忆。一切都看你自己的选择。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……我要看。我必须要弄个明白。一路走来看过了那么多记忆，没道理不知道结局。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……好吧。请你到<FONT color=#a82424>祈祷之心</FONT>去。<br>去那里……见见他们。还有……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>还有？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9444_qu_06.ogg}<br>……没什么。希望你能平安归来……<br><FONT color=#7e12d2>（请前往</FONT><FONT color=#a82424>祈祷之心</FONT><FONT color=#7e12d2>）</FONT><br><br><br><FONT color=#7e12d2>*组队状态下无法执行该任务。</FONT>",
+      "answer": "",
+      "image": "qw_97.png"
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "啊，我和那人约定过的……佩达，请你不要太绝望了……<br><FONT color=#7e12d2>（看样子没法和她对话。请听听佩达怎么说）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "……你的劝告没有一丁点实质，梅里恩戴尔。你在回避根本问题！<br><FONT color=#7e12d2>（请听佩达说话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9444_qu_01.ogg}<br>是啊。我都忘了这个世界只不过是女神的一场梦。正如我们将梦境看作一瞬间的海市蜃楼一样，这场梦对女神来说也是无足轻重的。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "佩达……",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9444_qu_02.ogg}<br>但是，我实实在在地站在这里，一切事物都确切地存在着。我不管这一切对女神来说只是梦，对我们来说，这全是活生生的现实，是真实存在的！就算女神否认，这也是我唯一坚信的真理。",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9444_qu_03.ogg}<br>我听见从某处传来失去了孩子的母亲撕心裂肺的哭号，还有失去了爱人的男人悲痛的喊声。这世界正渐渐变成一个万劫不复的地狱。再过不久，这个世界就会现出自己的本来面目，整片大陆将陷入恐怖的深渊。",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9444_qu_04.ogg}<br>我征服的，就是这样一个世界吗！！为了获得这样一个虚无可笑的世界，我做了什么啊！人人都称我为征服王，我只不过征服了一堆虚无的幻象，这样的称赞听起来多么刺耳！！！女神创造我们，就是为了给我们这样的绝望吗？！",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9444_qu_01.ogg}<br>佩达，你别这样说，我们……。我们是获得了女神祝福的生灵。你不该忘记这个事实。当初我把自己所知的一切知识告诉你时，不是也说过这一点吗！",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9444_qu_05.ogg}<br>你在说什么胡话？眼前这惨绝人寰的情景，你说是祝福？看来是我没真正认识过女神。如果说，女神的意旨和祝福是要我们乖乖地迎接毁灭！那我选择拒绝接受！",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9444_qu_02.ogg}<br>佩达，佩达，请你不要放弃！只要我们关上巨石碑之门，大家就不会消失。之前见过的那个冒险家已经为我证实了。我们肯定可以关上巨石碑之门的！",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9444_qu_06.ogg}<br>关门？呵，就算今天能关上这巨石碑之门，要是将来它再次打开呢？如果谜之大陆的生灵又一次打开门，我们就必须重演今天的悲剧！我绝不能忍受这种可能性！！",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9444_qu_03.ogg}<br>佩达……？<br><FONT color=#7e12d2>（梅里恩戴尔惊慌地睁大眼睛。她失去焦点的眼神有些发颤）</FONT><br>你是不是有什么打算……？",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9444_qu_07.ogg}<br>你走吧，梅里恩戴尔。我们要走的道路不同，我不会强留你。<br>即便是做出这世上所有人最担忧的事，我也一定要阻止悲剧的发生。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "\n佩达，什么叫所有人最担忧的事？<br>\n竟要我离开你，你到底想干什么？",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9444_qu_08.ogg}<br>既然神对我们的死置之不理，我们也没必要为神之死操心。无论我们的生命在他们眼中多么地微不足道，我们是这个世界的生灵！",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "巨石碑之门开启，便是有可能接触到神的证明。我要到门的另一头去。去见到女神，并杀死她，将这世界的所有力量都攥在手中，成为最接近神的生灵。我要创造一个新世界！",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9444_qu_09.ogg}<br>我要重写所有秩序，取代神的位置！",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9444_qu_04.ogg}<br>……佩达……！！<br>什么取代神，你知道你在说什么吗？！佩达？！？",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9444_qu_10.ogg}<br>既然虚无的世界是个错误，我纠正它不是理所当然的吗，梅里恩戴尔？<br>我身为这个世界的王，不能对错误的世道坐视不管。就算是神，如果对我们是个灾难，我也得将他铲除！<br>你终究是无法接受我的想法啊。如果你要走，就走吧。我不需要心怀迟疑的同伴。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9444_qu_05.ogg}<br>……不，佩达。我要和你一起走到最后。<br>这是我对自己的誓言，而且……",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9444_qu_07.ogg}<br>……就算你的信念与我不同，我也不会放弃你。<br>我已经发过誓的。而且……",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9444_qu_08.ogg}<br>……因为……",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9444_qu_09.ogg}<br>……因为……你是强大的。<br>我有义务要监视比我更强的人，防止其犯错。<br><FONT color=#7e12d2>（梅里恩戴尔似乎语带遮掩）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9444_qu_11.ogg}<br>你还是这么幼稚……随你便。",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9444_qu_12.ogg}<br>快动身吧，巨石碑之门近在眼前了。很快那家伙也会赶来跟我们会合。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9444_qu_10.ogg}<br>是，陛下。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……（耳边已不再传来说话声……不过……我想我该看到最后）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9444_qu_01.ogg}<br>……又一次！？<br>如今我都不知道该说什么，只能苦笑了。<br><FONT color=#7e12d2>（阿尔杰塔无语地看着开启的巨石碑之门。似乎看不见我……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……而且，这次明显地，是谜之大陆的生灵动了这扇门。封印石无法阻止门的开启就是证据。谜之大陆已经开始正式入侵这个世界了？真讨厌，我从没见过那个世界的生灵，也一点不想看见他们。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "事情已经发生了，还能怎么办。第一次是用人类的生命封上了门，第二次该用我的命了吧。还是说，干脆到谜之大陆去，在那边把门关上，再加上封印更好些？啊啊，结局竟是这样，太没意思了。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9444_qu_02.ogg}<br>真是让我不省心啊。对，是我错。竟然妄想着收复大陆。我就该老老实实地谨守本分，监视好这片残破的大陆……",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9444_qu_03.ogg}<br>……呼。真没想到会这样迎来终结。<br><FONT color=#7e12d2>（阿尔杰塔攥紧了手中的剑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……？？",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……？？呃？这……这气息是……混沌龙？！？",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你是啥玩意儿……？人类？龙？<br><FONT color=#7e12d2>（他们似乎看不见你。听听佩达说什么）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9444_qu_13.ogg}<br>嗬……<br><FONT color=#7e12d2>（他们似乎看不见你。听听佩达说什么）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "嗬……",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9444_qu_04.ogg}<br>哎，他不是红龙啊。他是那个被称为征服王的人？人类的王怎么在这里？",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "嗬……门关上了？",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9444_qu_14.ogg}<br>那边站着的，是另外的龙吗？你……是另一条混沌龙吗？",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9444_qu_06.ogg}<br>我是古代龙。这是怎么回事，人类？我明明记得刚才红龙一直在这里……<br>可站在这里的，却是个不寻常的人类。难道是我认错了？<br>回答我，红龙他怎么了？",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9444_qu_15.ogg}<br>如果你指的是卢比纳特，它早死了，古代龙。<br>你白跑了一趟。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9444_qu_07.ogg}<br>不算白跑。我得问清楚发生了什么事。人类，你怎么会和龙在一起？你来自谜之大陆吗？你到底是个什么东西？",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9444_qu_16.ogg}<br>……正如你所见。那是那帮家伙临死前的挣扎。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9444_qu_08.ogg}<br>？！你的意思是混沌龙关闭了巨石碑之门？天啊！还有，你居然身怀红龙宝玉回到了阿尔特里亚。他临死前把宝玉交给你了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "……<br><FONT color=#7e12d2>（佩达一语不发，但表情很痛苦）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……<br>\n<FONT color=#7e12d2>（阿尔杰塔静静地看了佩达一会儿，最后叹了口气，解除了战斗姿势）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9444_qu_09.ogg}<br>人类，你活不了多久了。宝玉会蚕食你的身体，将你变成不同于从前的怪物。看样子卢比纳特临死前给自己身旁的人类下了个可怕的诅咒啊。事到如今我也无能为力了。",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "呵。<br><FONT color=#7e12d2>（佩达咬紧了牙关）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "无需我动手，再过不久，你的身体就会被逐渐吞噬，最后显现出一块完全失去了力量的宝玉……<br>\n到时候，我可以帮你毫不痛苦地了断生命。<br>\n好好珍惜你所剩不多的生命吧，人类。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "还有，你快到巨石碑外面去吧。虽不知道卢比纳特是怎么把你引诱到这里来的。<br>\n但我得修复因这次开启而受影响的封印石。被力量余波卷入的话，你会死的。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9444_qu_10.ogg}<br>我得先到炙风地狱去了。<br>你好自为之吧，人类。",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9444_qu_17.ogg}<br>……咳！咳嗬……呃，呃呃呃呃……。",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9444_qu_18.ogg}<br>……啊哈哈哈哈！<br>可笑，这简直是个天大的笑话，我将变得更加强大。<br>神啊，创造物的反抗就这么可笑，这么令你惊愕吗？",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9444_qu_19.ogg}<br>梅里恩戴尔。我守住了最后的约定。巨石碑之门关上了！延长这个世界的寿命，<br>是我能为你尽到的最后道义。<br>你将不再存在于这个世上了。",
+      "answer": "",
+      "image": "qn_npc_marriendel.png"
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9444_qu_20.ogg}<br>卢比纳特，你真是条蠢龙，最终也没能做出正确的选择啊。<br>可惜我最后还是回到了这个虚无愚昧的世界！看啊！这世上的愚昧生灵们甚至都未察觉到自己的世界被动摇了！",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9444_qu_21.ogg}<br>我一定会再次站在神的面前。为了这一天，我愿不惜各种手段也要达到目的。<br>为了摧毁这个虚无的世界，重建一个新世界！我将承载力量归来，重新开启巨石碑之门！",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9444_qu_22.ogg}<br>哈哈哈哈……哈哈……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……佩达……？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9444_qu_23.ogg}<br>呵呵，是你啊，时间旅行者。你看见了什么，脸上这副表情？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>佩达，你……你见到了神？！<br>可你刚才说要摧毁世界！！你不是这个世界的王吗！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9444_qu_24.ogg}<br>你的眼光该看得长远点。虚无的世界和真实的世界，哪个才是正道！！<br>你同样是身怀力量之人，应该懂得为这力量负责。你同样有资格重建这个世界！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我能获得混沌龙的力量，是因为我曾约定过要守护大家，和大伙们合力奋战。</FONT><br>\n<FONT color=#662500>混沌龙的力量是为了守护这个世界而赋予的。你却要利用这力量来摧毁世界，太过分了。我无论如何一定会守护世界的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "说什么傻话！你知道自己现在在说什么吗，冒险家？<br>海市蜃楼、幻象、虚无！你说你要守护这些东西。你就不明白这其中的矛盾吗？<br>这一切反正只是场梦，有什么必要为守护那些注定消失的虚无而拼命！",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "神欺骗了我们，这世界本身就是神用来欺骗我们的工具。<br>\n我利用这工具来接近神，有什么错！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>就算事实如你所说，你百般否认我们至今为止生活的世界，有什么意义？！</FONT><br>\n<FONT color=#662500>说到底我们不是为了可以共存而战斗的吗？</FONT><br>\n<FONT color=#662500>梅里恩戴尔也不会愿意看见你那样做的！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "梅里恩戴尔……？<br>\n哈哈哈哈，你说梅里恩戴尔！那个最先在巨石碑中扭曲至死的傻女人有什么价值可谈！那就是愚蠢地追随特雷西亚之人的下场。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？！！？死了……？你说梅里恩戴尔她死了？！</FONT>",
+      "answer": "",
+      "image": "qn_npc_marriendel.png"
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9444_qu_25.ogg}<br>没错，最终她白白送掉了自己的性命。<br>觉悟吧。对神来说，生命只是弹指云烟。要改变这一状况的我何错之有！！他们甚至不会察觉到梦境的缺损！！",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9444_qu_26.ogg}<br>我最后问你一次。你是选择与我携手共创新世界？还是要反抗我，自寻死路？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我要反抗你。还有，我也不打算今天死在这里！<br>为了新世界而否定目前的世界，简直是狗屁不通的说法！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9444_qu_27.ogg}<br>愚不可及……！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……这……这是怎么回事……<br>佩达他，梅里恩戴尔……红龙……阿尔杰塔……在谜之大陆上封闭了巨石碑之门？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>梅里恩戴尔，你真的死了吗……？你不是说过……要和佩达一起拯救这个世界吗……</FONT>",
+      "answer": "",
+      "image": "qn_npc_marriendel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>梅里恩戴尔……</FONT>",
+      "answer": "",
+      "image": "qn_npc_marriendel.png"
+    },
+    {
+      "question": "任务完成",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（脑袋里好混乱。巨石碑之门就这么关上了？真的是……名叫卢比纳特的红龙关上了巨石碑之门吗？</FONT><FONT color=#662500>先回去找卡汉拉吧）</FONT>",
+      "answer": ""
+    }
+  ]
+}

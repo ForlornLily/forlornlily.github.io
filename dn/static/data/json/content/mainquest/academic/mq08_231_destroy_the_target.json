@@ -1,0 +1,158 @@
+{
+  "qkname": "破坏对象",
+  "data": [
+    {
+      "npc": "战士西恩",
+      "question": "只要大家齐心协力，没有什么是做不到的！哇哈哈！",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "可恶的黑暗精灵……<br>大家努力守护凯德拉关卡吧！",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_MR_Jasmin_sp_04.ogg}<br>关于上次我跟你说的数据再生….",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "虽然数据的量有限，但还是可以通过通讯器搜索基本数据的。<br>不知道这对你的帮助大不大，但至少不会像之前那样无法获得任何情报了。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>虽然只复原了一部分，但这已经是不幸中的万幸了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "嗯，只有部分数据。只能对当时的情况进行判断……<br>我还是有些担心。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没关系的，请相信我。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_MR_Jasmin_sp_05.ogg}<br>嗯，我相信你。<br>我亲爱的妹妹，<FONT color=#387206>{user_nick}</FONT>……<br>那我现在将你需要的资料传送给你，你仔细看看吧。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "\n<FONT color=#7e12d2>（与黑暗精灵埃雷娜相关的资料出现在屏幕上）</FONT>",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "原来埃雷娜将制造装置藏在了<FONT color=#a82424>神殿礼拜堂</FONT>啊。<br>不过，你为什么需要这个资料呢？",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>没什么，谢啦~！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_05.ogg}<br>虽然不知道你想做什么，但……你要注意安全。<br><FONT color=#7e12d2>（去告诉灰色废墟的战士西恩吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "没~没关系啦！<br>一切都会好起来的！",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "可恶的黑暗精灵……<br>大家努力守护凯德拉关卡吧！",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br><FONT color=#7e12d2>▷ 请将情报转告给灰色废墟的战士西恩吧。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "<FONT color=#a82424>神殿礼拜堂</FONT>？居然将制作装置藏在那种地方~！！我完全没有想到。<br>我现在热血沸腾！！我们出发吧？！",
+      "answer": "",
+      "image": "qw_19.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>其他人呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "他们很快就会跟上来的。<FONT color=#387206>{user_nick}</FONT>你也快点出发吧！<br>必须在可恶的<FONT color=#a82424>黑暗精灵</FONT>将凯德拉关卡附近的所有魔物变成她的手下之前，阻止这一切~！<br><FONT color=#7e12d2>（西恩紧握着拳头）</FONT>",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "必须要破坏小精灵制造装置，击退小精灵，守护凯德拉。<br>\n好了，快出发吧！前往<FONT color=#a82424>神殿礼拜堂</FONT>~！",
+      "answer": "",
+      "image": "qw_19.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你将小精灵制造装置全部破坏了吗？<br>我也在努力寻找呢。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "真是了不起。<br>哇~ <FONT color=#387206>{user_nick}</FONT>，我好崇拜你！！<br><FONT color=#7e12d2>（西恩感慨着）</FONT>",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "虽然你是小孩，但你足以获得我的尊敬，以后我就喊你姐姐啦……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我不要……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "……你不愿意，那我还是继续喊你<FONT color=#387206>{user_nick}</FONT>吧。<br>以后请你多多指教。<br>我们，经常见面吧。<br><FONT color=#7e12d2>（西恩猛地握住你的手）</FONT>",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "我们再去另一个地方吧？！<br>守护凯德拉关卡的同伴！！<br>勇敢的<FONT color=#387206> {user_nick}</FONT>~ 我们一起去吧！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>去、去哪里？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "那里是！那个地方是……！<br>嗯……我们不要再这种阴暗的地方说，我们先亮一点的地方吧！我们在<FONT color=#a82424>灰色废墟</FONT>见！",
+      "answer": "",
+      "image": "qw_cristalstream.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

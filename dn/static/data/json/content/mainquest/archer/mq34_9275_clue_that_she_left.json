@@ -1,0 +1,190 @@
+{
+  "qkname": "她留下的线索",
+  "data": [
+    {
+      "npc": "精灵长老",
+      "question": "哈啊。大事不妙。大事不妙啊....神圣的仪式中怎么会....",
+      "answer": ""
+    },
+    {
+      "npc": "精灵尸体",
+      "question": "<FONT color=#7e12d2>(正在化为沙尘的精灵尸体)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "长老似乎还有话要对你说。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "仪式进行的途中，森林会保护以及隐藏有资格的精灵与守护者。<br>你可能不知道，但他们会踏入一半的灵界。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "竟然是杀死那种候补的人... 不参加女王选举会议怎么会...?<br><FONT color=#7e12d2>(长老忽然看着尤万西贝尔)</FONT>",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9275_01.ogg}<br><FONT color=#387206>{user_nick} </FONT>大人。<br>\n尤万西贝尔在女王选举会议中有消失过吗?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "你现在是在怀疑我吗?",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "是的。这种状况我不怀疑你会怀疑谁?<br>\n…希特里德警卫兵!<br><FONT color=#7e12d2>(受长老的呼唤，警卫兵希特里德抓住尤万西贝尔)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "我一刻也没离开过她，尽了我的义务。 <br>你凭什么怀疑我?",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "除了你的过去没有别的证据。<br>不过为了减少就算一种的威胁，为了保护宝贵的女王候补们，你现在得听从我的指示了。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "<FONT color=#7e12d2>(精灵长老从尤万西贝尔身上转移视线，望着{user_nick}处)<br></FONT><FONT color=#2b2723>好好想想吧。他真的没做什么可疑的举动吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "<FONT color=#7e12d2>(长老暂时思考后重新开口)<br></FONT>但是女王选举会议结束前只能监视你的守护者，这需要你理解。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>(怀疑，和确实有可能都是事实。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "别的候补们都怎么样了呢。<br>有可能是森林无法完全隐藏候补<FONT color=#387206> {user_nick} </FONT>大人也在此处接受保护吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我再去找找吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9275_02.ogg}<br>你在说什么!你也是宝贵的女王候补。<br>而且不能把没有守护者的候补派到危险的地方去!",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>让我去吧。这也是我的宿命之路的一部分。</FONT><br>\n<FONT color=#662500>如果我的特雷西亚是成为女王就绝不会死。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "<FONT color=#7e12d2>(精灵长老皱着眉头)<br></FONT><FONT color=#2b2723>女王候补们真是人人牛脾气啊。以前的那位也一样。</FONT>",
+      "answer": "",
+      "image": "qw_79.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "<FONT color=#2b2723>如果你真的这么想，我也不加以阻拦了。</FONT><br>\n<FONT color=#2b2723>那么，请你去</FONT><FONT color=#2b2723>侦查</FONT><FONT color=#a82424>青铜残月林间路</FONT>。",
+      "answer": "",
+      "image": "qw_79.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "竟然能找到那种候补并杀死的人…我不明白到底是怎么一回事。<br><FONT color=#7e12d2>(* 67Lv以后才能进行任务)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "不是要去<FONT color=#a82424>青铜残月林间路</FONT><FONT color=#2b2723>吗？<br>虽然不能阻止女王候补的选择，但我实在不希望把你丢进危险之中...<br></FONT><FONT color=#7e12d2>(长老不高兴地皱着眉)</FONT>",
+      "answer": "",
+      "image": "qw_79.png"
+    },
+    {
+      "question": "<br><FONT color=#7e12d2>(已经断气的精灵非常眼熟。</FONT><br><FONT color=#7e12d2>名字叫露西安来着... 先看看周围吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_elf_rusien.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>(漏出微光的遗物...</FONT><br>\n<FONT color=#662500>这是我巡礼的时候也见过的。</FONT><br>\n<FONT color=#662500>那时候明明是完整的摸样...)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "<FONT color=#2b2723><br></FONT><FONT color=#7e12d2>(拿起遗物)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": " <br>\n<FONT color=#7e12d2>(似乎已经没什么东西可以查到了。回到精灵长老处吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9275_03.ogg}<br>别的候补们还没有回来，但你怎么是一个人?<br>\n<FONT color=#a82424>露西安</FONT>呢?没见到那个孩子吗?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>非常遗憾...</FONT><br>\n<FONT color=#662500>我发现了她的尸体。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "连露西安也....<br><FONT color=#7e12d2>(长老的脸色进一步变暗了)<br></FONT>还找到了什么?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>(把遗物递给长老)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "这是什么?<br>看起来是相当陈旧的遗物，我还第一次见到这汇总特殊的摸样。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>似乎是某人以这</FONT><FONT color=#a82424>遗物</FONT><FONT color=#662500>为目标进行攻击的。露西安紧攒着这个。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9275_04.ogg}<br>这遗物到底是什么东西，至于杀死女王候补吗。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>谁知道呢。不过巡礼的时候见过有光从这个遗物中泄露出来。<br>像是森林记忆的东西从这遗物周边传来。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "如果你说的是事实，那这可能就是和女王选举会议有关联的遗物吧。<br>\n我也是长时间待在森林的，但对这遗物听都没听过。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

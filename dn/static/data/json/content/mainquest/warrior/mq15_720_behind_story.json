@@ -1,0 +1,199 @@
+{
+  "qkname": "藏起来的故事",
+  "data": [
+    {
+      "npc": "贝思柯德",
+      "question": "真是个执拗的家伙。<br><br><FONT color=#7e12d2>只能从卡拉秋那里获得并进行任务。</FONT>",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "\n你是说<FONT color=#a82424>贝思柯德</FONT>的目的是卡拉翰吗？",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的。</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "真搞不懂他们两个人之间到底发生了什么事情。<br>你去跟踪<FONT color=#a82424>贝思柯德</FONT>看看。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "如果贝思柯德和卡拉翰相互纠缠，导致两败俱伤，那可是大快人心的好事啊……<br><FONT color=#a82424>贝思柯德</FONT>去了<FONT color=#a82424>古代武器库的西边</FONT>，你赶紧跟过去看看。<br><FONT color=#7e12d2>（组队状态下无法进行该任务）</FONT>",
+      "answer": "",
+      "image": "qw_54.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "真是个执拗的家伙。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "真是个执拗的家伙。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "\n居然跟到这里来了，你可真是个执拗的家伙。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡拉翰逃跑了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "因为没能召集到足以唤醒<FONT color=#a82424>绿龙宝玉</FONT>的所有力量，所以他还会再次出现的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>竞技场的骑士是什么……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你好奇的事情可真多……<br>那只不过是很久以前，我作为<FONT color=#a82424>使徒</FONT>时期的称号而已。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>所谓的使徒到底是什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#a82424>使徒就是指</FONT>……一个男人的<FONT color=#a82424>七个家臣</FONT>。<br>也就是埃雷娜、伊格纳西奥、卡拉翰以及台风金等，他们是那个人的左膀右臂。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他们为什么要追随那个人呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "使徒们追随他都有着各不相同的目的。不过，唯独<FONT color=#a82424>伊格纳西奥</FONT>和我是从先祖开始就侍奉他的家族后裔，所以毫无疑问要继续服从于他。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "不过，那只是愚昧的盲从而已。<br>我花了很长时间才领悟到这一点。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他的目标是龙的宝玉吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "他在很久以前就已经得到了一块龙的宝玉。<br>可是却没能找到变成龙的方法。<br>他认为自己得到的那块宝玉不是不稳定就是有缺陷。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "所以他便开始觊觎另一块龙的宝玉。<br>也就是曾经作为完整的龙的<FONT color=#a82424>黑龙卡拉斯</FONT>那块……",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>就是50年前黑龙之战时候的……</FONT>",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "然而，黑龙的宝玉被吸到了我的体内无法取出。所以他下令让<FONT color=#a82424>卡拉翰</FONT>取出宝玉，或者研究出可以成为龙的方法。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "卡拉翰不仅研究出了变成龙的方法，而且还找到了取出宝玉的方法。于是，他便企图从我的身体里取出宝玉后自己变成龙。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我趁机从卡拉翰的研究室逃了出来。<br>之后便开始了漫长的寻找<FONT color=#a82424>古代人后裔</FONT>的生涯。<br>为了获得龙的力量……也为了报仇……",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个男人是谁……？</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我对你说的太多了。<br>你该回去了，小毛孩。<br>他对你来说是个遥不可及的存在。<br><FONT color=#7e12d2>（回到卡拉秋那儿吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你该回去了，小毛孩。<br><br><FONT color=#7e12d2>（回到卡拉秋那儿吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你查出什么了吗？<br>\n<FONT color=#7e12d2>（讲述和贝思柯德的谈话内容）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "竟然为了笼络我们而大谈特谈他的背叛，真是可笑……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个人的真实身份到底是什么呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "哼，知道了又能怎样……<br>我再也不想搀和到那些该死的龙的是非中去了。咳咳咳……",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "还有，就在你去那个地方的时候，传来了一个坏消息。<br><FONT color=#a82424>塔玛拉</FONT>正在照顾的察提的部族民众状态每况愈下，现在镇静剂对于再次变成魔兽的他们来说似乎已经不管用了。",
+      "answer": "",
+      "image": "qn_npc_soceresstamara.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那该怎么办呢？</FONT>",
+      "answer": "",
+      "image": "qn_npc_soceresstamara.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "看来该采取极端措施了……<br>阻止那些人走上不归之路的方法就只有<FONT color=#a82424>死亡</FONT>了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么……？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

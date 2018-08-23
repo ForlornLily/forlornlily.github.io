@@ -1,0 +1,290 @@
+{
+  "qkname": "不会重复的时间",
+  "data": [
+    {
+      "npc": "暗影喵",
+      "question": "喵～喵喵喵～～<br><FONT color=#7e12d2>(暗影喵使劲舔着前爪)<br></FONT>呜噜噜～徒弟，快点变回善良的徒弟吧喵～好可怕喵～！！",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "抖抖抖……徒弟～快回去吧喵～我更喜欢过去那个善良的徒弟喵～现在的你太可怕了喵……<br>你要到利物沃特码头去找你想找的东西吗喵？一定要去吗喵？",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "想要用自己的生命去守护的人死了，打击一定很大。<br>虽然不了解具体的情况，但我能理解那种心情。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "我问你有没有看见露娜莉娅，冒险家。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊，让我想想……嗯，不，我不能把不准确的情报告诉你。<br>\n<FONT color=#7e12d2>(* 在组队状态下无法执行的任务)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "嗯……<br>\n让我想想……我好像想起来了。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "不过我不敢确定是不是她……",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "啊哈哈哈哈！完美！漂亮！帅气～！<br>我的存在就是个奇迹！",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你的选择就是你的命运。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "同样的通信器……怎么会在这种地方……嘀咕嘀咕……<br><FONT color=#7e12d2>(学者柯梅里纳自言自语道)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "呵呵……你也是来向我挑战的吗？<br>过去的崇拜者。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "……我什么时候变成你的崇拜者了？",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "哦……幻象。<br>真是好久不见。<br><FONT color=#7e12d2>(卡拉翰好像提起了兴趣，回过了头)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "你到这里来，一定是为了你曾努力寻找的那个女人吧？<br>你们这些卑微之人，为什么不愿屈服于高高在上的主宰，而要执着于那些无聊的事物呢？ <br>那个让人不快的老太婆也是，你也是，全都是鼠目寸光。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "你还是和以前一样，话还是那么多。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "幻象，你不打算把那个女人献给国王吧？<br>你花了这么长时间去追踪那个女人，看来也不完全是笨蛋嘛！哈哈哈。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "要我卡拉翰大人用伟大的秘传的力量，将你和那个女人的名字变成历史吗？<br>国王可能也是这么希望的，呵呵呵呵。真是完美的计划。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "是的……就是<FONT color=#a82424>那个女人</FONT>。<br><FONT color=#7e12d2>(卡拉翰指着后面说道)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "……露娜莉娅！",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "愚蠢的家伙。<br>露出这么大的破绽，真的是想死在这里吗？<br>乖乖地变成被遗忘的崇拜者，成为我卡拉翰大人的血肉吧！",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "不知道是不是之前和你在一起的那个女人。<br>不过我在<FONT color=#a82424>古代武器库的西边</FONT>发现了一块衣服的碎片。",
+      "answer": "",
+      "image": "qw_56.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "愚蠢的家伙。<br>露出这么大的破绽，真的是想死在这里吗？<br>乖乖地变成被遗忘的崇拜者，成为我卡拉翰大人的血肉吧！",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……<br>你又到这里来了，<FONT color=#2b2723>幻象</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "露娜莉娅！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "露娜莉娅，你想让同样的事情不断重复下去吗？<br>你想再和一无所知的我重复相同的旅程，然后又一个人逃走吗？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "不一样。<br>不可能一样。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "不可原谅。<br>露娜莉娅。<br>我是不会原谅你的。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你是幻象。<br>不能叫你……<FONT color=#387206>{user_nick}</FONT>。<br>你的选择就是你的命运。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "时间在流动，选择在积累。<br>就算回到相同的过去，你已经不是那时候的你了。<br>你连这都不知道吗？幻象。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "我……是我。<br>就像你不管在哪里都是露娜莉娅一样。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "不可原谅。<br>露娜莉娅……这次我绝不会再放你走了！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "我不能看着你再找到另一个我，然后神态自若地逃走了！<br>露娜莉娅……！露娜莉娅！",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你真的不知道吗，幻象？<br>我没有逃走。如果说我有什么后悔的话，只是……",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……<br><FONT color=#7e12d2>(露娜莉娅闭上了眼睛。<br>她的身体变得透明起来)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "露娜莉娅！！！！",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "同样的通信器……怎么会在这种地方……嘀咕嘀咕……<br><FONT color=#7e12d2>(学者柯梅里纳自言自语道)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……嗯？咦？<br>你是学者柯梅里纳吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "啊！<br>嗯……嗯？这，这……喂，你是<FONT color=#387206>{user_nick}</FONT>，对吧？好……好久不见……<br><FONT color=#7e12d2>(柯梅里纳恭敬地低下了头)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……嗯？对了……幻象呢？！<br>幻象消失了吗？还是又……被我压制住了？</FONT><br>\n<FONT color=#662500>或者……？)</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(时间回到过去了吗？我在做梦？幻象分离出去了？<br>……到底是怎么回事？！)</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "喂……<br>你没事吧？如果你是在发烧的话，我可以给你一点药……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，没有……</FONT><br>\n<FONT color=#662500>对了，我想问你一件事。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "嗯？<br>嗯……刚才有没有看到什么事情？<br><FONT color=#7e12d2>(柯梅里纳歪了歪脑袋，看着{user_nick})</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "啊哈～好像有件事情，虽然只是小事。<br>刚才我到达这里的时候，看见有个长得和你一样的男人往那边跑掉了。",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……小事？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "没，没错。<br>有人往那边跑过去，当然是<FONT color=#a82424>小事</FONT>。<br><FONT color=#7e12d2>(柯梅里纳用力点了点头)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "长得一样？",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "人……人……人<FONT color=#a82424>长得一样</FONT>也是可能的！！！<br><FONT color=#7e12d2>(柯梅里纳大声说道)</FONT><br>比如说<FONT color=#a82424>加大</FONT>……或者……复制的……之类……呜呜呜……抽泣……可能……呜呜……<br><FONT color=#7e12d2>(突然哭了起来)</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……这样就哭了吗？</FONT><br>\n<FONT color=#662500>为什么？？！！！！)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "总之……我看见一个和你长得一样的男人往那边跑掉了。<br>是的，没错。<FONT color=#387206> {user_nick}</FONT>，然后你就出现了。一瞬间我还以为“啊？是我看错了吗？” 。但是人……人！！！长成一样也是有可能的！！！",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……呜呜呜……<br>请告诉我是的……抽泣……<br><FONT color=#7e12d2>(柯梅里纳用衣袖擦着眼泪)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊……知道了，知道了……<br>那个男人去哪儿了？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "去哪儿了？<br>这个……嗯……<br><FONT color=#7e12d2>(柯梅里纳推了推眼镜)</FONT>",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "qkname": "柯梅里纳的情报",
+  "data": [
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "无论是一年前，还是十年前都属于过去。<br>重要的是过去在我们的记忆中留下了什么。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(对了，忘了要到黑山山角去找学者柯梅里纳了。<br>她说要寻找治疗士兵们的后遗症的药……)</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你想去见见那边的小冒险家，对吧？<br>明白了。",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "经过我的研究，查明了症状抑制剂的材料，需要将精灵的眼泪和其他镇痛剂混合在一起使用。<br><FONT color=#387206>{user_nick}</FONT>，你去搜集精灵的眼泪，我去搜集其他材料。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "精灵的眼泪搜集起来可能有点麻烦。搜集到之后，请你交给村里的<FONT color=#a82424>高级弓箭手伊西莉安</FONT>。",
+      "answer": "",
+      "image": "qn_npc_archer_ishilien.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "可以搜集到精灵的眼泪的地方……嗯……<br><FONT color=#7e12d2>(柯梅里纳偷偷看了一眼手上的材料)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "精灵的眼泪可以在<FONT color=#a82424>死亡城市路口</FONT>搜集到，资料上是这么……啊！这是我的调查结果。<br>拜托你了。<br><FONT color=#7e12d2>(柯梅里纳非常恭敬地低下了头)</FONT>",
+      "answer": "",
+      "image": "qw_38.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(数据？她在说什么啊……</FONT><FONT color=#662500>真是个奇怪的女孩子。</FONT><br>\n<FONT color=#662500>不过露娜莉娅也挺奇怪的。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "死亡城市路口？<br>走得还挺远的……<br>辛苦你了。",
+      "answer": "",
+      "image": "qw_38.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "干嘛到这里来？你不是应该去找高级弓箭手伊西莉安吗？<br>哎呀，你是忘了吗？",
+      "answer": "",
+      "image": "qn_npc_archer_ishilien.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "精灵的眼泪搜集到啦。<br>麻烦你把它交给村里的<FONT color=#a82424>高级弓箭手伊西莉安</FONT>。",
+      "answer": "",
+      "image": "qn_npc_archer_ishilien.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "这是……？<br>啊哈，是斯塔西说的那种治疗剂啊。<br>\n没想到是你送过来，把我吓了一跳。",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "这样以来，士兵们就暂时可以摆脱痛苦了。<br>谢谢你。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "学者柯梅里纳不久前搜集到了其他材料。<br>她让我转告你，说“<FONT color=#a82424>麻烦你到黑山山角去一趟</FONT>”。",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "<FONT color=#a82424>学者柯梅里纳</FONT>是什么样的人？<br>嗯……最重要的难道不是那个人现在在做什么吗？",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(再去黑山山角见见那个少女吧。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "给你添了这么多麻烦，真是不好意思。<br>谢谢你的帮助，让那么多人可以得到救助，我感到很高兴。<br><FONT color=#7e12d2>(柯梅里纳非常恭敬地低下了头)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "不好意思，我想问你个问题。<br><FONT color=#387206>{user_nick}</FONT>，上次你说想知道<FONT color=#a82424>黑龙的行踪</FONT>，对吧？<br>\n能告诉我原因吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<我想见见FONT color=#662500>黑龙</FONT>，<br>\n<FONT color=#662500>也就是贝思柯德……</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>(柯梅里纳好像很紧张)<br></FONT>你为什么……想要见他呢？<br>\n对你们……不……嗯……对参加龙之突袭的人而言，他难道不是敌人吗？",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(为什么这么紧张呢……？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>但是他好像认识我。<br>因为某种原因，我必须了解更多有关自己的事情。我需要更多的情报。<br>但是没有什么线索。我是觉得也许能从他那里获得一些情报。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(严格地说，是想了解幻象，而不是我。</FONT><br>\n<FONT color=#662500>也许。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "你的身份……？<br><FONT color=#7e12d2>(柯梅里纳歪了歪脑袋，一脸严肃地陷入了沉思)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "我知道你不是坏人。虽然这是秘密……<br>虽然我从没告诉过其他人，不过我愿意把我知道的事情告诉你。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "不过，你得再帮我一个忙。",
+      "answer": ""
+    }
+  ]
+}

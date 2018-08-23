@@ -1,0 +1,263 @@
+{
+  "qkname": "救出原住民",
+  "data": [
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳咳……<br><FONT color=#a82424>西戴尔</FONT>好像对你有话要说。<br><FONT color=#7e12d2>（只能从西戴尔那里接受并进行任务）</FONT>",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "察提",
+      "question": "我看不到我的外公……<br>到底外公他在哪里啊？"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "察提的手……<br>\n这到底是怎么回事？！"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "你已经打听到有关原住民行踪的消息了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>听说在古代武器库的东边……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "我看不到我的外公……<br>到底外公他在哪里啊？",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "察……察提的胳膊是怎么了……？<br><FONT color=#7e12d2>（西戴尔好像被吓到了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳咳……<br><FONT color=#a82424>西戴尔</FONT>好像一直在找你。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#a82424>古代武器库的东边</FONT>啊……那里可是相当的危险。<br>嗯，我们得准备充分了才能过去。",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>看察提的架势像是要立即出发……</FONT>",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "什么？你难道已经将这个消息告诉<FONT color=#a82424>察提</FONT>了吗？",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不，察提的帮手正是卡拉翰。</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "卡拉翰……？<br><FONT color=#7e12d2>（西戴尔好像很伤心）</FONT><br>额，我不能让她一个人过去啊……<br>绝对不行，看来我也得赶紧……",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "\n<FONT color=#7e12d2>（听到卡拉秋的声音）</FONT><br><FONT color=#387206>{user_nick}</FONT>，你过来。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>嗯……？好！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "你赶紧去<FONT color=#a82424>老师</FONT>那儿看看。<br>我得……赶紧跟着察提了。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你从<FONT color=#a82424>卡拉翰</FONT>那里打听到原住民的消息了吗？",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "他说在<FONT color=#662500>古代武器库的东边发现了痕迹。</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "<FONT color=#a82424>古代武器库</FONT>啊……<br>那里可不容易接近。",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>而且，察提的帮手是卡拉翰。</FONT>",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "<FONT color=#a82424>卡拉翰</FONT>居然在帮助察提……？",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的，那个卡拉翰就是挑拨离间的罪魁祸首吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "这个嘛……<br>至少，他的这些行为不可能是毫无目的的，他肯定，在觊觎着什么东西……",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "如果卡拉翰在挑拨原住民和异地居民之间的关系，得赶紧找到更为明确的证据才行。我们还是得继续观察一下<FONT color=#a82424>察提</FONT>和<FONT color=#a82424>卡拉翰</FONT>。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "还有，你。<br>身体怎么样了啊？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>到目前为止还没有什么症状。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "嗯，真奇怪。<br>难道真是慢腾腾的人病情发展得也慢吗？<br>不管怎样有所防备还是好的，你把这个喝下去吧。<br>\n<FONT color=#7e12d2>（喝下卡拉秋拿出的抑制病情的药剂）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "那接下来你去发现原住民痕迹的<FONT color=#a82424>古代武器库的东边</FONT>那里看看吧，到底卡拉翰在觊觎着什么东西……最好是赶紧查出来。",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "察……察提的胳膊是怎么了……？<br><FONT color=#7e12d2>（西戴尔好像被吓到了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我去看看。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "那……那样子……就像是我梦中见到的……绿色怪物的……<br>啊，到底是……",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "\n你看什么呢？！<br>\n来看热闹啊！<br>\n<FONT color=#7e12d2>（察提一只手的状态很怪异）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你的手……？是怎么回事？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "这用不着你操心。<br>现在重要的是……为什么看不到爷爷的影子？<br>其他的村民都见到了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>族长不在这里吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "……好像也不是所有的村民都在。<br>怎么回事……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>先把大家转移到安全的地方再说吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "好，好吧。必须先离开这里。<br>我没事，你去看看西戴尔吧。<br>他一定……被我吓坏了……<br><FONT color=#7e12d2>（察提遮住了一只胳膊，忧心忡忡地说道）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "我没事，你去看看西戴尔吧。<br>他一定……被我吓坏了……<br><FONT color=#7e12d2>（察提遮住了一只胳膊，忧心忡忡地说道）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "察……察提的胳膊是怎么了……？<br><FONT color=#7e12d2>（西戴尔好像被吓到了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你还好吗……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "那……那样子……就像是我梦中见到的……绿色怪物的……<br>啊，<FONT color=#a82424>察提</FONT>的胳膊怎么会……",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>到底发生了什么事？</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我是跟着<FONT color=#a82424>察提</FONT>来到这里的。<br>而且还帮助察提一起对战龙之追随者……<br>察提一只手上的绷带解开之后……",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……我们先回去吧。最好把这件事告诉卡拉秋。</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "\n是啊……<br>\n回到<FONT color=#a82424>老师</FONT>那里吧。<br>\n老师她……应该知道什么的。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    }
+  ]
+}

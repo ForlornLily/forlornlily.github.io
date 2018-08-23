@@ -1,0 +1,345 @@
+{
+  "qkname": "最为珍贵之物",
+  "data": [
+    {
+      "npc": "西戴尔",
+      "question": "察提的事情真叫人放不下心啊。<br>到底她的胳膊怎么样了啊。"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳咳…<br>\n<FONT color=#7e12d2>（卡拉秋咳嗽着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我回来了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "察提的事情真叫人放不下心啊。<br>到底她的胳膊怎么样了啊。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "没想到你这么快就来了。<br>好吧，你说之前去抓原住民的是龙之追随者……？<br>莫非，<FONT color=#a82424>卡拉翰</FONT>和龙之追随者联手了……",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>和龙之追随者联手？</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "\n如果这件事情的背后指使人是<FONT color=#a82424>卡拉翰</FONT>，我也只能这么想了。<br>\n<FONT color=#7e12d2>（达到43级后，才可进行下一任务）</FONT><br>\n ",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "如果这件事情的背后指使人是<FONT color=#a82424>卡拉翰</FONT>，我也只能这么想了，为了达到自己的目的，卡拉翰是绝对不会心慈手软的。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡拉翰到底想要什么呢？</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "哼，明摆着嘛。<br><FONT color=#7e12d2>（卡拉秋嗤之以鼻）<br></FONT>你走了之后，我仔细想过。发现我们忽视了一个非常简单的东西。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是什么呢……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "应该就是，<FONT color=#a82424>绿龙的宝玉</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>龙的宝玉……？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "这一地区在很久以前，藏着一块被<FONT color=#a82424>杰兰特</FONT>封印了的<FONT color=#a82424>绿龙的宝玉</FONT>。而宝玉的位置则只有原住民知道。<br>就连我也不知道宝玉被保管在了哪里。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你想想<FONT color=#a82424>阿尔杰塔</FONT>临走时说的话。<br>随着杰兰特的死去，他所封印的宝玉会逐渐苏醒……也就是说混沌龙的后代又要猖獗起来了。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>必须得把卡拉翰的目的告诉察提。</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "那丫头还没被卡拉翰洗脑吗。<br>那样做只会激发她的逆反情绪。还不如赶在卡拉翰之前找到封印龙玉的地点，这样一定会更快。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>而且，我还有个关于察提的问题想问。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳……<br>你说吧……<br>\n<FONT color=#7e12d2>（询问察提的胳膊是怎么回事）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "额……我得亲自看过她的状态才能确定。<br>从你说明来看，这很像是被<FONT color=#a82424>龙的血液</FONT>污染后的症状。",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "<FONT color=#662500>有没有过因为污染导致部分身体发生变异的情况？</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "是啊。通常都是从手脚这样的身体末端开始的。<br>随后，会渐渐蔓延到全身，直到完全变成怪物。越是意志力不坚定的人，变异的速度就越快。",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "不过那丫头坚持的时间还挺长的……<br>果然，那样一个一意孤行的人，病情的蔓延速度也是很缓慢的。<br><FONT color=#7e12d2>（不知这是称赞还是辱骂）</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "如果可以的话，你去把她带到我这儿来。<br>如果那个孩子的病情和被黑龙的血污染所致的病情相同，说不定我的药会对她有所帮助。",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "西戴尔和察提",
+      "question": "<FONT color=#7e12d2>（西戴尔正在和察提交谈）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "啊啊，发现我了吗？<br>也是，在这样一个野蛮的地方，我的姿态自然是非常耀眼了。呵呵……",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你去跟<FONT color=#a82424>西戴尔</FONT>说说，让他和你一起去说服察提吧。<br>\n很难说那个自尊心超强的丫头会不会乖乖地来我这里。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "老师怎么说？<br>察，<FONT color=#a82424>察提</FONT>的状态没问题吗？",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>冷静点。卡拉秋也得亲眼见到才能确定。</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "是吗……？想要说服<FONT color=#a82424>察提</FONT>可并不容易啊……<br>还有，看到察提的手之后，我的反应太过激了，察提好像已经受到了伤害，真不知道该怎么办才好。",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>所以，必须马上去跟她道歉才行啊，还要说服她。</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#7e12d2>（西戴尔露出了苦涩的微笑）<br></FONT>察提的手太像那个我在噩梦中见到的绿色怪物了，所以我只能僵在原地，什么都做不了……",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我明明说过为了察提什么事都能做，但我居然还想到了梦中看到的怪物……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>现在还不晚，我们走吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "好吧。就像你说的，我必须去和察提道歉才行。<br>然后再帮助察提去老师那里接受治疗。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这就对了，走吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "察提好像又去了古代武器库的东边。<br>去<FONT color=#a82424>古代武器库的东边</FONT>寻找察提吧。",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "npc": "西戴尔和察提",
+      "question": "</FONT><FONT color=#7e12d2>（西戴尔和察提正在对话中）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "刚刚的事情真的很抱歉……<br>所以我们一起去老师那里接受治疗吧。",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "我不要！我为什么要接受那个老太婆的帮助？！<br>这还不都是因为那个老太婆！",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "那都是你的错觉，察提。<br>都是那个卡拉翰为了挑拨你们部族和我们之间的关系，从中使的手段！",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "我看你才真的是错觉呢，我知道是卡拉秋培养教育了你，但是你也不要逃避现实！还有卡拉翰曾经救过我很多次！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那是卡拉翰的诡计。你被他骗了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "你连发生了什么都不知道，怎么就随意评判？<br>有一天，我们的族人突然间得了病，而且我的手也开始发生了变化。也就在同时，龙之追随者们开始劫持我们的族人。",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "而且我也差点被劫持了，就是在那时卡拉翰救了我。在那之后好几次我身处危难之时，都是他向我伸出了援手。他还告诉我这一切都是卡拉秋所为！",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "可是你说这些都是他的阴谋诡计？！<br>好吧，就算我是上当受骗了。当我和我的部族承受这种苦楚的时候，卡拉秋和你的同伴们又为我们做过些什么……？！",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "……对不起。<br>我真的没有为你做过任何事情。<br>但是你的手最好还是先接受治疗。",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "没必要，多亏了这只手，我现在才能守护住之前我一直想要守护的东西，而且为了守护住我最为珍贵的东西，我还需要力量。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "好吧……那么，你要答应我，把你爷爷救出来之后就去接受治疗。拜托你了。就给我个机会让我为你做点什么吧……",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "到时候我会再考虑的。<br>现在最重要的是必须尽快将爷爷救出来。<br><FONT color=#7e12d2>（察提的态度好像缓和了一些）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "好吧，我们还是先从这里出去吧。<br>我把要给你的东西放在草屋了，你能来那里一趟吗？<FONT color=#387206>{user_nick}</FONT>，你也回到<FONT color=#a82424>利物沃特码头</FONT>吧。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "啊……看来是我这耀眼的美丽吸引了你们啊。<br>今天我可是格外的明艳动人，可别盯着我看超过3秒钟哦。<br>说不定会闪瞎你们的双眼。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你怎么又出现了……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "<FONT color=#7e12d2>（卡拉翰左右晃动着食指）</FONT><br>No No，今天还轮不到你。<br>今天我为我的甜心小美人察提带来了礼物。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>礼物……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "你又来这里瞎闹什么？",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "西戴尔，你对卡拉翰怎么说话呢？！<br><FONT color=#7e12d2>（察提的口气变得很温柔）</FONT><br>卡拉翰，你居然为我准备了礼物……是什么啊？<br>不会是我爷爷的消息吧……？",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "呵呵，你猜得真准。<br>我听说<FONT color=#a82424>古代武器库的东边</FONT>那里有个龙之追随者的隐藏据点。<br>他们就将其他的部族族人藏在了那里。",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>隐藏据点……？</FONT>",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "你到底和龙之追随者有什么关系，怎么连这些都知道？",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "西戴尔你怎么总这样？<br>谢谢你，卡拉翰，我现在得赶紧再去<FONT color=#a82424>古代武器库的东边</FONT>看看。<br>西戴尔，你要给我的东西我下次再看。",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "察提……不能相信那个男人的话。察提到底为什么对他……<br><FONT color=#7e12d2>（西戴尔面露不安的神情）</FONT>",
+      "answer": ""
+    }
+  ]
+}

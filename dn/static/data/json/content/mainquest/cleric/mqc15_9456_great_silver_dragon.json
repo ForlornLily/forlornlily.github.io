@@ -1,0 +1,267 @@
+{
+  "qkname": "银龙",
+  "data": [
+    {
+      "npc": "精灵长老",
+      "question": "你来啦。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "我已经都听黑骑士说了。你是要前往<FONT color=#a82424>祈祷之心</FONT>吧……<br><FONT color=#2b2723>请千万保重身体。</FONT><br><FONT color=#7e12d2>(前往祈祷之心吧)</FONT>",
+      "answer": "",
+      "image": "qw_97.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你……你怎么，怎么可以那么做！<br><FONT color=#7e12d2>(好像马上就要哭出来一样。和贝思柯德对话吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……<FONT color=#7e12d2>(静静地望着宝玉已经消失了的手)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GeraintKid_9456_qu_01.ogg}<br>你……你怎么可以杀阿尔杰塔！听说你还拿走了我的剑？<br>看来你不但是个小偷，还是个杀人犯！",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "ndnpc_Velskud_9456_qu_01.ogg}<br>小偷？搞笑，我只不过是收走了死者的物品。<br>少在我面前出言不逊，我可不记得认识你这么一条软弱的龙！",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GeraintKid_9456_qu_02.ogg}<br>那剑上带有我的力量，是我的剑！<br>要是你早点归还我的剑，阿尔杰塔也不会受这么重的伤！<br>这都怪你！",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "ndnpc_Velskud_9456_qu_02.ogg}<br>就凭你这发育不全的小家伙也敢说这种话？<br>看样子你不但身体变成了小孩，连脑子也萎缩了。变成了一个又喧闹又烦人的小屁孩。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(就是呀……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "ndnpc_Velskud_9456_qu_03.ogg}<br>想要你的剑的话，就尽管自己去取。我不拦你。<br>如果你真的是那把剑的主人，自然可以带走它。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "ndnpc_Velskud_9456_qu_04.ogg}<br>自从你复活后，那剑上的光芒就减弱许多，根本没法用了。<br>我把它放在<FONT color=#a82424>痛哭墙</FONT>那边，你自己去拿好了。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GeraintKid_9456_qu_03.ogg}<br>不用你说我也会拿回来的！还有，我一定会为阿尔杰塔报仇！<br>我绝不会把你当成兄弟，手下留情的！！",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "呼……<FONT color=#7e12d2>(贝思柯德看上去非常疲惫)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "ndnpc_Velskud_9456_qu_05.ogg}<br>银龙的宝玉，居然把这无聊的东西丢给我。<br>阿尔杰塔这女人，从前就是个不负责任的家伙……<br><FONT color=#7e12d2>(贝思柯德的视线望向杰兰特消失的方向)</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "ndnpc_Velskud_9456_qu_06.ogg}<br>你该明白阿尔杰塔做了个多么愚蠢的选择吧。<br>因为她的决定，无论是在外面浴血奋战的人，还是在里面拼死战斗的人都白牺牲了……巨石碑之门终于还是开了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>都是徒劳吗……可是……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "ndnpc_Velskud_9456_qu_07.ogg}<br>别用你那廉价的感情来美化这一结果！说到底我们是失败的。一切都如佩达所期望的那样实现了！巨石碑之门开启了。这是谁也无法否认的事实。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "ndnpc_Velskud_9456_qu_08.ogg}<br>靠着阿尔杰塔的牺牲，以及你之前跑腿办的事，总算是阻止了女神的恶梦吞食这个世界。谜之大陆那边应该也不会这么容易知道巨石碑之门开启的事。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "ndnpc_Velskud_9456_qu_09.ogg}<br>但这都只是侥幸。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可是……！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "ndnpc_Velskud_9456_qu_10.ogg}<br>你还想找什么借口？所谓的大家已经尽力了，这些无可奈何之类的场面话真的出自你的真心吗？别再费力掩盖这次的失败了！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可即便如此！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "ndnpc_Velskud_9456_qu_11.ogg}<br>我不想听这些废话。有这时间跟我顶嘴，你还不如好好想想今后该怎么办。<br>既然你还留着你那不济的小命，就表明你还有吸取经验教训，挽回这次失败的机会。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "ndnpc_Velskud_9456_qu_12.ogg}<br>虽说关上巨石碑之门的确是最完美的好办法，但靠着这块虚弱的银龙宝玉，根本办不到。<br>而且，眼下也没有可以恢复力量的办法。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "ndnpc_Velskud_9456_qu_13.ogg}<br>还有，你身上那股力量……是叫混沌龙吧？<br>那混沌龙是怎样个家伙我不清楚，但那股力量只能勉强维持你的生命，不可能再作他用。<br>因此也不能作数。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(贝思柯德怎么会知道？莫非也是通过宝玉？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "可是，在那之前，有一个尽管没什么用却必须要解决的问题……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>问题？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "是啊，就是你这家伙带来的那些阿努阿兰德的人类。<br>我曾说过，鲁莽的勇气只能加快走向死亡的步伐，可你似乎完全没有听进去。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可是还有人类的帮助……</FONT><br><FONT color=#662500>只要所有人都齐心协力，还是可以对付那些龙之追随者的啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我所说的不是人类，而是你。你个愚蠢的家伙……<br>挺身而出说服所有人的不是你吗？提供大家将要行动的秘密情报的人正是你这个冒险家。而且你还在战斗中冲在最前方。连龙都不是，就对巨石碑乱动手。<br>现在你该知道你都干了些什么吧？",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "NT><br><FONT color=#7e12d2>（贝思柯德摸了摸额头说道）</FONT><FONT color=#2b2723>不管你愿不愿意，都对这场战争有着不可推卸的责任。<br>那些蛇蝎心肠的贵族如果知道你的任务失败了，会怎么处置你呢？<br>你还不知道，为什么出动了这么多人，竟然公爵或者将军都没有站出来的原因吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃……可是特拉玛依和卡拉安都帮过很多忙……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "他们两个不同。他们虽然也是从属于宫廷，但顾虑到那些支持他们的牧师和魔法师，没有人敢把他们怎么样。而你却什么都没有吧。你虽然和阿尔杰塔比较熟，但那些人对50年前的事实尚且怀疑，你认为他们会痛快地相信阿尔杰塔的存在，并对你予以肯定吗？你现在就是个替罪羊。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>(贝思柯德长叹一口气)</FONT>你和那个天真愚蠢的家伙学有什么用？<br>世界并不像你想的那样单纯！这是一个善恶交杂在一起，相互模仿的混乱世界。你要想承担那个家伙的责任，就要做到比他更好，不是吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那，那个……</FONT><br><FONT color=#662500>……那么以后我该怎么做呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "\n……最好的办法就是逃跑呀。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？！？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "\n那是最简单的办法，让你能够保住性命，尽情做你想做的事。<br>就连和龙之追随者战斗后，那些追踪你的兵力也无法轻易把你找出来……<br>充其量是多下几道通缉令罢了。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "\n你自己选择吧。我没兴趣为一个小毛孩决定去路。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(呃……)</FONT><FONT color=#662500>贝思柯德你会怎么做呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "\n明摆着嘛。我要去追踪那家伙，不用你操心了。<br>我不想再看见你这种乱糟糟的样子。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "\n……我最后给你一句忠告，你要铭记在心。人类并不像他们能够义正言辞地说出自己的责任那样强大……<br>而且就算有人能够负起责任，也未必就能和你站在同一战线。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "\n……我现在一看到你那一脸傻相就烦，先走了。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "但愿我们别再见了。<br><FONT color=#7e12d2>(贝思柯德说着就离开了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(就这么走了……我好像听到很多难以理解的话……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……我真的做了那样愚蠢的事吗？都是我的责任吗？</FONT><br><FONT color=#662500>而且居然又说最好的办法是逃跑！我这么努力地……这么努力地做了一切！)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……可是阿尔杰塔也已经死去，巨石碑之门也被打开……怎么办呢……阿尔杰塔……当时要是没有我，情况会有所改变吗？我真的做了多余的事吗？我所具有的，真的只是鲁莽的勇气吗？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……现在，该怎么办呢……</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务完成",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……！这么说，</FONT><FONT color=#a82424>杰兰特的</FONT><FONT color=#662500>剑在</FONT><FONT color=#a82424>痛哭墙</FONT><FONT color=#662500>……</FONT><br><FONT color=#662500>好吧……先前往那里吧。不能让杰兰特的剑一直放在那里……</FONT>",
+      "answer": "",
+      "image": "qw_95.png"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "qkname": "错过了什么",
+  "data": [
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我找到<FONT color=#a82424>先知</FONT>的时候，她明明依然是沉睡的状态，究竟是哪里出错了呢。<br>是什么把她变成了使徒呢……",
+      "answer": ""
+    },
+    {
+      "npc": "特拉玛依",
+      "question": "……话说回来，<FONT color=#a82424>凯伊</FONT>说的话很令我在意。<br>他让你不要相信我和先知，凯伊究竟是从哪里得到这个情报的呢？",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这个……他说是</FONT><FONT color=#662500>钢铁兄弟团的人</FONT><FONT color=#662500>……是比任何人都更可信的人告诉他的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "特拉玛依",
+      "question": "兄弟团的人……？<br>不管怎样，最好问问凯伊本人更详细的情况。",
+      "answer": ""
+    },
+    {
+      "npc": "特拉玛依",
+      "question": "凯伊不相信我，认为我是叛徒，所以还是你去跟他说说吧。<br>你平时和凯伊是怎样联络的呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>按照钢铁兄弟团的指令，在传令蓝鸟中混着暗号进行联络。<br>这对我来说太难了，所以主要是</FONT><FONT color=#662500>我妹妹埃提亚跟他联络……嘿嘿</FONT><FONT color=#2b2723> </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "特拉玛依",
+      "question": "原来是这样。那么你回去找你妹妹<FONT color=#a82424>埃提亚</FONT>，让她跟凯伊联络吧。<br>如果可以的话，希望能解开他对我的误会……但这对你来说有点勉强吧。",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "特拉玛依",
+      "question": "那么我要去找找书籍，问下宫廷医官，调查一下有什么药草对<FONT color=#a82424>贝思柯德</FONT>恢复健康有帮助。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "你见到<FONT color=#a82424>贝思柯德</FONT>了吗，姐姐？<br>他的状态怎么样？",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>虽然他看上去很疲惫，但柯梅里纳和特拉玛依都很好地照顾着他。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "……特拉玛依也很照顾他？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（把贝思柯德、柯梅里纳和特拉玛依的事情告诉埃提亚）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "……你说特拉玛依不是叛徒……<br>是啊，你最好先去找<FONT color=#a82424>凯伊 </FONT>哥哥，听听更详细的情况。<br><FONT color=#7e12d2>（埃提亚放飞了传令蓝鸟）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "约定场所是<FONT color=#a82424>异变栖息地</FONT>，你去那里见<FONT color=#a82424>凯伊</FONT>哥哥吧，姐姐。",
+      "answer": "",
+      "image": "qw_59.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "如果凯伊哥哥在<FONT color=#a82424>异变栖息地</FONT>附近的话，你很快就能见到他。",
+      "answer": "",
+      "image": "qw_59.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "<FONT color=#a82424>凯伊</FONT>哥哥没有出现……？<br>哥哥不可能没听到消息啊……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这个嘛，会不会是凯伊有事要忙，所以没空见我？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9538_qu_02.ogg}<br>那他也应该告诉我们不出现的原因啊，为什么不把自己的状况告诉我们呢……",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "<FONT color=#7e12d2>（埃提亚抚摸着凯伊给的胸针）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    }
+  ]
+}

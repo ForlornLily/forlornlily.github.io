@@ -1,0 +1,105 @@
+{
+  "qkname": "真相指向的地方",
+  "data": [
+    {
+      "npc": "西戴尔",
+      "question": "真实之镜……希望能有用。<br>我正在帮助其他冒险家。希望巴尔纳能快点安息。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#7e12d2>(西戴尔念诵咒语，陨石碎片和突变之眼融合在了一起)</FONT><br><FONT color=#2b2723>……可以了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "嗯……好像做好了。<br>来，给你。<br><FONT color=#7e12d2>(西戴尔把制作好的异界面具交给了我)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "不知道行不行。<br>找到真实之镜之后，戴上这个东西往镜子里看……就能看到东西了吧？<br>希望你能找到想找的东西。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "从老师留在博士那里的解释来看，真实之镜原本所在的地方……<br>……啊，在这里。",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "\n<FONT color=#7e12d2>(没有特别的地方)</FONT>"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "……据说那个镜子在<FONT color=#a82424>受到蚕食的神殿废墟</FONT>。<br>祝你好运。",
+      "answer": "",
+      "image": "qw_62.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……露娜莉娅？！<br>真的是露娜莉娅吗……？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅!</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……<br><FONT color=#7e12d2>(露娜莉娅转过头)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅！！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(她为什么要逃走呢？<br>我只是想知道真相罢了！)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>(好像有什么东西)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(这就是真实之镜吗？<br>先戴上异界面具，看看镜子吧。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>(好像从镜子里面听到了声音)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>镜子，我想知道真相。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……嗯？<br>镜子里好像出现了什么东西……到底是什么呢……？</FONT>",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "qkname": "分手道别",
+  "data": [
+    {
+      "npc": "学者站台",
+      "question": "<FONT color=#086171>Checking Data………….</FONT><br><br>▷ <FONT color=#7e12d2>任务确认中，请稍等。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br>▷ <FONT color=#7e12d2>请移动到马里安殿堂。</FONT>",
+      "answer": "",
+      "image": "qw_11.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "呼……等着瞧吧，可恶的龙之追随者！居然敢偷我的东西？<br><FONT color=#7e12d2>（安杰利卡向着马里安殿堂出发了。跟在她后面吧）</FONT>",
+      "answer": "",
+      "image": "qw_11.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n真讨厌，这种事情……<br>\n<FONT color=#7e12d2>（安杰利卡神情抑郁）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "<FONT color=#a82424>亲如兄弟</FONT>般的人居然是叛徒……<br>怎么会这样呢？况且他还随随便便就死了！<br>活着的人必须背负所有的感情和责任，不是吗？<br>真……讨厌！！！",
+      "answer": "",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>那是他的选择……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "那算什么选择啊！<br>话说，<FONT color=#a82424>伊桑</FONT>那家伙好可怜，现在该怎么办啊？<br>他一直把杰克当亲哥哥，却亲手杀死了他……呃……想想就可怕。",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>伊桑现在在哪里？</FONT>",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "不知道。刚刚叫喊着冲到了外面。<br>无论如何，既然已经找回了秘传之球和贤者法杖，我就先回去啦。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "我的任务已经全部完成，我要回去将物品交给<FONT color=#a82424>老师</FONT>。<br>宝珠和法杖已经全部到手，现在应该安枕无忧了吧~？",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我来告诉你先知的行踪吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n先知的行踪……？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>嗯，根据数据显示，贤者最后的预言是关于先知……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n贤者？！搞什么，这么突然？<br>\n怎么话题一下子这么严肃了？",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "呃啊~！不要胡说八道了！我鸡皮疙瘩都起来了！<br>我对那些事情没有兴趣！<br>呃……好像会有很麻烦的事情会发生~！",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "总之，我要回去找老师了。<br>至于这个人，牧师们应该会自己看着办的吧。",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>那我也去见见辛西亚吧。</FONT>",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "随你便。<br><FONT color=#a82424>老师</FONT>肯定会称赞我的吧~。<br>如果再给我些奖赏，那就再好不过了。",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "呼……等着瞧吧，可恶的龙之追随者！居然敢偷我的东西？<br><FONT color=#7e12d2>（安杰利卡向着马里安殿堂出发了。跟在她后面吧）</FONT>",
+      "answer": "",
+      "image": "qw_11.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n老师肯定会称赞我的吧~。<br>\n如果再给我些奖赏，那就再好不过了。<br>\n<FONT color=#7e12d2>（返回村庄，去见见高级魔法师辛西亚吧）</FONT>",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br>▷ <FONT color=#7e12d2>请和高级魔法师辛西亚对话。</FONT>",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n没想到我那个傻弟子安杰利卡能如此顺利地完成任务……<br>\n也对，她本来就不是傻子。只是她小的时候，大家总吹捧她，说她是天才魔法师，所以她才有些骄傲过头了。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n也辛苦你了，小朋友。<br>\n虽然安杰利卡夸口说这都是她自己的功劳，说是凭她自己的实力解决的，但是那孩子说谎的功力还是太嫩了，呵呵……",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "…….<br>\n你怎么能面不改色地说出这样的话啊？<br><FONT color=#7e12d2>（辛西亚一脸严肃）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "咳……总之，法杖和宝珠已经找回，现在应该能看到<FONT color=#a82424>贤者预言</FONT>啦。",
+      "answer": ""
+    }
+  ]
+}

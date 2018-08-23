@@ -1,0 +1,245 @@
+{
+  "qkname": "秘传之球Ⅰ",
+  "data": [
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "你先带着牧师的圣珠，去见见<FONT color=#a82424>雷昂纳多</FONT>吧。<br>我很想知道那个老头的答案。",
+      "answer": "",
+      "image": "qn_cl_leonardo.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "你先带着牧师的圣珠，去见见<FONT color=#a82424>雷昂纳多</FONT>吧。<br>我很想知道那个老头的答案。",
+      "answer": "",
+      "image": "qn_cl_leonardo.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "这么看来，你也是时候学习新的技能了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>吼！我就是个天才，不需要那些吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "真是废话多。虽然现在还能勉强使用那些，但是要想完成今后艰难不断的历练，强力的魔法肯定是必须的。所以，得提前准备好才行。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>考验？<br>我现在，打算一直在魔法山脊休息呢……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "哈哈哈~！用不用我让你永远休息下去？别啰嗦，确认一下你已经学会的，以及目前可以学习的技能吧！<br>\n如果现在没有的话，就了解一下什么时候才可以学习。",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "你找我有什么事情吗？",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "<FONT color=#382000>{user_nick}</FONT>，我们又见面了呢。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师尤丽娅",
+      "question": "\n你得赶快回到魔法山脊去啊。唉~",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "你找我有什么事吗？",
+      "answer": "（捞取牧师的圣珠）"
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "这是……<FONT color=#a82424>牧师的圣珠？</FONT>魔法师怎么会有牧师的圣珠呢？<br>\n嗯？是袭击运输车的家伙掉落的？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "那么，也就是说袭击运输车的怪物背后一定有牧师？<br>\n……这真叫人难以置信。",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "这件事不能就这么算了。必须对这件事进行秘密调查。",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "既然情况如此，说不定魔法师们<FONT color=#2b2723>守护的秘传之球也处于危险之中</FONT>。<br>\n由于我无法离开这里，就由你前往<FONT color=#a82424>融解森林</FONT>找到<FONT color=#a82424>杰克</FONT>吧。<br>\n杰克可以帮助你守护秘传之球的安全。",
+      "answer": "",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "我们之中居然有叛徒。<br>\n这简直让我难以接受……",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "目前还是新手的你没有可以学习的技能。不过，随着你等级的提高，会有越来越多的技能可以学习，所以别偷懒，继续努力吧。记住，到时候直接来找我或者是按下[ <FONT color=#7e12d2>K </FONT>]键就可以自动学习技能了。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n另外，当你达到<FONT color=#a82424>15级</FONT>时，还可以通过<FONT color=#a82424>转职</FONT>学到更加细化和针对性的技能。<br>\n嗯……现在和你说转职的事还为时过早~噢哈哈~",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "好了，别废话了，赶紧前往<FONT color=#a82424>雷昂纳多</FONT>老头那儿吧。<br>我可是非常期待那个老头的答复哦。",
+      "answer": "",
+      "image": "qn_cl_leonardo.png"
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "这件事必须慎重处理。<br>我要对这件事进行严密调查。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，我们又见面了。<br>有什么事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "原来如此。事实上，<FONT color=#a82424>秘传之球</FONT>现在好像也遇到了未曾想到的危机。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "是的，周围的怪物们的举动很不寻常。<br>看来除了贤者之杖之外，怪物们还想偷走秘传之球。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "我不知道秘传之球存放在哪里，所以我没法帮你。为了找回贤者之杖，我们决不能让怪物抢走秘传之球。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>秘传之球正保管在帕雷利娜安息处。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "帕雷利娜安息处……<br>\n<FONT color=#7e12d2>（陷入短暂沉思的杰克望向这边）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "请代我向<FONT color=#a82424>高级魔法师辛西亚</FONT>问好。<br>那我就先走了……嗯，可以吗？",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "虽然我们认识的时间<FONT color=#2b2723>不长</FONT>，但如果<FONT color=#387206>{user_nick}</FONT><FONT color=#2b2723>你</FONT>直接回去的话说不定会受到呵斥。而且，你还有别的事要做。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "嗯？你为什么在这儿？<br>在我的流星拳把你打得皮开肉绽之前，马上前往融解森林吧。",
+      "answer": "",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "嗯？你为什么在这儿？<br>在我的流星拳把你打得皮开肉绽之前，马上前往 <FONT color=#a82424>融解森林</FONT>吧！！",
+      "answer": "",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "听了<FONT color=#387206>{user_nick}你</FONT>的话，我好像知道是怎么回事了。<br>我从<FONT color=#a82424>帕雷利娜安息处</FONT><FONT color=#2b2723>附近的同伴那里得到了消息</FONT>说有怪物袭击。<br>所以守护在<FONT color=#2b2723>那里</FONT>的魔法师们很多都受了伤，原来就是因为<FONT color=#a82424>秘传之球</FONT>啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗬！受伤了？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "是的，不过还好都无大碍。我得先 把这个消息报告给雷昂纳多，然后听他的指示。详细的内容你亲自听他们说吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>谁，带到这里来了吗？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "\n是啊，在那里见到的魔法师中……啊！正好。<br>\n我还担心呢，看来终于逃到这里来了。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "\n你去见见那边的<FONT color=#a82424>魔法师尤丽娅</FONT>吧。<br>\n<FONT color=#7e12d2>（杰克指着附近）</FONT><br>\n根据我同伴的报告说，受伤的魔法师都不愿意接受牧师的治疗……而且步行离开了。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "请快去见见<FONT color=#a82424>魔法师尤丽娅</FONT>吧。<br>\n看样子，她不想对身为牧师的我说明详细情况。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师尤丽娅",
+      "question": "你是……<FONT color=#387206>{user_nick}</FONT>啊。<br>我常听\n<FONT color=#a82424>辛西亚</FONT>提到你。",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "魔法师尤丽娅",
+      "question": "我和我的同伴们一直在守护保管秘传之球的房间，可是遭到了怪物们的突然袭击，结果受了伤。<br>\n本应该按照辛西亚的吩咐，多加注意的……",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师尤丽娅",
+      "question": "接受牧师的帮助……<br>那么作为魔法师始祖<FONT color=#a82424>马里安</FONT>和<FONT color=#a82424>伟大的卡拉秋</FONT>的后裔，我将颜面尽失。",
+      "answer": "",
+      "image": "qn_npc_karakule_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>唉~对人来说性命才是最重要的~</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师尤丽娅",
+      "question": "不过，<FONT color=#a82424>秘传之球所在房间</FONT>的门被数十道魔法保护着，就算遭到魔物们的攻击也不会被破坏。吼吼。佩奥里斯塔的魔法不愧是世界最强！",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师尤丽娅",
+      "question": "可是，怪物们的力量正在不断增强，加上我们受伤之后全体撤退出来，所以我还是很担心秘传之球的。",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "魔法师尤丽娅",
+      "question": "秘传之球藏在帕雷利娜安息处的事实除了我们魔法师之外并无他人知道，我很不解怪物们是怎么知道的。不过，不管怎样，我们必须守护住秘传之球。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师尤丽娅",
+      "question": "已经无法再将秘传之球保管在<FONT color=#a82424>帕雷利娜安息处</FONT>了。<br>\n现在，我们必须赢得时间，至少要等包括我在内被派到这里的魔法师全部恢复。",
+      "answer": "",
+      "image": "qw_8.png"
+    }
+  ]
+}

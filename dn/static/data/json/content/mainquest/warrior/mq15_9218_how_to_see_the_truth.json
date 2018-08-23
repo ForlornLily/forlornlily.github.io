@@ -1,0 +1,156 @@
+{
+  "qkname": "查看真相的方法 ",
+  "data": [
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "嗬，我可不是那么闲的。<br>要是你想聊天，找别人去。<br><br>\n※ <FONT color=#7e12d2>可以在神圣天堂的泰兰斯·特拉玛依那里接受任务。</FONT>",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "特拉玛依最近怎么样？<br>告诉他要是有我能帮得上忙的地方尽管开口。<br><br>\n※ <FONT color=#7e12d2>可以在神圣天堂的泰兰斯·特拉玛依那里接受任务。</FONT>",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "对，如果是莲花沼泽的原住民，应该会知道点什么。<br><FONT color=#a82424>西戴尔</FONT>跟原住民有些交情，你去找他打听真实之镜的消息好了。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你去卡拉秋的草屋找<FONT color=#a82424>西戴尔</FONT>打听一下真实之镜的信息。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "嗬，我可不是那么闲的。<br>要是你想聊天，找别人去。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "快进来，<FONT color=#387206>{user_nick}</FONT>。<br><FONT color=#a82424>巴尔纳</FONT>的事情解决得怎么样了？",
+      "answer": "",
+      "image": "qn_npc_death_knight.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "\n<FONT color=#7e12d2>(转述泰兰斯·特拉玛依的话)</FONT><br><FONT color=#a82424>真实之镜</FONT>……？<br>嗯……我没听说过那样的东西……<br>如果你需要，我可以问问原住民们……",
+      "answer": ""
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "\n<FONT color=#7e12d2>(啰嗦鬼查克博士插嘴进来)</FONT><br>呵呵，刚才你说<FONT color=#a82424>真实之镜</FONT>吗？！<br>这种事情忘了我<FONT color=#a82424>博士</FONT>可不行！<br><FONT color=#7e12d2>(博士打开书，开始读起来)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "太好了。<FONT color=#a82424>博士</FONT>好像知道真实之镜的事。<br>我们去看看吧。",
+      "answer": "",
+      "image": "qn_npc_bookdoc.png"
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "好了，我们来看看。<br>让我找找……真实游戏……不是这个，真实或谎言……也不是这个。也不是别扭的真相。真实之剑又是个什么东西……<br>真实之镜……啊，在这里啊。<FONT color=#a82424>真实之镜</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(查看记录)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "真实之镜",
+      "question": "<FONT color=#7e12d2>日久的古代人间的战争终于在</FONT> <FONT color=#a82424>邪恶的古代人首领</FONT><FONT color=#7e12d2>被抓后，落下了帷幕。被抓住的邪恶的古代人首领全身都被堕落的气息所侵蚀，一点也找不到原先善良的样子了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "真实之镜",
+      "question": "<FONT color=#7e12d2>善良的古代人们为了除去他身上的魔性，还他原本善良的面貌，倾注了许多努力。可是最后还是失败了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "真实之镜",
+      "question": "<FONT color=#7e12d2>而关于怎么处置他的问题，在古代人之间也是意见纷纷。</FONT><br><FONT color=#7e12d2>要不是海神找到了真实之镜，他就会被记载成将世界推入混沌的千古罪人。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "真实之镜",
+      "question": "<FONT color=#7e12d2>邪恶的古代人首领，毕夏思·阿罗诺比乌斯。</FONT><br><FONT color=#7e12d2>既是海神的恋人，后来又孤身消灭黑龙，拯救了世界的贤者阿罗诺，就这样找回了自己原先善良的一面。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "真实之镜",
+      "question": "<FONT color=#7e12d2>曾控制过贤者阿罗诺的堕落的气息被深深封印在真实之镜中。海神为了让被封印的堕落的气息渐渐在镜子里被化解消失，将它藏在了被蚕食的神殿废墟的某处。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "嗯……根据记载，真实之镜就在<FONT color=#a82424>被蚕食的神殿废墟</FONT>里。",
+      "answer": "",
+      "image": "qw_62.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>被蚕食的神殿废墟……？</FONT>",
+      "answer": "",
+      "image": "qw_62.png"
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "是的，重要的是，<FONT color=#a82424>真实之镜</FONT>只有虚伪者才能见到它。<br>表里如一的人是见不到，也感觉不到它的。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那该怎么找到镜子……？</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "虚伪者才能见到真实之镜，所以只要摆出一副虚伪的样子就行。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？怎么办……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "非得我一一向你说明吗……<br>只有利用<FONT color=#a82424>异界假面</FONT>才能办到。<br>组合陨石碎片和突变之眼可以制作出异界假面。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "戴上用异界物质做成的假面，真实之镜也会把你判断成虚伪者的。那样的话，就能看见真实之镜了。",
+      "answer": ""
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "首先，你得去找制作异界假面所需的物品。<br><FONT color=#a82424>陨石碎片</FONT>嘛，去<FONT color=#a82424>陨石坠落地中心</FONT>转转就能找到了。",
+      "answer": "",
+      "image": "qw_63.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "博士的口气就这样，你别生气。<br><FONT color=#a82424>陨石坠落地中心</FONT>的魔物十分凶恶，你多加小心。",
+      "answer": "",
+      "image": "qw_63.png"
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "真慢，慢死了！<br>现在才把<FONT color=#a82424>陨石碎片</FONT>拿来？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

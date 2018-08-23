@@ -1,0 +1,306 @@
+{
+  "qkname": "寻找踪迹",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "黑龙和使徒？<br>父亲的笔记上是那么写的？？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，这是我们找到的全部线索。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "越来越搞不清楚什么是什么了。姐姐……<br>但是，父亲不可能与黑龙的复活有关。我们要相信我们的父亲，嗯？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，是他把你和我抚养长大！<br>你不会做坏事的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐，难道……父亲在追踪龙之追随者时，发现了与黑龙相关的线索？<br>虽然我现在还不能断言，但我有这种预感。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>或者！叛徒是黑龙？？也就是说，黑骑士贝思柯德就是钢铁兄弟团中的叛徒……！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "不会吧，我觉得不太可能，姐姐……<br>但说不定与他有关。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "啊啊~ 我本想回避黑龙，但绕了一圈，所有的线索还是掌握在黑龙的手中！<br>现在该怎么办？必须要参与龙之突袭吗？怎么办，姐姐？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>现在应该先见见黑骑士吧？之后的事情再说吧。</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "嗯，你先和王城的士兵，以及其他冒险家去找黑龙吧。那样的话，应该安全些。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "你上次说，你将进入巢穴所需的材料交给了<FONT color=#a94407>阿尔杰塔</FONT>？现在应该差不多能进入巢穴了。<br>\n你要进入巢穴，见见黑骑士，或者黑龙。姐姐。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐，加油。还有……你一定要平安回来。<br><FONT color=#7e12d2>（埃提亚神情十分不安。对她说没关系，然后对她点点头吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你在搞什么，怎么现在才来啊？ 都怪你太磨蹭了，这里才会挤满了吵闹的人类，他们还嚷嚷着“我也要帮忙，我也要参与”之类的！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！王城的精锐士兵到这里来了啊。<br>他们会起到帮助的。 </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "虽然你那么认为，但……算了，随便。<br>总之，我也联系了<FONT color=#a94407>杰兰特那家伙</FONT>。",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那……什么来着。你帮我制作的…那个在哪里？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#a94407>古代祭司长的符文</FONT>？？已经做好了，给你。我知道你身体比较弱，特意为你制作成了便于使用的样子，你要感谢我。只有我对你这么好。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "不会吧，就算再笨也不至于把它弄丢吧？不放心的话，你就绑在那里。<br>那我去<FONT color=#a82424>黑暗大君主练兵场</FONT>和杰兰特会合了，随便你带不带那些人来。",
+      "answer": "",
+      "image": "qw_36.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个，见到黑龙之后，是要与他战斗吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#2b2723>当然要战斗了。难道要和和气气地聊天吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我有件事想问你。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "\n<FONT color=#2b2723>我没有那个闲工夫。等到了黄泉，你再问我吧？<br></FONT><FONT color=#7e12d2>（阿尔杰塔起身了，似乎准备出发）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我在<FONT color=#a82424>黑暗大君主练兵场</FONT>和<FONT color=#a94407>杰兰特</FONT>会和后，就会去找黑龙决斗。无论你是先到那里谈笑风声，还是带着那些麻烦的人慢慢来，都随便你。我绝对不会等你的。",
+      "image": "qw_36.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "你来啦？<FONT color=#387206>{user_nick}</FONT>尤斯提亚！<br>多亏了你，<FONT color=#a94407>古代祭司长的符文</FONT>才能完成，所有的兵力才能出发。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "主教伊格纳西奥说要等你回来，为你赐福，但瞬间的犹豫可能就决定了战斗的成败。比起祝福，你更应该做好觉悟。",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "就让我们以50年前的六位英雄为榜样，撰写属于我们的伟大而壮丽的历史篇章吧！<br>只要我们不失去勇气，坚持到底，就一定可以击败黑龙，找回先知。",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "你带路吧！士兵们会为你守护你的后方！<br><FONT color=#7e12d2>（将军的背后传来呐喊声。出发吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "就让我们以50年前的六位英雄为榜样，撰写属于我们的伟大而壮丽的历史篇章吧。<br>只要我们不失去勇气，坚持到底，就一定可以击败黑龙，找回先知。<br><FONT color=#7e12d2>*该任务只能单人进行。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "胜利了！！我们胜利了！！<br>我们人类再次战胜了那可怕的黑龙！哈哈哈哈<br><FONT color=#7e12d2>（道格拉斯将军难掩内心的喜悦）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐！！你看看你的样子。让我看看，你有没有受伤？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没有，有阿尔杰塔和杰兰特在，我很安全。<br>原来杰兰特……是金龙。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "什么？那阿尔杰塔应该也不是普通的人类。<br>我还担心你见到黑龙之后，会被他一口吞了呢，这样真是太好了。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "所以，你见过黑龙……那个，黑骑士了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没有，黑龙和金龙互相撕咬，我都无法靠近。<br>杰兰特虽然获胜，但他也受伤了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "先知呢？？救出来了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，阿尔杰塔和杰兰特把先知带走了，先知应该很安全。这真是太好了，对吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "嗯，对啊，所有的一切……除了我们的疑问还没解决外，这样的结果足以令大家开心了。<br>但是，姐姐，你忘了吗？黑骑士是找到父亲的唯一线索……",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "现在真的什么都不剩了。父亲……<FONT color=#7e12d2>（埃提亚低垂着头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>埃提亚……对不起…我应该在他们俩战斗之前，先……见见黑骑士的……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "不，姐姐…那是龙之间的战斗。人类该做的事情已经都做了。<br>我们……<FONT color=#7e12d2>（埃提亚没能控制住自己的眼泪，边流泪边说道）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（我该怎么办？这时候我……什么都帮不了埃提亚啊。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "<FONT color=#7e12d2>（无法向道格拉斯将军提起黑骑士的事情。回去找埃提亚吧。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#7e12d2>（阿尔杰塔带着杰兰特和少女离开了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "胜利了！！我们胜利了！！<br>我们人类再次战胜了那可怕的黑龙！哈哈哈哈<br><FONT color=#7e12d2>（道格拉斯将军难掩内心的喜悦）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>将军，黑骑士……</FONT> ",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "哈哈哈！你不要担心。你不是也亲眼看到他已经死了吗？<br>\n还有，先知也被帮助你的金发剑客带走了，我终于了却了一桩心事。这次你的功劳很大！如果你到王城，国王陛下肯定会好好奖赏你的。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "杰兰特！杰兰特！你醒醒！",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "咳咳……我没事，阿尔杰塔。<br>不用……担心。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你现在的样子能让人不担心吗？<br>连唯一剩下的一只眼睛也……成了这样！<br><FONT color=#7e12d2>（阿尔杰塔抱住杰兰特，眼圈湿润了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我认为……这是最好的结果了。<br>你不用自责，也无需自责。<br>你已经尽力了，阿尔杰塔……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰兰特……呜呜……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我的眼睛看不见了……<br>我正中那家伙的气息，恐怕以后再也无法睁开眼睛了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不行！杰兰特，我一定会想办法治好你的眼睛。</FONT><br>\n<FONT color=#662500>我还要把黑骑士……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "吵死了！就凭你，能做什么啊？<br>杰兰特，这个傻瓜……",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "阿尔杰塔… 必须先把那个少女… 转移到神圣天堂王城地下。<br>我要把那里当做我的巢穴。",
+      "answer": "",
+      "image": "qw_sainthaven_inside.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "那种人类小孩，吃掉不就可以了嘛！<br><FONT color=#7e12d2>（阿尔杰塔带着杰兰特和少女离开了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（无法询问黑骑士的情况。向道格拉斯将军寻求帮助吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "胜利了！！我们胜利了！！<br>我们人类再次战胜了那可怕的黑龙！哈哈哈哈<br><FONT color=#7e12d2>（道格拉斯将军难掩内心的喜悦）</FONT>",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "qkname": "少年的行踪",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "凯伊哥哥……为什么不把自己的状况告诉我们呢<br><FONT color=#7e12d2>（埃提亚抚摸着凯伊送的胸针）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "不管怎样，<FONT color=#a82424>特拉玛依</FONT>说过让你和凯伊哥哥联络……<br>得把结果向他报告。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "我在努力尝试和凯伊哥哥联络， 姐姐你最好去找<FONT color=#a82424>特拉玛依</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "那你快去快回吧，姐姐！",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "欢迎欢迎。你和<br><FONT color=#a82424>凯伊</FONT>联络了吗？",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这个……凯伊没有出现在约定场所！<br>他好像正忙着什么事情！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "很忙的事情……看来还是得我亲自出马去问一下了。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "关于给<FONT color=#a82424>凯伊</FONT>情报的人，我要和钢铁兄弟团联络去调查一下。<br>我会写一封关于这件事情的<FONT color=#a82424>紧急指令书</FONT>，麻烦你去村子里，交给<FONT color=#a82424>仓库管理员丁</FONT>。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你把书信交给<FONT color=#a82424>仓库管理员丁</FONT>，他会看着办，把书信交给兄弟团的。",
+      "answer": ""
+    },
+    {
+      "npc": "仓库管理员丁",
+      "question": "唉……打扫怎么做也做不完啊……<br>啊啊，<FONT color=#387206>{user_nick}</FONT>，你来啦？<br>你有什么要交给我吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>丁~~嘿嘿嘿……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "仓库管理员丁",
+      "question": "……你为什么突然笑得这么阴险？<br><FONT color=#7e12d2>（丁十分局促不安）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我现在才知道，原来你跟</FONT><FONT color=#662500>钢铁兄弟团有关！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "仓库管理员丁",
+      "question": "啊！这种事情别说得这么大声……！<br><FONT color=#7e12d2>（丁非常尴尬地压低了声音）</FONT><br>莫非你也是兄弟团的……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我父亲是钢铁兄弟团的。<br>他是骄傲的尤斯提亚家族的</FONT><FONT color=#662500>首领拉斯·尤斯提亚。我就是</FONT><FONT color=#662500>他的女儿！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "仓库管理员丁",
+      "question": "啊啊……拉斯大人的女儿！<br>难怪你知道兄弟团的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的！其实我今天来是有事情想拜托你。<br></FONT><FONT color=#662500>特拉玛依说请你把这封书信交给兄弟团。<br>（把紧急书信给丁看</FONT><FONT color=#662500>）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "仓库管理员丁",
+      "question": "啊~？为什么偏偏在现在这个时候来了紧急书信？<br>你也看到了，我现在正在做整个仓库大扫除，如果我现在离开的话，整理的东西又会变成一团糟了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那该怎么办呢？<br>特拉玛依说只要把书信交给丁就可以了啊……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "仓库管理员丁",
+      "question": "嗯……本来是不允许这样的，但既然你是拉斯大人的女儿，而且特拉玛依还把这件事交给了你，那你应该值得信赖……<br><FONT color=#387206>{user_nick}</FONT>，你能替我去钢铁<FONT color=#a82424>兄弟团的秘密信箱</FONT>，把书信放进去吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好啊！我是不惜为正义和世界和平献身的最值得信赖的人！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "仓库管理员丁",
+      "question": "……这真是……值得信赖啊。<br>那么你去<FONT color=#a82424>被蚕食的神殿废墟</FONT>，把信放到约定场所的<FONT color=#a82424>秘密信箱</FONT>就行了。",
+      "answer": ""
+    },
+    {
+      "npc": "仓库管理员丁",
+      "question": "那里刻着暗号，普通人可能看不懂，但如果是钢铁兄弟团的相关人员的话一定立刻就能明白……你应该很容易就能找到。",
+      "answer": ""
+    },
+    {
+      "npc": "可疑的信箱",
+      "question": "<FONT color=#7e12d2>（发现了可疑的信箱。仔细一看上面刻着钢铁兄弟团的暗号。好像把紧急书信放进去就行了）</FONT> ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（那么特拉玛依吩咐的事情就都做完了，现在回</FONT><FONT color=#662500>埃提亚那里去吧？）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "你回来啦，姐姐。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "好像比我想象的花了更长时间呢？",
+      "answer": ""
+    }
+  ]
+}

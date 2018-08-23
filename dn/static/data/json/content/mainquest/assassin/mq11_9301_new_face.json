@@ -1,0 +1,135 @@
+{
+  "qkname": "新的人物",
+  "data": [
+    {
+      "npc": "精锐士兵克林德",
+      "question": "为了寻找黑骑士的行踪，其他冒险家和贵族们进行了讨论。<br>不久之前，他们就出发了……",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "他们好像在那边的<FONT color=#a82424>主教伊格纳西奥</FONT>那里获得了情报。你可以去见见他。<br>他是位忧国忧民的主教。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……人太多了，不方便。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "黑骑士……<br>\n到底是什么人呢？",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "嗯……糟了，糟了。<br>王国的命运如同风中之烛，真让人担心。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(要和他谈谈吗？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "嗯？你，你是……！<br><FONT color=#7e12d2>(伊格纳西奥看上去非常惊恐)</FONT><br>你来这里做什么？",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "如果你不打声招呼，就横插一脚的话……",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你，你说什么？<br>\n<FONT color=#7e12d2>(伊格纳西奥的表情显得很惊慌)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "啊～没错，没错。是我认错人了。<br><FONT color=#7e12d2>(伊格纳西奥连忙岔开了话题，突然换上了一副温和的表情)<br></FONT>是这次来到王城的冒险家们的同伴啊。欢迎你。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(好像有点奇怪。好像错过了了解情况的机会。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "其他的冒险家接受了我的委托，去寻找<FONT color=#a82424>黑骑士</FONT>了。<br>当然，我只是收到了神殿骑士团的报告，没办法确定是否真的是黑骑士。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "发现黑骑士的地方是<FONT color=#a82424>被遗弃的韦尔顿哈鲁</FONT>。<br>往黑山山角方向走，就能到达那里。<br>\n到现在还没有其他冒险家的消息，你去看一看吧。",
+      "answer": "",
+      "image": "qw_31.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "刚才那个情景……你看到了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "是吗？你要到被遗弃的韦尔顿哈鲁去啊。<br>嗯……那个黑骑士好像认识你，主教伊格纳西奥好像也认识你……<br>你的人气还挺旺的嘛。",
+      "answer": "",
+      "image": "qw_31.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>和埃雷娜一样，他们认识的人好像不是我。<br>他们认识的人，应该是幻象。</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "可能是的。<br>……也可能不是。<br><FONT color=#7e12d2>(露娜莉娅用冷淡的眼神看着我)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "吗？你要到被遗弃的韦尔顿哈鲁去啊。<br>嗯……",
+      "answer": "",
+      "image": "qw_31.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊，<FONT color=#387206>{user_nick}</FONT>，你也来啦。<br>我刚想回去呢。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "刚才那个情景……你看到了吗？金发剑客和黑骑士战斗的情景。<br>就在我插手之前，他们就释放出惊人的力量，然后消失在了那边。<br>那种力量，就像……",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "……就像他们俩都不是人类一样。<br>我从来没有见过那么厉害的剑客。<br><FONT color=#7e12d2>(西恩的表情很复杂)</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "其他人去找阿尔杰塔商量了。<br>必须先向主教伊格纳西奥报告，然后再商量接下去该怎么办。<br>\n啊，<FONT color=#387206>{user_nick}</FONT>，你要去哪里呢？",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我要到黑山山角去见见我的同伴。</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    }
+  ]
+}

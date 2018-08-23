@@ -1,0 +1,158 @@
+{
+  "qkname": "纯白之球",
+  "data": [
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "据说在古代人的知识当中，有一种可以解除物质毒性的净化装置。<br>这个文件中就记录了那个净化装置的有关内容。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "根据这份文件，那个净化装置就在祈祷者安息处。<br>还有，为了启动那个装置，需要<FONT color=#a82424>纯白之球</FONT>和<FONT color=#a82424>净化装置钥匙</FONT>。",
+      "answer": "",
+      "image": "qp_white_orb.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，纯白之球？！</FONT>",
+      "answer": "",
+      "image": "qp_white_orb.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "是的，就是之前你问过的那个东西。<br>你是怎么知道那种东西的？",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "哼，总之那并不重要。<br>净化装置钥匙必须要去祈祷者安息处才能找到。我们最好先找到纯白之球。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "存放纯白之球的地方是<FONT color=#a82424>圣域中心</FONT>的最深处。<br>我想，你应该很乐意去做这件事……怎么样？你愿意跑一趟吗？",
+      "answer": "",
+      "image": "qw_25.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "知道纯白之球在哪儿了？<br>太好了。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "纯白之球，我一定要得到。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "没关系！一切都会好起来的！",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "在你去<FONT color=#a82424>圣域中心</FONT>的这段时间，我会再仔细研究一下这份有关净化装置的文件。",
+      "answer": "",
+      "image": "qw_25.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "哎呀……埃雷娜最终还是死了。<br><FONT color=#7e12d2>(西恩的表情看上去有点苦涩)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "纯白之球，终于到手了。<br>严格来说，应该是碎片。<br><FONT color=#7e12d2>(露娜莉娅捡起了纯白之球的碎片)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "净化凯德拉关卡还需要用到纯白之球呢……",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#7e12d2>(露娜莉娅把纯白之球的碎片一口吞了下去)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……这样就行了。<br>\n也许。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "控制那种力量的方法，就是把纯白之球碎片吃掉？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "嗯。<br>现在暂时应该没问题了。也许。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>也许……</FONT><br>\n<FONT color=#662500>和付出的努力相比，结果似乎不是很可靠啊，露娜莉娅。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "是的。加油。<br><FONT color=#7e12d2>(露娜莉娅淡淡地说道，就像说的是别人的事情一样)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "那边的冒险家在看着你。<br>最好把<FONT color=#a82424>纯白之球</FONT>交给他们。",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "哎呀……<br>\n埃雷娜最终还是死了。<br><FONT color=#7e12d2>(西恩的表情看上去有点苦涩)</FONT>",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "她一定是为了净化自己身上的污染物质，所以才想得到纯白之球。<br>但是结果还是没能如愿，最后悲惨地死去了。<br>\n要是因果报应真的存在，这就是最好的例子！",
+      "answer": "",
+      "image": "qp_white_orb.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "虽然都是精灵，但黑暗精灵为什么和其他普通的精灵差别那么大呢？<br>在遥远的过去，他们曾经是同族。",
+      "answer": "",
+      "image": "qm_darkelfgray.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "……比如说埃雷娜，就和弓箭手特里亚纳以及村里的其他高级弓箭手完全不同。不是吗？<br>我真是搞不懂。",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊！！必须把纯白之球交给凯德拉关卡的<FONT color=#a82424>高级魔法师缇娜</FONT>。<br>我们一起回去吧！",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "这就是<FONT color=#a82424>纯白之球</FONT>啊。没想到竟然能亲眼见到如此珍贵的宝物，真是让人感慨万千。<br>它可真美啊。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "要是老师能活到这一天就好了。",
+      "answer": ""
+    }
+  ]
+}

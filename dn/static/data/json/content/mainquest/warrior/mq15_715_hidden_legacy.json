@@ -1,0 +1,156 @@
+{
+  "qkname": "藏起来的遗产",
+  "data": [
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#7e12d2>（西戴尔表情错综复杂）</FONT><br>我总有种……不好的感觉。",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "啊，<FONT color=#387206>{user_nick}</FONT>你来了啊。<br><FONT color=#a82424>察提</FONT>过得还好吗？",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（转告察提的爷爷去世的事）</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "什么……？！<br><FONT color=#7e12d2>（西戴尔手上拿着的书掉落在地）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#a82424>察提的爷爷</FONT>去世了吗……？<br>他可是察提唯一的家人啊，这到底是为什么……？",
+      "answer": "",
+      "image": "qn_npc_charty_grandfather.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好像是龙之追随者为了获得情报，对族长进行了严刑拷打。</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty_grandfather.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "啊……察提该有多伤心啊……<br>你说察提现在在<FONT color=#a82424>龙之追随者据点</FONT>，是吧？",
+      "answer": "",
+      "image": "qw_54.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的。</FONT>",
+      "answer": "",
+      "image": "qw_54.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "嘘-，我正在安慰受伤的少女。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我必须马上去察提所在的地方看一看。<br>你赶紧去<FONT color=#a82424>龙之追随者据点</FONT>吧。",
+      "answer": "",
+      "image": "qw_54.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "卡拉翰……？<br>你怎么会在这儿？",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "我不是来看你的，小家伙。<br>我今天是来安慰这个可怜的小姑娘的。<br>你也知道，即使我只是静静地望着她，也会对她的心灵带来慰藉的。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "察提，你不能就这么一直哭下去。<br>你应该继承祖父的遗志，守护好圣地，不是吗？",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "<FONT color=#7e12d2>（察提满脸泪水地点了点头）</FONT><br>好，现在……我就是新的族长。就像爷爷嘱咐我的那样……我要守护好圣地。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "察提……<br>不要太勉强了，现在最好先休息休息。",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "这不是勉强，西戴尔。看来你一直都只把我当成一个脆弱的孩子。我会完成属于我的使命的。<br>因为我是察提……，因为我是爷爷的孙女……",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "那你就回去看看圣地是否安然无恙吧？也许那帮龙之追随者已经把魔爪伸到那里了，不能不让人担心。<br><FONT color=#7e12d2>（卡拉翰和蔼地说着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "<FONT color=#7e12d2>（察提稍作迟疑后开口说道）</FONT><br>好。我去那里看看。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "这就对了，察提。<br>说不定这次龙之追随者也会布下阵营的，所以和我一起去吧。<br>\n<FONT color=#7e12d2>（卡拉翰的行为很不寻常）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "什么……？！<br>不行，察提！那家伙肯定有什么别的阴谋！<br>还不如和我一起去。我会保护你的！",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "哈哈哈，像你这样的小毛孩能做什么？<br>就连察提的祖父殒命的时候，你不也只是在做一些卡拉秋安排的琐事吗？<br>好了，察提快起来。我们出发吧。<br>\n<FONT color=#7e12d2>（西戴尔的脸红了起来）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "对不起，西戴尔……我现在需要卡拉翰的力量。<br>等我回来咱们再说吧。<br>走吧……卡拉翰。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#7e12d2>（西戴尔表情错综复杂）</FONT><br>我总有种……不好的感觉。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "这样不行。<br><FONT color=#387206>{user_nick}</FONT>，抱歉，你可以先回去吗？<br>我……必须跟着<FONT color=#a82424>察提</FONT>去。",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可是，你并不知道察提去哪儿了呀？</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "在<FONT color=#a82424>古代武器库的东边</FONT>的尽头，有一条谁也无法踏上的路。有时还会从那里散发出强大的魔力。<br>也许在另一端就有通向<FONT color=#a82424>部族圣所</FONT>的路。",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我总是说想为<FONT color=#a82424>察提</FONT>做点什么，可是真格的却什么都没能为她做。这次我真的想为察提做点什么。<br>即使，会拼上我的全部……",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    }
+  ]
+}

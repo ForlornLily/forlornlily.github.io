@@ -1,0 +1,145 @@
+{
+  "qkname": "真正的使命",
+  "data": [
+    {
+      "npc": "村长海洛德",
+      "question": "如，如果她逃出了墓穴，应该已经回来了啊……！<br>他们会不会在回来的途中，遭遇了什么变故？",
+      "answer": "",
+      "image": "qn_guard_steave.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "冒险家，<br>请到\n<FONT color=#a82424>卫兵史蒂夫</FONT>那里询问有没有萝丝的消息。",
+      "answer": "",
+      "image": "qn_guard_steave.png"
+    },
+    {
+      "npc": "卡汉拉的灵魂",
+      "question": "<FONT color=#7e12d2>(长得很有异国特色的灵魂在默默注视着)<br>(※必须完成与普雷利镇村长海洛德的对话)</FONT>",
+      "answer": "",
+      "image": "qn_elder_harold.png"
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "原来是<FONT color=#387206>{user_nick}</FONT>啊。<br>\n萝丝到现在都没有回来，大家都很担心。",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "虽然我还不知道萝丝的下落，但我收到报告，据说<FONT color=#a82424>阴影森林中心</FONT>那里的魔物的动静有些可疑。",
+      "answer": "",
+      "image": "qw_4.png"
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "说是有很多魔物正在往那里聚集。<br>它们好像是在找什么，说不定是在找萝丝！",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "但愿你能在<FONT color=#a82424>阴影森林中心</FONT>找到萝丝。",
+      "answer": "",
+      "image": "qw_4.png"
+    },
+    {
+      "npc": "卡汉拉的灵魂",
+      "question": "我在这里听到了许许多多灵魂们的声音。<br>你知道吗，<FONT color=#387206>{user_nick}</FONT>? 这里沉睡者许多曾经对抗过龙之追随者的无名英雄。<br>在这里给你道别再好不过了。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉的灵魂",
+      "question": "亡者是不能在这个世界停留太久。我只是拥有卡汉拉名字的一小撮灵魂能量罢了，再也不能维持着这个样子。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉的灵魂",
+      "question": "你所需要了解的知识，我都已经传授给你了。<br>除了一件事。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉的灵魂",
+      "question": "你一直很好奇你身上刻着的标志对吧？<br>那就是你继承了古代人血统的标志。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你说我继承了古代人的血统？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉的灵魂",
+      "question": "你是先知的<FONT color=#a94407>影子星</FONT>，她和你就像是光和影一样。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "卡汉拉的灵魂",
+      "question": "\n如果先知走的是正确的道路，你就要在她的光芒下隐藏起来。但如果她走上了邪恶之路，你就要阻止她利用她的力量做出不好的事情。<br>只有你才能做到这些。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "卡汉拉的灵魂",
+      "question": "也许你还很难接受，但必须接受现实。<br>我们族人的使命就是守护你，不管你以后会走上什么样的道路，我们都是要和你一同走下去的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>那么….</FONT><br>\n<FONT color=#662500>我们族人被杀，也是因为我….</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉的灵魂",
+      "question": "我们族人被杀害并不是因为你，你无须自责。<br>虽然前途充满了艰险，但请你接受吧，这就是我们最后要拜托你的事情了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>…我很难接受。</FONT><br>\n<FONT color=#662500>但如果这是老师的意思……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉的灵魂",
+      "question": "真是个好孩子，<FONT color=#387206>{user_nick}</FONT>。<br>请你一直追随先知，并监督她吧。这就是你的命运。<br>…我现在已经再无遗憾了。<br><FONT color=#7e12d2>(卡汉拉的灵魂安详地笑着)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉的灵魂",
+      "question": "请你回到<FONT color=#a82424>普雷利镇</FONT>去吧。<br>一个新的死亡将把你和先知的命运紧紧绑在一起的。<br>万一…你找不到前进的方向，可以随时来<FONT color=#a94407>隐遁者图腾</FONT>这里冥想。",
+      "answer": "",
+      "image": "qw_prairietown.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "这可如何是好？冒险家。<br>\n我孙女萝丝……",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "我刚刚听<FONT color=#a82424>卫兵史蒂夫</FONT>说，萝丝和提摩西又被追赶到了其他地方。",
+      "answer": "",
+      "image": "qn_guard_steave.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "\n有个卫兵说他看见提摩西和萝丝往<FONT color=#a82424>古代神殿发掘场</FONT>方向跑过去了。<br>\n大家努力去追踪他们，但魔物数量众多，最后只能放弃。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "我听说他们已经组织搜索队到那个地方……<br>\n但我还是有些不放心。",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "看见提摩西和萝丝往古代神殿发掘场方向跑去之后，卫兵们试着追踪了他们，但魔物数量众多，他们最后只能放弃追踪。村长海洛德应该很担心吧……",
+      "answer": "",
+      "image": "qn_elder_harold.png"
+    }
+  ]
+}

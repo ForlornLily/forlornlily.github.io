@@ -1,0 +1,141 @@
+{
+  "qkname": "独自留下的女人",
+  "data": [
+    {
+      "npc": "将军道格拉斯",
+      "question": "我收到了报告，说金发剑客追踪黑骑士，进入了黑暗领地守备队据点。<br>我们掌握的情报还不够，没办法派遣大规模部队到那里去。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "不过在冒险家公会的协助下，我们获得了一部分内部地图。我们已经派出了侦察队，应该很快就能进入内部。",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "请你先努力修行，稍微等一等。<br>啊，其他冒险家好像到<FONT color=#a82424>赫尔马岱港口</FONT>那边去执行公会的委托了。",
+      "answer": "",
+      "image": "qw_hermalteport.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "喂，<FONT color=#387206>{user_nick}</FONT>，你也要到黑暗领地守备队据点去，现在正在待命，对吧？<br>那你现在应该有空喽～对不对？<br>\n我的意思是，你应该能再帮我一次，对吧？",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "我要到江下游废墟去一趟，但是一个人好像有点吃力。<br>我本来是想和<FONT color=#a82424>伊桑</FONT>那家伙一起去的，但是却一直没有他的消息。",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "希望你能和我一起去。<br><FONT color=#a82424>这次</FONT>我不想把事情推给别人了～！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(原来上次是把事情推给我了……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "你一定愿意去吧？快点快点～我很着急。<br>不放心的话，和那边跟你<FONT color=#a82424>同行</FONT>的姑娘一起去不就行了。不是吗？！",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "这次的事情完成之后，再回到王城去，时间应该刚刚好！<br>我敢确定。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(要是和露娜莉娅一起去，不小心穿越了时间，那就真出大问题了……</FONT><br>\n<FONT color=#662500>没关系吗？)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "你去和<FONT color=#a82424>跟你同行的姑娘</FONT>商量一下吧。我在这里等你。<br>……啊，我是不是很体贴？",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ionStand1}<br>要和那个魔法师一起去？<br>为什么要跟我说？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "一起去……？我也去？<br>我倒是没关系，不过要是我不小心穿越了时间，你就麻烦了。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我还无法完全控制穿越时间的能力。这你也知道，对吧？<br>还有<FONT color=#387206>{user_nick}</FONT>，你体内的那个人……",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "是的，在我无法控制能力的时候，<FONT color=#a82424>幻象</FONT>会不会更容易吞噬你呢？<br>你想过这种可能性吗？",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(之前从没这么想过……真的是那样吗？因为一直和露娜莉娅在一起，受到她的奇怪力量的影响，所以幻影才会更加频繁地出现吗？)</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "听上去好像挺没自信的。<br>我也不太清楚。你也知道，我没什么可以告诉你的。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我会在这里等你，你自己去比较好吧？<br>总是待在一起，你也会觉得烦的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(一会儿应该没关系吧？<br>不然露娜莉娅也会很累……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "那就快去快回吧。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你要和<FONT color=#a82424>魔法师安杰利卡</FONT>一起去，对吧？<br>明白了。我在这里等你。<br>\n好了，你快去和她说吧。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "嗯？你说什么？<br>那个姑娘要留在这里？",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "<FONT color=#7e12d2>(安杰利卡向露娜莉娅那边瞟了一眼)</FONT><br>嗯～好吧。也是，干嘛非得总是在一起呢？",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n那就让我们马上开始干活吧～",
+      "answer": ""
+    }
+  ]
+}

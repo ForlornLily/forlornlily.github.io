@@ -1,0 +1,153 @@
+{
+  "qkname": "背叛的伤口",
+  "data": [
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "啊……！是的，听说很久以前曾经在<FONT color=#a82424>霜风森林</FONT>设置过一个通往<FONT color=#a82424>马里安殿堂</FONT>的门。那个门该不会还在那里吧……<br>那个家伙竟然能找到那种地方。",
+      "answer": "",
+      "image": "qw_11.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n那是一扇通往<FONT color=#a82424>马里安殿堂</FONT>最底层的门。由于通道狭窄，而且长时间未被使用过，所以应该不容易出来。<br>现在马上前往<FONT color=#a82424>马里安殿堂</FONT>的话，应该就能赶在那家伙出来之前抓到他。",
+      "answer": "",
+      "image": "qw_11.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "赶快出发。<br>如果让<FONT color=#a82424>龙之追随者</FONT>逃出<FONT color=#a82424>马里安殿堂</FONT>，他就能很快逃出<FONT color=#a82424>魔法山脊</FONT>！",
+      "answer": "",
+      "image": "qw_11.png"
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "你去<FONT color=#a82424>马里安殿堂</FONT>把<FONT color=#a82424>贤者之杖</FONT>和<FONT color=#a82424>秘传之球</FONT>找回来。<br>没有时间了。快点出发吧！",
+      "answer": "",
+      "image": "qw_11.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "咳咳咳咳……哈哈……<br><FONT color=#7e12d2>（杰克大口地喘着气）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "咳咳咳咳……哈哈……<br>漂亮的一击……呼……呼呼……<br>你……你现在，终于可以承担起神殿骑士的责任了……呃……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>啊……？！怎，怎么……</FONT><br>\n<FONT color=#662500>你怎么……？</FONT><br>\n<FONT color=#662500>……杰，杰克 ！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "<FONT color=#a82424>龙之追随者</FONT>就是我……很奇怪吗？呼……<br>咳咳咳咳……",
+      "answer": "",
+      "image": "qn_dragonsycophant.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你……</FONT><br>\n<FONT color=#662500>你为什么戴着龙之追随者的面具呢？！</FONT><br>\n<FONT color=#662500>到底为什么！！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "……我的任务……是来<FONT color=#a82424>魔法山脊</FONT>偷取<FONT color=#a82424>贤者之杖</FONT>和<FONT color=#a82424>秘传之球</FONT>……哈哈……已经耽误太久了……咳咳……咳咳咳咳……",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "对不起……但是……我不后悔……<br>我只是做了我该做的事情……只不过你走的路和我不同而已……只是……不同而已……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>怎，怎么！怎么会被邪恶所熏染？！</FONT><br>\n<FONT color=#662500>到底为什么？！！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "咳咳咳咳……<FONT color=#a82424>善</FONT>和<FONT color=#a82424>恶</FONT>……就像是<FONT color=#a82424>硬币的两面</FONT>……呼呼……只不过看哪一面在上面而已……咳咳……也许什么时候……你也会出现硬币的阴暗一面……",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "呃……没有……时间了……我虽然没有实现我的梦想，希……希望你能实现你的梦想。当你摆脱枷锁的时候，你一定会获得新的领悟。……不受任何人影响、不被任何人强迫的……真正的人生……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>请悔过吧！</FONT><br>\n<FONT color=#662500>你就这样死去的话……</FONT><br>\n<FONT color=#662500>我会铲除世上所有的龙之追随者的！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "呼呼……那也……不错……<br><FONT color=#387206>{user_nick}</FONT>……我的<FONT color=#a82424>兄弟</FONT>啊……虽然我们没有一脉相承的血缘关系……但我却像亲兄弟一样珍惜你……<br>\n<FONT color=#a82424>考验</FONT>……还没有<FONT color=#a82424>结束。</FONT>咳咳……希望你……一切顺利……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>啊……不要！我……我不能让你就这么死去！！</FONT><br>\n<FONT color=#662500>杰克！！杰克！醒醒！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "<FONT color=#7e12d2>（杰克的脸上隐约带着微笑。我抱着他停止抖动的身体，放声大喊，但却没有回应……</FONT><br> <FONT color=#7e12d2>信任之人的背叛在我心中造成的伤口使我一阵混乱，久久不能恢复清醒）</FONT>",
+      "answer": "",
+      "image": "qn_jake_down.png"
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "你……脸色怎么这么差？难道……<br><FONT color=#a82424>龙之追随者</FONT>逃走了吗？秘……秘传之球和贤者之杖呢……？",
+      "answer": "",
+      "image": "qn_dragonsycophant.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>秘传之球和法杖已经找回来了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "找到了？！哈哈哈~你真的是辛苦了！<br>多亏了你，我们<FONT color=#a82424>神殿骑士团</FONT>的名誉才能更上一层楼！<br>不过……难道发生什么事情了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "ionTalk2}<br>你……你说什么……？<FONT color=#a82424>杰克</FONT>是<FONT color=#a82424>龙之追随者</FONT>……？<br>那个嫉恶如仇的<FONT color=#a82424>杰克</FONT>……怎么会这样……",
+      "answer": "",
+      "image": "qn_jake_down.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>他曾说过……不要相信任何人……</FONT><br>\n<FONT color=#662500>还说担心我受到的伤害太大……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "杰克……嗯……<br><FONT color=#7e12d2>（托马斯的脸色暗了下去，沉默了很长时间）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我师兄想要实现的梦想会是什么呢……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "我也不知道<FONT color=#a82424>杰克</FONT>的梦想是什么……<br>我想……他一定希望你能阻止他……用你的双手。<br>我不想再说了……",
+      "answer": "",
+      "image": "qn_jake_down.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（杰克……你的梦想是什么呢……？</FONT><br>\n<FONT color=#662500>你到底是为了什么……）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "qkname": "遇见了将军",
+  "data": [
+    {
+      "npc": "国王卡西乌斯",
+      "question": "你……你好。你来啦。<br>朕还是第一次见到和朕年龄相仿的少女，我，我很高兴……"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "我要处理的事情已经堆得像小山一样高了，麻烦你以后再来找我。<br><FONT color=#7e12d2>（去神圣天堂的学者站台那里和姐姐通话）</FONT>",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "现在勇敢的神圣天堂士兵们正在尽力抵挡黑暗矿山的怪物。<br>\n<FONT color=#7e12d2>（去神圣天堂的学者站台那里和姐姐通话）</FONT>",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_04.ogg}<br>你自己去<FONT color=#a82424>黑暗大君主的领地</FONT>太危险了。<br>嗯……你还是找人帮助你吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>找人帮忙？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_08.ogg}<br>如果想前往有大量魔物出入的地方，最好能获得精锐士兵的帮助。<br>话说，精锐士兵的指挥官将军道格拉斯是不是在<FONT color=#a82424>黑暗矿山</FONT>？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>对了，国王陛下曾经说过，现在将军有事在身，不在王城。</FONT>",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "\n原来如此。那你去找将军，向他强求帮助吧。",
+      "answer": "",
+      "image": "qw_27.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "现在勇猛的神圣天堂士兵正在奋力抵抗黑暗矿山的魔物。",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "我要处理的事情已经堆积如山。<br>如果你没什么急事，请下次再来找我吧。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_08.ogg}<br>如果想前往有大量魔物出入的地方，最好能获得精锐士兵的帮助。<br>话说，精锐士兵的指挥官将军道格拉斯是不是在<FONT color=#a82424>黑暗矿山</FONT>？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>对了，国王陛下曾经说过，现在将军有事在身，不在王城。</FONT>",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "\n原来如此。那你去找将军，向他强求帮助吧。",
+      "answer": "",
+      "image": "qw_27.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（去向黑暗矿山的将军道格拉斯请求帮助吧。）</FONT>",
+      "answer": "",
+      "image": "qw_27.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "嗯？你是谁？<br>这里可不是小孩子能来的地方。这里很危险，你快离开吧。",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "<FONT color=#662500>（虽然没有亲自接受委托，但……）</FONT><br><FONT color=#662500>是国王陛下托我过来的。</FONT>",
+      "answer": "",
+      "image": "qn_npc_king_casius.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "嗯？<FONT color=#7e12d2>（将军听完之后点点头）</FONT><br>原来如此。刚好刚刚我收到了<FONT color=#a82424>主教</FONT>派其他冒险家送来的书信。看来在我离开的这段期间，王城非常混乱啊。",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "<FONT color=#a82424>黑暗矿山</FONT>是后方战略补给要地。<br>如果这里被魔物抢占，那情况就糟糕了。<br>不过，当务之急是救出先知，守护这里的工作就暂时交给冒险家公会吧。",
+      "answer": "",
+      "image": "qw_27.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "眼睁睁地放走占领矿山的<FONT color=#a82424>炸弹专家诺姆哈克</FONT>是很可惜，但下次还有机会……好了，我要转移兵力了。<br>我会召集驻扎在矿山周围的士兵，然后撤退。",
+      "answer": "",
+      "image": "qw_27.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "那我们在王城再见吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（去向黑暗矿山的将军道格拉斯请求帮助吧。）</FONT>",
+      "answer": "",
+      "image": "qw_27.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "\n你回去吧，注意不要受伤哦。哈哈。<br>\n<FONT color=#7e12d2>（返回王城吧）</FONT>",
+      "answer": "",
+      "image": "qw_sainthaven_inside.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "哦，你来啦？<br>将军已经那个回来了，你去和他谈谈吧。<br>唉，唉嘿。",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "我刚刚才回到这里。<br>你也平安回来啦。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我们得前往黑暗大君主领地。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "嗯，就算是再强大的冒险家，也无法独自面对大规模的魔物。<br>你不要担心，我在返回时，已经下令紧急召集兵力了。",
+      "answer": "",
+      "image": "qn_npc_elite_soilder.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "或许数量没有你想象中的多，但这些都是身经百战的精锐士兵。<br>快前往<FONT color=#a82424>黑暗大君主领地</FONT>吧。",
+      "answer": "",
+      "image": "qw_28.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "qkname": "伊贝尔的歌声",
+  "data": [
+    {
+      "npc": "全息诺尔佩",
+      "question": "看来卢比纳特的状态比我想象的更糟啊。",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "布卡努斯沼泽地带似乎有很多有趣的地方！",
+      "answer": ""
+    },
+    {
+      "npc": "拉达梅斯警卫兵",
+      "question": "没事，你不用担心。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "我不会放过你们的，绝不会！！！ <br>\n <br>\n<FONT color=#7e12d2>（现在似乎无法和格雷尔对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "你来这有什么事？",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "如果杰兰特大人觉得卢比纳特大人的状态是我们能够承担的程度，肯定会向我们请求帮助。但是，他既然拒绝了见面，那就意味着情况已经非常严重了。",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "为了能让杰兰特大人放心，我会做好万全的准备。<FONT color=#7e12d2>（诺尔佩的全息图像里面出现了字）</FONT> 根据刚刚得到的情报……格雷尔已经到了布卡努斯沼泽地带。",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "在<FONT color=#a82424>布卡努斯沼泽地带</FONT>有很多陷入陷阱的复仇军团。虽然向导团小心地给格雷尔带路，但是没能避开刚刚陷入陷阱不久的查尔德，现在格雷尔正在暴走。",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "ndnpc_Hologram_Nophee_9750_qu_01.ogg}<br>没办法，我只能利用沼泽地带的陷阱把格雷尔抓了起来。我们也不知道，怎样做才能让他镇定下来。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格雷尔被关进陷阱了？虽然格雷尔很不稳定，但他不是个坏孩子！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "ndnpc_Hologram_Nophee_9750_qu_02.ogg}<br>很抱歉，<FONT color=#387206>{user_nick}</FONT>。我现在不能把格雷尔带到拉达梅斯。拉达梅斯有很多为逃避查尔德刚刚到达的弱势群体。为了保护他们，我只能这么做。",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "我们会派遣拉达梅斯的研究团过去，他们会找到方法的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我明白诺尔佩大人的意思。虽然我也不知道让格雷尔平静的方法……但是我想去见见格雷尔。 </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "比起陌生的南部领地警卫兵，如果<FONT color=#387206>{user_nick}</FONT>能去，应该能让格雷尔稍微平静一点。我们应该尝试所有的方法。",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "我会告诉<FONT color=#a82424>布卡努斯沼泽地带的研究团</FONT>。请<FONT color=#387206>{user_nick}</FONT>去见格雷尔吧。",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你明明约好要和艾瑞斯一起去的，结果你一个人就先走了，艾瑞斯很伤心啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>抱歉，没能和你一起来。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "ndnpc_Iris_9750_qu_01.ogg}<br>艾瑞斯没事！虽然艾瑞斯没事……但格雷尔的状况却非常糟糕。艾瑞斯听到格雷尔痛苦的声音，心里好难受啊。",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "你听得到吗？格雷尔在寻找伊贝尔的声音……艾瑞斯虽然想安慰格雷尔，但是如果艾瑞斯去，格雷尔会更加生气。",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "查尔德都讨厌艾瑞斯。只要看到艾瑞斯就会生气。<FONT color=#7e12d2>（艾瑞斯耷拉下了脑袋）</FONT> ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格雷尔再找伊贝尔？艾瑞斯，你怎么知道的？ </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "<FONT color=#7e12d2>（艾瑞斯睁大了眼睛）</FONT> 艾瑞斯还以为<FONT color=#387206>{user_nick}</FONT>肯定也知道呢。 <FONT color=#387206>{user_nick}</FONT>不是很喜欢格雷尔嘛。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>如果格雷尔在寻找伊贝尔……说不定他听到伊贝尔的声音就会平静下来。安娜也说了要去找格雷尔，用安娜的播放器来播放伊贝尔的声音，那格雷尔说不定就会冷静下来！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "ndnpc_Iris_9750_qu_02.ogg}<br>艾瑞斯，怎么没想到这个办法。<FONT color=#387206>{user_nick}</FONT>真是太了不起了！艾瑞斯想要一直关注<FONT color=#387206>{user_nick}</FONT>你，还要关注格雷尔。",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "但现在我想去见诺尔佩。<br><br><FONT color=#7e12d2>（艾瑞斯似乎不想继续说话了。去找拉达梅斯警卫兵吧）</FONT> ",
+      "answer": ""
+    },
+    {
+      "npc": "拉达梅斯警卫兵",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你来了啊？我们为了让格雷尔冷静的作战……全都失败了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>居然有这么多人受伤了？格雷尔在那里？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "拉达梅斯警卫兵",
+      "question": "在沼泽的里面。<FONT color=#a82424>魔法师安娜</FONT>刚才已经急忙进去了。",
+      "answer": "",
+      "image": "qn_soceressanna.png"
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "小心。<FONT color=#387206>{user_nick}</FONT>，那孩子现在已经几乎失去理性了，再这么下去可能会失去原本的心性。 ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>安娜，你带着伊贝尔的歌声装置吗？请给格雷尔听听那歌吧。说不定……这会让他平静下来。</FONT>",
+      "answer": "",
+      "image": "qn_hiver.png "
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "ndnpc_Anna_9750_qu_01.ogg}<br>伊贝尔的歌声？失去理性的人也能听到这样的歌声？啊，不管了。反正我先把播放器打开。<FONT color=#7e12d2>（魔法师安娜拿出了播放器。启动播放器后，传来了伊贝尔的歌声）</FONT>",
+      "answer": "",
+      "image": "qn_hiver.png "
+    },
+    {
+      "npc": "伊贝尔的歌声装置",
+      "question": "ndDRAGON NEST_BGM_Evt_Song of Hiver.ogg}<br><FONT color=#a94407>无法拥有什么，没有吃的，没有穿的。没有可以失去的，没有什么好怕的，没有什么留下的。死了之后也不会被人记得，没有人记得…….</FONT>",
+      "answer": "",
+      "image": "qn_hiver.png"
+    },
+    {
+      "npc": "格雷尔",
+      "question": "姐……姐姐？这是姐姐的声音？",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "看来他终于清醒了。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "ndnpc_Grele_9750_qu_01.ogg}<br>你怎么知道是我姐姐的歌声？怎么……会有我姐姐的声音？把它……把它给我！",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "如果你能安静地跟我们到<FONT color=#a82424>南部领地</FONT>，我就给你。而且，你不能攻击别人。<br><FONT color=#7e12d2>（魔法师安娜温柔的微笑了。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "ndnpc_Grele_9750_qu_02.ogg}<br><FONT color=#7e12d2>（格雷尔点头）</FONT><br>姐姐……你认识我姐姐？",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "南部领地的反女神派中哪有人不认识<FONT color=#7e12d2>伊贝尔</FONT>？为了弟弟妹妹，牺牲自己，比谁都要善良……",
+      "answer": "",
+      "image": "qn_hiver.png "
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "在我对这个世界失望，想要放弃一切的时候，是<FONT color=#7e12d2>伊贝尔</FONT>拉了我一把。南部领地的许多人都非常喜欢<FONT color=#7e12d2>伊贝尔</FONT>。",
+      "answer": "",
+      "image": "qn_hiver.png "
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "其实，即使你突变了，我还是讨厌查尔德。格雷尔，我帮助你都是因为你的姐姐伊贝尔。",
+      "answer": "",
+      "image": "qn_hiver.png "
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（安娜似乎还不知道伊贝尔变成了查尔德的事情。但我没勇气告诉她这个事实。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "不过这也是没办法的事情，<FONT color=#387206>{user_nick}</FONT>，别愁眉苦脸了，快点吧格雷尔带回 <FONT color=#a82424>拉达梅斯</FONT>吧。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "看这个。<FONT color=#387206>{user_nick}</FONT>。按这个按钮就能出现姐姐的歌声，我就能听到姐姐的声音。",
+      "answer": "",
+      "image": "qn_hiver.png "
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>安娜给你了啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "嗯，她说她是姐姐的朋友，其他的警卫兵也……认识我姐姐。姐姐似乎在这里很有名，我都不知道……",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "qkname": "告别 1",
+  "data": [
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "心情好沉重。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "去安慰安慰<FONT color=#a82424>西戴尔</FONT>吧。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "西戴尔一定很痛苦。<br>先去问问他需不需要帮忙吧。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师泰莎",
+      "question": "卡拉秋去世了……真不敢相信，抽泣…….",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "要做的事情有很多。首先是卡拉秋老师的葬礼……<br>虽然我不想参加葬礼，但是我们必须送走卡拉秋老师。<br><FONT color=#7e12d2>(西戴尔叹了一口气)</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我成为佩奥里斯塔新的魔法师团团长的事情，等卡拉秋老师的葬礼结束之后再说也不迟。<br>……哎呀，抱歉！！<br><FONT color=#7e12d2>(西戴尔有点紧张)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>别紧张，就跟其他冒险家说话那样就行。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "是……是吗？<br>啊……是吗？嗯，感觉有点奇怪。我和其他冒险家说话的时候，就像朋友一样随便。怎么能……<br><FONT color=#7e12d2>(西戴尔挠了挠头)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "拜托你了，<FONT color=#387206>{user_nick}</FONT>。请你去跟<FONT color=#a82424>高级魔法师塔玛拉</FONT>谈谈葬礼的事情。<br>……嗯，拜托了……",
+      "answer": "",
+      "image": "qn_npc_soceresstamara.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我成为佩奥里斯塔新的魔法师团团长的事情，等卡拉秋老师的葬礼结束之后再说也不迟。<br>……哎呀，抱歉！！<FONT color=#7e12d2>（西戴尔有些紧张）</FONT><br>\n<FONT color=#7e12d2>※达到47级以后才能执行下一阶段的任务。</FONT>",
+      "answer": "",
+      "image": "qn_npc_soceresstamara.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "你去跟<FONT color=#a82424>高级魔法师塔玛拉</FONT>谈谈葬礼的事情。",
+      "answer": "",
+      "image": "qn_npc_soceresstamara.png"
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "……真不敢相信。<br><FONT color=#7e12d2>(塔玛拉低着头，脸色很沉重)</FONT><br>卡拉秋……我们魔法师的精神支柱竟然就这么走了……",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "<FONT color=#7e12d2>(塔玛拉擦了一下眼角，好像是在抹眼泪)</FONT><br>……先不说这些。她最后的时候决定让西戴尔继承佩奥里斯塔之名，对吧？<br><FONT color=#7e12d2>(塔玛拉的眼角有点泛红)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "恐怕让所有魔法师马上接受西戴尔为团长好像有点困难。<br>因为一直以来佩奥里斯塔之名都由女性继承。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "不过只要慢慢地展现西戴尔的能力，慢慢地说服他们就行。<br>……葬礼的准备工作由我来负责，别担心。<br>西戴尔光是整理魔法师团的事物，估计就已经忙不过来了。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "必须把消息告诉其他魔法师才行……<br>啊，交给其他那些冒险家去办就行。<br>你回去把我的话告诉<FONT color=#a82424>西戴尔</FONT>。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "希望你能尽量帮帮<FONT color=#a82424>西戴尔</FONT>。<br>拜托了。",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "魔法师泰莎",
+      "question": "卡拉秋竟然去世了……真不敢相信。抽泣……<br><FONT color=#7e12d2>(有个陌生的魔法师在那里抽泣)</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "魔法师泰莎",
+      "question": "卡拉秋竟然去世了……卡拉秋！真不敢相信……抽泣……<br><FONT color=#7e12d2>(陌生的魔法师颤抖着身体)</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……开始痛哭起来了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师泰莎",
+      "question": "而且继承卡拉秋的位子，率领我们的人……竟然是那个小孩！太不像话了！！<br>一定是哪里搞错了。我，我绝不认可！<br><FONT color=#7e12d2>(泰莎瞟了拉秋的草屋一眼)</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "魔法师泰莎",
+      "question": "让我一个人待一会儿。<br>你能先走开吗，呜呜……卡拉秋！你为什么先走了呢？抽泣抽泣……<br><FONT color=#7e12d2>(泰莎冲着拉秋的草屋方向放声大哭)</FONT>",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "你回来了吗？<br>……你去见过塔玛拉了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "啊……塔玛拉是这么说的？她好像会帮我发出公函……<br>有塔玛拉在，真是太好了。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "多亏有她在，卡拉秋的葬礼应该不会有什么问题。察提…….<br><FONT color=#7e12d2>(西戴尔突然哽咽了)</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我听说之前从龙之追随者手中逃跑的帕都部族的人在一起避难，不知道他们有没有时间为察提准备葬礼呢。",
+      "answer": ""
+    }
+  ]
+}

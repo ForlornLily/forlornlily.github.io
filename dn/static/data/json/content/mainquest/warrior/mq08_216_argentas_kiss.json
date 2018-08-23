@@ -1,0 +1,178 @@
+{
+  "qkname": "阿尔杰塔的呼吸",
+  "data": [
+    {
+      "npc": "阿尔杰塔",
+      "question": "喂，路过的人都在议论纷纷，说凯德拉肯定要完了。<br>\n吵死了，你去确认一下到底怎么回事。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "听说凯德拉被污染物质笼罩了。<br>\n<FONT color=#387206>{user_nick} </FONT>，戴卡德先生正在找你，你还不快去看看？",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "啊……我们把因为飞艇坠落而受伤的王城精锐士兵也都派上了……现在凯德拉怎么样了呢。<br><FONT color=#7e12d2>（戴卡德撕扯着头发。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "啊……只要能阻止毒气扩散，能对空气进行净化的话……<br>嗯？！对啊！！净化！",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "哦吼，这么看来……<br>魔法师好像研究过古代人关于净化的技术。<FONT color=#387206>{user_nick}！</FONT>有件事要拜托你。你前往<FONT color=#a82424>高级魔法师缇娜</FONT>那里，问问哪个魔法师研究过古代人的净化设施。",
+      "answer": "",
+      "image": "qn_npc_soceresstiana.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "说不定，那个魔法师的研究就是我们的希望。",
+      "answer": "",
+      "image": "qn_npc_soceresstiana.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "听说凯德拉被污染物质笼罩了。<FONT color=#387206>{user_nick} </FONT>，戴卡德先生正在找你，你还不快去看看？",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "喂，路过的人都在议论纷纷，说凯德拉肯定要完了。你去确认一下到底怎么回事。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "\n喂，路过的人都在议论纷纷，说凯德拉肯定要完了。你去确认一下到底怎么回事。"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "我已经听说污染物质蔓延的消息了。所以，我正在看能不能帮到什么忙……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n您知道有关净化设施的研究吗？",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "嗯，当然了。其实我就是在与怪物抗战的10多年前，遵照<FONT color=#a82424>英雄魔法师卡拉秋</FONT>的命令，负责调查古代人的净化装置。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "自从老师在<FONT color=#a82424>怪物抗争</FONT>中不幸失去了生命之后，关于净化装置的研究就不得不被中断了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>那，我能看看相关的研究资料吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "很遗憾，研究资料应该就在我老师去世的<FONT color=#a82424>死亡盆地</FONT>，不过谁也不知道文件具体在哪儿。",
+      "answer": "",
+      "image": "qw_24.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我去找回来。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "你居然这么痛快就决定了，我现在能告诉你的就只有这些了。<br><FONT color=#387206>{user_nick}</FONT>，愿幸运之神与你同在。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "戴卡德好像想起了什么？你问我怎么知道的？我能听到这附近的声音。你赶快去找<FONT color=#a82424>缇娜</FONT>吧。",
+      "answer": "",
+      "image": "qn_npc_soceresstiana.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "</FONT>你前往<FONT color=#a82424>高级魔法师缇娜</FONT>那里，问问哪个魔法师研究过古代人的净化设施。说不定，那个魔法师的研究就是我们的希望。",
+      "answer": "",
+      "image": "qn_npc_soceresstiana.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你，真的要去死亡盆地？<br>\n寻找有关那个魔法师的研究资料，对你来说是很危险的。你把这个拿去吧。",
+      "answer": "",
+      "image": "qw_24.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你是在担心我吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "哼，你死了的话，谁来陪我说话，谁来替我跑腿！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>这样啊……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "如果你死了，我会很麻烦的，所以我才帮你。别误会。对了，那个的效果不会持久，所以你要边走边拨弄。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "我老师的研究资料就在他去世的<FONT color=#a82424>死亡盆地</FONT>。没有研究资料的话，我就什么也帮不上你了，你可以尽快去找回来吗？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "谢谢你。唉……结果还是借助别人的力量找回的。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "文件已经解读好了，嗯……好像可以找到办法。这里写着<FONT color=#a82424>“古代人用于给凯德拉周边的森林注入生命力的古代机械装置”'</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "不知道用这个净化装置，能不能让荒废的死亡森林恢复原貌。",
+      "answer": "",
+      "image": "qp_puri_facility.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "据说古代人的知识中，有一种可以解除有毒物质毒性的净化装置。这个文件里记录有和净化装置有关的内容。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "文件已经解读好了，嗯……好像可以找到办法。这里写着<FONT color=#a82424>“古代人用于给凯德拉周边的森林注入生命力的古代机械装置”'</FONT>。",
+      "answer": "（继续）"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "不知道用这个净化装置，能不能让荒废的死亡森林恢复原貌。",
+      "answer": "（继续）",
+      "image": "qp_puri_facility.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "据说古代人的知识中，有一种可以解除有毒物质毒性的净化装置。这个文件里记录有和净化装置有关的内容。",
+      "answer": "（继续）"
+    }
+  ]
+}

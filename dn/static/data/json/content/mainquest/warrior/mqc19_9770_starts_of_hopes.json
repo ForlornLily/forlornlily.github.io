@@ -1,0 +1,224 @@
+{
+  "qkname": "希望的开始",
+  "data": [
+    {
+      "npc": "艾瑞斯",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你认为卢比哥哥的心崩溃了吗？<br><br><FONT color=#7e12d2>※在组队状态下无法执行的任务。</FONT>",
+      "answer": "",
+      "image": "qn_npc_rubinat.png"
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "这里真是个冷清的地方。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……我有点担心杰兰特的状态。",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "卢比哥哥的心反而变得更坚定了。卢比哥哥的心没有消失。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>艾瑞斯，你是怎么知道的？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "ndnpc_Iris_9670_qu_01.ogg}<br>我有东西要给你看。你愿意和艾瑞斯一起去一趟吗？",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "艾瑞斯会等你，直到你想去为止。",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "虽然艾瑞斯很想给你看，但是你还有朋友在。这件事只有艾瑞斯和你两个人能去。对其他的人必须保密。<br>\n <br>\n<FONT color=#7e12d2>※在组队状态下无法执行的任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "请和那边的那位老爷爷谈一谈。<br><br><FONT color=#7e12d2>（艾瑞斯指着贝思柯德）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你来这里有什么事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（转述卢比纳特的事情）<br>贝思柯德!</FONT><FONT color=#662500> 你没事吧？卢比纳特的结界……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……完全没有异常。卢比纳特的结界反而比过去更坚固了。<br>那个家伙，好像比我预计的还要强。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#387206>{user_nick}</FONT>, 虽然卢比纳特身在迷之大陆，但怎么说也是阿尔特里亚的龙。虽然受到暗影龙的影响而变得堕落，但他不是暗影龙。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "但他到底在想什么呢？实在是不明白他的想法。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那所有的一切，都是在演戏？？！？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "啊……应该不是在演戏。那家伙没那么聪明。只是他仗着自己强大的力量到处乱来，让人摸不着头脑罢了。",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "{user_nick}，你迷路了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "你答应跟艾瑞斯一起走的。该不会忘了吧？",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "艾瑞斯会等你，直到你想去为止。",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "虽然艾瑞斯很想给你看，但是你还有朋友在。这件事只有艾瑞斯和你两个人能去。对其他的人必须保密。"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我必须在这里守着巨石碑的入口。关于他到底在想什么，就由你去弄清楚吧。",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "看吧。我就说卢比哥哥真的非常强，对吧？<br>卢比哥哥从很久以前就一直在想，希望能让所有人幸福。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>艾瑞斯，我不太明白你说的到底是什么意思。你是怎么知道卢比纳特的结界没有崩溃的？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "ndnpc_Iris_9670_qu_02.ogg}<br>那个……我就是知道。艾瑞斯能够感觉到卢比哥哥的内心，也能感觉到皮媞亚的内心。<br>卢比哥哥也是一样的。",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "ndnpc_Iris_9670_qu_03.ogg}<br>所以为了卢比哥哥，<FONT color=#387206>{user_nick}</FONT>，你也不能放弃希望！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，艾瑞斯，只要能让卢比纳特复原，我什么都愿意做。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "嗯……你都说到了这个份上……但是切洛斯不让我说……嗯……<br>对了，<FONT color=#387206>{user_nick}</FONT>，诺尔佩应该知道。因为以前卢比哥哥跟诺尔佩说过。",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "治好卢比哥哥的方法。你去问问诺尔佩吧！",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "为了以防万一，我正准备让拉达梅斯的人转移到南部领地的其他地方去。<br>别太担心。拉达梅斯的人们知道这里只是临时首都。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "但是看不到突破口……老师带来的希望就这样被我给毁了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>诺尔佩，据说巨石碑入口处的卢比纳特的结界还很安全！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "ndnpc_Nophee_9670_qu_01.ogg}<br>结界没事？？？<br><FONT color=#7e12d2>（诺尔佩沉思了好一会，笑了）</FONT> 哈哈哈，真的吗？？",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "从巫女的角度来看，这真是件荒唐的事。好不容易让卢比纳特堕落成了暗影龙，但结界却安然无恙。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "巫女寻找卢比纳特，是为了打开巨石碑的门……现在她心里一定很难受。因为从巫女的角度来看，事情变得更复杂了。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "查尔德内部一定会以怀疑的目光看待卢比纳特，但巫女却不想放弃卢比纳特。虽然不知道卢比纳特能坚持多久，但女神派内部也许会出现分裂。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……还有，艾瑞斯说你知道能治好卢比纳特的杯子的事情。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "能治好卢比纳特的杯子？卢比纳特告诉我的是…………………<br><FONT color=#7e12d2>（诺尔佩避开了视线）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>？？到底是什么杯子？快告诉我。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "ndnpc_Nophee_9670_qu_02.ogg}<br><FONT color=#086171>治愈之杯</FONT>，是关于可以治愈阿尔特里亚女神的治愈之杯的下落的线索。<br>不过卢比纳特让我不要去找那个杯子。说它……很危险。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>治愈之杯？？没错，有了那个东西的话，也许就能用它的力量治好卢比纳特！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "可卢比纳特让我别去找……",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "好吧，现在这是唯一的办法了。<br>因为对我来说……迷之大陆很重要。<FONT color=#387206>{user_nick}</FONT>，我们一起到梅尔卡市国去吧。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "有关治愈之杯的线索来自梅尔卡市国。<br><br><FONT color=#7e12d2>※ 第14章“希望之火种”到此结束。敬请期待接下去的故事。</FONT>",
+      "answer": ""
+    }
+  ]
+}

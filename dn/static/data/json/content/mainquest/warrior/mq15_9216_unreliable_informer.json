@@ -1,0 +1,190 @@
+{
+  "qkname": "不可靠的情报员 ",
+  "data": [
+    {
+      "npc": "西戴尔",
+      "question": "特拉玛依最近怎么样？<br><br>\n※ <FONT color=#7e12d2>可以从神圣天堂王城内部的特拉玛依那里接受任务。</FONT>",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "特拉玛依",
+      "question": "神殿骑士团对那地方不太熟悉，佩奥里斯塔的人很了解莲花沼泽，请他们帮助比较好。<br>你去见西戴尔，向他请求帮助吧。",
+      "answer": ""
+    },
+    {
+      "npc": "特拉玛依",
+      "question": "<FONT color=#a82424>西戴尔</FONT>是个聪明的年轻人，他会找到办法的。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你还是老样子……跟以前一样，还是风中草，两边倒。<br>现在也该少做点那样的蠢事了吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德还是老样子啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你才是一点都没变呢。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "哼……我说，那假冒的孩子还在装古代人吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>萝丝不是假冒的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>(贝思柯德嗤笑)</FONT><br>如果她不是假冒的，我怎么在她身上一点也感觉不到古代人的力量啊？",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "\n<FONT color=#7e12d2>(说出萝丝的情况)</FONT><br>力量正在消失……<br>那种话你也信，真是笨死了。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我说，现在不是说这些的时候。<br>首先，得解决<FONT color=#a82424>巴尔纳</FONT>的问题吧？<br>得找出到底是谁打扰了他的长眠。",
+      "answer": "",
+      "image": "qn_npc_death_knight.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "正好我想见见了解他的事情的人。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个人是谁……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "你找我有事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你喜欢到处乱晃的习惯还是没变。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我为什么要告诉你那些事。<br>要是真想知道，就跟我去<FONT color=#a82424>异变栖息地</FONT>。<br>只要你相信自己不会拖累我。",
+      "answer": "",
+      "image": "qw_59.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#a82424>尤万西贝尔</FONT>，我没兴趣跟你聊天，就问你几个问题。<br><FONT color=#a82424>巴尔纳</FONT>成了新的使徒吗？",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "嗯……详细情况不能告诉你。不过他不是新的竞技场的骑士。<br><FONT color=#7e12d2>(尤万西贝尔微微一笑)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "这么说，他只是被利用了。<br>那么，利用巴尔纳的人是新的<FONT color=#a82424>竞技场的骑士</FONT>吗？",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "这个嘛，关于这个部分，我不能说。嘿嘿……",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "那我问最后一件事。<br>不久前，特拉玛依说他从龙之追随者手里救下了<FONT color=#a82424>古代人的后裔</FONT>，然后带着一个<FONT color=#a82424>少女</FONT>出现了。可是，我从那个孩子身上完全感觉不到古代人的力量。<br>你知道她的事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "<FONT color=#7e12d2>(尤万西贝尔无声地笑了。)</FONT><br>你怎么专挑让人为难的问题……<br>我这么说，你能满意吗？<br>陛下再也不需要古代人的力量了。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……….<br><FONT color=#7e12d2>(贝思柯德变了脸色)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "即使我不告诉你新的竞技场的骑士的目的，贝思柯德你也肯定能猜到。<br>那，你多保重……<br><FONT color=#7e12d2>(尤万西贝尔从贝思柯德身上收回视线，朝这边看过来)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "你是<FONT color=#a82424>兰伯特</FONT>的儿子。<br>见到你很高兴，我是尤万西贝尔。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你认识我父亲吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "呵呵，我不仅仅是认识他……<br><FONT color=#7e12d2>(尤万西贝尔嘴角露出微笑)</FONT><br>作为普通的人类，他已经强大到无法想象的地步。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>父亲……我父亲在哪里？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "你不用着急，很快你们的<FONT color=#a82424>重逢之日</FONT>就会到来的。<br>很抱歉，今天我得走了。<br>希望以后有机会再见……",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "满身散发芳香的人，很高兴再次见到你。<br>很抱歉，今天我得走了。<br>希望下次我能与你一同进行你的<FONT color=#a82424>特雷西亚</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "你就是传说中的<FONT color=#387206>{user_nick}</FONT>啊。<br>很抱歉，今天我得走了。<br>希望以后有机会再见……",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "如我所料，不是一次愉快的会面……<br>总之，先回<FONT color=#a82424>卡拉秋的草屋</FONT>吧。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#a82424>尤万西贝尔</FONT>虽然是个坏脾气的老头，可是他不会说谎。<br>如果新的使徒正在利用巴尔纳，就只能攻击巴尔纳，揪出他背后的黑手了。",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可是特拉玛依想净化巴尔纳……</FONT>",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我正在追踪巴尔纳和新的使徒。<br>所以，这个问题我来解决。妨碍我的人，我会毫不留情地消灭他。<br><FONT color=#7e12d2>(贝思柯德的眼神充满寒意)</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

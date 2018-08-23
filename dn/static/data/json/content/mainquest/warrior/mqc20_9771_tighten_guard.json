@@ -1,0 +1,231 @@
+{
+  "qkname": "需要警戒之时",
+  "data": [
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "你好，冒险家。一路上辛苦你了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>虽然有点累，不过现在不能休息啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "正如你所说，现在休息的话就危险了。我感受到了谜之大陆的不祥气息。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "啊，你好 <FONT color=#387206>{user_nick}</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "只有你才能平息这场混乱。请你一定要加油。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "目前避难准备正在正常进行。但是有件事很让我在意。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "在<FONT color=#a82424>查尔德玛蒙</FONT>的领地有可疑的行动。女巫抓住了卢比纳特大人，我还以为她暂时不会在意拉达梅斯这边了……",
+      "answer": "",
+      "image": "qn_child_mammon_shadow.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#a82424>查尔德玛蒙</FONT><FONT color=#662500>指的是身为格里高利的上司的那个查尔德？</FONT>",
+      "answer": "",
+      "image": "qn_child_mammon_shadow.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "是的。他比<FONT color=#a82424>特里亚</FONT>弱，但是出了名的贪婪和残忍。他急于在女巫面前表现自己。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "他在抓住卢比纳特大人的事情上也出了很多力，但看来他没能从女巫那里得到应有的认可。不然玛蒙不会一直朝拉达梅斯周围派侦察兵。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>有侦察兵啊。那难民不就危险了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "我担心的就是这个问题。虽然避难用的都是安全的秘密通道和密探的捷径……但为了以防万一，我们必须尽可能的保证难民的安全。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "ndnpc_Nophee_9771_qu_01.ogg}<br>……所以，虽然很抱歉<FONT color=#387206>{user_nick}</FONT>，但是我现在无法前往梅尔卡市国。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>？！你不是要和我一起去梅尔卡找</FONT><FONT color=#a82424>治愈之杯</FONT><FONT color=#662500>嘛！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "ndnpc_Nophee_9771_qu_02.ogg}<br>我虽然也想去…… 但是我现在必须留在拉达梅斯指挥避难。现在这么混乱，而且这次的避难规模又大，我不能一心两用。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那我和杰兰特先去梅尔卡。或者我自己去，不管怎样都要找到线索……</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_kid.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "你也知道，杰兰特大人最近不知道去哪儿了。而且<FONT color=#387206>{user_nick}</FONT>如果独自前去，贝勒尼卡大人肯定会盯着你的。",
+      "answer": "",
+      "image": "qn_npc_geraint_kid.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "贝勒尼卡大人绝不能知道治愈之杯的事情。不能透露一点风声。所以我找了一个帮助<FONT color=#387206>{user_nick}</FONT>的反女神派的人。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>帮我的人……?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "知道<FONT color=#a82424>治愈之杯</FONT>存在的人他可以代替。<br>\n<FONT color=#387206>{user_nick}</FONT>你做一些暗处的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>除了我们，还有别人知道治愈之杯……?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "我一开始也不相信。因为只有极少数人知道治愈之杯。但是他肯定不想危害反女神派，我觉得现在一起寻找线索是最好的。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "你去<FONT color=#086171>扭曲的区域</FONT><FONT color=#2b2723>的</FONT><FONT color=#a82424> </FONT><FONT color=#a82424>卡特德拉忏悔室</FONT><FONT color=#2b2723></FONT>就能见到他。<br>\n请你和他一起去梅尔卡市国寻找线索。",
+      "answer": "",
+      "image": "qw_119.png"
+    },
+    {
+      "npc": "阿尔克",
+      "question": "我正在等你，<FONT color=#387206>{user_nick}</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>诺尔佩说的人就是你吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "是的。我本来应该去拉达梅斯见 <FONT color=#387206>{user_nick}</FONT>……诺尔佩大人似乎很在意反对我的其他反女神派的实现。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "因此他没让我去拉达梅斯，只能让<FONT color=#387206>{user_nick}</FONT>来这里找我。抱歉。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没想到还有人知道治愈之杯。你也是从卢比纳特那里知道的吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "ndnpc_Ark_9771_qu_01.ogg}<br>你是说贤明的红龙？我没有见过他。<br>虽然我是通过其他人知道的治愈之杯……但现在不好告诉你。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "ndnpc_Ark_9771_qu_02.ogg}<br>不过只是现在难以说明，我并不是要永远隐瞒。到了适合的时候，我就会告诉你，所以请你不要怀疑我。现在重要的是找到<FONT color=#a82424>治愈之杯</FONT>的有关线索。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>女巫唤醒了卢比纳特身上暗影龙的连接，把他带走了。</FONT><br>\n<FONT color=#662500>也许治愈之杯能解除卢比纳特的堕落。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "<FONT color=#086171>“解除堕落”</FONT>……有点困难啊。我听说了关于治愈之杯的一个说法。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "ndnpc_Ark_9771_qu_03.ogg}<br><FONT color=#086171>“虽然使用那个杯子就能治愈女神，但同时世界可能就此毁灭”</FONT>。<br>当然，这可能只是传说……。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>世界毁灭……</FONT><br><FONT color=#662500>……但是现在我们也没有其他的方法，所以只能什么都试一试了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>请你帮我找到此杯。就算是不能使用的东西，我也想先找到再说。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "如果你真是这么想的……那我会跟随<FONT color=#387206>{user_nick}</FONT>比其他人更坚定的意志行动。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "那么，你有什么寻找线索的方法吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我想……先找到在梅尔卡的</FONT><FONT color=#a82424>卢比纳特的藏身处</FONT><FONT color=#662500>。</FONT>",
+      "answer": "",
+      "image": "qw_rubinat_hideout.png"
+    },
+    {
+      "npc": "阿尔克",
+      "question": "我们要先去<FONT color=#a82424>梅尔卡的心脏</FONT>啊。知道了。我会跟着你的。",
+      "answer": "",
+      "image": "qw_rubinat_hideout.png"
+    },
+    {
+      "npc": "阿尔克",
+      "question": "原来是这里啊。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(幸好藏身处还完好地保持着上次的样子。</FONT><br>\n<FONT color=#662500>似乎没有别人进来的痕迹)</FONT>",
+      "answer": ""
+    }
+  ]
+}

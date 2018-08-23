@@ -1,0 +1,174 @@
+{
+  "qkname": "命中注定的未来",
+  "data": [
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……为何要这样做……<br><FONT color=#7e12d2>（可从神圣天堂的高级魔法师斯泰拉处接受任务）</FONT>"
+    },
+    {
+      "npc": "XD-30",
+      "question": "……呜呜……这会儿……又后悔了，到底想怎样？<br>以为自己不是背叛者吗？<br><FONT color=#7e12d2>（可从神圣天堂的高级魔法师斯泰拉处接受任务）</FONT>"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "快说，到底怎么了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（说明事情原委）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "什么？！那是真的吗？",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "气死我啦。居然会神不知鬼不觉地侵入了市区，并且劫持了少女？就算是从未来穿越过来的，还真没想到竟会这般神出鬼没……那种军队是从哪里冒出来的啊？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（确实……居然谁都没发现军队的行动，这太可疑了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "要说攻占当前世界的话，他们的规模未免也太小了。为了劫持少女，也没必要有火烧市区吧。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "在这里再怎么思索也不会得到答案的……<br><FONT color=#7e12d2>（斯泰拉轻轻地叹了一口气）</FONT><br>你说那个叫百合花的女子去了<FONT color=#a82424>阿勒努特峡谷</FONT>那里？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "<FONT color=#a82424>阿勒努特峡谷</FONT>，那里好像有不少使用遗迹魔法的怪物。<br>而且最近我还听说，那里忽然出现了盗贼……<br>不过，以你的实力应该不会有问题的。你快去那里看看吧。",
+      "answer": "",
+      "image": "qw_74.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（利用遗迹的魔法，会是什么样的呢？）</FONT>",
+      "answer": "",
+      "image": "qw_74.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……为何……非得这样做……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>（一直在凝视着，似乎是在怨恨谁。感觉有些可怕。）</FONT>"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "哼，即便那些魔物会使用魔法，在我斯泰拉面前，它们的魔法也只是班门弄斧！<br>呵呵呵~你就去 <FONT color=#a82424>阿勒努特峡谷</FONT>，让它们见识一下作为我心腹的你的实力吧。<br><FONT color=#a82424>阿勒努特峡谷</FONT>也可通过<FONT color=#a82424>泰尔罗萨入口</FONT>前往。",
+      "answer": "",
+      "image": "qw_74.png"
+    },
+    {
+      "npc": "XD-30",
+      "question": "……哈哈哈，看……看……什么呢？<br>我对你……没……没什么可说的，<br>你不妨……和那个……背叛者聊一聊吧。<br><FONT color=#7e12d2>（请与学者柯梅里纳对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "XD-30，百合花在古代寺院到底想要做什么？<br>为何要劫持那个名叫黛西的少女呢！",
+      "answer": ""
+    },
+    {
+      "npc": "XD-30",
+      "question": "不会吧。叛徒居然什么都不知道……太可笑了。咳咳。 <br>咳咳咳……我就跟你说吧。黛西……可不是什么人类。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "不是人类……？",
+      "answer": ""
+    },
+    {
+      "npc": "XD-30",
+      "question": "你、我……所有的克隆体都是……宝玉的……碎片，这你该知道的吧……？其原型就是……黛西……",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "那是什么意思？",
+      "answer": ""
+    },
+    {
+      "npc": "XD-30",
+      "question": "咳咳……尽管我不想和背叛者……说这些……事情？反正……你是要死的人了。<br>勒紧脑袋好好想想吧……背叛者和……过去的英雄们。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>快告诉我！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "XD-30",
+      "question": "咳咳咳…… 无论你怎么挣扎，都不会有任何改变……！<br>XD-26，别以为只有你能摆脱自己的命运……哈哈哈……！啊……！<br>\n<FONT color=#7e12d2>（XD-30痛苦地惨叫着。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>（似乎停止了呼吸……一动不动。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>（柯梅里纳的声音有些颤抖）</FONT>经过这阿勒努特峡谷，就能看到<FONT color=#a82424>被占领的古代寺院</FONT>，百合花好像就在那里。现在过去应该还不算晚。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是这样啊……那我们快一起赶去……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "不……你先过去吧。我在这里待一会儿，然后再过去。<br><FONT color=#7e12d2>（呆呆地望着XD-30的尸体，似乎很难过的样子）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>柯梅里纳……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "请不要担心，我很快会跟过去的。啊，<FONT color=#387206>{user_nick}</FONT>，请先向斯泰拉报告这件事。最好让斯泰拉了解我们会去哪里……<br><FONT color=#7e12d2>（现在还是让柯梅里纳一个人待着比较好。先回到神圣天堂向高级魔法师斯泰拉报告吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "XD-30",
+      "question": "<FONT color=#7e12d2>（表情痛苦地死去了。不想继续看下去……回到神圣天堂向高级魔法师斯泰拉报告吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "快过来。怎么样了？打探到什么了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（述说在阿勒努特峡谷发生的事情）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

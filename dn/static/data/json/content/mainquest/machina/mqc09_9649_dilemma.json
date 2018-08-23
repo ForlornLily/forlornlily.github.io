@@ -1,0 +1,126 @@
+{
+  "qkname": "进退两难",
+  "data": [
+    {
+      "npc": "小龙",
+      "question": "嗯。",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "具体的情况……不，我们在<FONT color=#a82424>利物沃特码头</FONT>再说吧。",
+      "answer": "",
+      "image": "qw_liverwortferry.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "牧师克里斯说有话要和蓝塔娜说，让我先离开一下，所以我就离开了……但是蓝塔娜杀死了<FONT color=#a82424>克里斯</FONT>，然后逃走了。",
+      "answer": "",
+      "image": "qn_npc_chris.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？你们都是饭桶吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "高级牧师约翰把克里斯的尸体拿走了。唉，我也没料到。<br>克里斯非常诚恳地拜托我，所以……我怎么能拒绝呢？",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "还好我们弄清楚了放置实验笔记的<FONT color=#a82424>秘密实验室</FONT>的位置。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "真是糟糕。我没事，但是……<br><FONT color=#7e12d2>（先和小龙谈谈吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_shaolong.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "我们兽人团正在赶往秘密实验室。<br>还好<FONT color=#a82424>西戴尔</FONT>拼死守住了实验笔记。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "真是糟糕。我太大意了。因为我，<FONT color=#a82424>克里斯</FONT>……",
+      "answer": "",
+      "image": "qn_npc_chris.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这不是你的错。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "谢谢你又来安慰我。还好实验笔记没被抢走。<br>因为之前解读过的材料，这次应该不会花费太长时间。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "蓝塔娜逃走的时候，打伤了很多巴奥兽人团成员。<br>要想为他们进行治疗，好像需要<FONT color=#a82424>古老的蔓藤</FONT>。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "你到<FONT color=#a82424>陨石坠落地边界地区</FONT>去，帮我搜集一些<FONT color=#a82424>古老的蔓藤</FONT>。",
+      "answer": "",
+      "image": "qw_60.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "没错。这么多的话，应该足够了制作药物了。<br><FONT color=#7e12d2>（西戴尔收下古老的蔓藤，开始制作药物）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>有件事你最好也知道一下。巴奥兽人团已经知道了。<br>在你去搜集蔓藤的时候，实验笔记已经解读好了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这么快？看来你的水平大有进步嘛。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "哈哈哈，你是在称赞我吗？<br>根据解读的内容，在陨石中有一种名叫中心碎片的东西。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "和其他陨石碎片会吸收生命之力不同，陨石中心碎片可以起到相反的作用。<br>使用中心碎片的力量，应该可以想办法治好你的病。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个东西在哪里？我马上去找！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "等……等等，<FONT color=#387206>{user_nick}。</FONT>其他的倒没什么，据说中心碎片周围是受到陨石污染最严重的地区。<br>笔记中说，去搜集陨石中心碎片的人必然会死掉。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "因此现在就连巴奥兽人团也束手无策。",
+      "answer": ""
+    }
+  ]
+}

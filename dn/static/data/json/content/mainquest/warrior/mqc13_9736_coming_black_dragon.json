@@ -1,0 +1,166 @@
+{
+  "qkname": "黑龙再临",
+  "data": [
+    {
+      "npc": "国王卡西乌斯",
+      "question": "你来了，<FONT color=#387206>{user_nick}</FONT>。我正念叨着你呢。<br><FONT color=#7e12d2>（卡西乌斯的表情很阴郁）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "虽然很突然，<FONT color=#387206>{user_nick}</FONT>，人类的国王，卡西乌斯说要见你。",
+      "answer": "",
+      "image": "qn_npc_king_casius.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是！</FONT>",
+      "answer": "",
+      "image": "qn_npc_king_casius.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "他说有新的问题产生了。<br><FONT color=#7e12d2>（去神圣天堂吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_king_casius.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "不瞒你说，近来我总是不断地做噩梦，那梦里的情景仿佛现实一样真切。<br>如果叔父知道这件事……一定会认为是我太软弱。",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "那是有关上次<FONT color=#a82424>神圣天堂遭到攻击当日</FONT>的梦。<br><FONT color=#7e12d2>（卡西乌斯深深叹了口气）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（这么看来，在我去阿努阿兰德的期间，佩达已经攻进了神圣天堂。他只是进行了一些破坏就撤退了，真不知道他的目的究竟是什么。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "龙之追随者突然进攻，整个神圣天堂成为火海的那天……<br>带领他们来的<FONT color=#a82424>那个奇怪的男人</FONT>究竟是谁呢？龙之追随者的头目？魔物的主人？<br>将军也是，叔父大人也是，都不肯明明白白地告诉我……",
+      "answer": "",
+      "image": "qn_npc_npc_pether.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "我的心里一直很不安，只要一入睡，梦中就会浮现那天的情景。<br>不知为什么，那感觉<FONT color=#a82424>非常真实</FONT>，所以我很害怕那或许真的会<FONT color=#a82424>变作现实重现</FONT>。<br>这是因为我太软弱吗？抑或是有其他原因？",
+      "answer": "",
+      "image": "qn_npc_npc_pether.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "我甚至不敢去猜测这谜题的答案。<br>我曾咨询过教皇，他说一切都是女神的安排，让我对神圣天堂和平的现状心怀感激，并把心思放在城市的重建上。",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "可无论如何我还是很不放心。<br>如果<FONT color=#a82424>那个男人</FONT>再次回来怎么办？",
+      "answer": "",
+      "image": "qn_npc_npc_pether.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "我不知道该如何战胜那个男人，也不知道是不是能够战胜他……<br><FONT color=#7e12d2>（卡西乌斯低下头）</FONT><br>亲爱的<FONT color=#387206>{user_nick}</FONT>，你去见见黑暗女神官，问问她的意见怎么样？",
+      "answer": "",
+      "image": "qn_darklair_castia.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>黑暗女神官？</FONT>",
+      "answer": "",
+      "image": "qn_darklair_castia.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "是的，黑暗女神官……<br>我听说，她们守卫着时空庭院，对女神的噩梦反应敏感，所以知道的事情也就更多。",
+      "answer": "",
+      "image": "qn_darklair_castia.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "那个梦太可怕了，我还不想说出来。<br>\n<FONT color=#7e12d2>*达到70级以后才可继续进行任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官罗杰塔",
+      "question": "\n噩梦，巨大的黑暗噩梦正笼罩着神圣天堂。",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "听说时空庭院中出现的黑暗女神官正在神圣天堂。<br>黑暗女神官应该能理解我的不安吧。<br><FONT color=#7e12d2>（去找黑暗女神官罗杰塔吧）</FONT>",
+      "answer": "",
+      "image": "qn_darklair_castia.png"
+    },
+    {
+      "npc": "黑暗女神官罗杰塔",
+      "question": "攻击神圣天堂的是红色军队的首领。<br>现在，他连黑龙的宝玉也拿到了手，以<FONT color=#a82424>黑龙</FONT>的样子出现了。",
+      "answer": "",
+      "image": "qn_npc_npc_pether.png"
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "据说在他的手下，活跃着<FONT color=#a82424>七个使徒</FONT>。<br>其中一人利用龙之追随者攻陷了神圣天堂的城门，并烧毁了村庄。<br>那悲痛的哀号声传到了时空庭院，连<FONT color=#a82424>女神的噩梦</FONT>也变得更加深邃了。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "那时，红色军队的首领将神圣天堂和众人的心智一起摧毁了。<br>极度的恐惧就像毒药一样。<br>他们洒下的恐惧之种，现在还埋藏在神圣天堂。",
+      "answer": "",
+      "image": "qn_npc_npc_pether.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>恐惧之种？</FONT>",
+      "answer": "",
+      "image": "qn_npc_npc_pether.png"
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "是的，恐惧……噩梦是女神的黑暗面，侵蚀了这世界的大半。<br>阿尔泰亚 女神的梦正在渐渐变为更可怕的噩梦。<br>所以，现在的噩梦可能会比任何时候都容易变为现实。如果有<FONT color=#a82424>解读梦之人</FONT>的力量，就更加容易了。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "如今的先知未把力量用在正道上。<br>不管是否是出于自愿，她非但没有解读梦境，反而还正在将那梦境<FONT color=#a82424>逆转</FONT>。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "黑暗女神官罗杰塔",
+      "question": "女神的噩梦正在逆转，侵蚀现实。<br>并且，在梦的中心是谁都难以抵抗的强大存在，那就是龙。<br>龙吸收了恐惧的养料，可能就会生成巢穴。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（龙之巢穴？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "……你是否愿意进入那噩梦中，亲眼确认一下当日的记忆？<br>你有没有信心面对那场噩梦，以及<FONT color=#a82424>巨龙</FONT>的力量？",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官罗杰塔",
+      "question": "如果你是真正的勇士，就请去黑龙巢穴，阻止笼罩神圣天堂的噩梦。<br>不能让可怕的梦将现实完全侵蚀。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（黑龙……自称红色军队之王的男人，拿走了黑龙的宝玉。<br>在亲眼目睹了那天袭击神圣天堂的情景之后，我还能打倒黑龙吗？）</FONT>",
+      "answer": "",
+      "image": "qn_npc_npc_pether.png"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "qkname": "奇怪的精灵",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "啊，姐姐。你见到先知了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（把</FONT><FONT color=#662500>先知和贝思柯德的</FONT><FONT color=#662500>事情告诉埃提亚）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "嗯……贝思柯德坚持认为先知是<FONT color=#a82424>假冒</FONT>的啊……",
+      "answer": "",
+      "image": "qn_rose.dd"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>先知说自己只是平凡的少女，她因为自己的力量也很痛苦……贝思柯德说实话讲话总是很难听……<br>贝思柯德的话可以相信吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "我认为，就算先知是假冒的说法是骗人的，去<FONT color=#a82424>异变栖息地</FONT>看看也没什么关系。<br>先知是假的，所以那个少女说的话也是假的……他这样说也有可能是为了牵制你们，不让你们追他或觊觎杰兰特的剑。 ",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "但是，他说要介绍认识<FONT color=#a82424>巴尔纳</FONT>的人给你， 就算他有什么意图，应该也只是想解决巴尔纳的问题，让你们不要再追他而已。<br>所以，没必要怀疑他，姐姐还是过去看看吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>噢噢……是、是吗？<br>（脑袋晕忽忽的听不太懂，但埃提亚的话好像很有道理）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9535_qu_01.ogg}<br>而且，从姐姐迄今为止的讲述来看，<FONT color=#a82424>贝思柯德</FONT>就算不是好人，也不像会说谎骗人的人。<br>就算和使徒有关，他也是被利用的，但他却不愿意美化自己、替自己辩解，反而遭到别人的误解。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是吗？</FONT><FONT color=#662500> 柯梅里纳追随</FONT><FONT color=#662500>贝思柯德，果然是有原因的吗？！</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "虽然他经常对姐姐说很过分的话，这一点非常讨厌，可是你问他的话，他也会好好回答，还帮了你，不是吗？<br>所以，姐姐最好还是去<FONT color=#a82424>异变栖息地</FONT>，见见贝思柯德说的那个人。",
+      "answer": "",
+      "image": "qw_59.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "啊，对了，不要忘了把<FONT color=#a82424>药草</FONT>交给先知啊，姐姐！",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你这个垃圾，到底还是来了。",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "可爱的小姐，你找我有何贵干？",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "尤万西贝尔，我没兴趣跟你聊天，就问你几个问题。<br><FONT color=#a82424>巴尔纳</FONT>成了新的使徒吗？",
+      "answer": "",
+      "image": "qn_npc_death_knight.png"
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "贝思柯德，你什么时候变成可爱的小姐了？<br>我是在跟这里这位小姐说话啊？<br><FONT color=#7e12d2>（尤万西贝尔装作很困扰的样子耸了耸肩膀）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……看来你是活得不耐烦了啊。<br><FONT color=#7e12d2>（贝思柯德静静地把手放到剑柄上）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "嗯……详细情况不能告诉你。不过他不是新的<FONT color=#a82424>竞技场的骑士</FONT>。<br><FONT color=#7e12d2>（尤万西贝尔微微一笑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "这么说，他只是被利用了。<br>那么，利用<FONT color=#a82424>巴尔纳</FONT>的人是新的竞技场的骑士吗？",
+      "answer": "",
+      "image": "qn_npc_death_knight.png"
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "这个嘛，关于这个部分，我不能说。嘿嘿……<br>但是，关于新的竞技场的骑士的目的，就算我不说，贝思柯德你也很清楚吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哎呀，真是的！究竟巴尔纳和竞技场的骑士有什么关系啊？<br>巴尔纳究竟是为什么变成了僵尸到处走呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "可爱的小姐……<br>对于对巴尔纳的造成影响的因素……我不能告诉你。呵呵呵……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>为什么呢？为什么你不能告诉我？ </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "因为，虽然其中也有我个人的原因……但所有因素都和你非常近。<br>有时候，无知是福啊，呵呵……",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "<FONT color=#7e12d2>（尤万西贝尔无声地笑了）</FONT><br>好吧……我这么说，你能满意吗？<br>想犯罪的人和被自己的罪束缚的人……",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "想犯罪的人总是认为自己是对的，无法正确区分真实……<br>真正的罪人最不了解的就是自己……<br>但是，被自己的罪束缚的人也被负罪感蒙蔽了双眼，看不到真相……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>完全听不懂你在说什么！<br>真是和</FONT><FONT color=#662500> 卡拉翰</FONT><FONT color=#662500> </FONT><FONT color=#662500>一样奇怪的人……啊不，精灵啊！</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "</FONT><FONT color=#7e12d2>（听到自己和卡拉翰同级的话，尤万西贝尔的脸稍微扭曲了）</FONT><FONT color=#a82424><br></FONT><FONT color=#2b2723>……虽然你长得很可爱，但完全不是我喜欢的类型。<br>果然我还是更喜欢聪明冷艳的她啊……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "很可惜，现在我要离开了。<br>期待我们下次相见<br><FONT color=#7e12d2>（尤万西贝尔从</FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#7e12d2>身上收回视线，望着贝思柯德）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "贝思柯德，我有最后一句话想告诉你。<br><FONT color=#a82424>陛下</FONT>再也不需要<FONT color=#a82424>古代人的力量</FONT>了。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……<br><FONT color=#7e12d2>（贝思柯德变了脸色）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "那么，希望你保重……",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "………………",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "果然如我所料，这不是一次愉快的会面……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哼！这算什么啊！<br>听到的全是些奇怪的话，根本没有一点帮助！<br>完全是浪费时间！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……真不知道像你这么蠢的家伙是怎么活到现在的。<br>自己听不明白就算了，还不知道自己听不懂这个事实。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#a82424>巴尔纳</FONT>和<FONT color=#a82424>新的使徒</FONT>正在追我。<br>所以，这个问题我来解决。你现在不要插手了。<br><FONT color=#7e12d2>（贝思柯德的眼神充满寒意）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>（贝思柯德看起来没有话要说了。现在最好去找萝丝吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "<FONT color=#a82424>你带来古老的蔓藤</FONT>了吗？<br>非常感谢。 等做好这个<FONT color=#a82424>人偶</FONT>，我要把它跟古老的蔓藤一起送到普雷利镇去。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>人偶？<br>……哇~真是可爱的人偶。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "这是给莉莉的礼物。<br>因为我不在，妹妹估计会很辛苦。<br><FONT color=#7e12d2>（萝丝的眼里泛起了泪花）</FONT>",
+      "answer": "",
+      "image": "qn_lily.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "虽然我很想立刻回到普雷利镇去……可是受了特拉玛依的恩惠，我得知恩图报。而且还有很多人需要我的力量。<br>直到我的力量渐渐消失，成为一无是处的人为止……",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（她这么善良……可贝思柯德竟然说她是</FONT><FONT color=#a82424>假先知</FONT><FONT color=#662500>，他肯定是有什么地方搞错了！）</FONT>",
+      "answer": ""
+    }
+  ]
+}

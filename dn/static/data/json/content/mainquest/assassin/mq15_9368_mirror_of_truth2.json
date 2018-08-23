@@ -1,0 +1,74 @@
+{
+  "qkname": "真实之镜 2",
+  "data": [
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "真慢，慢死了！<br>现在才把<FONT color=#a82424>陨石碎片</FONT>拿来？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "异界面具的主要材料陨石碎片找到了。接下去要找的材料是<FONT color=#a82424>突变之眼</FONT>。<br><FONT color=#7e12d2>(博士一边翻着书，一边说道)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "最近看你好像很忙。<br>为了能帮上忙，我正在努力学习。",
+      "answer": ""
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "突变之眼可以在<FONT color=#a82424>异变栖息地</FONT>搜集到。<br>只要消灭栖息在那里的突变怪物，应该就能得到，咯咯～",
+      "answer": "",
+      "image": "qw_59.png"
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "啊！呃……这是什么味道？！<br>能拿开一点吗？！我是敏感的书！",
+      "answer": ""
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "呃呃……要是那种难闻的味道渗透进了书架，那可怎么办？<br>还不如用塔玛拉的料理洗澡呢！<br><FONT color=#7e12d2>(博士在那里打着冷战)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "让我看看……<br><FONT color=#7e12d2>(博士远远地看着{user_nick}的手)</FONT><br>哼，连突变之眼也找到啦。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "好的，你把这些东西交给西戴尔吧。<br><FONT color=#7e12d2>(博士好像怕碰到，连忙关上了书柜)</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "呃……感觉让人冷汗直冒……你带什么可怕的东西来了？<br>……你手上的是什么东西？",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "老师生前的研究非常广泛。没想到还有真实之镜这样的东西。<br>我也不知道。以防万一，我得把内容收起来才行。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#7e12d2>(西戴尔打开了啰嗦鬼查克博士，把书页插了进去)</FONT><br>……内容我知道了，但是不知道有没有用。<br>嗯，能先把材料给我看看吗？",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "\n<FONT color=#7e12d2>(西戴尔仔细查看材料)</FONT>",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "qkname": "梅尔卡的渔夫",
+  "data": [
+    {
+      "npc": "诺尔佩",
+      "question": "那就到梅尔卡港口去找船长，看能否找到前往卡伊伦岛的其他航线。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>船长大人，看在这段时间的情分上，能不能把船借给我们啊？我们会完好无损地把它还回来的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "船长赫克托",
+      "question": "很抱歉，最初也是因为贝勒尼卡大人下了指示所以才把船借给你们的。<br>作为负责贸易的港口管理人暨梅尔卡的船长，我不能无视贝勒尼卡的指示去帮助你们。",
+      "answer": ""
+    },
+    {
+      "npc": "船长赫克托",
+      "question": "……不过住在梅尔卡的人并不全都是贝勒尼卡的心腹。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>有其他能够借到船的方法吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "船长赫克托",
+      "question": "梅尔卡港口并非只有商业用船。<br>从事捕鱼业的梅尔卡市民也会从港口进出。",
+      "answer": ""
+    },
+    {
+      "npc": "船长赫克托",
+      "question": "那都是些有上顿没下顿的下层市民，付给他们一定数量的钱没准有人乐意借给你们船。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>谢谢你，船长大人！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "你想前往梅尔卡港口吗？",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "梅尔卡港口最好你独自一人前往。 ",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "好的。准备好后请再来和我对话。",
+      "answer": ""
+    },
+    {
+      "npc": "船长赫克托",
+      "question": "这跟贝勒尼卡大人的指示毫无关系，完全是因为我对你这个人挺满意所以才告诉你这个情报。算不上违背贝勒尼卡的命令。<br>跟<FONT color=#a82424>港口的渔夫</FONT>好好谈谈，让他把船借给你吧。",
+      "answer": ""
+    },
+    {
+      "npc": "梅尔卡的渔夫",
+      "question": "<FONT color=#7e12d2>（正在整理渔网的渔夫用疑问的目光上下扫视了一番问道。）</FONT><br>你有什么事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>请问后面那个小船是你的吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "梅尔卡的渔夫",
+      "question": "是啊……不过你看上去不像梅尔卡的人……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个，我想问问你愿不愿意把船借给我。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "梅尔卡的渔夫",
+      "question": "船？你想用船干嘛？<br>这只是个连前海都到不了的摩托船而已。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>有这个就足够了。开多少钱您说了算。<br>我们想找能前往卡伊伦岛的船。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "梅尔卡的渔夫",
+      "question": "卡伊伦岛？<br>看样子你并非对那里一无所知……",
+      "answer": ""
+    },
+    {
+      "npc": "梅尔卡的渔夫",
+      "question": "好吧，只要把船借给你，价格我随便开是吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（说出一个合适的价格。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "梅尔卡的渔夫",
+      "question": "还不错。好吧。不过这船可以说是我的全部财产，我不能直接借给你。<br>如果你想去卡伊伦岛的话，我可以收点钱把你送过去。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（应该没什么大问题。）<br>好。那就这么办吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "梅尔卡的渔夫",
+      "question": "随便用。不过得完好无损地还给我。<br>\n<FONT color=#7e12d2>（前往废弃码头）</FONT>",
+      "answer": "",
+      "image": "qw_126.png"
+    },
+    {
+      "npc": "莉卡",
+      "question": "比想象中要久啊？你不在的这段时间里我带着他们俩简直头疼死了。<br><FONT color=#7e12d2>（莉卡满面愁容。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我怎么了？我一直都安安静静地跟着你啊。",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "居然装作很讨厌我的样子……真可爱。吼吼……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哈哈……对不起。原本支援我们的梅尔卡首长突然中断了一切支援，所以为了找船浪费了点时间。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "梅尔卡首长中断支援？为什么？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>现在梅尔卡受到帝国的严密监视……估计很难再支援反女神派了。<br>最重要的是贝勒尼卡对我们把状态不好的格雷尔带到卡伊伦岛，以及接受不甚了解的莉卡的帮助进行调查等反女神派的行为感到十分不满。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "嗯……他这人这么固执啊？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可以这么说……或者说他是个为了梅尔卡能够铲除所有危险要素的、工于心计的人。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "为了梅尔卡……活得可真够累的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>因为那就是贝勒尼卡的一切。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "<FONT color=#7e12d2>（莉卡突然用真挚的眼神打量四周。） </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎么了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "没什么。我们得先去找到遗物，快走吧。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "那个女人要找的遗物就在这个码头附近吗？",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "那个叫莉卡的女人。虽然感觉很瞧不起我们，但她看上去难道不像对我有意思吗？",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "呃……看来码头这边没有。<br><FONT color=#7e12d2>（莉卡依旧疑神疑鬼地打量四周。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你不是知道遗物在哪吗？",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "为了以防万一我再仔细确认一遍。顺便打听一下<FONT color=#387206>{user_nick}</FONT>带着的包究竟是什么……<br><FONT color=#7e12d2>（说话声渐渐放低，听不清后面的内容。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？我一直带着的什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "对了你最好去一趟梅尔卡。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>去梅尔卡做什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "别废话，让你去就去。顺便问问诺尔佩格雷尔或贝勒尼卡的情况，不是很好嘛。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>难道非要为了打听这个特意跑一趟梅尔卡……（莉卡用凶恶的眼神看着我。）<br>我知道了。这就去。我去还不行吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "嗯，我们在<FONT color=#a82424>卡伊伦海岸</FONT>那边等你。",
+      "answer": "",
+      "image": "qw_125.png"
+    },
+    {
+      "npc": "莉卡",
+      "question": "到梅尔卡向<FONT color=#a82424>诺尔佩</FONT>询问一下贝勒尼卡和格雷尔的情况。",
+      "answer": "",
+      "image": "qn_nophee.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "看来你找到前往卡伊伦岛的船了，真是太好了。<br>莉卡和卡伊伦岛调查进行得顺利吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃也就那样吧……不过话说回来格雷尔的状态怎么样？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "好多了。下一次调查应该可以和格雷尔一起进行。",
+      "answer": ""
+    }
+  ]
+}

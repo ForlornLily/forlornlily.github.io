@@ -1,0 +1,253 @@
+{
+  "qkname": "老师的遗物",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "姐姐！你的衣服怎么了？摔倒了吗？有没有受伤？<br><FONT color=#7e12d2>（埃提亚但心地想要看看我的胳膊和腿）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>只是沾了点泥土而已。你不用那么担心，埃提亚。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "见到凯伊哥哥了吗？也说了<FONT color=#a82424>黑骑士</FONT>的事？",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "<FONT color=#7e12d2>（听了我说的话，埃提亚陷入了短暂的沉思）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "凯伊哥哥也会去追踪黑骑士的吧？我们就先这么认为吧。<br>还有，那个银发女剑客……<FONT color=#a82424>阿尔杰塔</FONT>是什么人呢？你打听过了吗？",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，没有……（这么看来应该问问她的）<br>不过！她正在追踪黑骑士，而且听说了少女的事之后还很担心，所以应该是个好人，对吧？</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ionBreak}<br>呃~她的话怎么能相信？<br>而且她还称呼姐姐为人类，莫非她是精灵？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>看上去和人没什么不同啊……耳朵是尖的吗？<br>当时没顾得上仔细看。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "嗯，本该亲自去看看的，现在能了解的实在是太少了。<br>看来得先找到<FONT color=#a82424>顺从吊坠</FONT>才能继续追踪黑骑士了，所以就按照那个女人说的做吧。<br>不过顺从吊坠是什么呢？你听说过吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这个嘛？应该是项链吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "嗯，应该是项链。我好像在某本书里看到过，可是又记不太清是哪本了！<br>嗯……是这本吗？或者是这本？？<br><FONT color=#7e12d2>（埃提亚在不知什么时候堆到椅子旁的书堆里翻找着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "啊！在这里。<FONT color=#7e12d2>（埃提亚一边快速地翻阅着手中的书籍一边说道）</FONT><br>这里还写着很多有关古代人的内容……这里说<FONT color=#a82424>顺从吊坠</FONT>是可以接近古代人遗物的钥匙之一。由于关于<FONT color=#a82424>古代人的遗物</FONT>的事基本上都不为人所知，所以上面说顺从吊坠也是极其重要之物。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>古代人的遗物？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "<FONT color=#a82424>古代人的遗物</FONT>是……啊！这里是曾经侍奉女神的古代人所留下的遗迹。<br>书上说古代人在女神的恩宠下，对纹章和宝玉拥有着极其丰富的知识。然而不知什么原因，他们留下遗物和遗迹后，便在这个世上销声匿迹了。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "可是，这本书上好像没有写到<FONT color=#a82424>顺从吊坠</FONT>在什么地方。怎么办？<br><FONT color=#7e12d2>（埃提亚正在前后翻阅着书籍，突然间惊叫一声）</FONT>呃！莫非！？",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "写这本书的人，就是那个叫做威廉的人应该是一位<FONT color=#a82424>牧师</FONT>。书的前面写着<br>\n<FONT color=#2b2723>“</FONT><FONT color=#086171>我希望能够更加接近自己侍奉的女神，同时也为了所有研究古代人文明的牧师兄弟</FONT>”<br>\n。",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "你好！今天的天气真不错。<br><FONT color=#7e12d2>（高级牧师杰梅因高兴地和我打着招呼）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "虽然不知道这个名为<FONT color=#a82424>威廉</FONT>的人是不是很有名，不过如果询问一下这个村庄里的<FONT color=#a82424>高级牧师</FONT>，说不定会告诉我们可以找到他的方法？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>原来如此！还是埃提亚你聪明。<br>知道了，我这就去找凯德拉关卡的高级牧师问问看。你在这儿等我一会哦！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "你好，小姑娘！<br>你找我有什么事吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>您知道牧师威廉吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "那是……我的老师，不过你为什么要找我的老师，能告诉我吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真的吗！我真是太走运啦！诶嘿嘿。我，有事需要见见威廉先生。因为我得问问他有关顺从吊坠下落的事！<br>威廉先生现在在哪呢？</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "老师他……很久以前，他在<FONT color=#a82424>死亡森林</FONT>，参加了一场与怪物们的抗战， 就在那场战斗中，他追随女神的召唤，英勇殉教了。",
+      "answer": "",
+      "image": "qw_17.png"
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "当时，由于怪物们施放的剧毒气息，导致大地荒芜，人类无法靠近，结果连老师的尸身也没能找寻回来。有几个人说他的尸身中了毒，变成了凶恶的食尸鬼……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>天啊，怎么会这样……真是太悲哀了。<br>都怪我提到了你的伤心事……对不起。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "那已经是很久以前的事了，我现在好多了。只是没能将<FONT color=#a82424>老师的遗骸</FONT>找回来，是我自那时起一直耿耿于怀的事。<br>你所寻找的顺从吊坠，当时就被我老师带在身上。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那么，我亲自去一趟死亡森林找找看。</FONT>",
+      "answer": "",
+      "image": "qw_17.png"
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "真的吗？如果可以的话，你能帮我把老师的遗骸带回来吗？",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "高级牧师杰梅因脸上的表情透露着无尽的悲伤。<br><br><FONT color=#7e12d2>※只有达到12级以上，才可继续进行。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "老师的遗物顺从吊坠应该就在<FONT color=#a82424>死亡森林</FONT>的某个地方。",
+      "answer": "",
+      "image": "qw_17.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "必须尽快找到<FONT color=#a82424>顺从吊坠</FONT>才行……黑骑士打算在古代的遗迹做什么呢？<br><FONT color=#7e12d2>（埃提亚陷入了疑问）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "<FONT color=#a82424>顺从吊坠</FONT>……既然是那么重要的遗物，那么它被保管在哪里一定会留下记录的。<br><FONT color=#7e12d2>（埃提亚忙碌地翻阅着书籍。先去见见高级牧师杰梅因吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "找到<FONT color=#a82424>顺从吊坠</FONT>了吗？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>找到了。不过，顺从吊坠是挂在一个食尸鬼的脖子上的。<br>我先把它带回来了，可是我却没找到你老师的遗骸。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "什么……？你说什么？<br><FONT color=#a82424>食尸鬼波尔德尼斯</FONT>的脖子上挂着<FONT color=#a82424>顺从吊坠</FONT>？<br>那样的亡灵怎么可能戴着顺从吊坠！怎么回事……？",
+      "answer": "",
+      "image": "qm_ghoulblue.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>有什么问题吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "顺从吊坠是和女神有关的古代人的遗物。<br>那样的神圣之物是绝对不会被亡灵佩戴在身上的。<br><FONT color=#7e12d2>（高级牧师杰梅因的表情十分凝重）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可是我说的千真万确呀。那个食尸鬼当时还试图保住顺从吊坠不被我抢走呢。</FONT>",
+      "answer": "",
+      "image": "qm_ghoulblue.png"
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "啊啊……怎么会……<br><FONT color=#7e12d2>（杰梅因哽咽了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "呜呜呜……怎么可能成了徘徊在这世上的亡灵。老师……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？？你是说那个蓝色的食尸鬼就是威廉先生？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "否则的话，食尸鬼之辈怎么可能将神圣的<FONT color=#a82424>顺从吊坠</FONT>戴在脖子上……<br>一定是由于老师生前的信仰根深蒂固，所以即便成为了亡灵，也没有产生对神圣之物的抗拒。",
+      "answer": "",
+      "image": "qm_ghoulblue.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>原来如此……对不起。我连这都不知道……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "没关系，威廉老师现在一定已经得到了安息，并侍奉在女神左右了。<br>威廉老师，请走好……",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "现在，更重要的是一定要找出害死老师的元凶。虽然，有时也会出现由于对世上存有怨恨或者留恋的人死后徘徊在这世上的亡灵，但在侍奉女神的圣职者中，从未有过这种事情发生。",
+      "answer": ""
+    }
+  ]
+}

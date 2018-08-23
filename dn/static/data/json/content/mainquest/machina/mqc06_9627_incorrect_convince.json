@@ -1,0 +1,201 @@
+{
+  "qkname": "错误的说服",
+  "data": [
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#387206>{user_nick}</FONT> 你干嘛这么火急火燎的？<br>难道……察提出什么事了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你知道卡拉翰在哪吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "卡拉翰？你找卡拉翰做什么？看来<FONT color=#a82424>察提</FONT>确实有事！",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>察提的爷爷去世了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "什么……？！<br><FONT color=#7e12d2>（西戴尔手上拿着的书掉落在地）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好像是龙之追随者为了获得情报，对族长进行了严刑拷打。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "啊…… 察提该有多伤心啊…….<br>察提现在在哪？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我会告诉你的，不过你能告诉我在哪见过卡拉翰吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我好像在码头附近见过他。但现在可能已经不在那儿了，因为他老是动不动就消失。<FONT color=#387206>{user_nick}</FONT>，你和察提怎么都那么相信那个人？",
+      "answer": "",
+      "image": "qw_liverwortferry.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>因为他值得相信。察提现在在利物沃特村庄废墟。</FONT>",
+      "answer": "",
+      "image": "qw_51.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "嘘-我正在安慰伤心的少女。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "少女的脸上满是悲伤。<br><FONT color=#7e12d2>（请先和西戴尔对话吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "谢谢你告诉我！我这就去找<FONT color=#a82424>察提</FONT>。<br><FONT color=#7e12d2>（卡拉翰现在不在利物沃特码头。先回一趟村庄吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "少女的脸上满是悲伤。<br>只要能听到我的声音，也将会是很大的安慰。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（转告察提爷爷的事）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "哎呀，我这么疼爱的少女居然会遇到如此悲伤的事。她一定在等着我安慰她呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>而且察提的爷爷好像知道龙之宝玉的位置。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "所以龙之追随者才会打察提爷爷的主意。只有得到那龙之宝玉，才能完成你的药……如果不及早行动，恐怕要落在别人的手上了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡拉秋该不会利用西戴尔？！？<br>不行！卡拉翰你一定要想办法说服察提！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "我这就前往<FONT color=#a82424>龙之追随者据点</FONT>去安慰少女。",
+      "answer": "",
+      "image": "qw_54.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "嘘-我正在安慰伤心的少女。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "察提，你不能就这么一直哭下去。<br>你应该继承祖父的遗志，守护好圣地，不是吗？",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "<FONT color=#7e12d2>（察提满脸泪水地点了点头）</FONT><br>好，现在……我就是新的族长。就像爷爷嘱咐我的那样……我要守护好圣地。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "基于这个原因，你是不是应该去看一看你们部族的圣地是否还安然无恙啊？要是龙之追随者那肮脏的势力蔓延到了那里，可是会非常让人担心的。<br><FONT color=#7e12d2>（卡拉翰用温和的嗓音说道）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "<FONT color=#7e12d2>（察提稍作迟疑后开口说道）</FONT><br>好。我去那里看看。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "你决定得不错，察提。<br>\n这一次说不定龙之追随者也会突然袭击，你还是和我一起去吧。",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "<FONT color=#7e12d2>（察提有些犹豫）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>龙之追随者是不会这么轻易放弃的。你一个人去很危险，察提。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "那我就和卡拉翰一起去。<FONT color=#387206>{user_nick}</FONT>，你见到<FONT color=#a82424>西戴尔</FONT>了吗？",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊…… 见是见到了…….</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，察提不在利物沃特村庄废墟。<br>察提该不会出什么事了吧…….",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>其实我是担心你从中阻碍……（把事情一五一十地告诉西戴尔）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "你说什么……？！<br>这么重要的事，你竟然会对我撒谎？<br>卡拉翰，那个人明明有别的预谋！",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "不行。<br>我……得去看看察提。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可是，你并不知道察提去哪儿了呀？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "\n看样子可怜的少女有话想对她的朋友说。",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "我有件东西想给西戴尔。我去看一下部族的圣地之后想见见西戴尔。<br><FONT color=#387206>{user_nick}</FONT>，你可以替我转告西戴尔说我想见他吗？虽然他现在应该很生气。",
+      "answer": ""
+    }
+  ]
+}

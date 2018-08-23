@@ -1,0 +1,93 @@
+{
+  "qkname": "逐渐显现出来的道路 ",
+  "data": [
+    {
+      "npc": "西戴尔",
+      "question": "材料都搜集到了？<br>\n制作它不需要太长时间，你稍等一下。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "\n<FONT color=#7e12d2>(西戴尔念起咒语，陨石碎片和突变之眼结合起来了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "嗯……做得还不错。<br>好了，给你。<br><FONT color=#7e12d2>(西戴尔递过完成的异界假面)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你还没找到<FONT color=#a82424>真实之镜</FONT>吗？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "？？？",
+      "question": "<FONT color=#7e12d2>(没什么特别的)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "好了，你去<FONT color=#a82424>被蚕食的神殿废墟</FONT>看看吧。<br>祝你有好收获。",
+      "answer": "",
+      "image": "qw_62.png"
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>(好像有什么东西，戴上异界假面吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>(摆着真实之镜)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>(获得真实之镜)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你来了，<br>关于<FONT color=#a82424>真实之镜</FONT>的事情怎么样了？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "\n<FONT color=#7e12d2>(把真实之镜给特拉玛依看)</FONT><br>你找到<FONT color=#a82424>真实之镜</FONT>了……？！<br>……？<br>可是，镜子在哪里啊？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>啊……得戴上这个假面才能看得见。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#7e12d2>(特拉玛依戴上异界假面)<br></FONT>果然……是鬼斧神工。<br>现在救援巴尔纳的准备都做好了，你跟先知一起出发吧。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "异界假面帮你找到了真实之镜，太好了。<br><FONT color=#a82424>泰兰斯·特拉玛依</FONT>正在等你，赶快回神圣天堂吧。",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>(获得了真实之镜。返回神圣天堂向特拉玛依报告)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    }
+  ]
+}

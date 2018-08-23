@@ -1,0 +1,121 @@
+{
+  "qkname": "下定决心",
+  "data": [
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你说<FONT color=#a82424>卡拉翰</FONT>和<FONT color=#a82424>察提</FONT>去了部族的圣地？<br>\n那个小丫头终于要闯祸了啊！<br>\n※ <FONT color=#7e12d2>需要在学徒站台那里接受任务才能继续进行。</FONT>",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "或许，你通讯器的消失也跟那个调查员有关。<br>不知道那个人有什么诡计，看来我得更深入地进行调查。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，那调查的事情就拜托你了。我现在有个地方要去。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>（与百合花的通讯终止。移动到古代武器库的东边，追上去寻找圣所的西戴尔吧）</FONT>",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>Mission Object.</FONT><br>▷ <FONT color=#7e12d2>请移动到古代武器库的东边。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "察提……我应该尽全力阻止的！<br>呃啊啊~！！<br><FONT color=#7e12d2>（西戴尔哭喊着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "察提……察提变成了怪物……<br>我应该尽全力阻止的……！<br>呃啊啊~！！<br><FONT color=#7e12d2>（西戴尔哭喊着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>西戴尔，你冷静点！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我……我这次也没能拯救察提……<br>察提……呜呜……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我们先回去吧。卡拉秋肯定会有办法的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "是啊。<FONT color=#a82424>老师</FONT>她肯定知道什么方法的。<br>能够帮助察提恢复原状的方法……",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>Mission Object.</FONT><br>▷ <FONT color=#7e12d2>请去见见卡拉秋·佩奥里斯塔吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "那个死丫头还是闯祸了啊……啧啧。<br><FONT color=#7e12d2>（卡拉秋啧啧咂舌）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡拉秋，你没有办法救察提吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "没有办法能够从已经将宝玉吸收到体内的人身上完好无损地取出宝玉，但是，变成怪物的人并不全都是处于疯癫状态的，说不定还能恢复那个丫头的理智。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>找回理性的方法是什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "如果她的内心还保留一丝理性，应该就能办到。<br>只要找到唤醒她内心的方法，就能帮她找回理性。<br><FONT color=#7e12d2>（卡拉秋意味深长地望着西戴尔）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我要……我要让察提恢复……",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "事情可不像说得这么简单，西戴尔。<br>就凭你现在的实力，现在只要靠近那个变成怪物的丫头，就会被打得支离破碎。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "就算没法变成龙，那也是蕴含了龙之宝玉中无穷魔力的强大怪物，那可不是什么好对付的对象。<br>若是想要唤醒察提的心，在这之前你还是先得获得<FONT color=#a82424>守护自己的力量</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "守护自己的力量……<br>老师，请教教我吧。<br>我一定要察提恢复原样。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "那好，西戴尔。我现在就交你佩奥里斯塔的真正秘传魔法。<br>在你获得那力量之前，你不要妄想去找察提。<br><FONT color=#7e12d2>（卡拉秋坚决说道）</FONT>",
+      "answer": ""
+    }
+  ]
+}

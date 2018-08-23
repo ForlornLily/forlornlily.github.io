@@ -1,0 +1,222 @@
+{
+  "qkname": "友好协助",
+  "data": [
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_05.ogg}<br>先知的安全真让人担心。<br>我们的目标是把她安全地救出来，带到巨石碑那里去。",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "唉～还以为帮王城做事能赚点钱呢，没想到不是。<br>切，剩下的方法只有赌博了吗？嘿嘿～"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "我们目前搜集到的情报还不够，因此无法派大量的兵力前往黑暗大君主的据点。<br>不过，我已经派侦察队去完善地图，应该很快就能派兵到那里了。",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "当然啦。所以你先继续你的修行，暂且等候段时间吧。<br><FONT color=#7e12d2>（请链接学者站台，向姐姐报告）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "唉~ 我以为替王城做事可以赚点小钱呢，其实不然。<br>切，那现在只剩下赌博这条路了？嘿嘿。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_03.ogg}<br>嗯？如果将军那么说，我们就耐心等待些时日吧。<br>但我们就这么傻傻地等着，你不要忘记继续进行修行。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n修行？",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "你本来身体不就很弱吗？之前专注于研究，缺乏锻炼……<br>何况你现在还变成了小孩子，行动应该没有之前自如了。<br>你将来还要面对很多恶战，因此得提前锻炼好身体。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "嗯……神圣天堂是个大都市，可做的事情应该也很多。<br>你最好去查看下公会委托公告栏。<br>肯定有你能帮忙的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的，我明白了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_07.ogg}<br>不要跟可疑的人走，注意不要迷路，不要在<FONT color=#a82424>赫尔马岱港口</FONT>之类的地方捡掉在地上的东西吃，发现迷路的曼德拉的话要把它送回家，还有……",
+      "answer": "（通信结束）"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br><FONT color=#7e12d2>▷请前往赫尔马岱港口，找些事情做。</FONT>",
+      "answer": "",
+      "image": "qw_hermalteport.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "这是谁啊~ <FONT color=#387206>{user_nick}</FONT>！！<br>看来你很忙啊？我都见不到你的人。你过得怎么样？<br>\n你在这里赚到钱了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？钱？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "我刚才远远看见你在查看公会委托公告栏，是不是？<br>嘿嘿嘿，什么事都逃不过我<FONT color=#a82424>安杰利卡</FONT>的眼睛~<br>你那么做是不是想赚钱？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我只是想修行而已……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "修行？什么修行……因为我是个天才，没必要进行修行，所以我不太理解~<br><FONT color=#7e12d2>（安杰利卡装蒜）<br></FONT>啊，对了！你要不要替我分担些我的事情啊？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么事情？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "为了准备跟<FONT color=#a82424>黑骑士</FONT>的战斗，整个神圣天堂都乱套了。在进行恶战之前，要准备很多物资，你知道的吧？我负责准备物资，现在忙得不可开交。<FONT color=#a82424>伊桑</FONT>那家伙也受<FONT color=#a82424>主教</FONT>之托，不知道去了什么地方。",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "<FONT color=#662500>最好不要太信任主教。</FONT>",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "嗯？我从未相信过牧师啊？呃，伊桑看起来是个谦谦君子，他好像还不错。我帮助主教，是因为主教给我钱。此外，消灭<FONT color=#a82424>黑骑士</FONT>正好也是我的目的。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>话虽如此。</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "在王城里，<FONT color=#a82424>主教</FONT>的势力挺大的。如果你想继续出入<FONT color=#a82424>王城</FONT>，最好不要乱说话。如果主教对你有所警戒，说不定你就无法出入王城了，那对你的行动肯定造成不便吧？",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这，这样啊。</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "对吧？所以，你就像我这样赚点小钱，拍拍他的马屁。<br>……好了，如果你听明白了，那就快出发吧！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么出发，我要去哪里？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "卡拉安拜托我帮忙，我真的很难拒绝。<br>如果得罪了宫廷魔法师，我可能会面临债务危机。唉……<br>所以，你去帮我完成<FONT color=#a82424>将军</FONT>的委托吧。",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是什么委托啊？</FONT>",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "前往<FONT color=#a82424>孤岛</FONT>搜集地精火药。<br>如果没有火药，士兵们就无法自由行动了。<br>你只要好好教训下<FONT color=#a82424>{monster863}</FONT>那些家伙，就能获得火药了~那拜托你啦。",
+      "answer": "",
+      "image": "qw_30.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "你替我去<FONT color=#a82424>孤岛</FONT>搜集地精的火药。<br>你只要好好教训下<FONT color=#a82424>{monster863}</FONT>那些家伙，就能获得火药了~ 那拜托你啦。",
+      "answer": "",
+      "image": "qw_30.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "啊~你搜集到地精火药啦。<br>嗯……你真是好人！我还有些事情要处理，你去将火药交给<FONT color=#a82424>将军道格拉斯</FONT>吧。",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，好的。</FONT>",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "如果你敢私吞钱财，后果自负，哈哈哈。<br>……话说，伊桑这家伙说出去办事，又在搞什么鬼？怎么到现在还不回来？！！",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_05.ogg}<br>将军道格拉斯的委托？嗯，通过那种方式累积大家对你的信任也不错。<br>如果没有王城的密切协助，你自己应该很难接近先知的。",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "啊，我拜托<FONT color=#a82424>魔法师安杰利卡</FONT>小姐去做的事情，结果是你完成的啊。<br>这件事理应由军队来处理，还要麻烦冒险家，真是抱歉。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>这没什么。</FONT>",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "火药交给我吧。现在准备工作几乎都完成了，我们能出发前往<FONT color=#a82424>黑暗领地守备队据点</FONT>了。我已经通知其他的冒险家们，他们应该正在准备，这次我们一定要找回<FONT color=#a82424>先知</FONT>。",
+      "answer": "",
+      "image": "qw_43.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我，我也要去！</FONT>",
+      "answer": "",
+      "image": "qw_43.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

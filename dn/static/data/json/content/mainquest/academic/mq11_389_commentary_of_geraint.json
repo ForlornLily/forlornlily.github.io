@@ -1,0 +1,407 @@
+{
+  "qkname": "杰兰特如是说",
+  "data": [
+    {
+      "npc": "贝思柯德",
+      "question": "……<br><FONT color=#7e12d2>（贝思柯德包裹着伤口，闭着眼睛）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "贝思柯德？<br>……我为什么要把他的名字挂在嘴边啊",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "小姑娘，你最近可谓是声名远扬啊。<br>哈哈。",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "感谢你对我的诸多帮助，冒险家。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_06.ogg}<br>你已经把准备好的止痛药转交给贝思柯德了？",
+      "answer": "是，已经给了。"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "你说贝思柯德目前位于<FONT color=#a82424>黑山山角</FONT>吗？<br>希望他的伤势尽快复原……",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "感谢你对我的诸多帮助，冒险家。<br>请在神圣天堂好好休息吧。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "贝思柯德？<br>……我为什么要把他的名字挂在嘴边啊。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "小姑娘，你最近可谓是声名远扬啊。哈哈。<br>你今天好像也很忙啊。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "和你这样的小孩混在一起就已经很愚蠢了。<br>……我问你个问题吧，你应该生活在未来，怎么会来到这个地方呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>因为有任务，所以我被派遣到这里。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "派遣？<br>就你自己吗，小孩？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>是的。（都说了我不是小孩）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "居然将所有的事情交给你自己，未来的社会这么没责任感吗？<br>或者，你来这里的任务算不了什么，所以才会交给你这个小孩？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>因为是我和姐姐开发了时空移动。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "开发了时空移动……你是说像你这样的小孩是总负责人。<br>你来自的未来，真是个奇怪的世界。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我原本不是小孩子。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "…. <FONT color=#a82424>原来你是因为时空移动的副作用，才变成小孩</FONT>的啊。<br>嗯……这么想就合乎道理了。<br>你说的事情并不是那么荒诞啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>那你相信我了？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "就算我相信你所说的话，情况也不会有所改变。<br>短期内，我只能这样隐藏自己的踪迹。<br><FONT color=#7e12d2>（贝思柯德苦笑着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……你离开这里吧。如果继续在这附近转悠，你会有危险的。<br>因为我不是你未来所认识的那个人。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_04.ogg}<br>看来贝思柯德还没有回心转意啊。<br>报仇，他究竟打算向谁复仇啊……嗯。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "事情比想象中要难得多啊。流传下来的记录还很不足。<br>这次我本来信心十足的，但这样下去，不知能否按时……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>按时？什么按时？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_05.ogg}<br>啊……我说的是巢穴被解除后先知消失的时间。<br>现在你去看看<FONT color=#a82424>王城</FONT>的情况吧。<br>你必须时刻关注着王城那边，知道了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br><FONT color=#7e12d2>▷ 前往神圣天堂王城。</FONT>"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "啊！！你来得正好。我正在等你呢。<br>有人想见<FONT color=#387206>{user_nick}</FONT>你，让我一定要转告你。",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "他就说有事情要拜托你，除了你之外，他不愿意接受任何冒险家的帮助。<br>他说想问你些研究方面的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个人是谁啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "他是<FONT color=#a82424>纹章学者斯塔西</FONT>。实际上……他一直在对龙进行研究。<br>我想正是因为这个原因，所以他才想见见你的吧。",
+      "answer": "",
+      "image": "qn_npc_scholar_starshy.png"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "你见过<FONT color=#a82424>纹章学者斯塔西</FONT>了吗？<br>他对龙族进行了长时间的研究，现在好像有事找你。",
+      "answer": "",
+      "image": "qn_npc_scholar_starshy.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "现在来了啊，好吧，等的我脖子都快要断了。<br>最近小女孩你可出名了呢？哈哈。",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "小姐你四处建功，所以我很想见见你。<br>与你<FONT color=#a82424>一同来的冒险家们</FONT>也对你赞赏有加。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>不过，你为什么找我呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "恩，这个嘛……<FONT color=#7e12d2>（降低嗓音，很小声地嘀咕道）<br></FONT>我听说，王城地下那里……有<FONT color=#a82424>金龙</FONT>在。<br>金龙在守护先知的事情难道是真的吗……？",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "我身边也有几个消息灵通的人士。虽然风声还没有传到外部，但在前往黑暗大君主关卡的士兵之间，目击之谈已经人尽皆知。为了不让消息传到外界，军队和王城正严加控制。",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "<FONT color=#a82424>斯图尔特公爵</FONT>肯定会用言语加以包装，然后再公布于众。这些愚蠢的人。<br>龙是无法用人类的尺度来衡量的，就算是50年前的<FONT color=#a82424>六大英雄</FONT>也一样。<br>\n<FONT color=#7e12d2>（斯塔西望向远方）</FONT>",
+      "answer": "",
+      "image": "qn_six_heroes_silhouette.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "<FONT color=#a82424>黑龙卡拉斯</FONT>突袭时，金龙一出现在他们面前，他们就被动摇了。<br>即便不久前他们还是并肩作战的同伴。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（他是在说杰兰特啊）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "卡拉秋和巴尔纳觉得自己遭到了背叛，因而陷入愤怒之中。<br>陷入混乱的人类隐藏了<FONT color=#a82424>六大英雄</FONT>之首<FONT color=#a82424>杰兰特</FONT>就是金龙的事实。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>原来你知道杰兰特的真是身份啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "我也参与了那场战斗，当然我也无法相信我的眼睛。在那之后我对龙进行了深入的研究，随着研究的深入，我就觉得越迷茫。<br>因为我手中没有相关情报，自然会感到迷茫。所以……",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "你帮我去问杰兰特几个问题，看他是怎么回答的，我希望你能帮这个忙！<br>说不定以后就没有机会可以亲自问到话了！难道不是吗？",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "谢谢你！真的很感谢！<br><FONT color=#7e12d2>（斯塔西眼泪汪汪地抱住你）<br></FONT>那你去找杰兰特，帮我问问他龙是怎么被造出来的吧。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "我认为50年前的黑龙和现在的黑龙都是由<FONT color=#a82424>古代人的力量人为制作</FONT>出来的。<br>虽然这只是我的假设，但我现在越来越确信了。所以，我想知道其他的龙是否也是这样制造出来的。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "你去问问<FONT color=#a82424>金龙</FONT>吧，是不是所有的龙都是被制造出来的。<br>是不是都像黑龙那样通过古代人的力量组合而成的。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "人类对所有的事情都心存猜疑，如果不亲眼证实，就不会轻易相信。<br>同时他们也很容易被谎言欺骗，被微小的感情和错觉左右情绪。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……我想起曾经有人那样说过。<br>我不熟悉人类的语言。即便回答你的问题，我也不能保证我能够表达得很明确。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "黑龙是<FONT color=#a82424>混沌龙破碎的邪念体</FONT>中的其中之一，是用<FONT color=#a82424>古代人的力量</FONT>强行完成的。<br>用人类的话来说，黑龙是制造出来的龙。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>龙是被制造出来的？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "但是我们，即我和阿尔杰塔是从<FONT color=#a82424>古代龙</FONT>身上分离出来的，而不是强行制造出来的。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "起初阿尔泰亚女神作为<FONT color=#a82424>世界的调解者</FONT>，创造出了<FONT color=#a82424>古代龙</FONT>和<FONT color=#a82424>混沌龙</FONT>两种龙。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "由于这两种龙的守护及善良的古代人，<FONT color=#a82424>阿尔泰亚</FONT>女神创造出的这个世界曾非常祥和美丽。但是，因为嫉妒阿尔泰亚的<FONT color=#a82424>维斯提内</FONT>女神，曾经和平的<FONT color=#a82424>阿尔切林加</FONT>陷入了黑暗之中。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "阿尔泰亚女神服下<FONT color=#a82424>堕落之毒</FONT>后，曾经善良的古代人就被黑暗污染，逐渐堕落。还有，从维斯提内的<FONT color=#a82424>谜之大陆</FONT>来到这里的邪恶暗影龙开始破坏阿尔切林加。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（谜之大陆……我曾经听说过）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "古代龙和混沌龙最终打败了<FONT color=#a82424>暗影龙</FONT>，但是混沌龙被暗影龙的邪恶气息所<FONT color=#a82424>污染</FONT>，堕落的混沌龙重新开始威胁世界，古代龙站出来阻止他，他们之间也就展开了漫长的战斗……",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……那场战斗没有胜利者。由于那场战斗，<FONT color=#a82424>混沌龙的肉身</FONT>被撕碎成多个碎片，分散在世界各处。<br><FONT color=#a82424>古代龙</FONT>也用尽自己的力量将自己<FONT color=#a82424>分离</FONT>。<br>为了将要来临的未来。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>未来……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我和阿尔杰塔都是古代龙的分离物。按人类的话说，我们就像兄妹。<br>我们的<FONT color=#a82424>使命</FONT>是阻止混沌龙的邪念体复活。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>那巨石碑呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "…. <FONT color=#7e12d2>（杰兰特脸色阴沉）</FONT>巨石碑的事情不能告诉你们人类。<br>忘了巨石碑吧，<FONT color=#a82424>阿尔杰塔</FONT>几乎耗尽了自己所有的力量来支撑着它。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>人类无法靠近吗？绝对不行吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……没错。为了接近女神，需要某种<FONT color=#a82424>媒介</FONT>。对于龙之外的人类来说，巨石碑只不过是破坏及灭亡的道具。快扔掉你那些没用的好奇心吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>但我还是要去找巨石碑。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你好像非常迫切想要见到巨石碑。<br>但是……即便如此，我也不能告诉你答案。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>如果是先知，应该能够前往巨石碑吧？</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "那是你要寻找的<FONT color=#a82424>答案</FONT>吗？<FONT color=#7e12d2>（杰兰特沉默了许久）<br></FONT>虽然我不能阻止你去寻找巨石碑，但我也无法为你提供帮助。<br>很抱歉。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你还在还是回到<FONT color=#a82424>等候你的答案的人</FONT>身边吧。",
+      "answer": "",
+      "image": "qn_npc_scholar_starshy.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "杰兰特是这么说的啊。嗯……我也知道，普通人是不可能到巨石碑那里的。但我们不能就此放弃。<br>拯救我们世界的……只有那个地方。",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "你回来啦。<br>杰兰特是怎么回答的？/html>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "原来如此。黑龙居然是<FONT color=#a82424>混沌龙的碎片</FONT>中的其中之一……<br>在将作为核心的邪念体消灭之前，应该能制作出无数类似黑龙的龙。",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "嗯……感谢你为我提供了如此珍贵的情报。<br>我很想亲自去问问他，但我实在无颜面对他。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>为什么没脸见他？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "<FONT color=#a82424>50年前的那场战斗</FONT>发生后，我没能站在他那一边。因为当他销声匿迹时，我被愤怒和冲击，及空虚感所充斥。<br>……因此我没能认清现实。<FONT color=#7e12d2>（斯塔西低下头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "作为一名学者，我不应该那样。在所有难以理解的现象都被隐藏了起来，只留下<FONT color=#a82424>六位英雄</FONT>这一假象的时候……<br>我应该把我看到的说出来的……那时，我应该那么去做的。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "\n嘿嘿……小姑娘，你是在安慰我吗？<br>\n谢谢你。",
+      "answer": ""
+    }
+  ]
+}

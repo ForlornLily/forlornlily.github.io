@@ -1,0 +1,132 @@
+{
+  "qkname": "永不言败",
+  "data": [
+    {
+      "npc": "精锐士兵克林德",
+      "question": "神圣天堂遇到了巨大的危机！"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "放开先知！！<br>\n你这个愚蠢的小孩！",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "……不……不要……<br><FONT color=#7e12d2>（好像无法从沉睡中摆脱出来，发出了低低的呻吟声）</FONT>"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_03.ogg}<br>你在<FONT color=#a82424>王城地下秘密区域</FONT>好好守护<FONT color=#a82424>先知</FONT>。<br>如果能唤醒她，那就更好了，反正巢穴说不定什么时候就会被解除。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的，姐姐！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_08.ogg}<br>一切即将真相大白。<br>你快去<FONT color=#a82424>王城地下秘密区域</FONT>见见<FONT color=#a82424>先知</FONT>吧。<br>※ <FONT color=#7e12d2>组队状态下无法进行该任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "呼，大事不好了。神圣天堂面临着巨大的危机。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "快把先知交出来。<br>你这个愚蠢的孩子！！",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "不要… 我不想醒过来…<br>不要管我….我…",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>话说，先知为什么会晕倒呢？</FONT><br>\n<FONT color=#662500>（之前无法触碰先知，现在好像能接触她了。<br>看来杰兰特的巢穴已经被解除）</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>巢穴被解除了啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "不，要… 不要… 我不想醒过来…！<br><FONT color=#7e12d2>（现在就算不唤醒先知，也能将她带走了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（感觉背后有动静）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>（感觉背后有动静。本打算带走先知，但背后传来了脚步声。<br>好像有侵入者）</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "成功破坏<FONT color=#a82424>金龙</FONT>的<FONT color=#a82424>巢穴</FONT>之人就是我。<br>哈哈哈……愚蠢的冒险家们。正如我猜测的那样，所有人都离开了这巢穴，啊哈哈。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "愚蠢的……小鬼头…… 看来你想前往<FONT color=#a82424>金龙</FONT>的身边？<br>我来送你归天吧！！<br>上吧，我忠诚的部下~！！",
+      "answer": ""
+    },
+    {
+      "question": "<FONT color=#7e12d2>（在将伊格纳西奥召唤出来的魔物消灭前，似乎无法带着先知逃跑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "什么？<FONT color=#a82424>伊格纳西奥</FONT>带着先知逃跑了？<br>快，快去追上他！！你知道他逃到哪里去了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不太清楚。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_05.ogg}<br>你究竟在做什么？现在你还有空跟我报告吗？！<br>快去<FONT color=#a82424>王城</FONT>，去问问<FONT color=#a82424>精锐士兵</FONT>！说不定他们见到主教了呢。",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "<FONT color=#387206>{user_nick}</FONT>！！<FONT color=#a82424>先知</FONT>真的消失了吗？<br>原本关闭的地下之门已经开启，警卫兵们经过搜索，没有发现先知的踪影。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道。</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "不仅如此！！<br>现在连<FONT color=#a82424>主教伊格纳西奥</FONT>也消失了，王城内部一片紧张。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你知道他去了哪里吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

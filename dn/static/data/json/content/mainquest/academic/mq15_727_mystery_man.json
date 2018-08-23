@@ -1,0 +1,252 @@
+{
+  "qkname": "遇见奇怪的男人",
+  "data": [
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳咳……身体状况好像越来越不好了……必须快一点……<br><br>\n※<FONT color=#7e12d2>需要在学者站台那里接受任务才能继续进行。</FONT>",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "老师指使别人让原住民生病？<br>察提好像是有什么误会。<br>\n※<FONT color=#7e12d2>需要在学者站台那里接受任务才能继续进行。</FONT>",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>网络不稳定。</FONT><br>▷ <FONT color=#7e12d2>重新设置Mission Object。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>Mission Object.</FONT><br>▷ <FONT color=#7e12d2>请到利物沃特码头附近，搜集丛林蕨菜。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "还有，<FONT color=#a82424>老师</FONT>好像有话要对你说。<br>如果你有时间，就去和老师谈谈吧。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你到哪里瞎转悠去了？<br>你不说我也知道，肯定是西戴尔那家伙让你去看那个原住民了吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（吼……他怎么知道……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "不知道那家伙怎么对那个原住民女孩这么着迷。<br>嗯，那个女孩怎么说？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(转述察提的话)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "她说她从<FONT color=#a82424>可靠的人</FONT>那里听说，我绑架了原住民？<br>哼，虽然不知道那个可靠的人是谁，但他肯定在调拨离间。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "胆敢诬陷我佩奥里斯塔，我要让他付出代价。<br>反正我已经让安杰利卡和西恩去接近察提了，我们应该很快就能知道那个人是谁了。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "实际上，我单独见你是想吩咐你去做一件事。<br>你说你来自<FONT color=#a82424>未来</FONT>？那你肯定知道被封印在这里的<FONT color=#a82424>龙的宝玉</FONT>在什么地方吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>宝玉的相关资料大部分都消失了，因此无法查看。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "嗯……就算来自未来，也没什么了不起的啊。<br>那样的话，只能通过那个<FONT color=#a82424>原住民丫头</FONT>找到宝玉的位置了……<br>不知西恩和安杰利卡那两个小鬼能不能做到……",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>西恩现在在哪里？</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "啊，气死我了……那个狡猾的死丫头，说什么可靠的人什么的？<br><FONT color=#7e12d2>（安杰利卡独自暴跳如雷）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "啊啊……沉醉于甜美的味道，而自投罗网的可怜灵魂啊……！<br>如果被我这香甜的魔力迷住，就再也无法挣脱，你难道不知道吗？<br><FONT color=#7e12d2>（奇怪的男人自言自语着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊，<FONT color=#387206>{user_nick}</FONT>！你好吗？！",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "西恩和安杰利卡应该在<FONT color=#a82424>古代图书馆</FONT>。<br>将这件事交给那两个没有头脑的家伙，我真的很不放心，你去帮帮他们俩吧。",
+      "answer": "",
+      "image": "qw_52.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>Mission Object.</FONT><br>▷ <FONT color=#7e12d2>请到古代图书馆见见西恩吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "啊，气死我了……那个狡猾的死丫头，说什么可靠的人什么的？<br>还说“<FONT color=#a82424>你们长得像糊涂虫，不像与绑架事件有关</FONT>” ……？哇啊……我都快气炸了~！！！<br><FONT color=#7e12d2>（安杰利卡独自暴跳如雷）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>魔法师安杰利卡，你独自在这里做什么？西恩呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "噢，是你啊，小家伙？<br>这个问题应该我问你，你在这里做什么？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我是来找西恩的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "西恩？那个傻瓜独自往里面去了。<br>和<FONT color=#a82424>察提</FONT>那个让人上火的死丫头聊了几句后，我就不想再理她了！<br>啊，你知道那个死丫头对我们说什么吗？<FONT color=#7e12d2>（絮絮叨叨……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>西恩独自往里面去了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "没错。察提那个狡猾的家伙说什么那个人来了什么的，就飞快地跑走了，西恩去追她了。我不想见到那个<FONT color=#a82424>可靠的骗子</FONT>，就独自回来了。<br>我有种不祥的预感，这种预感跟我在神圣天堂被人暗算时的预感一样。呃……我的心情糟透了！",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "啊啊……沉醉于甜美的味道，而自投罗网的可怜灵魂啊……！<br>如果被我这香甜的魔力迷住，就再也无法挣脱，你难道不知道吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（他在胡扯什么啊……？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "可怜的灵魂，你走得太远了，现在已经无法回头。<br><FONT color=#7e12d2>（奇怪的男人摇着头）</FONT><br>我是个招致不幸的男人。<br>对于这个不完整的世界来说，我太过完美了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个……你有没有见到一个叫做西恩的人？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "<FONT color=#a82424>西恩</FONT>，你是指那个头发像稻草一样的战士吗？<br>呼呼……那个少年，他对沉迷于我的魔力之中的自己感到畏惧，逃向了远方。",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（………）所以，西恩往哪里去了……？</FONT>",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "他用颤抖的双手接过我的信后，去找<FONT color=#a82424>卡拉秋</FONT>了。<br>但是……你……？<br><FONT color=#7e12d2>（奇怪的男人目光中带着疑惑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哦，那我先走啦……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "嗯……？你真是，有趣……<br>像你这样的孩子，足有资格进入我的怀抱。<br>你要和我一起做吗？！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那，那是什么意思……？做什么……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "啧啧……你好像对自己还没有足够的了解啊？<br>哈哈哈~ 如果你想了解自己，可以随时来找我。<br>我会用我伟大的能力挖掘你所有的潜能。哈哈哈哈~<br><FONT color=#7e12d2>（返回利物沃特码头，去见见西恩吧）</FONT>",
+      "answer": "",
+      "image": "qw_karakule_house.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>Mission Object.</FONT><br>▷ <FONT color=#7e12d2>请到利物沃特码头见见西恩吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "\n啊，<FONT color=#387206>{user_nick}</FONT>。我听说你到古代图书馆找过我。我们刚刚可能走岔了，都没能见到面，嘿嘿。我把书信交给了卡拉秋，现在正准备离开，幸好在离开之前碰到了你！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你这次又要去哪里？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "<FONT color=#a82424>有个男人</FONT>让我把书信交给卡拉秋，作为交换，他会告诉我察提的爷爷的情报。察提的爷爷是原住民部族的族长，他肯定知道龙的宝玉被封印的场所。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>西恩，你也对龙的宝玉感兴趣吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "呃，不能说是感兴趣……<br>上次我也跟你说过了，我想偿还杰兰特为我做出的牺牲。<br>还有，察提也希望尽快找到自己的爷爷。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>西恩，你真是好人……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "你怎么这么说，怪不好意思的。哈哈……<br><FONT color=#7e12d2>（西恩只是纯粹想帮助他人）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（不能动摇……我，必须要拯救我们的世界……）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

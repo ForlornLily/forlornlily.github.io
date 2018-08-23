@@ -1,0 +1,407 @@
+{
+  "qkname": "毫无头绪",
+  "data": [
+    {
+      "npc": "村长海洛德",
+      "question": "哦，药草找到啦。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这种东西真的能做成药吗？</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "当然能。<br>这下那个姑娘应该可以恢复精神了。",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "啊……对了。在这段时间，你愿意在村里四处转转吗？<br>最近好像有人看到了和你穿着类似衣服的猫。",
+      "answer": "",
+      "image": "qn_npc_shadow_meow.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你说……猫？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "没错。名字叫<FONT color=#a82424>暗影喵</FONT>……<br>你能去见见它吗？",
+      "answer": "",
+      "image": "qn_npc_shadow_meow.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(暗影喵？从来没听说过，不过现在只要能找到和我目前处境有关的任何线索，就绝不能放过……<br>不管是猫还是什么，最好去见见再说。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_shadow_meow.png"
+    },
+    {
+      "npc": "???",
+      "question": "……<br><FONT color=#7e12d2>(女人呆呆地看着我)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "\n我就是神出鬼没的暗影喵～！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(反正在那个女人醒来之前哪儿都去不了，先去见见暗影喵吧。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_shadow_meow.png"
+    },
+    {
+      "npc": "暗影喵",
+      "question": "你是谁喵？！<br>\n我是神出鬼没的暗影喵！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……真是个奇怪的人，不，奇怪的猫。<br>跟它搭话不会自找麻烦吧？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "嗯～我好像是头一次见到你喵。<br>怎么？你来找我，是想让我收你为徒吗喵？！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>收我为徒？！</FONT><br>\n<FONT color=#662500>不，我只是想看看有没有有用的线索……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "有用的？吱啊喵喵喵喵！<br>怎么能这样喵！竟然一开口就让我教你有用的的技能喵……！！",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "最近的年轻人真可怕喵。和我那时候不同了喵。<br>唉～没办法喵。我又怎么能拒绝呢喵？<br>\n好吧喵，我就教你一招喵！哼哼！",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "你知道回避的方法吗喵？当魔物从对面呼啦啦～汪汪叫着冲过来的时候喵。只要<FONT color=#a82424>快速连按两次方向键</FONT>就行喵。也可以在按住方向键的状态下按[ <FONT color=#7e12d2>Shift</FONT> ]键喵。",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "那样就能回避了喵！！嗯哼。<br>你这家伙……一看就是菜鸟喵。应该再修炼修炼，学点新技能喵。",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "当你认为到了可以学习新技能的时候～可以来问我，也可以按[ <FONT color=#7e12d2>K</FONT> ]键查看喵。<br>怎么样？你是不是找了一位很厉害的师父？！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>师父？！</FONT><br>\n<FONT color=#662500>……猫吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "干嘛高兴成那样喵？就像下雪天的狗一样开心喵。嘿嘿嘿嘿嘿～<br>好了，希望你继续努力修炼，我们下次再见喵！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(虽然搞不清是怎么回事，但可以确定的是它应该是第一次见到我。<br>嗯～没有别的收获。要回到村长海洛德那里去，问问那个女人醒来了没有吗？)</FONT>",
+      "answer": "",
+      "image": "qn_elder_harold.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "哦！你来啦。<br>我刚好在等你呢！",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "那个姑娘刚才醒过来了，你没见到她吗？",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "刚才卫兵达尔西回来的时候说，<FONT color=#a82424>狂风森林</FONT>那边好像闹哄哄的。<br>你快去看看吧。",
+      "answer": "",
+      "image": "qw_windforest.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "我们家萝丝也很喜欢在狂风森林中散步……唉……<br>\n萝丝……你现在还好吗？<br><FONT color=#7e12d2>(海洛德的眼角湿润了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "\n那个姑娘往<FONT color=#a82424>狂风森林</FONT>方向去了。",
+      "answer": "",
+      "image": "qw_windforest.png"
+    },
+    {
+      "npc": "???",
+      "question": "……<br>\n<FONT color=#7e12d2>(女人呆呆地看着我)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "......",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>喂！！！你该不是不会说话吧？<br>看你好像没事，真是太好了。不过对于目前的情况，你没什么话要说吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "什么话？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我和带着你的那个人撞在一起之后，睁开眼睛的时候，发现已经来到了这里……总之！<br>难道你不应该告诉我到底是怎么回事吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "我不知道。",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "不知道。我什么都不知道。<br>……你干嘛不去问他本人？他就在你体内。<br><FONT color=#7e12d2>(女人指着{user_nick}说)</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "???",
+      "question": "\n带我来的那个人…… 就在你的体内。<br>\n你没见过他吗？你们应该说过话了吧？<br>\n……也许。",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎……怎么回事？你在说什么啊？<br>我一定是在做梦吧？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "你要是这么想，那就随便你。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我快要疯了。</FONT><br>\n<FONT color=#662500>我还以为你一定知道些什么呢，呃呃……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "不知道。我什么都不知道。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那我体内的那个人……到底是怎么进去的呢？<br>这怎么可能？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "不知道。<br>穿越时间之后，那个人撞到了你。",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "???",
+      "question": "那个人和你相撞之后……嗯……接下去我就不知道了。<br>他就在你身体里。<br><FONT color=#7e12d2>(女人用手指着{user_nick}的胸膛)</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(她到底在说什么疯话呢？</FONT><br>\n<FONT color=#662500>……难道不是那个女人疯了，而是我疯了？是这样吗？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(呃呃～回想起来，救那个女人的时候也是，采药去的时候也是，我的体内似乎确实有“另一个人”存在。就如那个女人所说，那个人……也许能为我提供一点线索……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……但是怎么才能召唤出那个人呢？</FONT><br>\n<FONT color=#662500>又不是一叫他就会出来的！！！)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "......",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？等等！！你去哪儿？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": " <br>\n<FONT color=#7e12d2>(那个女人向古代神殿遗址方向走去)</FONT>",
+      "answer": "",
+      "image": "qw_2.png"
+    },
+    {
+      "npc": "???",
+      "question": ".....你好像见到过。<br>\n你体内的那个影子。",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好像只有在战斗的时候才会出现……<br>就是和你一起突然出现的那个家伙，对吧？</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你……不，和你一起穿越时间的那个男人。<br>那个男人撞到了我，于是他就进入了我的体内。<br>好吧，就算这是真的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那么如果能知道那家伙是谁，我就可以恢复原状了吗？<br>就可以摆脱现在的状态，回到原来的地方去了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "应该不行。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不行？！啊，那这么办怎么样？<br>不管怎样总得有个说法，对吧？<br>……你们当初为什么要穿越时间？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "……是因为我吗……<br><FONT color=#7e12d2>(女人歪了一下脑袋)</FONT><br>偶尔会发生这种事。不，是经常。",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "……不，是一直。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……那结论是什么？<br>是你的奇怪能力把我给卷进去了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "也许是的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么！那你难道不应该知道解决的办法吗！！<br>闯了祸，却完全不知道收拾残局的办法？喂，你怎么不说话？<br>真的……没什么办法了吗……！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "哎呀。<br>\n别泄气。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>别说得好像跟你没关系一样！<br>喂，你……嗯，你叫什么来着？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#a82424>露娜莉娅。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅？……啊，好的，露娜莉娅。<br>你不想回去吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "回去……？<br>\n不知道。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不知道？！<br>你这叫什么回答？你到底是从哪里来的？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……不知道。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃……呃呃呃……<br>一问三不知……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好吧。那就这么办吧。<br>把你送回去，我也回到原来的样子！<br>干干净净。回到最开始！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n最开始？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>回到你和我体内的那个奇怪家伙出现之前。<br>怎么样？这主意不错吧？露娜莉娅，所以你得帮帮我！</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n嗯……<br>\n……好像不行。",
+      "answer": ""
+    },
+    {
+      "question": "<br><FONT color=#7e12d2>(露娜莉娅虽然没被我说服，但好歹安静地留在了我身边。</FONT><br>\n<FONT color=#7e12d2>就在这时，刚才消灭魔物的时候得到的东西引起了我的好奇。)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(这个奇怪的东西到底是什么？<br>要先回村里去问问吗？村长一定知道些什么。)</FONT>",
+      "answer": "",
+      "image": "qn_elder_harold.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "啊，你见到那个姑娘了吗？<br>现在好像完全康复了。太好了。",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "嗯？你手上的东西……<br><FONT color=#7e12d2>(海洛德看到在古代神殿遗址获得的东西之后，眯起了眼睛)</FONT><br>这个是……！",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>...?</FONT><br>\n<FONT color=#662500>干嘛这么吃惊？</FONT>",
+      "answer": ""
+    }
+  ]
+}

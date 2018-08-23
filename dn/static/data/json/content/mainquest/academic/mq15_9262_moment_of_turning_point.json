@@ -1,0 +1,228 @@
+{
+  "qkname": "改变历史的瞬间",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（快去贝思柯德那里看看吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（你的状态怎么样？你离开时最好不要引起他人的注意……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（希望不要发生什么事）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "额，额……<br><FONT color=#7e12d2>（看起来十分痛苦）</FONT><br><br><FONT color=#7e12d2>（可以在学者站台领取任务）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "又是你……额！哎呦哎呦……<br><FONT color=#7e12d2>（贝思柯德痛苦的捂着胸口）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "啊……滚开，小毛孩。<br>快滚！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你，你的身体怎么变得这么差了……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>（贝思柯德表情凶恶）</FONT><br>这不关你的事。<br>不要乱管闲事，快滚！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎么会不关我的事呢！贝思柯德，你可是未来的……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "咳咳咳……你胡说什么呢……？<br><FONT color=#7e12d2>（贝思柯德匪夷所思地笑了起来）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（看来不把真实情况告诉他，是没法说服他了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "咳…咳咳…在这种地方……怎么会……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个，贝思柯德……（述说百合花与未来的贝思柯德的事情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……咳咳咳，什么？你说我是未来的英雄，你是来拯救我的？还有什么宝玉，难道你想让我再次成为巨龙吗？看来你这家伙是把未来和现在搞混了吧。之前也对着我胡言乱语过……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这都是真的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……还有啊，如果按你所说的话，未来早就已经改变了。尽管我不知道未来的我会变成什么样，但现在的我就是这个样子！无论我现在获得怎样的力量，也不会改变我的目标。这是你这种毛头孩子所不能理解的！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……没关系。因为我相信我所认识的贝思柯德。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "咳咳……固执的毛头小子……<br>……不过让你知道也好。<br>就算你把宝玉给我，我也不会走上你所说的什么守护者的道路的。 ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德，我相信你。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……不要后悔你的选择。<br>我可不会因为你的后悔而改变自己的想法的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……嗯。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（快去看看吧）</FONT><br><br><FONT color=#7e12d2>（请到王城地下找贝思柯德）</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（将宝玉放到贝思柯德面前，宝玉发出了灿烂的光芒）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……好温暖的光。<br>……不过这感觉……<br>……难道这家伙……",
+      "answer": "",
+      "image": "qn_npc_geraint_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "不，没什么。 ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……我现在该离开了。 ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯！？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "没什么好惊讶的。我一直待在这里都是因为特拉玛依。现在我已经不需要再依靠特拉玛依了，自然会选择离开。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>但是，你刚刚才获得宝玉……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……我有很重要的理由要离开。没时间休息了。继续待在这里只能按照特拉玛依的意思行动罢了。不过我现在没有前往阿努阿兰德的必要了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎么会这样……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……你去一趟阿努阿兰德吧。不久之后，那里将要发生什么事情。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么事情……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……详细情况你到了那里就知道了。我会向特拉玛依说明……你做好你的事情就行了。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……我欠你个人情。<br><FONT color=#7e12d2>（请和学者站台对话。） </FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "- </FONT><FONT color=#086171>网络不稳定。</FONT><br><FONT color=#2b2723>- </FONT><FONT color=#7e12d2>Mission Object …….</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>（……现在应该不会再连接网络……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（我所了解的历史已经发生了变化…… 贝思柯德好像之前没有那么早获得宝玉，现在不知道未来的走向……真是郁闷）</FONT><FONT color=#7e12d2> </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（这个地方的历史已经和我所知道的历史不一样了吗？……那么今后的未来，将会成为未曾记录过的新的历史……我要对这段历史负责任。我绝不会像百合花一样做出极端的选择，但我要守卫这个世界）</FONT><FONT color=#7e12d2> </FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（这样看来……那个文件……还是打开比较好吧？） </FONT>",
+      "answer": ""
+    }
+  ]
+}

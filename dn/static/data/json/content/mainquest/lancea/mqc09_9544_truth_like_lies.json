@@ -1,0 +1,172 @@
+{
+  "qkname": "仿若谎话的真相",
+  "data": [
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "反正凯伊也在追<FONT color=#a82424>巴尔纳</FONT>。<br>去巴尔纳要去的地方的话，自然就可以见到他。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "据我的孩子们……啊不，神殿骑士们的报告称，最后一次见到巴尔纳的地方是<FONT color=#a82424>被蚕食的神殿废墟</FONT>。",
+      "answer": "",
+      "image": "qw_62.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（凯伊……凯伊真的在那里吗？这个笨蛋，害别人这么为他担心……）</FONT>",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我先去把药草交给贝思柯德，很快就赶过去。<br>你先去<FONT color=#a82424>被蚕食的神殿废墟</FONT>阻止巴尔纳，别让他去别的地方。",
+      "answer": "",
+      "image": "qw_62.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "那么我们在<FONT color=#a82424>被蚕食的神殿废墟</FONT>见吧。",
+      "image": "qw_62.png"
+    },
+    {
+      "npc": "兰伯特",
+      "question": "真让人失望啊，巴尔纳……<br>你曾经是我的人生目标，居然落魄成这个样子……",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "真让人失望啊，巴尔纳……<br>你曾经是我的人生目标，居然落魄成这个样子……",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "你竟然对巴尔纳下手……究竟……为什么要这样做？！！<br><FONT color=#7e12d2>（瞬间凯伊和</FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#7e12d2>目光相对）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "<FONT color=#387206>{user_nick}</FONT>……！！这、这是……！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#2b2723>这究竟是怎么回事啊，凯伊？！那个人杀死了巴尔纳？还有，你究竟是谁？<br>钢铁兄弟团名单里没有你的名字！我青梅竹马的好朋友凯伊究竟是谁啊？！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "</FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#2b2723>……我、我……！<br></FONT><FONT color=#7e12d2>（兰伯特阻止了慌张的凯伊）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "……你是</FONT><FONT color=#a82424>拉斯</FONT><FONT color=#2b2723>的女儿</FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#2b2723>啊。<br>我听说了很多你的事情。你挺活跃的嘛！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你认识我父亲？对了，你是谁啊？<br>你为什么要杀死巴尔纳？！凯伊，你为什么要和他在一起？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "<FONT color=#7e12d2>（兰伯特皱了皱眉头）</FONT><br>你跟你母亲长得一样漂亮，可就是太吵了。",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "好不容易才见面，可惜我现在得走了。期待我们下次见面，那我就此告辞了。",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "<FONT color=#7e12d2>（凯伊犹豫着，好像还是想跟着兰伯特走）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "啊，那个人不是兰伯特吗……？<br>巴尔纳的最后一个弟子，却走上了和巴尔纳不同的路……那个只追求力量的男人为什么会在这里……？",
+      "answer": "",
+      "image": "qn_npc_warrior_lambert.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎么这么慢啊，特拉玛依……呼……<br>（说明状况）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#7e12d2>（泰兰斯·特拉玛依露出沉痛的表情）</FONT><br>我终究……还是什么都没能为巴尔纳做……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个叫兰伯特的人究竟是谁啊？他为什么要杀死巴尔纳……而且，凯伊为什么要跟着他呢……？</FONT>",
+      "answer": "",
+      "image": "qn_npc_warrior_lambert.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#a82424>兰伯特是</FONT> 巴尔纳最出色的弟子和对手。<br>但是，他只追求力量，走上了和巴尔纳不同的道路，最后从巴尔纳身边消失了。",
+      "answer": "",
+      "image": "qn_npc_warrior_lambert.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我也不知道他现在为什么会出现在这里。<br>也不知道他杀死巴尔纳有什么目的……",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "……我要吩咐神殿骑士们把巴尔纳的遗体收好。<br>我要把他安置在修道院深处，不能再让别人有机会打扰他的长眠。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（特拉玛依陷入沉思。好像很难继续对话了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "<FONT color=#7e12d2>（兰伯特看起来没什么话要说了。他似乎想离开这里）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>（现在先回去找</FONT><FONT color=#7e12d2>埃提亚吧）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "你怎么这么晚才来，姐姐？<br>你打听清楚特拉玛依的事情了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我……事情是这样的，</FONT><FONT color=#662500> 埃提亚……凯伊……他是个笨蛋……！！<br>（把特拉玛依的真实身份和凯伊的背叛告诉埃提亚）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9544_qu_01.ogg}<br>……怎么可能，姐姐……<br>凯伊哥哥没道理这么做啊……？ <br>姐姐和特拉玛依是不是搞错了什么啊？",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "哥哥比任何人都想成为兄弟团的一员……姐姐不也很清楚吗？",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "而且他比任何人都关心我们……而且……而且……<br><FONT color=#7e12d2>（埃提亚紧紧抓住凯伊送的胸针）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    }
+  ]
+}

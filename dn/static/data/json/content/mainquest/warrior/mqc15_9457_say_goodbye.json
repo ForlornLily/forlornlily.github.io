@@ -1,0 +1,500 @@
+{
+  "qkname": "道别",
+  "data": [
+    {
+      "npc": "精灵长老",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你来啦。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "我听说你去了祈祷之心。<br>事情怎么样了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，那个……我好像得去一趟痛哭墙。</FONT><br><FONT color=#662500>(还是没有勇气说出阿尔杰塔的牺牲……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "原来如此，那你路上小心。<br><FONT color=#a82424>痛哭墙</FONT>可以通过熔岩江入口前往。<br><FONT color=#a82424>(请前往痛哭墙)</FONT><br>\n <br>\n<FONT color=#7e12d2>*该任务无法以组队形式进入。</FONT>",
+      "answer": "",
+      "image": "qw_95.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>痛哭墙可以通过熔岩江入口前往的吧……</FONT><br><FONT color=#662500>(请前往</FONT><FONT color=#a82424>痛哭墙</FONT><FONT color=#662500>吧)</FONT><br>\n <br>\n<FONT color=#7e12d2>*该任务无法以组队形式进入。</FONT>",
+      "answer": "",
+      "image": "qw_95.png"
+    },
+    {
+      "npc": "佩达",
+      "question": "是你啊……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>佩达？你怎么会在这儿……！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "我觉得这里应该会有古代龙的残留物，过来看看而已。不过，好像还没来呢。<br>因为这把剑中连一丁点微弱的力量也没留下。",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9457_qu_01.ogg}<br>你居然还苟延残喘在这世上，真是太有损守护世界的古代龙的体面啦！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你怎么能这么说？</FONT><br><FONT color=#662500>你又不是不知道这世界是因为谁才变成这样的，还能说出这种话！！</FONT><br><FONT color=#662500>你现在既然连宝玉也已经失去了，就放弃吧！到此为止吧！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "哈哈，让我放弃！你说的话可真让人吃惊。你该不会是以为我丢了一块宝玉，就连力量也没有了吧？<br>真没想到，你竟然会认为区区一块宝玉就是我力量的全部，还真是愚蠢得可以呀！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>居然说区区宝玉，没有了宝玉，你也不过是个普通人类。</FONT><br><FONT color=#662500>而且，我曾听说，红龙的宝玉是无法使用的！所以才用贝思柯德做实验！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "<FONT color=#7e12d2>(一脸嘲笑的神情)</FONT>那都是什么时候的事了，现在翻出来说？<br>\n我承认这条在战斗中让我受伤的银龙的力量。<br>\n可是，只要我的伤势一恢复，我就会跨过这扇门向神挑战。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可是你毕竟已经失去了一半的力量，这是无法改变的事实。</FONT><br>\n<FONT color=#662500>你竟然还不肯放弃！</FONT><br>\n ",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "放弃，我到底为什么要放弃？巨石碑之门已经按照我的计划，被开启了。<br>\n所有的一切都在按照我的命运发展，我有什么理由退缩？<br>\n你以为我会可笑到因为损失几个部下就退缩吗？<br>\n ",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "这么看来，你这家伙即使在巨石碑，也经常在关键时刻逃跑啊。<br>\n如此胆小的家伙，为什么又会来到巨石碑呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那是因为我被巨石碑的力量席卷，穿越了时代，绝对不是逃跑！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "什么？仅仅是因为被巨石碑的力量席卷吗？那不是比逃跑更可悲吗！这样的人竟然还敢再踏入巨石碑？要不是有人推你一把的话，你就是个什么都不会做的懦夫。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是我自愿来到巨石碑的！</FONT><FONT color=#662500>而且我也不是懦夫，我是为了拯救这个世界来这里阻止你的。</FONT><br>\n<FONT color=#662500>别自以为是地对我妄加评判。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "快点认清你自己的软弱吧！<br>\n你不知道你这家伙在说什么吗？<br>\n梅里恩戴尔对你寄予的期待也实在可笑。要是仅凭善良之心就能拯救世界的话，还有谁敢做恶人！",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "能够端正世界的是力量，而得到这力量的关键就在于决心！<br>\n若是那些连这都没能领悟的芸芸众生得到这种力量，就会马上被这力量所吞没，结果只能是自取灭亡。<br>\n就像你这种家伙。被力量吞没，变成连自己是谁都不知道的白痴！",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "你在承认了自己被力量席卷的瞬间就已经在证明你的软弱了！<br>\n声称因为被力量席卷而无能为力的每个人，不都是在找借口吗！<br>\n真是懦弱到了让人反胃的程度。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你怎么……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9457_qu_02.ogg}<br>我之所以没一刀劈了你，是想让你自己去领悟。<br>等你明白死亡或许才是更好的归宿时，就自己承认错误乖乖去死吧！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>别再自以为是了！！！！我到底做错了什么！！</FONT><br><FONT color=#662500>不知道自己错在哪里的应该是你吧！！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "真是个让我感觉不到任何价值的无聊答案。<br>\n像你这样可悲的人幸好当初没被我收为部下。<br><FONT color=#7e12d2>(佩达看都不看这边一眼，掉头离去)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "看来你一直坚持到了现在。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰兰特……！怎么……？？</FONT><br><FONT color=#662500>我又穿越了吗……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9457_qu_01.ogg}<br>你眼前的我不属于任何一个时代，仅仅只存在于这个时刻，是我寄寓在这把剑上的最后力量……<br>那力量化成意念体，才得以像这样站在你面前。<br>但或许这也是我最后一次能这样现身了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>为什么……为什么要为了出现在我这样一个人面前而耗费掉你最后的力量呢？</FONT><br><FONT color=#662500>如果出现在更多人的面前不是更好吗……我……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9457_qu_02.ogg}<br>……看样子你和我分别后，经历了很多事情。<br>我的记忆只到我消失前为止，所以你和我说说吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……好……的确是发生了很多事……</FONT><br>\n<FONT color=#662500>可是，现在已经毫无意义了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>很抱歉，杰兰特……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……我不明白你为什么要向我道歉。<br>虽然你什么也没对我说，但我觉得并没有理由从如此疲惫的你口中听到抱歉的话。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……(讲述事情的原委)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……原来如此。阿尔杰塔她……",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……对不起，真的对不起……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9457_qu_03.ogg}<br>……为什么总是说对不起。阿尔杰塔的死只是她为了守护世界而做的选择，你不需要感到难过。毕竟那就是我们存在的意义。如果你以人类的眼光来看待龙的生死，并因此而感到悲伤，那样……会很痛苦的。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9457_qu_04.ogg}<br>如果我们做了什么事让你和50年前的那些人一样继续被过去的亡灵所牵绊……<br>我替阿尔杰塔向你道歉。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9457_qu_05.ogg}<br>……你的声音有点激动啊，是生气了吗。正如他所说，也许我称不上是……人类所说的前世。但这也是没办法的事，望你理解。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9457_qu_06.ogg}<br>……嗯，这么说听起来可能有点奇怪。我很高兴你稍微有了些进步。<br>虽然你一直在否定自己，但是我没法否定你。既然这是最后一次见面，我就把我的许多心里话都说给你听吧。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "首先……你不要太过依依不舍。因为如果看到你软弱的样子，阿尔杰塔一定会生气的。<br>还有，我要向你道谢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……道谢？杰兰特你要向我……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9457_qu_07.ogg}<br>是的。我对你有种难以言说的感激。<br>你真正地实现了人类和精灵的团结，而且还促使世间的生灵奋起和邪恶作战。<br>这是50年前我心心念念追求的目标和梦想，可惜当年因为我的糊涂化成了泡影。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9457_qu_08.ogg}<br>你实现了我的梦想。<br>你是我的英雄……<br>真的很谢谢你。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9457_qu_09.ogg}<br>人们都称我为英雄，可我只是一条守护自己使命的龙。<br>据我的认知，英雄是指在绝望中也不放弃努力，坚持向前迈进，拯救了大家的人。<br>你正是这样的人。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9457_qu_10.ogg}<br>不要看低你自己。在经历了许多的苦难后，依然不放弃，坚持前进的你，的的确确是位勇敢的强者。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9457_qu_11.ogg}<br>我想，艾奥纳也是因为知道这一点，才将自己的力量交给了你。是他的力量在守护你。",
+      "answer": "",
+      "image": "qn_npc_white_dragon.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9457_qu_12.ogg}<br>我在这世上的时间已所剩不多，很高兴可以像这样再次见到你。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9457_qu_13.ogg}<br><FONT color=#7e12d2>(杰兰特微笑着)</FONT><br>最后拜托你一件事。<br>这世上应该会重新诞生一个我，他会很年幼弱小。与生来带着力量的我不同，<br>他那么软弱，肯定会和人类一样被卷入许许多多的繁杂事情之中。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9457_qu_14.ogg}<br>那个年幼的我……就拜托你多照料了。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你在干什么？为什么在那儿发呆？",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GeraintKid_9457_qu_01.ogg}<br>你说谁小！你有什么资格说我小。还有，你干嘛愣愣地站在我的剑前面啊？<br>又是因为从前的那个我？真烦人。不管我做什么，总是和从前的那个我脱不了干系，真是烦死了。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GeraintKid_9457_qu_02.ogg}<br>我才是杰兰特！！哼，言归正传。你也会找那个黑骑士……咳……那个叫贝思柯德的家伙报仇吧？",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GeraintKid_9457_qu_03.ogg}<br>你是白痴吗？！你是阿尔杰塔的好朋友，阿尔杰塔被黑骑士杀了呀。<br>既然是朋友，当然要帮她报仇！",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GeraintKid_9457_qu_04.ogg}<br>我不管，我不懂这么多。总之，那家伙是我的敌人。是敌人就该杀！ <br>再说他还拿走了阿尔杰塔的宝玉！但话说回来，他乖乖地留下我的剑，还算懂事……",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GeraintKid_9457_qu_05.ogg}<br>嗯……那家伙到底做了什么把剑弄成这样！剑身轻飘飘的！哼，还有点太大了……<br>找到了我也没法用啊。<br><FONT color=#7e12d2>(杰兰特拿起剑晃了晃)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(突然袭来一种巨大的担心和不安。这个小家伙……能继承杰兰特的使命吗？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GeraintKid_9457_qu_06.ogg}<br>咱们快走吧！贝思柯德那家伙应该还没走远。哼，我可清楚地记得他的味道呢。",
+      "answer": "",
+      "image": "qn_knight_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>等等，等等。<br>我现在需要向精灵长老报告。</FONT>",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GeraintKid_9457_qu_07.ogg}<br>那是什么？你怎么会？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……因为必须向他报告才行……</FONT><br><FONT color=#662500>(头嗡地一下就大了。真不知该如何说明才好)</FONT><br><FONT color=#662500>总之，你先等会儿吧。哪儿也不许去，知道吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GeraintKid_9457_qu_08.ogg}<br>我在这里的时候很收敛的！阿尔杰塔说这里是精灵们的圣地，要是吵吵嚷嚷的就会被赶出去，所以嘱咐我除非必要，不要轻易开口。我也懒得说话。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GeraintKid_9457_qu_09.ogg}<br>切，你快去快回，呆瓜<FONT color=#387206>{user_nick}</FONT>。<br>我会去阿努阿兰德那个无聊的鬼地方等你，哼。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……(真想揍他一顿，不过还是忍忍吧……看在他才出生没多久的份上……而且又有杰兰特的托付……先去向精灵长老报告吧……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……(精灵长老应该不会出什么事吧？)</FONT>",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "<FONT color=#387206>{user_nick}</FONT>！你平安无事，真是太好啦！我从王那里听说巨石碑之门已经被开启，不知道有多吃惊呢。",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……啊……您都听说了啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "我也是刚刚听说的。现在，那个……我和尤万西贝尔……不，是佩尔德列斯王的关系并没有那么糟……<FONT color=#387206>{user_nick}</FONT>你完全不必担心。<br><FONT color=#7e12d2>(精灵长老好像非常抱歉)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……哦，您不必在意这些……现在……我要将这次战斗爆发的经过向您仔细报告一下。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "知道了。<br>\n我们换个地方说吧，我要和王一起听。",
+      "answer": "",
+      "image": "qn_npc_king_yubaensiael.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "……<FONT color=#7e12d2>(不以为然地望向佩尔德列斯的方向。和佩尔德列斯对话吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_king_yubaensiael.png"
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "快请进。虽然外面的龙之追随者几乎都被消灭了，但我听说巨石碑之门被开启，并发出痛苦的哀鸣声，所以一直非常担心你。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "ndnpc_ElfKing_9457_qu_01.ogg}<br>巨石碑之门被打开后，女神的噩梦是否立即倾泻而出……还是个疑问。<br>在那里发生了什么事，你能不能跟我们说说。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(讲述事情的原委)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "银龙她……？！死了……？！带着女神之噩梦和黑龙的宝玉……？<br>而且贝思柯德追踪佩达……呼，原来是这样。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "……银龙她，算是已经为了拯救这个世界付出过一次生命了。因为就像从前暗影龙闯进来时那样，如果堕落之毒和女神之噩梦吞噬这个世界的话……我们就只能束手无策了。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "ndnpc_ElfKing_9457_qu_02.ogg}<BR不过，巨石碑之门开启这件事……如贝思柯德所说，的确是我们失败了。<br>尽管眼下阻止了世界突然灭亡的厄运，但我们没法阻止这世界将渐渐走向崩塌的结局。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "ndnpc_ElfKing_9457_qu_03.ogg}<br>说起来“逃命”，还真是他惯用的方法。呵……呵呵呵。<br>都说人类是善变的，但看来有些东西真是不管过多久还是无法改变啊……呵呵呵。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_ElfElder_9457_qu_01.ogg}<br><FONT color=#7e12d2>(精灵长老好像很不快)</FONT>陛下，闲聊的话请日后再说，现在正是紧急的时候。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "ndnpc_ElfKing_9457_qu_04.ogg}<br>啊，不好意思。因为是关于我熟人的事，说着说着我就忘乎所以了。<br>但话说回来，你们不觉得贝思柯德的话很有道理吗？",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_ElfElder_9457_qu_02.ogg}<br>呃？这是什么话！这位勇士鼓起勇气说服了大家，还努力与企图灭亡世界的恶势力做对抗，他为什么要逃！！！",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "ndnpc_ElfKing_9457_qu_05.ogg}<br>这世上的所有人并不都像长老你这么正直。<br>你也不是没见过恶势力，怎么还这么天真。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_ElfElder_9457_qu_03.ogg}<br>……！！！",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "ndnpc_ElfKing_9457_qu_06.ogg}<br>还好你面对的是我们，换做是那些纠结于俗事的人类，估计态度会更恶劣。<br>当然事实也可能没我说得这么吓人，但现在说什么都只是猜测罢了。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "ndnpc_ElfKing_9457_qu_07.ogg}<br>我之所以说干脆逃跑更好些，是因为那样做就可以实实在在地拥有自由。<br>虽不知这自由能持续多长时间，但可以避免马上遭到囚禁。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "你的自由可能会持续下去，也可能在瞬息间走向灭亡。<br>因为有太多的可能性，所以我们也无法对你的命运指手画脚。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "ndnpc_ElfKing_9457_qu_08.ogg}<br>我们能做的，就只是在你做出决定之后给予你支持。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不论我做什么决定……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "ndnpc_ElfKing_9457_qu_09.ogg}<br>是的。因为你不会为了什么毁灭世界，自己成神之类的无聊目标而行动。<FONT color=#387206>{user_nick}</FONT>。你最大的目标是什么？等你想好了这一点，要走的道路自然也就清晰明了。即使是像我一样稍微走了点弯路也是值得的。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_ElfElder_9457_qu_04.ogg}<br>不是哪条道路都可以随便走的。你该考虑到你要走的道路上将会发生的事情。<br>已经过去的事无法挽回，希望你能选择一条未来不会后悔的道路。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "ndnpc_ElfKing_9457_qu_11.ogg}<br>如果这么瞻前顾后，最后干脆都迈不开脚步了！",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_ElfElder_9457_qu_05.ogg}<br>不经过仔细考虑就踏出去的话，将来可能会落到无法收拾的地步。<br>现在的你，呃，陛下不正是这样吗。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(啊，这两个家伙……哦不，是这两位又吵起来了……)</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "ndnpc_ElfKing_9457_qu_12.ogg}<br>嗯，这事我们没资格多做评论。还是让他自己判断吧。<br>请你好好引导他，精灵长老。我要暂时整理一下思绪。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_ElfElder_9457_qu_06.ogg}<br>这是当然。请别担心。那我们到外面再说吧。<br><FONT color=#387206>{user_nick}</FONT>，<br><br><FONT color=#7e12d2>(</FONT><FONT color=#7e12d2>和生命之树外面的精灵长老对话吧)</FONT>",
+      "answer": ""
+    }
+  ]
+}

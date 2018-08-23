@@ -1,0 +1,51 @@
+[
+  {
+    "id": "mq34_9390_the_man_of_start",
+    "name": "揭开帷幕者",
+    "qid": "9390",
+    "nextid": "9391",
+    "chapter": "13"
+  },
+  {
+    "id": "mq34_9391_hint_of_ancient_times",
+    "name": "古代的情报",
+    "qid": "9391",
+    "nextid": "9392",
+    "chapter": "13"
+  },
+  {
+    "id": "mq34_9392_small_union",
+    "name": "小联盟",
+    "qid": "9392",
+    "nextid": "9393",
+    "chapter": "13"
+  },
+  {
+    "id": "mq34_9393_the_beginning_of_legend",
+    "name": "传说的开始",
+    "qid": "9393",
+    "nextid": "9394",
+    "chapter": "13"
+  },
+  {
+    "id": "mq34_9394_efforts_for_legend",
+    "name": "努力的人们",
+    "qid": "9394",
+    "nextid": "9395",
+    "chapter": "13"
+  },
+  {
+    "id": "mq34_9395_end_of_legend",
+    "name": "彼日的呼喊，彼日的记忆",
+    "qid": "9395",
+    "nextid": "",
+    "chapter": "13"
+  },
+  {
+    "id": "mq34_9397_for_hope",
+    "name": "为了希望 ",
+    "qid": "9397",
+    "nextid": "",
+    "chapter": "13"
+  }
+]

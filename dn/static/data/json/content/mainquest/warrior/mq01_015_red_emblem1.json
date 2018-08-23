@@ -1,0 +1,262 @@
+{
+  "qkname": "红色印章Ⅰ",
+  "data": [
+    {
+      "npc": "自卫团长史蒂夫",
+      "question": "你找到<FONT color=#a82424>萝丝</FONT>了吗？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "回、回到村子，把地、地图交给<FONT color=#a82424>自卫团长史蒂夫</FONT>，然后赶紧到<FONT color=#a82424>古代神殿遗迹</FONT>来……<br>一、一定要快点来啊！<FONT color=#a82424>萝丝</FONT>现、现在的处境很危险……",
+      "answer": "",
+      "image": "qn_guard_steave.png"
+    },
+    {
+      "npc": "自卫团长史蒂夫",
+      "question": "<FONT color=#a82424>萝丝</FONT>……看来是还没找到吧。",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "这是什么……？啊，是从阴影森林山麓找到的地图吗？<br>\n啊，这里！",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "自卫团长史蒂夫",
+      "question": "从地图上看，箭头指向<FONT color=#a82424>古代神殿遗迹</FONT>。萝丝和失踪的村民应该就在那里……<br>嗯？但是……怎么没看见<FONT color=#a82424>提摩西</FONT>。他没和你一起回来吗？",
+      "answer": "",
+      "image": "qn_guard_timose.png"
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "是吗？他先前往那里了？<br>\n嗯……他虽然说话有些结巴，但还是能保护好自己的。",
+      "answer": "",
+      "image": "qw_2.png"
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "可是，由于事关<FONT color=#a82424>萝丝</FONT>，我也无法推测出他会如何行动。<br>\n看来你最好去一趟<FONT color=#a82424>古代神殿遗迹</FONT>。",
+      "answer": "",
+      "image": "qw_2.png"
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "请你回、回村里去，把地图交给<FONT color=#a82424>自卫团长史蒂夫</FONT>，并讲述事、事情的经过……",
+      "answer": "",
+      "image": "qn_guard_steave.png"
+    },
+    {
+      "npc": "高级战士邓肯",
+      "question": "<FONT color=#a82424>自卫团长史蒂夫</FONT>好像正在找你……<br>你去见见史蒂夫吧？",
+      "answer": "",
+      "image": "qn_guard_steave.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "咳咳咳……看你一个人回来的，肯定是没找到萝丝了……你都不认识萝丝，却愿意帮着寻找她。真不知道该怎么感谢你。",
+      "answer": ""
+    },
+    {
+      "npc": "受伤的村民",
+      "question": "谢……谢你救了我。",
+      "answer": ""
+    },
+    {
+      "npc": "受伤的村民",
+      "question": "你击败了那些可怕的怪物……这下总算得救了！<br>我不会忘记你的恩惠。谢谢你！",
+      "answer": ""
+    },
+    {
+      "npc": "关在监狱里的村民",
+      "question": "呼……谢谢你救了我……",
+      "answer": ""
+    },
+    {
+      "npc": "关在监狱里的村民",
+      "question": "你来救我了！ <br>谢谢你……呜呜……我以为自己死定了……",
+      "answer": ""
+    },
+    {
+      "npc": "受伤的村民",
+      "question": "谢……谢你救了我。",
+      "answer": ""
+    },
+    {
+      "npc": "自卫团长史蒂夫",
+      "question": "谢谢你。在去遗迹之前，请你先去见见<FONT color=#a82424>冒险家公会</FONT>派来的<FONT color=#a82424>高级战士邓肯</FONT>。他会告诉<FONT color=#387206>{user_nick}</FONT>你一些有用的事情。",
+      "answer": "",
+      "image": "qn_npc_warrior_dunken.png"
+    },
+    {
+      "npc": "高级战士邓肯",
+      "question": "你就是那个救了莉莉的流浪冒险家吗？<br>我之前好像没见过你，你是什么地方的人？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我的故乡……现在已经荡然无存了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级战士邓肯",
+      "question": "看来你一定有你自己的故事……<br>我看你年纪不大，却独自击退了怪物，真了不起。<br>你是从谁那里学会战斗的方法的呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>从我父亲那里学到的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级战士邓肯",
+      "question": "\n哦……？看来你的父亲也是战士了？<br>\n你父亲叫什么名字？<br>\n说不定我会认识他。",
+      "answer": ""
+    },
+    {
+      "npc": "高级战士邓肯",
+      "question": "\n兰伯特？你是说<FONT color=#a82424>沙漠蓝狼兰伯特</FONT>吗？<br>\n你是他的儿子？",
+      "answer": ""
+    },
+    {
+      "npc": "高级战士邓肯",
+      "question": "\n没想到你父亲是我认识的人，真让人吃惊。<br>\n他还好吗？",
+      "answer": "（讲述父亲留下的话）"
+    },
+    {
+      "npc": "高级战士邓肯",
+      "question": "他留下一句话，说如果有一天自己成为了凌驾于<FONT color=#a82424>巴尔纳</FONT>之上的英雄后，或许我们还能再见，然后就离开了……？<br>\n这话真是意味深长，能说出这种话，看来你父亲应该就是我认识的那位。",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "npc": "高级战士邓肯",
+      "question": "嗯？<FONT color=#a82424>巴尔纳</FONT>是谁……？哈哈哈。<br>这世上不知道巴尔纳的人恐怕也只有你了吧。<br>你父亲没和你说明，应该是希望你能自己明白。",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "npc": "高级战士邓肯",
+      "question": "你在战士的成长生涯中，如果说可能会遇到障碍的话，那就是<FONT color=#a82424>巴尔纳</FONT>了。<br>\n那不仅是你，而是包括我和你父亲在内的所有战士共同的障碍。呵呵……",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "npc": "高级战士邓肯",
+      "question": "现在谈论<FONT color=#a82424>巴尔纳</FONT>还太早。 虽然你得到了兰伯特的真传，但在这么短的时间内，学到的东西很有限。现在你不需要记住这些，把它忘了吧。",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "npc": "高级战士邓肯",
+      "question": "\n不小心扯远了。你先把精力集中在眼前的敌人身上。你现在要去的遗迹的头目是<FONT color=#a82424>巨人朱克阿诺</FONT>。我要告诉你一件事，当他蜷起身子的时候，一定要及时躲开。",
+      "answer": "",
+      "image": "qm_trollblue.png"
+    },
+    {
+      "npc": "高级战士邓肯",
+      "question": "你知道快速按两次方向键，或者按住方向键的同时按[ <FONT color=#a82424>Shift</FONT> ]键，可以使用<FONT color=#a82424>翻滚</FONT>技能的吧？<br>当它将身体滚成球形冲撞而来时，你要及时闪避，然后伺机进攻。",
+      "answer": "",
+      "image": "qm_trollblue.png"
+    },
+    {
+      "npc": "高级战士邓肯",
+      "question": "要想和父亲一样成为传说中的战士，你必须努力学习<FONT color=#a82424>技能</FONT>。<br>\n我虽然无法和兰伯特相比，但可以教给你一些战士的基本技能。",
+      "answer": ""
+    },
+    {
+      "npc": "高级战士邓肯",
+      "question": "<FONT color=#2b2723>按下[ </FONT><FONT color=#a82424>K</FONT><FONT color=#2b2723> ]键可以打开技能窗。你先熟悉一下吧</FONT><FONT color=#2b2723>。</FONT><br>\n<FONT color=#2b2723>你现在虽然不需要别的技能，但及时学会可以学到的技能对你很重要</FONT>。<br>\n那么祝你好运。",
+      "answer": "",
+      "image": "qm_trollblue.png"
+    },
+    {
+      "npc": "自卫团长史蒂夫",
+      "question": "在去遗迹之前，请你先去见见<FONT color=#a82424>冒险家公会</FONT>派来的<FONT color=#a82424>高级战士邓肯</FONT>。他会告诉<FONT color=#387206>{user_nick}</FONT>你一些有用的事情。",
+      "answer": "",
+      "image": "qn_npc_warrior_dunken.png"
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "啊…是找 <FONT color=#a82424>高级战士邓肯</FONT>大，大人是吗? <br>邓肯大人在村，村里啊。你怎么在这里找他啊！快，快回到村庄去找邓肯大人，再回到 <FONT color=#a82424>古代神殿遗迹</FONT>吧！",
+      "answer": "",
+      "image": "qn_npc_warrior_dunken.png"
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "\n你……在寻找高、<FONT color=#a82424>高级战士邓肯</FONT>？<br>\n邓肯在村、村里，你在这、这里找干什么！快、快回到村里，见见邓肯，然后到<FONT color=#a82424>古代神殿遗迹</FONT>来！",
+      "answer": "",
+      "image": "qn_npc_warrior_dunken.png"
+    },
+    {
+      "npc": "高级战士邓肯",
+      "question": "好了，你快去<FONT color=#a82424>古代神殿遗迹</FONT>。<br>很多人都在等着你的帮助。",
+      "answer": "",
+      "image": "qw_2.png"
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "啊……你来啦。太好了，现在还没太晚……",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "可……可是，我们好像晚，晚了一步……<br>看样子<FONT color=#a82424>箩</FONT>，<FONT color=#a82424>萝丝</FONT>已经被，被转移到别处去了……",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>……怎么只把萝丝带走了呢？</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "……这，这个嘛……你先拿着这个。<br>这是你和<FONT color=#a82424>巨人 </FONT><FONT color=#a82424>朱克阿诺</FONT>战、战斗的时候掉落的东西。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "这，这是<FONT color=#a82424>怪物的纹章碎片</FONT>……从纹章上雕刻的图案看……应该是栖息在<FONT color=#a82424>墓穴</FONT>的牛……<FONT color=#a82424>牛头怪翁拉克</FONT>的纹章……箩……萝丝也许被带到了<FONT color=#a82424>墓穴</FONT>！",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "我……我先去<FONT color=#a82424>墓穴</FONT>了，你回到村里见见<FONT color=#a82424>村长</FONT>之后再来吧。<br>\n<FONT color=#a82424>村长</FONT>应该会比……较了解<FONT color=#a82424>墓穴</FONT>的<FONT color=#a82424>翁拉克</FONT>。",
+      "answer": "",
+      "image": "qn_elder_harold.png"
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "你……去过村里了吗？<br>必、必须马上去<FONT color=#a82424>古代神殿遗迹</FONT>。你还在这儿磨蹭什么！",
+      "answer": "",
+      "image": "qw_2.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "\n怎么样了？<br>\n你到那里……找到我们萝丝了吗？",
+      "answer": "",
+      "image": "qw_3.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "只把<FONT color=#a82424>萝丝带走了？</FONT>咳咳咳咳，难道？不会的。啊，怎么会这样，这可糟了。怪物们要把萝丝……咳咳咳咳。",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "我……我先去<FONT color=#a82424>墓穴</FONT>了，你回到村里见见<FONT color=#a82424>村长</FONT>之后再来吧。<br><FONT color=#a82424>村长</FONT>应该会比……较了解<FONT color=#a82424>墓穴</FONT>的<FONT color=#a82424>翁拉克</FONT>。",
+      "answer": "",
+      "image": "qn_elder_harold.png"
+    }
+  ]
+}

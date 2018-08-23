@@ -1,0 +1,198 @@
+{
+  "qkname": "说服",
+  "data": [
+    {
+      "npc": "王城近卫兵劳尔",
+      "question": "唉，如果你再这样，我就不告诉你其他冒险家去了哪里！<br>人吧，偶尔还是需要勇于承认错误的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "<FONT color=#7e12d2>(安杰利卡好像正忙于寻找什么东西。 等把神圣天堂的事情办完后，再来吧。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "<FONT color=#7e12d2>(伊桑好像正忙于寻找什么东西。等把神圣天堂的事情办完后，再来吧。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "嗯！我暂时不想和你说话。你快走吧！",
+      "answer": ""
+    },
+    {
+      "npc": "王城近卫兵劳尔",
+      "question": "我说你这个小姐还真是固执啊。<br>我不是已经给你忠告了嘛！以后要是其他冒险家责怪起来，那可不关我的事。",
+      "answer": ""
+    },
+    {
+      "npc": "王城近卫兵劳尔",
+      "question": "什么，你说你正在找其他冒险家吗？<br>他们是不是去<FONT color=#a82424>枯叶森林爆炸地区</FONT>了呢……啊啊，我不是很清楚。<br><FONT color=#7e12d2>(王城近卫兵劳尔因为说服不了我而变得不高兴，于是净说些没谱的话)</FONT>",
+      "answer": "",
+      "image": "qw_41.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "你好像总是跟着我们呢，有什么事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……我有话想跟伊桑说。</FONT>",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "你干嘛？上次使唤了你几次，你就耿耿于怀？没想到你心眼这么小啊！",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "你好。<FONT color=#387206>{user_nick}</FONT>。<br>就算消灭了黑龙，这场危机还是没有结束啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是啊。对了，伊桑。你们来这里有什么事吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "我们是为了帮助伊格纳西奥，而来到这里的。<br>啊，看来<FONT color=#387206>{user_nick}</FONT>你也是来帮助我们的啊。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "不过，既然已经找到了<FONT color=#a82424>古代人的咒文书</FONT>，<br>我们现在最好立刻返回王城。<br><FONT color=#7e12d2>(伊桑一边微笑着一边说道)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个……我是来劝说伊桑你的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "啊？(牧师伊桑一脸诧异的表情)",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>伊格纳西奥是与龙之追随者一伙的使徒。<br>他好像在密谋什么计划。你们最好不要帮他办事。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "<FONT color=#7e12d2>(伊桑的表情有些不悦)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "我说，你的话是不是太过分了！<br><FONT color=#a82424>伊格纳西奥</FONT>和伊桑一样，是侍奉女神的神官啊。你居然怀疑他，这可不太像话了吧。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>但……但是……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "到底是谁如此胡说八道啊！<br>我说，单纯的你肯定是被人蛊惑了，你快告诉我是谁",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不能告诉你。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "我真是很失望啊， <FONT color=#387206>{user_nick}</FONT>。<br>我一直觉得你不像是一个会诋毁别人的人。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>因为，那是……一个小孩告诉我的。<br>说伊格纳西奥是使徒……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "小孩？你对一个小孩的谎话深信不疑，这不是很可笑吗？<br>哎哟，所以我说你们这些娇惯的贵族们不行吧。呼~！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是那样的！我……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "我不会将此事告诉伊格纳西奥的，你最好别再说这样的话了。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "以后，我们还是可以和和气气地交谈。<FONT color=#387206>{user_nick}</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "刚才还喊着伊桑~ 伊桑~，现在却把大家的好心情给毁了。<br>\n<FONT color=#7e12d2>(魔法师安杰利卡好像不想再理我了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "人人都会犯错，但只要反省后下次不再犯，就能得到原谅。<br><FONT color=#7e12d2>(这段时间多有失礼……应该向伊格纳西奥道歉吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "不好了……大事不好啦。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个……伊格纳西奥！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "怎么又是你啊？我之前好像跟你说过以后不要再来王城了啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是的，我来是想向你赔礼道歉的。<br>上次真是对不起。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "虽然你现在才认识到自己的错误，嗯嗯……<br>不过，女神已经原谅了你这个愚蠢的人类所犯下的错误。",
+      "answer": ""
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "不过现在的情况并非如此。这到底是怎么回事？<FONT color=#387206>{user_nick}</FONT>!!<br><FONT color=#7e12d2>(伊格纳西奥一脸凶相地追问我)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哎……？？？又发生什么事了吗？</FONT>",
+      "answer": ""
+    }
+  ]
+}

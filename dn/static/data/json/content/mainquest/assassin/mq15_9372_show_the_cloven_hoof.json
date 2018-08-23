@@ -1,0 +1,89 @@
+{
+  "qkname": "显露的真相",
+  "data": [
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "现在连真实之镜也弄到手了，拯救巴尔纳的准备工作已经完成了。来，快和先知一起出发吧。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你到王城地下去请先知过来吧。<br>是时候去拯救陷入痛苦中的巴尔纳了。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，是你啊。<br>你好。那个东西是……？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "是特拉玛依交给你的东西啊。真是个神秘的东西。<br><FONT color=#7e12d2>(萝丝看了一眼镜子，转过了头)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "\n这是……不能看的东西吗……？<br>\n对不起。我不知道……希望这个东西能帮到大家。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>对了，我想问你一个问题……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "露娜莉娅……？啊，是你在找的那个人吗？<br>对不起，我没有见过那个人。看来我的力量正在消失……呜呜……<br><FONT color=#7e12d2>(萝丝的眼角湿润了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "你帮了我那么多次，我却连这种小事都帮不了你……<br>我为什么这么弱呢？真对不起。真对不起……抽泣……",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "你真是个善良的人。<FONT color=#7e12d2>(萝丝擦了擦眼角)</FONT><br>嗯，我会努力的。<FONT color=#387206>{user_nick}</FONT>，就算有一天我的力量会完全消失，我也会尽力在这之前帮助善良的你……<br>我会努力祈祷，希望能看到你正在找的那个人。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "啊！对了，刚才我在梦中看到了巴尔纳所在的地方。<br>我在祈祷的时候睡着了，虽然很模糊，但我敢肯定那一定是巴尔纳。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "那里应该是陨石坠落地中心。<br><FONT color=#7e12d2>(萝丝握紧了双手说道)</FONT><br>在梦中，他正在和黑骑士对峙。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "这不敢相信。<br>怎么会发生这种事！！",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "不快点救他的话……他……<br><FONT color=#7e12d2>(萝丝的声音哭泣般地颤抖着)</FONT><br>我会和特拉玛依一起跟着过去。<FONT color=#387206>{user_nick}</FONT>，请你先到<FONT color=#a82424>陨石坠落地中心</FONT>去。",
+      "answer": "",
+      "image": "qw_63.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "怎么会这样……<br>到底是怎么回事……？<br>先知……先知为什么……",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#7e12d2>(泰兰斯咬紧了嘴唇)</FONT><br>贝思柯德……我要把他送到王城去进行治疗。<br>你也到<FONT color=#a82424>神圣天堂王城</FONT>去吧。",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    }
+  ]
+}

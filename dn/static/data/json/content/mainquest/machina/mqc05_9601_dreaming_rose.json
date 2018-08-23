@@ -1,0 +1,196 @@
+{
+  "qkname": "箩丝的梦",
+  "data": [
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "味道闻起来是不是很好吃？但是这可不能吃。<br>现在你把这撒到你要唤醒的人身上，就能进入她的梦里了。拿去吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（不要被王城的人发现，去王城地下使用梦粉吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "……不要。现在……不要。我累了……<br>全都是……全都是因为我。<br>要是没有我的话……那样谁也不会……",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "……<br><FONT color=#7e12d2>（她好像洋娃娃一样躺在那里，什么反应都没有）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（使用梦粉）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "…….<br><FONT color=#7e12d2>（如同木偶一般毫无反应）</FONT><br><br><FONT color=#7e12d2>※ 组队状态下无法进行。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "<FONT color=#a82424>古代人的后裔</FONT>至今仍在沉睡。<br>她似乎没有别的问题……我也不知道到底是为什么。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰兰特也没有什么办法吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "这个嘛……也许她是在做一个不愿意醒过来的梦。<br>如果想知道，只能亲自和她见面问问她了。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "我也知道你很活跃，而且现在不是担心我这个师父的时候。<br>快把唤醒箩丝这件大事做成吧！",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "宫廷魔法师 斯泰拉",
+      "question": "你用了梦粉吗？有效果的话，称赞一下斯泰拉大人也是可以的。呼呼……",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "……不要……<br><FONT color=#7e12d2>（少女一边抽泣着，一边自言自语）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "\n……不要……我现在不要……我累了……全都是……全都是因为我。<br>要是没有我的话……那样谁都不会死了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你不要说这种软弱的话。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "箩丝",
+      "question": "都是因为我。 <br>因为我出生了……，因为我的存在……<br>因此……大家都……",
+      "answer": ""
+    },
+    {
+      "npc": "箩丝",
+      "question": "我要继续呆在这里。<br>我不会去任何地方，也不要和任何人说话。<br>你现在……走吧……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我有话问你。我的手臂，还有关于兽人的歌谣……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "箩丝",
+      "question": "兽人……？不知道，不知道。我不想知道。为什么要把这种力量给我？我什么都不会……，<br>我从来都不希望有这种力量……为什么要这样对我？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>看来你是知道什么的。告诉我！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "对不起，我现在什么都不想做。<br>\n也不想见任何人……<br>我累了……就让我一个人呆着吧……拜托了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不行！拜托了……我需要你的帮助！ </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "……<br><FONT color=#7e12d2>（她好像洋娃娃一样躺在那里，什么反应都没有）</FONT>",
+      "answer": "（使用梦之粉）"
+    },
+    {
+      "npc": "箩丝",
+      "question": "对不起……",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "古代人的后裔让你看到她的梦境了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那是少女的梦吗……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "那可以说是借助了梦的形式而具象化的历史吧。<br>那是在她的潜意识中刻下的，人类的历史。<br>你已经听到了那个少女的故事。<br><FONT color=#7e12d2>（杰兰特淡淡地说道）</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我本期待着你能将她唤醒。<br>但看样子，是她自己抗拒醒来。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没有其他方法吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "等下去的话，总有一天会醒过来的。<br>因为人类的坚韧是超出想象的……<br>总有一天，她会听到你的声音的。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "……<br><FONT color=#7e12d2>（她好像洋娃娃一样躺在那里，什么反应都没有）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我会守护古代人的后裔的，你就去忙你的事情吧。<br><FONT color=#7e12d2>（回去找小龙商量吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_shaolong.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "你是去见了那个少女以后回来的吗？看你的表情充满忧虑啊。那个少女说了什么不好的事情吗？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没有。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "ndnpc_Shaolung_9601_qu_01.ogg}<br>嗯！不是的话，就算了！看来魔法师斯泰拉也不知道该如何唤醒少女。<br>如果少女没醒过来，我这个当师傅的也能理解你失望的心情。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>斯泰拉大人的药没有用。箩丝拒绝从梦里醒过来。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "<FONT color=#7e12d2>（小龙抱住了脑袋）</FONT> <br>这段时间费了这么大的劲，结果居然全是白费劲吗…………",
+      "answer": ""
+    }
+  ]
+}

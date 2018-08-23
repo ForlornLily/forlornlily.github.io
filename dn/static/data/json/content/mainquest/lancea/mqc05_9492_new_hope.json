@@ -1,0 +1,200 @@
+{
+  "qkname": "新希望",
+  "data": [
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "唉，什么呀。都快长出皱纹了呢。<br><FONT color=#7e12d2>（卡拉安将小镜子放入口袋，不耐烦地摆了摆手）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "我得休息一下了。你走吧。<br><FONT color=#7e12d2>（回到埃提亚那里，跟她商议下该怎么做）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "会在哪里呢？？额…额啊…. <FONT color=#7e12d2>（柯梅里纳正忙着寻找某样东西）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "先知醒来了吗？ ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>还没有……（转述与先知在梦中的对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "原来如此。她究竟在逃跑什么呢？<br>不管怎样，现在已经没有唤醒先知的办法了，这可糟了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯。现在该怎么办？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "我不知道。一切问题的答案都掌握在黑骑士手中，但他消失了，先知似乎也不会醒来。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "此外，据说首都的士兵们患了很严重的病，这件事在百姓之间引起了轩然大波。<br>黑龙的血应该是士兵患病的原因吧？战争后一片狼藉，我们几乎什么都做不了。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "凯伊哥哥应该暂时不会帮助我们了吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我们按照凯伊所说的，把先知带给他吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐！不能那么做。<br>我也很信任凯伊哥哥，但先知是很多人的希望。如果先知再次消失，所有人都会灰心丧气的。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "首先……嗯。<FONT color=#7e12d2>（埃提亚思考了很长时间后，说道）</FONT><br>我们再从头开始吧。如果对与黑骑士战斗时的痕迹进行搜索，说不定能发现什么线索呢。",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（由奇怪的组织构成的翅膀碎片。<br>周围散布着看上去像是血迹的东西）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（由奇怪的组织构成的翅膀碎片。<br>周围散布着看上去像是血迹的东西）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "<FONT color=#7e12d2>（埃提亚展开了神圣天堂附近的地图）</FONT><br>姐姐，你到<FONT color=#a82424>黑暗大君主之塔</FONT>那里看看吧。那里在战争发生地的对面，士兵们还没有对那里进行调查。那里很可能还保留着什么线索。",
+      "answer": "",
+      "image": "qw_40.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "那个... 那个.....",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没想到我们在这里又见面啦。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "那个东西能给我吗？<br>我很需要它。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？这个肯定是与黑骑士有关的线索，我要把它带走。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "请给我吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不要。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "给我。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不……不行。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "我真的很需要。<FONT color=#7e12d2>（学者柯梅里纳冲过来，想要抢走翅膀碎片）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你为什么需要这东西！如果你不告诉我，我是不会给你的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……如果我告诉你，你能向我保证，会把翅膀碎片给我吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，好的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "呃呃……不知道这件事能不能告诉你…… <FONT color=#a82424>贝思柯德</FONT>说需要那翅膀碎片，自己才能恢复。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？贝思柯德？话说，上次你也……</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "我已经告诉你了，那我现在就把翅膀碎片拿走了。<FONT color=#7e12d2>（柯梅里纳一把拿过碎片，又逃跑了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑龙翅膀碎片",
+      "question": "<FONT color=#7e12d2>（小心翼翼地搜集了翅膀碎片，不被血沾染。<br>感受到了一股强大的力量）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": " <br>\n<FONT color=#7e12d2>（听到了某人正在靠近的脚步声</FONT><FONT color=#7e12d2>）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊？？等一下！！！！<br>（已经看不到柯梅里纳的踪影了。将这件事告诉埃提亚吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "真的吗？那个女孩说黑骑士还活着？<br>姐姐，你成功了！我就知道你会找到<FONT color=#a94407>黑骑士</FONT>的线索的。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是…是吗？我厉害吗？嘿嘿嘿！</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "嗯~ 当然啦。我的姐姐最了不起！<br>之前我总觉得我们做的事情空泛又不切实际，现在终于有明确的目标了。对吧？",
+      "answer": ""
+    }
+  ]
+}

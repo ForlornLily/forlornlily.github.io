@@ -1,0 +1,188 @@
+{
+  "qkname": "不完整的龙",
+  "data": [
+    {
+      "npc": "阿尔杰塔",
+      "question": "你要做的事越来越多了。你应该感激，<FONT color=#387206>{user_nick}</FONT>。<br>你既然来了这里应该对此有心理准备吧。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "有个叫做火焰峡谷的地方！<br>由于古代人曾经在那里干过一些勾当，所以说不定还会残留一些古代人用过的遗迹碎片之类的东西。你去给我找来吧。",
+      "answer": "",
+      "image": "qw_92.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "有个叫做火焰峡谷的地方！<br>由于古代人曾经在那里干过一些勾当，所以说不定还会残留一些古代人用过的遗迹碎片之类的东西。你去给我找来吧。",
+      "answer": "",
+      "image": "qw_92.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "由于那是古代的遗迹碎片，所以很有可能会在强大的怪物身上。<br>我会把杰兰特转移到那里，你负责把碎片带来。<br><FONT color=#7e12d2>(请前往火焰峡谷找到古代的遗迹碎片)</FONT>",
+      "answer": "",
+      "image": "qw_92.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "由于那是古代的遗迹碎片，所以很有可能会在强大的怪物身上。<br>我会把杰兰特转移到那里，你负责把碎片带来。<br><FONT color=#7e12d2>(请前往火焰峡谷找到古代的遗迹碎片)</FONT>",
+      "answer": "",
+      "image": "qw_92.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "切……<FONT color=#7e12d2>(看上去还是无精打采的)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "嗯，你找到了吗？嗯……还挺有用的嘛。<br><FONT color=#7e12d2>(阿尔杰塔接过古代的遗迹碎片，拿给杰兰特了。碎片放射出的奇怪光芒瞬间熄灭了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "嗯。<FONT color=#7e12d2>(阿尔杰塔看了看杰兰特的脸色)</FONT>时间流逝，毕竟会改变很多东西。现在的疗效已经大不如前了。<br>小家伙……都已经遍体鳞伤了，居然还勇敢地把它找了回来。<br>看来你果然不是间谍。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9413_qu_01.ogg}<br>哼，我就是随口说说。<br>话说回来，虽然杰兰特的力量还不完整，我也没料到他会被揍成这样。<br>竟然连意识都是勉强恢复过来的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰兰特不完整是什么意思？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9413_qu_02.ogg}<br>正如我所说，他的力量还未完全恢复。这家伙还不具有当年那个杰兰特的力量。<br>我估计他现在都没法变身成龙。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "有什么可惊讶的？你以为龙的复活是很轻而易举的事吗？真不知花了多少的力量，结果……却为了一个区区冒险家给用尽了。<FONT color=#7e12d2>(阿尔杰塔的目光很犀利。我的心里针扎似的难受……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "现在能化成人形已经十分不易了。所拥有的内尔文之力也已经被用光了。突然举行秘密会议，她虽说是女王，但也无法逃避寿命短暂的命运，结果还是……<FONT color=#7e12d2>(阿尔杰塔握紧了拳头)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>阿尔杰塔……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "\n啊，烦死了。都是因为你这个小毛孩才让我变得忧郁起来。现在也该休息差不多了吧？那么就去消灭怪物吧。在你没在的这段时间，怪物们已经快占山为王了。把它们都给我消灭了！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "把它们一个不剩地<FONT color=#2b2723>清理干净后就出来吧！</FONT><br>这帮没趣的家伙竟敢在巨石碑安设巢穴……<br><FONT color=#7e12d2>(请消灭火焰峡谷的怪物)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "切……<FONT color=#7e12d2>(看上去还是无精打采的)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>很好，现在已经看不见怪物了。附近的怪物都被清理干净了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>巨石碑和我想象的有些不同，所以吃了一惊。没想到是个如此炽热、黑暗的地方。</FONT><br><FONT color=#662500>不，准确地说应该是巨石碑附近的地方是那样的才对……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……这么看来，这附近以及巨石碑都不是普通人能来的地方，竟然会有古代人的遗迹碎片……？那么古代人应该是可以了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃，这是什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(捡起古代人的石板。虽然已经被烧得黑乎乎的，但依然能看到上面清晰的文字。而且拿起来也没有看上去那么重。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这个也能用在杰兰特的治疗中吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃？怎么回事？刚刚明明有什么东西在晃动的……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……？我刚才好像看到个人影。还有……嗯？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>就在刚刚，被烧得黑乎乎的碎片好像恢复了颜色？！？这是怎么回事？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……而且不知为什么感觉很奇怪。到底是什么呢……到底是什么东西这么奇怪呢？周围的环境好像也发生了变化……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是因为在巨石碑附近待了太久的缘故吗……？赶快回去把这个碎片交给阿尔杰塔吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(呃呃呃呃呃？？？？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(怎怎怎么回事？？怎么一个人也没有？阿尔杰塔、精灵还有长老都不在！这里真的是阿努阿兰德吗？呃？呃？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(这究竟是怎么回事？到底发生什么事情了？)</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(到底发生了什么事情！！？大家都去了哪里？)</FONT>",
+      "answer": ""
+    }
+  ]
+}

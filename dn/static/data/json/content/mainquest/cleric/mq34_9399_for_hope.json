@@ -1,0 +1,424 @@
+{
+  "qkname": "为了希望 ",
+  "data": [
+    {
+      "npc": "白龙艾奥纳",
+      "question": "嗯嗯嗯~<FONT color=#387206>{user_nick}</FONT>你要去见特拉玛依，对吧？",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你有什么事吗？ <FONT color=#387206>{user_nick}</FONT>.",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我有话要对您说，特拉玛依大人。<br>是有关之前提到过的红龙的事情……<br>红龙佩达就是龙之追随者的王，而且他好像在打巨石碑的主意。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "什么？！佩达是龙之追随者之王？<br>莫非……上次闯进来的那个人……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>特拉玛依大人？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "啊，没什么。红龙如果是龙之追随者之王，那么，那只龙一定是人类。<br>但是……这就意味着他也是使徒的王，那么，他也拥有黑龙的力量吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好像是这样的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "呵呵，真是可怕的人类啊。好不容易打倒了黑龙，再加上红龙，甚至还盯上了巨石碑……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>特拉玛依大人也知道巨石碑吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我听杰兰特说过一点。据说是连接女神和这个世界的地方。但是竟然想触犯那个地方……红龙究竟有什么企图呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……我也不知道。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "……你说的情况和你猜测都是对的。这也解释了为什么红龙要来到强大的精灵们所在阿努阿兰德。之前不知道龙之追随者追随的是什么样的龙……如果是红龙的话……",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "……明白了。这是关乎世界存亡的问题。但是，问题在于，我们是人类，很难接近巨石碑。你有没有阿尔杰塔的消息呢？他们现在在哪里？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……是。</FONT><FONT color=#662500>她已经去了巨石碑。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "……已经去了？真快啊。但是，他们太不了解人类了……对付人类可是很棘手的。嗯，我们也要尽一份力，哪怕是微薄之力也好。但是，如果想调用宫中的牧师们的话……<FONT color=#7e12d2>（瞟了一眼斯图尔特）</FONT>可能得强硬一点才行。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……需要我帮忙吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "呵呵，不用。我只是开个玩笑。固然要强硬一点站出来，但还不至于需要你出头。你回到需要你的地方吧。我来做我该做的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "人类，即使伤口很深也依然能行动。我相信女神大人把人类塑造成这样自有她的道理。红龙……如果他是龙之追随者的幕后黑手，大家一定会理解并行动的。我马上就派人去阿努阿兰德。<FONT color=#7e12d2>（请去告诉白龙艾奥纳，所有的事情都顺利解决了）</FONT><br>\n <br>\n<FONT color=#7e12d2>*组队状态下无法进行任务。</FONT>",
+      "answer": "",
+      "image": "qw_anuarendelgateway.png"
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9395_qu_44.ogg}<br>你来啦！情况怎么样？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>当然很顺利。特拉玛依大人明白了事情的重要性，他会去说服宫中的人的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "原来如此，哈哈。我也跟很多冒险家们说了，并请他们帮忙。<br>世界上善良的人真多啊~<br><FONT color=#2b2723>早知道是这样的话，我早点走出哈夫林就好了。</FONT><FONT color=#7e12d2>（艾奥纳非常满足地点着头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你现在不是走出来和我们交流了吗？光是这一点，艾奥纳就帮了大忙啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……呵呵呵，谢谢你这么说。<br>我都有点不好意思了。<br><FONT color=#7e12d2>（艾奥纳乐呵呵地笑着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……那个，我有话想跟你说，你能到<FONT color=#a82424>等待白昼森林</FONT>来吗？<br>我有话想在那里告诉你。<br>啊，对了，你一定要一个人来哦！我不想看到其他人。",
+      "answer": "",
+      "image": "qw_89.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……知道了。<br></FONT><FONT color=#7e12d2>（请去等待白昼森林找艾奥纳）</FONT><br><br><FONT color=#7e12d2>*组队状态下无法进行任务。</FONT>",
+      "answer": "",
+      "image": "qw_89.png"
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……啊，<FONT color=#387206>{user_nick}</FONT>，你来啦！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你要说的事，是什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……嗯，我啊，我想听<FONT color=#387206>{user_nick}</FONT>的故事。<FONT color=#387206>{user_nick}</FONT>是在教团吧？是遵循女神大人的旨意吧？你能给我说说嘛？我虽然拥有混沌龙的记忆，但奇怪的是，我不太记得有关女神的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是吗？看到你还没有忘记女神，女神大人也一定会很开心的。<br>那就先从最基础的教义开始吧……<br>（开始说明女神的教义……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……（一边回想过去的记忆，一边从基础教义开始讲起。不知道亲生母亲的存在，被父亲和后母伤害……女神的教义和神殿骑士团的同伴们抚慰了我的这些伤痛……还有对我亲如大哥的他……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……虽然听起来很难，但实际上讲的是女神无论什么时候都庇佑着我们。<br>所以……嗯？艾奥纳，你在听吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9395_qu_46.ogg}<br>……呼……！啊，当然，我在，在听。我真的只是打了个盹儿。<br>都是因为<FONT color=#387206>{user_nick}</FONT>你的声音太温暖了~！<br>女神大人是很好的人——呃，嗯。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哈哈，第一次听可能会觉得有点无聊。我第一次听的时候也听不懂。万事开头难嘛。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……是吗……第一步对任何人都很难啊。<br>但是，一旦开始了，谁都会后悔开始的太晚了吧。<br>为什么没有早点做呢……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……每个人都是一样的。</FONT><br>\n<FONT color=#662500>所以开始才更有价值。</FONT><br>\n<FONT color=#662500>艾奥纳，你也有这样的时候吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "嗯，现在也是。……如果我在力量更多的时候就从哈夫林出来的话就好了。离开哈夫林的决定，好像做得太晚了。其实，除了这件事之外，我后悔的事情还有很多很多。但是，见到<FONT color=#387206>{user_nick}</FONT>之后，我最后悔的，还是现在的这件事，如果我早点做出这个决定就好了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……没关系，艾奥纳。现在艾奥纳不是想战斗吗？</FONT><br><FONT color=#662500>女神大人永远不会抛弃有勇气的人。</FONT><FONT color=#662500>而且，了解艾奥纳的心的人，也一定会出现的。</FONT><FONT color=#662500>善良的人不只有女神大人而已，周围也有很多善良的人。我不是也和你在一起嘛。你不用太自责。 </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……呼呼，听到这种赞扬，好害羞啊……<br>\n……善良、开心、在一起、不要自责……这些话我还是第一次听到，呵呵呵。<br>\n<FONT color=#7e12d2>（艾奥纳捂着脸不知如何是好）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……这……</FONT><br>\n<FONT color=#662500>你说你一直都是独自待着，你是混沌龙的时候不也是和古代龙在一起吗？ </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9395_qu_47.ogg}<br>……古代龙？不不，古代龙啊，他根本不怎么说话。<br>总是我自己在说话。虽然我的话也不太多，但古代龙的话更少。<br>我们可是恪尽职守的龙。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……虽然我对龙不太了解，</FONT><br>\n<FONT color=#662500>但阿尔杰塔和杰兰特好像很重视对方。</FONT><br>\n<FONT color=#662500>阿尔杰塔叫杰兰特为哥哥。古代龙虽然话少，但也很重感情啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9395_qu_48.ogg}<br>……兄弟？阿尔杰塔？叫杰兰特？！？！<br><FONT color=#7e12d2>（艾奥纳好像非常吃惊）</FONT><br>哇……阿尔杰塔竟然会说这种话！她对我只会发脾气呢！",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……嗯，为什么这样啊，嗯，啊！真是嫉妒死了，嫉妒！<br>我和古代龙不是那种关系。<br>从人类的关系来看是兄弟，但我们不是那种兄弟。<br><FONT color=#7e12d2>（艾奥纳露出不悦的表情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9395_qu_49.ogg}<br>……唉唉，笨蛋古代龙，真难懂啊。<br>对了，你有兄弟或姐妹吗，<FONT color=#387206>{user_nick}</FONT>？不知道为什么，感觉你应该有。<br><FONT color=#7e12d2>（艾奥纳眨巴着眼睛）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……嗯，我有一个没有血缘关系的兄弟。</FONT>",
+      "answer": "",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9395_qu_50.ogg}<br>……果然！快告诉我，我好想听！<br>嗯？你会告诉我吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……（对艾奥纳讲述了和杰克的几个回忆。只有结局没有告诉他。虽然艾奥纳是龙，但他不仅长着小孩子的脸，连思考方式也是小孩子）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……哇，真是善良的哥哥啊！<FONT color=#387206>{user_nick}</FONT>，你真幸福，能有这样的哥哥。<br>\n<FONT color=#387206>{user_nick}</FONT>。你在这种地方，你哥哥不担心你吗？<br>\n如果我弟弟要去巨石碑的话，我一定会阻止他的。问他为~什么要去那~么危险的地方~<br>\n<FONT color=#7e12d2>（艾奥纳努力想摆出严肃的表情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……没、没关系……因为他相信我。</FONT><br>\n<FONT color=#662500>他想让我得到历练……</FONT><br>\n<FONT color=#662500>我也不会辜负他的信任。</FONT>",
+      "answer": "",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9395_qu_51.ogg}<br>……哦，是这样啊。是报答他的信任啊，嗯。<br>呃——那么，<FONT color=#387206>{user_nick}</FONT>，我可以叫你哥哥吗？<br>因为我相信你！我信任<FONT color=#387206>{user_nick}</FONT>~",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……呜，被拒绝了。<br>\n明确地被拒绝了。啊，但是我已经下了决心，下决心了。<br>\n……眼泪怎么跑出来了。是兄弟就能互相信任，我还以为能更容易说出口呢……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……即使不是兄弟，也可以互相信任。艾奥纳，你想说的话，随时都可以说。</FONT><br>\n<FONT color=#662500>你是不是有什么别的话想说呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……嗯，那个啊。<br>\n<FONT color=#7e12d2>（艾奥纳非常犹豫）</FONT><br>\n我也许必须要和<FONT color=#387206>{user_nick}</FONT>分开了……",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……我刚才跟你说过了吧？我遇到了很多其他的冒险家们。这些冒险家们全都是很好很好的人。他们知道了情况后，都很爽快地帮了忙。他们也想到巨石碑战斗。",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……但是，巨石碑是不能随便进入的。我在巨石碑最多只能保护一个人。所以我想了想。如果想给与他们能在巨石碑撑下去的力量，我该怎么做……",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……然后我想到了答案。我不是由宝玉，而是纯粹由力量组成的意念体。所以，如果把构成我的力量全部分给冒险家们的话，就能保护他们所有人了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……所以，为了那些冒险家们，你不惜要让自己消失吗？</FONT><br>\n<FONT color=#662500>要给出所有的力量吗？真的没有别的办法了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9395_qu_52.ogg}<br>……嗯，想要在巨石碑保护所有的人，这是唯一的办法。而且，为了保护这个世界上的人们而消失的话……应该就能赎清把毒散播到这个世界的罪了吧。",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……而、而且啊，我也不是完全消失噢。<br>\n如果获得我力量的冒险家们回到我的宝玉所在的哈夫林，我的宝玉和我的力量起反应，我就会再次出现。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……真的吗？你不是为了安抚我在说谎吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……是真的。龙不会说谎。<br>\n……虽然前提是大家都要活着，但我已经和其他冒险家们都约好了，一定要活着回来。<br>\n……而且，虽然我和大家并不是兄弟，但我信任大家！我也……不想消失啊。<br>\n ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……你真的这么信任大家吗，艾奥纳？</FONT><br><FONT color=#662500>他们，还有我，和你相处的时间并不算长。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……啊，我没想那么多。<br>\n我只是想守护大家而已。<br>\n刚才，听<FONT color=#387206> {user_nick}</FONT>讲故事的时候，我意识到了我是信任这些冒险家们的。",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "\n嗯，谢谢你告诉我‘信任’这个词。<br>\n有了这样的信念，我和其他冒险家们都会更有力量。<br>\n真可惜，现在见不到他们了……我还有很多话想说。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……你不用亲口告诉他们，你的情感也能到达他们心底。</FONT><br><FONT color=#662500>下次见面的时候，你一定要告诉他们。</FONT><br><FONT color=#662500>我以女神的名义起誓，我一定会守护他们。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "\n<FONT color=#387206>{user_nick}</FONT>？<br>\n你怎么突然……你不生气了吗？你理解我了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……你即便自己消失也想相信大家，愿意付出自己的一切。</FONT><br>\n<FONT color=#662500>我只是想守护你的这份心意而已。</FONT><br>\n<FONT color=#662500>而且，还有以后再会的约定。</FONT><br>\n<FONT color=#662500>这是我第一次庆幸你是龙。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9395_qu_53.ogg}<br>\n……嗯，让你露出那么悲伤的表情，真是不好意思……<br>但是，我说的是真的。我们真的还可以再见面。<br>你一定要活着回来哦！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……当然了。</FONT><br><FONT color=#662500>艾奥纳，愿女神的庇护伴随你……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "\n<FONT color=#7e12d2>（艾奥纳开心地笑着）</FONT><br>……谢谢，<FONT color=#387206>{user_nick}</FONT>。也愿女神的庇佑伴随你<FONT color=#387206>{user_nick}</FONT>……<br>\n你一定要平安无事。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……（感觉到身体周围环绕着光明的气息。这是艾奥纳留给我的力量吗……？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……（艾奥纳，你信任我，甘愿让自己消失。我必定会回报你的信任。你是龙，而且我们约定了下次再见，真是太好了。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……（我们是兄弟吗……杰克哥哥，虽然哥哥让我不要有留恋，但我怎么也忘不掉有关哥哥的回忆、想到哥哥的事情就会伤心难过，请哥哥原谅我这个不听话的弟弟）</FONT>",
+      "answer": "",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……（如果和你也有下次再见的约定就好了……啊，这也是留恋。我还是太不成熟了。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（现在宫中应该正在进行会议。去找精灵长老问问情况吧。）</FONT><br>\n <br>\n<FONT color=#7e12d2>（请去找精灵长老）</FONT>",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你来了啊。宫里来的人已经都告诉我了。<br>以<FONT color=#387206>{user_nick}</FONT>为首的一些冒险家们对巨石碑所处的危险提出了警告。<br>……我们现在不能再逃避了。<FONT color=#387206>{user_nick}</FONT>，需要你的力量的时刻马上就要到了。<br>在那之前，请好好养精蓄锐吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>宫中已经……好，我明白了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（艾奥纳啊，看来你真的遇到了很棒的冒险家们，他们也都尽全力帮你呢。）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（女神大人也会把你的努力看在眼里的。</FONT><FONT color=#662500>女神大人拯救自救的人们。</FONT><br><FONT color=#662500>在我们再会的那一天到来之前，你一定要平安待在哈夫林）</FONT><br><br><FONT color=#7e12d2>（[章节外传3.传说的开始]已全部完成）</FONT>",
+      "answer": "",
+      "image": "qn_npc_white_dragon.png"
+    }
+  ]
+}

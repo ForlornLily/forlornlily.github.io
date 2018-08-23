@@ -1,0 +1,349 @@
+{
+  "qkname": "留下的人",
+  "data": [
+    {
+      "npc": "戴维",
+      "question": "这世上有无数的人都在羡慕我戴维！<br>你不过是其中之一！吼吼吼。",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（被一种黑暗、邪恶的力量围绕的翅膀碎片。</FONT><br><FONT color=#7e12d2>周围似乎是血迹斑斑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "以你不要嫌麻烦，我想让你再去确认一件事。<br>这件事如果交给别人去办，我有些不放心，我只相信你。",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "这世上有无数的人都在羡慕我戴维！<br>你不过是其中之一！吼吼吼。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "是和<FONT color=#a82424>黑龙</FONT>有关。虽说有金龙守护在这里，可在日前的那场战斗中，两条龙不也是不相上下吗。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "虽说<FONT color=#a82424>黑龙</FONT>折断了翅膀并坠落到悬崖之下，但还不至于就这样死掉。别嫌我啰嗦……但说不定它就在什么地方疗伤呢……",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（杰兰特也说过这样的话！）<br>看来也不是没有这种可能。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "呵呵……是吗？嗯，如果<FONT color=#a82424>黑龙</FONT>再出现的话，就真的糟糕了，真让人担心……我们不能就这么坐以待毙。<br>现在必须找一找黑龙的踪迹，看看它是不是躲在哪里。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "那就请你去侦查一下<FONT color=#a82424>黑暗</FONT><FONT color=#a82424>大君主之塔</FONT>吧。<br>你到最中心去确认一下，看看有没有什么奇怪的征兆。",
+      "answer": "",
+      "image": "qw_40.png"
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（被一种黑暗、邪恶的力量围绕的翅膀碎片。</FONT><br><FONT color=#7e12d2>周围似乎是血迹斑斑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "我要委托你去侦查<FONT color=#a82424>黑暗大君主之塔</FONT>。因为我很担心黑龙是不是藏在什么地方。<br>你到最中心去确认一下，看看有没有什么奇怪的征兆。",
+      "answer": "",
+      "image": "qw_40.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "ionStand01}<br>我虽然不是在等你，但好久没见了，就跟你打声招呼！<br>吼吼吼，你要感到荣幸～",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃……？你怎么在这儿？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "还能为什么，这不是明知故问吗？吼吼吼。<br>你没忘了我的身份吧！我可是<FONT color=#a82424>阿尔杰塔</FONT>唯一的奴隶！永远的同伴！<br><FONT color=#a82424>戴维</FONT>！",
+      "answer": "",
+      "image": "qn_slave_david.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>所以说，阿尔杰塔已经离开了，你怎么还在这儿？</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "什……什么？阿尔杰塔离开了?<br>我说，<FONT color=#387206>{user_nick}</FONT>！你说的是什么意思？<FONT color=#a82424>阿尔杰塔</FONT>怎么可能离开？！怎么可能？！？！<br>\n<FONT color=#7e12d2>（看来打击不小）</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "我在帮<FONT color=#a82424>阿尔杰塔</FONT>办事的途中，就休息了一会儿，就一小～会儿！可就在这段时间，阿尔杰塔居然抛下我离开了……怎么可以……！",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>是不是办事办得太慢了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "一震！<FONT color=#7e12d2>（戴维假装不在乎）</FONT><br>我……我问你，<FONT color=#a82424>阿尔杰塔</FONT>去哪了？<br>当……当然我都知道！虽然知道……咳呵！",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>她说要前往莲花沼泽。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "那么现在还不晚！！从赫尔马岱港口乘船马上前往<FONT color=#a82424>莲花沼泽</FONT>的话，就一定能够见到的。哈。<br>请等等我！阿～尔～杰～塔～！<br>戴维就来了～！<FONT color=#7e12d2>（像牛一样叫喊着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>要办的事呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "ionStand01}<br>呃！！……嗯……这……这可怎么办呢……<br><FONT color=#7e12d2>（戴维忐忑不安）</FONT><br>好，好吧！那我就把阿尔杰塔仆人的差事让给你吧！你要感到光荣！",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "别担心！是你这种新手冒险家也能办到的事，完全没有问题！<br>在<FONT color=#a82424>黑暗大君主之塔</FONT>搜集几个<FONT color=#a82424>粉碎黑色砂芯</FONT>，然后转交给杰兰特。<br><FONT color=#2b2723></FONT><FONT color=#a82424></FONT>阿尔杰塔说<FONT color=#a82424>粉碎黑色砂芯</FONT>可以从可能留在塔上的黑龙折断的翅膀中搜集到。",
+      "answer": "",
+      "image": "qw_40.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>给杰兰特？做什么用？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "ionStand01}<br>……呃？那，那个……哎呀，既然是我们集美丽和坚韧于一身的女神<FONT color=#a82424>阿尔杰塔</FONT>的指示！就一定是好事呗！",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>…………</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "\n干什么，可怜兮兮的！我和你不同，我可是浑身上下都得到阿尔杰塔信任的人。吼吼吼～ 你知道吗？<FONT color=#a82424>杰兰特</FONT>就是六大英雄的统帅，可我们集美丽和坚韧于一身的女神<FONT color=#a82424>阿尔杰塔</FONT> 为什么不属于六大英雄呢！<br>\n ",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "哈哈哈！看来你不知道？这就是你和我这个奴隶的等级差别呀！<br>我就随便问问她就告诉我了。哈哈哈～",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>不是因为嫌你烦才告诉你的吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "\n什么……？不，不是的，怎么可能！<br>\n是被我的诚意所深深折服的阿尔杰塔以她那神圣、动听的声音亲自告诉我的！<br>\n那我就相信你的话，追随<FONT color=#a94407> 阿尔杰塔</FONT> 前往莲花沼泽了。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好吧。路上小心。</FONT><br><FONT color=#662500>（看起来非常着急）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "哈，哈哈！阿尔杰塔没告诉你，不高兴了吗？<br>哈哈哈～那就去问杰兰特呗！哈！哈！哈！",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "哈，哈，哈！<br>\n<FONT color=#7e12d2>（拜托赶紧走吧……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "阿尔杰塔，您忠实的奴隶来啦！<br>等着我吧～！！<br><br><FONT color=#7e12d2>（请前往黑暗大君主之塔找到黑龙折断的翅膀）</FONT>",
+      "answer": "",
+      "image": "qw_40.png"
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（被邪恶力量所围绕的黑色翅膀碎片。</FONT><br><FONT color=#7e12d2>周围散布着血迹一样的东西）</FONT>",
+      "answer": "（查看）"
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（是黑龙折断的翅膀。因为已经破碎，所以露出了发光的核心。）</FONT><br><FONT color=#7e12d2>看来是在和金龙的战斗中，被咬断后，掉落在这里的，可周围除了血迹没有见到半点翅膀主人的痕迹）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑龙的翅膀碎片",
+      "question": "<FONT color=#7e12d2>（虽然无法找到黑龙的痕迹，但已经找回了黑龙的黑色核心。先去向伊格纳西奥报告吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你回来啦。没有发现<FONT color=#a82424>黑龙</FONT>的踪迹吗？<br>你不在的这段时间，不知道我有多担心……<br>祈祷了很长的时间。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……你不必非得为我祈祷。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你干嘛这种表情？如果发现了什么奇怪的事，就赶紧向我报告。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我找到了黑龙折断的翅膀。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你是说<FONT color=#a82424>黑龙的翅膀</FONT>……？<br>也就是说它掉在了塔的附近……",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的，可是，我并没有见到黑龙。</FONT>",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "是吗……？<br>如果能发现尸体的话，就更令人放心了，不过这样的期待似乎有些不可能。嗯……",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "不管怎样，辛苦你了。虽然我现在很想让你休息休息……<br>你现在要去哪儿？还有别的事要做吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不，我要回到师父那里休息了。<br>（接受戴维的委托，去找杰兰特吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我感到了微弱的黑龙的气息。<br>你身上带着<FONT color=#a82424>黑色核心碎屑</FONT>吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我带来了阿尔杰塔的委托。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "这是为了让我疗伤用的。<br>知道了。那对你来说很危险，你尽量别往身上带。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的，我还有问题想要问你。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "问题……？什么？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我听说50年前，您和阿尔杰塔一起作战，</FONT><br><FONT color=#662500>所以我很好奇，为什么阿尔杰塔不属于六大英雄呢。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "看来你很好奇50年前的事。<br>当时，为了攻击<FONT color=#a82424>黑龙</FONT>汇聚了五股力量。<br><FONT color=#7e12d2>（杰兰特平静地说着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "精灵<FONT color=#a82424>内尔文</FONT>的银色新月弓手团；<br>战士<FONT color=#a82424>巴尔纳</FONT>的佣兵联盟；<br>追随牧师<FONT color=#a82424>特拉玛依</FONT>的神殿骑士团；<br>魔法师<FONT color=#a82424>卡拉秋</FONT>率领的佩奥里斯塔魔法师团。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "还有……<br><FONT color=#a82424>贝思柯德</FONT>的卡西乌斯王国骑士团。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "由我担当统帅。阿尔杰塔则为了掌握<FONT color=#a82424>红色军队</FONT>的情况单独行动。<br>在那以后，她又为了对付攻击后续部队的<FONT color=#a82424>黑暗精灵</FONT>而没有加入到先遣部队中来。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是黑暗精灵埃雷娜吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "是的。阿尔杰塔打败了<FONT color=#a82424>埃雷娜</FONT>率领的怪物部队，几乎使它们全军覆没。<br>而黑龙一被打败，人类就将几股势力的头领定为了六大英雄。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "所以并没有留下关于独自行动的<FONT color=#a82424>阿尔杰塔</FONT>的记录。因为事实上除了被称为英雄的几个人之外，几乎没有人知道她的存在。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "只有人类才会执着于名声和记载。<br>人生苦短，所以才贪恋那些可以留存的东西。<br>而那些对于我和<FONT color=#a82424>阿尔杰塔</FONT>都没有任何意义。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "还有什么想问的吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没有了……谢谢。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我听见上面有人在找你，去看看吧。",
+      "answer": ""
+    }
+  ]
+}

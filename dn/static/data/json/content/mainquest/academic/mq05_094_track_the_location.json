@@ -1,0 +1,162 @@
+{
+  "qkname": "追踪秘传之球的位置",
+  "data": [
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n小孩……你好像有件很有趣的东西啊？<br>那是用来做什么的啊？",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n通讯器……？<br>\n<FONT color=#7e12d2>（辛西亚仔细查看着通讯器）</FONT><br>\n嗯~ 上面有个类似纽扣的东西？款式也很好看……<br>\n小孩，你这个能卖给我吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>什么？！不行！绝对不行！！！！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n吓死我了……不行就不行，干嘛大喊大叫。<br>\n切…… 反正我也没那么想要，这东西又不能吃，哼。<br>\n<FONT color=#7e12d2>（辛西亚好像很生气）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n……还给你。<br>\n<FONT color=#7e12d2>（辛西亚不舍地归还了通讯器）</FONT>",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>不过，秘传之球应该很安全吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "我都不知道你这小屁孩是谁，干嘛要告诉你啊？<br>你把我当什么看了？！",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "ionTalk2}<br>哎呀，不知道！反正就是生气！<br>如果想教唆我，就派个花美男来啊，为什么让一个小屁孩来找我……<br>哎咦~真烦！",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "<FONT color=#a82424>秘传之球</FONT>被我们魔法师保管在<FONT color=#a82424>帕雷利娜安息处</FONT>的幽深处，外人就不要操心啦！",
+      "answer": "",
+      "image": "qw_8.png"
+    },
+    {
+      "question": " <br>\n<FONT color=#7e12d2>（辛西亚看起来很生气。秘传之球目前似乎仍被保管在帕雷利娜安息处，去帕雷利娜安息处查看下情况吧）</FONT>",
+      "answer": "",
+      "image": "qw_8.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "\n这个地方怎么会有小孩子……？<br>\n<FONT color=#7e12d2>(牧师伊桑的表情很诧异)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你好！我的名字叫</FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#662500>。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "\n啊，我叫<FONT color=#a82424>伊桑</FONT>。很高兴见到你。<br>\n话说……你怎么会到这种地方？这个地方非常危险，可不是像<FONT color=#387206>{user_nick}</FONT>你这样的小朋友该来的……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我是来确认秘传之球的情况的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "秘传之球……？你怎么知道……？<br>难道你是魔法师？不过，你的服装……<br><FONT color=#7e12d2>(牧师伊桑的表情很诧异)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>嗯……我不知道能不能说……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "\n没关系，你直说吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>实际上，我来自未来！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "……….",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "\n……………….",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "<FONT color=#7e12d2>(伊桑紧闭双眼，合掌并祈祷)</FONT><br>女神，这里有位迷路的可怜小女孩……请保佑她，抚平她的创伤，为她指明前进的方向，让她不再彷徨……",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "受伤的灵魂，请说吧……<br>\n女神就在不远处。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>……秘传之球还安全吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "嗯……我到达这个地方时，保管<FONT color=#a82424>秘传之球</FONT>的封印之房已经被损坏。<br>我的师兄杰克先回去报告了，我留下来继续寻找线索。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "\n目前我们还不知道秘传之球的行踪。说不定秘传之球会在魔法师安杰利卡小姐手中。<br>\n为了确定秘传之球是否在魔法师的手中，还是去向<FONT color=#a82424>高级魔法师辛西亚</FONT>确认下为好。",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "ionTalk2}<br>秘传之球是不是已经回来了……？<br>没有！！！<br><FONT color=#7e12d2>(辛西亚大声喊叫着)</FONT><br>这该死的牧师，为什么要跟小孩子说这些事情？！",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>魔法师安杰利卡还没有回来吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "谁？你是说我的弟子<FONT color=#a82424>安杰利卡</FONT>？<br>你什么时候见过安杰利卡？",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "我让安杰利卡去找秘传之球，但他到现在都没有回来。<br>\n那家伙到底在哪里乱转……",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    }
+  ]
+}

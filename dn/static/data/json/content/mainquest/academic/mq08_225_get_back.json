@@ -1,0 +1,298 @@
+{
+  "qkname": "取回物品",
+  "data": [
+    {
+      "question": "<FONT color=#7e12d2>（没有通讯器，无法与姐姐联络）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "<FONT color=#a82424>纹章学者贝利</FONT>学识非常渊博。<br>你可以去向贝利寻求意见。",
+      "answer": "",
+      "image": "qn_npc_scholar_baily.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "嗯？你的通讯器？……我，我会给你的～ 我说了会给你～ 我只是暂时借来看看啦～<br>嘿嘿嘿～知道了吧？",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者贝利",
+      "question": "嗯？顺从吊坠在什么地方？<br>这个……没想到连年幼的小姑娘也要投身于如此危险的任务之中。<br>\n<FONT color=#7e12d2>（贝利很为难）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者贝利",
+      "question": "我不知道该不该告诉你这件事。唉……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>请不要担心。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者贝利",
+      "question": "顺从吊坠……<br>之前在牧师威廉手中。<br>他的弟子<FONT color=#a82424>高级牧师杰梅因</FONT>应该知道吊坠的行踪，你还是亲自去问问他吧。",
+      "answer": "",
+      "image": "qn_npc_cl_master_germain.png"
+    },
+    {
+      "npc": "纹章学者贝利",
+      "question": "纹章学者贝利看起来非常担忧。<br><br><FONT color=#7e12d2>※ 达到12Lv以上才能继续进行。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "纹章学者贝利真是学识渊博。<br>去询问贝利的意见似乎也不错。",
+      "answer": "",
+      "image": "qn_npc_scholar_baily.png"
+    },
+    {
+      "question": "<FONT color=#7e12d2>（没有通讯器，无法与姐姐联络）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "嗯？你的通讯器？……我，我会给你的~ 我说了会给你~ 我只是暂时借来看看啦~<br>嘿嘿嘿~知道了吧？",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者贝利",
+      "question": "顺从吊坠之前在<FONT color=#a82424>牧师威廉</FONT>手中。<br>他的弟子高级牧师杰梅因应该知道吊坠的所在位置。",
+      "answer": "",
+      "image": "qn_npc_cl_master_germain.png"
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "呼……每次想到<FONT color=#a82424>先知</FONT>被黑骑士绑架，正经受着痛苦，我就心如刀绞。<br>必须要快点救出先知，这可如何是好……",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我在寻找顺从吊坠。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "该死！小姑娘，你不是也要解救<FONT color=#a82424>先知</FONT>吧？<br><FONT color=#a82424>顺从吊坠</FONT>曾在我的老师高级牧师威廉手中……",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "在十几年前的凯德拉战争当时，老师在<FONT color=#a82424>死亡森林</FONT>附近受到阿尔泰亚女神的召唤，舍身殉教。",
+      "answer": "",
+      "image": "qw_17.png"
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "当时因毒气，那一带被荒废了，我们也无法去收拾老师的遗骸和遗物。<br>顺从吊坠是<FONT color=#a82424>进入沉睡者神殿的钥匙</FONT>，是非常重要的物品，但当时我们别无他法。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "正好有几名冒险家打算前往那个地方。<br>小姑娘，你就没必要冒着危险前去啦！<br><FONT color=#7e12d2>（杰梅因似乎很担心）</FONT>",
+      "answer": "",
+      "image": "qn_npc_cl_master_germain.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>没关系，我也要去看看。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "老师的遗物顺从吊坠应该遗留在<FONT color=#a82424>死亡森林</FONT>的某处。<br>希望顺从吊坠还没有落入魔物的手中……",
+      "answer": "",
+      "image": "qw_17.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "哇！这不是<FONT color=#387206>{user_nick} </FONT>吗？！<br>刚刚我看见了！！我都看见了~ 嘿嘿嘿~<br>小孩，你刚刚捡到的是<FONT color=#a82424>顺从吊坠</FONT>吧？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我不是小孩！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "好好~<FONT color=#387206> {user_nick}</FONT>小姐~ 帅气的冒险家~<br><FONT color=#7e12d2>（安杰利卡故意迎合着）<br></FONT>那个，刚刚你捡到的吊坠可以给我吗？嗯？",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>那你先把我的通讯器还给我。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "通讯器？嗯……<br><FONT color=#7e12d2>（安杰利卡似乎在打着什么小算盘）<br></FONT>好的！那就还给你~！！我就发发善心！给你了！",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>本来就是我的啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "唉~ 你这孩子~ 不要计较这些小事。嘿嘿嘿~<br>总之！你会把<FONT color=#a82424>顺从吊坠</FONT>给我的吧？<br>\n<FONT color=#7e12d2>（安杰利卡的眼睛闪闪发亮）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "就是它~ 我这么做都是为你好，嘿嘿。<br>我可不想让你这样的小孩陷入危险之中。<br>姐姐我来代替你做这些危险的事情！嘿嘿~",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我不需要你这样的姐姐！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "你干嘛这么敏感？<br>反正该给你的东西我已经给了，那我先走啦~<br>再~ 见~",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我的姐姐既漂亮又聪明……啊？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "再见啦，小孩~ 我们下次再见！<br><FONT color=#7e12d2>（安杰利卡爽朗地笑着，飞快地跑走了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "原来如此。魔法师安杰利卡……<br>她居然将辛苦找到的吊坠交给她，真是大方，哈哈。",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "<FONT color=#7e12d2>（试着进行通讯）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_0.ogg}<br>进行的状况怎么样了，<FONT color=#387206>{user_nick}</FONT>？<br>一直没收到你的报告，我很担心，<br>事情还顺利吗？",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_Jasmin_qu225_01.ogg}<br>嗯……原来如此。你太容易相信别人了，我好担心。<br>世界上并不是只有好人，你不能友善地对待任何人。<br>你不能随便告诉别人你来自未来，并向他们展现你的能力。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>这，这样啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "嗯，你来自未来的这件事及未来发生的事情尽量不要告诉其他人。就算是未来的英雄、阿尔特里亚的守护者这种受人尊敬的人也不能告诉，因为在你所处的地方他们只不过是一介冒险家而已。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "如果你不小心改变了历史，我们的计划就会泡汤，你一定要记住啊。<br>还有，我还有一个顾虑……<br>那个通讯器，真的没问题吧？",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>通讯器？好像没问题啊……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "根据你的描述，我觉得她肯定对通讯器做了什么手脚……<br>如果内部的线路或存储器发生故障，那就麻烦了。<br>你仔细检查过了吗？",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>请稍等…… 我现在检查下！</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "<FONT color=#7e12d2>（检查数据和线路。搜索不到任何数据）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>……啊啊？！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_04.ogg}<br>怎么啦？<br>发生了什么事？",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>内，内存条……不，不见啦！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "什么？！<br><FONT color=#7e12d2>（百合花很惊讶）</FONT><br>天啊……！！没想到真的发生了这种事情。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃呃……现在该怎么办……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "<FONT color=#7e12d2>（百合花冷静地说着）</FONT><br>数据已经全部丢失，现在通讯器除了通讯之外，没有其他功能……<br>现在只能将基本数据下载到通讯器内置的辅助存储器上，继续使用了……",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这么做可行吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "应该不简单。想要跨越时空，有很多制约……呼……<br>不过，现在只有这个办法了。你总不能每次都跟我通讯。<br>如果没有基本数据，你会有很多不便之处。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那将基本数据传送给我吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

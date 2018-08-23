@@ -1,0 +1,263 @@
+{
+  "qkname": "消失的结局",
+  "data": [
+    {
+      "npc": "梅里恩戴尔",
+      "question": "佩达现在可能在<FONT color=#a82424>祈祷之心</FONT>。<br>\n ",
+      "answer": "",
+      "image": "qw_97.png"
+    },
+    {
+      "npc": "梅里恩戴尔",
+      "question": "通过熔岩江入口可以前往<FONT color=#a82424>祈祷之心</FONT>。<br>\n我很担心佩达可能已经走到了位于祈祷之心的巨石碑之门附近……<br>\n<FONT color=#7e12d2>（梅里恩戴尔的脸色很不好）</FONT>",
+      "answer": "",
+      "image": "qw_97.png"
+    },
+    {
+      "npc": "佩达",
+      "question": "你怎么能干出这种事！如果你是生活在这个世界上的生灵之一，你该知道打开巨石碑之门意味着什么。<FONT color=#7e12d2>（佩达的身体因愤怒而颤抖。看样子没法跟他对话了……去和露娜莉娅谈谈吧。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……<FONT color=#7e12d2>（露娜莉娅似乎走神了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9434_qu_01.ogg}<br>打开巨石碑之门，这个世界就会终结。一切，都会灰飞烟灭。你明明清楚这一点，也拥有强大的力量足以在这里维持自己的理智，却做出这种事？回答我！不清醒的女人！",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……不是的……",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "不是什么？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9434_qu_01.ogg}<br>不……我……我期望的不是这个……怎么会这样？为什么？为什么他一定要死……？<br>我……这不是我要的啊……<FONT color=#7e12d2>（露娜莉娅涌出了眼泪）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "不是啊……<FONT color=#7e12d2>（露娜莉娅似乎走神了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9434_qu_02.ogg}<br>……无知的家伙，打开巨石碑后，你的理智就飘到那个超越你思想的未知世界里去了吗？<br>我都为你感到羞耻。你明明拥有那么强大的力量，却没有同等高度的眼界！",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "你就没想过自己的愚蠢行动会给这个世界带来怎样的灾难吗！<br>竟敢对巨石碑之门做手脚！你知不知道因为你，整个世界都陷入了混乱！<br><FONT color=#7e12d2>（佩达似乎非常愤怒）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9434_qu_02.ogg}<br>人类，请你回答我。他，他消失了……我找不到他。巨石碑之门已经打开了，可是我在哪里都找不到他！<br>倒地不醒就意味着死亡吗？呼吸停止就意味着死亡吗？女神，女神把他带走了！啊啊，女神把渐渐虚弱的他带到哪里去了！女神啊……求求你告诉我……",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9434_qu_03.ogg}<br>什么……！你打开巨石碑之门了！！<br>怎么可能，那门不是那么轻易能开启的！<br>封印石还好好地矗立在那里，你是怎么打开巨石碑之门的？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9434_qu_03.ogg}<br>不，不要啊，女神，你从没教过我这些事啊。<br>女神，求求你……我……我不能没有他……求求你不要带走他，求求你……",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9434_qu_04.ogg}<br>……！这是怎么回事！！<br><FONT color=#7e12d2>（佩达急匆匆走掉了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "啊……呜呜呜……不……不要带走他……把他还给我……<br><FONT color=#7e12d2>（佩达走后，露娜莉娅继续在原地悲伤地哭泣）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（这个露娜莉娅也是幻象吗？他们刚才说的是什么意思？露娜莉娅打开了巨石碑之门……？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……！<FONT color=#7e12d2>（露娜莉娅猛地回头看了过来）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃！？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9434_qu_04.ogg}<br>你在那里吧。我都看见你了。你一定在那里！我不会看错的。我知道的，你一定在那里！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什，什么？！她看得见我？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅？！是我啊！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9434_qu_05.ogg}<br>不，别走，你别走。请跟我一起去找找他！我，我不能没有他。如果没有他，我活在这世上也没有意义了！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃！？我说……！喂，露娜莉娅！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅，你怎么了，你冷静点！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "以前我一个人也过得很好……可现在我不能没有他。我得快点找到他。求求你快帮我把他找回来……求求你……呜呜！帮我找他，好吗。你一定要把他找到！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅，你先冷静！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我命令你……快去找他……快把他给我找回来……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（露娜莉娅的声音刺穿耳膜，在我脑中横冲直撞）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（脑袋越来越疼了……露娜莉娅的哭喊声在我脑中盘旋不去）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（不行，我的头……脑子里……仿佛不能思考了……</FONT><FONT color=#662500>）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（…………）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……他……帮露娜莉娅找他吧……可是……他是谁？他在哪里？长什么模样？<br>是刚才见到的那个少年？那个冒险家？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "女神之瞳……对，女神一直在注视着这个世界。我们去<FONT color=#a82424>女神之瞳</FONT>，你跟我一起走。他，他，去那里说不定能找到他！女神……既然你在注视着我，我也会一直盯着你的……！！<br><FONT color=#7e12d2>（露娜莉娅颤抖地紧抓着衣袖）</FONT>",
+      "answer": "",
+      "image": "qw_96.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅，你镇定点……知道了。我带你去女神之瞳。所以，你别再哭了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……呜，呜呜……<FONT color=#7e12d2>（露娜莉娅的眼中依然止不住地涌出泪水）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务完成",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……赶快去女神之瞳找那个人吧。</FONT><br><FONT color=#662500>对了，……先得再次确认一下露娜莉娅的状态是否无恙）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你冷静点，露娜莉娅！是我，我就是你要找的人！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "什么……？<FONT color=#7e12d2>（露娜莉娅用惊讶的眼神看着我）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9434_qu_06.ogg}<br>哈哈哈，不不，你撒谎。你跟他很像，非常相像。但不对！我能辨认出来！你不是他！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不，虽说所处时间有些不同，但我就是那家伙！我就是你要找的那个他！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "骗人……你撒谎。他不可能拥有这样的力量！<br>\n如果他有这样的力量，我会怎么样？他抛弃我了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我没抛弃你！被抛弃的人是我！是你丢下我自己走了，也没告诉我为什么！<br>我自始至终都在你身边……！但你离开了。对了，我跟未来的你在一起！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……未来的我？未来？你说我有未来？……啊哈哈，哈哈哈。从刚才开始我就不明白你在说什么。你是不是我创造出来的幻象？以我的力量，这一点不奇怪……",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "去<FONT color=#a82424>女神之瞳</FONT>……如果你是他……女神一直在注视着这个世界，她会告诉我真相……不，她必须告诉我。<FONT color=#7e12d2>（露娜莉娅的眼中闪过凌厉的光芒）</FONT>",
+      "answer": "",
+      "image": "qw_96.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（这是我认识的露娜莉娅吗？还是说，有好几个露娜莉娅？那样的话世界真要没救了。可以穿越时间的人居然有好几个！这世界还安好吗？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（仔细想想，这也没什么好惊奇的……她总是很固执，不肯听话。起初我还嫌她烦。但渐渐地她的话越来越少，反而显得有点生疏，一开始我还很惊讶……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……哦？我刚才说了什么？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（我在说什么啊……还是快点按照露娜莉娅的委托，前往女神之瞳吧。</FONT><br><FONT color=#662500>对了，在这之前最好先确认一下露娜莉娅的状态。再次和她对话吧）</FONT>",
+      "answer": ""
+    }
+  ]
+}

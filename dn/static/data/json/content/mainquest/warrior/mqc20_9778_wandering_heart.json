@@ -1,0 +1,379 @@
+{
+  "qkname": "举棋不定",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(诺尔佩苦笑了一下。现在再安慰他似乎也没什么效果)<br>……格雷尔的治疗，我能帮什么忙吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "<FONT color=#7e12d2>(贝勒尼卡现在似乎很忙。他好像没空管我)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "我感觉这次的事情让很多东西都变了啊。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "这个嘛，不管是安娜大人还是我来治疗……不管是什么治疗似乎都比不上找回格雷尔大人的宝玉。也就是说，只有找回<FONT color=#a82424>宝玉</FONT>，他才能自己恢复。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#086171>格雷尔的宝玉</FONT><FONT color=#662500>……消灭</FONT><FONT color=#a82424>查尔德玛蒙</FONT><FONT color=#662500>的话就能找回来吗？</FONT><br><FONT color=#662500>这有可能吗？</FONT>",
+      "answer": "",
+      "image": "qn_child_mammon.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "<FONT color=#7e12d2>(诺尔佩点了点头)</FONT> 正如<FONT color=#387206>{user_nick}</FONT>你看到的，吞下了宝玉后，玛蒙宝玉痛苦地逃跑了，对吧？因为他要吞噬比自己强的多的格雷尔大人的宝玉，会非常困难。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "玛蒙为了尽全力融合宝玉，很可能会筑造一个<FONT color=#a82424> 巢穴</FONT>。<br>\n如果抓住这个时机，那也不是不可能的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>太好了。既然诺尔佩这么说，那就是有胜算的吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "但是这个查尔德有大批的士兵，就算有胜算，我们还是要做好准备。<br>幸好我们有个意外的助手。<FONT color=#086171>格里高利</FONT>说他知道去<FONT color=#a82424>玛蒙的宫殿</FONT>的路。",
+      "answer": "",
+      "image": "qn_grugiru.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "我想让<FONT color=#086171>格里高利</FONT>带路。<br>如果他做得好，那我在考虑让他正式加入反女神派。",
+      "answer": "",
+      "image": "qn_grugiru.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真的行吗？你不是因为格里高利是查尔德而一直提防着他嘛。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "因为这是关系到格雷尔性命的事情。格雷尔是非常珍贵的<FONT color=#a82424>突变查尔德</FONT>……<br>\n不论如何我们都要守护好他。而且格里高利如果能加入反女神派，可以交给他很多我们无法轻易做到的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "……我的脑子都晕了。还好避难工作都结束了……<br>如果有关格雷尔的事情都结束了，那时我就能和 <FONT color=#387206>{user_nick}</FONT>你一起集中精力寻找治愈之杯了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的。就这么办吧。杰兰特肯定会找到线索的。</FONT><br>\n<FONT color=#662500>剩下的事情我们就一个个来解决吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，这么说来，诺尔佩……在那之前，我有件事想做。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "什么事情？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "我要去<FONT color=#a82424>梅尔卡的心脏</FONT><FONT color=#662500>。我想亲自问问</FONT><FONT color=#086171>贝勒尼卡</FONT><FONT color=#662500>大人为什么要这么做。</FONT>",
+      "answer": "",
+      "image": "qn_vernicka.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "……好吧。是应该问问罪魁祸首啊。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "他不会轻易承认自己做出了背叛反女神派的事情……<br>\n<FONT color=#387206>{user_nick}</FONT>，请你等等。<br>\n<FONT color=#7e12d2>(诺尔佩进入房间里，快速地写了什么)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "你拿着这个应该会有帮助。这是给贝勒尼卡大人的警告信。<br>\n如果<FONT color=#387206>{user_nick}</FONT>想读也可以。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好。那么我就去 </FONT><FONT color=#a82424>梅尔卡的心脏</FONT><FONT color=#662500>了。</FONT>",
+      "answer": "",
+      "image": "qw_merca_cityhall.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "请你小心安全。我会一直观察玛蒙的动向。"
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "……<FONT color=#387206>{user_nick}</FONT>，是你啊。我就知道你这时候会来。格雷尔不知道为什么突然跑到扭曲的区域去了呢。我们的警卫兵虽然尽力阻拦了，但是心有余而力不足……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>(打断了贝勒尼卡的话)</FONT><FONT color=#662500> </FONT><br><FONT color=#662500>你不是知道格雷尔为什么去了扭曲的区域嘛。你现在还想骗我吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9778_qu_01.ogg}<br><FONT color=#7e12d2>(贝勒尼卡皱了皱眉)</FONT>……你都知道了啊。这下麻烦了啊。<br>但是，我之前已经说过好几遍了。伊贝尔对于反女神派来说是个长期的威胁。一定要杀了她。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>看来你还不知道事情的发展啊。贝勒尼卡大人想杀的伊贝尔逃走了。<br>但是格雷尔受伤了。被和你合作的查尔德玛蒙抢走了宝玉。</FONT>",
+      "answer": "",
+      "image": "qn_child_mammon.png"
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "什么………？！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格雷尔一个人受了伤，现在已经快死了！</FONT><br><FONT color=#662500>再这么下去格雷尔会消失的。因为你！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "……是我疏忽了。我本来以为格雷尔是不会被玛蒙打败的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你究竟，为什么这么做……？你为什么要把伊贝尔出卖给玛蒙？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你为了杀死伊贝尔，要做到这种地步吗？背叛格雷尔和整个反女神派？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "这个嘛。我卖给玛蒙只是机会和手段。我没有告诉他查尔德的秘密。<br>我做的只是将装置交给玛蒙，然后透露出如果利用这个就能吸引一个虚弱但却强大的查尔德的消息而已。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "但是，这次我也确实失败了。<br>我应该把格雷尔强制留在梅尔卡的。那我的计划就能全部实现了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝勒尼卡大人，……我曾经相信贝勒尼卡大人。诺尔佩大人也是。</FONT><br>\n<FONT color=#662500>你知道为什么吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>就是因为</FONT><FONT color=#086171>伊贝尔</FONT><FONT color=#662500>说要相信你。她说</FONT><br><FONT color=#a94407>如果不去相信，那就什么也不会开始，什么也不会改变</FONT><FONT color=#662500>！</FONT>",
+      "answer": "",
+      "image": "qn_hiver.png"
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "……那孩子真是说了蠢话啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是吗，……不是的。</FONT><br>\n<FONT color=#662500>我不是谜之大陆的人，不管我说什么，贝勒尼卡大人也不会听的吧。</FONT><br>\n<FONT color=#662500>这是诺尔佩大人的信。</FONT><FONT color=#7e12d2> (把信拿出来后，在贝勒尼卡面前读了出来)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#086171>“……贝勒尼卡大人您的计划无可指责，但您也看到了，结果成了这样。因为贝勒尼卡大人您的失策，我们反女神派失去了格雷尔大人，处于极度的危险中。</FONT><br><FONT color=#086171>但是这次的事情不只是反女神派有损失。”</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#086171>“贝勒尼卡大人您愚蠢地打破了曾经岌岌可危的平衡，更重要的是您失去了信赖。梅尔卡市国是利用女神派和反女神派的对立而繁荣起来的城市，失去我们的信赖对梅尔卡市国会产生怎样的长期影响，贝勒尼卡大人应该也很清楚。”</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#086171>“而且眼下梅尔卡也要面对一个大危机。虽然</FONT><FONT color=#a82424>查尔德玛蒙</FONT><FONT color=#086171>因为格雷尔大人的宝玉暂时无法动弹，但如果他恢复了，那么他的下个目标会是谁呢？</FONT><br>\n<FONT color=#086171>地理上的要地，拥有充满金石的矿山的梅尔卡的心脏将会是最好的猎物。”</FONT>",
+      "answer": "",
+      "image": "qn_child_mammon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#086171>“而且，能够最快速并准确地知道玛蒙的动向的就是我们南部领地的反女神派。</FONT><br><FONT color=#086171>……如果您不想因为一次的失策而完全放弃反女神派，那就请您好好思考后做出正确的判断。”</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "<FONT color=#7e12d2>(听了信上内容的贝勒尼卡面如土色)</FONT><br>\n……好啊，好啊。该死。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9778_qu_02.ogg}<br>我承认。我不知道事情会变成这样。<FONT color=#7e12d2>(贝勒尼卡抢过了信，揣在了怀里)</FONT><br>你去告诉诺尔佩大人。我贝勒尼卡承认我失策了，并向他道歉。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "如果格雷尔需要，不管是钱还是人我都能送过去。如果反女神派愿意，我可以派遣我的士兵过去。在反女神派重新恢复安全之前，我一定尽全力帮助你们。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>因为梅尔卡市国现在也处于危险中，你现在就俯首称臣了呢。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9778_qu_03.ogg}<br>……对我来说， 梅尔卡的心脏就是全部。<br><FONT color=#7e12d2>(贝勒尼卡自言自语)</FONT> 至少在<FONT color=#a82424>她</FONT>回来之前……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了。我会告诉诺尔佩大人的。我最后再问你一个问题。<br>你要给格雷尔的</FONT><FONT color=#086171>伊贝尔的遗物</FONT><FONT color=#662500>，</FONT><FONT color=#662500>也是假的吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "……发现遗物是真的。有<br><FONT color=#a82424>伊贝尔的短剑</FONT>，还有那孩子打算送给弟弟的<FONT color=#a82424>一套新衣服</FONT>。",
+      "answer": "",
+      "image": "qn_hiver.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……你看到那个……看到伊贝尔活着的时候的痕迹……<br>你怎么还能这样呢……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9778_qu_04.ogg}<br><FONT color=#7e12d2>(短暂地沉默后，小声嘟囔着)</FONT><br>我倒认为……如果是死去的伊贝尔是能理解的。<br>那孩子，与其成为杀死自己家人的存在，还不如……",
+      "answer": "",
+      "image": "qn_hiver.png"
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9778_qu_05.ogg}<br><FONT color=#7e12d2>(贝勒尼卡停止了自言自语，回过头来)</FONT><br>……格雷尔似乎把遗物落下了。我以后会把那些东西送到南部领地的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……贝勒尼卡大人。我还是想相信你。即使在这次的事之后。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "那还真是太好了……如果和阿尔特里亚人的珍贵联系就这么断了，我会很头疼的。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "<FONT color=#7e12d2>(贝勒尼卡似乎不想继续说话了，闭上了眼睛。</FONT><br>\n<FONT color=#7e12d2>他的表情还是第一次这么痛苦)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(我似乎感觉到了他有负罪感，是我的错觉吧……<br>……我以后要怎么办呢？我应该相信谁，去哪儿呢？我完全不明白啊)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……这种时候如果</FONT><FONT color=#a94407>杰兰特</FONT><FONT color=#662500>在，会说什么呢？ 如果是</FONT><FONT color=#2b2723>阿尔杰塔</FONT><FONT color=#662500>，肯定会当场大骂吧……？<br></FONT><FONT color=#a82424>卢比纳特</FONT><FONT color=#662500>会怎么样呢？如果是 </FONT><FONT color=#086171>梅里恩戴尔</FONT><FONT color=#662500>……会怎么做呢……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(现在我也不知道该怎么办了。不知道去哪儿……</FONT><br><FONT color=#662500>……为了整理下思绪，去</FONT><FONT color=#086171>卢比纳特的藏身处</FONT><FONT color=#662500>吧)</FONT>",
+      "answer": "",
+      "image": "qw_rubinat_hideout.png"
+    },
+    {
+      "npc": "阿尔克",
+      "question": "<FONT color=#387206>{user_nick}</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>阿尔克……你在这里啊？怎么……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "诺尔佩大人告诉了我事情的经过。我听说<br><FONT color=#387206>{user_nick}</FONT>去了梅尔卡的心脏，就想你可能会来这里……",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "ndnpc_Ark_9778_qu_01.ogg}<br>最终还是出了大事啊，辛苦你了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……我……没能保护好格雷尔。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>也没能察觉到贝勒尼卡大人的阴谋，隐瞒着</FONT><br>\n<FONT color=#662500>关于伊贝尔的事情</FONT><br>\n<FONT color=#662500>……</FONT><FONT color=#a82424>治愈之杯</FONT><FONT color=#662500>也完全找不到线索……<br><br></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>似乎发生了很多事，但是什么都没解决。</FONT><br><FONT color=#662500>我现在就像是迷路了……。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "<FONT color=#2b2723>如果你不觉得茫然，那就</FONT><FONT color=#7e12d2> </FONT>更奇怪了。这不是<br><FONT color=#387206>{user_nick}</FONT><FONT color=#2b2723></FONT><FONT color=#387206> </FONT><FONT color=#2b2723>的错。因为</FONT><FONT color=#387206>{user_nick}</FONT>你已经竭尽全力了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>谢谢你能这么说……。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "抱歉，我不会安慰人。<br>……既然我见到了 <FONT color=#387206>{user_nick}</FONT>，我就要和你道别了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>道别？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "ndnpc_Ark_9778_qu_02.ogg}<br>是的。我有事情要做，不能在一个地方久待……如果我<br><FONT color=#2b2723>以后找到关于</FONT><FONT color=#a82424>治愈之杯</FONT>的线索，我会联系你的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了。</FONT><FONT color=#662500>我……想再整理下思绪。</FONT><br>\n<FONT color=#662500>因为我还不知道我要做什么……</FONT><FONT color=#662500>。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "ndnpc_Ark_9778_qu_03.ogg}<br>我觉得休息一下也是个不错的选择。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "我觉得这次的事情带来了很多改变。<br>但是，从阿尔特里亚来的人啊，请不要自责。<br>\n请不要陷入忧郁，忘记了自己内心的善良。<br><br><FONT color=#7e12d2>*已完成剧情外传 6.[转折点]。请期待下个故事。</FONT>",
+      "answer": ""
+    }
+  ]
+}

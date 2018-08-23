@@ -1,0 +1,163 @@
+{
+  "qkname": "不祥的预感",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "姐姐！你快去卡拉秋的草屋！",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "该死……都到了这里……决不能让那家伙逃掉……<br><FONT color=#7e12d2>（看来很难再和贝思柯德对话了。 回到卡拉秋的草屋吧）</FONT>",
+      "answer": "",
+      "image": "qw_karakule_house.png"
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "出事了，出事了~！<br>大事不好了，大事不妙啊~！<br><FONT color=#7e12d2>（啰嗦鬼查克博士一直在叽叽喳喳地说个没完）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "听说一个号称<FONT color=#a94407>博士</FONT>的人正在焦急地找姐姐呢。他让你去<FONT color=#a82424>卡拉秋的草屋</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>博士，出什么事了？卡拉秋和西戴尔在哪儿？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "你听我说啊！<br><FONT color=#a82424>西戴尔</FONT>终于闯祸了！<br>我就知道这小子，迟早要造成 <FONT color=#a82424>大事故</FONT>！",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么事故~？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "西戴尔洗劫了佩奥里斯塔的仓库！<br>那小子拿着卡拉翰之前研究过的<FONT color=#a82424>禁忌魔法书</FONT>逃跑了！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>禁忌魔法书？咦？那不是可以永远保持年轻的秘密美容魔法吗？<br>有什么问题吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "你胡说什么啊？！<br>西戴尔是打算和卡拉翰大打一场才拿走了那本魔法书！<br>卡拉秋听说了这个消息之后已经去追西戴尔了！",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "啊，要展开<FONT color=#a94407>传说的美貌大战</FONT><FONT color=#662500>了吗？！这的确是一件大事啊！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "啊啊，我书架上的书都被你气得摇摇晃晃了——！！<br>你快闭嘴，去<FONT color=#a82424>古代武器库的西边</FONT>追那两个人吧！",
+      "answer": ""
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "呃呃，西戴尔这家伙！最终还是要走上和卡拉翰一样的道路吗？！BR>所以我早就说过不能收<FONT color=#a82424>男魔法师</FONT>啊！真是的！",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "呵呵……可爱的<FONT color=#a94407>小云雀</FONT>……你也是来挑战我的吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>虽然长得帅，但超级~奇怪的人？！！你究竟对他们两人做了什么？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "<FONT color=#a94407>……虽然长得帅，但超级~奇怪的人</FONT>？这是你对我的爱称吗？<br>虽然我并不是很喜欢……你一定是不好意思诚实地赞美我吧。<br>小云雀真是害羞呢。我都理解。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哎……为什么……明明说的是人话，但我就是听不懂呢……？<br>（瞬间差点意识昏迷了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "地上的这两个虫子，他们也不掂掂自己的斤两就贸然前来，我也不过是随便教训了一顿而已。<br>一帮可笑的家伙，难不成还当自己比灰尘那种渺小物强多少吗？",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "你如果没有信奉追随我的想法，就拉着这些个废物回去。<br>我还有收尾工作需要处理。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（先带着两人回到棚屋去吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳咳……<br>卡拉翰比我预想的更强……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>用禁忌魔法书也无法战胜卡拉翰吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "不是这个问题……<br>卡拉翰虽然天生就拥有<FONT color=#a82424>秘传魔法</FONT>的魔力和才能，但他为了达到更高的境界，做了很多牺牲其他人的实验……<br>最后，他研究的魔法书被封禁，他本人也被逐出家门。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "西戴尔果然……被复仇蒙蔽了双眼，想要更强大的力量……他绝不能走和卡拉翰一样的路……<br>绝不能只执着于力量……绝不能践踏一切、只追求力量……咳咳咳咳咳咳！",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡拉秋，您的咳嗽又加重了！伤口好像很深，再这样下去的话可能会死的！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "有谁会随便杀死想要好好活着的人？<br>你没必要担这种心，给我去塔玛拉那里拿点药吧！",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "因为我……因为我老师受伤了……<br>啊啊……我太蠢了……",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳咳咳……我只要吃了药，咳嗽很快就会消停了！",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "啊……欢迎。 <br>最近不好的事情接连发生，我正在担心呢。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "希望卡拉秋还有西戴尔不要太勉强才好……",
+      "answer": ""
+    }
+  ]
+}

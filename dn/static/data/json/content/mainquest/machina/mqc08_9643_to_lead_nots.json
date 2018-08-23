@@ -1,0 +1,257 @@
+{
+  "qkname": "被盯上的笔记",
+  "data": [
+    {
+      "npc": "小龙",
+      "question": "哦，你来啦。你刚刚急急忙忙去哪里了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>师父，难道没有解开这些笔记的方法吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "ndnpc_Shaolung_9643_qu_01.ogg}<br>嗯？这不是那个<FONT color=#a82424>西戴尔</FONT>所说的文件吗？怎么会在你手里？",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（将有关蓝塔娜的磁铁装置和女王庭院中的事情进行了说明）</FONT>",
+      "answer": "",
+      "image": "qn_npc_lantana.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "ndnpc_Shaolung_9643_qu_02.ogg}<br>哦哦，原来是利用那件装置找到西戴尔的位置啊！<br>虽然你是我的弟子，但好像这次大脑才灵活起来呢，呵呵呵呵。",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "交给师父我吧。我会想出解开的方法的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不想交给你。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "怎么了？交给师父我，不就能解决了嘛！！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不要。师父你最近变得很奇怪，还是由我自己来寻找方法吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "啊，你居然怀疑我……你独自一人想要解决这件事，恐怕很难啊。<br>不管别人怎么说，我觉得这应该是<FONT color=#a82424>卡拉秋</FONT>施下的魔法。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你为何觉得是卡拉秋施的魔法呢？也有可能是西戴尔施的啊。</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "啊……哈哈，是吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！我有个好想法。我要把这个带给蓝塔娜。只要是魔法师系列的咒语，她肯定能解开的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师蓝塔娜",
+      "question": "必须找到教授所说的材料才行。",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "我偶尔也会有想要出去兜兜风的时候哈哈。",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "是嘛！这么看来，只要利用磁铁装置掌握剩余笔记的下落，就能找到蓝塔娜了吧。<br><FONT color=#7e12d2>（启动蓝塔娜的磁铁装置吧</FONT>指向<FONT color=#a82424> 盲目溪谷</FONT><FONT color=#7e12d2>）</FONT>",
+      "answer": "",
+      "image": "qw_67.png"
+    },
+    {
+      "npc": "魔法师蓝塔娜",
+      "question": "哇，我的笔记正在发光啊。<br><FONT color=#387206>{user_nick}</FONT>，你找到教授的笔记了？如果那是真的……啊啊，我要高兴死了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的，我找到了。不过好像存在着一种什么装置，无法取出来。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师蓝塔娜",
+      "question": "哦？是嘛。请给我看看吧。<br><FONT color=#7e12d2>（蓝塔娜接过笔记，仔细查看）</FONT> <br>要解开这个魔法，似乎比较困难。只有特定的人才能解开这个包袱。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师蓝塔娜",
+      "question": "不过这种魔法，我……哎呀<br><FONT color=#7e12d2>（蓝塔娜非常吃惊，顺着她的视线望去，看到小龙站在一旁）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "ndnpc_Shaolung_9643_qu_03.ogg}<br>原来在这啊！笔记我拿走了。<br><FONT color=#7e12d2>（小龙冲向蓝塔娜，夺走了笔记）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>师父！你这是干什么啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师蓝塔娜",
+      "question": "笔记……我的笔记……",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "ndnpc_Shaolung_9643_qu_04.ogg}<br>我的弟子啊，你不能把这本笔记交给那个恶毒的女子！<br>那师父我就先走了。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师蓝塔娜",
+      "question": "呜呜……笔记……我的笔记被抢走了。<br>那上面记录着倾注教授心血的实验内容。呜呜……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>蓝塔娜，你没事吧？不要哭了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师蓝塔娜",
+      "question": "ndnpc_Lantana_9643_qu_01.ogg}<br>真郁闷，只要再努努力，我们的愿望就可以实现了，可是总有一些奇怪的兽人团出来捣乱。教授的实验也很快就可以完成了，真不知道为什么会发生这种事。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>教授的实验即将完成，也就是说，村民们马上就能和以前一样了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师蓝塔娜",
+      "question": "对……对的。教授的实验完成后，原住民们将会变得更强更完美。教授真是了不起啊。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师蓝塔娜",
+      "question": "请你一定要找回笔记。<br><FONT color=#7e12d2>（快去找莲花沼泽的小龙吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_shaolong.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "我先告诉你，笔记不在我这里。我也不知道在哪里。无论你对我说什么，我都无可奉告！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>该不会，该不会……师父！你该不会和巴奥兽人团有什么关联吧！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "没错！既然你已经聪明到能利用磁铁装置，骗过<FONT color=#a82424>西戴尔</FONT>，那你应该也能够有所察觉，所以我觉得再骗下去也没有意义了！",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "ndnpc_Shaolung_9643_qu_05.ogg}<br>想必你也猜到了，我小龙正是<FONT color=#a94407>巴奥兽人团</FONT>的精神支柱！他们的策略家！伟大的师父。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怪不得在师父你让我去的地方，或者我告诉你所要去的地方都会出现休利亚！<br>师父，巴奥兽人团到底说了什么，才把你蛊惑了啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "好好想想吧。你以为我和你在<FONT color=#a94407>普雷利镇</FONT>相遇是偶然吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>难道……从当初见面时就已经？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "ndnpc_Shaolung_9643_qu_06.ogg}<br>从飞艇上掉下来的你，在那里遇到了一位会把绝技和适应人类世界的方法告诉你的贵人。如果你觉得这些全是偶然的话，那你是不是太过于相信命运了啊！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你是故意接近我，然后把所有情报都给了休利亚吧。太过分了！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "是<FONT color=#a82424>休利亚</FONT>拜托我的。以便他决定去拯救被卖到飞艇上的兽人后，我可以在她拯救遇到阻碍时出手保护他们。",
+      "answer": "",
+      "image": "qn_lm_nativeman_b.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "在去<FONT color=#a82424>神圣天堂</FONT>之前，我一直非常不安。不过，凭借我出色的指导，你也能基本适应这个世界了。总之，这莲花沼泽是你的故乡，以后也无需我来守护这里了。",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "相比莲花沼泽，还是充满活力的<FONT color=#a82424>神圣天堂</FONT>更适合我啊！",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你现在到底在说些什么啊？</FONT>",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "我是说，我已经在莲花沼泽把该做的事都做了，接下来要去<FONT color=#a82424>神圣天堂</FONT>了。",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": " 小龙",
+      "question": "不用太担心！因为巴奥兽人团的事情一直会待在<FONT color=#a82424>利物沃特码头</FONT>!",
+      "answer": "",
+      "image": "qw_liverwortferry.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "不过，你先去找<FONT color=#a82424>西戴尔</FONT>吧。他说已经找到了有关绿龙的线索。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "嗯，看来你是误会了。<br><FONT color=#7e12d2>* 达到50级后，可以继续执行任务。</FONT>",
+      "answer": ""
+    }
+  ]
+}

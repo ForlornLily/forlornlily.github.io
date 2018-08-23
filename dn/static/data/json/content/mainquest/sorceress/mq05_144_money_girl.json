@@ -1,0 +1,220 @@
+{
+  "qkname": "值钱的少女",
+  "data": [
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "这，这不是贤者之杖吗？<br>赶紧拿来！",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "贤者法杖对于实现启示而言是个必需的物品。所以务必要...",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>唉~我就是来向老师报告的呀！！</FONT>",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "你找到<FONT color=#a82424>贤者之杖</FONT>和<FONT color=#a82424>秘传之球</FONT>了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "快……快把贤者法杖给我。<br>\n那是牧师的始祖杰科博的遗物。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "哦，这不就是 <FONT color=#a82424>贤者法杖</FONT>和 <FONT color=#a82424>秘传之球</FONT>吗? <br>终于还是找回来了。哦...我可爱的家伙。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "很好，不仅把秘传之球而且还把那些笨蛋牧师们丢失的贤者法杖也找到了，心情真不错呢。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "嘿嘿...总之有了这两件神物终于可以看到 <FONT color=#a82424>贤者的启示</FONT>了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贤者的启示……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "很久以前，<FONT color=#a82424>贤者</FONT>预言了数百年后的世界末日。相传，世界的末日始于代表先知者的太古之星的出现。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "不久前，<FONT color=#a82424>太古之星</FONT>出现真容，为了见到贤者的启示，牧师们便找到了此处圣地魔法山脊。而为了见到<FONT color=#a82424>贤者的启示</FONT>所需的两件圣物就是...",
+      "answer": "贤者法杖和秘传之球啊。"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "是的，那两件遗物本就出自一个法杖身上。相传当预言发生之时，把两件圣物合在一起，就会看到可以引起这场浩劫的先知者最后的启示。",
+      "answer": ""
+    },
+    {
+      "question": "{user_nick}<br><FONT color=#662500>嗯，世界灭亡，真的会发生吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "嗯，对此我也不大了解。不过既然贤者是我们的祖先马里安大人的师傅，那么肯定比我们更加有智慧更加贤明 。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "这周围可真嘈杂。现在把法杖还回来，让我们将两件遗物合为一体，开启贤者的启示吧。你去告诉<FONT color=#a82424>雷昂纳多老头</FONT>说我这边都准备好了。",
+      "answer": "",
+      "image": "qn_cl_leonardo.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "这个时刻终于到来，向雷昂纳多老头转告，让我们尽快开始仪式吧。",
+      "answer": "",
+      "image": "qn_cl_leonardo.png"
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "你这个家伙！还不赶紧把<FONT color=#a82424>贤者法杖</FONT>还给我。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>唉~我已经拿过来了，您就消消气吧！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "你小子可真让我难堪啊，呼...反正既然返还了贤者法杖，我也没法再生气了... 牧师偷去的法杖居然由魔法师找到，这可真讽刺啊。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>对了！辛西亚有话让我转达。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "哦...看来辛西亚大人原来也知道贤者的启示啊。<br>我马上开始举行仪式了，你离我稍微远一点。",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "哦哦... <FONT color=#a82424>红发少女</FONT>... 她就是…难道说那个少女掌握着未来的命运吗！",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "<FONT color=#a82424>红发少女</FONT>... <br>难道说那个少女掌握着未来的命运吗?",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "好好记住贤者的启示吧，将来肯定会影响你前行的道路。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "无论如何，你在这次的事件当中是立了大功的，作为回报，我就解除你的禁忌吧。顺便我也允许你以<FONT color=#a82424>正式魔法师</FONT>重新开始活动。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "好的。你这次的表现已经被认可，所以我决定任命你为正式魔法师。可以的话，我真想立刻将<FONT color=#a82424>预言的少女</FONT>驱逐出魔法山脊之外，只是……一切准备就绪了吗？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "弟子。怎么样？适当的实力……<br>\n所以，你已经达到<FONT color=#a82424>9级</FONT>了吧？<br>\n<FONT color=#7e12d2>（辛西亚用她那鹰一般锋利的目光注视着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "嗯...看来你也该知道关于贤者的启示的事情了。<FONT color=#a82424>红发少女</FONT>是谁...",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "当初在贤者的启示中看到的那位红发少女，<br>既然是预言中提到的少女，肯定跟世界的灭亡有着紧密的关系。无论如何很可能与<FONT color=#a82424>古代人</FONT>相关。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "他们是曾经生活在神的时代中的具有巨大之力量的种族。 假如少女继承了古代人之血脉，那么说不定她就是有可能会引起世界灾难的钥匙。 <FONT color=#382000>{user_nick}</FONT>！ 交给你最后的任务。 ",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "你离开这里去见少女。还有，你要<FONT color=#a82424>按照你心中所想</FONT>来行动。这是我作为老师对你下达的<FONT color=#a82424>最后</FONT>一道命令。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "倾听自己的声音吧，是该保护她，还是消灭她。什么才是维护世界的路，什么才是为了自己，好好的思考一下吧。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "不是的。因为是你，所以完全可以凭借一双<FONT color=#a82424>敏锐的眼睛</FONT>对这个世界作出正确判断的。<br>\n那是除你之外任何人都无法做到的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "不要过于悲伤。因为你现在已经是合格的魔法师...",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "哎...不要钱想挨打是吧?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>啊哈哈~</FONT><br>\n<FONT color=#662500>那么我这就去了！！</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n你前往凯德拉关卡，见见<FONT color=#a82424>侦察兵福古斯</FONT>吧。<FONT color=#a82424>凯德拉关卡</FONT>的<FONT color=#a82424>冒险家公会</FONT>会帮助你的。永远不要忘了，在魔法山脊还有我们这些爱你的人！",
+      "answer": "",
+      "image": "qn_ranger_fugus.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "你还没达到<FONT color=#a82424>9级</FONT>，有什么资格自满！继续修炼积累你的实力后再来吧！",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "预言中出现的少女关乎世界的命运。去寻找少女吧，现在值得信赖的人唯有你...",
+      "answer": "",
+      "image": "qn_rose.png"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "qkname": "再赴神圣天堂",
+  "data": [
+    {
+      "npc": "小龙",
+      "question": "能让我再和休利亚见面的唯一方法，就是让世界恢复和平吗！<br><FONT color=#387206>{user_nick}</FONT> ，你一定要让世界恢复和平！在这之前，我不会再见你！",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "关于巴奥兽人团的未来，我还有话要说。<br>你先去帮西戴尔的忙吧！",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你好，<FONT color=#387206>{user_nick}</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你怎么知道我的名字？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "可以出入神圣天堂王城的<FONT color=#a94407>莲花沼泽原住民</FONT>只有你一个。<br>莲花沼泽的事情我也听说了，大概知道一些。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这个……是西戴尔让我交给你的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#7e12d2>（仔细查看西戴尔写的文件）</FONT> <br>嗯……在莲花沼泽处理有关先知和兰伯特的事情时，原来发生了这种事。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>先知？你是说箩丝吗？箩丝怎么样了？</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "箩丝……那个孩子已经成为了使徒。<FONT color=#a82424>使徒萝丝琳德</FONT>隐藏了龙之追随者的身份，装作箩丝的样子接近我们，偷走了贝思柯德的宝玉。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "贝思柯德是王国的危险人物，现在正躲在王城地下治疗伤势。<br>听说你也和他见过面。",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "你先去帮西戴尔的忙吧！",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "如果你想知道我说的是不是真的，可以到王城地下去见见贝思柯德。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我变成了这个鬼样子，你是来笑话我的吗……？咳咳。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是啊。真是惨不忍睹。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "是吗？在你看来也很惨不忍睹吗？<br><FONT color=#7e12d2>（贝思柯德苦笑了一下）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我真是愚蠢啊。<br>当初说可以用杰兰特的剑消灭掉巴尔纳，其实是为了引我出来的谎言…",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "一开始，我还不敢相信那个古代人小孩会是那个人的爪牙。我还以为只是单纯地被用作诱饵罢了……<br>没想到那个小孩竟然成为了新的使徒……",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我已经失去了龙的力量，我现在什么也不是了…<br>在过去50年里，我日思夜想的复仇计划就这么无疾而终了啊。你不觉得这很悲惨吗？<br>咳咳…",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "现在我想休息一下……你走吧。<br><FONT color=#7e12d2>（贝思柯德的脸色看上去不太好。回到特拉玛依那里去吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "看来贝思柯德受到的打击很大嘛……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>具体的情况我不太清楚，贝思柯德也是龙之追随者的受害者吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "是的。虽然他过去曾经是被称为竞技场的骑士的使徒，但其实他也是受到了龙之追随者的利用。<br>据我所知，因为龙之宝玉的缘故，他曾经被卡拉翰抓住，受尽了折磨。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>看来在我为了治疗身体而奔波的时候，发生了不少让人担心的事情嘛。现在……我也想去帮助其他人。不，应该说是帮助这个世界。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……我希望能帮上一点忙。虽然我对贝思柯德还抱有一些成见，但如果他也是龙之追随者的受害者，那我就应该帮助他！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "冤冤相报何时了……你所说的，正是我想说的话。贝思柯德失去龙之宝玉后，身体正在急速老化。这样下去的话，用不了多久他就会死去……<br>想要救他的话，必须要有不亚于龙之宝玉力量的强大生命之力才行。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不亚于龙之宝玉力量的强大生命之力……有那样的东西吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "有倒是有……<br>它拥有着无限强大的生命能量……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那是什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "那就是……<br>世上所有精灵的母亲，森林和风之精灵的故乡。<br>它拥有阿尔特里亚最强大的生命之力。<br>那就是<FONT color=#a82424>生命之树</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>生命之树……那种力量可以帮助世界恢复和平吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "是的。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你该做好去<FONT color=#a82424>阿努阿兰德</FONT>的准备了。<br>内尔文……不是，去和<FONT color=#a82424>纳尔希亚</FONT>女王见面，请求她的帮助吧。",
+      "answer": "",
+      "image": "qn_archer_nerwin_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>为了世界的和平……好吧。我答应你。</FONT>",
+      "answer": "",
+      "image": "qn_archer_nerwin_silhouette.png"
+    }
+  ]
+}

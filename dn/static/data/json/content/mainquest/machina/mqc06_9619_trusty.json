@@ -1,0 +1,120 @@
+{
+  "qkname": "可靠之人",
+  "data": [
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你还没有查到帮助察提的人是谁吗？",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "抓紧时间。<br><FONT color=#7e12d2>（跟踪察提去调查利物沃特村庄废墟）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你还没有查到帮助察提的人是谁吗？<br>抓紧时间。<br><FONT color=#7e12d2>（跟踪察提去调查利物沃特村庄废墟）</FONT>",
+      "answer": "",
+      "image": "qw_51.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "察提正在寻找原住民的下落。",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "呵呵，瞧瞧你看得都失神了。<br>也是啦……盯着我看超过了3秒钟的人，最终都会变成我的奴隶的。<br><FONT color=#7e12d2>（奇怪的男人说着奇怪的话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "<FONT color=#387206>{user_nick}</FONT> ，我来介绍一下。这位就是救我的人，他叫卡拉翰。<br><FONT color=#7e12d2>（察提用崇拜的目光望着卡拉翰）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>正如你所说，他的样子看上去很可靠。虽然有些奇怪……<br></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "呵呵，就算你故意把视线从我身上避开也没用，因为美丽这东西本来就是难以抵挡的。哈哈哈！",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "你也对我那悲惨的过去感到好奇吗？在面对秘传魔法的激流和命运的仇恨时，我只能放弃<FONT color=#a82424>佩奥里斯塔</FONT>的名誉，我那段悲惨的故事啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我可不感兴趣。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "嗯？<FONT color=#a82424>卡拉秋</FONT>没和你说过我的事吗？<br>这可真是可惜啊。你本应该知道我那华丽非凡如同电影一般神奇的历史的。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "察提",
+      "question": "卡拉翰！你找到原住民了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "嗯，好吧。现在得说更重要的事了。我那宏伟壮大的叙事诗日后再聊，到时候我们两个人一起度过一段温馨甜蜜的时间吧。要是听了我的那段故事，你也会对我崇拜得五体投地的。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "你问我有没有找到原住民的下落对吧？以我的能力想要找出他们的痕迹，简直易如反掌。<br>原住民的痕迹指向了<FONT color=#a82424>古代武器库的东边</FONT>。",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "npc": "察提",
+      "question": "古代武器库？",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "是的。古代武器库是古代人为了保存自己的遗物而建造的仓库。为了使那地方起到保存遗物作用，古代人创造了很多魔法生命遍布在那里。对你们来说，那里的危险是致命的，就如同我的魅力一般！呵呵。",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "原来如此。<br><FONT color=#387206>{user_nick}</FONT>！你可以去把这个消息告诉西戴尔吗？西戴尔答应过我要帮忙救出村民们的。",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "\n谢谢。那我们在<FONT color=#a82424>利物沃特村庄废墟</FONT>见吧。",
+      "answer": "",
+      "image": "qw_51.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "嗯~古代武器库非常危险。如果不想让察提一个人去找村民，最好还是把这件事告诉西戴尔。<br><FONT color=#7e12d2>（先回到西戴尔那里把情况转告给他吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "你已经打听到有关原住民行踪的消息了吗？",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，我听说是古代武器库的东边。</FONT>",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,392 @@
+{
+  "qkname": "解铃还需系铃人",
+  "data": [
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "西戴尔不久前醒过来了。<br>到底发生了什么事情？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（讲述和贝思柯德见面的事情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "看来你的特技就是不厌其烦地四处晃啊。<br>赶紧走开，省的我把你踩死。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "很抱歉让你担心了…….<br>你先去见见我<FONT color=#a82424>老师</FONT>吧。<br>我们的事稍后再说。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你说<FONT color=#a82424>贝思柯德</FONT>出现了……？<br>看来莲花沼泽果真要经历一场灾难了，紧随卡拉翰其后，就连那个叛徒也跟着出现了。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德到底是什么人呢？伊格纳西奥也说贝思柯德是个叛徒…….</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "难道你没有听杰兰特或阿尔杰塔提起过吗？<br>也对，那个人……不，那些龙也在我们背后捅刀，所以也没有立场谈论贝思柯德啊，哎……",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>您是说杰兰特吗？他只是不太善于表达自己，但其实是个好人。<br>虽然有时也让人有些郁闷……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "郁闷？有些郁闷？就因为这郁闷，不知道让多少人……呼…….<br>你听好了。50年前，为了讨伐<FONT color=#a82424>黑龙卡拉斯</FONT>，我们集结了六大英雄。<br>然后就在黑龙之战的当天……",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "那天讨伐队伍在上黑山的途中，山的另一边突然出现了成群结队的红色怪物。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "那正是黑暗精灵埃雷娜的红色军队。我还以为当时<FONT color=#a82424>埃雷娜</FONT>率领的红色军队是奉黑龙卡拉斯之命前来支援的。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>它们不是和黑龙一伙的吗？</FONT>",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "完全不是……仔细回想过后。<br>为了对付红色军团，我们一方派出<FONT color=#a82424>阿尔杰塔</FONT>压阵，剩下的人都全数前往黑龙所在的黑山而去。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "但是，黑龙的力量非常强大，远远超乎我们的想象……战斗开始还不到1个小时，讨伐队伍就几乎全军覆没了，能够双腿直立的人就只有我们六个而已。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "当所有人都陷入绝望的时候，杰兰特站在了最前面。<br>「<FONT color=#a82424>人类啊，对不起</FONT>」他只留下了这句话，就……就变成金龙展开了与黑龙的斗争。",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "背叛感对大脑的支配并不需要太长的时间。<br>深深信赖杰兰特的巴尔纳和内尔文都受到了极大的打击。<br>还有<FONT color=#a82424>贝思柯德</FONT>也是……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他变成龙对你们的打击就那么大吗？原来人类只是在乎外表，我们兽人…….</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "愚昧的东西！我们当时在和黑龙战斗。<br>一个原本那么信任的朋友变成龙和变成兽人是完全不一样的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>有什么不一样的？不管是龙，是兽人，还是人类，杰兰特还是杰兰特啊！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "对你这么单纯的人说这种复杂的事，看来是我的失误。<br>……你去找<FONT color=#a82424>西戴尔</FONT>吧，他好像有话要对你说。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "抱歉……<br>让你担心了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>既然知道你就不应该这么消极地活着！和垃圾…….<br>你身体没事吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "嗯，托你的福，我没事。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那太好了。对了，你为什么会倒在那里呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我去了龙之追随者据点。<br>为了去送那件我之前没有送出的礼物…….<br>但是，我却在那个地方和卡拉翰……. 我和他又见面了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡拉翰……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "嗯，我一看到他就大胆地奔了上去，结果一下子就被他踢飞了，哈哈……<br>真是……！！我没有一件事能为察提做到啊……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哼，察提所希望的，是你能够好好的。<br>卡拉翰那种坏蛋，等我见到他时再好好收拾他吧！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "啊，我在身处卡拉翰带来的危险之中时，有个人救了我，你见到他了吗？一个身穿黑色披风、黑色盔甲的人……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德？是他救了你……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "嗯，如果不是他，我估计早被卡拉翰给……<br>等等，你说他叫贝思柯德……？<br>六大英雄之一的贝思柯德……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的，没错。你听卡拉秋说过？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "没有，老师几乎不怎么提六大英雄的事。不过，那个人居然是传说中六大英雄之一的贝思柯德……据传说，他可是在黑龙之战时就战死了啊……",
+      "answer": "",
+      "image": "qn_knight_velskud_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他还活着。而且活得好好的……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "难道……他和杰兰特或阿尔杰塔一样……也是龙吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这我倒不太清楚，没听说过…….</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "那么他……察提的仇……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德不像是那种会为别人做事的人。他的眼里只有他自己。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "光靠我的力量是难以打倒卡拉翰的。<br>就算如此我也不能请求身体不适的老师予以帮助……<br>贝思柯德和老师一样也是六大英雄之一，既然他拥有着龙的力量，那么卡拉翰什么的……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他是连龙之追随者都会咒骂的人！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我不必知道他是什么样的人，也不想知道！<br>重要的是，他拥有着能为察提复仇的力量。<br><FONT color=#387206>{user_nick}</FONT>，我知道你是个很好的朋友，可是……",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "这是我唯一能为察提做的了。<br>不管你和贝思柯德是什么关系……希望你能理解我一次。<br>直到为察提报了仇为止……你就让我按照我的意愿做吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>放弃吧！这样你说不定会和察提落得一样的下场。绝对不能和那种心肠狠毒的人联手。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "够了！我管他是英雄，还是混蛋，这都不重要！<br>求求你……让我一个人冷静冷静。<br><FONT color=#7e12d2>（西戴尔似乎不想说话了，去见卡拉秋吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "让我一个人冷静冷静…….<br><br><FONT color=#7e12d2>（西戴尔似乎不想说话了，去见卡拉秋吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "我都听说了…….<br>看来西戴尔已经下定决心了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>一定要阻止西戴尔才行啊…… 他甚至把贝思柯德也想象成了龙，真是太荒唐了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "贝思柯德确实是龙。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？你说什么？怎么可能？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "呼，你这个咋咋呼呼的家伙。我虽然不太愿意提起那些事，但这次我就来和你说说吧。<br>那是杰兰特变成龙之后的事了。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "杰兰特变成龙时，贝思柯德似乎是我们当中受到打击最严重的一个。甚至到了需要巴尔纳和特拉玛依来安慰他的地步。贝思柯德在两条龙之间的战斗结束前，一动不动，一直盯着杰兰特。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "战斗结束之后，杰兰特变回了人形，将黑龙宝玉握在了手中。突然，贝思柯德飞奔过去，挖下了杰兰特一边的眼睛，并抢走了黑龙宝玉。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "贝思柯德拿到了黑龙的宝玉。而且那黑龙宝玉被贝思柯德吸入到了体内。<br>这一切都是在瞬间发生的…….",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "出人所料，将宝玉吸入体内的贝思柯德被痛苦折磨得死去活来。<br>后来，黑暗精灵埃雷娜出现将贝思柯德带走了。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "……随后赶来的阿尔杰塔也和杰兰特一起消失了。<br>没有向我们做任何解释，连声招呼都没打。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "就这样结束了。<br>所有的事情都是一团糟，留给我们的只是混乱和伤害而已。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可是贝思柯德只会利用西戴尔啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "随他去吧。<br>也并不完全是坏事。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德很有可能会伤害西戴尔的啊！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "西戴尔虽然是个出色的孩子，但至今为止他还没有明确的目标或目的，所以还没有激发自己内在的潜能。<br>但是，现在他可以了……卡拉翰这个目标将成为让西戴尔快速成长的跳板。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "不过贝思柯德所说的卡拉翰的事很让人担心。他的目的竟然不是龙之宝玉而是卡拉翰…….",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德说不定还留在龙之追随者据点呢。<br>我去问问理由，但是请你把蓝塔娜的笔记还给她。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "这个主意不错，<FONT color=#a82424>你前往龙之追随者据点</FONT>去问问<FONT color=#a82424>贝思柯德</FONT>和卡拉翰之间有什么事。<br>但是笔记的事，我还得想想再说。",
+      "answer": "",
+      "image": "qw_54.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你还是跟到这里来了啊，小毛孩。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你和卡拉翰是什么关系呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你以为只要你提问，我就会乖乖地回答吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你如果不告诉我我就一直跟着你。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>（贝思柯德用一种像是看没分类的食物垃圾一样看着自己）</FONT><br>……卡拉翰从我身体里取出龙之宝玉，研究变成龙的方法。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我趁机从卡拉翰的研究室逃了出来。<br>之后便开始了漫长的寻找古代人后裔的生涯。<br>为了获得龙的力量……也为了报仇……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>利用你的身体进行实验？他为什么这么做？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……我和你说的太多了。<br>我现在得去追赶卡拉翰了，没时间和你在这儿啰嗦。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "那家伙……跑到<FONT color=#a82424>古代武器库的西边</FONT>去了。<br>现在不是在这儿啰嗦的时候，我必须去和他做个了结。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你回去吧，小毛孩。",
+      "answer": ""
+    }
+  ]
+}

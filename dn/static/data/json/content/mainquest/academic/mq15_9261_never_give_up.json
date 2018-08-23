@@ -1,0 +1,184 @@
+{
+  "qkname": "不能放弃",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（去寻找百合花的基地吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（这样继续寻找数据到底有什么意义……？这么做好像没什么意义了吧。百合花肯定不会在基地这么重要的地方放置容易被找到的资料的）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（不能再这么下去了。再这么下去什么事都做不成……我总不能把整个大陆都翻一遍吧……我实在是无能为力）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（啊，我感到一道奇怪的目光……好像是斯泰拉正在看着我？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（我一直站在学者站台前，她好像觉得很奇怪。去高级魔法师斯泰拉那里看看吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_soceressstella.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "你从刚才起就一直在那里做什么呢？看上去有气无力的，一整天就光坐在罐子前面……看上去也不像是在捕鸟，有什么事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没有，没什么啦。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "哎呀，年轻人就这么死气沉沉的，实在是……<br>该死气沉沉的人是我，是我！为什么每次我想买的地都……唉。<br>我这次本想在安全点的陨石坠落地和沙漠那里买地！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（为什么偏偏是那里！） </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "陨石坠落地有幽灵入侵……泰努玛拉沙漠呢……唉！时机真是不好啊……<br>加上泰尔罗萨入口寺院那里……唉，现在连去都去不了了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>为什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "啊，你还不知道吧……这可是一级秘密，我听说有人在古代寺院那里兴建工事呢。并且听说那里有一个什么奇怪的基地。 ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>基地！？？！？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "吓我一跳……你很吃惊吧。详情我也不清楚，暂时我也不想过去。唉，这么好的一块地……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>说不定泰尔罗萨入口那里就有百合花的基地呢）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "<FONT color=#7e12d2>（斯泰拉开始自言自语）</FONT>安杰利卡那家伙，说出去一会儿，怎么都现在都不回来……这时候要有她帮忙就最好不过了……喂，你要去哪里？有时间的话，帮我……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>很抱歉！我突然有些急事！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "哎哟喂，连你也……<br><FONT color=#7e12d2>（请去寻找泰尔罗萨入口的百合花远征基地）</FONT>",
+      "answer": "",
+      "image": "qw_81.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（我得到的这个真的是宝玉吗？真让人怀疑。还有，我是来对抗百合花的吧？这些事……真的太不真实了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（还有，我手里的这块宝玉……究竟该怎么使用呢？毕竟这是曾经属于黛西的东西……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（真不知道该怎么办才好。<br>……啊，对了……不知道它能不能帮到贝思柯德？<br>贝思柯德是什么时候获得宝玉的……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……学者站台，即便百合花被消灭了，应该也能照常启动吧……？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（链接学者站台）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "<FONT color=#2b2723>啊，房地产投资真是长路漫漫啊……安杰利卡到底上哪去了？连好欺负的伊桑都不见了……</FONT><br><FONT color=#7e12d2>（请链接学者站台）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "- <FONT color=#086171>网络不稳定。</FONT><br>- <FONT color=#7e12d2>重新设置Mission Object。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（只搜索内部数据）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "- <FONT color=#086171>不存在100%一致的数据。要查看部分一致的搜索结果吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>部分一致？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "<FONT color=#2b2723>- </FONT><FONT color=#086171>该文件已被锁定。</FONT><FONT color=#086171> </FONT><br><FONT color=#2b2723>- </FONT><FONT color=#086171>密码提示：将百合花远征基地的传送坐标相加。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>只要输入所有传送点的坐标就行了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "<FONT color=#2b2723>- </FONT><FONT color=#086171>密码错误。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎么可能！……难道有什么漏掉了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（嗯…… 难道忘记了哪里呢？不，比起重新收集数据，还是亲自去查看下贝思柯德的状态，再做出预测比较好。只要不出太大的偏差就好）</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（贝思柯德……就这王城地下的秘密区域。去那里看看吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "qkname": "不知放弃的女人",
+  "data": [
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "嗯……<br>\n<FONT color=#7e12d2>（斯泰拉陷入了沉思）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "不行，就此放弃不是我的风格！<br><FONT color=#7e12d2>（斯泰拉紧握拳头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "俗话说得好，退而求其次。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "<FONT color=#662500>嗯……？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "土地的价值并不只有地价。<br>你明白了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>应该是吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "呜呼……反应这么迟钝怎么行？<br>这是为了让内心平静下来开的玩笑。玩笑都不懂啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？？？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "好啦。<br><FONT color=#7e12d2>（斯泰拉摇头晃脑的）</FONT><br>就是说啊，你再去看一下<FONT color=#a82424>奇迹祭坛保护区</FONT>吧。",
+      "answer": "",
+      "image": "qw_69.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>噢？你不是对那块地不感兴趣了……</FONT>",
+      "answer": "",
+      "image": "qw_69.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "本来是的，但不久前我和<FONT color=#a82424>柏林</FONT>聊天时，听说那里建有一个什么生命工学中心？<br>K博士是个有名的生命工学博士，所以会留下些<FONT color=#a82424>研究材料</FONT>在奇迹的祭坛也说不定。<br>如果能找到的话，可以高价卖给柏林，呵呵呵~",
+      "answer": "",
+      "image": "qn_npc_saint_blacksmith_dwarf.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这才是你的目的吧。</FONT>",
+      "answer": "",
+      "image": "qn_npc_saint_blacksmith_dwarf.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "所以赶紧去找一下吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（现在……越来越理所当然……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "去找到写着晦涩文字的纸回来就行了。<br>你已经去过一次了，应该不难了吧？呵呵呵~<br>对你来说，<FONT color=#a82424>奇迹祭坛保护区</FONT>还不是小菜一碟？",
+      "answer": "",
+      "image": "qw_69.png"
+    },
+    {
+      "npc": "谜之少女",
+      "question": "啊，你是……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，尸体站起来了！？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "谜之少女",
+      "question": "啊，没什么！你就当没看见我好了！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>等等！你等一下！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "来了啊。<br>找到K博士的研究材料了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没有，没找到。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "嗯……真遗憾。<br><FONT color=#7e12d2>（脸上充满着留恋）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "question": "<FONT color=#7e12d2>少女像风一样消失了。</FONT><br><FONT color=#7e12d2>周围没有看到研究日志之类的东西……</FONT><br><FONT color=#7e12d2>有的只是颜色奇怪的碎片而已。</FONT><br><br><FONT color=#7e12d2>（回去找高级魔法师斯泰拉）</FONT>",
+      "answer": "",
+      "image": "qn_npc_soceressstella.png"
+    }
+  ]
+}

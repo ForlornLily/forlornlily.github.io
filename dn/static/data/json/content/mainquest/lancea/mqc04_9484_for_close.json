@@ -1,0 +1,327 @@
+{
+  "qkname": "为了靠近",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "话说，听说什么巢穴已经完成了，巢穴是什么啊？<br>事情现在进展得怎么样了，你打听到了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯…… 我和凯伊交谈后发现，周围什么人都没有呢！这可怎么办……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "你去找王城的道格拉斯将军，向他询问下目前的状况吧？",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，好的。谢谢你，埃提亚！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "你是那个……你找我有什么事情吗？？<br><FONT color=#7e12d2>（安杰利卡的心情似乎不太好。下次再来找她吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我也知道巢穴已经完成，我刚刚感觉到了。<br>……不过，现在的状况真是糟到了极点。<br><FONT color=#7e12d2>（先去神圣天堂处理好事情，然后再来吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "嗯？你怎么会在这里？<br>为了打破当前的局势，其他冒险家已经出发前往<FONT color=#a82424>黑山山角</FONT>了。",
+      "answer": "",
+      "image": "qw_skirtofblackmountain.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>黑山山角？</FONT>",
+      "answer": "",
+      "image": "qw_skirtofblackmountain.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "没错。他们说必须找到那个金发女剑客，就离开了，你没听说吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！你这么说我想起来了，杰兰特好像这么说过。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "哈哈，你怎么这么粗心大意。那你也快点前往<FONT color=#a82424>黑山山角</FONT>吧。",
+      "answer": "",
+      "image": "qw_skirtofblackmountain.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "你不是说要去<FONT color=#a82424>黑山山角</FONT>吗？你在王城还有什么事要做吗？",
+      "answer": "",
+      "image": "qw_skirtofblackmountain.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "其他冒险家都去了<FONT color=#a82424>黑山山角</FONT>。如果到黑山山角，应该能打听到什么吧？",
+      "answer": "",
+      "image": "qw_skirtofblackmountain.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "你是那个……假装跟<FONT color=#a94407>伊桑</FONT>很亲近的那个小姑娘吧？<br>你来得正好。你要不要帮我分担些事情做呀？",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……嗯？什么事情啊？<br>现在更重要的是……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "由于要与黑骑士战斗，整个神圣天堂已经乱作一团了。因为黑龙再次苏醒了。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？？黑龙苏醒了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "没想到你什么都不知道啊？在神圣天堂做了30年生意的大妈都知道这件事，你身为冒险家，居然不知道？对于我们这样的人来说，情报和钱就是我们的生命！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……情报还说得过去，为什么要加上钱？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "所以我才说你们这些富家小姐不行的！你们不懂钱有多么重要~<br>那么，你是不是也没听说巢穴已经完成了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这个我听说了。你不说我也正打算问你呢，巢穴是什么啊？ </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "你不知道什么是巢穴？唉~ <FONT color=#a94407>巢穴</FONT>是拥有压倒性力量的人为了保护自己的领域而设置的结界！这是常识吧？",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "此外，现在的巢穴是通过黑龙之力建成的。<br>除了巢穴的主人之外，巢穴对其他人具有抗拒力，别说是军队了，连我们都很难靠近那里。现在你理解目前的状况了吗？",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>大致理解了。<br>那黑骑士怎么能待在巢穴里面呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "……唉，郁闷死了。你还不清楚吗？<br>黑骑士通过古代人的力量变成了黑龙啊！我们现在必须与龙抗衡。就像50年前那样。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！！那情况不是很糟糕嘛。这下完了……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "没错，是完了。但还是有办法的。如果你给我提供点帮助，我们就能像50年前那样，进入那巢穴了。<br>你现在有兴趣帮助我了吧？",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "你好像十分看重那没用的荣誉和正义。如果你帮助我，你能维护自己的正义感，我能赚到钱，这对我们俩来说都是好事啊。对吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……那我要怎么做呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "非常简单。只要制作出古代祭司长的符文就行了。<br>如果想制作<FONT color=#a94407>古代祭司长的符文</FONT>，必须前往<FONT color=#a82424>枯竭的玛丽莎泉</FONT>，搜集符文碎片。",
+      "answer": "",
+      "image": "qw_35.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哇~你真了不起。你是怎么知道这些的？<br>那我现在就去搜集符文碎片。碎片长什么样啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "嗯……这个我也没听说过……<FONT color=#7e12d2>（安杰利卡瞟了瞟阿尔杰塔，然后说道）</FONT><br>\n符文应该长得像水晶那样吧？总之，你搜集10个左右的碎片，然后交给阿尔杰塔。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>交给阿尔杰塔？？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "你要问多少次啊？你只要到<FONT color=#a82424>枯竭的玛丽莎泉</FONT>搜集符文碎片，然后交给阿尔杰塔，她就会帮你制作古代祭司长的符文啦！",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>安杰利卡，你怎么不去？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "啊，我…我觉得麻烦…不不，我还有其他很重要的事情，你现在搜集符文吧。知道了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "你怎么这么慢啊？如果你搜集到符文碎片，就交给阿尔杰塔吧！<br>如果你去得太晚，我会挨骂的~<FONT color=#7e12d2>（魔法师安杰利卡跺着脚）</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "嗯？你来得正好，我正打算让其他人去跑腿呢，你是怎么知道我需要碎片的？<br>你做了件很有用的事情啊？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（拿出符文碎片）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "无论是过去，还是现在，人类都一个样。古代人也好，现代人也好，在我看来没什么两样。<FONT color=#7e12d2>（阿尔杰塔抚摸着符文）</FONT> <br>这符文原本是完整的，可是却被愚昧的人类糟蹋成这副样子。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>发生什么事情了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "肯定是古代人中有几个人做出了奇怪的决定。他们做了不应该做的实验。有些人专门喜欢做一些被禁止的事，经常造成无法收拾的局面。如果所有人都像你这么单纯，也不会发生这么多事情了。<br><FONT color=#7e12d2>（阿尔杰塔皱起了眉头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "总之，我会用这个制作古代祭司长的符文。将碎片合为一体，就像拼图一样。也就是说，就连小孩子都会。不过，你应该不行吧？所以我来替你做吧，你要谢谢我。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，谢谢。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "哼，你说得倒好听……简单的事情不一定很快就能完成。制作古代祭司长的符文需要一些时间。<br>趁这段时间你去好好修炼吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，那……我也去见见埃提亚，还要去趟王城报告。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "报告？随你便。总之拿你没办法。你还对人类抱有期望吗？你到底要再吃多少苦头才能清醒过来？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你不要总往坏处想啊！他们也在努力。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "不是我往坏处想，而是你没看清这个世界。如果人类都像你想得那么单纯的话，至少那时……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……什么？那时？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……我要专心做事了。和你争论也够烦的。<br>要去见你的妹妹，还是去干嘛，都随你的便。",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……我要专心做事了。和你争论也够烦的。<br>要去见你的妹妹，还是去干嘛，都随你的便。<br><FONT color=#7e12d2>（去找埃提亚，向她转述期间发生的事情）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "黑龙苏醒了，而且还建造了巢穴？该死，姐姐，你需要时间冷静下。冷静，放松……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我已经冷静下来了，埃提亚。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "嗯，好吧。是我反应过激了。呼。<FONT color=#7e12d2>（埃提亚呼了口气，继续说道）</FONT><br>所以，你找到了进入巢穴的方法？但是，黑龙……应该能一口吞掉我们吧？",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "这种可怕的事情还是交给王城，或者其他冒险家吧，姐姐。<br>我觉得就算进入巢穴，也很难找到与父亲相关的线索。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>话是没错……但这件事威胁到了很多人的安全，埃提亚。<br>我不能坐视不管。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "这是当然的……但姐姐，你不要忘记，我们做所有的事情都是为了找到有关父亲的线索。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "实际上…… <FONT color=#a94407>凯伊</FONT>哥哥好像找到了什么。我收到了他的联络，他要与你见一面。",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真的吗？在哪里见面？</FONT>",
+      "answer": ""
+    }
+  ]
+}

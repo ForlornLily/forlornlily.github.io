@@ -1,0 +1,169 @@
+{
+  "qkname": "极小的线索",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "这是父亲写给某人的信件。应该说，他想把信寄出去，结果却没能成功。<br>这封信上的日期距离现在已经很久了，负责送信的家伙没有按照父亲的吩咐办事。",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "你已经把箱子拿给埃提亚看过了吗？我在这里寻找其他线索。<br><FONT color=#7e12d2>（必须返回神圣天堂，和埃提亚对话）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "从信的内容来看，起初下令让父亲运送宝珠的人就是叛徒。<br>父亲发现这点后，就将尚未寄出的信收好，并试图找到我们。是这样吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我们是不是应该在魔法山脊等着父亲，埃提亚？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "就是说……但是，如果父亲安全到达魔法山脊，肯定会有人告诉他我们的行踪。<br>父亲还没有找我们，看来他肯定还没有到达魔法山脊。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "我们除了知道发生了什么事情之外……其他一概不知。线索太少了。<br>不知道凯伊哥哥有没有什么新发现？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这个么，如果有新发现，他肯定会联系我们的，到现在都没有什么消息。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "我们不能就这样傻等着。姐姐，你也到<FONT color=#a82424>江下游废墟</FONT>，帮助凯伊哥哥进行搜查吧。<br>还有……问问他向父亲下达指令的人是谁。",
+      "answer": "",
+      "image": "qw_32.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐，你到<FONT color=#a82424>江下游废墟</FONT>去找凯伊哥哥吧。<br>希望能有什么发现……",
+      "answer": "",
+      "image": "qw_32.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "我正准备叫你呢。<FONT color=#387206>{user_nick}</FONT><br>我从垃圾中捡到了这个，这笔迹我觉得很熟悉。这是，拉斯大人的笔迹吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，没错。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "但是中间的部分我还没找到。既然你来了，我们就一起找找看吧。<br><FONT color=#7e12d2>（凯伊指着小山丘说道）</FONT><br>我在这里找，你从那边开始找。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>就这个吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "噢？嗯！你从哪里找到的？你挺厉害的嘛~~？",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "<FONT color=#7e12d2>（凯伊将纸片放在地上，边拼起来边问道）</FONT><br>话说，箱子里装的是什么？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>父亲的信件。埃提亚读完信之后说，向我们下达指令的人好像就是叛徒。<br>所以，凯伊，你能帮我打听下那个下达指令的人是谁吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "真的吗？向拉斯大人下达指令的人，应该是兄弟团核心人物中的一位。<br>兄弟团核心人物中出了叛徒？真是令人难以置信。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……是吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "嗯。但如果是龙之追随者，那就另当别论了。我会让我服侍的那个人去打听下，但你不要抱太大期望。想必你也知道，在兄弟团内部，除了事件相关人员之外，其他人对该事件的情况一概不知，他或许也不清楚。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那就别问了，那个人可靠吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "当然啦。你见到的话就会知道。他……兄弟团中没有人比他更可靠了。<br><FONT color=#7e12d2>（凯伊差不多将纸片都拼好了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "我不擅长拼图……这个好像并不简单呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>都拼好了吗？？上面写的什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "“黑龙……使徒……？”",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "拉斯大人与黑龙的苏醒有关！<br><FONT color=#387206>{user_nick}</FONT>！你回答我。你没听你父亲说过什么吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……我不知道。父亲没跟我说过相关的情况。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "<FONT color=#2b2723>那你去找</FONT><FONT color=#a82424>埃提亚</FONT>问问看。<br>问问她有没有听过<FONT color=#a94407>黑龙</FONT>和<FONT color=#a94407>使徒</FONT>。在这期间，我会试着寻找下达指令的人。",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "再见。",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "你去见见<FONT color=#a94407>埃提亚</FONT>，问问她有没有听过黑龙的使徒的事情。<br>在这期间，我会试着寻找下达指令的人。",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "黑龙和使徒？<br>父亲的笔记上是那么写的？？",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，这是我们找到的全部线索。</FONT>",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "qkname": "另一个追踪者",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "你回来啦，姐姐。你找到凯伊哥哥了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（把凯伊和柯梅里纳的事情告诉埃提亚）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9553_qu_01.ogg}<br>……凯伊哥哥被那么多人利用了啊……傻瓜，笨蛋……<br><FONT color=#7e12d2>（埃提亚的眼角变红了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9553_qu_02.ogg}<br>所以，必须快点找到那个笨蛋哥哥。除了我们还有谁会拯救那个笨蛋哥哥呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没错！我这次要去</FONT><FONT color=#662500>被占领的古代寺院那边看看！</FONT>",
+      "answer": "",
+      "image": "qw_75.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "好！姐姐，如果这次再遇到凯伊哥哥的话，别再让他逃掉了！",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "你……我见过你。你是<br><FONT color=#a82424>拉斯</FONT>的女儿……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……？？你认识我…… 啊啊！！<br>你是</FONT><FONT color=#662500>兰伯特……？！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "如果你在这里的话……你看到<FONT color=#a82424>凯伊</FONT>了吗？",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>凯伊的下落，你不应该比我更清楚吗？<br>而且，就算我知道也不会告诉你！你也是欺骗凯伊的大坏蛋！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "欺骗凯伊……这个嘛，可以说是，也可以说不是……<br><FONT color=#7e12d2>（兰伯特带着微妙的表情看着</FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#7e12d2>）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "我是<FONT color=#a82424>使徒</FONT>，并且通过凯伊和先知……<FONT color=#a82424>萝丝琳德</FONT>接触，这的确是事实，但我没有对那个孩子说过假话。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不知道你有没有对他说过假话，但你不也没对他说真话吗?！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "总之那个女人已经实现了目的，实现目的之后，凯伊就成了绊脚石。恐怕她会想杀掉他。<br>他好像以为被我欺骗了，所以就抓住了<FONT color=#a82424>那个女人</FONT>向他伸出的手……如果想救那家伙的话，就最好带我去找他。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……那个女人……你是说百合花？你也认识她吗？<br>（这个人也知道未来人的事情吗？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "那个女人是谁、她的目的是什么，这些我都不关心。<br>但是，那个女人是为了夺取宝玉而接近凯伊的危险分子。你如果是凯伊真正的朋友的话，最好去帮帮他。",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "<FONT color=#7e12d2>（兰伯特闭上了嘴，似乎不想再说话了。最好回去找埃提亚）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "<FONT color=#7e12d2>（把遇到</FONT><FONT color=#7e12d2>兰伯特的事情告诉埃提亚）</FONT>",
+      "answer": "",
+      "image": "qn_npc_warrior_lambert.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9553_qu_03.ogg}<br>凯伊哥哥很危险……那个叫<FONT color=#a82424>百合花</FONT>的人利用完哥哥之后，现在还想杀死他？<br>啊啊……这可怎么办才好啊……",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9553_qu_04.ogg}<br>但是，<FONT color=#a82424>兰伯特</FONT>那个人杀死了<FONT color=#a82424>巴尔纳</FONT>还不够……还欺骗凯伊哥哥……哥哥被那个叫<FONT color=#a82424>百合花</FONT>的未来人利用不也是他的错吗？",
+      "answer": "",
+      "image": "qn_npc_warrior_lambert.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "不可原谅……绝不能原谅那种人……",
+      "answer": ""
+    }
+  ]
+}

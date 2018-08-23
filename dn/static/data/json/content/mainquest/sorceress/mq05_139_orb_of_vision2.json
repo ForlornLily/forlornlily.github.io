@@ -1,0 +1,118 @@
+{
+  "qkname": "秘传之球Ⅱ",
+  "data": [
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "你在这儿干什么呢？还不赶快前往融解森林？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "魔法师尤丽娅",
+      "question": "来，拿着这个。<br>现在有能够守护秘传之球的也就只有<FONT color=#387206>{user_nick}</FONT><FONT color=#2b2723>你</FONT> 了。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师尤丽娅",
+      "question": "来，拿着这个。<br>现在有能够守护秘传之球的也就只有<FONT color=#387206>{user_nick}</FONT><FONT color=#2b2723>你</FONT> 了。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "魔法师尤丽娅",
+      "question": "秘传之球是我们魔法师传承下来的珍贵宝物，所以能打开那扇门的钥匙被分成了两把，而且被分别保管着。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "魔法师尤丽娅",
+      "question": "我给你的<FONT color=#a82424>红色契约</FONT>是打开那扇门的第一把钥匙。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "魔法师尤丽娅",
+      "question": "而且，第二把钥匙<FONT color=#a82424>蓝色誓言</FONT>你应该已经拿到了……",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "魔法师尤丽娅",
+      "question": "因为如果两把钥匙到一起的话，将会产生小小的共鸣，就像现在这样。<br>\n所以你是不是已经从辛西亚那里拿到第二把钥匙了呢？",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（咦，老师什么时候把它放到我的背包里了呢？）</FONT>",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "天气好像有点冷吧?",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "据说尤丽娅就在那儿吧？你前往融解森林从尤丽娅那里了解一下情况吧。<br>不管怎样，我们必须守护住秘传之球。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "尤丽娅就在那儿吧？你前往融解森林从她那里了解一下情况吧。<br>不管怎样，我们必须守护住秘传之球。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师尤丽娅",
+      "question": "必须把秘传之球拿出来转移到安全的地方。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师尤丽娅",
+      "question": "\n请前往<FONT color=#a82424>帕雷利娜安息处</FONT>把秘传之球拿出来吧。必须赶紧行动。",
+      "answer": "",
+      "image": "qw_8.png"
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "前辈，据说你两把钥匙全部拿到了? 现在只剩下到<FONT color=#a82424>帕雷利娜安息处</FONT>取回宝珠的事情了，加油啊！",
+      "answer": "",
+      "image": "qw_8.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "看你无所事事的样子，似乎有很多闲工夫的嘛。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "啊?宝珠被抢啦?到底怎么回事...",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>啊哈哈哈……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "这不是什么玩笑，就是丢失了<FONT color=#a82424>秘传之球</FONT>啊。<br>\n这个魔法师的珍宝！",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "如果只是生气就算万幸了吧？也许流星拳是必不可少了，如果再使用被禁的拷问魔法的话，恐怕就是想要前辈的命了吧？<br>\n……不，也说不定会每天痛苦地折磨你，让你生不如死。前辈明知道辛西亚的性格……！！",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>看来……必须把秘传之球找回来才行。</FONT>",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "qkname": "亡灵的信息",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（告诉他遇见海兰德尔的事。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "海兰德尔口中的不速之客应该就是攻击他的查尔德。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "海兰德尔说的那个人的允许……有可能说的是女神……<br>没准就是格里高利所说的那4名司令官之一。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "如果真是这样的话，那个人应该是能够让高级查尔德海兰德尔等候自己允许的高等级查尔德。<br>攻击他的查尔德应该也是司令官级别的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哇……没想到诺尔佩居然能推测出这么多东西！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "举手之劳，哈哈。总之能够推测出攻击海兰德尔的司令官和海兰德尔的长官司令官的关系不太好。也就是出现了你们一直期盼的<FONT color=#a94407>帝国查尔德内部分裂</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那我们应该怎么做？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "现在谁都不知道我们应该做些什么。只能期盼他们关系恶化而已。现在我们能做的就是尽快找到治愈之杯。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "如果这段期间内他们的关系更加恶化，那就更锦上添花了。<br>先回到卡伊伦岛继续寻找地图吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，我知道了。我和格雷尔马上坐船去废弃码头。</FONT>",
+      "answer": "",
+      "image": "qw_126.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "拜托你了。幸好命运之箭现在偏向我们这一方了。",
+      "answer": "",
+      "image": "qw_126.png"
+    },
+    {
+      "npc": "格雷尔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>！你看见了吗？刚才天上有个特别好看的爆竹爆炸了！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>原来你也看见了！真是太绚丽了。<br>要不是有了诺尔佩制作的特殊信号弹，不管敌军还是友军肯定都能发现我们。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>调查码头的是谁来着？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "杰兰特！难道他找到地图了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>要不就是遇上危险了！我们快点过去吧！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "走吧！去废弃码头！"
+    },
+    {
+      "npc": "格雷尔",
+      "question": "嗯！我们去救陷入危险的杰兰特！",
+      "answer": "",
+      "image": "qn_npc_geraint_kid.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "就你俩来了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我们两个人一起所以结束得比较快，正好看到信号弹就马上赶过来了。<br>出什么事了吗？找到地图了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "地图倒是没找到，不过我找到特别了解地图的生物了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>特别了解地图的生物？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GereintKid_9802_qu_01.ogg}<br>好像是生活在卡伊伦岛的人类，被困在岛里后发了疯似的想要逃走结果最后死掉的人类亡灵。<br>不过神奇的是他好像还保留一些生前的<FONT color=#a94407>记忆</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "卡伊伦岛的兽人只有一个，所以要是问问这家伙关于兽人或者兽人留下的地图的事，它没准能记得。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不过杰兰特所说的亡灵在哪里啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "刚才还在这呢，可能是因为想起过去的事情了，他突然说自己很痛苦然后往那边跑了。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我本来想追上去，可是突然涌上来一群怪物。<br>这些亡灵怎么砍都砍不死，根本没法追上去。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你比我和格雷尔的记性都好。所以我和格雷尔负责拦住这些怪物，你快进去和亡灵对话吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……好吧！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "怎么偏偏跑到BOSS所在的最深处去了。<br>你一定要从那个家伙嘴里问出地图的所在地。它肯定想起来什么了。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "我和杰兰特在这里帮你拦住怪物！",
+      "answer": ""
+    },
+    {
+      "npc": "记得过去的亡灵",
+      "question": "呜呜……头好疼……呜呜呜……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>喂，你没事吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "记得过去的亡灵",
+      "question": "我、我……不是怪物……我是生活在这里的人……呃呃……我想起来了……想起来了……越想头越疼，像要炸了一样……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是啊，你不是怪物。你只是一个曾是人类的可怜灵魂而已。<br>你还记得过去的事吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "记得过去的亡灵",
+      "question": "我不是怪物……我是人……<br>那些家伙来之前，我们一直都聚居在这里……土地上只有我们的家园……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那些家伙里有兽人吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "记得过去的亡灵",
+      "question": "兽人……？兽人……我想起来了……总是坐船来我们村子的<FONT color=#a94407>一个叫地图学者的伟大兽人</FONT>……<br>他教会我们很多东西。我们跟他学习外面世界的知识，接纳他成为我们村子里的一员，还给了他腾出一间房子。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（好像能打听到些什么！）<br>那你知道那个地图学者兽人现在是否活着，要是活着的话他现在在哪里吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "记得过去的亡灵",
+      "question": "我也不知道……那家伙……有着美丽外表的奇怪的查尔德占领这座岛之后，我们就都被那家伙的手下给杀了我就只能急急忙忙地逃出这个岛。然后我……我还……呃呃呃……！！그",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>镇、镇定！没关系。现在一切都结束了……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "记得过去的亡灵",
+      "question": "结束了……？没错……当时我死了……啊……没错已经结束了……我再也不用受罪了……也不用害怕了……<br><FONT color=#7e12d2>（亡灵好像马上就要成佛了！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>等一下！你知道那个地图学者制作的地图在哪里吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "记得过去的亡灵",
+      "question": "我不太清楚……但如果他没能把地图带走的话……或者故意藏起来不让它落入海兰德尔之手的话……<br>应该在那里……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那里？那里是哪儿？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "记得过去的亡灵",
+      "question": "我们一起生活过的家园……<FONT color=#a94407>市区尽头</FONT>他住过的那个房子里……",
+      "answer": "",
+      "image": "qw_128.png"
+    },
+    {
+      "npc": "格雷尔",
+      "question": "见到亡灵了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "咦？亡灵去哪儿了？<br>从亡灵那儿打听到什么消息了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他告诉我一个重要信息之后就成佛了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "他还告诉我们情报了真是太好了。所以地图究竟在哪？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>地图学者住过的那个旧街的房子里。</FONT>",
+      "answer": "",
+      "image": "qw_128.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": "",
+      "image": "qw_128.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "好！没准一会还有看见我信号赶过来的同伴，我在这等一会再走<br>你们先去旧街找地图吧！",
+      "answer": "",
+      "image": "qw_128.png"
+    }
+  ]
+}

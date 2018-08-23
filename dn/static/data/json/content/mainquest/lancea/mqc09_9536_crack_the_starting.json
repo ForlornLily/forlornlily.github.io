@@ -1,0 +1,206 @@
+{
+  "qkname": "裂痕的产生",
+  "data": [
+    {
+      "npc": "萝丝",
+      "question": "…………",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "我常常觉得我跟其他人不一样。<br>被黑骑士利用的时候，我想过，如果我是平凡的女孩子，该有多好。因为太憎恨那样的处境，我还曾想把自己藏入梦境。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "可是，遇见<FONT color=#a82424>特拉玛依</FONT>以后，我认识到了自己的软弱。<br>特拉玛依对我说，我的力量能帮助许许多多受苦受难的人们。",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "我不想再逃避了。<br>可很巧的是，自从我不再厌恶这股力量，它反而逐渐减弱了。<br><FONT color=#7e12d2>（萝丝露出悲伤的笑容）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "嗯……<br>这股力量逐渐减弱，等到最后真的消失的时候，我还能回到普雷利镇去吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>如果你愿意，现在就可以回去，不是吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "现在还很危险，只要我还拥有这股力量，就会有人对它虎视眈眈。如果我现在回到普雷利镇，想谋害我的人说不定会让镇子陷入危险之中。<br>所以……除非那些人消失，或者……",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "如果我的力量完全消失，我成为一个普通的女孩子的话，我会回去的。<br><FONT color=#7e12d2>（萝丝的眼中落下了泪珠）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "对不起，让你见到我这个样子……现在我只是……有些疲倦才会这样，你别担心。<br><FONT color=#7e12d2>（萝丝把眼泪擦干）</FONT><br>哭一哭心情会好一些。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（可怜的先知……竟然误会先知，</FONT><FONT color=#662500>贝思柯德真是傻瓜、笨蛋、海参……唉，算了，还是去找埃提亚商量一下奇怪的精灵说的话是什么意思吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "对不起……哭一哭心情会好一些……",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "啊！姐姐，你来得正好！<br>我正等你呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？有什么事吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "凯伊哥哥有消息了！",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真的吗？！<br>上次突然发了顿脾气就消失了，我还担心呢……他还活着吗？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐……不要随便咒别人死啊，嘻嘻嘻……<br>总之，他好像有话要对你说，你快去<FONT color=#a82424>恶灵阴影</FONT>看看吧。",
+      "answer": "",
+      "image": "qw_61.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "哎……真是的……<br>害别人白白担心……<br><FONT color=#7e12d2>（埃提亚习惯性地抚摸着胸针）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "你来了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……哼！好久不见啊？<br>（这家伙为什么这么闷闷不乐？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "<FONT color=#7e12d2>（凯伊突然低下了头）</FONT><br>……对不起！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃……嗯？！！<br>你干嘛对我说这种话啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "我……我好像做错了……<br>哎呀不知道……虽然现在还不能确定……<br>但我是真心的！",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "<FONT color=#a82424>特拉玛依</FONT>……还有<FONT color=#a82424>先知</FONT>，都不要相信！<br>绝不能相信他们！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……你怎么突然出现说这么奇怪的话，凯伊？！<br>难道因为大家都不理你，现在你就随随便便怀疑别人了吗？<br>原来你是这样的人啊？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9536_qu_01.ogg}<br><FONT color=#7e12d2>（凯伊的脸瞬间变了，像要哭了）</FONT><br>……我……我只是担心你和你妹妹……<br>你还气愤地说我随便怀疑别人，你是不相信我这个老朋友吗……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你乱说什么啊，凯伊？<br>你突然出现，说这些不像样的话，你要我怎么相信你？<br>至少要有证据啊！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "证据……证据我现在拿不出来……所以……<br><FONT color=#a82424>先知</FONT>……那个古代人是<FONT color=#a82424>假冒的</FONT>！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>先知只是个柔弱的少女！<br>（贝思柯德就总是说先知是假冒的，她本来就已经很受伤了，为什么连凯伊也这样？！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "你仔细想想，<FONT color=#387206>{user_nick}</FONT>！<br>叛徒<FONT color=#a82424>伊格纳西奥</FONT>和<FONT color=#a82424>杰克</FONT>也都是<FONT color=#2b2723>神殿骑士团成员。</FONT><br>你怎么能盲目相信特拉玛依或先知就一定是对的呢？！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>最开始把特拉玛依介绍给我的，不就是你吗？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "所以最开始我不就跟你说我错了吗？！<br><FONT color=#7e12d2>（凯伊急切地说着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……我明白了。那我先去见见</FONT><FONT color=#662500>特拉玛依。 <br>待会见吧。</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "好，我知道了，<FONT color=#387206>{user_nick}</FONT>……<br>但是，我希望你理解我……我只是想保护你们……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（不行。必须把这件事告诉埃提亚）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "你见到凯伊了吗，姐姐？<br><FONT color=#7e12d2>（埃提亚的脸可疑地变红了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>别提了，埃提亚！凯伊那家伙真是小心眼！ <br>别人不带他玩，他就说别人的坏话！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "……这……怎么回事啊，姐姐？",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（把凯伊的话告诉埃提亚）</FONT>",
+      "answer": ""
+    }
+  ]
+}

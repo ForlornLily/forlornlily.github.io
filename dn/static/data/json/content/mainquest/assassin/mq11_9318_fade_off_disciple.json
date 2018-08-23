@@ -1,0 +1,226 @@
+{
+  "qkname": "消失的使徒",
+  "data": [
+    {
+      "question": " <br>\n<FONT color=#7e12d2>(有个罐子发出了奇怪的声音，吸引了我的注意)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(对了，忘了到黑山山角去见学者柯梅里纳了。<br>她说会告诉我有关贝思柯德……黑骑士的线索。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "question": " <br>\n<FONT color=#7e12d2>(贝思柯德闭着眼睛，伤口包扎了起来)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你想去见见那边的小冒险家，对吧？<br>明白了。",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "我正在为贝思柯德搜集治疗药。<br>如果你能帮我搜集，我就相信你不会加害他。之后我会告诉你一些情报。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "他是个好人。<br>……应该说……我认识的他，是个好人……",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "过去我曾经学到过，在孤岛中心可以搜集到发光的粉末止痛药。<br>我想使用那个。你真的愿意帮我吗？",
+      "answer": "",
+      "image": "qw_33.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "搜集到发光的粉末止痛药之后，请你放到<FONT color=#a82424>神圣天堂</FONT>的<FONT color=#a82424>学者站台</FONT>中。<br>我会按照约定，把写有情报的便条留在那里。",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "对了，<FONT color=#a82424>学者站台</FONT>是指长成这样的<FONT color=#a82424>罐子</FONT>。<br>\n是黄色的罐子，应该很容易就能找到。好了……",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "发光的粉末止痛药在<FONT color=#a82424>孤岛中心</FONT>的{monster926}身上可以搜集到。<br>那是很难对付的对手，请一定要小心。<br><FONT color=#7e12d2>(柯梅里纳非常恭敬地低下了头)</FONT>",
+      "answer": "",
+      "image": "qw_33.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "要到孤岛中心去啊。<br>明白了。",
+      "answer": "",
+      "image": "qw_33.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "现在不是在这里闲逛的时候。<br>快到神圣天堂去找黄色罐子吧。",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "请把发光的粉末止痛药放到神圣天堂的 <FONT color=#a82424>学者站台</FONT>中。<br>我会按照约定，把写有情报的便条留在那里。",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>(有个罐子发出了奇怪的声音，吸引了我的注意。<br>怎么看都是个普通的罐子……</FONT><br>\n<FONT color=#662500>感觉好像在动，是我的错觉吗？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(把药放在上面就行了吗？</FONT><br>\n<FONT color=#662500>啊，这里有张便条。)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "柯梅里纳的便条",
+      "question": "<FONT color=#7e12d2>(按照约定，我把情报告诉你。<br>请务必保守秘密。拜托了。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "柯梅里纳的便条",
+      "question": "<FONT color=#7e12d2>(贝思柯德受了伤。<br>我发现了他，现在他在黑山山角的一个荒废的洞穴里。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "柯梅里纳的便条",
+      "question": "<FONT color=#7e12d2>(其他冒险家都把他当作敌人。</FONT><br>\n<FONT color=#7e12d2>从目前为止的事情来看，大家怨恨他是必然的。<br>但是对我来说，他是个非常重要的人。我想帮助他。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(便条的内容好像就是这些。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(到黑山山角去寻找贝思柯德的藏身处吧。)</FONT>",
+      "answer": "",
+      "image": "qw_skirtofblackmountain.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……啊哈，这是谁啊？<br>活了这么久，没想到会遇到老熟人。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你来这里干什么？<br>我还以为你很久以前就已经不在人世了呢。<br>\n在凯德拉关卡的时候，果然不是我的错觉。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "幻象。",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>果然……<br>您认识幻象。</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "您<FONT color=#a82424>……</FONT>……你不知道自己是谁吗？<br>\n连自己是谁都不知道，这还真可笑。<br>……不过很多人其实都不认识真正的自己。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你是谁？<br>如果你是幻象，怎么过了50年却一点变化也没有？",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也不知道。<br>据我推测……可能是因为某个原因而穿越了时间。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(果然，幻象是从50年前穿越了10年左右的时间，然后遇到我的。<br>不知道在区区10年时间里，我是怎么变成幻象那种人的。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "穿越时间？<br>嗯……看来世界上愚蠢的事情还真多。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(嗯？他相信穿越时间的事情吗？<br>真奇怪。他之前应该没有见过这种情景啊……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我第一次见到你，是在几十年前。<br>\n差不多是黑龙卡拉斯在这一带肆虐的时候。<br>或者更早一些……",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "那时你是追随<FONT color=#a82424>那个人</FONT>的使徒，是<FONT color=#a82424>第四使徒</FONT>。<br>那个人不要求家臣们忠于自己，而你尤其对他不冷不热。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我很好奇你为什么会成为使徒。你对强大的力量、权力、宝物都不感兴趣。<br>那些东西也不适合你。你也没有卖力地讨好那个人。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "在为消灭黑龙卡拉斯做准备的期间，我没有听到你的消息。<br>从那以后，我再也没有听到过你的消息。我以为你一定是死了……<br>\n或者离开了那个人的身边。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(应该就在那个时候，幻象在和露娜莉娅一起逃往什么地方的过程中受了伤，然后穿越时间，遇到了我。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "现在<FONT color=#a82424>第四使徒</FONT>的位子也被别人占据了。<br><FONT color=#7e12d2>(贝思柯德用略带嘲笑的眼神看着我)</FONT><br>……我还以为再见到你的时候，你可能也已经变成了龙。不过我没有感觉到那种气息。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "而且如果你真的和我一样变成了龙，就一定不会放过那个烦人的<FONT color=#a82424>古代龙</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你不知道吗？<br>哼……我没有精力来教你这些。<br>\n这种事情，在<FONT color=#a82424>人类的城市 </FONT>里，很容易就能打听到。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我没什么好跟你说的了。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "别在这里烦我，快走吧。<br><FONT color=#7e12d2>(贝思柯德闭上眼睛，不再说话)</FONT>",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "qkname": "破坏制造工厂",
+  "data": [
+    {
+      "npc": "阿尔杰塔",
+      "question": "你说<FONT color=#a82424>悬浮装置</FONT>被大块头食人魔给吞掉了，还受到一个从未见过的<FONT color=#a82424>黑暗精灵</FONT>的胁迫？<br>真值得炫耀啊……啧啧……",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "嗯……那个女人是怎么胁迫你的？你该不会都告诉她了吧？",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "嗯，连被<FONT color=#a82424>食人魔</FONT>攻击的事情你都和她说？！你疯了吗？听说那个女人一发脾气就会变得疯狂起来，并到处惹是生非！嗯，她为什么会到这里来呢？该不会是跟踪我来的吧……",
+      "answer": "",
+      "image": "qm_ogre_white.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不过，我真的是……死里逃生。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "哼！换作是我的话，她根本不可能动我一根汗毛！算了，和你说就是对牛弹琴！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>不过，你们认识吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "埃雷娜？她曾经带着那群你见到的小妖精惹事，结果被我教训了一顿。那件事发生还不到20年，她居然又来捣乱……看来这次又要使小妖精变形，施展才干了。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "要是不能尽快破坏那些制造装置的话， 小精灵的嚣张气焰就会扩张到整个凯德拉的！你是在袭击者埋伏点见到的？你必须马上前往那里，把<FONT color=#a82424>制造装置破坏掉</FONT>才行。",
+      "answer": "",
+      "image": "qp_hobgoblin_maker.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "干什么呢？还不赶快行动？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>那个……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你确实是在<FONT color=#a82424>袭击者埋伏点</FONT>见到的吧？她的出现一定有什么鬼把戏……别磨蹭了，快去把制造装置全部破坏掉！",
+      "answer": "",
+      "image": "qw_18.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "辛苦了。<FONT color=#a82424>埃雷娜</FONT>具有一种能力，可以<FONT color=#a82424>随心所欲地使生物体变形，或者使其受到污染</FONT>。虽然你破坏了所有的制造装置，但既然她知道她在这附近，我就得好好教训教训她。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": "",
+      "image": "qm_ellena.png"
+    }
+  ]
+}

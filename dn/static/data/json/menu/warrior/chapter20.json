@@ -1,0 +1,58 @@
+[
+  {
+    "id": "mqc20_9771_tighten_guard",
+    "name": "需要警戒之时",
+    "qid": "9771",
+    "nextid": "9772",
+    "chapter": "20"
+  },
+  {
+    "id": "mqc20_9772_knife_under_smile",
+    "name": "笑里藏刀",
+    "qid": "9772",
+    "nextid": "9773",
+    "chapter": "20"
+  },
+  {
+    "id": "mqc20_9773_what_we_can_do",
+    "name": "现在能做的事",
+    "qid": "9773",
+    "nextid": "9774",
+    "chapter": "20"
+  },
+  {
+    "id": "mqc20_9774_fuze_spark",
+    "name": "导火线上的火花",
+    "qid": "9774",
+    "nextid": "9775",
+    "chapter": "20"
+  },
+  {
+    "id": "mqc20_9775_mammons_intent",
+    "name": "玛蒙的目的",
+    "qid": "9775",
+    "nextid": "9776",
+    "chapter": "20"
+  },
+  {
+    "id": "mqc20_9776_watch_out_sister",
+    "name": "危险的姐姐",
+    "qid": "9776",
+    "nextid": "9777",
+    "chapter": "20"
+  },
+  {
+    "id": "mqc20_9777_end_of_bonding",
+    "name": "叛徒的下场",
+    "qid": "9777",
+    "nextid": "9778",
+    "chapter": "20"
+  },
+  {
+    "id": "mqc20_9778_wandering_heart",
+    "name": "举棋不定",
+    "qid": "9778",
+    "nextid": "",
+    "chapter": "20"
+  }
+]

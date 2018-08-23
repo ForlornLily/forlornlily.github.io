@@ -1,0 +1,229 @@
+{
+  "qkname": "传说的开始",
+  "data": [
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9393_qu_01.ogg}<br>快点快点~快给我看看。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（书的扉页上印着小小的副标题——来自乡下的无名剑士和王城的近卫队长。一切都从他们两人的相遇开始……）</FONT><br><br><FONT color=#7e12d2>*如果继续进行对话，则播放过场动画。如果队员跳过，则不播放。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……嗯嗯……是哪里来着？啊！等等，来到这里了就不用操心了。快去黛月森林入口吧。<br><FONT color=#7e12d2>（请去黛月森林入口和白龙艾奥纳对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9393_qu_02.ogg}<br>……呃呃嗯……<FONT color=#7e12d2>（露出复杂的表情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>两个人就这么见面了啊……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "这好像完全不能做参考。虽然他们很神奇地见面了。没有下一部吗？好好奇啊……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>斯塔西说下一部在寂夜沼泽。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9393_qu_03.ogg}<br>……书为什么在那种地方？人类真奇怪啊……那我们一起去找找吧。<br><FONT color=#7e12d2>（请前往寂夜沼泽寻找书的下一部）</FONT>",
+      "answer": "",
+      "image": "qw_87.png"
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9393_qu_04.ogg}<br>来晚了~<FONT color=#387206>{user_nick}</FONT>，你来晚了。<br>我已经找到了。就是这个吧！<br><FONT color=#a82424>[黑龙之战~10分钟轻松了解！~] 第二部！</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（这题目也太……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ionTalk2}<br>快和我一起看吧。<br><FONT color=#7e12d2>（艾奥纳把书递了过来。看来这次也必须读给他听）</FONT><br><br><FONT color=#7e12d2>*如果继续进行对话，则播放过场动画。如果队员跳过，则不播放。</FONT><br><FONT color=#7e12d2>*过场动画结束后，所有队员移动到阿努阿兰德入口。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "\n嗯？是吗？那我就等你一下吧。你准备好了再跟我说吧。<br><FONT color=#7e12d2>（所有准备结束后，再跟艾奥纳对话吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（打开书开始读。对黑龙之战的记录如下。<br>好像是六大英雄聚在一起的时候的故事）</FONT><br><br><FONT color=#7e12d2>*如果继续进行对话，则播放过场动画。如果队员跳过，则不播放。</FONT><br><FONT color=#7e12d2>*过场动画结束后，所有队员移动到阿努阿兰德入口。</FONT>",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9393_qu_05.ogg}<br>……关系不太好呢，大家……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是啊，相当差呢。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……那个，<FONT color=#387206>{user_nick}</FONT>，被称作六大英雄的这些人后来关系变好了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "阿尔杰塔好像不喜欢杰兰特，甚至好像还有人互相讨厌，可是后来他们就关系融洽地合力作战了？",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9393_qu_10.ogg}<br>原来是这样啊。人类会这样啊……那么，人类和杰兰特呢？我知道杰兰特非常喜欢人类，但是人类喜欢杰兰特吗？",
+      "answer": "",
+      "image": "qn_npc_geraint_twoeyes.png"
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……原来如此……人类也喜欢杰兰特，所以杰兰特也喜欢人类啊。其实我过去也不太理解……但后来一想，古代人和现在的人类是不一样的……<FONT color=#7e12d2>（艾奥纳呆呆地望着这边）</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_twoeyes.png"
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……像你这样的存在……说不定也不赖。就算没有杰兰特的味道也一样。<br><FONT color=#7e12d2>（艾奥纳微笑起来）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……仔细想想，说不定你也不赖。不，现在的你，说不定也很好。杰兰特一定也知道这一点……<br><FONT color=#7e12d2>（艾奥纳的表情黯淡下来了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9393_qu_09.ogg}<br>……那个，古代龙的碎片啊……你是怎么看待人类的呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我……因为一直以为我是人类，所以没有仔细想过。<br>不过，为什么这么问？？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……人们之间可以从关系尴尬变得关系很好，我搞不明白。真羡慕人类可以这样。除了杰兰特之外，我和其他的龙关系都没有好过……你好像可以做到那样？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这并不像你想的那么了不起啦，</FONT><FONT color=#662500>这是自然而然的、</FONT><br><FONT color=#662500>特别是目标一致，心也一致的话，</FONT><FONT color=#2b2723>……</FONT><FONT color=#662500>关系变得亲密也是当然的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……竟然认为这是当然的，你真的是龙吗？古代龙的碎片。<br>你真的很像人类啊……怎样才能变成那样呢？……好羡慕啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……真不知道你在羡慕我什么。<br>但是……我反而很羡慕你。因为我不像你那样拥有龙的力量。<br>我没有宝玉，只有心脏，我并不像艾奥纳你所想的那样。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……但是<FONT color=#387206>{user_nick}</FONT>，拥有宝玉并不意味着就是龙。<br>人类拥有龙的宝玉也可以使用龙的力量。不过，并不是龙以为自己是人类就真的会变成人类。你一开始就不是人类，对吧？那么你就是龙，没错的。",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……有没有任意变成龙的样子的力量是另一回事，但是，也不是没有力量就能随便成为人类的。<FONT color=#7e12d2>（艾奥纳的表情不知为何看起来有些悲伤……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……呵呵，真想知道接下来的故事。怎样才能看到后面的故事呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……我再去问问斯塔西吧。说不定还有下一部。</FONT>",
+      "answer": "",
+      "image": "qn_npc_scholar_starshy.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>艾奥纳，你想</FONT><FONT color=#2b2723>……</FONT><FONT color=#662500>成为人类吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……嗯，不是的，那样的话就更不能完成使命了。我、只是……只是，嗯，羡慕。我也不知道，只是羡慕吧……嗯……唉，啊，思考，太难了。算了，不想了……哎呀，我的头好痛！<FONT color=#7e12d2>（艾奥纳摇着头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "嗯！那你就把下一部带来吧。我在黛月森林入口等你！<br><FONT color=#7e12d2>（去找纹章学者斯塔西）</FONT>",
+      "answer": "",
+      "image": "qn_npc_scholar_starshy.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "哦，你来啦！让我看看，第一部、第二部……虽然有点湿了……但总算找回来了。<br>谢谢！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个，有没有第三部呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "<FONT color=#7e12d2>（斯塔西轻轻叹了一口气）</FONT>自从它绝版之后，价格就变得跟金子一样贵。靠纹章学者的微薄收入，是不可能买得起的……本来一开始就没有印多少本……现在还有没有都是个问题。我这里也只有第一、二部而已。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎么会这样……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "如果你想知道后面的故事的话，不如去找高级弓箭手伊西莉安吧？伊西莉安在50年前亲自参与过黑龙之战。",
+      "answer": "",
+      "image": "qn_npc_archer_ishilien.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊哈，谢谢你！</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "呵呵，没什么……仔细想想，好像可以劝高级弓箭手伊西莉安出版记录第三部内容的书呢……那样就能大赚一笔了……嗯嗯，伊西莉安就在那边，你去找她吧。<br><FONT color=#7e12d2>（斯塔西的眼里闪着精光）</FONT>",
+      "answer": "",
+      "image": "qn_npc_archer_ishilien.png"
+    }
+  ]
+}

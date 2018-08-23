@@ -1,0 +1,236 @@
+{
+  "qkname": "细小的线索",
+  "data": [
+    {
+      "npc": "村长海洛德",
+      "question": "不久前，冒险家们告诉了我 萝丝的行踪。<br>他们说萝丝和提摩西往古代神殿发掘场那边去了。",
+      "answer": "",
+      "image": "qw_5.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "卫兵史蒂夫说他们组建了搜索队，派到古代神殿发掘场去了。不过我还是很担心。<br>光靠我们的力量好像不足以处理眼前的情况。",
+      "answer": "",
+      "image": "qw_5.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "其他冒险家也都到那边去了。<br><FONT color=#387206>{user_nick}</FONT>，可以的话，希望你能再帮帮我们。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你要去见普雷利镇的<FONT color=#a82424>村长海洛德</FONT>啊。<br>知道了。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……你在做什么呢？",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "我一定要救出萝丝！！<br>因为我答应了村长！",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "希望我们家萝丝不会出事……<br>只能相信到<FONT color=#a82424>古代神殿发掘场</FONT>去的冒险家们了。",
+      "answer": "",
+      "image": "qw_5.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "嗯……你要到 <FONT color=#a82424>古代神殿发掘场</FONT>去啊。<br>知道了。",
+      "answer": "",
+      "image": "qw_5.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "……我竟然眼睁睁地看着萝丝被人劫走，提摩西也死了。<br>\n<FONT color=#7e12d2>(西恩沉痛地垂下了头)</FONT><br>\n没想到会发生这种事。",
+      "answer": "",
+      "image": "qn_guard_timose.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "我没能兑现我的承诺。<br>……不管追到哪里，我都要救出萝丝。<br><FONT color=#7e12d2>(西恩好像下定了决心)</FONT><br>\n",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "question": "<FONT color=#7e12d2>(看着红色的魔物抓住萝丝飞走，突然有种面熟的感觉。)</FONT>",
+      "answer": "",
+      "image": "qm_harpyred.png"
+    },
+    {
+      "npc": "???",
+      "question": "ndnpc_Illusion_qu_0035_01.ogg}<br>……鹰身人情妇。",
+      "answer": "",
+      "image": "qm_harpyred.png"
+    },
+    {
+      "npc": "???",
+      "question": "ndnpc_Illusion_qu_0035_02.ogg}<br>是埃雷娜的手下。",
+      "answer": "",
+      "image": "qm_harpyred.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "嗯～看来你体内的那个人认识她。<br>那个<FONT color=#a82424>红色鹰身人</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好像是的。<br>情妇……红色鹰身人情妇。看着很面熟。<br>那个叫埃雷娜的人又是谁？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n不知道。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没想到会在预料之外的地方获得了一个线索。<br>我体内的那个家伙一定知道红色鹰身人。</FONT><br>\n",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>所以我得和其他冒险家一起去追踪萝丝。</FONT><br>\n<FONT color=#662500>这样应该就能见到那个鹰身人，也许还能遇到那个家伙认识的其他人。</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……有那个可能。<br>但是也可能不是。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好吧，即使是很细小的线索，也足以让我获得力量。<br>我先回普雷利镇一趟，你在这里等着我！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "那我在狂风森林等你。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n你不是要去找普雷利镇的村长海洛德吗？<br>\n快去吧。我在这里等你。",
+      "image": "qn_elder_harold.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "……我听到了消息。<br>可怜的提摩西……那个无辜的年轻人就这么死了。<br><FONT color=#7e12d2>(海洛德擦了擦眼角)</FONT>",
+      "answer": "",
+      "image": "qn_guard_timose.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "全都是因为我这个老头子的一己私欲。<br>让那个可怜的年轻人丢了性命……",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "<FONT color=#a82424>萝丝</FONT>，她是个特别的孩子。<br>\n她<FONT color=#a82424>拥有古代人的血统，具有预知的力量</FONT>。<br>我应该早点把她送到神圣天堂的教皇身边去接受保护。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "她是可以阅读阿尔泰亚女神的梦的人。<br>\n人们通常把那样的人称为先知。<br>可怜的萝丝……我只是希望她能像一个普通人一样幸福地生活。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "但是命运是无法轻易回避的……<br>\n我应该早料到这一点。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……虽然搞不太明白，不过听你一说，萝丝应该是因为拥有特殊的力量，所以才会被劫持的喽？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "现在回想起来我才明白。<br>刚好有那么多冒险家出现，可能这也是命运的安排。",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "既然事已至此，但我还是要感谢你的帮助。<br>如果今后了解到萝丝的行踪，请一定要和我联系。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的。</FONT><br>\n<FONT color=#662500>我正好想追踪那个鹰身人。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "哦！你真的是这么想的吗？<br><FONT color=#7e12d2>(海洛德好像很高兴)</FONT><br>\n",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "那我把这个送给你。<br>听说那个鹰身人往<FONT color=#a82424>水晶谷</FONT> 方向飞去了，你应该需要这个。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "这是水晶谷通行证。<br>把它交给水晶谷的<FONT color=#a82424>侦察兵福古斯</FONT>，他应该会帮助你的。",
+      "answer": "",
+      "image": "qn_ranger_fugus.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "你真是个正义的勇士……！慈悲的使者……！<br>\n愿女神的祝福与你同在……<br><FONT color=#7e12d2>(海洛德虔诚地低下了头)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(我好像没那么伟大吧……<br>不管怎样，先到狂风森林去和露娜莉娅会合吧。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你要到水晶谷去？<br>好吧。",
+      "answer": "",
+      "image": "qw_cristalstream.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……嗯？<br>我也一起去？<br><FONT color=#7e12d2>(露娜莉娅歪了歪脑袋)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>当然了！！<br>当初是谁在穿越时间的时候闯下大祸的？！</FONT><br>\n<FONT color=#662500>是你造成的问题，当然应该由你来解决。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ionStand1}<br>……真麻烦，不过没办法。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>干嘛摆出一副大发善心的样子？！<br>现在是我在帮助你！</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "是吗？<br>\n哎呀，真是辛苦你了。",
+      "answer": ""
+    }
+  ]
+}

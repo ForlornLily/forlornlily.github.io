@@ -1,0 +1,299 @@
+{
+  "qkname": "荒漠风暴",
+  "data": [
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "……呃！<br>快累死我了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（赶紧告诉她关于柯梅里纳的事情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "……好，好了。现在不管再听到什么话都不会感到吃惊了……！！<br>说吧。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "\n<FONT color=#7e12d2>（说出关于学者柯梅里纳的事情）</FONT><br>……未，未来人？你是说她来自未来？",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>嗯，好像是的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "啊~搞什么，害我白紧张了……！<br><FONT color=#7e12d2>（斯泰拉放心地呼了一口气）</FONT><br>未来人是多么有趣的一件事啊，有什么可怕的？真是……",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也不知道原来斯泰拉那么怕鬼。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "<FONT color=#2b2723>……</FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#2b2723>？</FONT><br><FONT color=#2b2723>这件事最好不要告诉任何人。</FONT><br><FONT color=#2b2723>绝不能让天下人知道我斯泰拉怕鬼，哼。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……周围的人在已经听说了，还有必要藏着掖着吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "呵呵呵，<FONT color=#387206>{user_nick}</FONT><FONT color=#2b2723>。</FONT><br>你是想变成青蛙，余生都在瓶子里度过吗？<br><FONT color=#7e12d2>（斯泰拉</FONT><FONT color=#7e12d2>一边笑着，一边从怀里翻找着什么）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不不，斯泰拉，我绝不说出去。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "呵呵呵，这就对了嘛。<br>不过，一想到是未来人，是不是心情还有点激动啊？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>的确挺神奇，但事态好像挺严重……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "嗯……就算是这样，还是很神奇啊，不是吗？<br>说不定会发生我们无法想象的大事呢。<br>这都是我的好奇心使然啊，呵呵呵~",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……我应该怎么接下去呢）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "<FONT color=#7e12d2>（斯泰拉干劲十足）</FONT><br>不能再浪费时间了！<br>去吧！<FONT color=#387206>{user_nick}</FONT><FONT color=#2b2723>！</FONT>前往<FONT color=#2b2723> </FONT><FONT color=#a82424>泰努阿尔神殿</FONT><FONT color=#2b2723>，</FONT>解开未来人的奥秘！",
+      "answer": "",
+      "image": "qw_72.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>遵命！（我也被卷入到这种气氛中了……）</FONT>",
+      "answer": "",
+      "image": "qw_72.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "我已经厌倦了这样的命运。<br>像这样死了又死，我还要看多久啊……",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "嗯，你是说<FONT color=#a82424>泰努阿尔神殿</FONT>吗……？<br>在过去建成的神殿内，和未来人见面，好浪漫啊。<br>如果不是因为我太忙，我很想亲自去，真可惜。呵呵呵~",
+      "answer": "",
+      "image": "qw_72.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>（带着茫然的表情看着你）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这是怎么回事？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "据说<FONT color=#a82424>荒漠风暴</FONT>……成功了……<br>被XD-29抢先了一步……！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你说什么！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "这……仅凭我的力量实在有点困难。<br>从她动员所有部队来看，这必定是场大规模的战斗……<br>我不想将你牵扯进来，但现在我别无他法。<br><FONT color=#7e12d2>（学者的身子微微颤抖着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "请和我一起作战！拜托了！<br><FONT color=#7e12d2>（学者带着誓死一搏的表情看着你）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那当然了。不过首先应该向王城报到吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>（一下子惊讶的瞪圆了眼）</FONT><br>是，肯定应该这样吧……那，那么我……不，你先收下这个吧。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>K博士藏起来的研究资料？这个怎么会……？</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "这是我从别人那里得到的。<br>之前你说好像你需要这个。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>的确如此……但是你不需要吗？</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "现在对我不是那么重要。里面也没有我想找的内容。<br>我大体上能猜出它的用处，但……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>用处？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "我也不清楚，这只是我的推测而已。<br>我现在就去<FONT color=#a82424>狂人研究所</FONT>，如果有需要的话，请到那里找我。",
+      "answer": "",
+      "image": "qw_70.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了。</FONT>",
+      "answer": "",
+      "image": "qw_70.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "你在做什么，怎么现在才来？<br>我还以为你变成实验体了呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么实验体，你怎么能说出这么可怕的……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "呵呵，开玩笑啦，玩笑~<br>见你迟迟不来，我难免胡思乱想啊。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "呵呵，开玩笑啦，玩笑~<br>见你迟迟不来，我难免胡思乱想啊。<br><FONT color=#7e12d2>* 达到58级以后才能进行下一阶段的任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>请不要再开这种玩笑了….</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "好的，关于未来人的事怎么样了？",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "<FONT color=#7e12d2>（说明事情来龙去脉）</FONT><br>什么？<FONT color=#a82424>沙漠风暴</FONT>？<br><FONT color=#2b2723>那是什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也不太清楚。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "光听名字就觉得是个很了不起的计划……<br>的确，从那些家伙们至今为止做的事情来看，绝不能大意，但……他们究竟有什么诡计呢？",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "嗯？你手中一直拿着的那本旧书是什么？<br>好像不是武器啊。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，这个是K博士的研究资料。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "什么？<br>你怎么现在才……！",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "\n<FONT color=#7e12d2>（说明来龙去脉）</FONT><br>……那个孩子给你的？<br>嗯，我是很感激她，但同时我也有些担忧呢……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我也有一点。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "嗯。她之前说没有，现在又突然说有，不过，说不定是从她那些克隆体手里抢回来的。<br>克隆体们为什么需要这研究材料呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "啊-没事。这个问题不需要现在考虑，还是先搁在一边吧。<br>当务之急是那个<FONT color=#a82424>荒漠风暴</FONT>！",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "不管怎么想，都感觉这件事非常紧急。<br>我去把这件事告诉宫廷魔法师卡拉安和公会会长冈特，你等我一会儿。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "这用不了多长时间的，让我看看。<br>\n是冈特吗？<br>\n<FONT color=#7e12d2>（正通过传心术和冈特对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "我本不想将你牵扯进这件事……<br>只希望你能相信未来人这件事。",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "qkname": "力量",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（到迷雾遗址去吧）</FONT>",
+      "answer": "",
+      "image": "qw_90.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（迷雾遗址在火焰山）</FONT>",
+      "answer": "",
+      "image": " qw_90.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（迷雾遗址在火焰山）</FONT>",
+      "answer": "",
+      "image": " qw_90.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（眼前显现了兰伯特的幻影。正在凝视着幻影的阿尔杰塔似乎很不高兴。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9425_qu_01.ogg}<br>佩达这人，部下真的很多。换句话说，赞同他那白痴思想的白痴人类还真不少！不过，更可笑的是，我至今为止敌视的人类，比像你这样愿意傻乎乎追随一旁的傻子多多了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>阿尔杰塔……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "呵呵，你为什么做出这种表情？从一开始我就不在乎是否能得到人类的支持。<br>对精灵也一样。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>….</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "收起你那傻兮兮的表情。那人是谁？看起来很厉害，我似乎在佩达的部下里见过他。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>兰伯特……那是我父亲，他是巴尔纳的徒弟。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>兰伯特……他是巴尔纳的徒弟，实力非常高强，还杀死了复活后变成死亡骑士的巴尔纳。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "巴尔纳的徒弟？兰伯特……嗯，这名字是有点耳熟。<br>那么厉害的人为什么会成为佩达的使徒呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……这个嘛，我也不知道……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "算了，听听他们怎么说吧。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "他是你父亲？！还是巴尔纳的徒弟……？这是怎么回事？他怎么会成为佩达的使徒呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这个嘛……我也不知道。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "这么说，你与你父亲为敌？<br>可你不是人类吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……我还没和父亲直接交过手。还有……他虽然是使徒……却没干过特别坏的事……嗯，我的意思是……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "什么？你明明说他是你父亲，怎么会不知道？<br>父子之间是血缘关系，那你们该是生活在一起的啊。 ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我与父亲共同相处的时光……就只有我学习战斗技能时的那段短暂的时间。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……嗯，不好意思说到你痛处了。可话说回来，他好像不是个好父亲呃？身为父母，照料子女成长不是他们的义务吗？尤其是像你这样年幼的孩子。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……我想，父亲他是有苦衷的吧……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "……那是我活着的唯一理由。",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "…<FONT color=#7e12d2>（佩达的表情令人难以捉摸）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……嗯，我们先听听他们说什么吧。<br><FONT color=#7e12d2>（阿尔杰塔的表情似乎很复杂）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "…<FONT color=#7e12d2>（佩达的表情令人难以捉摸）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9425_qu_01.ogg}<br>你想追求无止境的力量？你真打算继续那虚无的追求吗？",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "ndnpc_Rambert_9425_qu_01.ogg}<br>……那是我活着的唯一理由。你这个问题问得很没水准，佩达。",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "你连我都打不过，还想追求无止境的力量？真可笑。 ",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9425_qu_02.ogg}<br>如果你的目的就是追求永恒的强大，那我愿和你分享我的力量，让你见识到我的强大。成为我的部下吧。",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "ndnpc_Rambert_9425_qu_02.ogg}<br>我不明白你这般了不起的人为什么需要我这种部下。你很强，想要的东西唾手可得，想做什么都能实现。你想从我这里得到什么？",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9425_qu_03.ogg}<br>很简单，我只是必须把所有可能会构成威胁的敌人都变成友方。如果你拒绝，就只有一死。",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "ndnpc_Rambert_9425_qu_03.ogg}<br>尽管我不知道你的目的是什么，但好吧。我就接受你的条件，成为你的部下……不过，我有个请求。",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9425_qu_04.ogg}<br>什么请求？",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "ndnpc_Rambert_9425_qu_04.ogg}<br>……我有个妻子。她跟我不同，是个身体很柔弱的人。我不想让她担心……所以请你将我做你部下的事保密。",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9425_qu_05.ogg}<br>……你居然有那么柔弱的妻子，真令人意外。",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "ndnpc_Rambert_9425_qu_05.ogg}<br>她原本也是很要强的……我们曾一起梦想着成为最强者。可惜如今的她变得很虚弱，只能静静等待死亡降临。那双失去了梦想的眼睛还能认得我已是奇迹。",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "ndnpc_Rambert_9425_qu_06.ogg}<br>再过不久，她就将生下我们的孩子……我不想再给她柔弱的心上增添负担。<br>因此，拜托你了。",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9425_qu_06.ogg}<br>……与其他那些追求力量的匹夫相比，你是个思虑周全的人。知道了。我不会让你的妻子知道半点风声的。",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "ndnpc_Rambert_9425_qu_07.ogg}<br>……谢谢你。",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "……<FONT color=#7e12d2>（不再说话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "唔，我不太了解人类之间的恋爱关系。<br>可既然结婚了，就意味着要珍爱配偶，不是吗？那为什么要做出隐瞒对方的事？<br>难道非得这么做是内有隐情？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……我也不太清楚……兰伯特他会不会是有自己的苦衷？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "哎，不知道也没什么难为情的。你们人类彼此之间互不了解的事我都看习惯了。<br>话说，和兰伯特那样的人成为敌人很麻烦耶……他一看就好厉害。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "至今为止没和他发生过什么特别冲突真是万幸。<br><FONT color=#7e12d2>（阿尔杰塔似乎说得很心不在焉）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这个嘛……我也不知道……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9425_qu_02.ogg}<br>你不是那家伙的儿子吗？你就没听说过一星半点的情况？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这是因为我和他相处的时间实在太短了。</FONT><br><FONT color=#662500>我出生的时候没见过父亲，我第一次见到他，是在母亲去世之后……只有训练的时候才有机会见面。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9425_qu_03.ogg}<br>嗯，是吗……？这么看来他不是人类所说的“好父亲”。<br>你的母亲因为他，该吃了许多苦吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（没想到会从阿尔杰塔口中听见这样的话）<br>嗯……母亲她独自抚养我，肯定很辛苦。再加上她本来身体就很虚弱……<br>父亲回来之前，她就去世了，我从没见过他们两人在一起的场景。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9425_qu_04.ogg}<br>干脆就分离了？看来他比阿罗诺更恶劣。<br>好在你似乎成长得挺正直，算是万幸。<br>嗯……真是个乖孩子。<FONT color=#7e12d2>（阿尔杰塔伸出手，抚摸我的头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（没想到会得到她的称赞）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9425_qu_05.ogg}<br>父亲是坏蛋的话，孩子通常会成长得很艰辛。你是个好样的，\n<FONT color=#387206>{user_nick}</FONT>。<br>你要努力不要变成你父亲那样。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（嗯……要是我说我的目标就是变得比巴尔纳更强，好重新见到父亲，阿尔杰塔会不会生气？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（而且……我不认为父亲是坏人……只是有点严厉……尽管他是使徒，我也没听说他干过坏事。他成为使徒肯定是有苦衷的）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（真希望我可以早日成长得比巴尔纳更强，然后就可以见到父亲了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "…<FONT color=#7e12d2>（佩达的表情令人难以捉摸）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "那么，接下来就到前面去找杰兰特吧。<br><FONT color=#7e12d2>（请到前面去见杰兰特）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GeraintKid_9425_qu_01.ogg}<br>怎么来得这么晚！阿尔杰塔好久之前来过这里！<br>你根本没必要跟来，居然还慢得像乌龟！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（呃，他看起来状态蛮好）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#7e12d2>（漫不经心的语气）</FONT><br>……我怎么想都觉得很奇怪。<br>巨石碑上为什么会留有佩达和使徒们的有关记忆呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这很奇怪吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "这还用说，白痴。你想啊，在巨石碑这块地方，只会重现曾在这里发生过的事情。比如说我们能在这里看见古代人的记忆，是因为古代人曾经来过这里。除此以外，没有其他理由。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "可是，佩达和他部下们的记忆为什么会在这里显现？难不成他们是在这里见面的？这不可能啊。能进入巨石碑而且还毫发无损的，除非是像古代人或龙这样拥有强大力量的实力者。就算佩达有这个实力，可他的部下还不到这个水平。特别是埃雷娜，更不可能。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "这其中肯定有古怪……会不会有人对封印石动过手脚？嗯……现在佩达时常进出巨石碑的原因是……哼，疑点还真是多啊",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……喂，<FONT color=#387206>{user_nick}</FONT>。你有没有带别人进来过？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃？这怎么可能，没有。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "如果不是这样，总之，除了佩达之外，还有别人在巨石碑这里。这是我的猜测。<br>……肯定没错的。而且，我还觉得这人似曾相识。<FONT color=#7e12d2>（阿尔杰塔皱起了眉头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>会不会是龙？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "不，不会的。这人比龙更可恶上百倍……<br>喂，<FONT color=#387206>{user_nick}</FONT>，以防万一，你去去找精灵长老打听一下，看是否除了我们之外，还有其他人进过巨石碑。",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9425_qu_06.ogg}<br>杰兰特，你跟我继续巡视一下这边。<br>我很肯定有古怪。除了佩达之外，还有别人在巨石碑这里……<br>是很可恶狡猾的家伙。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GeraintKid_9425_qu_02.ogg}<br>可恶狡猾的家伙？<br><FONT color=#7e12d2>（杰兰特歪着头）</FONT><br>阿尔杰塔，那是什么意思？",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9425_qu_07.ogg}<br>我也不是很清楚，改天再跟你说。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GeraintKid_9425_qu_03.ogg}<br>……噢。<br><FONT color=#7e12d2>（看杰兰特的表情似乎很不满）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你快去打听一下。精灵长老会告诉你答案的。<br>不知道准确名字也没关系，只要打听清楚对方大概的形容就行。",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（去找精灵长老，打听一下有关巨石碑入侵者的情况吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    }
+  ]
+}

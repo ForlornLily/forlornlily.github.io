@@ -1,0 +1,56 @@
+{
+  "qkname": "记忆2",
+  "data": [
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "沙漠龙的故事似乎还没完。<br>和骑士王卡西乌斯一起行动，感觉如何？如果有机会，我也想一起去……不过我还有要做的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "还有很多故事。<br>快去看看吧。<br><FONT color=#7e12d2>（去阿勒努特峡谷吧）</FONT>",
+      "answer": "",
+      "image": "qw_74.png"
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "<FONT color=#7e12d2>（似乎在阿勒努特峡谷就能见到骑士王卡西乌斯）</FONT>",
+      "answer": "",
+      "image": "qw_74.png"
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "阿依夏，对你来说我就这么不值得信任吗？<br>至少我对你……<br><FONT color=#7e12d2>（能听见卡西乌斯低沉的声音）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "阿依夏，对你来说我就这么不值得信任吗？<br>至少我对你……<br><FONT color=#7e12d2>（能听见卡西乌斯低沉的声音）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "ndnpc_Casius_qu_4279_04.ogg}<br><FONT color=#7e12d2>（卡西乌斯看着</FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#7e12d2>的方向。看上去很悲伤。）</FONT><br>……在这里，我的百姓就只剩下你了啊。",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "ndnpc_Casius_qu_4279_05.ogg}<br>我既不能阻止她，也不能同意将军和宰相的看法，我真是个窝囊的王！",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "ndnpc_Casius_qu_4279_06.ogg}<br>即使这样，我也无法憎恨阿依夏。<br>只要能解除她的误会……<br><FONT color=#7e12d2>（卡西乌斯垂下了头）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "ndnpc_Casius_qu_4279_07.ogg}<br>你觉得我还有机会挽回她的心吗？<br>明知这希望渺茫却不肯放弃的我，真是可笑。<br><FONT color=#7e12d2>（卡西乌斯神色复杂地看着阿依夏消失的方向）</FONT>",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "qkname": "来去无踪",
+  "data": [
+    {
+      "npc": "高级战士佩德罗",
+      "question": "回来的路上，我一直在想巴尔纳为什么会出现在莲花沼泽。<br>因为他和卡拉秋关系很好。<br>会不会是听说卡拉秋去世的消息之后，特地过来吊唁的呢？",
+      "answer": ""
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "如果他是为了吊唁卡拉秋而来，那最好把这件事告诉佩奥里斯塔。<br><FONT color=#387206>{user_nick}</FONT>，你去把巴尔纳来到莲花沼泽的消息告诉西戴尔。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……哼。<br><FONT color=#7e12d2>(可以在高级战士佩德罗那里执行任务)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "有什么事吗，<FONT color=#387206> {user_nick}</FONT>？<br>发生什么急事了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "什么？巴尔纳来了……？<br>他一直行踪不明，大家都以为他已经不在人世了呢……真是太好了。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "如果那是真的，就能在老师的灵前献上一朵花了。<br>真是太好了。<br>我也得做好迎接客人的准备才行，你能代我去请他过来吗？",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "据佩德罗说他好像到<FONT color=#a82424> 盲目溪谷</FONT>那边去了，对吧？<br>你到那里去一趟。如果真的是巴尔纳，那该有多好……<br>如果老师的老朋友能来吊唁她，我感到很高兴。",
+      "answer": "",
+      "image": "qw_67.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……奇怪。<br><FONT color=#7e12d2>(贝思柯德看着来历不明的剑客消失的方向)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>贝思柯德……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "又是你这家伙？<br>真是像牛皮糖一样，跟可恶的古代龙一样。<br></FONT><FONT color=#7e12d2>(贝思柯德嘲笑道)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你还是在寻找那个女人吧？<br>你又不知道是不是在这里，真让人寒心。<br>……不过幻象寻找的好像也是那个女人。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>……幻象……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>(幻象确实一直在执着地寻找露娜莉娅……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "幻象说他曾经穿越过时间。以前听他说起过一两次。<br>我虽然不相信他的话……不过现在想想，他说的也许是真的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "他说可以用某种特殊的东西调节时间。<br>他好像为了使用那种能力，一直在寻找某种东西……或者为了寻找某种东西而是用那种能力……我也不太清楚。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "总之红色军队的主人对幻象的话很感兴趣，所以让他成为了使徒。<br>具体的情况我就不知道了。你想从别人那里找到自己都不知道的过去，真可笑。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>(……特殊的东西？<br>是指露娜莉娅吗？还是……指其他工具呢？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>(之前没听说过那种事情，也没有发现什么疑点。<br>……露娜莉娅说她无法控制自己的力量……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "过去的影子们都跑到这里来找我了吗？<br>真是个奇怪的地方。<br>巴尔纳到底……那家伙怎么会在这里？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……而且状态也很奇怪。真可疑。<br></FONT><FONT color=#7e12d2>(贝思柯德自言自语道)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>啊！对了……<br>贝思柯德，你见到巴尔纳了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "</FONT><FONT color=#7e12d2>(贝思柯德奇怪地看了我一眼)</FONT><FONT color=#2b2723><br>世界上所有的事情你都想过问吗……？<br>这跟你没关系，你快走吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "回去吧，小毛孩。<br><FONT color=#7e12d2>(贝思柯德好像不想再跟我说话了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "你来啦！<FONT color=#387206>{user_nick}</FONT>！！<br>见到巴尔纳了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "果然……他说巴尔纳的状态很奇怪……？<br>我们刚才还在谈论巴尔纳的事情。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>谈论他的事情？</FONT>",
+      "answer": ""
+    }
+  ]
+}

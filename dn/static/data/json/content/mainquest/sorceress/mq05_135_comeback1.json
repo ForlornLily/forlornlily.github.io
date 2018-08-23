@@ -1,0 +1,150 @@
+{
+  "qkname": "回来的话匣子Ⅰ",
+  "data": [
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n嗯？<br>\n你……？！",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "这，这是谁啊?<br>不是我看花眼了吧?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>老师，好久不见了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "你不会就是我那位足足有5年都没联系的徒弟吧？<br>\n我倒是听说你被海盗给打劫了，正在遥远大海的孤岛上捞虾呢……？",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "现在还笑得出来！<br>全然不顾身为魔法师的义务，还干起了赌博的勾当，你以为我不知道吗。竟然还不是自愿回来的，而是为了躲避赌债才回到魔法山脊的。真是丢人！",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "唉……看你有点能耐就百般宠爱，这是我的失误啊。<br>\n什么<FONT color=#a82424>卡拉秋</FONT>的接班人，什么魔法师的天赋……是我错了，居然这么抬举你……",
+      "answer": "",
+      "image": "qn_npc_karakule_silhouette.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "哼，我听说牧师们有重要的东西被怪物抢走了。你前往那里调查一下详细的内幕，别在那儿光顾着玩。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>嗯？我才刚到，可以稍微休息一下吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n唉……看你远道而来想必也劳累了。<br>\n那么我会让你<FONT color=#a82424>好------好</FONT>休息的，你等一下。<br>\n<FONT color=#7e12d2>（辛西亚拿出了法杖）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n <br>\n<FONT color=#662500>啊！！啊，不要！！我这就去~</FONT><br>\n<FONT color=#662500>马上就去！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "哼。那么，详细的内容你去听<FONT color=#a82424>塔拉</FONT>对你说吧。就在旁边，看到了吧？！<br>别想着再像以前那样闯祸、偷懒！！<br>\n再那样我可是绝不会饶了你的。",
+      "answer": "",
+      "image": "qn_soceresstara.png"
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "哎呀，你现在还不到和我对话的时候。<br>\n先去见见<FONT color=#a82424>辛西亚</FONT>吧。",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "……嗯？你还不快去找<FONT color=#a82424>塔拉</FONT>，在这儿干什么？<br>还有什么话要说吗？",
+      "answer": "",
+      "image": "qn_soceresstara.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "已经没什么可担心的了，不过以后你要是还想提高的话，就再过来吧。我已经为你准备好了关于基本操作的<FONT color=#a82424>[新手教程]</FONT>。<br>\n你来和我对话，然后选择<FONT color=#a82424>[领取新手教程]</FONT>就可以了。明白了吗？我的弟子！",
+      "answer": ""
+    },
+    {
+      "question": "<FONT color=#7e12d2>（</FONT>按下<FONT color=#387206>[H]</FONT><FONT color=#7e12d2>键，就会弹出操作向导窗口。</FONT><br>\n按下<FONT color=#387206>[Ctrl]</FONT><FONT color=#7e12d2>键，便会显示鼠标指针。</FONT><br>\n<FONT color=#7e12d2>再按一次的话，则会恢复原来的界面）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "迷路了吗?<br>不介意的话，让我来帮你吧。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "哎呀……<FONT color=#387206>{user_nick}</FONT>前辈？！<br>真的是前辈吗？这是怎么回事？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>嘿嘿……好久不见。</FONT><br>\n<FONT color=#662500>最近可好啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "这段时间你到底干什么去了？<br>见过<FONT color=#a82424>卡拉秋</FONT>了吗？",
+      "answer": "",
+      "image": "qn_npc_karakule_silhouette.png"
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "嗯?！！ <FONT color=#a82424>卡拉秋</FONT>大人没见到，反而掉进神圣天堂赌场的泥坑还欠下<FONT color=#a82424>200亿Gold</FONT>的赌债?",
+      "answer": "",
+      "image": "qn_npc_karakule_silhouette.png"
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "唉……这样下去说不定真会被魔法师除名的。你该不会是忘了<FONT color=#a82424>辛西亚</FONT>老师有多可怕了吧？<br>\n你要是能好好执行这次任务的话，说不定老师还会消气呢。所以赶快振作起来，执行任务去吧。",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "根据我的调查，牧师运输途中丢失的物品和<FONT color=#a82424>贤者的预言</FONT>有关，是件相当重要的物品。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "时间过了太久，你都忘了吗？<br>\n那是很久很久以前，一位伟大的贤者留下的最后的预言。<br>关于<FONT color=#a82424>世界危机</FONT>的预言。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>呃，嗯，当然~记得了！当然！</FONT><br>\n<FONT color=#662500>（……还有那样的事？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "前辈的任务是，确认牧师们丢失了什么，以及我们应该如何应对。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "你先拿着这个吧。会对你以后的冒险起到些许帮助的。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "前辈是个了不起的人嘛~一定都能办到的。<br>\n<FONT color=#7e12d2>（塔拉投来闪亮的目光）</FONT>",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "qkname": "失踪的龙",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（为什么没人呢？而且周围有些奇怪啊……？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（地上的石……血迹……？！！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的少女",
+      "question": "<FONT color=#7e12d2>（来历不明的少女正静静地看着我）</FONT>"
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（挂着一幅奇怪的壁画）</FONT>"
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（现在寻找线索更重要，以后再看吧）</FONT>"
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（放着似乎被卢比纳特藏起来的书籍）</FONT>"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>（外面似乎有什么声音</FONT><FONT color=#662500>……？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的少女",
+      "question": "真是差点出大事了！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你究竟是谁啊？要不是你，我追上那些奇怪的人，说不定就能打听到卢比纳特和杰兰特的下落了！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的少女",
+      "question": "最后看到的那个高大又可怕的男人是<FONT color=#a82424>高级查尔德</FONT>！你要是被他抓去，在你开口之前就会被杀了！再说一不小心， <FONT color=#a82424>卢比哥哥的宝玉</FONT>可能就会被抢走的……呃……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你……你怎么知道关于我的事情的？！而且，卢比哥哥……你和卢比纳特是什么关系？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的少女",
+      "question": "啊…… <FONT color=#a82424>艾瑞斯</FONT>不是坏孩子！艾瑞斯是来帮助<FONT color=#387206>{user_nick}</FONT>的！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>就算你突然这么说……你的名字叫 </FONT><FONT color=#a82424>艾瑞斯</FONT><FONT color=#662500>？<br>你认识卢比纳特，那是</FONT><FONT color=#a82424>反对维斯提内女神的反女神派</FONT><FONT color=#662500>吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的少女",
+      "question": "ndnpc_Iris_9703_qu_01.ogg}<br>艾瑞斯既反对维斯提内女神，也不反对她……不过你不用担心！总之，艾瑞斯和<FONT color=#387206>{user_nick}</FONT>是一伙的！我会守护卢比哥哥的宝玉的！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>等等。这么说来，卢比纳特的宝玉相互是连接的，跟随气息，不就能找到卢比纳特了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的少女",
+      "question": "不是那样的！虽然从阿尔特里亚能跟随气息来到谜之大陆，但是谜之大陆内部充满了毒气，<FONT color=#a82424>身为被污染的混沌龙</FONT>，卢比哥哥的气息也被掩盖了！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（奇怪……我们来这里的时候，在巨石碑被宝玉引导而来到了这里，现在什么都感觉不到。那孩子说的是真的……？） </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的少女",
+      "question": "ndnpc_Iris_9703_qu_02.ogg}<br>卢比纳特哥哥和杰兰特哥哥都没事，所以你不用担心！<br>可是力量减弱的卢比纳特哥哥不知道还能不能维持正常的精神状态……这是比较让人担心的……",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的少女",
+      "question": "所以，<FONT color=#387206>{user_nick}</FONT>去见见反女神派，在巨石碑的查尔德变得更强之前，找到阻止他们的方法吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你怎么知道卢比纳特和杰兰特都没事？<br>再说我也不知道如何才能和反女神派见面啊！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的少女",
+      "question": "关于反女神派线索，在这个藏身处找找就知道了。查尔德找不到……但是有着卢比哥哥半个宝玉的<FONT color=#387206>{user_nick}</FONT>肯定能理解哥哥奇怪的艺术世界的。嗯！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……奇怪的艺术世界？难道线索是在音乐或者绘画里？这到底是什么意思啊……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的少女",
+      "question": "我们还会再相遇的……一定会再相遇的……你可不能忘记艾瑞斯啊……？",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（挂着一幅奇怪的壁画。上前仔细看看吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（按照画上的方法来做吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（看看内容吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>（奇怪的文字……迷之大陆的语言吗？）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（但是总感觉我能直接读出来……这都是卢比纳特宝玉的作用吗……？）</FONT>",
+      "answer": ""
+    }
+  ]
+}

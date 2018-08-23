@@ -1,0 +1,157 @@
+{
+  "qkname": "迟来的后悔",
+  "data": [
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "出事了，出事了~！<br>大事不好了，大事不妙啊~！<br>\n※<FONT color=#7e12d2>只能从高级魔法师塔玛拉那里获得并进行任务。</FONT>",
+      "image": "qn_npc_soceresstamara.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "\n呵呵……一帮可笑的家伙……<br>\n※<FONT color=#7e12d2>只能从高级魔法师塔玛拉那里获得并进行任务。</FONT>",
+      "image": "qn_npc_soceresstamara.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "\n咳咳咳咳……<br>\n看来是到时候了啊……<br>\n※<FONT color=#7e12d2>只能从高级魔法师塔玛拉那里获得并进行任务。</FONT>",
+      "image": "qn_npc_soceresstamara.png"
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "\n你说这是<FONT color=#a82424>西戴尔</FONT>制作的药……？<br>\n只看了一次居然就记住了，还把药给制作出来了……西戴尔可真是天才啊。<br>\n值得卡拉秋这么宠爱他。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "现在事情紧急，得赶紧按照处方配药，至于研究还是单独进行吧。谢谢你，<FONT color=#387206>{user_nick}</FONT>。<br>\n也要麻烦你替我向<FONT color=#a82424>西戴尔</FONT>和卡拉秋问好。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "出事了，出事了~！<br>出大事了，出大事了~！<br><FONT color=#7e12d2>（啰嗦鬼查克博士嘴里念念有词）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>博士，出什么事了？卡拉秋和西戴尔在哪儿？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "听我说！<br><FONT color=#a82424>西戴尔</FONT>终于闯祸了！<br>我就知道那家伙早晚得闯出什么大祸来！",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么意思？你说仔细点！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "<FONT color=#a82424>西戴尔</FONT>把佩奥里斯塔的仓库翻了个底朝天！<br>拿着卡拉翰之前研究的<FONT color=#a82424>被禁的魔法书</FONT>逃跑了！",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？！</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "看样应该是打算和卡拉翰狠狠较量一番。<br><FONT color=#a82424>卡拉秋</FONT>一得到消息就去追赶西戴尔了！",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他们二人去了哪里？</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "是<FONT color=#a82424>古代武器库的西边</FONT>！你赶紧追过去！<br>额，西戴尔这家伙！最终还是要走上和卡拉翰一样的道路吗？！<br>所以我早就说过不能要男魔法师啊！",
+      "answer": "",
+      "image": "qw_56.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "呵呵……可笑的东西……",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳咳……<br>看来是时候了……",
+      "answer": ""
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "西戴尔和卡拉秋去了<FONT color=#a82424>古代武器库的西边</FONT>！<br>赶快吧！",
+      "answer": "",
+      "image": "qw_56.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "呵呵……你也是来挑战我的吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你对他们二人……到底干了什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "还没搞清楚状况就来嚣张跋扈，我只不过给他们点教训而已。<br>真是可笑，就凭他们那些微不足道的家伙，竟然还想与我这样一个超越者抗衡？",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "不想挑战我的话，就快点带着那些废物回去。<br>我还有事没处理完呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>（先将这两个人带回草屋）</FONT>",
+      "answer": "",
+      "image": "qw_karakule_house.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "\n咳咳咳咳……<br>\n<FONT color=#a82424>卡拉翰</FONT>比我预想得还要强大啊……",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不要紧吧?</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳……我这把老骨头难道看上去没事吗……？<br>我看……还是时候到了啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>时候到了？这是什么意思……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "佩奥里斯塔这个沉重的负担我背负了太长的时间，<br>现在也该到卸下这份重担的时候了，咳咳咳咳……<br><FONT color=#a82424>西戴尔</FONT>，你靠近点……",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "qkname": "导火线上的火花",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>等等，其实我在</FONT><FONT color=#086171>贫瘠沙沼</FONT><FONT color=#662500>发现了这个…… </FONT><FONT color=#7e12d2>(展示装置，说明前因后果)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "….",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "….",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "<FONT color=#7e12d2>(诺尔佩看了看装置，歪了歪脑袋)</FONT><br>这个……虽然只有一部分，但是确实是使用了拉达梅斯的技术的装置。似乎还有使用了魔法师的咒术的痕迹。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "ndnpc_Nophee_9774_qu_01.ogg}<br>这似乎是在拉达梅斯使用的放大器<br>\n上增加了各种附加的功能……<br>\n不过我没有这么设计过。是你亲自发现的这个东西吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不，是阿尔克告诉我的。他在</FONT><FONT color=#086171>贫瘠沙沼</FONT><FONT color=#662500>里面的角落发现的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "居然在那么荒凉的地方发现这东西……我们得先了解这个装置的构造，还得好好分析一下。请你拜托一下<FONT color=#086171>发明家纳琳</FONT>大人吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，不。等下……!</FONT><br>\n<FONT color=#662500>我觉得你亲自看看会比较好。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "……为什么？<br>\n<FONT color=#7e12d2>(诺尔佩怀疑地看着我)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(怎么办，如果那个装置真的和 </FONT><FONT color=#086171>伊贝尔</FONT><FONT color=#662500>有关，</FONT><FONT color=#662500>那可不能给太多人看到……</FONT><br><FONT color=#662500>但是又不能轻易断定这是伊贝尔的东西……)</FONT>",
+      "answer": "",
+      "image": "qn_child_hiver.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……我有些想法，但是现在还不能说……</FONT><br><FONT color=#662500>在我能确定之前，我想尽量隐藏这个装置的存在。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "嗯……<FONT color=#7e12d2>(诺尔佩思考了一下后点头)</FONT><br>我知道了。虽然我现在有点忙，不过分析这个应该不会花太多时间……你稍微等一下。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "<FONT color=#7e12d2>(诺尔佩拿出了道具，迅速地开始分析装置。他需要分解零件，看来要花点时间)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(在获得更多线索之前，先不要说这和</FONT><FONT color=#086171>伊贝尔</FONT><FONT color=#662500>有关的事情吧。</FONT><br>\n<FONT color=#662500>最奇怪的是冰海的伊贝尔居然会突然来</FONT><FONT color=#a82424>扭曲的区域</FONT><FONT color=#662500>，打算用和上次一样的手段)</FONT>",
+      "answer": "",
+      "image": "qn_child_hiver.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(</FONT><FONT color=#086171>格雷尔</FONT><FONT color=#662500>现在应该也去了</FONT><FONT color=#a82424>梅尔卡的心脏</FONT><FONT color=#662500>，伊贝尔就更没有理由来这里了……</FONT><br>\n<FONT color=#662500>总感觉有点奇怪)</FONT>",
+      "answer": "",
+      "image": "qn_child_grele.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "……哦？……这个有点麻烦啊。<FONT color=#387206>{user_nick}</FONT>，你能来看一下吗？<br>这边有线路因为魔法被烧焦了。似乎是刚刚烧焦的。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "ndnpc_Nophee_9774_qu_02.ogg}<br>因为这个被烧焦的线路，一半以上的连接部分都被损伤了。<br>\n这似乎是一种在紧急情况时使用的自爆装置。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "ndnpc_Nophee_9774_qu_03.ogg}<br>这个装置的设置是想有意隐藏这个装置的功能。<br>而且是以非常奇怪的方式……<br>我们得知道这个东西为什么会被丢在荒凉的扭曲的区域。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你这次能找来完全启动的装置吗？<br>\n说不定这会威胁到拉达梅斯的安全，我们要再调查一下。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了。我去去就来。<br>(阿尔克说他在</FONT><FONT color=#086171>卡特德拉忏悔室 </FONT><FONT color=#662500>，我去那里找他吧。说不定在那边能找到完整的装置)</FONT>",
+      "answer": "",
+      "image": "qw_119.png"
+    },
+    {
+      "npc": "阿尔克",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，请看这个。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "这似乎和在沙沼里的那个东西一样。<br>我只是以防万一才来这边看看，没想到真的藏在这里……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你没发现其他异常的地方吗？比如说有没有个</FONT><FONT color=#086171>少女</FONT><FONT color=#662500>在周围……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "没有……啊，这么说来，上次在贫瘠沙沼，我看到了几只小妖精在转来转去，然后消失了。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "本来在沙沼里出现城堡盗贼团的残党也不用太在意……<br>\n不过现在看来，那些小妖精看起来比盗贼要潦倒多了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>小妖精……？你没有看到</FONT><FONT color=#086171>蓝色头发的少女</FONT><FONT color=#662500>这样的，你真的没看到吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "<FONT color=#7e12d2>(阿尔克摇了摇头)</FONT><br>我看到的就只有<FONT color=#a82424>那群小妖精</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……原来如此。我先把装置带走吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "以防万一，我想在忏悔室里面再看看……。<br>你要和我一起吗？这里还是环绕着不祥的气息。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的。请你带路吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "在这边。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(跟着阿尔克进里面看看吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "……果然这里也有相同的装置。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>等等。我来看看。嗯？这里好像掉了什么……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>(在小小的木板上写着奇怪的文字)</FONT><FONT color=#662500> </FONT><br>\n<FONT color=#662500>你知道这是什么吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "让我来看看。<FONT color=#7e12d2>(阿尔克接过木板，看了看)</FONT><br>这是……查尔德们使用的 <FONT color=#a82424>符文文字</FONT>啊。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "上面写着<FONT color=#086171>“持有该名牌的奴隶可以出入伟大的女君主玛蒙的月泪石矿山”</FONT><br>。这个掉在这里……",
+      "answer": "",
+      "image": "qn_child_mammon_shadow.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "难道是<FONT color=#a82424>查尔德玛蒙</FONT><FONT color=#662500>的奴隶设置的这个装置吗………？！怎么会……？</FONT>",
+      "answer": "",
+      "image": "qn_child_mammon_shadow.png"
+    },
+    {
+      "npc": "阿尔克",
+      "question": "我完全不明白。帮不上忙，真是抱歉……。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不，多亏了你我才能找到这个装置。我要把这两个都带给 </FONT><FONT color=#a82424>诺尔佩</FONT><FONT color=#662500>大人看看。</FONT><br>\n<FONT color=#662500>阿尔克，请你看看还有没有小妖精在这附近。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "我知道了。我一定会仔细找找，请交给我吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(两个装置似乎都能正常启动。现在就回去 </FONT><FONT color=#086171>拉达梅斯</FONT><FONT color=#662500>给</FONT><FONT color=#a82424>诺尔佩</FONT><FONT color=#662500>看看吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "你回来了？有两个……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这次也是阿尔克发现的。而且根据阿尔克的说法……</FONT><br>\n<FONT color=#7e12d2>(转达在忏悔室说的内容和名牌)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "查尔德玛蒙的奴隶？玛蒙怎么会到扭曲的区域……<br>\n<FONT color=#7e12d2>(诺尔佩快速操作全息装置)</FONT><br>请把这些装置给我吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>来，这里……。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "他们是从哪儿得到我们的技术的？难道……<br>嗯？ <FONT color=#387206>{user_nick}</FONT>，这个装置也不能启动啊？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？刚刚还能正常启动啊？！</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "这两个都已经出了故障。<br>\n从烧焦的味道来看，应该是电路刚才被魔法烧焦了……",
+      "answer": ""
+    }
+  ]
+}

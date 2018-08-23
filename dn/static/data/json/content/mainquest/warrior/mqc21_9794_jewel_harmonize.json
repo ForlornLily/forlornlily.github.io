@@ -1,0 +1,261 @@
+{
+  "qkname": "宝玉融合",
+  "data": [
+    {
+      "npc": "诺尔佩",
+      "question": "看来人鱼汁液和幻影花全部找到了。<br>赶快前往格雷尔大人所在的<FONT color=#a82424>秘密海底洞穴</FONT>吧。",
+      "answer": "",
+      "image": "qw_129.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "既然材料全部找到了，那赶快前往=<FONT color=#a82424>秘密海底洞穴</FONT>看望格雷尔大人吧。<br>剩下的事放心交给莉卡吧。",
+      "answer": "",
+      "image": "qw_129.png"
+    },
+    {
+      "npc": "格雷尔",
+      "question": "……姐姐……呼哧……",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "格雷尔的状况非常不好。你怎么磨蹭到现在才来？",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "早知如此，当初我就自己吸收玛蒙宝玉了。<br>干嘛那么看我？我不是遗憾啦，就是觉得格雷尔很可怜！",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "再迟一会就糟了。<br>格雷尔的意识越来越弱了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那、那真是万幸！<br>这就是你说的材料。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "嗯，你先等一会。<br>一切准备就绪，我这就制作催化剂。",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "<FONT color=#7e12d2>（莉卡从旅行背包中取出工具，把带回来的材料混合后放入瓶中。看起来异常诡异的药水完成了。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "呃呃……吃了这东西，不会有事吧？",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "你这个蠢货。怎么能以貌取人呢。<br><FONT color=#7e12d2>（格里高利看起来对莉卡颇有好感……？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你这个怂货！再说一次蠢货试试，信不信我直接把你丢到卡伊伦岛？",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "呃……！<FONT color=#7e12d2>（畏惧海兰德尔的格里高利咽了下口水……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "你们这群没长脑袋的生物！还不给我安静点？！<br><FONT color=#7e12d2>（周围安静后，莉卡往格雷尔口中倒入药水。）</FONT> ",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "我还是第一次见到这么霸气侧漏的人类女子……",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "格雷尔这家伙终于醒了！不枉我辛辛苦苦找回这些材料。",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "药水看着奇怪，但效果没的说。<br>毕竟是我的作品！",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "嗯……这里是……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哦？格雷尔！你醒了？认得我是谁吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>？我怎么会……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你突然晕倒了。应该是因为先前吸收的玛蒙宝玉。<br>现在已经没事了，多亏了莉卡，你体内的玛蒙宝玉已经顺利吸收了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "啊……谢谢……你……<FONT color=#7e12d2>（格雷尔低头致谢。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GereintKid_9794_qu_01.ogg}<br>用不着摆出这副表情。小孩子本来就是在摔打中成长起来的。这代表你长大了。以后好好帮忙就好。<br><FONT color=#7e12d2>（从一个小孩子口中说出这番话，显得毫无信服力，但倒让人无比宽慰，格雷尔不由点点头。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "你简直把查尔德的脸都丢光了……<br>好心好意把宝玉让给你，你却因为自己的姐姐就发狂崩溃了，落得今天这个德行！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格里高利！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "ndnpc_Gregory_9794_qu_01.ogg}<br>现在对你来说，重要的不止姐姐。还有许多人指望着你呢。<br>包括那个虫子，反女神派和那些手下，还有我。今后全都靠你了。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "…… ",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "ndnpc_Gregory_9794_qu_02.ogg}<br>你现在不再是那个只在乎姐姐的小孩子了。<br>希望你能做一个顶天立地的男子汉。",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "他们俩说得没错。格雷尔，你没必要责怪自己。只需要记住你很重要，不能出任何差错。你肩上的责任要配得上成长的步伐。",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "你的视线不能只停留在姐姐身上，要懂得关心周围的人。<br>虽然大家各自拥有不同的目的，但他们都是你的家人。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "嗯……",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "宝玉融合顺利结束了，格雷尔暂时需要休息。<br>比起卡伊伦岛，还是先去梅尔卡休息为好。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯。莉卡不如跟我们一起返回梅尔卡吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "<FONT color=#7e12d2>（莉卡摇摇头）</FONT><br>不了，我要留在岛上。由于个人原因，我不能进入梅尔卡。<br>但绝不是在梅尔卡杀了人，你们别担心。",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "只要把格雷尔带回梅尔卡就行，我和杰兰特陪莉卡留在这里吧。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "凭什么你说的算？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……知道了。如果光留莉卡和格里高利在这的确有些不妥，那杰兰特也一起留下吧。<br>那我先带格雷尔返回梅尔卡，稍后就回来。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "一路顺风啊。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "格里高利为什么突然嚷着留下来？",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "我其实不需要休息……",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "好，那正好把格雷尔的情况告诉诺尔佩。<br>我在海岛码头等你们。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "我其实不需要休息……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格雷尔，你体内的宝玉魔力才刚刚完全融合，这种时候还是别逞强。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "知道了……我很快就能恢复了，到时候一定带我回来哦？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "\n见到格雷尔大人了吗？"
+    },
+    {
+      "npc": "格雷尔",
+      "question": "\n<FONT color=#7e12d2>（告诉诺尔佩先前的情况。）</FONT>",
+      "answer": "",
+      "image": "qn_nophee.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "<FONT color=#387206>{user_nick}</FONT>大人，我等你好久了。<br>格雷尔大人没事了吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，莉卡帮助格雷尔成功过融合了宝玉。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "那真是太好了。幸亏她在岛上。<br>否则，真不敢保证格雷尔大人会发生什么事。",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "qkname": "拯救先知",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>红色印章已经完成，现在应该能去寻找先知了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>先去见见村长海洛德，看看能他那里能否获得其他情报吧。</FONT>",
+      "answer": "",
+      "image": "qn_elder_harold.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "据说魔物们把萝丝那孩子带到了其他地方。<br>\n由于无法完成那个红色印章，自卫团员们现在伤透了脑筋……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<br>\n<FONT color=#662500>印章已经完成了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "噢噢，已经完成了吗？<br>\n那么，请快点出发去救我的孙女萝丝吧。",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "看来…你找到红色印…印章了啊。<br>\n快去救萝丝。",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "萝丝好像被抓到了<FONT color=#a82424>墓穴</FONT>那里。<br>\n那里十分危险，萝丝就拜托你了。",
+      "answer": "",
+      "image": "qw_3.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "嗯？你刚刚说什么？<br>\n你说萝丝在什么地方？她还没有回来啊。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "…嗯？你说墓穴中发生了什么？<br>\n请快点告诉我。",
+      "answer": "(说明在墓穴发生的事情)",
+      "image": "qw_3.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "如，如果她逃出了墓穴，应该已经回来了啊……！",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "\n如果萝丝和提摩西真的逃出来了，那他们怎么会消失不见呢？<br>他们会不会在回来的途中，遭遇了什么变故？",
+      "answer": "",
+      "image": "qn_rose.png"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "mq15_718_other_uninvited_guest",
+    "name": "不速之客",
+    "qid": "718",
+    "nextid": "719",
+    "chapter": "7"
+  },
+  {
+    "id": "mq15_719_dark_past",
+    "name": "黑暗的过去",
+    "qid": "719",
+    "nextid": "720",
+    "chapter": "7"
+  },
+  {
+    "id": "mq15_720_behind_story",
+    "name": "藏起来的故事",
+    "qid": "720",
+    "nextid": "721",
+    "chapter": "7"
+  },
+  {
+    "id": "mq15_721_native_medicine",
+    "name": "原住民治疗剂",
+    "qid": "721",
+    "nextid": "722",
+    "chapter": "7"
+  },
+  {
+    "id": "mq15_722_regret",
+    "name": "迟来的后悔",
+    "qid": "722",
+    "nextid": "723",
+    "chapter": "7"
+  },
+  {
+    "id": "mq15_723_succession",
+    "name": "继承",
+    "qid": "723",
+    "nextid": "9200",
+    "chapter": "7"
+  }
+]

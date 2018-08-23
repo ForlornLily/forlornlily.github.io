@@ -1,0 +1,177 @@
+{
+  "qkname": "背叛的风暴",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "<FONT color=#7e12d2>（把没发现凯伊的事情告诉埃提亚，并把书交给她）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "啊……这本书……？<br><FONT color=#7e12d2>（埃提亚吃了一惊）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9550_qu_01.ogg}<br><FONT color=#a82424>泰努阿尔</FONT>……消失的圣地……<br><FONT color=#a82424>巴尔纳</FONT>创建 <FONT color=#a82424>钢铁兄弟团</FONT>基础的地方！<br>天呐，姐姐！这本书上写着关于泰努阿尔神殿的情报！",
+      "answer": "",
+      "image": "qw_72.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真的吗？！<br>我们小时候总在巴尔纳的记录中看到兄弟团的圣地，我现在终于可以去亲眼看看了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "没错！仔细看这本书，里面记载着 <FONT color=#a82424>泰努阿尔神殿</FONT>的位置！<br>啊啊……如果我也能和姐姐一起去那里该多好啊……<br><FONT color=#7e12d2>（埃提亚摇着头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "但是，在凯伊哥哥待过的地方发现这本书的话……<br><FONT color=#7e12d2>（埃提亚的脸色渐渐变苍白了）</FONT>",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "柯梅里纳所说的<FONT color=#a94407>荒漠风暴</FONT>……是未来人的基地部队中部分人前往<FONT color=#a82424>泰努阿尔神殿</FONT>的作战计划，对吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃、嗯……好像是吧……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "凯伊哥哥在调查<FONT color=#a82424>泰努阿尔神殿</FONT>……<br>而且，他动了未来人的机器装置之类的东西，同时一看到姐姐就逃走了……可以说他和未来人一点关系都没有吗？",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9550_qu_02.ogg}<br>能相信哥哥到什么程度呢……？<br>我太累了……不，从得知凯伊哥哥不是钢铁兄弟团的时候起，我就已经筋疲力竭了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>埃提亚……<br>（希望越大，失望就越大吗……？埃提亚看起来很难过……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9550_qu_03.ogg}<br>凯伊哥哥……<br>……难道你从小表现出的对钢铁兄弟团的憧憬也是假的吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>凯伊是个坏家伙！竟敢伤我们家埃提亚的心！！<br>埃提亚，别担心！无论如何我都会阻止凯伊的！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#a82424>柯梅里纳</FONT><FONT color=#662500>不也是为了阻止</FONT><FONT color=#a82424>未来人</FONT><FONT color=#662500>而东奔西走吗？<br>只要帮助柯梅里纳，就可以阻止凯伊正在做的坏事了！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9550_qu_04.ogg}<br>是的……姐姐……现在不是该伤心的时候……<br>真是太傻了……",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "<FONT color=#7e12d2>（紧紧握着凯伊送的胸针）</FONT><br>既然通过这本书知道了泰努阿尔神殿的位置……<br>姐姐，现在最好赶紧去<FONT color=#a82424>泰努阿尔神殿</FONT>。",
+      "answer": "",
+      "image": "qw_72.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "如果未来人去了<FONT color=#a82424>泰努阿尔神殿</FONT>的话，凯伊哥哥也会在那里的。<br>姐姐，你一定要去那里阻止凯伊哥哥！",
+      "answer": "",
+      "image": "qw_72.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "拜托了，姐姐！",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "啊……<FONT color=#387206>{user_nick}</FONT>……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>终于抓住你了，凯伊！！<br>你到处跑来跑去究竟在做什么啊？！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "对不起！详细原因我以后再告诉你。<br>我从未来收到信号打开了门！<br>现在<FONT color=#a82424>荒漠风暴</FONT>马上就要开始了！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>来自未来的信号？门？！！</FONT><FONT color=#a82424>荒漠风~暴</FONT><FONT color=#662500>?！！<br>我不知道你在想什么，但你肯定想错了，凯伊！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "但是，<FONT color=#a82424>百合花</FONT>……我被<FONT color=#a82424>那个男人</FONT>利用的事情就是<FONT color=#a82424>百合花</FONT>告诉我的，她说这件事是为了现在必须做的……！",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "她说我做的事情的蝴蝶效应使未来变得一团糟……我因为帮助<FONT color=#a82424>那个男人</FONT>，导致贝思柯德的宝玉被夺走，一切都偏离了轨道！<br>为了纠正这个错误，我必须改变现在！",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是的，凯伊！这不是一件好事！<br></FONT><FONT color=#086171>未来人要侵略现在</FONT><FONT color=#662500>了！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "……<FONT color=#086171>侵略</FONT>……？<FONT color=#7e12d2>（凯伊瞬间露出混乱的表情）</FONT><br>怎么可能……不好，门已经打开了！<br>我……我得去看看！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>凯伊，你这个大笨蛋！你怎么那么轻易相信别人啊？！<br>你以为这么跑掉就见不到我了?！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "……凯伊哥哥……哥哥开启了让未来人入侵的门……？ ",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也不太清楚……但柯梅里纳所说的</FONT><FONT color=#a94407>荒漠风暴</FONT><FONT color=#662500>好像成功了……</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "哥哥……凯伊哥哥究竟为什么……<br><FONT color=#7e12d2>（埃提亚的表情变扭曲了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "就算如此……我也得去看看！！<br>\n<FONT color=#7e12d2>（凯伊不想再听，匆忙跑掉了）</FONT>",
+      "answer": ""
+    }
+  ]
+}

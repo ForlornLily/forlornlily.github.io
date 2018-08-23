@@ -1,0 +1,188 @@
+{
+  "qkname": "怎么就难以置信呢",
+  "data": [
+    {
+      "npc": "杰兰特",
+      "question": "在光明的世界中活下去。<br>别回头，别被影子抓住……"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "\n很，很高兴见到你，勇敢的少女。"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "追随特雷西亚，忠实地生活。<br>\n对于精灵来说，这是唯一允许的道路。"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_06.ogg}<br>那你就不要管萨芬特拉了，因为它最终会复活的。<br>比起这件事，你应该盯住巢穴，在被解除的时刻牢牢抓住先知。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_08.ogg}<br>你到<FONT color=#a82424>国王卡西乌斯</FONT>那里观察下动向吧。<br>幸好王室中有人对你是友好的。<br>在这样的时候，拥有小孩子的外表并不是件坏事啊。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "向着光明的未来前进吧。<br>不要只望着过去，被黑暗的阴影所牵绊……",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "忠实地追随特雷西亚。<br>这是精灵唯一能走的道路。",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "啊，你来啦。你来这里又是为了解其他冒险家在做什么吗？<br>我可以理……理解。你还小，步伐比较慢，自然赶不上其他冒险家。<br>\n<FONT color=#7e12d2>（卡西乌斯露出了同情的眼神）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "和你一起来的冒险家们目前仍在伊格纳西奥麾下努力做事。<br>这次……什么来着？<br><FONT color=#a82424>遗忘时间废墟</FONT>？他们好像去了那个地方。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>为什么要去那里呢？</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "朕不太清楚。<br>什么<FONT color=#a82424>力量的根源</FONT>？好像要找到那东西，以便在进行仪式时使用……<br>净化仪式真是神奇。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>原来如此。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "和你一起来的冒险家们目前仍在伊格纳西奥麾下努力做事。<br><FONT color=#7e12d2>（达到36级以上才能进行下一阶段任务）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "噢噢！你要去<FONT color=#a82424>遗忘时间废墟</FONT>寻找你的同伴吗？<br>真是个为人着想的女孩，我好感动。",
+      "answer": "",
+      "image": "qw_47.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "你好，<FONT color=#387206>{user_nick}</FONT>。<br>没想到能在这里见到你，命运真是个神奇的东西。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你在这里做什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "你没听说吗？我和西恩、伊桑还有安杰利卡正在帮<FONT color=#a82424>主教伊格纳西奥</FONT>做事。我是来这个地方回收<FONT color=#a82424>海怪的纹章</FONT>的。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>海怪的纹章？</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "很久前，被<FONT color=#a82424>六大英雄</FONT>消灭的海怪被分为很多块并封印了起来。<br>那力量的根源也沉入了大海深处。海怪的纹章就是力量的根源。",
+      "answer": "",
+      "image": "qn_six_heroes_silhouette.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "既然已经回收了海怪的纹章，我打算回去向<FONT color=#a82424>伊格纳西奥</FONT>报告了。<br><FONT color=#387206>{user_nick}</FONT>，你要一起去吗？",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>主教有什么诡计。</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "你为什么突然这么说。<br><FONT color=#a82424>伊格纳西奥</FONT>有什么诡计？",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他想复活海怪。</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "什么想复活海怪，真是奇怪。就算真的让海怪复活，那这么做伊格纳西奥能得到什么好处？<br>如果神圣天堂陷入危险，对他好像也没有好处吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个我不清楚。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "我真的很难相信你所说的。但是，如果你担心，可以将这件事告诉位于王城地下的<FONT color=#a82424>杰兰特</FONT>。如果你说的话有道理，他肯定会相信的。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "我无法接受你所说的话。我一直认为你是个很好的人，但……<br>很抱歉。你还是去和位于王城地下的<FONT color=#a82424>杰兰特</FONT>谈谈吧。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "让萨芬特拉复活？<br>那个……我很难理解，他为什么要做这样的事情？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也不清楚。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你说得太过头了，我很难相信。<br>但我记住了，如果发现不好的苗头，我会采取措施的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你的伤势怎么样了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我发誓要守护<FONT color=#a82424>神圣天堂</FONT>。<br>既然已经将这里作为巢穴，这个约定就不会改变。<br>我绝不能说谎。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那让我帮助你吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

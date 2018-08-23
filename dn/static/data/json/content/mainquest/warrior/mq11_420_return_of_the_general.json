@@ -1,0 +1,156 @@
+{
+  "qkname": "将军的回归",
+  "data": [
+    {
+      "npc": "道格拉斯将军",
+      "question": "目前勇敢的神圣天堂的士兵们为了抵挡黑暗矿山的怪物都非常尽心尽责。<br>\n<FONT color=#7e12d2>（与主教伊格纳西奥对话吧）</FONT>",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "要处理的事情堆积如山呢，没什么要事的话，你以后再来吧。<br><FONT color=#7e12d2>（与主教伊格纳西奥对话吧）</FONT>"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "为了找到<FONT color=#a82424>先知</FONT>，我们只能对<FONT color=#a82424>黑暗大君主的领地</FONT>采取强攻的方式。<br>只是……目前没有可以调动的兵力……<br><FONT color=#7e12d2>（伊格纳西奥目光焦急）</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "现在，最好的办法就是调动王城的精锐兵了。",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "目前勇敢的神圣天堂的士兵们为了抵挡黑暗矿山的怪物都非常尽心尽责。<br>\n<FONT color=#7e12d2>（与主教伊格纳西奥对话吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "我刚刚回城。<br>现在需要处理的事情已经堆积成山了，如果没什么要紧事的话，你以后再来吧。<br><FONT color=#7e12d2>（请和主教伊格纳西奥对话吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "精锐兵们现在正和<FONT color=#a82424>道格拉斯将军</FONT>在<FONT color=#a82424>黑暗矿山</FONT>附近聚集。",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（前往黑暗矿山寻找道格拉斯将军吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "iontalk}<br>你去<FONT color=#a82424>黑暗矿山</FONT>见见道格拉斯将军吧。<br>他是个忠心耿耿的人，一定会理解国家的危机的。",
+      "answer": "",
+      "image": "qw_27.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "iontalk}<br>嗯？你是谁？<br>看样子是个普通的冒险家，这里很危险，你回去吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "NT><br><FONT color=#662500>我叫 {user_class} {user_nick}。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "好像第一次听到这个名字……，你找我有什么事吗？<br>你也看见了，我们正在进行一场重要的作战。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这里，有一封主教伊格纳西奥的书信。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "嗯？主教的书信？给我看看。<br><FONT color=#7e12d2>（匆匆打开书信阅读）</FONT><br>……嗯。看来我不在的这段时间发生了大事。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "<FONT color=#a82424>黑暗矿山</FONT>是后方补给的战略要地，如果被怪物完全占领的话就麻烦了。不过，营救<FONT color=#a82424>先知</FONT>的事也很紧迫，那么这里的防卫就暂时交给冒险家公会吧。<br>\n<FONT color=#7e12d2>（将军拍着我的肩膀）</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "把占领矿山的<FONT color=#a82424>炸弹专家诺姆哈克</FONT>从眼前放跑虽然很可惜，但没办法，只能等下次了……<br>好吧，我会班师回城的。等我把驻扎在矿山附近的兵力召集之后就返回。",
+      "answer": "",
+      "image": "qm_orc_gray.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": "",
+      "image": "qm_orc_gray.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "iontalk}<br>那么，我们回<FONT color=#a82424>王城</FONT>再见吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>* 请前往黑暗矿山寻找将军道格拉斯吧。</FONT>",
+      "answer": "",
+      "image": "qw_27.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "这里的防卫就交给<FONT color=#a82424>冒险家公会</FONT>，我们要将兵力撤回。<br>我会尽快返回<FONT color=#a82424>王城</FONT>的，你先回去吧。让我们在王城见吧。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "\n哦哦，是你啊。<br><FONT color=#a82424>道格拉斯将军</FONT>刚刚回城。",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "<FONT color=#a82424>道格拉斯将军</FONT>刚刚回城。<br>赶快去和他商议攻击黑骑士根据地的战略吧。",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "iontalk}<br>我刚刚回城。<br>你也平安回来啦。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>必须尽快前往黑暗大君主的领地。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "啊啊，别着急。还有很多兵力没有回师，而且在<FONT color=#a82424>黑暗矿山</FONT>和怪物们对战了那么久，<FONT color=#a82424>士兵</FONT>们都还疲惫不堪啊。",
+      "answer": "",
+      "image": "qn_npc_elite_soilder.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "只要军事整备一完成，我就向<FONT color=#a82424>黑暗大君主的领地</FONT>出兵，你不必太担心。",
+      "answer": "",
+      "image": "qw_27.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

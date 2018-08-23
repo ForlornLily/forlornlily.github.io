@@ -1,0 +1,374 @@
+{
+  "qkname": "时间旅行者",
+  "data": [
+    {
+      "npc": "精灵长老",
+      "question": "啊，你来了。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我重新跟你讲一遍。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "任务很简单。你去监视者之塔，确认一下露娜莉娅是否在那里。就算你没能力抓住她，只需向我报告她在不在就行。我很快也会到那边去。",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "如果她也不在那边，我们就得重新开始搜索。时间不多，这事真让人着急。<br>听明白了吗？你快去<FONT color=#a82424>监视者之塔</FONT>吧。",
+      "answer": "",
+      "image": "qw_94.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "如果她在那里，你就来这熔岩江入口和我会合，然后一起去对付她。现在清楚没？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊哈，明白了！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "嗯……明白就好。<FONT color=#7e12d2>（贝思柯德似乎欲言又止）</FONT><br>你这软弱的小鬼，自己多保重。<br><br><FONT color=#a82424>（请前往监视者之塔）</FONT>",
+      "answer": "",
+      "image": "qw_94.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "<FONT color=#387206>{user_nick}</FONT>？你没和黑骑士会合吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，会合了……对了，我得赶紧到监视者之塔去。<br>（我都把这事给忘了，得加快脚步了！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "是这样啊。那你快点去吧。相信他已经热心地为<FONT color=#387206>{user_nick}</FONT>做了说明。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（这个嘛。</FONT><br>\n<FONT color=#662500>……快赶去</FONT><FONT color=#a82424>监视者之塔</FONT><FONT color=#662500>吧）</FONT>",
+      "answer": "",
+      "image": "qw_94.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "怎么办？为什么我每次打开巨石碑之门时，一切事情都会乱套……？我……不知道……会这样啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#387206>{user_nick}</FONT>？！！？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅……这是怎么回事？你为什么……还有阿尔杰塔呢，她怎么样了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9452_qu_01.ogg}<br>……不知道。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>别再说你不知道了。现在……你不能再说不知道了！</FONT><br>\n<FONT color=#662500>眼下世界正被颠覆，你我明显都处在混乱的中心。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你非要我放弃一切，也不当人类了，就像幻象一样只执着于你，跟随你一直走下去，你才肯对我开口吗？露娜莉娅，我知道你是……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9452_qu_02.ogg}<br>我是维斯提内的碎片这件事，你还是知道了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没错！我现在终于知道了。但不是由你告诉我的，而是从硬生生被扭曲的时间中得知的！</FONT><br>\n<FONT color=#662500>你为什么一点也没跟我说？如果我早知道你是威胁世界的维斯提内的碎片，我绝不会放你独自离开。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>还有，之前我也问过你几次，我到底是个什么？</FONT><br>\n<FONT color=#662500>我……一般人不可能生活在那么久远之前……我……我不是60多年前的普通人类吗？我的记忆是从那里开始的，到底为什么……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>就算你不能说，用你的力量恢复我所有的记忆，我们不就用不着这样错过了啊！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9452_qu_03.ogg}<br>……我……我不能那么做。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……呵，你不能做。我就知道你会这么回答。因为你一向都是这样的。应该说，我认识的你是这样的。<br>从前那个生机勃勃的你又是谁？露娜莉娅，你从没对我露出过那样的笑容。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9452_qu_04.ogg}<br>……我的笑容？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……对。过去的你常常对我笑。那女孩是你没错吧？看起来非常活泼，很愉快地与那个我不知道的我亲切交谈。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……你到底希望我怎么做……？我曾试图忽视你，也曾努力不要为你担心，可我实在无法抛下你不管。干脆你来告诉我吧。你希望我怎么做？哦？露娜莉娅……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9452_qu_05.ogg}<br>……我希望你能留下来。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9452_qu_06.ogg}<br>……无论你是什么样的样貌、什么样的性格、拥有什么记忆我都不在乎，我只希望你能好好活着……即使是在我看不到的地方也好。完全不认识我也没关系。只要你好好地……长长久久地活在这世界上。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……这话是什么意思……难道我死去时，你扭转了时间……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9452_qu_07.ogg}<br>……我已经厌倦了总是看见你死去……我……无论如何也想做点什么……<br>可是你太友善了。正如你总是对我那么友善一样……你也想要友善地对待这个世界……",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9452_qu_08.ogg}<br>……我都不记得了。不记得你的笑容，不记得我们曾经如何交谈，也不记得我们一起度过了多么愉快的时光。对于现在的我来说，愉快只是种认知，已不是种心理感觉。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9452_qu_09.ogg}<br>……如今的我，就只剩下个空皮囊。必须要打开巨石碑之门的使命，和我心中想要救你的心愿……两者相互交织，这彼此相反的矛盾一点点将我蚕食成了一个麻木的空皮囊。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n但这都没关系。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……红龙打开了巨石碑之门。虽不知道银龙做了什么举措，但你依然好好的。或许我仿效阿尔泰亚女神制作了阿尔泰精髓是个原因，也或许是因为混沌龙给你的力量保护了你。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9452_qu_10.ogg}<br>不管是什么理由都好。你没有消失。但巨石碑之门已经开启。这就够了。我实现了所有目的……<br><FONT color=#7e12d2>（露娜莉娅露出淡淡的微笑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#7e12d2>（露娜莉娅微笑的眼中，淌出了一线透明的眼泪……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……！！露娜莉娅……？？？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#2b2723>现在，我真成了个没有一点力量的空皮囊。但最终我实现了所有目的。我心爱的人啊，我……我已经没必要硬撑着留在这里了……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#2b2723>女神啊，我将背负着所有罪孽与他的业报消失。今后，请你放他自由吧</FONT><FONT color=#2b2723>……</FONT><br>让与我不同，拥有善良正直品质的他，和那些与他相似的同伴们可以幸福快乐地生活下去。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#2b2723>我已不需要再为了救活他而多次扭转时间了……</FONT><br><FONT color=#2b2723>我消失后，他也不必为了我去扭转时间……</FONT><br>\n<FONT color=#2b2723>如今的我们，已不是罪人。我会一力担负所有责任，按照女神的意思消失的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "每次扭转世界时，我的碎片都在逐渐消磨，你的碎片在逐渐改变。</FONT><br>\n<FONT color=#2b2723>记忆碎片、身体碎片、力量碎片、心灵碎片……<br>现在我不会再扭转时间，那些碎片再也不会分散了……我是我，你是你。<br><br></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n<FONT color=#a82424>我们</FONT>是世界的敌人。<br>\n<FONT color=#a82424>我们</FONT>……将不会被这个世界所原谅……",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n但是<FONT color=#a82424>你</FONT>可以获得原谅……<br>\n你会遇到很多优秀的同伴。他们跟我约定过，会接受你。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n所以你不要担心……<br>\n你再也不会孤单了。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n即使没有我，你也会过得很好的……",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#7e12d2>（露娜莉娅的周围萦绕着奇妙的光彩……她的身体渐渐变得透明了！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……露娜莉娅？！！不要！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅……？消失了？</FONT><br>\n<FONT color=#662500>她消失了？露娜莉娅？？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅扭转了时间？就为了救我？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>从前的露娜莉娅和现在的露娜莉娅完全不同的原因……是因为她不断地使用力量，导致记忆被消磨了？<br>扭转时间？不，我见过的……那个我不记得的我，和现在的露娜莉娅十分相似……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……露娜莉娅的感情和记忆随着她力量的逐渐消耗而一点点被消磨，而我渐渐……哦……这很奇怪！我……她说……我变了？说起来似乎是有变化…… </FONT><FONT color=#662500>想不明白，她的话是什么意思啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……露娜莉娅就这么消失了吗？我再也不能见到她了？她到谜之大陆去了……？<br>唉，她就这么消失了，叫我怎么办嘛……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……我到底该怎么办……<br>我……我……。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……没有你的话……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……该死，幻象！你在听我说话吧！你快出来跟我说说！！露娜莉娅她非得消失吗！？</FONT><br><FONT color=#662500>你是不是觊觎过那样的她？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>！！你怎么不出来，胆小鬼！！每次你都是肆意出现，这时候怎么不见你了！？</FONT><br><FONT color=#662500>什么叫你我是同一人！你不是也什么都不知道吗！ </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可恶……！该死的！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "<FONT color=#662500>……你在这里骂骂咧咧的，什么事也解决不了……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……我一定可以再次见到露娜莉娅……不，我一定要见到她。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "<FONT color=#662500>……现在总算接近真相了。哈哈哈！她骗了我那么久，却这样消失了！哼，你想听的就是这个吗。你是不是想知道明明她每次到最后都会抛下我，却无法抛弃我的原因！！我们一直以来只是想救活彼此罢了！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……瞧，我没说错吧。无论如何我都要找到她……再次和她相见……即使是变成使徒，我也要见到她。这也是露娜莉娅的期望。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "<FONT color=#662500>……优秀的同伴？那到底是指什么？使徒？还是那些声称要成为英雄的放肆小鬼？就算跟着他们东奔西走，说到底我们仍各自处于不同的时间轴。对他们来说，我只是个过路人。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……我终究只是个异乡人吗……要不是露娜莉娅，我会一直孤身一人……就像人们会遗忘露娜莉娅一样，我也会被遗忘……最后不留下一丝痕迹……我……不管是历史上还是在什么地方，这个世界上没有我的立足之地。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "????",
+      "question": "<FONT color=#662500>不让我孤独？你就为了这个目的不惜欺骗我，从我身边逃开吗？</FONT><br>\n<FONT color=#662500>露娜莉娅，我想要的，就只有你。这是我唯一的愿望啊……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……呃？！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……（刚才是我？还是谁在说话？是幻象吗？头……好疼……似乎要裂开一样……几乎要看不清眼前的事物了。呃……刚才说的话很不像我的风格啊。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……（是我幻听了吗？不对，那是我的声音……呃……是……谁……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……（想不明白了。现在我头疼欲裂……还是……歇一会儿再走吧……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……（露娜莉娅……）</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……（……我能再见到她吗？下面快到熔岩江入口去吧。贝思柯德该等在那里）</FONT>",
+      "answer": ""
+    }
+  ]
+}

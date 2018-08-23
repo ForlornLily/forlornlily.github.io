@@ -1,0 +1,119 @@
+{
+  "qkname": "女王之容",
+  "data": [
+    {
+      "npc": "阿尔杰塔",
+      "question": "哈! 事情变复杂了。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "<FONT color=#7e12d2>(长老因为和警卫兵们的对话看起来很忙。 <br>说起来路上阿尔杰塔似乎有话要说)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "女王纳尔希亚",
+      "question": "是有资格的孩子啊。还没到选择的时间所以请出去吧。<br>不过感觉会和你再会的。<br><FONT color=#7e12d2>(纳尔希亚的脸上浮出淡淡的微笑)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "大概听说了萝丝琳德在这里做什么了吧?<br>正好知道了和不知道是叫首领还是叫王的东西相会的地方，我也正打算去呢。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "不过生命之树死掉了一切都白费了吧? <br>我都这样保护你们了，你们精灵怎么连几个女王候补都保护不周呢?<br>\n哎哟真让人无语。<br><FONT color=#7e12d2>(阿尔杰塔似乎非常不愉快)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "是要去见长老吧?告诉他不管用什么手段一定要保护好精灵女王。<br>直到我们把那些麻烦的家伙们全部扫掉。知道了吧?",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "艾丽迪安怎么样了?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>(说明发生过的事)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "悲伤的小心接二连三地到来，果然很痛苦啊。<br>\n不过守住月食峡谷中的遗物算是不幸中的万幸了。<br>\n比起艾丽迪安死，要先安心守住了森林，这到底算什么情况....",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "而且纳尔希亚大人的力量正在变弱。<br>\n正如阿尔杰塔大人所担心的，女王继承仪式已经不能推迟了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不过女王选举会议被中断了吧。候补们也都....</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9279_02.ogg}<br>因为发生了很多事所以没想到，但幸好<FONT color=#a82424>一位女王候补</FONT>活下来了。<br>忽然觉得这可能都是为了下任女王所铺好的路。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>一位女王候补?难道....</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9279_03.ogg}<br>是啊。 <FONT color=#387206>{user_nick}</FONT>大人。你是有女王的资格并完成了巡礼的唯一一位候补。<br>去拜见纳尔希亚大人吧。下次见面的时候说不定你已经是女王了。<br><FONT color=#7e12d2>(长老吃力地做出微笑)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我还不清楚自己的特雷西亚到底是什么。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9279_04.ogg}<br>遵从特雷西亚吧。<br>如果你不是成为女王的命运，现在发生的所有事也不会有这种流动的。<br><FONT color=#7e12d2>(长老打开生命之树的门帘，温柔地推了推{user_nick}的后背)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "而且纳尔希亚大人的力量变弱了。<br>\n<br><FONT color=#7e12d2>(精灵长老陷入了沉思，不再说话。</FONT><br><FONT color=#7e12d2>69Lv以后再来吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "这次女王选举会议真是特殊。竟然只有一个候补活下来了....<br>不过这也是为我们准备好的宿命中的一个吧。别再犹豫了。去拜见女王纳尔希亚大人吧。<br><FONT color=#2b2723><br></FONT><FONT color=#7e12d2>(长老打开生命之树的门帘轻轻地推了推{user_nick}的后背)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9279_05.ogg}<br>为什么就这样出来了....<br>女王还没有下决定吗?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>因为此处的骚乱，拜见被中断了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "<FONT color=#7e12d2>(长老做出哀叹的表情)<br></FONT>女王选举会议是生命之树和感觉到森林气息的女王候补合为一体的仪式....<br>森林的气息如此混乱也难怪啊。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "女王纳尔希亚",
+      "question": "好吵啊，孩子。这种吵闹中连生命之树的声音都听不到了。<br>能帮我去外面看看吗?",
+      "answer": ""
+    }
+  ]
+}

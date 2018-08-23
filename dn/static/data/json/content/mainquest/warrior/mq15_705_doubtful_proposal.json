@@ -1,0 +1,152 @@
+{
+  "qkname": "奇怪的提议",
+  "data": [
+    {
+      "npc": "奇怪的男人",
+      "question": "呵呵，瞧瞧你看得都失神了。<br>\n也是啦，看到我这么完美的人，不管是谁都会像你这样的。"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "\n你还没有查到帮助察提的人是谁吗？",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "抓紧时间。<br><FONT color=#7e12d2>（跟踪察提去调查利物沃特村庄废墟）</FONT>",
+      "answer": "",
+      "image": "qw_51.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你还没有查到帮助察提的人是谁吗？<br>抓紧时间。<br><FONT color=#7e12d2>（跟踪察提去调查利物沃特村庄废墟）</FONT>",
+      "answer": "",
+      "image": "qw_51.png"
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "呵呵，瞧瞧你看得都失神了。<br>也是啦……盯着我看超过了3秒钟的人，最终都会变成我的奴隶的。<br><FONT color=#7e12d2>（奇怪的男人说着奇怪的话）</FONT>",
+      "answer": "（避开他的视线）"
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "呵呵，就算你故意把视线从我身上避开也没用，因为美丽这东西本来就是难以抵挡的。哈哈哈！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "\n不过，先把你这种狂热的敬仰之心放在一旁吧，今天我找你是有正事的。<br>\n你现在正在查找消失的原住民的行踪吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>……？你是怎么知道的？</FONT><br>\n ",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "麻烦你不要企图用你那单纯的人类思想来评价我，我不知道的东西，只有那些不能变美的丑陋而已。<br>总之，我能给你一些有关原住民行踪的不错的情报。不过，你也要为我做一件事。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我怎么知道那情报是真是假？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "<FONT color=#7e12d2>（奇怪的男人从怀里掏出一条项链）</FONT><br>这是只有原住民的族长才拥有的符咒项链。<br>这下你总该相信了吧？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（原住民族长……就是察提的爷爷了……？）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "你把这封<FONT color=#a82424>信</FONT>安全送达之后，我就告诉你有关失踪原住民的情报。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>信？需要交给谁呢？</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "这是要送给<FONT color=#a82424>卡拉秋·佩奥里斯塔</FONT>的信。<br>等你送完信，再来我这里。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "呵呵，看来你被我的魔力所吸引，到现在还挪不动脚步呢吧？就算是这样，也麻烦你赶紧把信交给<FONT color=#a82424>卡拉秋</FONT>哦。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "\n你已经打听到那个帮助察提的人了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>还没有，其实我是有一封信要转交给您。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "啧啧……我让你做的事情不去做，净把注意力放在那些奇奇怪怪的地方，杰兰特真是捡了个没用的家伙。",
+      "answer": "（将信递给卡拉秋）"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "<FONT color=#7e12d2>（卡拉秋打开信封开始读信。从正在读信的卡拉秋脸上，可以看出略微的颤抖）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "这……<br>这，这封信……你到底是从谁那儿拿到的？！",
+      "answer": "（提起那个让我送信的男人）"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "<FONT color=#7e12d2>（卡拉秋的表情变得僵硬起来）</FONT><br>知道了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>您认识这个人吗……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "那是我很久以前见过的一个人。<br>这事就不必你操心了，回去吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "既然你已经把信送到，就赶紧去追上<FONT color=#a82424>察提</FONT>找出那个挑拨离间的家伙是谁吧。咳咳咳……<br><FONT color=#7e12d2>（去古代图书馆见见应该还在那里的察提吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "qkname": "被计划好的危机",
+  "data": [
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9280_01.ogg}<br>身为长老，我连保护女王候补和生命之树都做不到吗....",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>有什么事吗？大家都去哪儿了?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "同甘共苦的朋友们竟然失去了生命...<br>\n不能就这么被欺负下去了。这次... 这次....<br><FONT color=#7e12d2>(警卫兵巴夏脸充满了悲伤和愤怒)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你干吗，不是叫你去见<FONT color=#a82424>长老</FONT>吗，干吗回来?",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "question": " <br>\n<FONT color=#7e12d2>(杰兰特没有任何回答)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9280_02.ogg}<br>刚才魔物们袭击此处。<br>虽然阻止了他们前往生命之树，但这么多的人被打倒了。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "我…我....<br>没能阻止失去同伴的巴夏冲向魔物们的来处，也就是那个沙漠。<br><FONT color=#7e12d2>(精灵长老自责，并接着说道)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是说巴夏去了</FONT><FONT color=#a82424>沙尘之海</FONT><FONT color=#662500>吗?</FONT>",
+      "answer": "",
+      "image": "qw_76.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "是啊。他说敌人是从<FONT color=#a82424>沙尘之海 </FONT>方向出现的。<br>说不会就这么等着袭击...<br><FONT color=#7e12d2>(长老用可惜的眼神看着沙漠)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我去找找她</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9280_03.ogg}<br>魔物变多这里也会变得危险，请那么做吧。<br>你去负责那边吧。祝你一定要平安带回巴夏。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "快去<FONT color=#a82424>沙尘之海</FONT>帮助<FONT color=#a82424>巴夏</FONT>吧。",
+      "image": "qw_76.png"
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "ndnpc_AN_Elf_Guard_Basha_qu_9280_01.ogg}<br>哦哦{user_nick}!!是来帮我的吧….<br><FONT color=#7e12d2>(巴夏的脸上充满了泪痕)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，不要紧吧?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "真…真的好可怕。其实我不是那么出色的游侠。<br>\n所以以为当守护着生命之树的警卫兵正好是我的特雷西亚...<br>和我一起受训的同伙们全都死了。呜...",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "还好他们救了我才能平安无事。<br>\n真的，差点要出大事了。<br><FONT color=#7e12d2>(巴夏指着阿尔杰塔和杰兰特)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "打倒了蛮多的敌人我也有了点自信。<br>现在我一个人也能回去了。但是....<br><FONT color=#7e12d2>(警卫兵巴夏一脸担心)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>为什么这么说？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "ndnpc_AN_Elf_Guard_Basha_qu_9280_02.ogg}<br>跟你说可能有点不方便，我见到了你的守护者 <FONT color=#a82424>尤万西贝尔</FONT>了。<br>\n稍微，有点担心啊。",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "也有可能是看错了，但他冲向生命之树的方向并对周围的魔物说了什么。<br>就像是他在指挥这里的魔物。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "他虽然诚实地履行了保护你的职责....<br>但忽然想起长老说过他是曾经背叛过同族的人，要小心警戒。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "ndnpc_AN_Elf_Guard_Basha_qu_9280_03.ogg}<br>不管怎样还是担心生命之树啊。<br>比起与魔物们的战斗，找到<FONT color=#a82424>尤万西贝尔</FONT>的行踪也许更急。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那先回到阿努阿兰德吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "别担心我怎么回去吧。我现在也能保护好我自己。<br>比起那个<FONT color=#a82424>尤万西贝尔</FONT>不知道要做出什么。快点!<br>\n快点回到<FONT color=#a82424>阿努阿兰德</FONT>吧。"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9280_04.ogg}<br>大....大事不妙。果然尤万西贝尔，他...<br><FONT color=#7e12d2>(精灵长老似乎受伤了，抱着身体)</FONT>",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>果然... 尤万西贝尔大人来到这里了吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "我虽然也想阻挡，但他已经尽到门帘里面了。<br>\n快去救女王....<br><FONT color=#7e12d2>(精灵长老急忙卷起门帘)</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

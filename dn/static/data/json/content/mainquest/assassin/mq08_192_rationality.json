@@ -1,0 +1,317 @@
+{
+  "qkname": "理性的牵绊",
+  "data": [
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "听说其他冒险家去给悬浮装置充能了……？",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "啊，你愿意到<FONT color=#a82424>水晶谷</FONT>去见见其他冒险家吗？",
+      "answer": "",
+      "image": "qw_cristalstream.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你要到<FONT color=#a82424>水晶谷</FONT>和其他冒险家见面，对吧？<br>我明白了。我会跟着过去的。",
+      "answer": "",
+      "image": "qw_cristalstream.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……你在干嘛？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你不是找那边的冒险家们有事吗？",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "都怪我太疏忽大意了。<br>我的无能让我觉得很无奈。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "情况很不乐观。<br>这一切都是我的宿命吗？",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "喂，<FONT color=#387206>{user_nick}</FONT>！你没事啊。<br>好久不见，我还挺担心的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>有什么事吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "我们到达沉睡者神殿，想要给悬浮装置充能的时候，遇到了一个黑暗精灵，她带着一个体型巨大的食人魔。<br>那个黑暗精灵穿着红色的衣服。",
+      "answer": "",
+      "image": "qw_16.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "那个黑暗精灵好像抓走了安杰利卡。<br>刚充满能量的悬浮装置也被巨大的食人魔抢走了。我们好不容易才得以脱身……",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "我们把这件事告诉了阿尔杰塔，她说那个穿红衣服的黑暗精灵好像是<FONT color=#a82424>埃雷娜</FONT>。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "但是<FONT color=#387206> {user_nick}</FONT> ，之前你好像问过我知不知道<FONT color=#a82424>埃雷娜</FONT>，对吧？<br>你是怎么知道那个名字的？",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个……</FONT><br>\n<FONT color=#662500>是因为鹰身人情妇。</FONT>",
+      "answer": "",
+      "image": "qm_harpyred.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "鹰身人情妇？<br>\n你是说劫持<FONT color=#a82424>萝丝</FONT>的那个<FONT color=#a82424>鹰身人</FONT>吗？",
+      "answer": "",
+      "image": "qm_harpyred.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "那个鹰身人……<br><FONT color=#7e12d2>(西恩听到我们的谈话之后，侧过了头)</FONT><br>那个鹰身人是埃雷娜的手下？！",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "原来如此。<FONT color=#387206>{user_nick}</FONT>，原来你是在追踪埃雷娜。<br><FONT color=#7e12d2>(伊桑一脸严肃地点了点头)</FONT>",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(我确实是在找她，但是……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "总之，我们要到<FONT color=#a82424>袭击者埋伏点</FONT>去救出安杰利卡 。<br><FONT color=#387206>{user_nick}</FONT>，要是可以的话，希望你能帮帮我们。",
+      "answer": "",
+      "image": "qw_18.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "好了，大家到<FONT color=#a82424>袭击者埋伏点</FONT>去吧！<br><FONT color=#7e12d2>(西恩收拾好装备，回头看着其他冒险家)</FONT>",
+      "answer": "",
+      "image": "qw_18.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(去把目的地告诉露娜莉娅吧。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "希望安杰利卡安然无恙。愿女神的祝福与她同在……<br><FONT color=#7e12d2>(伊桑的表情好像非常沉重)</FONT>",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "\n不知道那个黑暗精灵在打什么主意。<br>\n想不明白。<br>\n现在只能先到袭击者埋伏点去了。",
+      "answer": "",
+      "image": "qw_18.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ionStand1}<br>那个叫<FONT color=#a82424>埃雷娜</FONT>的黑暗精灵劫持了冒险家？原来如此。<br>所以你也要到那里去？",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>有很多可疑的地方。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "和你见面的时候，那个黑暗精灵说正在<FONT color=#a82424>袭击者埋伏点</FONT>制造什么东西。<br>也许和那个东西有关。",
+      "answer": "",
+      "image": "qw_18.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>她好像正在制造一种名叫小精灵制造装置的东西。<br>会不会有什么关系……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "所以呢？你是想去救那个冒险家呢？<br>还是想去找埃雷娜呢？或者……<br>\n你的目的到底是什么？",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你为什么要去救那个冒险家呢？<br>你又不认识那个魔法师。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……也是，你对所有人都是这种态度。<br>刚见到我的时候，你也是这样颐指气使的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>颐，颐指气使？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "其实你关心的是那个黑暗精灵，对吧？<br>那个叫你<FONT color=#a82424>幻象</FONT>的<FONT color=#a82424>埃雷娜</FONT>。不过我不太清楚。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "因为埃雷娜认识你？<br>不过在我看来，那个黑暗精灵认识的好像不是现在的你。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……啊，这个问题没什么关系吗？<br>我不太清楚。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你到底想知道什么？如果想知道回到过去的方法，那个黑暗精灵不可能知道。<br>认识那个黑暗精灵的人，以及她认识的人，都不是你。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你还是要去找那个黑暗精灵吗？",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……看你的表情，我就知道你想说什么了。<br>不管你的选择是什么，我都不会反对。我只是跟着你而已。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那就说定了。</FONT><br>\n<FONT color=#662500>我们出发吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "要到<FONT color=#a82424>袭击者埋伏点</FONT>去，对吧？<br>明白了……我会跟着过去的。",
+      "answer": "",
+      "image": "qw_18.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你是想问发生什么事了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的，我突然失去了意识。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你体内的那个男人出来了。<br>他吞噬了你。那个人不是你，而是<FONT color=#a82424>那个男人</FONT>。",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "那个男人想把一切都毁灭掉。<br>\n魔物、东西、人。<br>……还有我……",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "所以我<FONT color=#a82424>穿越了时间</FONT>。<br>首先，我不能把那里的冒险家们卷进来。<br>还好那个男人好像又回到了你的体内。",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那现在是什么时候？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "不知道。<br>不过应该没太大的差异。<br>\n也许。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "你把那个男人，叫做<FONT color=#a82424>幻象</FONT>？<br>露娜莉娅。",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……<br><FONT color=#7e12d2>(露娜莉娅在一瞬间避开了视线)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……是的。<br>你体内的那个男人，<FONT color=#a82424>幻象</FONT>。",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "那个带着我撞上你的男人。<br><FONT color=#a82424>埃雷娜</FONT>知道的，以及那个<FONT color=#a82424>黑衣男人</FONT>认识的人，应该就是他。<br>也许。",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你怎么不说话？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你又没问我。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我确实是在用那个男人……用幻象的技能在战斗。<br>但是不光是肉体，连意识都要被他吞噬。<br>我该怎么办呢？</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>必须想想办法压制住体内的那个家伙。<br>……对了，露娜莉娅，你的穿越时间的能力。</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这样下去的话，我也许会发疯的。</FONT>",
+      "answer": ""
+    }
+  ]
+}

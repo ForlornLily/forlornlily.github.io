@@ -1,0 +1,312 @@
+{
+  "qkname": "被辜负的信任",
+  "data": [
+    {
+      "npc": "精锐士兵克林德",
+      "question": "紧急情况，紧急情况。<br><FONT color=#387206>{user_nick}</FONT> ，非常抱歉。现在我也有很多事情需要报告。<br><FONT color=#7e12d2>(克林德非常慌张)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰兰特的巢穴！先知呢？<br></FONT><FONT color=#7e12d2>(必须前往王城地下秘密区域)</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "我听说这里可以通往某个地方……<br><FONT color=#7e12d2>（凯伊正专注于搜索。下次再来吧。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐？你的脸色怎么这么惨白。出什么事了？<br><FONT color=#7e12d2>(必须前往王城地下才行)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "杰兰特，好像已经死了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德！你是怎么进到这里的……<br>啊！先知不见了！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "面对敞开的门，我还有进不来的道理吗？<br>多亏了某个愚蠢的家伙，<FONT color=#a94407>巢穴</FONT>崩溃了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(杰兰特的巢穴……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我是来处置<FONT color=#a82424>使徒伊格纳西奥</FONT>的，可是他已经逃跑了。<br>而且是和古代人的后裔一起。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>使徒！！伊格纳西奥果然是个坏家伙。<br>当初应该相信柯梅里纳的话。</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你被伊格纳西奥的谎言骗得团团转，现在又在这里喋喋不休。 <br>就是因为你，现在一切事情都变得乱七八糟了。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你这个家伙，连被我踩死的资格都没有，快走开。<br>我没什么事情要跟你说。",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "冒险家，你也去忙你的吧。<br>王城现在被一个突如其来的消息搅得乱作一团了。<br><FONT color=#7e12d2>（必须前往王城地下秘密场所，确认萝丝的安危）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "怎么会有这种事……先知到底怎么样了……哎。伟大的骑士王卡西乌斯……我该怎么办才好呢？哎……<br><FONT color=#7e12d2>（必须前往王城地下秘密场所，确认萝丝的安危）</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "真是可惜啊。到头来，先知只不过是个无用的武器。<br><FONT color=#7e12d2>（必须前往王城地下秘密场所，确认萝丝的安危）</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "哼，不能相信那种像老狐狸一般的家伙，这话我都不知道说了几遍了？！瞧你们那样~王城的家伙们。<br><FONT color=#7e12d2>（必须前往王城地下秘密场所，确认萝丝的安危）</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "没有收到侦察兵的报告吗？我说，刚刚我叮嘱的事情办得怎么样了？！<br><FONT color=#7e12d2>（必须前往王城地下秘密场所，确认萝丝的安危）</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "question": "<br><FONT color=#7e12d2>(贝思柯德看起来心情不好。还是走开吧。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "<FONT color=#387206>{user_nick}</FONT>！！听说先知不见了，是真的吗？<br>据说，曾在地下紧闭的大门居然打开了，警卫兵在细致的搜查之后，仍未找到先知。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "由于<FONT color=#a82424>主教伊格纳西奥</FONT>隐匿了行踪，现在王城陷入非常紧急的事态。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "之前没有听<FONT color=#387206>{user_nick}</FONT>你的话，真是失策啊。<FONT color=#a82424>将军道格拉斯</FONT>正因为那件事而在找你呢。<br>你快去见见他吧。",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "主教伊格纳西奥和先知一同消失了。<br>现在，<FONT color=#a82424>将军道格拉斯</FONT>正因为那件事，而正向士兵们下达指示，请你去见见他吧。",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "你现在才来啊！我说，正如你之前所说，伊格纳西奥，哦不对，那个家伙好像绑走了先知！<br>本该相信你的话，现在可出大事了！",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "我收到了侦察兵的报告，并且现在正对其位置进行追踪。总之，他好像已经离开了神圣天堂。",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "哼，不能相信那种像老狐狸一般的家伙，这话我都不知道说了几遍了？！瞧你们那样~王城的家伙们。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "上次没能帮你忙，真是抱歉。不过既然你知道<FONT color=#a82424>伊格纳西奥</FONT>是使徒，那你应该也知道他把先知带去哪里了吧！事不宜迟，快告诉我吧！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我……不知道。呜呜……<br>(为什么大家都这样对我。埃提亚……我好想你……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "除了背叛者之外，其他事情你就不知道吗？真是个没用的孩子。哎，烦死了。<br>这么看来，只能去搜查一下发来最后一份报告的无名暴君之墓了。",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "你眨巴着眼睛在看什么呢？<br>还不快去抓伊格纳西奥，在这里傻愣着干嘛！非得我一字一句告诉你，你才能懂啊。哎。<br><FONT color=#7e12d2>(卡拉安发着脾气)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "主……主教居然背叛朕，还绑架了先知……真是难以置信。哎，正如斯图尔特叔父所说，这世上只有叔父才是值得信赖的……哎<br><FONT color=#7e12d2>(卡西乌斯用充满不安的眼神看着四周)</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "你，你是一个忠诚的大臣吗？恩？……不，不过，不管你说什么，朕都不会相信的。哎……<br>相信道格拉斯将军应该没问题吧？将军……是一个非常好的大臣。<FONT color=#7e12d2>(卡西乌斯正处于非常焦躁的状态)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "ionStand2}<br>这次事件，让我们的小国王非常伤心。<br>本来正好想让金龙和先知，帮忙做宣传的……真是太不巧了。<br><FONT color=#7e12d2>(公爵长叹了一口气)</FONT>",
+      "answer": "",
+      "image": "qn_npc_king_casius.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "先知和金龙消失的事情，你最好先替我保密。<br>总之，打倒黑龙才是重中之重，其余的事情可有可无，反正没什么大的区别。你说对吧？",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "所以，主教伊格纳西奥消失的事情，最好也能悄无声息地处理掉。<br>你应该能听懂我的话吧。呵呵。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "哼，不能相信那种像老狐狸一般的家伙，这话我都不知道说了几遍了？！瞧你们那样~王城的家伙们。<br><FONT color=#7e12d2>(必须先与将军道格拉斯对话)</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "最后的报告是从<FONT color=#a82424>无名暴君之墓</FONT>中发来的。以现在的情况来说，只能先对那里进行确认了。<br>真不知道怎么会变成这样……哎……",
+      "answer": "",
+      "image": "qw_44.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9500_qu_01.ogg}<br>让他跑了！那个一身赘肉的主教，身手居然异常灵活！呃呃，现在怎么办？",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这不是凯伊吗！？主教呢？他来过这里吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9500_qu_02.ogg}<br>你！当初我让你带<FONT color=#a82424>先知</FONT>来的时候，如果你听了我的话，现在事情也不至于变得这么困难啊！<br>现在怎么办啊？你不是很自信地说，先知在安全的地方嘛！",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>但是，杰兰特的去世……我实在是没想到……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9500_qu_03.ogg}<br>什么？你是说，那条金色的龙死了？这可是不得了的事情啊。",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9500_qu_04.ogg}<br>我还有事情要向他报告呢。呜呜呜。这都怪我交友不慎啊。唉呜呜呜呜。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>对不起</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9500_qu_05.ogg}<br>你既然有所觉悟，那这份债以后再还吧。<br>我现在得想办法如何处理这件事情。",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "呃呃~~<FONT color=#387206>{user_nick}</FONT>！！你还是回领地吧！",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9500_qu_01.ogg}<br>姐姐，别哭，啪嗒！嗯？？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呜……呜……埃……提亚……呜……<br>凯伊的话……呜呜……都是对的。都是我的错，杰兰特死了……先知也消失了踪影……呜……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>现在，寻找父亲的方法……呜……我把一切都给毁了……呜……呜……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9500_qu_02.ogg}<br>不是姐姐的错。都怪密谋坏事的伊格纳西奥那家伙，而且，虽然你把这一切告诉了其他人，可他们并没有相信你的话。<br>所有人都胆小怕事，因此想把责任都推到姐姐你的身上。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "默默地承担一切责任，姐姐你太善良了。嗯？别哭了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呜……呜呜。谢，谢谢你。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "虽然无法与先知对话，这的确十分可惜。但我们不能放弃希望。<br>如果龙之追随者与使徒是一伙的话，<FONT color=#a82424>贝思柯德</FONT>应该也会对伊格纳西奥有所了解。说不定他掌握着更多信息呢。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德？<br>不过，之前他没告诉我什么事情啊。</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "当时，你只问了有关龙之追随者的事情呀。<br>而现在父亲正受到龙之追随者的追击，你向他询问如何才能找到的话，应该就能得到不同的回答了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德非常可怕……不当面见他也行吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9500_qu_03.ogg}<br>虽然这让你为难。<br>但必须赶在贝思柯德离开王城地下之前问问他。嗯？",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "qkname": "憎恶与职责",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德没有回来……</FONT><FONT color=#a82424>女神之瞳</FONT><FONT color=#662500>发生什么事了吗？</FONT>",
+      "answer": "",
+      "image": "qw_96.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>等等看吧？那么等待的这段时间……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>就用来修炼吧。</FONT><br><FONT color=#662500>虽然时间不长，但也不能浪费。</FONT><br><br><FONT color=#7e12d2>*达到79级后可进行任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……稍微平复一下心情吧。</FONT><br><FONT color=#662500>最近的事实在太多，忙得我不可开交……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(就在这里冥想的话有些不合适，还是前往清新的树林深处吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(有小鸟叽喳鸣叫的，清新、美丽的树林……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(想去旅行了……既然如此，就去个环境舒适景色优美的地方吧……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(可世界正在濒临灭亡啊……？不行……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……(等所有的问题都解决之后……再以平和的心情展开一场冒险吧？为了能实现这个愿望，我必须更加努力才行。我绝对不能眼睁睁看着世界走向灭亡……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(简单收拾了一下位置后躺在地上。旁边有一块红彤彤的熔岩，感觉很奇怪……不过却很温暖……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(好温暖啊……就像热乎乎的火炕一样……巨石碑的周围为什么这么温暖呢……也是，那边还有个温泉呢……温泉虽好……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(可如果在那里洗温泉浴的话，一定会成为怪物们口中的美食吧？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（哦哦~好久没这么舒服地躺过了，感觉身体快要融化了一样~</FONT><br><FONT color=#662500>而单纯地为了休息而躺下更是不知过去多久了~之前那次还是为了跟人讨价还价~）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(好困啊……呼噜……呼噜……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "\n你这个小毛孩，在干什么！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃啊啊啊？！贝思柯德？！？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃啊……我是在做梦吗……现在居然在梦里也被人喊成小毛孩……</FONT><FONT color=#662500>(闷闷不乐)</FONT><br><FONT color=#662500>居然在梦里也会跑来把我叫醒，真是太过分了！就算叫醒人家，也拜托温柔点行不行……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……</FONT><br>\n<FONT color=#662500>哎呀，我在说什么废话呢……那个贝思柯德并不是贝思柯德……</FONT><br>\n<FONT color=#662500>(轻轻地摇着头)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……好吧。怎么才能不被他视作垃圾呢。什么时候，我和他要是能像和他的同伴一样亲密就好了……看来还是不行啊……</FONT><FONT color=#662500>啊哈哈。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(精神集中的瞬间， 脑海中响起了节奏……！</FONT><br>\n<FONT color=#662500>我那令人恐惧的才能爆发啦……！)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>开启吧，创造之门！</FONT><br>\n<FONT color=#662500>阿尔特里亚的保护药膏! 疲劳值！损坏的武器！移动式强化工具箱！移动式制作工具箱！小淑的蜥蜴！猎犬营养食品！蓝鸟！黄鸟们~赐予我~力量吧！！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>呃……！这，这个……！</FONT><br>\n<FONT color=#662500>与节奏一同出现的是一种强烈的邪念！这是为获得合成B级时装，花费了工资的n分之1后，却徒劳一场；被愤怒吞噬后，想要强化武器，结果却将武器弄坏；打开陈旧的潘多拉却只出现了鸟类和铁块后，再次陷入愤怒的制作者的邪念吗……咳咳！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃，呃啊！？我的头……！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……呼呼，好危险……差点像走马灯一样看个遍。</FONT><br>\n<FONT color=#662500>好久没有出现过如此强烈的节奏了。其中竟然蕴含着并不存在于这个世界之物的冤魂气息……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(节奏之路果然是遥远又崎岖啊。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(呼……我还差得远呢。必须继续磨练才行。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这么看来，我好像从没见贝思柯德睡过懒觉……</FONT><br><FONT color=#662500>在我的记忆里，贝思柯德一直都起得很早，他到底要睡多久呢……</FONT><br><FONT color=#662500>嗯……要是能和眼前的这个贝思柯德多亲近些就好了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……应该能在这个熔岩江入口附近见到吧？</FONT><br><FONT color=#662500>很好，走吧。</FONT>",
+      "answer": "",
+      "image": "qw_anuarendelgateway_mono.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，话说回来，我好像已经等很久了……贝思柯德该不会是出什么事了吧？</FONT><br><FONT color=#662500>好吧，不能在这儿干等下去了。还是前往女神之瞳吧。</FONT>",
+      "answer": "",
+      "image": "qw_96.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "\n……<FONT color=#7e12d2>(正在怒视着佩达)</FONT><br>\n ",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "\n……<FONT color=#7e12d2>(虽然正朝贝思柯德站着，但却并没有看向他)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>(现在的气氛不适合出面干涉，还是先在这里观察下情况吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "<FONT color=#7e12d2>(现在的情况不适合跟他对话，还是躲在这里听听他们说什么吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>(现在的情况不适合跟他对话，还是躲在这里听听他们说什么吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(现在的气氛不适合出面干涉，还是先在这里观察下情况吧)</FONT><br>\n <br>\n <br>\n<FONT color=#7e12d2>*完成除在本关卡中所见任务之外的其他所有任务后，可以进行</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "我在这儿没别的事要做了。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……<FONT color=#7e12d2>(眉头紧锁，面带怒气)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "ndnpc_Velskud_9454_qu_04.ogg}<br>……你跑来这里干什么！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我见你久久没来，所以有些担心。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "ndnpc_Velskud_9454_qu_05.ogg}<br>少废话！谁要你操心。现在不是你插手的时候，蠢货！行动之前先掂掂自己的斤两！",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "差点被女神之恶梦吞噬，也没能让你的头脑变得灵光吗？没有堕落算是个奇迹，<br>难道你还分不清你的生命应该用在什么地方吗?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>(现在已经没必要躲起来听了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我只是因为担心你才来的！没必要听你说那些。<br>不过既然见到了，还是应该听听是怎么回事的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "看来你记性还真不好，我之前明明对你说过。你就这么想对别人的事刨根问底吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>从现在起，他不是我们共同要对付的人吗？<br>我只是觉得一起并肩作战的同伴应该了解情况……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我是你这家伙的同伴？同伴可不是随便说的。你以为目的相同就可以称为同伴了吗！<FONT color=#7e12d2>(贝思柯德好像生气了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可是……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>(贝思柯德深吸了口气，回答道)</FONT>看来愚昧的你已经因为好奇心影响了正常的思考，那我就告诉你吧。<br>佩达是我从前侍奉过的主人……就是那个有着滑稽的征服王之称的人。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(啊，原来你之前说过的主人就是佩达啊)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "由于他是我们家族世代侍奉的人，所以我也就毫无二心地誓死效忠于他，按照他的指示行动。现在回想起来，那时的我就像玩偶一样。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "在他的命令下，卡拉翰把我当成了试验品，就在我的身体要被折腾得残破不堪的时候，我终于醒悟，原来我一直怀有的忠心是那么的盲目而愚蠢。之后，我便艰难地逃了出去。是身为主人的他先背叛了我。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "不过现在，我们之间的主仆关系已经完全结束了。丝毫不必在意。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那么之前你企图得到黑龙的力量，也是为了向佩达报仇吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……之前的确是为了那个目的。可能是我在妨碍这个该死的龙的使命时，产生的那种感情……可现在他就站在我面前，从前的那种感情就又浮现出来。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我无法原谅他。一定要让他付出应有的代价。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……当然不可能轻易原谅……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你那无聊的好奇心得到满足了吗？现在，既然巨石碑之门的结界已经被解开，我们就前往那里吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真的吗？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……不管怎样，巨石碑之门的结界好像是银龙设下的。我在巨石碑之门附近感受到了银龙阿尔杰塔的气息。现在，应该可以接近巨石碑之门了。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "ndnpc_Velskud_9454_qu_06.ogg}<br>现在过去应该能见到他们了。这气息很微弱，有点令人担心啊。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "快点，是<FONT color=#a82424>祈祷之心</FONT>。",
+      "answer": "",
+      "image": "qw_97.png"
+    },
+    {
+      "question": "任务完成",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是！<br>(这次应该可以见到真正的阿尔杰塔了，阿尔杰塔，求求你一定要平安无事啊)</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    }
+  ]
+}

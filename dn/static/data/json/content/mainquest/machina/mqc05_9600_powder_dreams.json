@@ -1,0 +1,193 @@
+{
+  "qkname": "梦粉",
+  "data": [
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "虽然我收到报告说，看到金龙和你说了什么，不过看来不是他让你进去巢穴吗？你还没能取得杰兰特足够的信任，这下事情可就难办了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没错。现在怎么办呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "费尽力气救出的先知陷入了沉睡，即使有唤醒的方法，我们也进不去巢穴，没办法进行尝试……虽然我也没指望能和龙顺利地交流，不过变成这样也真是难办呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>能唤醒先知？主教大人吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "不试试怎么知道？但是没办法把话传给杰兰特是个大问题。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（难道我之前就应该说我能进入巢穴？？不不。我来试着解决吧）<br>那我要怎么做呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "嗯，你先回去吧。你的师父是叫<FONT color=#a82424>小龙</FONT>吧？<br>要是我找到能传话给杰兰特的方法的话，我再通过他告诉你吧。 ",
+      "answer": "",
+      "image": "qn_npc_shaolong.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（先答应下来，去找师父商量一下吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_shaolong.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "我听说了金龙出现后救出了先知的事儿。你功高劳苦的传闻在整个村子里都传遍了，你怎么不先把这个消息告诉你师父我，现在才来啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我去找主教了。</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "什么！？你还在和那种坏心肠的家伙来往吗？你还有事情要找那些利用兽人的龙之追随者还是什么的家伙吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是那样……<br>（转述了为了进入王城而向主教说谎的事，以及先知的情况）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "哦哦！你终于作为我的弟子回归了，真高兴啊。先知被那个金龙保护着，真是太好了。你去王城地下唤醒先知不就行了嘛。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>唤醒不了啊。 </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "昂！我可不想用那个坏心肠的主教的方法……<FONT color=#7e12d2>（小龙眉头紧皱，思考了好一会，突然像是想到什么，兴奋地说道）</FONT><br>我想起来了，魔法师们说过能进到别人的梦还是读别人的梦什么的。",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "王城里的宫廷魔法师虽然能力是最强的，不过还是问问斯泰拉大人能不能找到唤醒先知的办法吧。",
+      "answer": "",
+      "image": "qn_npc_soceressstella.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "总之，找到把少女从沉睡中唤醒的方法是最重要的。你去找斯泰拉大人吧。",
+      "answer": "",
+      "image": "qn_npc_soceressstella.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "我的弟子能够进入金龙建造的巢穴这件事，我真是太想到处炫耀一下啊！但是不能传出去，我会忍住的。昂~~<br><FONT color=#7e12d2>（小龙好像很高兴。去找高级魔法师斯泰拉吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_soceressstella.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "哎呦，我已经听过关于你的传闻了。<br>你这次居然也做成了件大事啊？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>先别管那个，您知道唤醒沉睡中少女的方法吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "嗯？你是说在港口的那个沉睡的少女吗？ ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不。不是那个……<br>（简要说明了情况）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "这个嘛，虽然总要知道是什么原因，才能找到唤醒少女的办法。<br>不过这下就要展示一下佩奥里斯塔的惊人能力了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>您有办法吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "那当然。但是我需要一些材料。因为不是经常用的材料，你去找一下吧。 <br>去<FONT color=#a82424>孤岛中心</FONT>找到<FONT color=#a82424>梦幻草</FONT>吧",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "因为需要在魔物的肚子里发芽的梦幻草，你得去<FONT color=#a82424>孤岛中心</FONT>消灭一些很强的魔物才行。",
+      "answer": "",
+      "image": "qw_33.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "你得去<FONT color=#a82424>孤岛中心</FONT>找到<FONT color=#a82424>梦幻草</FONT>，我才能找到唤醒少女的方法。",
+      "image": "qw_33.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "你果然厉害。这么多量的话，就算做了梦粉……也还剩这么多呢。应该给卡拉安大人也送一点。<br><FONT color=#7e12d2>（高级魔法师斯泰拉露出了满意的微笑）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>总之，现在还要做什么吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "你为什么那么急呢？沉睡的人又不会跑到哪里去。<br>现在要把这个梦幻草变成梦粉了。不过你知道什么是梦粉吗？",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "看来是不知道啊。我教给你，听好了。这个是能够进入沉睡之人梦中的魔法粉末。<br>嗯，你要唤醒的人也可能是兽人……不过基本上对所有种族都有效，所以不用担心。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真厉害。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "一般来说，一直沉睡的话，是精神上的问题，所以直接进入梦里唤醒是最快也是最容易的方法。<br>虽然不能经常用……",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "这可是我特地做的，你要感到荣幸才行。<br><FONT color=#7e12d2>（斯泰拉把调味料放入梦幻草里，立马就有香味蔓延了出来）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "味道闻起来是不是很好吃？但是这可不能吃。<br>现在你把这撒到你要唤醒的人身上，就能进入她的梦里了。拿去吧。",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,495 @@
+{
+  "qkname": "努力的人们",
+  "data": [
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "<FONT color=#7e12d2>（皱着眉头认真思考着）</FONT><br>……",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "怎么会有这种事……这，真的是特雷西亚吗……可是……",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "……哎呀！不好意思，<FONT color=#387206>{user_nick}</FONT>。我刚才在想事情……你有什么事情吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是关于黑龙之战的事情。我想知道六大英雄见面之后是怎样战斗的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "啊，黑龙之战的时候啊……是怎么战斗的……嗯。<br>……这件事，有人比我更了解。最近还经常看到她……她应该还在这附近。<br><FONT color=#387206>{user_nick}</FONT>，你也认识她。莉亚纳会告诉你更多事情的。",
+      "answer": "",
+      "image": "qn_npc_elf_riana.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "是的。虽然遭到驱逐，但长老很看重她的力量，甚至想把她再召回来……她就是这么强大而有智慧的精灵。黑龙之战的时候，她是纳尔希亚大人的副官兼谋士。甚至，遭到驱逐后还接到了让她再回来的请求……<FONT color=#7e12d2>（伊西莉安的脸色黯淡下去了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "但是，帕拉特雷西亚……以后的故事我就不能告诉你了。<br>……据说莉亚纳现在在银色新月修炼场，你去那里问她吧。<br><FONT color=#7e12d2>（伊西莉安的表情很阴郁）</FONT>",
+      "answer": "",
+      "image": "qw_88.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（这里好像没有被毒污染）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "她最近很多时候都在思考，你可能要在旁边稍微等一下。<br><FONT color=#7e12d2>（请和高级弓箭手伊西莉安对话）</FONT>",
+      "answer": "",
+      "image": "qn_npc_archer_ishilien.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（必须和黛月森林入口的艾奥纳一起去见她才行。</FONT><br><FONT color=#662500>先去阿努阿兰德关卡吧。）</FONT>",
+      "answer": "",
+      "image": "qw_anuarendelgateway.png"
+    },
+    {
+      "npc": "艾奥纳待过的地方",
+      "question": "<FONT color=#7e12d2>（没看到艾奥纳，只留下一张小纸条。<br>“来银色新月修炼场吧。我遇到了奇怪的精灵！\"<br>……纸条上这样写着。）</FONT>",
+      "answer": "",
+      "image": "qw_88.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（好像艾奥纳也在银色新月修炼场。前往银色新月修炼场吧）</FONT>",
+      "answer": "",
+      "image": "qw_88.png"
+    },
+    {
+      "npc": "流浪精灵莉亚纳",
+      "question": "ndnpc_Riana_9390_qu_01.ogg}<br>嗯，真有趣。竟然是混沌龙！谢谢你告诉我那么多。说不定研究会有进展呢。哈哈，真没想到，我寻找了几百年的答案，竟然就在身边。",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……能帮上忙我真开心。那个，你是杰兰特的朋友吧？也许你经常和他见面吧，你身上也有杰兰特的味道……啊，<FONT color=#387206>{user_nick}</FONT>来了！",
+      "answer": ""
+    },
+    {
+      "npc": "流浪精灵莉亚纳",
+      "question": "哦，<FONT color=#387206>{user_nick}</FONT>。我刚才已经听说了大概的实情。你想和这个龙一起听有关黑龙之战的事情吧？真稀奇。那么久之前的事情，我还以为大家都想渐渐地把它塑造成传说，并把真相忘掉呢。",
+      "answer": ""
+    },
+    {
+      "npc": "流浪精灵莉亚纳",
+      "question": "哈哈哈！传说就是传说，并不是事实，而是流传的故事。<br>我以为不知不觉所有人都不再想从现实中醒来了。就像小说之类的东西一样。<br>但是……所谓的传说，可能也是真实的故事之一？你身边，或许也有传说。 ",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "传说不是指过去的事情吗……？？？？？",
+      "answer": ""
+    },
+    {
+      "npc": "流浪精灵莉亚纳",
+      "question": "……哎……这话对从太古之初活到现在的龙而言太难了吧。那么，我给你们讲什么呢？<br>嗯……<FONT color=#7e12d2>（莉亚纳暂时闭上眼睛，陷入了思考）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9394_qu_01.ogg}<br>散发着杰兰特味道的精灵。<br>其实，到处转转，说不能意外遇到很多杰兰特的朋友呢！<br><FONT color=#7e12d2>（艾奥纳的眼中闪着期待的光芒）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "流浪精灵莉亚纳",
+      "question": "<FONT color=#2b2723>是啊</FONT><FONT color=#2b2723>……</FONT><FONT color=#2b2723>这，是很久以前的事情了。</FONT><FONT color=#2b2723>那是战况不佳，所有军队都退到阿努阿兰德的时候发生的事情。</FONT><FONT color=#7e12d2>（莉亚纳开始回忆。和后面出现的发光的地方对话，似乎就能进入莉亚纳的回忆）</FONT><br><FONT color=#7e12d2><br></FONT><FONT color=#7e12d2>*所有队员都是同一步骤时，可以进行任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士巴尔纳",
+      "question": "ndnpc_Barnak_9394_qu_01.ogg}<br>大事不妙，现在的情况非常不好。那些该死的魔物们！竟然藏着这么可怕的毒……",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9394_qu_01.ogg}<br>……那是黑龙的血。恐怕魔物们也被污染了，所以也带有了那种血。<br>没想到黑龙的血竟然会造成这么严重的影响。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手内尔文",
+      "question": "ndnpc_Nerwin_9394_qu_01.ogg}<br>现在很多士兵们都因为污染而痛苦不堪。而且，不被血溅并要继续战斗更是难上加难……只要我们都拿着武器战斗……<FONT color=#7e12d2>（内尔文含糊地说着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "近卫骑士贝思柯德",
+      "question": "ndnpc_Velskud_9394_qu_01.ogg}<br>必须找到办法。这样下去的话，兵力损耗太严重了。",
+      "answer": ""
+    },
+    {
+      "npc": "战士巴尔纳",
+      "question": "ndnpc_Barnak_9394_qu_02.ogg}<br>切！直接把它们痛打一顿不行吗？",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手内尔文",
+      "question": "ndnpc_Nerwin_9394_qu_02.ogg}<br>在这种情况，什么战术都没用……派出去过一次的士兵就不能再用了……<br>而且，一次决胜负的鲁莽方法，也不能保证胜利。我们现在连龙都没有见到。",
+      "answer": ""
+    },
+    {
+      "npc": "战士巴尔纳",
+      "question": "ndnpc_Barnak_9394_qu_03.ogg}<br>那么该怎么办呢！什么办法都不行！真是的，要是早知道的话……",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9394_qu_02.ogg}<br>……找到解毒方法就行了。我决定在这片土地上逗留，也是为了在精灵的美丽土地上获得净化的力量。",
+      "answer": ""
+    },
+    {
+      "npc": "战士巴尔纳",
+      "question": "ndnpc_Barnak_9394_qu_04.ogg}<br>研究？说得轻巧。那可是古代人创造的龙，那种龙的毒该怎么……要到猴年马月才能找到方法，才能治疗啊？",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9394_qu_03.ogg}<br>……但是，我们不能放弃胜利的可能性。就算要多花一些时间，也只能承受。如果我们放弃中毒的人，那太对不起和我们并肩作战的人类了。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师特拉玛依",
+      "question": "ndnpc_Terramai_9394_qu_01.ogg}<br>我也是这么想的。而且，来到这里之后，士兵们的状况好转了很多，这也是事实。我们神殿骑士团也正竭尽全力。 ",
+      "answer": ""
+    },
+    {
+      "npc": "近卫骑士贝思柯德",
+      "question": "ndnpc_Velskud_9394_qu_02.ogg}<br>……你没有带兵打仗过吗？持久战比闪电战更消耗精力。看到负伤者越来越多，士气也会下落，不能不考虑到这一点啊。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9394_qu_04.ogg}<br>士气，由我们来鼓舞就行了。我们一定要赢。我们怀抱着这样的信念行动。我们必须让他们在牺牲的瞬间也坚信一定能胜利。这是我们唯一能为他们做的……事情。",
+      "answer": ""
+    },
+    {
+      "npc": "近卫骑士贝思柯德",
+      "question": "ndnpc_Velskud_9394_qu_03.ogg}<br>我们为了寻找解毒方法而拖延时间。但是，那些可恶的家伙们是不会等我们的。你有什么别的战术吗？杰兰特。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9394_qu_05.ogg}<br>内尔文，我想借助精灵的智慧。黑龙不仅仅是人类，而是所有生命体的敌人……如果有精灵的智慧帮忙，一定能加快研究的进展。我希望特拉玛依暂时去前线，专心治疗受伤的士兵。另外，卡拉秋……",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9394_qu_06.ogg}<br>我们与怪物相比更优越的东西，就是凝聚着人类智慧的魔法。你能用魔法干扰它们吗？……我们必须表现出已经找到了<FONT color=#a82424>[解毒方法]</FONT>的样子。那么，敌人们便会动摇的。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师卡拉秋",
+      "question": "ndnpc_Karakule_9394_qu_01.ogg}<br>……哇！很不错呢！怪物们一定想不到这么棒的战术。<br><FONT color=#7e12d2>（卡拉秋点了点头好像在表示赞同）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师特拉玛依",
+      "question": "ndnpc_Terramai_9394_qu_02.ogg}<br>装作已经获得想要的东西的样子……不错嘛。",
+      "answer": ""
+    },
+    {
+      "npc": "近卫骑士贝思柯德",
+      "question": "ndnpc_Velskud_9394_qu_04.ogg}<br>哦，用很难估测兵力的魔法来掩饰兵力的战斗力吗……但是，这样的战术一旦被发现就完了。到时候敌人一定会发动总攻。你想过后果吗？",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9394_qu_07.ogg}<br>……这个啊。<FONT color=#7e12d2>（杰兰特露出凝重的表情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "近卫骑士贝思柯德",
+      "question": "ndnpc_Velskud_9394_qu_05.ogg}<br>……我明白了。要不要先试一次呢……<FONT color=#7e12d2>（贝思柯德举起剑）</FONT>消耗最少的兵力，尽量拖延时间……说起来容易，但是，欺骗敌人可能比击倒敌人更难。好好想想吧，杰兰特。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9394_qu_08.ogg}<br>当然。其他人有什么想法吗？",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手内尔文",
+      "question": "ndnpc_Nerwin_9394_qu_03.ogg}<br>我同意杰兰特的意见。我的谋士莉亚纳和莉亚纳的同伴们对古代药品非常了解。如果有她来主导研究的话，一定能加快研究的进度。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师卡拉秋",
+      "question": "ndnpc_Karakule_9394_qu_02.ogg}<br>我也觉得这个办法不错！终于到了魔法师大显身手的时候啦。哈哈哈！<br>敬请期待~",
+      "answer": ""
+    },
+    {
+      "npc": "战士巴尔纳",
+      "question": "ndnpc_Barnak_9394_qu_05.ogg}<br>拖延时间吗……虽然不能保证，但不管怎样试试看吧。说不定是个好办法呢，杰兰特。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师特拉玛依",
+      "question": "ndnpc_Terramai_9394_qu_03.ogg}<br>……愿女神的庇护与大家同在。<br><br><FONT color=#7e12d2>（特拉玛依的话说完，大家的气氛犹如就要生离死别了一般）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "流浪精灵莉亚纳",
+      "question": "……故事很精彩吧？但是，龙会不会比较想知道龙同伴的故事呢？你问问这只龙吧。问他想不想听其他龙的故事。<FONT color=#7e12d2>（如果想听下面的故事，请和艾奥纳对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "<FONT color=#7e12d2>（悄悄看着自己披风周围的小纸片。莫非……是作弊纸？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士巴尔纳",
+      "question": "<FONT color=#7e12d2>（一直凝视着卡拉秋，但卡拉秋只望着杰兰特）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师特拉玛依",
+      "question": "<FONT color=#7e12d2>（抚摸着自己的魔杖，不知道是不是因为心情的原因，感觉这支魔杖看起来比其他普通的魔杖要重好几倍）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师卡拉秋",
+      "question": "<FONT color=#7e12d2>（一直望着杰兰特。但杰兰特好像根本没有发现）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手内尔文",
+      "question": "<FONT color=#7e12d2>（静静地站着。感觉很有风度。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "近卫骑士贝思柯德",
+      "question": "<FONT color=#7e12d2>（一脸不爽地看着杰兰特的方向）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9394_qu_02.ogg}<br>但是，龙的故事是什么故事呢？杰兰特的故事吗？ <br><br><FONT color=#7e12d2>（如果继续进行任务，则不能再在现在的日志中听英雄们的故事）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "流浪精灵莉亚纳",
+      "question": "这里的龙除了杰兰特还有谁？当然是杰兰特的故事啦。<br>这两个家伙，其他家伙们都回到原位后，他们还剩下很多话要说，所以只有他们两个继续交谈。",
+      "answer": ""
+    },
+    {
+      "npc": "流浪精灵莉亚纳",
+      "question": "ndnpc_Riana_9390_qu_03.ogg}<br>碰到我莉亚纳，<FONT color=#387206>{user_nick}</FONT>你真是撞了大运。哈哈，这可是任何书里都没有记载的内容哦！<br><br><FONT color=#7e12d2>*如果想听剩下的故事，请和发光的地方对话。</FONT><FONT color=#7e12d2><br></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9394_qu_09.ogg}<br>贝思柯德，你还有别的话要说？真不像你的风格。是什么事情呢？",
+      "answer": ""
+    },
+    {
+      "npc": "近卫骑士贝思柯德",
+      "question": "ndnpc_Velskud_9394_qu_06.ogg}<br>刚才大家都赞成你的意见。我也不认为你的战术有错，但是……",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9394_qu_10.ogg}<br>你想说什么？",
+      "answer": ""
+    },
+    {
+      "npc": "近卫骑士贝思柯德",
+      "question": "ndnpc_Velskud_9394_qu_07.ogg}<br>你太爱惜部下了。将领必须冷酷。队长的任务是把胜利握在手中，担心部下的性命是次要的。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9394_qu_11.ogg}<br>我……",
+      "answer": ""
+    },
+    {
+      "npc": "近卫骑士贝思柯德",
+      "question": "ndnpc_Velskud_9394_qu_08.ogg}<br>我明白。你并不适合带领这样的军队……一切都结束后，恐怕会有被权力蒙了心的怪物们盯上你。结束的时候，我会去你需要的地方帮你的。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9394_qu_12.ogg}<br>不，没关系的。我的事情，我会看着办的。",
+      "answer": ""
+    },
+    {
+      "npc": "近卫骑士贝思柯德",
+      "question": "ndnpc_Velskud_9394_qu_09.ogg}<br>你有信心光用嘴来战胜那些难缠的家伙们吗？我指的是那些被自己的地位蒙蔽了双眼的疯子们所执着的、丑恶而扭曲的、没有胜者的战斗。你虽然是人类……但你太不了解人心了。对那些家伙而言，你就是砧板上的鱼肉。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "<FONT color=#7e12d2>（杰兰特的表情变得凝重了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "近卫骑士贝思柯德",
+      "question": "ndnpc_Velskud_9394_qu_10.ogg}<br>凭我的力量，把你救出来不成问题。也会救出你的同伴，那个红帽子的姑娘。<br>她是叫……阿尔杰塔吧。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9394_qu_13.ogg}<br>你为什么要这么帮我？",
+      "answer": ""
+    },
+    {
+      "npc": "近卫骑士贝思柯德",
+      "question": "ndnpc_Velskud_9394_qu_11.ogg}<br>你……",
+      "answer": ""
+    },
+    {
+      "npc": "近卫骑士贝思柯德",
+      "question": "ndnpc_Velskud_9394_qu_12.ogg}<br>真的是，因为我很久没有遇到你这么好的……同伴了。<br><FONT color=#7e12d2>（贝思柯德露出苦涩的微笑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "<FONT color=#7e12d2>（读不出杰兰特的表情……听不到更多的对话了）</FONT><br>\n <br><br><FONT color=#7e12d2>（如果继续进行任务，则不能再在现在的日志中听英雄们的故事）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "近卫骑士贝思柯德",
+      "question": "ndnpc_Velskud_9394_qu_13.ogg}<br>……不过，你昨天为什么到我的帐篷来？<br>我的书都被翻得乱七八糟了。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9394_qu_14.ogg}<br>嗯，我去找你的书看。<br>但是，后来我把书都放回原位了。",
+      "answer": ""
+    },
+    {
+      "npc": "近卫骑士贝思柯德",
+      "question": "ndnpc_Velskud_9394_qu_14.ogg}<br>……原位……呼，你这家伙神经是有多粗啊。<br>从书的顺序和样子来看，原来的位置怎么也不可能是那里啊。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9394_qu_15.ogg}<br>我都放在书架上了。",
+      "answer": ""
+    },
+    {
+      "npc": "近卫骑士贝思柯德",
+      "question": "ndnpc_Velskud_9394_qu_15.ogg}<br>我是说，要放到书架上正确的位置啊。<br>连怎么放书都不知道，你们乡下没有书吗？",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9394_qu_16.ogg}<br>我没时间去了解这种事情。我有比这更重要的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "近卫骑士贝思柯德",
+      "question": "ndnpc_Velskud_9394_qu_16.ogg}<br>……连看一本书的时间都没有，你住的村子究竟发生了什么啊？<br><FONT color=#7e12d2>（虽然贝思柯德不耐烦地询问，但杰兰特只是摇头……听不到更多对话了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9394_qu_17.ogg}<br><FONT color=#7e12d2>（把作弊纸从披风上撕下来）</FONT><br>昨天学到的东西，真的很有用呢。人类果然很有头脑。<br>特拉玛依总是教我很有用的东西。",
+      "answer": ""
+    },
+    {
+      "npc": "近卫骑士贝思柯德",
+      "question": "ndnpc_Velskud_9394_qu_17.ogg}<br><FONT color=#7e12d2>（无语地皱了皱眉） </FONT><FONT color=#2b2723>又是特拉玛依？</FONT><FONT color=#7e12d2></FONT>除了治疗之外，这家伙还真没做什么牧师该做的事。虽然牧师教团学校并不都是他这个样子，但如果被女神知道了的话，一定会挨板子的…… ",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9394_qu_18.ogg}<br>女神大人知道了的话，说不定也会很喜欢呢。",
+      "answer": ""
+    },
+    {
+      "npc": "近卫骑士贝思柯德",
+      "question": "ndnpc_Velskud_9394_qu_18.ogg}<br>怎么可能？嗬……这要是被牧师们听到了，挨板子的就是你咯。<br><FONT color=#7e12d2>（贝思柯德笑了起来）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9394_qu_19.ogg}<br>挨板子是什么意思？是女神很喜欢的事情吗？<br><FONT color=#7e12d2>（好像没有理解贝思柯德的话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "近卫骑士贝思柯德",
+      "question": "ndnpc_Velskud_9394_qu_19.ogg}<br>真想知道你究竟是在什么穷乡僻壤长大的。你至少应该了解一下牧师的基本教义吧！<br>……想在世界上生存，除了剑术之外还有很多事情需要了解啊。特别是人。<FONT color=#7e12d2>（贝思柯德露出一丝苦笑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_Geraint_9394_qu_20.ogg}<br>嗯……？知道了，我以后会借书看的。<br><FONT color=#7e12d2>（杰兰特似乎还没有理解……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "流浪精灵莉亚纳",
+      "question": "虽然那些笨蛋们的确很笨，但男人嘛，基本上都是笨蛋。<br>其实，待在那些笨蛋身边的我也是个大笨蛋啊。<br><FONT color=#7e12d2>（莉亚纳苦涩地笑着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "流浪精灵莉亚纳",
+      "question": "……总之，故事就是这样。唉，说起来真令人恼火呢，那些笨蛋们。<br>我的故事讲完了。没有更多要回忆的了。<br>怎么样，小龙，你满意了吗？<br><FONT color=#7e12d2>（请和艾奥纳对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "哦哦，嗯……<br>跟我想象的有点不一样呢。但是真的很精彩。<br>杰兰特真的与人类联手了啊。<br>一点也不像龙。",
+      "answer": ""
+    },
+    {
+      "npc": "流浪精灵莉亚纳",
+      "question": "哈哈，就算是龙，我们的<FONT color=#387206>{user_nick}</FONT>到处打听这件事情，还不是因为这附近出现的红龙吗？但是，现在和过去的情况大不相同，不知道有没有参考的价值。",
+      "answer": ""
+    },
+    {
+      "npc": "流浪精灵莉亚纳",
+      "question": "现在没有了曾是战士重心的佣兵集团，佩奥里斯塔刚换首领没多久，年迈的特拉玛依率领牧师也力不从心，王城正忙着击退魔物，而且，稍微靠谱点的骑士们都去了偏远的地方。",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……<FONT color=#387206>{user_nick}</FONT>！！！！<br><FONT color=#7e12d2>（好像非常吃惊）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "流浪精灵莉亚纳",
+      "question": "什么？哇……哈哈哈哈！太大言不惭了吧！啊哈哈哈哈！真可爱啊。不过，这的确是正确答案。药水当然是两个比一个好。嗯！只要我们的龙也好好听<FONT color=#387206>{user_nick}</FONT>的话，那就不会像过去一样不欢而散了。",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9394_qu_05.ogg}<br>哦，发生了什么事？",
+      "answer": ""
+    },
+    {
+      "npc": "流浪精灵莉亚纳",
+      "question": "啊，你不知道吗？那是黑龙之战最后发生的事情。这件事你最好还是直接去问当事人吧。50年前的英雄特拉玛依现在还留在神圣天堂王城。<FONT color=#7e12d2>（莉亚纳露出诡异的微笑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9394_qu_06.ogg}<br>啊，啊啊，王城？那，那我当然……就不能去了…… <br><FONT color=#7e12d2>（艾奥纳瑟瑟发抖）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "流浪精灵莉亚纳",
+      "question": "咦，为什么？",
+      "answer": ""
+    },
+    {
+      "npc": "流浪精灵莉亚纳",
+      "question": "怎么都这么笨啊。不过，如果不是笨蛋说不定就不会做这种事了。<br>\n呵呵呵，你是笨蛋呢，还是比笨蛋还笨的笨蛋呢？<br><FONT color=#7e12d2>（和艾奥纳对话，即可进行任务）</FONT>",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "qkname": "第一次绝望",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……果然还没建起封印石。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不能在这里耽搁。快点到</FONT><FONT color=#a82424>祈祷之心</FONT><FONT color=#662500>去吧！</FONT><br><br><FONT color=#7e12d2>*组队状态下无法执行该任务。</FONT>",
+      "answer": "",
+      "image": "qw_97.png"
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "父亲……！<br><FONT color=#7e12d2>（请认真听两人的对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "真是不懂事的孩子！<br><FONT color=#7e12d2>（请认真听两人的对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……你别担心，一切都会好的！<br><FONT color=#7e12d2>（请认真听卡汉拉和阿罗诺的对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "谜之少年",
+      "question": "……如果这是你希望的，我愿意听从你的决定，露娜莉娅。<br><FONT color=#7e12d2>（请认真听卡汉拉和阿罗诺的对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……！！！！！",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……谢谢你做出这个决定。<br>那我们一起去<FONT color=#a82424>祈祷之心</FONT>吧。<br><FONT color=#7e12d2>（请前往祈祷之心）</FONT>",
+      "answer": "",
+      "image": "qw_97.png"
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9442_qu_01.ogg}<br>父亲，您快住手啊！您到底知不知道您现在在做什么！",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "ndnpc_Arno_9442_qu_01.ogg}<br>怎么会不知道！我想让这个世界恢复其真正的面貌。这不但是女神赐予我们智慧的原因，也是我们存在的理由！直到接触了黑暗，我才终于领悟了女神的真意啊。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……<FONT color=#7e12d2>（似乎很珍视地看着一旁的少年）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "谜之少年",
+      "question": "……<FONT color=#7e12d2>（用不带感情的眼神观望着事态发展）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9442_qu_02.ogg}<br>那个女人是谜之大陆的维斯提内的碎片！父亲，求求您快清醒过来。毁灭世界绝不可能是女神的意思！您忘记我们和女神共同做过的那些梦中的情景了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9442_qu_03.ogg}<br>那梦境中哪有关于灭亡的内容？梦中的阿尔特里亚哪有那些悲惨的情景！梦中的阿尔特里亚，是犹如众神世界一样美好的家园啊。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9442_qu_04.ogg}<br>梦境中开始显现出痛苦的迹象，是在阿尔泰亚女神喝下剧毒，古代龙死亡之后才发生的。在此之前，女神的梦一直是很美好的！如果连我们也被那剧毒所污染，扭曲了从前的记忆，我们有什么脸面自称是女神的创造物啊！",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "ndnpc_Arno_9442_qu_02.ogg}<br>我亲爱的女儿卡汉拉，梦终归只是梦！既然连女神的梦也开始渐渐被黑暗所浸染，那不正意味着最终一切都将归于黑暗！我们作为梦中的生灵，理应遵循这一发展趋势！",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9442_qu_05.ogg}<br>我们是有自主意志的！我们的命运掌握在自己手中，父亲！我们铭记着女神的旨意！如果女神陷入了痛苦，我们应该纠正这一切。相信女神当初也是这样想的，所以才创造了我们，以及巨龙！",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "ndnpc_Arno_9442_qu_03.ogg}<br>真是不懂事的孩子……！<br>同胞们，把他们拖出去！",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "我们不能让步！大家一起挡住他们……啊？！",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9442_qu_01.ogg}<br>……你，你怎么在这里？没关系，一切照旧。我们只要完成我们的任务就好。<br>快过来，我亲爱的人。我们快把事情了结，然后回到我们该待的地方去吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，等等！开启那扇门的话……！身边的他，他会！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……想碍事的话，我绝不原谅。你快帮我灭了他。<br>我去打开巨石碑之门。",
+      "answer": ""
+    },
+    {
+      "npc": "谜之少年",
+      "question": "……露娜莉娅，如你所愿……",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "阿尔杰塔……我们……<br><FONT color=#7e12d2>（请认真听三人的对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "ndnpc_Arno_9442_qu_04.ogg}<br>阿尔杰塔……我……<br><FONT color=#7e12d2>（请认真听三人的对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "这是怎么回事……你们快给我从实招来！！<br><FONT color=#7e12d2>（请认真听三人的对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9442_qu_01.ogg}<br>这是怎么回事……！巨石碑之门居然打开了！你们做了什么！！！",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9442_qu_06.ogg}<br>……银龙，父亲现在几乎不记得他堕落时发生的事，请你别为难他！",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "ndnpc_Arno_9442_qu_05.ogg}<br>阿尔杰塔……我……",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9442_qu_02.ogg}<br>不记得？你觉得我会相信你这种鬼话吗？！就算是堕落了也该有点分寸吧！这，这事……你们是怎么知道这些事的？！你们平时到底在搞些什么研究？你们这么做有什么企图！",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9442_qu_03.ogg}<br>你们，看来你们是打定主意要毁灭这个世界了！！！",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>！？怎么回事……这是？<br><FONT color=#7e12d2>（请去和佩达对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>佩达？！梅里恩戴尔？！？！怎么回事？我刚才还在听阿罗诺和阿尔杰塔……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "梅里恩戴尔，你带来的就是这个家伙吗？<br>他不过是个被巨石碑的旋流卷入，无法自已的可怜虫！<br>哼，你把你刚说的那些无聊的真相也对这家伙说说吧！",
+      "answer": ""
+    },
+    {
+      "npc": "梅里恩戴尔",
+      "question": "佩达……",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "居然因为这点小事而恐惧，还隐瞒真相，这不像你的作风，梅里恩戴尔。<br>\n我没想到你是这样一个胆小鬼。哼，你和这家伙好好聊聊你的绝望，和所谓的真相吧！<br>\n<FONT color=#7e12d2>（佩达说完，就走掉了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9442_qu_01.ogg}<br>你没事吧……？你真的被巨石碑的力量卷入，穿越时间了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好像是的。对了，发生什么事了？你全部告诉他了？<br>关于古代人，还有封印石的事……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "啊，你已经知道这些事了。可是……唉，也许我也该只告诉他这么多。因为他是个强大的人类，我本以为即使他知道这世界是建立在人类的痛苦之上的，他也可以忍受；以为哪怕这世界不符合他的理想，他也能扛得住这种打击。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>梅里恩戴尔……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9442_qu_02.ogg}<br>仅仅只是这一事实，就让他如此绝望！看来即使是拥有坚定的信念，人类终究只是人类……唉。<br>真没想到最终是我动摇了他的信念。这一点真的很令我感到悲痛。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>梅里恩戴尔……？</FONT><br>\n<FONT color=#662500>梅里恩戴尔，你到底知道些什么真相？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "我也有问题想问你。你看见了什么？来这里之前你目睹过什么？你突然就消失在黑暗中，然后又重新出现在这里。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9442_qu_03.ogg}<br>我知道，你在那短暂的时间内经历了许多伤痛，还带回了很多答案。<br>你在哪里看见了什么，因什么而感到痛苦呢……？请跟我说说吧。<br>对现在的我来说，只要是在巨石碑中发生的事情，我都有必要知道。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……我一直在过去的时间里游荡。</FONT><br><FONT color=#662500>从古代，到现代……</FONT><FONT color=#662500>（讲述这期间目睹的所有事情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "……！！<FONT color=#7e12d2>（梅里恩戴尔惊讶地看着我）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……我曾经抱有期待。想着我既然知道未来的情况，是否可以努力改变过去，但事实是不行！我什么也做不了，只能被迫在时间中穿梭……卡汉拉说这是我的命运，可我的命运怎么会是只能默默观望已经过去的悲剧……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>而且，我所在的现实世界现在也面临着危险！阿尔杰塔的情况还不知道怎么样了，我却像这样陷在过去无法抽身……！我为什么要跑到这巨石碑来？我真的……不明白。连现在该做什么也不知道啊……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "<FONT color=#7e12d2>（梅里恩戴尔伸出双手紧紧握住我的手）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>梅里恩戴尔……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9442_qu_04.ogg}<br>帕拉特雷西亚。世间的一切事情都是顺应特雷西亚而发展流动的，你所目睹的一切，也是由于被你看见，才具有了意义。仁慈的人啊，希望你不要因为无法改变命运而感到悲伤。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9442_qu_05.ogg}<br>即使是悲伤痛苦的命运，也只是为之后接连而至的命运做个铺垫。<br>请记住你看见的一切。无论是堕落的人，你试图救赎的人，还是珍惜你，或厌恶你的人，请牢牢记住他们。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9442_qu_06.ogg}<br>……还有，既然你已经知晓了过去发生的事情，我想我该把真相告诉你。<br>接下来我将把我所知道的所有真相，包括我只告诉过佩达的真相，原原本本地说给你听……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真相……？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务完成",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "……是的。请你到<FONT color=#a82424>女神之瞳</FONT>来吧。我将在女神的注视下，把我知道的真相全部告诉你。",
+      "answer": "",
+      "image": "qw_96.png"
+    }
+  ]
+}

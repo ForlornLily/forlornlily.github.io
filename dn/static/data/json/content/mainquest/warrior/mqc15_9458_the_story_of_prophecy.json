@@ -1,0 +1,465 @@
+{
+  "qkname": "讲述的情况",
+  "data": [
+    {
+      "npc": "精灵长老",
+      "question": "……<FONT color=#7e12d2>(好像很疲惫地扶着额头)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "……哈。说真的，我身为长老如此之久，从来没想过会侍奉这样一个王。<FONT color=#7e12d2>(长老好像很疲惫)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>您一定很辛苦。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_ElfElder_9458_qu_01.ogg}<br>……说起来确实挺辛苦的。虽然如今的精灵王不算个很愚昧的暴君，但他办事时也不太肯动脑筋。比起以威严服人，他还是比较感情用事。而且他一点不把自己过去犯下的罪当回事，遇事先从一己私情出发。这样的王是否能正确地统治，我真的说不清啊。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_ElfElder_9458_qu_02.ogg}<br>……虽然我也有心智不够成熟，一时控制不住自己感情的时候，但我一直尽力压抑着心里的情绪，认真辅佐他。可每当这时，陛下他就会再次让我想起从前的事，我实在不明白他到底想怎么样。如果他的特雷西亚真的坐上王位，那么这世界是出于什么想法才赋予他这样的宿命呢。<FONT color=#7e12d2>(长老的表情错综复杂)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_ElfElder_9458_qu_03.ogg}<br>纳尔希亚陛下在位时，我几乎从没想过为王者该具有什么样的品格。然而现在我却明显地领悟到，她拥有多么值得敬佩的品格。<FONT color=#7e12d2>(精灵长老苦笑着)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "而且今后，<FONT color=#387206>{user_nick}</FONT>你要走的路……我想可能会有三个选择。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>三个选择？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_ElfElder_9458_qu_04.ogg}<br>嗯。第一个选择，就是刚才我们提到的逃跑。这样做你可能会获得自由，但也许会遭到王城的追击，要冒一定的风险。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_ElfElder_9458_qu_05.ogg}<br>第二个，就是不要把情况告诉人类，而是接下新任务。<br>这样做体现了我们的独断专行，但从某种程度上来说，有个正当的名分。你用不着逃跑。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_ElfElder_9458_qu_06.ogg}<br>还有第三个……就是相信人类会做出正确的判断，将一切结果和事实都禀告王城方面。<br>这样做会带来什么结果我不好说。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_ElfElder_9458_qu_07.ogg}<br>……我们不能帮你做出选择。不过请你相信，你做出什么样的选择，这里的精灵都会支持<FONT color=#387206>{user_nick}</FONT>你的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……谢谢。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(可是不论怎么选择都很困难。第一个会被追击，第二个虽然乍一看最好，可是在共同协力的情况下，精灵们专断地做出判断，可能会比较麻烦吧？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(第三个……虽然是最为正直的选择，可一直以来听到的都是消极的说法……贝思柯德那么说，尤万西贝尔也那么说。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(如何是好呢……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "……嗯，你不必站在行动后失去信任的角度考虑这个问题，不过……<br>\n<FONT color=#7e12d2>(有些不以为然地看着精灵长老……到外面和精灵长老对话吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "\n你要出去吗。<br>\n<FONT color=#7e12d2>(请和生命之树外面的精灵长老对话)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "<FONT color=#7e12d2>(精灵长老微笑着，好像在让我放心)</FONT>我很清楚，要做出选择对你来说很困难。既然难以马上做出决定，就先离开一会儿让头脑冷静下来吧？因为希特里德正在焦急地等着<FONT color=#387206>{user_nick}</FONT>你呢。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵希特里德",
+      "question": "ndnpc_Sitredel_9458_qu_01.ogg}<br>啊，我正在等你，<FONT color=#387206>{user_nick}</FONT>！！哈哈，你能平安无事真是太好了！我每天都在向生命之树和女神为你祈祷~祈祷<FONT color=#387206>{user_nick}</FONT>你千万不能在那危险的地方发生任何意外，哈哈。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵希特里德",
+      "question": "ndnpc_Sitredel_9458_qu_02.ogg}<br>嘿嘿嘿……<FONT color=#7e12d2>(希特里德的脸红了起来)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵希特里德",
+      "question": "ndnpc_Sitredel_9458_qu_03.ogg}<br>我也很努力地战斗了哦。那些龙之追随者真的很荒唐，他们竟然妄想窃取这么伟大的遗物？哎呦，能被我们回收回来真是太好了。<FONT color=#7e12d2>(希特里德举起一块小石板)</FONT>等事态平息后，我们必须对遗物进行一次彻底的整理。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>额，为什么和古代人的东西如此相像呢。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵希特里德",
+      "question": "是的，没错！你果然有眼力。据说这是一种预言书，可上面写着什么却无从得知……也不是古代语，很奇怪。而且好像还破裂了。这到底该如何使用呢……<FONT color=#387206>{user_nick}</FONT>你知道吗？<FONT color=#7e12d2>(希特里德拿出了石板)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……(正在注视着石板，而口袋中却放射出光芒……是之前在抵挡露娜莉娅时使用过的古代碎片)</FONT><br>\n <br>\n <br>\n<FONT color=#7e12d2>*继续进行，将播放过场动画。而进行相同任务之前阶段的队员在场时，则不播放</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>？！？！(石板也随之放射出光芒，同时上面的文字重新排列开来。口袋变得空空如也，古代碎片已经消失了……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵希特里德",
+      "question": "<FONT color=#2b2723>呃！？你还好吗？！</FONT><br>\n<FONT color=#2b2723>别太勉强了！未知的语言本来就是很恐怖的！</FONT><br>\n <br>\n<FONT color=#7e12d2>(重新和希特里德说话后，可进行任务)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "\n希特里德就在我旁边。<br>\n <br>\n<FONT color=#7e12d2>(和精灵警卫兵希特里德对话吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(额，我可以读出这些文字……？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵希特里德",
+      "question": "ndnpc_Sitredel_9458_qu_04.ogg}<br><FONT color=#387206>{user_nick}</FONT>？？<FONT color=#387206>{user_nick}</FONT>，你醒醒~",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊？！(呃……？？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵希特里德",
+      "question": "ndnpc_Sitredel_9458_qu_05.ogg}<br>哦，你没事吧？我看你突然愣愣地盯着石板……难道你在阅读上面的内容？<br><FONT color=#7e12d2>(希特里德的眼里闪着光芒)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哎……额，嗯，不对。好像是读出什么了，可还不太清楚……<br>(是什么呢？明明读出来了啊，记不清了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵希特里德",
+      "question": "原来如此……看来得请莉亚纳帮忙了。她可是古代文字的权威人士。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵希特里德",
+      "question": "ndnpc_Sitredel_9458_qu_06.ogg}<br>那程度简直不是盖的。莉亚纳可了不起了～因为我们总是岔开，所以一次都没正式见过她，不过听说她大概掌握七种古代文字……虽然我没亲眼看到过……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>七种吗……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵希特里德",
+      "question": "ndnpc_Sitredel_9458_qu_07.ogg}<br>啊哈，据说古代人有好几种文字体系呢。大约有十多种，不过这世上没有人全部掌握。那些古代人居然使用十多种不同文字，真是个奇怪的种族。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵希特里德",
+      "question": "啊……这么看来，确有一种观点说古代人掌握着神的文字。所以他们才会有这么多种语言的吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>神的文字！？？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵希特里德",
+      "question": "嗯，说是由于古代人中有很多先知，所以在梦中见到的文字就直接拿来使用了……虽然这些都只是梅里恩戴尔的观点。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？？？？梅里恩戴尔吗？！？</FONT>",
+      "answer": "",
+      "image": "qn_npc_marriendel.png"
+    },
+    {
+      "npc": "精灵警卫兵希特里德",
+      "question": "嗯？<FONT color=#387206>{user_nick}</FONT>，你认识梅里恩戴尔吗？<FONT color=#7e12d2>(希特里德眼睛睁得圆圆的)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>当然认识了！他……闭着眼睛走路，还穿着蓝色的衣服……你说的就是那个精灵中最强的梅里恩戴尔，对吧？</FONT>",
+      "answer": "",
+      "image": "qn_npc_marriendel.png"
+    },
+    {
+      "npc": "精灵警卫兵希特里德",
+      "question": "没错！！哇啊！！原来你认识他，<FONT color=#387206>{user_nick}</FONT>！梅里恩戴尔在研究古代人的领域属于传说级人物！我在阅读他手记上所花费的时间，可谓是我一生中最有价值的时间……<FONT color=#7e12d2>(希特里德的表情有些恍惚)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵希特里德",
+      "question": "尤其是<FONT color=#a82424>[女神的大陆]第3章！-女神的大陆，女神之梦的大陆-</FONT>部分……呃啊啊，读得我完全投入了进去……虽然那只是推测……可我甚至希望能穿越时空回到那里旅行一番。<FONT color=#7e12d2>(希特里德扭摆着身体)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(虽然穿越时空并不是那么美好的事……但也没必要打破希特里德的梦想)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵希特里德",
+      "question": "我小时候……为了读那本书连觉都睡不着……咳嗬嗬嗬呃！咳呃呃，呃啊！我的胃酸！我的胃液顺着食道……！！<FONT color=#7e12d2>(希特里德一边怪叫着，一边紧捂着肚子)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呼，希特里德！胃还痛吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵希特里德",
+      "question": "咳咳，比以前好多了……咳咳！看来我又情不自禁地激动了，嘿嘿嘿。<br>看来必须得尽快恢复健康才行~真希望世界能够和平……所以有朝一日，我也能成为冒险家。而现在，即使离开，这里的一切也不会在我眼里消失的……",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "希特里德，你好些了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵希特里德",
+      "question": "啊，看来我得去做事了。<br>那么我们下次再见吧，<FONT color=#387206>{user_nick}</FONT>！你不是说下次还有任务的嘛！你要利用这段时间充分休息，好好养养精神哦！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……(希特里德看上去很忙……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(可是……我现在依然无法做出决定。先去杰兰特那里看看吧？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你怎么这么晚才来！呆瓜<FONT color=#387206>{user_nick}</FONT>！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(讲述事情的原委)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……那是什么意思？为什么你该怎么做连你自己都决定不了？难道你也有使命？<br><FONT color=#7e12d2>(杰兰特看起来有些不耐烦了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那倒不是……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "还是说，因为那帮家伙太强，你感到害怕了？哼，瞧你吓成那副熊样。别那么明目张胆地表现出你很弱好不好，看着真晦气。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(我真不明白为什么要听这么个小家伙对我无端斥责……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "切，既然那么碍事，我去把他们全清理掉不就行了。神圣天堂是人类的城市吧？直接把那地方毁了算了！我估计三拳两脚就能搞定。<FONT color=#7e12d2>(杰兰特挥舞着手里的剑)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我才不管这么多！守护人类是阿尔杰塔的任务，才不关我的事。我只管消灭挡路的敌人。哼。再说了，人类就跟地鼠似的，不管怎么杀，都还会不断涌现出更多。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(头疼欲裂)呃……不……我来决定就好。你千万不能那么做。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "正好我也觉得挺麻烦的，那你别让我等太久了。你要觉得我碍事的话，就把我留在这里！！<br><FONT color=#7e12d2>(杰兰特不耐烦地收回了剑)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(首先绝对不能把杰兰特一个人留在这里。可是带着他又对自己的决定毫无帮助……如何是好呢。要不，去那里……他原来待过的地方……)<br><br></FONT><FONT color=#7e12d2>(请前往艾奥纳待过的地方)</FONT>",
+      "answer": "",
+      "image": "qn_npc_white_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(艾奥纳消失的地方好像还留有如雪一般松软的艾奥纳的寒气)</FONT>",
+      "answer": "",
+      "image": "qn_npc_white_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(艾奥纳……我们在这里见面的事好像就发生在昨天。可现在怎么就变成这样了呢……</FONT><br><FONT color=#662500>当时明明已经得到了力量，并获得了期待，怎么会变成这样)</FONT>",
+      "answer": "",
+      "image": "qn_npc_white_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(这样还能走到哈夫林去吗？艾奥纳该不会永远都不能复活了吧？我还能遵守约定吗？越想越混乱……过去的记忆总是浮现在脑海，连古代人的过去都已经看过。阿尔杰塔……消失了……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(杰兰特称赞了我。佩达说我愚蠢，梅里恩戴尔让我不要忘记这一切。卡汉拉说她想看看拥有意志的人所创造出的命运，然而，终究还是失败了。我现在该怎么办呢……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(我当然想守护世界，我绝对不会认为佩达是正确的。那么做绝对是错的。就算这个世界是一场梦，可也不能为了新的世界将其毁灭)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……可是，摆在我面前的事情实在太大了，以至于让我感到不真实。我到底是如何来到这里的呢。莫非我被卷入了能决定这个世界命运的战斗中……这种时候，如果换做艾奥纳和杰兰特会怎么做呢？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……如果他们两个在的话，会说些什么呢？他们都是龙，不会说假话，所以一定会很坦率吧。不会因为个人而苦恼，而是实事求是地说。因为他们……都不会说假话……？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……等等……那样的话……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……很好，就这么决定了。去告诉精灵长老吧)<br><br>(请前往精灵长老那里)</FONT>",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "嗯，事情已经变得很复杂了……<br><FONT color=#7e12d2>(请和精灵长老对话)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_ElfElder_9458_qu_08.ogg}<br>你来了。我正在等你。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "ndnpc_Terramai_9458_qu_01.ogg}<br>你来了。我刚听说了所有情况。事情变得很复杂啊。没想到巨石碑之门居然打开了。而且阿尔杰塔还死了……我们现在能平安无事地站在这里真是万幸。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>特拉玛依……？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "ndnpc_Terramai_9458_qu_02.ogg}<br>呵呵，这没什么好惊讶的。经常有人跟我报告。而且现在这附近只有神殿骑士团，用不着担心会隔墙有耳。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "ndnpc_Terramai_9458_qu_03.ogg}<br>别以为只有精灵在支持你，不管你做出什么决定，我一样也会站在你一边。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "ndnpc_Terramai_9458_qu_04.ogg}<br>……如果我们对为了世界而拼命战斗的勇敢冒险家不加称赞，而反加以责问，和从前的人又有什么分别呢……<FONT color=#7e12d2>(特拉玛依的表情有些苦涩)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "……而且，通过这次战斗，我们也获得许多成果，你不用太介怀。既扫除了龙之追随者，还得到了英雄王佩达失踪的确切消息……还有巨石碑之门的开启，这次的事情也许已将牺牲减到了最小。巨石碑没有失控，我们也没有被噩梦所吞噬，这是多么值得庆幸的事啊。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "ndnpc_Terramai_9458_qu_06.ogg}<br>……你还只是位冒险家。别因为没有得到一个完满的结果就灰心失望，该继续向前迈进。这是年轻人的特权，也是冒险家的任务，不是吗？呵呵呵，要是我再年轻十岁肯定也不会放弃的……<FONT color=#7e12d2>(特拉玛依轻轻挥起胳膊。带动空气发出响声)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "<FONT color=#7e12d2>(从特拉玛依身边后退一步)</FONT><br>嗯，你说得很好，牧师的教皇。<FONT color=#387206>{user_nick}</FONT>，如果你已经决定了，就请说出来吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我……(说出自己的决定)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "ndnpc_Terramai_9458_qu_07.ogg}<br>呵呵，原来如此。我就知道你会做出这样的选择。因为你和50年前的杰兰特踏上了一样的道路。不对，你没选择逃避，比起那死板的呆子……呵呵，比他好多了。向宫廷报告的事就交给我吧。我会站在你身边的。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_ElfElder_9458_qu_09.ogg}<br>正如特拉玛依大人所说，必要的话，我也会一同前往。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我们会适当地扰乱……不不，大致收拾一下王城那头的情况，你养养身体再过来吧。阿努阿兰德这里清新的空气会很有助于你恢复健康的。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_ElfElder_9458_qu_10.ogg}<br>真不好意思我们只能为经历了辛苦战斗的<FONT color=#387206>{user_nick}</FONT>你提供这点帮助，有什么需要请随时开口。",
+      "answer": ""
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_ElfElder_9458_qu_11.ogg}<br>帕拉特雷西亚。希望幸运伴随你前进……。<br>愿女神和所有人的庇护与你同在。<br><br><FONT color=#7e12d2>*第12章.</FONT><FONT color=#086171>[银色的希望]</FONT><FONT color=#7e12d2>已经全部完结。敬请期待后面的故事~</FONT>",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "qkname": "为了朋友",
+  "data": [
+    {
+      "npc": "西戴尔",
+      "question": "察提……振作起来……求求你……<br>\n<FONT color=#7e12d2>（西戴尔抱着察提呜咽哭泣）</FONT>",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我正在接受老师的特训。<br>一想到察提，我就想要赶紧变强……我总是不断地失误，被老师训斥……<br>\n<FONT color=#7e12d2>（只能从卡拉秋那里获得并进行任务）</FONT>",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "想要唤醒察提的心，在这之前就必须要先获得<FONT color=#a82424>守护自己的力量</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>守护自己的力量……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "是啊，至少在获得那力量之前，想都不要想去寻找察提的事情！<br><FONT color=#7e12d2>（卡拉秋斩钉截铁地喊着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>强大的力量……是指什么样的力量呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "我连这都要一一教给你吗？<br>所谓力量，不是任何人都能获得的。<br>身上有什么不足之处，你自己去醒悟吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "准备好的话就再来找我。<br><br>※ <FONT color=#7e12d2>只有完成2次转职后，才可进行下一阶段。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "嗯……看起来倒像是挺管用的样子。<br>这样一来，至少怪物不会一脚就将你踢飞了。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我正在接受老师的特训。<br>一想到察提，我就告诉自己必须尽快变强才行……可我总是不断失误，被老师训斥……",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "察提……振作起来……求求你……<br><FONT color=#7e12d2>（西戴尔抱着察提呜咽哭泣）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "那丫头好像在<FONT color=#a82424>龙之追随者据点</FONT>附近徘徊呢。<br>和<FONT color=#a82424>西戴尔</FONT>一起去看看吧。",
+      "answer": "",
+      "image": "qw_54.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "你来了啊，感觉气场好像完全不同了呢……？<br>短短的时间里面，你居然成长了这么多……好帅啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你怎么样，西戴尔？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "这段日子里我也在接受老师的特训。<br>虽然老师看上去还算满意……但是我一直没有感到自己变强了，最重要的是，老师凝望我的眼神总让我感到很愧疚……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡拉秋……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "可能就只是心情的关系吧，嗯。要不然就是因为我太跟不上老师的进度了，总之既然已经达到了预期的成果……还是赶紧去见<FONT color=#a82424>察提</FONT>……吧。",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是啊，抓紧时间吧。察提一定很辛苦了。</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "察提，再稍等等。<br>我……我一定去救你……<br><FONT color=#7e12d2>（西戴尔的目光中透漏着坚定）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "察提……？！求求你……求你睁开眼！<br>是我，是西戴尔！我来救你了……为了来看你……我才来到了这里……求求你……求求你睁开眼睛啊，察提！<br><FONT color=#7e12d2>（西戴尔呜咽着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "<FONT color=#7e12d2>（察提缓缓睁开眼睛）</FONT><br>啊……西，西戴尔……？<br>你来啦……",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "你醒了？察提……<br>到底是怎么回事……？<br>你为什么会倒在这里？",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "卡拉翰……出现了……咳咳咳……<br>他从我这儿……<br>抢走了……宝玉……",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "好了，好了。现在没事了……就会好起来的……<br>看，现在身体不是已经恢复了吗……？<br>我们赶紧回到村里治疗吧……要让身体恢复到像以前一样强大才行啊。",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "<FONT color=#7e12d2>（察提摇着头）</FONT><br>不……那太难了……<br>西戴尔，你知道的……",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "你说什么呢，察提？！<br>你会没事的！现在……现在就走的话……<br><FONT color=#7e12d2>（可能是因为喉咙哽咽，没法继续说下去）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "善良的西戴尔……<br><FONT color=#7e12d2>（察提用她那颤抖的手抚摸着西戴尔的脸颊）</FONT><br>我……对你……太不好了……所以大概是得到了应有的惩罚……",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "<FONT color=#7e12d2>（察提把手里紧攥着的礼物钢笔递给了西戴尔）</FONT><br>这是……为了……送给你……<br>拜托<FONT color=#387206>{user_nick}</FONT>帮我买的……礼物……",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "能够……<br>亲手给你……太好了……<br>……<br><FONT color=#7e12d2>（察提的手无力地垂了下去）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "察……察提……？<br>你，别吓唬我……！<br>睁开眼睛……睁眼啊，求求你……",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我让你睁开眼睛……！<br>我……我也有礼物要给你！<br>为什么……为什么……呜呜呜……<br><FONT color=#7e12d2>（西戴尔抱着察提抽泣着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "呜呜呜呜……<br>察提……察提……<br><FONT color=#7e12d2>（西戴尔继续呜咽着，为了稳定西戴尔的情绪，最好让他一个人单独待一会儿，回到卡拉秋那里吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳咳……察提她……到底怎么回事啊？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（讲述龙之追随者据点发生的事）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "最终……还是这样了啊……咳咳咳咳……<br>那个孩子……最后还是，咳咳咳咳！<br><FONT color=#7e12d2>（卡拉秋咳嗽得愈加严重）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>您还好吗……？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳咳……你，你赶紧……去<FONT color=#a82424>塔玛拉</FONT>那里……药……<br>咳咳咳咳……",
+      "answer": "",
+      "image": "qn_npc_soceresstamara.png"
+    }
+  ]
+}

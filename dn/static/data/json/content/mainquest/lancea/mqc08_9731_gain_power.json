@@ -1,0 +1,85 @@
+{
+  "qkname": "他手上掌控的力量",
+  "data": [
+    {
+      "npc": "西戴尔",
+      "question": "现在剩下的图腾只有一个了。其他遗物已经确认被回收，图腾也几乎都被毁了……<br>卡拉翰就快要成为完整的绿龙了。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "这是最后一次，<br>如果这次还不能阻止他，就会带来更大的牺牲。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#7e12d2>（西戴尔看上去很严肃。）</FONT><br>高级魔法师们已经准备好了。塔玛拉大人也说，就算堵上佩奥里斯塔名誉，我们也要阻止他。<br><FONT color=#387206>{user_nick}</FONT>，这次我们也会一起去的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>现在出发吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "恩，藏着最后一个图腾的地方是<FONT color=#a82424>流浪岛海岸</FONT>。<br>高级魔法师还有我……现在就会出发去那里，希望你也能坚持帮我们到最后，求求你了。",
+      "answer": "",
+      "image": "qw_64.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "……我还没有办法回应老师的期待，<br>我怎么能如此软弱呢？",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我们一定要在流浪岛海岸……阻止<FONT color=#a82424>卡拉翰</FONT>。<br>靠佩奥里斯塔的力量来解决佩奥里斯塔的耻辱。",
+      "answer": "",
+      "image": "qw_64.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "……我还没有办法回应老师的期待，<br>我怎么能如此软弱呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>西戴尔……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#7e12d2>（西戴尔咬着嘴唇，试图忍住眼泪）</FONT><br>生还者已经带着塔玛拉和其他高级魔法师逃离了这里。<br>我在解决好受伤人员的治疗问题后就会跟过去的，你也先回<FONT color=#a82424>棚屋</FONT>吧。",
+      "answer": "",
+      "image": "qw_karakule_house.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "你也看到了，卡拉翰已经销毁了所有的图腾，还获得了所有的遗物。<br>虽然想要将遗物中的力量全都释放出来还需要一定的时间，但这只是力量大小的差异而已，他已经变成了<FONT color=#a82424>绿龙</FONT>，这是不争的事实。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "事已至此，想要消灭卡拉翰，我们就需要开始准备了。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>准备？</FONT>",
+      "answer": ""
+    }
+  ]
+}

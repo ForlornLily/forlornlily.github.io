@@ -1,0 +1,141 @@
+{
+  "qkname": "不愿相信的真相",
+  "data": [
+    {
+      "npc": "小龙",
+      "question": "\n(......)",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "\n兽人团带过来的原住民好像得了和你一样的病。<br>请求他们制作以前卡拉秋说过的药品，应该就能治好村民的病。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡拉秋从很久以前就知道巴奥兽人团吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "这我倒不是很清楚。<br>比起这个，我现在更加担心晕过去的牧师，好像很难唤醒他啊。再这样下去，他的生命就危险了。",
+      "answer": "",
+      "image": "qn_npc_chris.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>如果要唤醒陷入沉睡的人……我之前见过别人使用一种叫做梦粉的东西。<br>你知道制作方法吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "梦粉的制作方法我知道，我在中级阶段学过。但这个牧师并非睡着，而是因为疼痛难忍<FONT color=#a94407>晕过去</FONT>，所以需要别的处方。我估计得使用<FONT color=#a82424>突变荆棘</FONT>才行。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "不过，卡拉安请我速来神圣天堂。<br>因为神殿骑士团的<FONT color=#a82424>教皇</FONT>回来了，所以我必须去问候一声。<br>寻找荆棘的任务能不能拜托你啊？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，不就是挖挖杂草一类的事情嘛。这有何难，包在我身上吧。<br>卡拉秋的事情我以后再问吧。现在最要紧的就是救人。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>(外形奇特的荆棘。看上去好像没法入药)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "晕倒的牧师",
+      "question": "<FONT color=#7e12d2>(…….)</FONT> ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>(去找西戴尔吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "突变荆棘可在<FONT color=#a82424>陨石坠落地边界地区</FONT>找到。那种荆棘的特征是……<br><FONT color=#7e12d2>（西戴尔一边用很奇特的手势比划着那种荆棘一边作着说明。感觉说明会比较冗长，听个大概就出发吧。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这荆棘长得真是奇特啊。<br>应该就是突变荆棘了吧！魔法师们用的材料一般都长着这么奇形怪状的吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>(把荆棘折断后，立刻从根茎上流出让人恶心的紫色液体。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃，这气味！！这也太难闻了吧。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#7e12d2>(西戴尔捂着鼻子站着)</FONT><br>你把突变荆棘带来了啊。果然名不虚传，这个气味太难闻了。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么嘛，你捂着鼻子啊？早知道会有这么恶心的气味，你应该提前告诉我啊！</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我本想提醒你的，谁知你急着出发了，所以没来得及。<br>利用这种植物的<FONT color=#a94407>恶心气味</FONT>，可以弄醒晕厥的人。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "总之，我会用这种荆棘制作出可以弄醒牧师的药。<br><FONT color=#7e12d2>（西戴尔把突变荆棘和几种药材混合在一起，制成了汁液。这药散发出的味道可真恶心）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "你把这个拿到他鼻子旁边，他立马就会醒。记住，千万别让他吃啊。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师克里斯",
+      "question": "……<br><FONT color=#7e12d2>(他一动不动。把西戴尔制作的药拿到他的鼻子旁边。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师克里斯",
+      "question": "咳咳，咳咳……",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "太好了，他终于醒了。虽然我有很多话想问他，不过你想问的问题应该更多吧？<br>\n和克里斯交谈吧。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师克里斯",
+      "question": "ndnpc_Chris_9645_qu_01.ogg}<br>咳咳，咳咳，啊……这味道实在是太刺鼻了。呼……原来是你救了我啊。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "牧师克里斯",
+      "question": "那个……与<FONT color=#a82424>蓝塔娜</FONT>战斗的人，她没事吧？",
+      "answer": "",
+      "image": "qn_npc_lantana.png"
+    }
+  ]
+}

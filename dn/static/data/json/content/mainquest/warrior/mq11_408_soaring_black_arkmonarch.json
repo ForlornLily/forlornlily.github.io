@@ -1,0 +1,273 @@
+{
+  "qkname": "黑暗大君主的石碑像",
+  "data": [
+    {
+      "npc": "受伤的杰兰特",
+      "question": "...跟你没什么可说的了。<br>该做什么，你应该知道"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我现在没空再顾你啊！<br>\n你自己看着办吧？"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": ">哼。虽然我很烦这个主教，但先知还是得找回来。你赶紧过去击杀黑龙啊！<br><FONT color=#a82424>将军道格拉斯</FONT>也会派兵，索性就一起去得了。",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "我听<FONT color=#a82424>将军道格拉斯</FONT>说过，你为朕出了很大的力气吧？果然非常之忠诚。朕，朕会在这里等待着你胜利回归，请务必要击败黑龙啊。",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "<FONT color=#a82424>主教伊格纳西奥 </FONT>大人倒是蛮欣赏你的，能与神圣天堂精锐们并肩作战，是你的光荣，你可要加油啊。",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "已经都准备好了，你去接受主教伊格纳西奥的祝福吧。",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "神圣天堂亲爱的朋友，忠实的理解者，<FONT color=#387206>{user_class} {user_nick}</FONT>，我作为教团的代理人，将女神的祝福赐予你。你一定要为救出先知以及守护神圣天堂的和平与安宁做出贡献。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "那么，尽快与<FONT color=#a82424>道格拉斯将军</FONT>商议后，和军队一同前往<FONT color=#a82424>黑暗大君主的练兵场</FONT>吧。",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我会快去快回的。</FONT>",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "老夫现在能做的只有守护好 <FONT color=#a82424>神圣天堂</FONT> 城内，祈求你们能平安归来。<br>请务必小心啊。",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "我听<FONT color=#a82424>将军道格拉斯</FONT>说过，你为朕出了很大的力气吧？果然非常之忠诚。朕，朕会在这里等待着你胜利回归，请务必要击败黑龙啊。",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "<FONT color=#a82424>伊格纳西奥主教</FONT>对你大加赞赏。与神圣天堂的精锐兵一同作战是你的荣耀，你就奋力一搏吧。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>公爵大人不出战吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "很遗憾。我肩负着在王城辅佐年幼国王的重任，实在无法分身。守护王城也是非常重要的事，所以你就专注于你要做的事吧。",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "\n我都听说了。你，要为了寻找<FONT color=#a82424>先知</FONT>而出战？哼~别太自以为是了。看来你是觉得自己跟着那个狡猾的<FONT color=#a82424>主教</FONT>就很了不起了啊……我才不吃你这一套，哼。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡拉安大人不出战吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "你以为我，我是害怕吗？！作为宫廷魔法师的我还要亲自出战吗？多跌身份。我要是那么做的话，魔法师的地位就会下降的！！<br>\n<FONT color=#7e12d2>（卡拉安有些慌张，抬高了嗓音）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": ">哼。虽然我很烦这个主教，但先知还是得找回来。你赶紧过去击杀黑龙啊！<br><FONT color=#a82424>将军道格拉斯</FONT>也会派兵，索性就一起去得了。",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "我们已经准备就绪。<FONT color=#382000>{user_class} {user_nick}</FONT>！<br>你也做好充分准备了吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>现在马上可以出发。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "效仿50年前的六大英雄，我们也共同创造伟大的历史吧。<br>鼓足勇气勇往直前的话，就一定能够消灭<FONT color=#a82424>黑龙</FONT>救回<FONT color=#a82424>先知</FONT>的。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "那么，赶快向<FONT color=#a82424>黑暗大君主的练兵场</FONT>出发吧。<br>我已经向军队传令，他们会紧随你之后的。<br><FONT color=#7e12d2>（组队状态下无法进行该任务）</FONT>",
+      "answer": "",
+      "image": "qw_36.png"
+    },
+    {
+      "npc": "受伤的杰兰特",
+      "question": "...跟你没什么可说的了。<br>该做什么，你应该知道",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我现在很忙，没工夫管你了！你自己看着办吧？",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "老夫能做的唯有守护好<FONT color=#a82424>神圣天堂</FONT> 城内，祈求你们能平安归来。",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "以防万一，神圣天堂已经做好了充分的防备工作。你不必担心这里，赶快前往<FONT color=#a82424>黑暗大君主的练兵场</FONT>救回<FONT color=#a82424>先知</FONT>吧！",
+      "answer": "",
+      "image": "qw_36.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你赶快向<FONT color=#a82424>黑暗大君主的练兵场</FONT>出发吧。助神圣天堂一臂之力。",
+      "answer": "",
+      "image": "qw_36.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "必须赶快前往<FONT color=#a82424>黑暗大君主的练兵场</FONT>救回先知。我们的士兵已经在那里和怪物们展开了战斗了。",
+      "answer": "",
+      "image": "qw_36.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "<FONT color=#a82424>杰兰特</FONT>不是说过会和你在<FONT color=#a82424>黑暗大君主练兵场</FONT>会合并帮助你的吗？如果有了他的力量……说不定就可以对付黑龙了。",
+      "answer": "",
+      "image": "qw_36.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "希望就寄托在你的身上了。你既不是精锐士兵，又没有任何的头衔，却依然能够为了神圣天堂而英勇战斗！",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "<FONT color=#a82424>杰兰特</FONT>不是说过会和你在<FONT color=#a82424>黑暗大君主练兵场</FONT>会合并帮助你的吗？如果有了他的力量……说不定就可以对付黑龙了。",
+      "answer": "",
+      "image": "qw_36.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "希望就寄托在你的身上了。你既不是精锐士兵，又没有任何的头衔，却依然能够为了神圣天堂而英勇战斗！",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "<FONT color=#a82424>黑暗大君主的练兵场</FONT> 深处……<FONT color=#a82424>先知</FONT>一定就在那里。务必要把她救回。",
+      "answer": "",
+      "image": "qw_36.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "我要向你的勇猛表示敬意。<br>去顺利完成任务后，平安返回吧！",
+      "answer": "",
+      "image": "qw_36.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "连<FONT color=#a82424>古代人小家伙</FONT>也平安救回了，这样应该算是不错的结果了吧？<br><FONT color=#7e12d2>（需要和杰兰特对话）</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "杰兰特！杰兰特！你醒醒！",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "咳咳……我没事，阿尔杰塔。<br>不用……担心。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你现在的样子能让人不担心吗？<br>连唯一剩下的一只眼睛也……成了这样！<br><FONT color=#7e12d2>（阿尔杰塔抱住杰兰特，眼圈湿润了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我认为……这是最好的结果了。<br>你不用自责，也无需自责。<br>你已经尽力了，阿尔杰塔……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰兰特……，你感觉怎么样了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我的眼睛看不见了……<br>我正中那家伙的气息，恐怕以后再也无法睁开眼睛了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>战斗……现在结束了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "只是暂时把黑龙击退了……<br>只要有<FONT color=#a82424>古代人的后裔</FONT>在，就不知道什么时候还会发生问题。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那么，要怎么办呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "必须尽力而为……<br>我会和阿尔杰塔一起带着少女回去的，你先回去吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>您要去哪儿？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "<FONT color=#a82424>神圣天堂 王城</FONT>有通往<FONT color=#a82424>地下</FONT>的通道。你去那里吧。",
+      "answer": "",
+      "image": "qw_sainthaven_inside.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": "",
+      "image": "qw_sainthaven_inside.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

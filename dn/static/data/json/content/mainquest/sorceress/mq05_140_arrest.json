@@ -1,0 +1,217 @@
+{
+  "qkname": "决不轻饶！",
+  "data": [
+    {
+      "npc": "魔法师塔拉",
+      "question": "这不是一件能让人发笑的事。又不是别的，那可是<FONT color=#a82424>秘传之球</FONT>啊。<br>丢的可是魔法师的宝物呀！！",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "现在没空休息啊！消息扩散之前，得赶紧找回宝珠才行！是哪个家伙抢走的，记得起来吧?",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "嗯？是形似一头牛的怪物？唉……原来是牛头怪啊。<br>\n幸好我知道那家伙在哪儿。前辈的运气很好哦。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "赶紧到<FONT color=#a82424>寂静修道院回廊</FONT>去看看吧。<br>\n牛头怪肯定会在那里。",
+      "answer": "",
+      "image": "qw_9.png"
+    },
+    {
+      "npc": "牧师赛德瑞",
+      "question": "有种不祥的预感。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "<FONT color=#a82424>秘传之球</FONT>你已经拿过来了？",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "\n嗯，魔法师们也在为了这件事奔走忙碌呢。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "还不快去，在干什么呢？我都提心吊胆的……！！<br>\n赶快前往<FONT color=#a82424>寂静修道院回廊</FONT>吧。",
+      "answer": "",
+      "image": "qw_9.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "要是<FONT color=#a82424>秘传之球</FONT>出半点差错，你就好好反省吧！",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "牧师赛德瑞",
+      "question": "有种不祥的预感。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "为何现在才来? <FONT color=#a82424>秘传之球</FONT>还好吗?",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "<FONT color=#7e12d2>（认真查看秘传之球的辛西亚）</FONT><br><br>好像似乎有点...脏兮兮的。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "……总之，辛苦你了。<FONT color=#a82424>秘传之球</FONT>可是魔法师们的宝物，我还很担心会不会出什么差错。<br>\n没发生什么别的事吧？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>话说，我见到了红衣怪人。是一群很可疑的家伙，这样那样……</FONT><br>\n<FONT color=#662500>那~样~的家伙！</FONT>",
+      "answer": "",
+      "image": "qm_dragonsycophant.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "戴面具的怪人... 那或许就是牧师们所说的<FONT color=#a82424>龙之追随者</FONT>。他们都出动了，以后说不准肯定还要出什么大事。",
+      "answer": "",
+      "image": "qm_dragonsycophant.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "这个宝珠表面上看上去很质朴，但其实是个很贵重的宝物。用钱是绝对无法衡量其价值的。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "眼馋也没用，你先回去休息吧。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "别闯祸，老实待着。<br>那边，<FONT color=#a82424>塔拉</FONT>又在直勾勾地注视你了。别妨碍她修炼了。<br>知道了吗？我让你像个前辈的样儿！",
+      "answer": "",
+      "image": "qn_soceresstara.png"
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "我紧张得心扑通扑通直跳，就怕前辈再闯出什么祸来。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "日后估计会很忙的，让你歇着的时候你就好好歇着去。<br>\n别去妨碍认真修炼的<FONT color=#a82424>塔拉</FONT>。",
+      "image": "qn_soceresstara.png"
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "<FONT color=#387206>{user_nick}</FONT><FONT color=#382000> </FONT>前辈！这边。这边。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "万幸啊，你不知道我有多紧张。<br><FONT color=#a82424>牛头怪</FONT>是不是很难对付?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>一下子就被我解决了~不过是小菜一碟！</FONT><br>\n<FONT color=#662500>吼吼吼吼~</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "前辈你的魔法绝对一流啊。 <br>似乎和从前一样嘛。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "不记得了吗? 魔法师修炼学生当中，前辈可是第一个使用火焰虫的人呢。而且首次使用就把教室墙壁给打穿了呢...大家都乱了套了 。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "不仅如此，当我们俩骑着法杖飞到房顶上时，辛西亚大人可没饶过我们。那个时候<FONT color=#a82424>辛西亚</FONT>大人就像个魔鬼，但是现在想来，那些都是对我们的爱呢。",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "哦，对了。刚才似乎有位牧师在找前辈呢……<br>\n叫什么来着，赛……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>赛德瑞？</FONT>",
+      "answer": "",
+      "image": "qn_npc_cl_fallen_cedric.png"
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "对。就是他，<FONT color=#a82424>赛德瑞</FONT>。那个<FONT color=#2b2723>西瓜头牧师</FONT>一直在找前辈呢。<br>\n我因为纪律在身不能和外人讲话，所以打算等前辈来了再告诉你。",
+      "answer": "",
+      "image": "qn_npc_cl_fallen_cedric.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>也许他是在担心有没有找到秘传之球吧？</FONT><br>\n<FONT color=#662500>告诉他就说已经找到了，正由辛西亚妥善~保管着呢，叫他放心吧。</FONT>",
+      "answer": "",
+      "image": "qn_npc_cl_fallen_cedric.png"
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "\n魔法师们的情况就直接告诉他，可以吗？<br>\n<FONT color=#7e12d2>（塔拉面带担心地注视着）</FONT><br>\n当然……就让他一直误以为我们丢了秘传之球也不好……",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "\n唉，我知道了。我过去悄悄告诉他！<br>\n那前辈就去见<FONT color=#a82424>牧师托马斯</FONT>吧。",
+      "answer": "",
+      "image": "qn_cl_tomas.png"
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "\n<FONT color=#a82424>牧师托马斯</FONT>他……不知道是不是因为其他牧师的缘故，正在找你呢。<br>\n前辈可真忙啊~",
+      "answer": "",
+      "image": "qn_cl_tomas.png"
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "啊，你快去见<FONT color=#a82424>牧师托马斯</FONT>吧。<br>……虽然他是一位牧师，但却很绅士呢！嘿嘿。<br>\n<FONT color=#7e12d2>（塔拉又加了一句多余的话）</FONT>",
+      "answer": "",
+      "image": "qn_cl_tomas.png"
+    },
+    {
+      "npc": "牧师赛德瑞",
+      "question": "原来<FONT color=#a82424>秘传之球</FONT>已经找回来啦。<br>\n刚刚已经听魔法师塔拉说了。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "牧师赛德瑞",
+      "question": "赶快前往牧师托马斯那里向他转告吧。",
+      "answer": "",
+      "image": "qn_cl_tomas.png"
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "\n啊哈~原来是那位大名远扬的魔法师啊。<br>\n好吧，秘传之球找回来了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "\n已经找回来了，正由辛西亚保管呢……现在终于可以放心些了。<br>\n最近内外都不太安定，大家都很担心呢。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

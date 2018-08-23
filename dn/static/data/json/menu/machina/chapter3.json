@@ -1,0 +1,51 @@
+[
+  {
+    "id": "mqc03_9583_join_stomach",
+    "name": "假意加入",
+    "qid": "9583",
+    "nextid": "9584",
+    "chapter": "3"
+  },
+  {
+    "id": "mqc03_9584_false_information",
+    "name": "虚假情报",
+    "qid": "9584",
+    "nextid": "9585",
+    "chapter": "3"
+  },
+  {
+    "id": "mqc03_9585_the_purpose_of_bao",
+    "name": "巴奥兽人团的目的",
+    "qid": "9585",
+    "nextid": "9586",
+    "chapter": "3"
+  },
+  {
+    "id": "mqc03_9586_wounded_elena",
+    "name": "负伤的埃雷娜 ",
+    "qid": "9586",
+    "nextid": "9587",
+    "chapter": "3"
+  },
+  {
+    "id": "mqc03_9587_purification_equipment",
+    "name": "净化装置",
+    "qid": "9587",
+    "nextid": "9588",
+    "chapter": "3"
+  },
+  {
+    "id": "mqc03_9588_the_request",
+    "name": "委托",
+    "qid": "9588",
+    "nextid": "9589",
+    "chapter": "3"
+  },
+  {
+    "id": "mqc03_9589_secret_meeting",
+    "name": "暗中会面",
+    "qid": "9589",
+    "nextid": "9590",
+    "chapter": "3"
+  }
+]

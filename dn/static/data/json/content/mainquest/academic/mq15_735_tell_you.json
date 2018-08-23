@@ -1,0 +1,132 @@
+{
+  "qkname": "这是其他人的东西",
+  "data": [
+    {
+      "npc": "学者站台",
+      "question": "▶ 无法找到<FONT color=#086171>连接网络所需的</FONT><FONT color=#a82424>主密钥</FONT><FONT color=#086171>。</FONT><br>▷ <FONT color=#7e12d2>请确认下是否持有主密钥。</FONT><br>▷ <FONT color=#7e12d2>关于服务品质的问题，请联系客服中心。</FONT><FONT color=#7e12d2><br></FONT><FONT color=#086171>※ Bellin Corporation. 客服中心：1588 - xxxx（24小时运营）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……？ （确认下通讯器）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>（找不到通讯器。如果没有通讯器，就无法跟百合花联络了）</FONT><br>\n<FONT color=#662500>掉……掉到那里去了？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>（去龙之追随者据点寻找通讯器吧）</FONT>",
+      "answer": "",
+      "image": "qw_54.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>Mission Object.</FONT><br>▷ <FONT color=#7e12d2>请在龙之追随者据点寻找丢失的通讯器。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，原来你在这里啊，。<br>你刚刚是不是把这个弄掉了？<br>我打算交换给你，但你突然消失了，我正在找你呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊……？那是通讯器……？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "之前安杰利卡将这个东西抢过去……呵呵，将这个借走的时候我见过，所以我还记得。<br><FONT color=#7e12d2>（从伊桑手中接过的通讯器已部分掉色，很旧，好像用了很长时间）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这跟我的通讯器是一款产品……但这不是我的。你是从那里找到它的？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "嗯？我分明看到是从<FONT color=#387206>{user_nick}</FONT>你身上掉落的，所以还以为是<FONT color=#387206>{user_nick}</FONT>你的呢……原来不是的啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我刚刚才到达这里啊……？你说你看到它从我身上掉落？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "啊……可能是我搞错了吧。抱歉喽。<br>那这个物品……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这个先由我来保管吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "就按你的意思做吧。<br>反正放在我身边也没有用。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>谢谢你。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "别客气…… 那我告辞了……<br><FONT color=#7e12d2>（利用从伊桑那里获得的通讯器，链接学者站台吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_Jasmin_qu91_01.ogg}<br>我是百合花……通讯状态良好……<br>嗯？通讯ID是……？<br><FONT color=#7e12d2>（百合花很慌张）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是我啊，姐姐。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "………？！<br>啊，原来是<FONT color=#387206>{user_nick}</FONT>啊？<br>通讯ID变了，我没想到是你。这是怎么回事啊？<br>\n<FONT color=#7e12d2>（叙述期间发生的事情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "你捡到的通讯器肯定是行迹不明的<FONT color=#a82424>调查员</FONT>的……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个人好像是故意扔掉的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "我也那么认为。<br>或许，你通讯器的消失也跟那个调查员有关。<br>不知道那个人有什么诡计，看来我得更深入地进行调查。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，那调查的事情就拜托你了。我现在有个地方要去。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>（与百合花的通讯终止。移动到古代武器库的东边，追上去寻找圣所的西戴尔吧）</FONT>",
+      "answer": "",
+      "image": "qw_55.png"
+    }
+  ]
+}

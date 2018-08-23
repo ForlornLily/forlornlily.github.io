@@ -1,0 +1,88 @@
+{
+  "qkname": "消失的怪兽的灵魂",
+  "data": [
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "现在，用于净化的<FONT color=#a82424>力量碎片</FONT>已经找到了，应该着手准备净化仪式了。<br><FONT color=#7e12d2>（主教热情地和我握手）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "那么现在为了获得力量，需要献上祭物。我仔细翻阅了古书之后发现，要想举办大规模的仪式，似乎需要有相应的大型<FONT color=#a82424>祭物</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是什么样的祭物呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "我想了很久， 要想找到相当于黑龙的大型怪物是很难的。<br>所以我想稍微逊色一点，使用<FONT color=#a82424>海怪</FONT>怎么样呢。<br>\n<FONT color=#7e12d2>（主教热情地解释着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "<FONT color=#a82424>海怪</FONT>是很久以前对神圣天堂造成威胁的怪物，后来被消灭了。首先，最好把丢弃在<FONT color=#a82424>孤岛</FONT>附近的海怪的脖子找回来。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>什么？脖子吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "呵呵。脖子怎么可能被完整地找到并带回来呢。现在应该腐烂得只剩下骨头了吧，不过由于体积巨大，你是无法收拾回来的。所以你就把怪兽的头部渗出的<FONT color=#a82424>邪念体</FONT>……也就是<FONT color=#a82424>魂</FONT>搜集回来吧。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "这是我们教团传下来的<FONT color=#a82424>水晶葫芦瓶</FONT>。你带着它去翻找<FONT color=#a82424>沉没的货船</FONT>，将凝聚在怪物们身上的魂搜集回来吧。那就拜托你了。",
+      "answer": "",
+      "image": "qw_46.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你将海怪的魂搜集到<FONT color=#a82424>水晶葫芦瓶</FONT>里吧。<br>翻找<FONT color=#a82424>沉没的货船</FONT>，就能发现凝聚在怪物们身上的魂了。",
+      "answer": "",
+      "image": "qw_46.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "快过来。<br>你把海怪的魂都搜集回来了吗？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>在这里。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "真了不起。<br>你无疑就是神派给我们<FONT color=#a82424>神圣天堂</FONT>的贵人。<br>\n<FONT color=#7e12d2>（主教非常高兴，猛地握住我的手）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "将邪恶的气息驱散之后，受伤的<FONT color=#a82424>杰兰特</FONT>也一定会高兴的。<br>不管是为了神圣天堂，还是为了舍身战斗的他，让我们加油吧！<br>\n<FONT color=#7e12d2>（主教带着满怀感激的目光接过了水晶葫芦瓶）</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "现在，是时候去寻找<FONT color=#a82424>海怪的纹章</FONT>了。因为当时是将海怪碎尸之后丢掉的，所以你得多跑几趟了。虽然有些麻烦，但还是拜托了。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>明白。</FONT>",
+      "answer": ""
+    }
+  ]
+}

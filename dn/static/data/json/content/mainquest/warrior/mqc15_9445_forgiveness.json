@@ -1,0 +1,287 @@
+{
+  "qkname": "饶恕",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……卡汉拉……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……你回来了……看见所有真相了吗？<br>看样子你已目睹过那些记忆，所以才会露出这样悲伤的神情。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……你似乎有很多话想说。不过我们得换个地方再谈。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（卡汉拉……你在阿努阿兰德还好吧？）</FONT>",
+      "answer": "",
+      "image": "qw_anuarendelgateway_mono.png"
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……<FONT color=#a82424>你到监视者之塔去吧</FONT>，我们去那边再说。<br>监视者之塔位于熔岩江入口。",
+      "answer": "",
+      "image": "qw_94.png"
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……你来了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡汉拉！你是因为清楚这一切，才让我选择的吗？选择是否要看这段记忆……！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这到底是怎么回事？！到最后，全部都失败了啊。梅里恩戴尔死了，佩达因为绝望，改变了信念！这……这……！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9445_qu_01.ogg}<br><FONT color=#7e12d2>（卡汉拉垂下头）</FONT><br>对不起。事实上造成今日之果的原因，是因为我们为了触及谜之大陆和神之真实，而违犯了禁忌……",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9445_qu_02.ogg}<br>有人说，<FONT color=#a82424>[将我们创造得如此贪婪，是女神的过错]</FONT>；还有人说，<FONT color=#a82424>[这该怪女神当初被维斯提内所骗，喝下了毒]</FONT>……他们都说错了。做出行动的，是我们。这是我们的罪孽招来的灾难……",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9445_qu_03.ogg}<br>仅为了区区一个诱惑，就不惜让全世界陷入危险的我们太贪婪，太愚昧。<br>因此，我们必须给外界一个警示：即使献出所有生命也无法洗清的这个罪孽的代价，是多么沉重。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9445_qu_04.ogg}<br>由于我们的过错，许多生灵的命运都被扭转了。女神的噩梦还未终结，世间出现了肩负龙之命运的人类，维斯提内的碎片闯进这个世界，动摇着世界的根基。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9445_qu_05.ogg}<br>我们扭曲了这个世界，结果导致你手拿着武器就进入了神之领域。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9445_qu_06.ogg}<br>破镜难圆，<br>已经扭转的命运，沉痛的记忆，还有绝望的过去，那是任谁做什么都无法改变的。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9445_qu_07.ogg}<br>我们是整个世界的罪人。<br>所以，需要有个人来目睹我们犯下的所有罪恶，还有因我们而扭转的命运。<br>我们没有资格审判自己。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……你到底想说什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9445_qu_08.ogg}<br>这个问题我只能向不属于我们一员的人提问，我必须得到答案。<br>那个深藏于心的问题，以及今后的命运交织而成的道路，我一直在等待。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>为什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "<FONT color=#387206>{user_nick}</FONT>……目睹了这个世界的所有真相的勇士啊，我卡汉拉以戴罪之身衷心向你发问。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9445_qu_09.ogg}<br>我们可以获得饶恕吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃……？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9445_qu_10.ogg}<br>你应该亲眼见过无数个因我们而被扭转的命运……我想问问你。<br>我们可以获得饶恕吗？",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……是吗。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我这么说可能会让你觉得不负责任……但受到折磨的并不止我一个。</FONT><br><FONT color=#662500>我目睹了一切真相，不代表我有权利为这个问题作出判断。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>等以后，我将所有真相告诉人们，等大家知道真相后……</FONT><br><FONT color=#662500>人们会给出一个决断的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "好吧。如果这是你的意思……<br>\n看来这些话对于年纪尚轻的你来说，太沉重了。<br>\n<FONT color=#7e12d2>（卡汉拉的嘴角抿着淡淡的微笑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……是吗……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>虽说你们确实犯下了极大的错误，而且世界也因此遭到动摇……但是你们已经尽力去挽回了，不是吗？如果说直到最后都不肯承认错误的话，自然应该受到责罚……但你们终究认识到了自己的错误。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>尽管你们肩负着许多罪孽，但我认为不该否认你的族人们不惜献出生命也想要纠正错误的牺牲精神。<br>如果人们知道了所有真相，相信他们也会选择宽恕的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你们可以获得饶恕……我是这么认为的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "对于死者们来说，你的话多少能带来些安慰……<br>\n……谢谢你……<br>\n<FONT color=#7e12d2>（卡汉拉低下头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……是……吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不管你们付出了什么样的牺牲，一开始令世界陷入危险的元凶是古代人这一点不会改变。</FONT><br><FONT color=#662500>对于这一事实，任何人都无法否认。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>况且，你们最后居然想靠献出生命来结束这场浩劫，简直欠缺考虑。</FONT><br><FONT color=#662500>这不仅仅让阿尔杰塔受到了刺激，也彻底断绝了解决所有事态的余地！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>从古代人堕落的那一刻开始，一切就被扭曲了。</FONT><br><FONT color=#662500>还有，最后仅留下一人的决定实在荒唐。这到底是为谁而做出的决定。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那些古代人硬撑也该撑到最后。亲眼看清楚他们的罪孽给世界造成了怎样的影响，并积极为此寻找解决对策。因为你们的不智，让世界再次迎来了危机。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这些话对你来说或许有些残忍，但我就是这么想的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……呵呵。<FONT color=#7e12d2>（卡汉拉露出个惨淡的微笑）</FONT><br>我明白你的意思了。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……我已遵从命运，让你看见了所有过去的记忆。现在，我该对你说说未来的事了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>未来的事？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "是的，未来的事。<br>\n<FONT color=#7e12d2>（卡汉拉脸上突然变换出一个诡异的微笑，有点悚然）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "你一路走来，想必是遵循了我借父亲之名做出的预言。<br>\n因为先知在召集英雄。<br>\n这一切旅途的出发点，该是为了寻找她吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这你怎么……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "因为我父亲预言了这一切。他曾说过，心怀善意的人们会守护先知，按照先知的指引前进，拯救这个世界。所以，守护先知，并留下这记录是我的使命。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "可惜，我卡汉拉不是龙。<br>\n龙是为了守护使命而诞生的，但身为人类的我，不能仅靠使命而存在。<br>\n再说了，这不可笑吗？这世界竟靠着已灭亡的我们族人的预言逐渐走向和平。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这……（这好像是过去的卡汉拉说过的话……）</FONT>",
+      "answer": "",
+      "image": "qn_npc_rosalin.png"
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "正如人类的一生中会发生什么事情难以预料一样，我们会迎来什么样的命运还是个未知数……<br>\n父亲他估计没料到这世界上竟会出现<FONT color=#a82424>影子先知</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>影子先知……？</FONT><br>\n<FONT color=#662500>那是什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>影子先知……！</FONT><br>\n<FONT color=#662500>（这说的是我！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9445_qu_11.ogg}<br>她继承了我们的血统，当先知完全失去自己的能力时，她作为预备先知，将重新找回力量。<br>然而，这并不是女神期望的那种自然传承。呵呵，<FONT color=#a82424>这种先知虽可能出现，却没有注定在何时降世……然而，现在她已经出现了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "命运就是这样莫测。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不明白你在说什么。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……！等等。<br>\n我发觉有人在看着我们。<br>这，这不是来自生者的视线啊。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……我们得换个地方说话。到那人看不见的地方去。<br>被他盯着可没好事。<br><FONT color=#7e12d2>（卡汉拉露出个苦涩的表情）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "我要想想哪个地方适合我们谈话。<br>请你稍后再跟我对话，好吗？",
+      "answer": ""
+    }
+  ]
+}

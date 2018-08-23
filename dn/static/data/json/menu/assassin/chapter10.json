@@ -1,0 +1,37 @@
+[
+  {
+    "id": "mq15_9378_coincident_opportunity",
+    "name": "偶然的契机",
+    "qid": "9378",
+    "nextid": "9379",
+    "chapter": "10"
+  },
+  {
+    "id": "mq15_9379_overlap",
+    "name": "重叠",
+    "qid": "9379",
+    "nextid": "9380",
+    "chapter": "10"
+  },
+  {
+    "id": "mq15_9380_but_not_equal",
+    "name": "相似却又不同",
+    "qid": "9380",
+    "nextid": "9381",
+    "chapter": "10"
+  },
+  {
+    "id": "mq15_9381_doubtful_future",
+    "name": "对未来的怀疑",
+    "qid": "9381",
+    "nextid": "9382",
+    "chapter": "10"
+  },
+  {
+    "id": "mq15_9382_by_time_for_time",
+    "name": "时代的召唤",
+    "qid": "9382",
+    "nextid": "",
+    "chapter": "10"
+  }
+]

@@ -1,0 +1,282 @@
+{
+  "qkname": "绝不轻易改变",
+  "data": [
+    {
+      "npc": "战士西恩",
+      "question": "\n只要大家齐心协力，没有什么是做不到的！哇哈哈！",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "呃……可恶的食人魔～ 哎呀，气死我啦！！<br>害我险些丧命。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "……你是什么人？",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "没想到为了凯德拉关卡，小姑娘你居然如此努力，我真的很感动……<br>呜呜……真的很感动，感动！！",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_02.ogg}<br>你来啦。<br>事情进行得怎么样了？",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "你在袭击者埋伏点见到了<FONT color=#a82424>安杰利卡</FONT>？<br>但你没能见到<FONT color=#a82424>埃雷娜</FONT>啊。<br>你不必觉得可惜。我之前也跟你说过了，现在的埃雷娜只不过是人类的敌人而已。没碰到她说不定反而是件好事……",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这个我知道……但是……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "难道，你认为<FONT color=#a82424>只要和她好好谈谈，她或许会改变主意</FONT>？",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>不，不是的……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "你就别惦记<FONT color=#a82424>埃雷娜</FONT>啦。即便你劝解她，她也不会改变主意的。<br>不，她不能改变主意，总之，这件事就交给其他的冒险家吧。知道了吗？",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>是……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_08.ogg}<br>比起埃雷娜，回收悬浮装置的事情对你来说更重要。<br>你去和<FONT color=#a82424>冒险家公会会长戴卡德</FONT>商议下这件事吧。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "没想到为了凯德拉关卡，小姑娘你居然如此努力，我真的很感动……<br>\n呜呜……真的很感动，感动！！",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "好了！我们快离开这里吧。我要去报告啦~<br>你也回到<FONT color=#a82424>凯德拉关卡</FONT>吧。<br><FONT color=#7e12d2>（链接学者站台，向姐姐报告吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "没~没关系！一切都会好起来的！<br>嘿嘿。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "嗯？你是什么人？<br>人类小孩！",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br>▷ <FONT color=#7e12d2>请去见见冒险家公会会长戴卡德。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "ionRefusal}<br>穿着红衣服的精灵？<br>嗯……<br><FONT color=#7e12d2>（戴卡德歪着脑袋）</FONT>",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "红衣精灵？我还没有听说过啊……<br>如果收到报告，我会通知你的。<br><br><FONT color=#7e12d2>* 达到16级以后才能执行下一阶段的任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "啊，话说回来，我收到自卫团的报告，普雷利镇附近出现了<FONT color=#a82424>红衣黑暗精灵</FONT>。<br>但不知道这个精灵是不是你所说的那个精灵。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "正好伊桑和安杰利卡……那些冒险家们也去了那里。<br>他们还有对那个红衣黑暗精灵充满怨恨，哈哈！",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>他们去了哪里？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "你只要往凯德拉关卡的北边，<FONT color=#a82424>灰色废墟</FONT>方向走，就能到达<FONT color=#a82424>墓穴集会场</FONT>了。<br>他们也去了那个地方，你去那里肯定能见到他们的。",
+      "answer": "",
+      "image": "qw_20.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>有没有什么情报？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "红衣精灵？我还没有听说过啊……<br>如果收到报告，我会通知你的。<br><br><FONT color=#7e12d2>* 完成转职后才能进行下一阶段的任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "根据情报，那个红衣黑暗精灵无比歹毒，你千万要小心啊。<br>据说有无数的冒险家在<FONT color=#a82424>墓穴集会场</FONT>遭到了那魔物的毒手。",
+      "answer": "",
+      "image": "qw_20.png"
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "……你是什么人？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>埃雷娜！你是埃雷娜吧？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "你是什么人，胆敢直呼我的名字？<br>区区人类，竟然如此放肆？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我认识泰雷珠。</FONT>",
+      "answer": "",
+      "image": "qn_teleju.png"
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "<FONT color=#a82424>泰雷珠</FONT>……？<br>啊，你是说那个<FONT color=#a82424>年幼的孩子</FONT>？<br>哼，她身为黑暗精灵，居然和人类勾搭在一起，现在的小孩真是胆大包天。真可悲……",
+      "answer": "",
+      "image": "qn_teleju.png"
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "话说，你找我有什么事？<br>长话短说。我现在非常非常~忙。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>那个……请不要做这样的事情。再这样下去，你会……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "ionStand2}<br><FONT color=#7e12d2>（埃雷娜听完之后，摇了摇头）</FONT><br>……你让我和人类站在一边？<br>哈！停止危害凯德拉关卡？！<br>\n你在胡说什么呢？",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>但，但如果不这样的话……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "吵死了！我不想再听你说这些无聊的事情了。<br>我先走了。<br>我不杀你，你应当心存感激，小鬼！",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊，你是！！<FONT color=#387206>{user_nick}</FONT>？！<br>很高兴见到你~！嘿嘿~！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>啊，是的……我们又见面啦。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "没想到你年纪这么小，实力却如此了得。<br>正如<FONT color=#a82424>伊桑</FONT>所说。<br>哇~ 真是了不起！佩服！哈哈。",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "不过……<FONT color=#387206>{user_nick}</FONT>你也看到了吧？<br>\n那个<FONT color=#a82424>黑暗精灵</FONT>召集魔物进行集会……<br>她还在继续制作小精灵，如果连其他魔物都变成她的手下，那事态就严峻了。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "我们必须要找到小精灵制造装置……<br>\n你有没有什么好办法？<br><FONT color=#7e12d2>（西恩表情真挚）</FONT>",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我来找出那些装置。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "嗯？噢……<FONT color=#387206>{user_nick}</FONT>你吗？<br>\n你有什么好办法吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我来检测下数据。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "数据……？<br><FONT color=#7e12d2>（西恩歪着脑袋）<br></FONT>无论如何，那这件事情就交给<FONT color=#387206>{user_nick}</FONT>你啦！你回去吧，请注意安全。<br>如果你得到情报，请到灰色废墟来！",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "question": "<FONT color=#7e12d2>（链接凯德拉关卡的学者站台，拜托姐姐搜索数据吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_03.ogg}<br>果然……就算我劝你放弃，你还是坚持去找了<FONT color=#a82424>埃雷娜</FONT>。<br>幸好你没事，如果你受伤，那可怎么办啊？",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "我知道你生性善良。<br>但你是我们全部的希望，你不要忘记这点。<br>你不要再关心这种事情了，专心完成我们的任务吧。明白了吗？",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>嗯，我记住了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "嗯，你知道就好。<br>还有，有关那个数据……",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "qkname": "不完整的缝合",
+  "data": [
+    {
+      "npc": "暗影喵",
+      "question": "徒弟！！快过来喵！<br>你知道暗影喵老师我发现什么了吗喵？新的……鲣鱼……喂……喵喵喵？！<br><FONT color=#7e12d2>(暗影喵垂下耳朵，歪了歪脑袋)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "怎……怎么感觉有点奇怪喵……<br>看上去像换了一个人似的喵？<br><FONT color=#7e12d2>(暗影喵在{user_nick}的周围转悠)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "徒弟，这段时间到底发生了什么事？！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "我没时间和你废话，畜生。<br>我想知道的只有一件事。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "那就是露娜莉娅的行踪。",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "暗影喵",
+      "question": "露娜莉娅……？<br>我没听说过那个名字喵！呜噜噜～<br>\n你是说过去在赫尔马岱港口见到过的那个姑娘吗喵？",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "看到了吗？<br>告诉我，她去哪儿了？快回答我，畜生。",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "哎呀～喵喵喵～～<br><FONT color=#7e12d2>(暗影喵使劲舔着前爪)</FONT><br>呜噜噜～徒弟，快点变回善良的徒弟吧喵～好可怕喵～！！",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "不过……你要找什么人的话，最好到古代仓库那边去看看喵。<br>附近有人失踪的话，大家都到<FONT color=#a82424>古代图书馆</FONT>那边去找喵。<br>听说那边容易躲藏喵。",
+      "answer": "",
+      "image": "qw_52.png"
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>(什么都没有)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "抖抖抖……徒弟～快回去吧喵～我更喜欢过去那个善良的徒弟喵～现在的你太可怕了喵……<br>在<FONT color=#a82424>古代图书馆</FONT>找到丢失的东西之后，你会回来吧喵？一定要答应我～！",
+      "answer": "",
+      "image": "qw_52.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>….</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "露娜莉娅去哪儿了呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "……露娜莉娅！<br><FONT color=#7e12d2>(呐喊的声音引起了一阵阵回声)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……不行。无法重新压制住幻象。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(明明觉得在纯粹之镜中前进了一大步。<br>是我的错觉吗？<br>本以为已经完全压制住了幻象，为什么被吞噬掉的人反而是我呢？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(还有露娜莉娅……)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "露娜莉娅！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(露娜莉娅是看到我被幻象吞噬，才躲藏起来的吗？)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "没错，她一直就是这种人。<br>从过去，从过去的过去开始，她就一直是这样。",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "之前我也说过了。<br>你被露娜莉娅……被那个女人残忍地欺骗了。",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "那个女人把所有的选择都推给你，说选择的人是你。<br>她总是这样。她用平静的眼神告诉你，<FONT color=#a82424>她不会强迫你</FONT>……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "……你最终是我。<br>在你浪费了那么多时间之后，你最终还是变成了我。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "像你这种蠢货就算再怎么挣扎。<br>也逃不出她的掌心。那个女人是……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个女人……是什么？<br>你为什么对露娜莉娅这么执着？就像是怀有很深的怨恨一样。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊，<FONT color=#387206>{user_nick}</FONT>。<br>你还在找那个女的吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(幻象好像不想回答。<br>他好像打算用我的身体到处乱逛。他是想寻找露娜莉娅的行踪吗？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊，<FONT color=#387206> {user_nick}</FONT>。<br>你还在找那个女的吗？",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "虽然我很想帮你，但因为察提的问题，我得去见见卡拉秋。<br>你知道吗？西戴尔到达的时候，察提已经……",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "你看到露娜莉娅了吗？",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "……哎呀，你是没时间听我说 察提的事情了吗？<br><FONT color=#7e12d2>(西恩的表情看上去很痛苦)</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    }
+  ]
+}

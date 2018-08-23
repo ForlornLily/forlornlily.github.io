@@ -1,0 +1,91 @@
+{
+  "qkname": "抓住伊格纳西奥",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "啊，姐姐！你不是去找凯伊哥哥和特拉玛依了吗？<br>是不是想我了，所以又回来了？呵呵……！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊……我已经和他们二人见过面了……对了！<br>他们好像说要和我在古代图书馆里重新碰头？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "呃，你又忘事儿啦？呼呼……<br>虽然见到姐姐，我很开心。但既然有<SPAN class=re_#387206>要紧的事情</SPAN>，那就先去处理完之后，再<SPAN class=re_#387206>来</SPAN>吧！<br>姐姐，你快去古代图书馆吧！",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "那么，别忘了在<FONT color=#a82424>古代图书馆</FONT>那里重新碰头吧， <FONT color=#387206>{user_nick}</FONT>！",
+      "answer": "",
+      "image": "qw_52.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "嗯，姐姐？你不是应该快去<FONT color=#a82424>古代图书馆</FONT>的嘛？",
+      "answer": "",
+      "image": "qw_52.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "辛苦你了。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我们为了追踪<FONT color=#a82424>伊格纳西奥</FONT>的痕迹，居然来到了<SPAN class=re_#387206>这里</SPAN>。你也来得<SPAN class=re_#387206>正好啊。</SPAN>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9508_qu_01.ogg}<br>啊！特拉玛依，那人是<FONT color=#a82424>伊格纳西奥</FONT>……？！",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "\n特拉玛依有话要说。<br>\n "
+    },
+    {
+      "npc": "凯伊",
+      "question": "我们快去追踪<FONT color=#a82424>伊格纳西奥</FONT>吧！",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "我们快去追踪<FONT color=#a82424>伊格纳西奥</FONT>吧！"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "很可惜，让<FONT color=#a82424>伊格纳西奥</FONT>跑了……",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "不过，我们知道了<FONT color=#a82424>伊格纳西奥</FONT>逃跑的方向。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的！他好像往利物沃特村庄废墟那边去了！</FONT>",
+      "answer": "",
+      "image": "qw_51.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "嗯，辛苦你了，<FONT color=#387206>{user_nick}</FONT>。<br>请你再加把劲，我们一定要阻止伊格纳西奥。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "那么，请你赶快前往<FONT color=#a82424>利物沃特村庄废墟</FONT>吧。",
+      "answer": "",
+      "image": "qw_51.png"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "qkname": "重叠",
+  "data": [
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "嗯……",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "……<br>……<br>……不，就这样放弃的话，就太不像我的风格了！<br><FONT color=#7e12d2>(斯泰拉一下子握紧了拳头)</FONT>",
+      "answer": "(听说你收手了……)"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "俗话说得好，退而求其次。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "土地的价值并不只有地价。<br>你明白了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "呜呼……反应这么迟钝怎么行？<br>这是为了让内心平静下来开的玩笑。玩笑都不懂啊。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "好啦。<br><FONT color=#7e12d2>（斯泰拉摇头晃脑的）</FONT><br>就是说啊，你再去看一下<FONT color=#a82424>奇迹祭坛保护区</FONT>吧。",
+      "answer": "为什么？你不是已经放弃那块……",
+      "image": "qw_69.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "不久前我听<FONT color=#a82424>柏林</FONT>说，据说有人建立了一个生命工学中心。<br>K博士是著名的生命工学博士，他的<FONT color=#a82424>研究资料</FONT>也许就留在奇迹祭坛。<br>如果能找到它，我就能高价卖给柏林，呵呵呵～",
+      "answer": "",
+      "image": "qn_npc_saint_blacksmith_dwarf.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "所以赶紧去找一下吧。",
+      "answer": "(但是为什么要我跑腿呢……？)"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>(……虽然之前看见过了，但还是不想看见尸体</FONT><br>\n<FONT color=#662500>……如果是幻象的话，会无动于衷吗……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "只要看到写着难懂的话的纸，就把它拿回来就行。<br>你之前已经去过一次了，应该没什么难的吧？呵呵呵～<br>对你来说， <FONT color=#a82424>奇迹祭坛保护区</FONT>之类的应该是小菜一碟吧？",
+      "answer": "",
+      "image": "qw_69.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "啊，你是……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>柯梅里纳！你是柯梅里纳吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "啊，是的，<FONT color=#387206>{user_nick}</FONT>。好久不见……啊啊啊，不不不！！不，不！！请装作没看见我！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>等等！(抓住柯梅里纳)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "别那样抓着我！<br>呃啊啊？哎呀！！！<br><FONT color=#7e12d2>(柯梅里纳被地上的石头绊倒了，嘴里吱哇乱叫)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "呜，呜呜呜呜……<FONT color=#387206>{user_nick}</FONT>，我不知道你这么厉害。刚才我不该太自傲，看不起你这位英雄的……呜呜呜。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "呃，嗯，好久不见。有什么事吗？你找我有事吗……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……这具尸体……长得和柯梅里纳一模一样。要问问到底是什么关系吗</FONT><FONT color=#662500>……？</FONT><br><FONT color=#662500>(问的时候小心一点。她不会又哭吧？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……呃……那个……嗯……",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……哎呀-！！ <br>\n<FONT color=#7e12d2>(柯梅里纳瞬间躲到了一边)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！？！？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……哈哈哈！不知道。</FONT><FONT color=#387206> {user_nick}</FONT><FONT color=#2b2723>！希望我们不要再见面了！<br></FONT><FONT color=#7e12d2>(柯梅里纳以光一般的速度从视野中消失了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "来了啊。<br>找到K博士的研究材料了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不，没找到。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "嗯……真遗憾。<br><FONT color=#7e12d2>（脸上充满着留恋）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>(……她那样突然逃走，总觉得很奇怪……一定有什么事情。没有看到研究日志……先回到斯泰拉那里去吧)</FONT><FONT color=#2b2723><br><br></FONT><FONT color=#7e12d2>*(请回到神圣天堂的高级魔法师斯泰拉那里去)</FONT>",
+      "answer": "",
+      "image": "qn_npc_soceressstella.png"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "qkname": "无法链接",
+  "data": [
+    {
+      "npc": "西戴尔",
+      "question": "我总有种……不好的感觉。<br>\n <br>\n※ <FONT color=#7e12d2>需要在学徒站台那里接受任务才能继续进行。</FONT>",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>网络不稳定。</FONT><br>▷ <FONT color=#7e12d2>重新设置Mission Object。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>Mission Object.</FONT><br>▷ <FONT color=#7e12d2>请到卡拉秋的草屋，和西戴尔对话。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "什么……？！<br><FONT color=#7e12d2>（西戴尔手上拿着的书掉落在地）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#a82424>察提的爷爷</FONT>去世了吗……？<br>他可是察提唯一的家人啊，这到底是为什么……？",
+      "answer": "",
+      "image": "qn_npc_charty_grandfather.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>龙之追随者为了从族长那里获得情报，好像对族长进行了严刑拷打。</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty_grandfather.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊，<FONT color=#387206>{user_nick}</FONT>。你来啦……",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "啊……察提现在该有多伤心啊……<br>你说察提现在在<FONT color=#a82424>龙之追随者据点</FONT>？<br>我现在立刻去找察提。",
+      "answer": "",
+      "image": "qw_54.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊，<FONT color=#387206>{user_nick}</FONT>。你来啦……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>察提呢……？察提和西戴尔去哪里了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "<FONT color=#a82424>卡拉翰</FONT>把察提骗到了绿龙的宝玉被封印的<FONT color=#a82424>圣所</FONT>。西戴尔跟着卡拉翰和察提过去了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>宝玉被封印的圣所……？那个地方是哪里？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "西戴尔说圣所好像在<FONT color=#a82424>古代武器库的东边</FONT>。<br>我也打算跟过去看看。<br><FONT color=#387206>{user_nick}</FONT>，你要不要一起去啊？",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊……我还有其他事要去。我待会自己过去吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>Mission Object.</FONT><br>▷ <FONT color=#7e12d2>请移动到龙之追随者据点。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "好的，那，再见！<br><br><FONT color=#7e12d2>（链接学者站台，和百合花对话）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ 无法找到<FONT color=#086171>连接网络所需的</FONT><FONT color=#a82424>主密钥</FONT><FONT color=#086171>。</FONT><br>▷ <FONT color=#7e12d2>请确认下是否持有主密钥。</FONT><br>▷ <FONT color=#7e12d2>关于服务品质的问题，请联系客服中心。</FONT><FONT color=#7e12d2><br></FONT><FONT color=#086171>※ Bellin Corporation. 客服中心：1588 - xxxx（24小时运营）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……？ （确认下通讯器）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>（找不到通讯器。如果没有通讯器，就无法跟百合花联络了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>掉……掉到那里去了？！</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>（去龙之追随者据点寻找通讯器吧）</FONT>",
+      "answer": "",
+      "image": "qw_54.png"
+    }
+  ]
+}

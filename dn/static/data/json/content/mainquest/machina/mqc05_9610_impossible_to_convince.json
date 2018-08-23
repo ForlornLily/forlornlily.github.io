@@ -1,0 +1,146 @@
+{
+  "qkname": "难以说服",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "你说主教伊格纳西奥是龙之追随者？<FONT color=#a82424>姐姐</FONT>也说过同样的话。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "像主教那样拥有强大力量的人竟然会是龙之追随者，真是太可怕了。他会利用主教的权利作出什么事来呢，想想就令人毛骨悚然。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他现在好像正在为复活萨芬特拉搜集材料。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "现在，其他冒险家奉主教之命，正在搜集的，很可能就是用来复活萨芬特拉的材料。啊，这该如何是好呢。得赶快阻止他们才行…….",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那些傻瓜都是谁呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "是<FONT color=#a82424>牧师伊桑</FONT>和<FONT color=#a82424>魔法师安杰利卡</FONT>。他们可不是傻瓜。只是被主教的话蒙骗了而已。",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "我也不知道那些冒险家都是谁。你去问问<FONT color=#a82424>埃提亚</FONT>吧。",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "<FONT color=#7e12d2>（安杰利卡好像正忙于寻找什么东西。 等把神圣天堂的事情办完后，再来吧。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "<FONT color=#7e12d2>（伊桑好像正忙于寻找什么东西。等把神圣天堂的事情办完后，再来吧。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "我听王城近卫兵劳尔说，安杰利卡和伊桑好像往<FONT color=#a82424>枯叶森林爆炸地区</FONT>方向去了。<br>我也不太清楚他们到底去找什么了。",
+      "answer": "",
+      "image": "qw_41.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "你好像是跟我们过来的吧……有什么事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你们是奉主教之命到这儿来的吧？你们正在做的事，最好不要继续了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "你在说什么呢？怎么一见面就说这种话。你如果有事想要拜托我们，至少得先报上姓名吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我叫{user_nick} </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "啊，<FONT color=#387206>{user_nick}</FONT>，我听伊格纳西奥提起过你。<br>他说只要是<FONT color=#387206>{user_nick}</FONT>你的事，让我们无论如何都要帮忙。你为什么要让我们停下来呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他让你们搜集的材料是用来复活萨芬特拉的，所以……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "你这是什么话？伊格纳西奥没道理复活萨芬特拉啊？你是从哪道听途说的？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>因为伊格纳西奥就是龙之追随者的间谍！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "<FONT color=#7e12d2>（安杰利卡看了一眼牧师伊桑后说道）</FONT><br>你竟然敢在牧师面前诋毁主教。那你有证据吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>证据……我……因为我曾经也是龙之追随者。<br>伊格纳西奥是向我下达指示的龙之追随者高层。他让你们帮我，也是为了他自己的事。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "嗯，你没有能拿给我们看看的证据吗？<FONT color=#387206>{user_nick}</FONT>你口说无凭，让我们怎么相信。<br>而且你说主教让我们搜集古代人的咒文书是用来复活龙的，也让人很难以置信。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "是你自己说你是龙之追随者的吧？这样我们就更没道理相信你了。<br>伊桑，我们返回王城吧。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n你是什么人？",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，我们现在得返回王城去了。<br>我不会把你说的话告诉主教，希望你和伊格纳西奥日后能慢慢沟通，解除你们之间的误会。",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "嗯，原来如此。不管怎么说，他都是受人尊敬的主教。原本以为能够轻松说服他们，看来是我们失算了。 ",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "既然如此，你就装作帮主教做事，然后从中阻碍。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "伊桑，我们返回王城吧。",
+      "answer": ""
+    }
+  ]
+}

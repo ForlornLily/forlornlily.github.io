@@ -1,0 +1,117 @@
+{
+  "qkname": "重新精炼工具",
+  "data": [
+    {
+      "npc": "铁匠宝林",
+      "question": "\n啊，你让我帮你看看装备？<br>\n在哪呢，给我看看。",
+      "answer": ""
+    },
+    {
+      "npc": "铁匠宝林",
+      "question": "嗯……喂，小姑娘。我会免费为你修理装备，你把它交给我吧。<br>\n这样的装备足以让一个铁匠热血沸腾！",
+      "answer": ""
+    },
+    {
+      "npc": "铁匠宝林",
+      "question": "不过，目前铁匠铺的材料不足以修补装备啊。<br>你能去教训下<FONT color=#a82424>霜风峡谷</FONT>的魔物，顺便搜集些破裂的盾牌碎片吗？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "铁匠宝林",
+      "question": "好的。你出了村庄，应该就能看到<FONT color=#a82424>雪霜坡道</FONT>。<br>\n只要沿着雪霜坡道往前走，很快就能找到通往<FONT color=#a82424>霜风峡谷</FONT>的路了。",
+      "answer": "",
+      "image": "qw_7.png"
+    },
+    {
+      "npc": "铁匠宝林",
+      "question": "不知道拜托小姑娘做这些事情有没有问题。<br>但既然你是冒险家，应该能做到吧？<br>\n那，我等着你的好消息。",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br>▷ <FONT color=#7e12d2>请去找铁匠宝林，将装备调节至适宜现在的身体大小。</FONT>",
+      "answer": "",
+      "image": "qn_blacksmith_dorin.png"
+    },
+    {
+      "npc": "铁匠宝林",
+      "question": "请前往<FONT color=#a82424>霜风峡谷</FONT>，从强大的魔物身上搜集盾牌碎片。<br>为了不迷路，请仔细观察画面右侧的任务提示箭头。",
+      "answer": "",
+      "image": "qw_7.png"
+    },
+    {
+      "npc": "铁匠宝林",
+      "question": "\n啊……你搜集到材料啦。<br>\n你挺厉害的嘛？",
+      "answer": ""
+    },
+    {
+      "npc": "铁匠宝林",
+      "question": "\n好的，那你稍等一会儿。<br>\n我现在就为你修理装备。<br>\n<FONT color=#7e12d2>（宝林拿着锤子，活动了下肩膀和手腕）</FONT>",
+      "answer": "",
+      "image": "qn_blacksmith_dorin.png"
+    },
+    {
+      "npc": "铁匠宝林",
+      "question": "ndUI_Item_Repair.wav}<br>\n哎嘿嘿~！！<br>\n哎哎嘿嘿~！！！<br>\n<FONT color=#7e12d2>（宝林开始用锤子快速敲打装备）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "铁匠宝林",
+      "question": "ndUI_Item_Fail.wav}<br>\n哎嘿~！<FONT color=#7e12d2>（呼哧）</FONT><br>\n很好，不错~！！<FONT color=#7e12d2>（哧哧）</FONT><br>\n哎呀~！！！<FONT color=#7e12d2>（咯吱）</FONT><br>\n哎哟吼~ 哎呀吼~！！！！<FONT color=#7e12d2>（咔擦）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "铁匠宝林",
+      "question": "ndUI_Item_Broken.wav}<br>\n嘿嘿……嘿嘿……<br>\n<FONT color=#7e12d2>（宝林停止了激烈的锤子敲击动作，攥着锤子的宝林双手和瞳孔都有着细微的颤抖）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "铁匠宝林",
+      "question": "\n嘿……嘿嘿啊哈哈哈哈哈！<br>\n你，你也看到啦，修理得很成功！<br>\n<FONT color=#7e12d2>（宝林爽朗地笑着）</FONT>",
+      "answer": "",
+      "image": "qn_blacksmith_dorin.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>嗯？你去哪里？！</FONT><br>\n<FONT color=#662500>好像听到了什么东西断裂的声音啊……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "铁匠宝林",
+      "question": "\n小姑娘，这你就不懂了吧……<br>\n这么说吧……如果仔细观察这裂、裂缝的细微分布及构成，就能发现这是运用了空气冷却式冷却方法，为了预防装备过热，让热量自然散去。",
+      "answer": ""
+    },
+    {
+      "npc": "铁匠宝林",
+      "question": "那么，祝你冒险之旅愉快。<br>如果能好好分解下这装备就好了……<br><FONT color=#7e12d2>（宝林似乎觉得非常可惜）</FONT>",
+      "answer": "",
+      "image": "qn_blacksmith_dorin.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（装备优化已经完成，返回学者站台，重新进行链接吧？）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_MR_Jasmin_sp_03.ogg}<br><FONT color=#387206>{user_nick}</FONT>，装备没什么异常的吗？",
+      "answer": "这个嘛，修理倒是修理了……"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "嗯？嗯~ 不过，<FONT color=#a82424>宝林</FONT>是声名远扬的实力铁匠，应该已经彻底修理好了。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "好了，现在正式开始作战吧？",
+      "answer": ""
+    }
+  ]
+}

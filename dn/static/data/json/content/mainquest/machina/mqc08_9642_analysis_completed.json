@@ -1,0 +1,189 @@
+{
+  "qkname": "完成解读",
+  "data": [
+    {
+      "npc": "西戴尔",
+      "question": "卡拉翰是佩奥里斯塔的耻辱。为了给察提和卡拉秋报仇，为了证明我和他是不同的人……我们必须跟他做个了断。<br><FONT color=#7e12d2>（西戴尔的脸上显示出坚定的意志）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "对了，老师还交代过我一件事。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#387206>{user_nick}</FONT> ，你去转告你师父，就说笔记都解读好了，可以吗？",
+      "answer": "",
+      "image": "qn_npc_shaolong.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>笔记？你是说蓝塔娜的笔记？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我也不知道是什么笔记。老师在临死前不久，我们一起对那本笔记进行了解读。<br>由于笔记中出现的地图不完整，我费了好大的劲才解读出来。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那是我拜托的事，师父他并不知道。<br>想知道笔记内容的人是我。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "可是卡拉秋老师说，把笔记解读完之后，叫我去和一个名叫小龙的人商议？<br>他说小龙会同与此事相关的某个人联系。小龙不就是你的师父吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（我从未和师父说过有关笔记的事啊？这是怎么回事？）<br>你把笔记的内容给我，我会转交的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "抱歉，我不能这么做。老师说一定要先联系小龙才行。<br>你只要转告<FONT color=#a82424>小龙</FONT>说笔记的内容已经解读好了，他就会明白了。",
+      "answer": "",
+      "image": "qn_npc_shaolong.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "真奇怪，事情明明已经要结束了。<br>啊啊，这是我个人正在打听的事，你不用操心。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "……<br><FONT color=#7e12d2>（好像在等什么人）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "\n（什么也没有）",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我一定要遵从老师的吩咐。<br>请你帮我转告<FONT color=#a82424>小龙</FONT>吧。",
+      "answer": "",
+      "image": "qn_npc_shaolong.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "你来啦，我的徒弟！卡拉秋的葬礼可真是壮观啊。<br>我和村庄的人说，你在这场葬礼中起到了很大的作用。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>西戴尔让我转告你说笔记已经解读好了。<br>他好像是打算把笔记交给休利亚，怎么会让我转告师父你呢？师父！该不会……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "咔！什么嘛，你用这种眼神看着我，该不会是在怀疑我吧？<br>我不是说过嘛，师父我是阿尔特里亚人脉最广的人。<br>你没听过这种人脉理论吗？只要走过六座桥，在这大陆上就没有不认识的人！",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "只不过是因为我朋友的朋友正在参加巴奥兽人团。<br>这里的大部分村民，我也只是装作不认识而已，巴奥兽人团当中也有一个我的朋友。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>既然这样，请你告诉我西戴尔和休利亚会在什么地方见面。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "这……这个嘛，我就不清楚了。我只是把消息转告给我的朋友，然后我的朋友再转告他的朋友……哎呀，搞得我头都大了。反正我也不知道在哪？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>切，一到关键时候就不知道，果然是师父你的性格。算啦，还是我自己去找吧。<br></FONT><FONT color=#662500>（启动蓝塔娜给的磁石装置，发现光线指向</FONT><FONT color=#a82424>女王庭院</FONT><FONT color=#662500>。前往<FONT color=#a82424>女王庭院</FONT>吧）</FONT>",
+      "answer": "",
+      "image": "qw_68.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "你就不能老实地待着吗。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "……<FONT color=#387206>{user_nick}</FONT>？<br>你怎么会在这儿……真奇怪。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>有什么好奇怪的。你是来送笔记的吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "嗯，老师说把消息转达给<FONT color=#a82424>小龙</FONT>之后，就到这儿来把笔记交给原住民。<br>可是来的怎么会是你呢？真奇怪。",
+      "answer": "",
+      "image": "qn_npc_shaolong.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……？？……！！！<br>没错。我也是原住民。你把笔记交给我吧！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "如果是需要把笔记给你，没有理由一定要到这儿来。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那是因为卡拉秋非常谨慎。你难道还不相信卡拉秋的话吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我不是这个意思，我只是觉得你到这儿来很奇怪……好吧，既然是卡拉秋老师说的，应该不会有错。<br><FONT color=#7e12d2>（西戴尔拿出一个装着笔记的包裹）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>别担心，相信我吧！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那就把笔记拿出来吧？<br></FONT><FONT color=#7e12d2>（打开包裹）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>额？怎么打不开？<br>该不会是那个老太……哦不，是卡拉秋施了什么咒语吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎么办，除了回去找师父帮忙，没有别的办法了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "怎么会这样，不可能啊？<br>真是太窘迫了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你在这儿自言自语什么呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "额，你回来啦。你突然离开，是出什么事了吗？",
+      "answer": ""
+    }
+  ]
+}

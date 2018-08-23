@@ -1,0 +1,151 @@
+{
+  "qkname": "族长的符咒项链",
+  "data": [
+    {
+      "npc": "察提",
+      "question": "这里好像没有什么其他的痕迹……<br>你也去其他地方看看好吗？"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "你查看过<FONT color=#2b2723>利物沃特村庄废墟</FONT>了？<br>你要是见到察提，就转告她，我查看的方向没发现什么。<br>\n察提应该还在<FONT color=#a82424>古代图书馆</FONT>。",
+      "answer": "",
+      "image": "qw_52.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": "",
+      "image": "qw_52.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#7e12d2>（去古代图书馆见见察提吧）</FONT>",
+      "answer": "",
+      "image": "qw_52.png"
+    },
+    {
+      "npc": "察提",
+      "question": "啊……，必须快点去找才行啊……<br>你已经去过了吧？找到什么了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没有，不过有个人给了我这个……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "<FONT color=#7e12d2>（察提一把抢过了项链）</FONT><br>这……？这不是我爷爷的东西吗？！<br>这东西怎么会在你手上呢？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>看来确实是族长的东西？</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "你查看过<FONT color=#2b2723>利物沃特村庄废墟</FONT>了？<br>你要是见到察提，就转告她，我查看的方向没发现什么。<br>\n察提应该还在<FONT color=#a82424>古代图书馆</FONT>。",
+      "answer": "",
+      "image": "qw_52.png"
+    },
+    {
+      "npc": "察提",
+      "question": "你还不赶紧说？！<br>你这是从哪儿找到的？！<br><FONT color=#7e12d2>（察提紧紧地抓着我的领口）</FONT>",
+      "answer": "（提起那个奇怪的男人）"
+    },
+    {
+      "npc": "察提",
+      "question": "ionTalk2}<br><FONT color=#7e12d2>（察提缓缓放开了我的领口）</FONT><br>什么？怎么可能？！<br>嗯，总感觉很奇怪……<br>你不会是对我撒谎了吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我为什么要对你说谎呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "嗯……好吧。<br>我要去个地方，麻烦你告诉<FONT color=#a82424>西戴尔</FONT>不要为我担心。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你要去哪儿？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "我没有必要连去哪儿都一一告诉你吧？这事情不用<FONT color=#a82424>西戴尔</FONT>操心，你就这么帮我转告他吧。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "察提找到什么了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没有。不过她说要去个地方就走了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "是吗？<br>难道……她不会又去见那个<FONT color=#a82424>值得信赖的人</FONT>了吧……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>这个嘛，我也不太清楚……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "她没说要去哪儿吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，没说。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "察提也是，老师也是，去了哪里都不吱一声……<br><FONT color=#7e12d2>（西戴尔伤心地摇着头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡拉秋不在吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "嗯，乍一看，好像是去了古老码头废墟的那个方向……我总有种不好的感觉。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那就应该跟去看看呀？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#7e12d2>（西戴尔吓了一跳）</FONT><br>老，老师并没有说可以跟着她啊，要是这么做了……会被老师训的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可你不是很担心吗？先去看看吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

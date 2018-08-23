@@ -1,0 +1,194 @@
+{
+  "qkname": "龙的回归",
+  "data": [
+    {
+      "npc": "阿洁丽雅",
+      "question": "ndnpc_AN_Archer Agelia_qu_9269_02.ogg}<br>龙之追随者之王正在来吗?<br>真是大事不妙啊。",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "如果你说的叫阿尔杰塔的人能帮帮我们就好了<br>偏偏现在又不在，到底该怎么办才好呢?<br><FONT color=#7e12d2>(说起来阿尔杰塔不见了)</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "阿尔杰塔到刚才为止还是在的，不过跟某个冒险家说了几句话就离开了。<br>在旁边的金发剑士也一起离开了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不知道去哪儿了吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "嗯。他们看起来不是很想跟我说话。<br>只是，那个金发的剑士说过<FONT color=#a82424>能对付龙的只有龙</FONT>这种话。<br><FONT color=#7e12d2>(阿洁丽雅看着周围忽然发现了什么)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "啊！幸好和他们说话的冒险家还没有出发呢。<br>就是那边的黄发人类。他也许知道他们去了哪儿。",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "嗯。他们不是很想与我对话。<br>不过肯定有关于他们行踪的线索。<br><br>\n<FONT color=#7e12d2>（* 65Lv以后才能执行任务）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "得快点去追阿尔杰塔大人...<br><FONT color=#7e12d2>(西恩似乎有点忙。去和游侠阿洁丽雅对话吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_azelia.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#7e12d2>(阿尔杰塔急忙离开了。</FONT><br><FONT color=#7e12d2>与阿洁丽雅对话吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_azelia.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊! <FONT color=#387206>{user_nick} </FONT>大人! <br>能在这里见到你真是太高兴了呢?<br>嗯，因为这里是精灵的故乡啊!",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>西恩大人也来这儿了啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "是啊。见到了父亲呢。可是父亲...<br><FONT color=#7e12d2>(西恩犹豫着该不该说)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "虽然那无法解释好，不过我得从使徒那儿寻找更多的线索。<br>因此一路走到这儿了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>阿尔杰塔大人呢?<br>听说你们在一起的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "龙之追随者正在污染着森林。精灵们的女王继承仪式结束之前，森林的力量会变得很弱...<br>\n啊。说起来<FONT color=#387206>{user_nick}</FONT>大人知道这些吧?<br><FONT color=#7e12d2>(西恩不好意思地挠着头)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯。于是，阿尔杰塔去哪儿了?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "简单说明的话，阿尔杰塔大人怕萝丝琳德恢复先知的能力，去确认<FONT color=#a82424>古代人的遗物</FONT>了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？古代人的遗物??</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊！你不知道这个啊。在<FONT color=#a82424>黄金草原</FONT>保管着从古代人的村庄处拿来的遗物。<br>萝丝琳德似乎在找这个遗物。",
+      "answer": "",
+      "image": "qw_78.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>黄金草原的话，听说龙之追随者和使徒们正在聚集在那儿。<br>为了迎接他们的王...</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "是吗？大事不妙啊。<br>也许他们已经发现了遗物也说不定吧!?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#a82424>黄金草原</FONT><FONT color=#662500>，快去看看吧。</FONT>",
+      "answer": "",
+      "image": "qw_78.png"
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "找到了与阿尔杰塔大人对话的冒险家…吗?<br>那边的<FONT color=#a82424>黄发冒险家</FONT>就是了。也许他知道她的行踪。",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "如果遗物被抢了怎么办??<br>快去<FONT color=#a82424>黄金草原</FONT>看看吧。",
+      "answer": "",
+      "image": "qw_78.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "杰兰特大人…和以前的杰兰特大人太不一样了。<br><FONT color=#7e12d2>(西恩似乎很慌张。与阿尔杰塔对话吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9270_01.ogg}<br>什么?<br>\n我现在心情不好。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我看到金发剑士的战斗了。<br>红龙，还有遗物怎么样了?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我现在心情非常不好。<br>\n虽然时间过得蛮久的，不过竟然忘了是我把遗物放到那儿了。<br>经常和你们这种小朋友相处，我的记忆力似乎也变得像你们一样遗憾了。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9270_02.ogg}<br>遗物被抢，龙之追随者那些家伙也让他们跑了吗。<br>都是因为那家伙只顾着对付红龙才失手的。<br>\n啊唔，好生气!",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "而且红龙也让它跑了<br><FONT color=#a82424>杰兰特</FONT>虽然去追了…不过看起来很难追到啊。",
+      "answer": "",
+      "image": "qn_npc_geraint_kid.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰兰特大人??</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9270_03.ogg}<br>啊!你这次是第一次见杰兰特吗?<br>\n是有可能吓一跳呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>变了… 很多呢。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "他不是以前的杰兰特。我们是由宝玉纯粹的力量诞生的存在。<br>新出生的他不可能会有以前的记忆或感情留下。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "所以你最好别把他想成是以前的他。<br>\n因为说不定连你也会被他扔掉吧?",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

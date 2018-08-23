@@ -1,0 +1,225 @@
+{
+  "qkname": "为了少女",
+  "data": [
+    {
+      "npc": "侦察兵福古斯",
+      "question": "刚好我在追踪红色鹰身人的时候，艾德琳也在旁边，所以她应该也听到了它们的演奏。你跟她学会黑暗精灵的竖琴演奏后，就马上前往<FONT color=#a82424>叹息峡谷</FONT>吧。",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "嗯……<FONT color=#a82424>叹息峡谷</FONT>是非常危险的地区，我应该跟你一起去才行……<br>不过<FONT color=#387206>{user_nick}</FONT>，真不好意思，<FONT color=#a82424>冒险家公会</FONT>下达了紧急待命的命令，所以我不能离开。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>发生了什么事情？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "听说公会正在缉拿的人最近出现在了凯德拉附近。那人就是一身黑色盔甲和黑色披风的<FONT color=#a82424>黑骑士</FONT>，目前冒险家公会的大部分兵力都在追查他的下落。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>看来他是个坏人喽？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "是啊。他对村庄造成了伤害……不过，<FONT color=#387206>{user_nick}</FONT>，请你先去<FONT color=#a82424>艾德琳</FONT>那里修好竖琴，然后前往叹息峡谷。我们将这边的事情处理完后就去和你会合。",
+      "answer": "",
+      "image": "qn_npc_archer_adellin.png"
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "凯德拉关卡对我来说是一个既有喜悦又有悲伤的地方……和他相遇时的幸福，与他分别时的悲伤……<br>那里充满了我们之间的回忆。",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（没有看到什么特别的地方）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你必须先去艾德琳那里修好竖琴。请前往凯德拉关卡的<FONT color=#a82424>艾德琳</FONT>那里吧。",
+      "answer": "",
+      "image": "qn_npc_archer_adellin.png"
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "哎呦，是个可爱的小姑娘啊。不过，你找我有什么事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>您能帮我修好这架竖琴的琴弦吗？</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "好久没看到竖琴了。前段时间和福古斯一起巡查的时候好像还听到了竖琴的声音……啊，抱歉。你是让我帮你修好竖琴吧！",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "你手里的竖琴……这么看来，我也好久没有演奏过竖琴了呢。当然，我会帮你修好的。正好我这里留有琴弦，只要稍微修理一下应该就可以了。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "能告诉我你想用这把竖琴做什么吗？",
+      "answer": "（把事情从头到尾说明一遍）",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "ndQuest_Harp_01.wav}<br>啊，那个旋律我可以为你演奏。福古斯的演奏很不像话，所以我会把我听到的旋律演奏给你听的。<br><FONT color=#7e12d2>（艾德琳微微闭上眼睛，演奏起了竖琴）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我对乐器可没什么天赋……看样子并不太容易啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "这旋律并不像你想象的那么难。竖琴这种乐器，只要像这样用手指轻轻抚动，就能发出自然悠扬的声音。<br>你试试看吧。<br><FONT color=#7e12d2>（高级弓箭手艾德琳和蔼地微笑着递过了竖琴）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "ndQuest_Harp_BadPlay.ogg}<br><FONT color=#662500>（学着演奏刚刚听到的旋律）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "<FONT color=#7e12d2>（艾德琳的表情有些惊慌）</FONT><br>不是那么演奏的……这里的琴弦要这样，按住这里。再试一次吧。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（嗯……虽然试了好几次，可还是演奏不好）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（感觉艾德琳有些不耐烦了。必须再努力些才行……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（艾德琳跟我讲述了名为录音机的东西。用它能打开门吗……？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（好像渐渐地，有点感觉了……再演奏一次试试吧？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "ndQuest_Harp_BadPlay.ogg}<br>嗯嗯……好多了。这种程度应该已经足够了。祝你在<FONT color=#a82424>叹息峡谷</FONT>中……演奏成功。<br><FONT color=#7e12d2>（艾德琳好像放弃继续教我了。先前往叹息峡谷吧）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "虽然演奏竖琴并不容易，但是我会祝你好运的。如果在<FONT color=#a82424> 叹息峡谷</FONT>内演奏刚才的竖琴旋律，结界应该就会打开。",
+      "answer": "",
+      "image": "qw_14.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "少女被关在叹息峡谷。请你带着魔法竖琴前往那里，将红色鹰身人情妇引出来，然后从怪物手中救出少女吧。红色鹰身人情妇不同于普通的鹰身人，它会散发出一种极不寻常的氛围，所以请务必小心。",
+      "answer": "",
+      "image": "qm_harpyred.png"
+    },
+    {
+      "npc": "峡谷的结界",
+      "question": "\n<FONT color=#7e12d2>（在这里演奏竖琴吧）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "峡谷的结界",
+      "question": "ndQuest_Harp_BadPlay.ogg}<br><FONT color=#7e12d2>（演奏竖琴解除结界）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（啊，不是这么演奏的……艾德琳……怎么说的来着？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "ndQuest_Harp_BadPlay.ogg}<br><FONT color=#662500>（重新演奏）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊啊啊呃！！我的手指！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（啊，我怎么喊了出来？要是被怪物听到了可怎么办……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "ndQuest_Harp_01.wav}<br><FONT color=#662500>（老老实实地再试一次）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是偶……偶然吗！？总之成功了耶！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "事情怎么样了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哈啊……演奏竖琴，实在是太难了……</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "我不是说那个，我问的是<FONT color=#a82424>少女</FONT>。你不是说去救她吗？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哦，对了！黑骑士出现了，还把少女给……</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "你是说黑骑士出现在叹息峡谷，把少女抢走了？",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

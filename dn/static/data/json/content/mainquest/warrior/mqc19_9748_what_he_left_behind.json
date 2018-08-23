@@ -1,0 +1,119 @@
+{
+  "qkname": "他的话语",
+  "data": [
+    {
+      "npc": "魔法师安娜",
+      "question": "曹纳丹……他受了重伤？？",
+      "answer": ""
+    },
+    {
+      "npc": "可疑的箱子",
+      "question": " 未知的箱子。",
+      "answer": ""
+    },
+    {
+      "npc": "红龙卢比纳特",
+      "question": "……………………… ",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "受了严重到无法回到拉达梅斯的伤吗？我说了让他不要去，他还是不听……真是太蠢了！",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "……我应该怎么告诉曹纳丹的奶奶？不行。我要先去看一下！<br>你！你说什么来着？你说需要<FONT color=#a94407>钥匙</FONT>？ ",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……是的。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "来，你收下这个，赶紧去那个什么<FONT color=#a82424>红色荒地</FONT>吧！<br>我去救曹纳丹，需要获得诺尔佩大人的允许，没时间在这里和你磨蹭了。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "可疑的箱子",
+      "question": "<FONT color=#7e12d2>（越靠近光芒越亮）</FONT> ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>似乎就是这个箱子。用安娜给的钥匙试试看吧！</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "可疑的箱子",
+      "question": "\n啊，你现在才来啊，等一下！<br>\n<br><FONT color=#7e12d2>（从箱子里传出了卢比纳特的声音）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "红龙卢比纳特",
+      "question": "你太迟了，我都以为我要消失了。 ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卢比纳特！！！！我很担心你啊，你身体怎么样？现在在哪里啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "红龙卢比纳特",
+      "question": "ndnpc_Rubinart_9748_qu_01.ogg}<br>是啊，我也不知道我的身体是不是没事，因为我只是个意念体而已。<br>不过，我可以确定的是，现在的情况不大好。",
+      "answer": ""
+    },
+    {
+      "npc": "红龙卢比纳特",
+      "question": "因为遇到了特里亚，我的堕落开始加速了。而且通过<FONT color=#a82424>布卡努斯沼泽地带</FONT>而来也不是个明智的选择。我受到了陷入陷阱的复仇军团的影响。",
+      "answer": ""
+    },
+    {
+      "npc": "红龙卢比纳特",
+      "question": "ndnpc_Rubinart_9748_qu_02.ogg}<br>虽然我之前一直用理智在抑制堕落，可现在…好像已经达到极限了。这样下去，前往拉达梅斯很可能会对<FONT color=#086171>诺尔佩的立场</FONT>造成不利影响。",
+      "answer": ""
+    },
+    {
+      "npc": "红龙卢比纳特",
+      "question": "我和杰兰特前往了<FONT color=#a82424>迷雾中的黑色湖泊</FONT>。在那里我们可以避开耳目，诺尔佩也容易找到我们。",
+      "answer": "",
+      "image": "qw_118.png"
+    },
+    {
+      "npc": "红龙卢比纳特",
+      "question": "ndnpc_Rubinart_9748_qu_03.ogg}<br>杰兰特现在变得很敏感。都是因为我…不管他说什么话，你都别放在心上。你去转告诺尔佩，就说我的病情已经恶化，无法再用药了。",
+      "answer": ""
+    },
+    {
+      "npc": "红龙卢比纳特",
+      "question": "只要这么说<FONT color=#086171>诺尔佩</FONT>就能听懂。因为那孩子很聪明……<br><br><FONT color=#7e12d2>（回到</FONT><FONT color=#7e12d2>拉达梅斯</FONT><FONT color=#7e12d2>，向诺尔佩转告卢比纳特的话吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "多亏了安娜，曹纳丹才能没事。即使大家都说很危险，但是她还是冒险前往，青梅竹马的友情真是伟大啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那是青梅竹马的友情吗……</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "两个人从很小的时候开始就是朋友，曹纳丹的奶奶把安娜当做亲孙女来看待。",
+      "answer": ""
+    }
+  ]
+}

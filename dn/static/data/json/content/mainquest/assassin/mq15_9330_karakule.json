@@ -1,0 +1,103 @@
+{
+  "qkname": "莲花沼泽的卡拉秋",
+  "data": [
+    {
+      "npc": "邮箱",
+      "question": "<FONT color=#7e12d2>(好像收到了信)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "邮箱",
+      "question": "<FONT color=#7e12d2>(里面有西恩的信)</FONT>",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "西恩的信",
+      "question": "<FONT color=#7e12d2>(前略)</FONT> <FONT color=#387206>{user_nick}</FONT> 。<br>很抱歉，没能和你道别就离开了神圣天堂。",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "西恩的信",
+      "question": "听特里亚纳说，<FONT color=#387206>{user_nick}</FONT>你也好像要到莲花沼泽来。<br>如果真是那样，我想我也许可以帮到你，所以写了这封信。",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "好了，到莲花沼泽去吧。<br>我会跟着你。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊，<FONT color=#387206>{user_nick}</FONT>！<br>\n听说你要到这里来。<br>\n没想到这么快又见面了，这就是缘分吗？",
+      "answer": ""
+    },
+    {
+      "npc": "西恩的信",
+      "question": "如果你需要帮助，请到利物沃特码头来。",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "在神圣天堂的时候，因为没有心情……所以没打招呼就走了。<br>\n你帮了我很多忙，我却一声不响就走了，你一定觉得我是个没礼貌的家伙吧？",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "虽然不久前我还很狼狈……不过总不能那样一直消沉下去。<br>为了报答杰兰特的恩情，不管什么我都会去做。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>见到卡拉秋了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "是的，阿尔杰塔也在那里。<br>在卡拉秋的草屋里。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "但是阿尔杰塔的态度非常冷淡。<br>不过……她一向都这样。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>接下去你打算干什么呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "由于杰兰特的死去，各种龙的封印都解开了，必须去阻止它们。<br>还有……必须继续治疗我和其他冒险家，尤其是特里亚纳的病。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "需要做的事情有很多。我也希望能完成和 莉莉的约定，救出萝丝，把她送回普雷利镇去。此外，我还希望能成为超越巴尔纳的战士，见到我的父亲。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "现在没时间去回忆悲伤的往事了。<br><FONT color=#387206>{user_nick}</FONT>，我欠了你不少人情。需要帮助的话，请尽管说。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡拉秋在哪里？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "往那边走可以看到一座草屋。只要沿着路仔细找找，很快就能找到。<br>就是那边的那条小路。",
+      "answer": ""
+    }
+  ]
+}

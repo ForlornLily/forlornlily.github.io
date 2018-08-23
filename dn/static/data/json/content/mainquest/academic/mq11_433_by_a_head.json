@@ -1,0 +1,120 @@
+{
+  "qkname": "毫厘之差",
+  "data": [
+    {
+      "npc": "国王卡西乌斯",
+      "question": "你……你好。你来啦。<br>\n朕还是第一次见到和朕年龄相仿的少女，我，我很高兴……"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_01.ogg}<br>现在可谓是困难重重。目前先知暂且落入了人类的手中，我们要抓住这个时机。<br>你要时刻保持警惕，并适时采取行动。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我知道了，姐姐。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "首先……你要注意不要引起王城的怀疑。<br>不要成为他们警戒的对象，那样行动会有诸多不便。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我会注意的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_05.ogg}<br>如果王城中有人对你<FONT color=#a82424>非常友好</FONT>，那你就去那个人那里搜集些情报吧。<br><FONT color=#7e12d2>（进入王城内部，见见国王卡西乌斯吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "你……你好，你来啦。<br><FONT color=#7e12d2>（卡西乌斯非常高兴）<br></FONT>我还是第一次见到跟朕同龄的少女，我很开心……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>其他的冒险家呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "根……根据情报员的报告，好像发现了类似<FONT color=#a82424>黑骑士</FONT>的人。<br>所以，冒险家们刚刚接受<FONT color=#a82424>主教伊格纳西奥</FONT>的委托，前去寻找黑骑士了。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那先知呢？</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "嗯……好，好像没有发现先知。<br>总之，我觉得有必要确认下这件事……所，所以才会派冒险家到那个地方。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个地方是哪里？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "情报员目睹到黑骑士的地方是<FONT color=#a82424>被遗弃的韦尔顿哈鲁</FONT>。<br>像，像你这样的小女孩独自前往那里的话太危险……了……<br>你为朕甘冒这么大的危险……朕真的，很感激。",
+      "answer": "",
+      "image": "qw_31.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_05.ogg}<br>黑骑士在<FONT color=#a82424>被遗弃的韦尔顿哈鲁</FONT>……说不定能找到<FONT color=#a82424>贝思柯德</FONT>的行踪。<br>王城的情报比较快捷，你先根据王城的情报行动吧。",
+      "answer": "",
+      "image": "qw_31.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "我听到了消息。其他冒险家们好像也看到了……<br>有位<FONT color=#a82424>金发</FONT>的陌生骑士突然出现，与黑骑士进行了战斗。",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（应该是杰兰特）</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "呃呃……不知道事情会如何发展。<br>希望将军快点回来，我才能跟他商议……<br><FONT color=#7e12d2>（请返回学者站台，向姐姐报告）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_02.ogg}<br>什么？！贝思柯德与杰兰特展开了战斗？<br>该死……那是他们还是敌对关系啊？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>好像是的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "嗯……根据记录记载，<FONT color=#a82424>杰兰特最终找回了先知，并在神圣天堂守护先知</FONT>……<br>现在该怎么办？目前你能做的事情是……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我该怎么做啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

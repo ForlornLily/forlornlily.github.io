@@ -1,0 +1,261 @@
+{
+  "qkname": "卡拉秋的兄弟",
+  "data": [
+    {
+      "npc": "商人洛西塔",
+      "question": "咦？怎么又回来了？<br>没见到察提姐姐吗？<br><FONT color=#7e12d2>(洛西塔歪了歪脑袋)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "你想知道其他冒险家的行踪？<br>嗯～战士西恩应该是到利物沃特码头去了。",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……我没什么话可以跟你说。<br>你应该去和那边的其他冒险家谈谈。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……我现在没什么话要跟你说了。<br><FONT color=#7e12d2>(露娜莉娅摇了摇头，闭上了眼睛)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不再问了。<br>我们回到利物沃特码头去吧。</FONT>",
+      "answer": "",
+      "image": "qw_liverwortferry.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "呵呵，就算故意把眼睛从我身上挪开也没用。<br>你是绝对无法抵抗我的美貌的，哈哈哈！",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊， <FONT color=#387206>{user_nick}</FONT>。<br>事情变得越来越复杂，我正在头疼呢。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "那个叫<FONT color=#a82424>卡拉翰</FONT>的疯子，你也见到了吧？<br>那个男人～说是卡拉秋的哥哥！",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "他看上去那么年轻，而卡拉秋却上了年纪。<br>你不觉得很奇怪吗？刚听到的时候，我都气得说不上话来。<br>\n伊桑那家伙的脸都发青了。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "卡拉翰是历史上第一位以男性的身份继承了佩奥里斯塔之名的优秀魔法师，但是他却抛弃了那个名字，之后离开了。看来其中一定有什么故事。<br><FONT color=#7e12d2>(西恩一脸为难)</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>如果他是卡拉秋的哥哥，是怎么保持住年轻的外貌的呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "NT><FONT color=#662500><br>(难道他也穿越了时间吗……不，应该不可能。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "据卡拉秋说，这是时空魔法的一种。对于能够操纵魔力的魔法师来说，让时间停下来或者变慢不是什么难事。当然，那种魔法能维持60多年时间，这一点让人非常吃惊……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "哎呀～虽然这么说，但光靠控制时空来获得那种效果是不可能的。<br>用魔力来控制时空是有一定的限度的，不能违背自然法则。</FONT><br>\n<FONT color=#2b2723>如果可以违背自然法则的话，我岂不是成了女神？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "如果光靠秘传魔法就能抑制老化的话，以马里安为代表的佩奥里斯塔的先祖们应该可以活得更久。</FONT><br>\n<FONT color=#2b2723>但是他们并没有超出人类的平均水平。也就是说……！<br></FONT><FONT color=#7e12d2>(安杰利卡一下子抬起了头)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "那个男人……一定知道秘传魔法之外的其他种类的魔法！！<br>比如说神圣魔法或者</FONT><FONT color=#a82424>古代的禁忌魔法</FONT><FONT color=#2b2723>之类的东西！</FONT><br>\n<FONT color=#2b2723>果然是坏蛋！！！坏蛋！疯！狂！的！坏！蛋！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "好了好了，镇静点，安杰利卡。<br>嗯……卡拉翰说会告诉我们有关失踪的原住民的情报，不知道能不能相信他。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "现在伊桑 和特里亚纳已经先出发了。我们也打算跟着过去。<br></FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#2b2723>，如果愿意，可以和我们一起到那边去。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "又要去见那个满嘴胡话的人……我的腿上都起鸡皮疙瘩了，唉～<br>不过又不能袖手旁观。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "我们必须查明察提的爷爷的下落。<br>卡拉秋说察提的爷爷是部落的族长，因此知道</FONT><FONT color=#a82424>重要物品的位置</FONT><FONT color=#2b2723>。</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty_grandfather.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "卡拉翰也许是在打那个东西的主意。<br>在发生什么事情之前，我希望能帮助他们。好了，我要先失陪了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "好了，我要到<FONT color=#a82424>利物沃特村庄废墟</FONT>去了！<br><FONT color=#387206>{user_nick}</FONT>，如果你也想帮助察提的话，就到那里去吧！！",
+      "answer": "",
+      "image": "qw_51.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "一定要来哦～多个人一起听那些疯话的话，会少痛苦一点～<br><FONT color=#7e12d2>(安杰利卡堵住耳朵走掉了)</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "要到<FONT color=#a82424>利物沃特村庄废墟</FONT>去？<br>是要再去见卡拉翰啊……好的，知道了。",
+      "answer": "",
+      "image": "qw_51.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "你为什么会在这里，过去的崇拜者？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(怎么回事？没看见其他冒险家，也没看见察提。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "啊哈～原来如此。<br>你也在寻找</FONT><FONT color=#a82424>察提一族的秘密场所</FONT><FONT color=#2b2723>吗？</FONT><br>\n<FONT color=#2b2723>啊哈哈哈哈！</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "追踪原住民的痕迹，找到他们躲藏的地方，也许就能找到我要的东西，对吧？<br>不是吗，</FONT><FONT color=#a82424>幻象</FONT><FONT color=#2b2723>？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>……！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "我也不知道你这家伙在寻找什么。<br>不过一定是琐屑、没用的东西。</FONT><br>\n<FONT color=#2b2723>一定不符合我卡拉翰大人完美、高贵的品味。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>(好像又穿越了时间。<br>好像没有往回，一定是往前穿越了。还有……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "NT><FONT color=#662500><br>(……卡拉翰的话并不可信。<br>他不会无缘无故抛出这么诱人的诱饵。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "你打算怎么办？过去的崇拜者。<br>你想像向日葵追随太阳，像老鼠追随奶酪的味道一样，跟着我卡拉翰大人吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>不，我不相信你的话。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "哦……？<br></FONT><FONT color=#7e12d2>(卡拉翰惊讶地看着我，无声地笑了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "你这家伙，变了嘛。<br></FONT><FONT color=#a82424>以前</FONT><FONT color=#2b2723>你不是一向为了实现自己的目的而不择手段的吗？</FONT><br>\n<FONT color=#2b2723>没想到现在变成了一个无趣的家伙。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "NT><FONT color=#662500><br>以前……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "对于我卡拉翰而言，麻烦的地位或修饰都没有意义。我的天才能力和美貌是我的一切，其他东西都与我无关。包括像你这种一直吊在我背后的标签……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "啧啧啧……无聊的人类总是这样。那些无法拥有我这样光辉命运的人，总是希望用修饰语来让自己显得更加伟大。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "我知道你稍微好一点，不过也一样。<br>啧啧……黑暗的失望感正在我宽广的心中刮起风暴。<br></FONT><FONT color=#7e12d2>(卡拉翰转过身去)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "好了，在为了我的美貌而来的阿尔特里亚的月光照耀大地的日子，我们再见吧。<br>过去的崇拜者！啊哈哈哈哈哈！",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "卡拉翰是使徒？<br>嗯……有可能。哎呀，使徒可真多啊。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "不把卡拉翰是使徒的事情告诉其他冒险家，真的没关系吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "如果穿越了很长的时间，那样做也许已经没有意义了。<br>不管怎样，辛苦你了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(现在我已经没有脾气了……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>应该去见见其他冒险家。<br>先回到村里去打听一下吧……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "任务奖励",
+      "question": "NT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "NT><br>\n<FONT color=#2b2723>你想回村里去看看啊。</FONT>",
+      "answer": ""
+    }
+  ]
+}

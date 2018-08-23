@@ -1,0 +1,160 @@
+{
+  "qkname": "搜索的结果非常出色",
+  "data": [
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "我让我的弟子安杰利卡去找秘传之球，但他到现在都没有回来。<br>\n那家伙到底在哪里乱转……",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "如果你好奇，就去<FONT color=#a82424>融解森林</FONT>看看吧。<br>说不定我的弟子<FONT color=#a82424>魔法师安杰利卡</FONT>正在那周围转悠呢。<br>如果你遇到他，请转告他趁早回来，否则后果自负。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "呃呃……事情怎么这么不顺利！！！<br><FONT color=#7e12d2>(魔法师安杰利卡嘟囔着)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n恩？你谁啊？",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "谁问你的名字了？你这个小屁孩怎么在这里？<br>难道……是老师让你来抓我回去的？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>啊，我想起来了，辛西亚让你趁早回去……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "果，果然！呃呃……难道我余生都要做一只青蛙吗？！<br>\n啊啊……我花一般的人生……都还没有绽放，就要凋谢了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>那个，秘传之球现在怎么样了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n秘、秘传之球……？！<br>\n<FONT color=#7e12d2>（安杰利卡反应有点敏感）</FONT><br>\n那……那个……额……",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n什么没找到！<br>\n找到了，我说找到了！！<br>\n只是……一找到就被抢……不，就丢了！哼！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>被抢走了？被谁抢走的？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n不是被抢走的，是丢掉了！<br>\n罪魁祸首是那个大块头的愚蠢<FONT color=#a82424>牛头怪</FONT>，切！",
+      "answer": "",
+      "image": "qm_minotauros_bison.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "为什么魔法山脊会出现牛头怪呢？那些牛头怪干嘛不像普通的牛一样，吃吃草得了！！<br>哎，气死我了！如果这件事被老师知道……呼……<br>不过，你在这里做什么？",
+      "answer": "",
+      "image": "qm_minotauros_bison.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>请稍等。</FONT><br>\n<FONT color=#662500>（用通讯器检测下数据吧）</FONT>",
+      "answer": "",
+      "image": "qm_minotauros_bison.png"
+    },
+    {
+      "npc": "File No.219  牛头怪翁巴巴",
+      "question": "<FONT color=#7e12d2>拥有着健壮的躯体和结实的皮肤，利用大斧头发出各种攻击。自从牧师们将据点转移到神圣天堂之后，牛头怪翁巴巴就占据了寂静修道院回廊。</FONT>",
+      "answer": "",
+      "image": "qm_minotauros_bison.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>请稍等。</FONT><br>\n<FONT color=#662500>那魔物似乎在寂静修道院回廊。</FONT>",
+      "answer": "",
+      "image": "qw_9.png"
+    },
+    {
+      "npc": "魔法师安杰利！！",
+      "question": "\n哇！好棒~！真神奇！<br>\n小姑娘，那个是什么东西啊？！是什么，是什么？？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>这个叫做通讯器。实际上，我来自未来……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n<FONT color=#7e12d2>（安杰利卡开始收拾行李）</FONT><br>\n总之，你好像蛮有用的，跟我来。<br>\n我们必须要快点消灭牛头怪，找回秘传之球！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>嗯？我吗？！我还有事情……！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n<FONT color=#7e12d2>（安杰利卡根本不在听）</FONT><br>\n你刚刚说是<FONT color=#a82424>寂静修道院回廊</FONT>？<br>\n牛头怪这家伙居然敢抢我的……不对，居然敢偷走魔法师们的财产？！等着瞧！！",
+      "answer": "",
+      "image": "qw_9.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n这算不了什么啦！嘿嘿嘿~",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n你刚刚说是<FONT color=#a82424>寂静修道院回廊</FONT>？<br>\n牛头怪这家伙居然敢抢我的……不对，居然敢偷走魔法师们的财产？！我们走着瞧！！",
+      "answer": "",
+      "image": "qw_9.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n这算不了什么啦！嘿嘿嘿~",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "找到<FONT color=#a82424>秘传之球</FONT>了吧？我刚刚看到秘传之球滚到了你那边。<br>好了，快交给我！",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>(……我与魔物作战时，你为什么只待在旁边看！)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "快给我！难道你……你想看到我被老师变成一只青蛙吗？你不觉得我可怜吗？<br>好啦~要乖哦？请将秘传之球交给我~~。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "嘿嘿嘿~ 我要去向老师报告啦~。<br>这就是我的实力！<br><FONT color=#7e12d2>（安杰利卡拿着秘传之球，飞快地跑走了。返回魔法山脊，去见见辛西亚吧）</FONT>",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "qkname": "相似却又不同",
+  "data": [
+    {
+      "npc": "????",
+      "question": "对不起……"
+    },
+    {
+      "question": "<FONT color=#7e12d2>已经死了。</FONT><br><FONT color=#7e12d2>不想再继续看了。</FONT>"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "啊，对了。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "这样看来，你听说过那个传闻？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么传闻？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "<FONT color=#2b2723>在你不久前去过的</FONT><FONT color=#a82424>奇迹祭坛保护区</FONT><FONT color=#2b2723>，据说有人看到一个少女从那里走出来。</FONT><br><FONT color=#2b2723>是个戴着眼镜和宽大的帽子，穿着一件看上去有点奇怪的衣服的少女……</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_shadow.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>啊！(是柯梅里纳！)听说那个少女去哪儿了吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "嗯？听说往<FONT color=#a82424>狂人研究所</FONT>方向去了。啊，对了……如果那个女孩是从奇迹祭坛保护区出来的，那她会不会知道研究资料在哪儿呢？",
+      "answer": "",
+      "image": "qw_70.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>也许吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "呵呵呵，很好。你去追踪那个那个少女。一定可以获得什么东西。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>(要是那样就好了……疑点太多了……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>(……已经断了气。不想一直看着……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "哎呀，那就拜托你了。安杰利卡来了之后，我也会派她过去。见到她的话，跟她打个招呼。<br>知道<FONT color=#a82424>狂人研究所</FONT><FONT color=#2b2723>在哪里吧</FONT>？就在奇迹祭坛保护区旁边，应该很容易找到。",
+      "answer": "",
+      "image": "qw_70.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "NT><FONT color=#2b2723></FONT><FONT color=#2b2723><br>啊，</FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#2b2723，你也在这里！？难道你是来找我的？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>嗯，柯梅里纳，我有事想问你。<br>奇迹祭坛的那具尸体和你是什么关系？</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_two.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……嗯……你把她当成是我的双胞胎姐妹不行吗？这是我的事情。我不想让这个时代的人卷进去。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(从之前开始，她就一直再说……历史还有时代什么的……柯梅里纳的话好像有点奇怪。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(难道，也许，不……好像不太可能)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>柯梅里纳，难道你也在穿越时间？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "嗯……嗯！！？！？！！！！？！？！？<FONT color=#7e12d2>(惊讶的差点要晕过去)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么！？真的？！！是真的吗？！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "你，你你你你你你你你是怎怎怎怎么知道的？！！？<FONT color=#387206>{user_nick}</FONT>，难难难难道XD系列可以突突突然变异吗啊啊啊？！？！！你是百合花的间谍吗！！？！消，消灭对象啊啊啊啊啊！！！！！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>等等！XD？？！百合花！？！？？不是露娜莉娅……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "嘎嘎，嘎嘎！！！！！！ 阿尔弗雷多哦哦哦哦！！！！！！<br><FONT color=#7e12d2>(柯梅里纳好像非常混乱)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "呃，呃啊……？<br>\n <br>\n ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>镇静，柯梅里纳。我不是敌人。我在不久之前才第一次见到你。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "嗯，嗯……？<FONT color=#387206>{user_nick}</FONT>，你是未来的反抗者吗……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是未来。也许，我可以算作是来自过去的人。和露娜莉娅在一起的话，会在几个月、几年后的过去或未来之间随机地移动，不过周围的环境不会有太大的变化。我也没有见到过你这种荒唐的技术。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>(柯梅里纳呆呆地看着我)</FONT>你在说什么啊？时代不是一次就结束的吗？还能不断地跳来跳去？那个叫做露娜莉娅的机器是最新的发明吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不，露娜莉娅不是那种东西，她是女神的……我也不知道是什么。总之她是个拥有穿越时间能力的少女。之前她一直和我在一起，我们穿越了很多次时间。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "嗯？！少女？不是天启，而是少女？ <br>哎呀，怎么可能？历史上根本没有那种记载～",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你觉得是绝对不可能的？我之前确实穿越过很多次。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "不可能！如果说同一时代有来自不同时代的同一个东西的话，其中一个就会消失。这是基本的法则，你连这都不知道吗？ <FONT color=#387206>{user_nick}</FONT>，如果你见到其他时代的自己的话，其中一个一定不会安然无恙。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，那个我经历过。也许你也看到了。</FONT><br>\n<FONT color=#662500>在莲花沼泽中你不是见到过跟我长得一模一样的另一个我吗？</FONT><br>\n<FONT color=#662500>虽然现在那个家伙消失了……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "嗯？！那你每次穿越时间的时候都是那样吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不，不是的……虽然经常遇到，但消失的事情应该只发生过一次……</FONT><br>\n<FONT color=#662500>(这次应该是消失了吧？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……那就更不对了。<FONT color=#387206>{user_nick}</FONT>，你在这里存在的事实……在历史上没有记录。竟然如此的不正常……<FONT color=#387206>{user_nick}</FONT>……你到底是什么？是人类吗？",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……呃呃，要不是现在有其他重要的事情的话。<FONT color=#387206>{user_nick}</FONT>，我真的很想很想研究你。不过现在情况特殊，我没有那个时间。 ",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……请收下这个。这是一个名叫伊戴尔基地的地方的地图。那是来自未来的军队驻扎的地方。去了那里之后，你就能相信我确实是从未来来的了。<FONT color=#7e12d2>(柯梅里纳拿出了一张地图)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "NT><FONT color=#662500><br>(……有具尸体。虽然看不清表情，但不想继续看着)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "呃，呃呃呃……<FONT color=#387206>{user_nick}</FONT>，你！！！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>斯，斯泰拉，你怎么了……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "你，你，为……为什么……不把那个少女和尸体长得一样的事情告诉我……我，我看到尸体突然站起来走路……！吓死我了！！！",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "现，现在的年轻人做事真是太不负责任了……啊，真是吓死我了……对，对了……研究资料……找到了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哎呀……(完全忘了)</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "你！！！！",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……详细的情况，等到了伊戴尔基地再跟你说。最好……别在这里待太久。<FONT color=#7e12d2>.(呆呆地看着地上的尸体。表情看上去很沉重……先回到高级魔法师斯泰拉那里去吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_soceressstella.png"
+    }
+  ]
+}

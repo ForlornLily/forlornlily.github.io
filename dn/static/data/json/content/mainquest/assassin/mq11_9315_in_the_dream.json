@@ -1,0 +1,277 @@
+{
+  "qkname": "先知的梦境",
+  "data": [
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "好了，特殊的梦粉做好了。<br>快拿着。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "快带着梦粉到先知那里去。<br>把它撒在那个女孩身上，就能进入她的梦境了。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "呵呵呵呵呵，现在知道我们魔法师的真正力量了吧？<br>\n那边的那个老狐狸根本无法和我们相提并论～ 呵呵呵呵。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "快去把梦粉撒在先知身上。<br>嗯，虽然不会有什么危险，但你可以问一问那个金龙～",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "……不要。<br><FONT color=#7e12d2>(少女抽泣着喃喃自语道)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "古代人的后裔还没有醒过来，<br>也没有什么其他的原因啊，到底是因为什么至今还不明确。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是什么原因造成的？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我对人类不太了解。<br>不过……她也许是在做一场不愿醒来的梦。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "就像我们的女神在无尽的梦中沉睡一样。<br>对我而言，人类少女和女神都是无法理解的对象。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "如果你想知道更多的东西，就进入她的梦境，直接去问问她。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "……<br>\n<FONT color=#7e12d2>(看上去好像完全睡着了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "不……要……<br>\n<br><FONT color=#7e12d2>(* 在组队状态下无法执行。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "……不要。<br><FONT color=#7e12d2>(少女抽泣着喃喃自语道)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你是萝丝……对吧？<br>你还记得我吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "ndnpc_Roze_sp_15_c.wav}<br>不要……不要……我已经厌倦了……所有的一切，都是因为我。<br>要是没有我的话……就谁都不会死。是吧？",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "ndnpc_Roze_sp_14_c.wav}<br>不要……不要……我已经厌倦了……所有的一切，都是因为我。<br>要是没有我的话……就谁都不会死。是吧？",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "不，是因为我。因为我的出生，因为我的存在，因为这……<br>\n所以我想一个人待在这里。不去任何地方，也不和任何人说话。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "ndnpc_Roze_sp_12_c.wav}<br>果然是因为我……因为我是在先知之星的照耀下诞生的……<br>因为我体内蕴藏着力量……<br>这给所有人带来了痛苦……都是因为我……",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "外面的世界很孤独、很痛苦……我的存在只会给所有人带来伤痛。<br>\n为什么要让我获得如此巨大的力量？我什么都做不了，为什么要让那种力量存在于我的体内？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(这个孩子只是个普通的女孩。<br>没有任何力量的女孩。却被劫持，被利用，被夺走了力量，现在又在梦中沉睡。就像……<br>就像阿尔泰亚女神一样。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "因为那种力量……很多人死了，很多人受了伤。全部，全部都是因为我。<br>对不起，真的对不起……我现在不想做任何事，不想呼唤任何人的名字……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！！等等！！！我好不容易到了这里，你什么话都不跟我说吗？<br>喂，萝丝！萝丝！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>如果你是可以看到女神梦境的人，请你看看我这纠缠不清的命运，跟我说点什么吧！<br>你的身世虽然很可怜，但我也很可怜！！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "<FONT color=#7e12d2>(少女的声音渐渐变得痛苦起来)</FONT><br>我厌倦了……我没有任何力量……<br>\n全都是因为我……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>但你不是有力量吗！<br>去勇敢面对的话，也许可以改变这个情况！<br>萝丝！只要你不放弃，只要……！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "我厌倦了……厌倦了。够了……<br>让我一个人待着……求求你……<br>\n",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "……<br><FONT color=#7e12d2>(就像木偶一样，什么反应也没有)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "不……要……！<br>\n<br><FONT color=#7e12d2>(* 在组队状态下无法执行。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "……我不想再受伤了……<br><FONT color=#7e12d2>(声音低了下去)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "……不要。<br><FONT color=#7e12d2>(默默地流着眼泪)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "古代人的后裔让你看到她的梦境了吗？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "可以说是<FONT color=#a82424>借助梦的形式展现的历史</FONT>。<br>\n刻印在她的潜意识中的一个人的历史。<br>你一直在聆听她的故事。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我期待你能把她唤醒。<br>但是看来她拒绝从梦中醒来。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>觉得醒来之后会更痛苦……所以才会这样吗？<br>她被卷入这一系列事件，可以说是身不由己。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>想要自暴自弃的心理，我也可以理解。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "这就是人类。<br>我们龙是为了完成义务而存在的种族。<br>\n但人类不同。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "因为是人类，所以有时会对明显的事实视而不见，害怕或者憎恨不确定的未来。<br>所以人类有时候会表现出懦弱和善变。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "人类会相互猜忌、背叛，或者对彼此漠然视之。<br>\n无情地放手，残酷地夺走生命。<br>\n……就连人类自己，有时都无法理解人类。人类之外的种族，就更加无法理解了。.",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……这是他本人经历的事情吗？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "不过人类是个坚强的种族，我坚信这一点。<br>时间有的是，不要着急。<br>\n总有一天，她会听到你的声音。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(是吗？那一天真的会到来吗……</FONT><br>\n<FONT color=#662500>不管怎样，希望萝丝能安然回家，我也能回到过去。<br>露娜莉娅也能找到自己该去的地方。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "不管那一天有多远，我都会在这里守护着她。<br>\n你先回到其他人那里去，做你该做的事情吧。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "古代人的后裔在这里很安全。<br>我一定会遵守我的誓言。别担心。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>(要去向宫廷魔法师卡拉安报告吗？)</FONT>",
+      "answer": "",
+      "image": "qn_npc_royal_magician_kalaen.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "你在梦中见到先知了吧？怎么样？先知打算什么时候醒来啊？<br>她该不会想一直睡下去吧？",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "什么？！那我们干嘛要把先知救回来啊？<br>\n沉睡不醒的先知到底有什么用！唉，真烦人！<br><FONT color=#7e12d2>(卡拉安不停地唠叨)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "哼，不过我想了想，至……至少你和她说过话，对吧？<br>所以～先知不是无法醒来，而是不愿意醒来！是吧？！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……嗯？！好像有点奇怪？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "呵呵呵呵呵！是的！没错，就是这样！我想了想，这不是我的错～呵呵呵呵。<br>魔法师果然了不起！帅呆了！干得好！呵呵呵呵呵。",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "总之，我的工作完成了，我得休息一下。<br>呼，制作像梦粉那样了不起的东西，是多么辛苦的工作，你是绝对无法理解的。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "你快走吧。<br><FONT color=#7e12d2>(卡拉安不耐烦地摆了摆手)</FONT>",
+      "answer": ""
+    }
+  ]
+}

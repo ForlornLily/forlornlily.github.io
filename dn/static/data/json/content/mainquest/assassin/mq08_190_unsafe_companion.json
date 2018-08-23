@@ -1,0 +1,211 @@
+{
+  "qkname": "危险的同伴",
+  "data": [
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "我说其他冒险家都到死亡森林去搜集零件了，你没有到那里去吗？<br>现在是什么时候？你在说什么莫名其妙的话啊……",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "总之其他冒险家现在到<FONT color=#a82424>水晶谷</FONT>那边去了。<br>要想启动飞艇，好像还需要别的东西。",
+      "answer": "",
+      "image": "qw_cristalstream.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "如果你想知道最新的消息，最好去见见他们。<br>对于冒险家来说，没有什么比在现场了解到的最新消息更重要了。",
+      "answer": "",
+      "image": "qw_cristalstream.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你有什么事吗？<br>……你不是去<FONT color=#a82424>水晶谷</FONT>见其他冒险家了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "愿女神的祝福与你同在……",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "我听到了宿命的召唤。<br>你没有听到吗？",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "没事～一切都会好起来的！<br><FONT color=#7e12d2>(战士西恩正在忙着和冒险家们聊天)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊，<FONT color=#387206> {user_nick}</FONT> 。<br>你好！！<br>\n你是从<FONT color=#a82424>冒险家公会会长戴卡德</FONT>那里听到消息之后赶过来的吗？",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的，听说你们想让飞艇飞起来。</FONT>",
+      "answer": "",
+      "image": "qw_airship.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "没错。<FONT color=#a82424>弓箭手特里亚纳</FONT>，还有那边的<FONT color=#a82424>牧师伊桑</FONT>和远处刚走的<FONT color=#a82424>魔法师安杰利卡</FONT>……<br>\n我们四个人正在帮着修理飞艇。",
+      "answer": "",
+      "image": "qw_airship.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "必须尽快到神圣天堂去，<FONT color=#a82424>把先知被抢走的消息告诉金发剑客</FONT>。<br>但是没有飞艇的话，就没办法到神圣天堂去。所以……",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "嗯？金发剑客是谁？<br>\n我们也不知道，哈哈。<br>是<FONT color=#a82424>阿尔杰塔</FONT>说必须把黑骑士抢走先知的消息告诉那个金发剑客……",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……阿尔杰塔？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "你不知道……银发女剑客吗？<br>\n嗯～<FONT color=#387206>{user_nick}</FONT>，你没见过她吗？<br>总之，她正在帮助我们。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(啊哈，你就是在凯德拉关卡的那个……<br>冒险家公会会长戴卡德提到过的那位啊。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "飞艇已经修好了，但是由于缺少能量，现在还没办法飞起来！<br>唉～问题一个接一个。<br>不过阿尔杰塔说可以利用<FONT color=#a82424>黑骑士用过的遗迹</FONT>来试试看。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "在沉睡者神殿中，有个<FONT color=#a82424>黑骑士窃取古代人的力量的场所</FONT>。<br>阿尔杰塔说那里还有剩余的力量，应该可以用来给悬浮装置充能。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "所以我们打算到沉睡者神殿去。<br>魔法师安杰利卡先出发了。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "西恩说是不是应该带你一起去。<br>所以我们才会在这里等你。",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "让我们继续努力，一定要救出<FONT color=#a82424>萝丝</FONT>。<br><FONT color=#387206>{user_nick}</FONT>，你也和我想得一样吧？我就知道！！",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>干嘛那么卖力地想要救出萝丝啊？</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "嗯？当然是因为我答应了<FONT color=#a82424>村长</FONT>和<FONT color=#a82424>莉莉</FONT>！<br>他们相信我。<br>\n我也希望能兑现我的承诺！！",
+      "answer": "",
+      "image": "qn_elder_harold.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "现在可以出发了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "<FONT color=#7e12d2>(伊桑看着站着发呆的露娜莉娅)</FONT><br>既然你有同伴，我们就不勉强了。<br>\n有机会再见吧。",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "好了，我们快点到<FONT color=#a82424>沉睡者神殿</FONT>去吧！",
+      "answer": "",
+      "image": "qw_16.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(把目的地告诉水晶谷的露娜莉娅吧。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "想在<FONT color=#a82424>沉睡者神殿</FONT>中给悬浮装置充能？<br>那些冒险家？<br>……我明白了。",
+      "answer": "",
+      "image": "qw_16.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "他们不是让你和他们一起去吗？<br>你为什么要拒绝呢？",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这是因为怕带着你一起去，把别的人也卷进时间的漩涡里。<br>但是又不能把你一个人丢在这里。</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "把我丢在这里也没关系。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我们必须一起回去。我想了想，并不只有我受到了那次事故的伤害。<br>露娜莉娅，你也没能去得了要去的地方。不是吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "要去的地方……<br><FONT color=#7e12d2>(露娜莉娅摆出一副迷茫的表情)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我会把你送回去。</FONT><br><FONT color=#662500>我也要回到过去。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你……之前也这样说过。<br><FONT color=#a82424>要把我送回去，然后你也回去</FONT>。回到最开始。<br>你是这样说的。我还记得。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "但是……",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了的话，就快走吧。</FONT>",
+      "answer": ""
+    }
+  ]
+}

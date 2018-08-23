@@ -1,0 +1,226 @@
+{
+  "qkname": "岛的结界",
+  "data": [
+    {
+      "npc": "诺尔佩",
+      "question": "结界……看来是岛主<FONT color=#a82424>海兰德尔</FONT>布下的。",
+      "answer": "",
+      "image": "qn_hirendel.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "很可能是为了保护海岛中央，在外侧布下了结界。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这么说，我们必须破坏外侧的结界才能进去喽？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "嗯，首先要进入岛内，才能正式展开调查，当然要先破坏外侧的结界才行。<br>对了，你看见格雷尔大人了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>其实……<br>（告知格雷尔偷偷上船的事。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "天啊……我说怎么不见格雷尔大人，竟然发生了这种事。<br>可仔细想想，如果能找到治愈之杯，对格雷尔大人反倒大有帮助。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这话什么意思？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "ndnpc_Nophee_9782_qu_01.ogg}<br>姐姐的事情对格雷尔冲击太大，现在状态非常不稳定。<br>这种情况下，一旦宝玉融合发生意外，很可能造成自我崩溃或癫狂。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "ndnpc_Nophee_9782_qu_02.ogg}<br>可如果有办法治愈姐姐，找到这个目标<br>，对当前处于非常不稳定状态的格雷尔大人是很有帮助的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你的意思是向不安定的自我注入目标意识？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "嗯。为了格雷尔大人，你们暂时还是一同行动吧。<br>但最好跟贝勒尼卡保密。极度理性的他，一定无法理解格雷尔大人的状态。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "只要调查环绕海岛外围的<FONT color=#a82424>卡伊伦海岸</FONT>，就能找到结界。<br>请一定嘱咐格雷尔大人保重身体。",
+      "answer": "",
+      "image": "qw_125.png"
+    },
+    {
+      "npc": "格雷尔",
+      "question": "诺尔佩也赞成我去卡伊伦岛？<br>感谢你们的信任……我一定会全力以赴的！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格雷尔你已经帮了我们很多了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "并没有……要不是我，卢比纳特也不会逃脱，<br>还被玛蒙抢走了宝玉，害大家为我担心……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你是反女神派的希望，格雷尔。<br>所以你绝不能灰心丧气。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "ndnpc_Grele_9782_qu_01.ogg}<br>嗯，我知道。<br>为了大家，为了姐姐，我一定会变得更强大。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "ndnpc_Grele_9782_qu_02.ogg}<br>我一定会找到治愈之杯，把卢比纳特、谜之大陆和阿尔特里亚，还有姐姐全都救出来。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好！我们一起努力！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "嗯！出发吧！<br>向<FONT color=#a82424>卡伊伦海岸</FONT>进发！",
+      "answer": "",
+      "image": "qw_125.png"
+    },
+    {
+      "npc": "格雷尔",
+      "question": "这座岛上的家伙相当强悍……我能帮上忙吗？",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "散发魔法气息的似乎就是这边的结界。<br>我们过去查看一下吧。",
+      "answer": ""
+    },
+    {
+      "npc": "结界",
+      "question": "\n<FONT color=#7e12d2>（感受到一股魔法力量。这似乎就是卡伊伦海岸的结界）</FONT>",
+      "answer": "破坏结界。"
+    },
+    {
+      "npc": "结界",
+      "question": "\n<FONT color=#7e12d2>（结界两边出现类似屏障的光一闪而过。结界好像被成功破坏了。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "包围卡伊伦岛的结界气息稀薄了不少。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "我们成功了？",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "还没有。这个结界不过是卡伊伦岛结界的一部分。<br>其他地方一定还有结界存在。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎么找到其他地方的结界？<br>这已经是海边的尽头了……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你先回去把结界解除的消息告诉诺尔佩<br>然后聊聊有关结界的情况。在破坏结界的时候，没有什么特殊感觉吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>在结界被破坏时的一瞬间，我在结界两边看到了类似屏障的光。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "嗯，我也看到了！一道光朝着森林方向，一道光朝着悬崖方向。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我们先返回梅尔卡吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "这里十分诡异，绝对不能贸然行动，一定要小心谨慎。<br>况且还要顾虑到孩子的安危。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（杰兰特看起来也是个孩子……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "我也认为，还是先找诺尔佩商量比较好。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那我这就返回梅尔卡吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "你安心返回梅尔卡，我会乖乖在这里等着，快去快回。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你去梅尔卡跟诺尔佩商量一下结界的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "你们破坏了卡伊伦岛的结界？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>海边的结界被破坏了，但也只是力量减弱了些，结界却依然存在。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "嗯……那说明其他地方还存在着结界。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "我在这等你。"
+    }
+  ]
+}

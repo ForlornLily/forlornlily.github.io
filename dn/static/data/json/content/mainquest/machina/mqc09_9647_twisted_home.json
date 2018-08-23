@@ -1,0 +1,175 @@
+{
+  "qkname": "扭曲的故乡",
+  "data": [
+    {
+      "npc": "埃提亚·尤斯提亚",
+      "question": "<FONT color=#387206>{user_nick}</FONT><FONT color=#2b2723>！好久不见啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "哈……正如我之前和你说的那样，我原本不是这幅模样，而是一个大帅哥哦。<br>年轻的时候我可有名了，整个村子的美女都跟成天跟着我呢。",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "不过，不知道是不是受到独臂拳法！的影响，我虽然获得了永生，但脸却变成了这幅模样。。<br>我当初之所以帮助巴奥兽人团，是因为这样可能会让我的脸恢复原状。",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "我一直觉得只要找到那个蓝塔娜的实验室，就能找到让我的脸恢复原状的方法……但后来被告知根本找不到我说的那种方法！",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "ndnpc_Shaolung_9647_qu_01.ogg}<br>早知道这样，那我就不帮助巴奥兽人团了。我为此付出的时间～！我的努力！<br>既然这样，师父我要退出巴奥兽人团！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哇，原来，你哭是为了这个啊？<br>害得我白开心了，我还以为你是怕再也见不到我才这样的……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "哈哈哈哈，要是让你知道实情的话，我就不好意思说出‘我就知道你会回到我身边的’这样的话了。<br>再说，你师父我要退出巴奥兽人团！如你所愿。<br>我应该现在就写退团书。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>请先不用写。我要告诉你，还另外存在一些蓝塔娜的实验笔记呢。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "其他笔记？你是说还有别的笔记？难道……难道！！！<br><FONT color=#7e12d2>(小龙眉开眼笑)</FONT> <br>也就是说，剩下的笔记上也许记录着可以让我的脸复原的方法。",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "事不宜迟，现在应该立马去找笔记才行啊。<br>对了，你之前使用过的那个磁铁装置！用那个东西就行了。<br>你快打开装置看看吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，好啦好啦，我知道啦。我来打开。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "装置指向了我们所隐藏的地方和<FONT color=#a82424>陨石坠落地中心</FONT>。嗯，那些人是察觉到我们的举动后才转移实验室的，所以警惕性非常高，我们要得到笔记并非易事啊……",
+      "answer": "",
+      "image": "qw_63.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "<FONT color=#a82424>蓝塔娜</FONT>好像对你没有敌意，要不你一边骂着休利亚一边接近她吧，怎么样？她听了你的话，放松警惕后，你就使出我教你的快如闪电的拳法，偷走笔记吧！",
+      "answer": "",
+      "image": "qn_npc_lantana.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>快如闪电的拳法？你有教过我吗……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师蓝塔娜",
+      "question": "我实在不理解你为何要拒接成为这完美实验的对象。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚·尤斯提亚",
+      "question": "\n虽然我还很想听，不过你看上去很忙啊。<br>\n<FONT color=#7e12d2>(前往利物沃特码头吧)</FONT>",
+      "answer": "",
+      "image": "qw_liverwortferry.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "哈哈哈哈，那你快点去<FONT color=#a82424>陨石坠落地中心</FONT>吧！",
+      "answer": "",
+      "image": "qw_63.png"
+    },
+    {
+      "npc": "魔法师蓝塔娜",
+      "question": "果然不出我所料。你用我给你的装置而找到我的吧？<br>嘿嘿嘿嘿，不过你无法从我这里夺走笔记。只要你一攻击我，这里隐藏的装置就会夺取你的性命。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>蓝塔娜！！！你让我找得好苦啊。我之前确实太愚昧了。巴奥兽人团？那些傻瓜，居然想把教授那了不起的技术胡乱使用。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师蓝塔娜",
+      "question": "哎哟，<FONT color=#387206>{user_nick}</FONT>！我对你已经很失望了。我把你跟我说的话说给了教授听，并请求教授让我来作为他伟大实验的对象。可教授对我说，再等等吧。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师蓝塔娜",
+      "question": "ndnpc_Lantana_9647_qu_01.ogg}<br><FONT color=#a82424>教授</FONT>说的话没错。他所说的话，一直都是对的。啊啊，我只要敢对教授心存一点怀疑，就会受到惩罚的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那么，你能带我去秘密实验室吗？现在就去！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师蓝塔娜",
+      "question": "ndnpc_Lantana_9647_qu_02.ogg}<br>哎呀，我看你好像误会什么了吧。<FONT color=#387206>{user_nick}</FONT>，你是无法从这里前往秘密实验室去的。哈哈哈哈哈，你难道就不觉得有些奇怪吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你这话什么意思？你绕着圈子说话，谁能听懂啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师蓝塔娜",
+      "question": "ndnpc_Lantana_9647_qu_03.ogg}<br>哈哈哈哈，我是说这里。就是被陨石破坏的，<FONT color=#a82424>你的故乡</FONT>所在地。看到处处都是突变体，你难道还没察觉吗？<br>看到原本你所守护的村庄被破坏成现在这样，你的心情如何呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>难道……所以你故意？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师蓝塔娜",
+      "question": "没错。不过多亏了陨石，让一切都变得更完美。应该是强大而美丽吧。<FONT color=#387206>{user_nick}</FONT>，经过教授之手，你也肯定会被<FONT color=#a94407>重新创造</FONT>得更强更美。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师蓝塔娜",
+      "question": "在进行伟大实验之前，还需要一些东西。那就是被抢走的我们的实验笔记。据我所知，笔记在那些肮脏的兽人团手里。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师蓝塔娜",
+      "question": "请你带着那些笔记来<FONT color=#a82424>恶灵阴影</FONT>。我会带你去教授的实验室。",
+      "answer": "",
+      "image": "qw_61.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "你见到<FONT color=#a82424>蓝塔娜</FONT>了吧？那她有没有上钩？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(讲述了在陨石坠落地中心的事情)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lantana.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "哈哈哈哈哈哈，果然与我预想的一样啊！",
+      "answer": ""
+    }
+  ]
+}

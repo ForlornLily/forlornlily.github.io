@@ -1,0 +1,126 @@
+{
+  "qkname": "侵略",
+  "data": [
+    {
+      "npc": "精灵长老",
+      "question": "呃……<FONT color=#7e12d2>（他好像受伤了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "居然这么轻易就被佩达攻入，我真是惭愧啊……<br>而且他还对生命之树的根部动手了！我真怀疑他到底是不是人。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>生命之树的根部？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "传说中的征服王……<br>他的力量强大得简直令人惊叹……",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "哼，那家伙是从哪里来的混蛋……？！！？",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "生命之树内部没什么事吧？我很担心精灵王的情况。<br>麻烦你去看看他。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "啊……你平安无事。<br>真是太好了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>发生什么事了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "ndnpc_ElfKing_9427_qu_01.ogg}<br>佩达他……侵入了生命之树的根部……将树根的位置，移到了烈火熊熊的巨石碑附近……<br>火焰峡谷里凶猛肆虐的火焰……正企图吞噬生命之树。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>天啊！！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "ndnpc_ElfKing_9427_qu_02.ogg}<br>咯咯咯……哈哈哈！……虽说我早已认为佩达他远远超出寻常人类，但没想到他的力量居然如此了得。<br>竟能搬动生命之树的根部，而且端坐这王座之上的我，还没法做出任何抵抗！！",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "……再这样下去，整棵世界之树被烧毁也只是时间问题。<br>那样的话，巨石碑就会暴露在外面……咳，呵呵呵……我可以拜托你一件事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……（现在你还笑得出来？！！）</FONT><br>\n<FONT color=#662500>我该怎么做！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "啊，不好意思。过度窒息的话，我会忍不住发笑……。<br>\n请你先到火焰峡谷去，消灭那地方凶恶的怪物……熄灭那熊熊的火焰。那么我……这棵树就可以稍微摆脱困境了。",
+      "answer": "",
+      "image": "qw_92.png "
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（可我还得把露娜莉娅的事告诉阿尔杰塔呃）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……阿尔杰塔那么厉害……应该没事吧？就算露娜莉娅拥有异常的力量……阿尔杰塔毕竟是强大的龙。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（当务之急是得救生命之树……要是生命之树被烧掉，精灵们还不知道会出什么事！！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……没办法了。只能尽快地把事情料理完，然后回去通知阿尔杰塔！向火焰峡谷出发吧。）</FONT>",
+      "answer": "",
+      "image": "qw_92.png"
+    },
+    {
+      "npc": "精灵警卫兵希特里德",
+      "question": "啊，<FONT color=#387206>{user_nick}</FONT>……长老进去了……<br>哦，我要说的是。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>希特里德？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵希特里德",
+      "question": "唔，请你拦着长老一点……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是！</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵希特里德",
+      "question": "总之，你快点进去吧。<br><FONT color=#7e12d2>（希特里德的眼神十分焦急）</FONT>",
+      "answer": ""
+    }
+  ]
+}

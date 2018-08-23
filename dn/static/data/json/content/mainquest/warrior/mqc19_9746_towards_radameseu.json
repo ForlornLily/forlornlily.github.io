@@ -1,0 +1,316 @@
+{
+  "qkname": "前往拉达梅斯",
+  "data": [
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "你好，冒险家。在迷之大陆真是辛苦你了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没什么，这些都是我应该做的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "谢谢你，只有冒险家你能给这个破碎的世界带来希望。",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，请你和艾瑞斯一起去 <FONT color=#a82424>南部领地</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "希望你今天也在迷之大陆表现活跃。<br><br><FONT color=#7e12d2>※请在梅尔卡的心脏和艾瑞斯对话。该任务在组队状态下无法进行。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "这个地方很危险。",
+      "answer": ""
+    },
+    {
+      "npc": "看门人佩尔森",
+      "question": "希望今天也能成为正义的看门人……",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "你好。<FONT color=#387206>{user_nick}</FONT>，最近发生在北部雪原的悲剧我也听说了。<br>我们良心商人也在搜集关于伊贝尔去向的情报。",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "对了，在此之前，我有件事要问你。在北部雪原的事情你处理好了吗？<br><br><FONT color=#7e12d2>※在组队状态下无法进行该任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "真的吗？<FONT color=#387206> {user_nick}</FONT>，辛苦你了。现在应该准备好了吧。",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "你是怎么想的？ ",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "艾瑞斯会等你的。请你去过冰龙巢穴后再来找艾瑞斯。",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "啊，你现在和朋友在一起啊？艾瑞斯只想和你一个人说话呢……<br><br><FONT color=#7e12d2>※在组队状态下无法进行该任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "那你就快点去找<FONT color=#a82424> 波普大叔</FONT>吧。大叔会知道前往南部领地的捷径！<br>如果你再犹豫下去，可能就见不到诺尔佩大人了！",
+      "answer": "",
+      "image": "qn_pope.png"
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "你好。<FONT color=#387206>{user_nick}</FONT>，最近发生在北部雪原的悲剧我也听说了。<br>我们良心商人也在搜集关于伊贝尔去向的情报。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>如果你知道了什么，请你一定要告诉我。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "如果他来了<FONT color=#a94407>南部领地</FONT>，那应该是已经找到了关于卢比纳特大人和杰兰特大人行踪的线索。<FONT color=#387206>{user_nick}</FONT>应该能帮助你寻找他们两位的行踪。",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "通过一般人知道的道路从梅尔卡市国前往<FONT color=#a94407>南部领地</FONT>非常远又复杂。我可以引导你到<FONT color=#a82424>金石矿山的秘密入口</FONT>。",
+      "answer": "",
+      "image": "qw_107.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>等等，波普大人，格雷尔也一起去似乎比较好。</FONT>",
+      "answer": "",
+      "image": "qn_child_grele.png"
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，既然伊贝尔已经成为了查尔德，那就不知道<FONT color=#a82424>金石矿山的秘密入口</FONT>还能用到什么时候了。为了安全，格雷尔和 <FONT color=#387206>{user_nick}</FONT>最好分头行动。",
+      "answer": "",
+      "image": "qw_107.png"
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "如果复仇军团发现了你们其中的一位，他们也不会太在意的。我们良心商人团的向导会去找格雷尔，请不要太担心。",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "即便是为了南部领地的安全，我们也必须尽快行动。 <br>你要现在和我一起走吗？",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "可能<FONT color=#a82424>秘密入口</FONT>随时会被发现，请你快点处理好，我会在这里等你。",
+      "answer": "",
+      "image": "qw_107.png"
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "我来引导你前往只有我们反女神派才知道的秘密道路。",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "抱歉，你最好和同伴先分头行动吧。<br><br><FONT color=#7e12d2>※在组队状态下无法进行该任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "你有什么话要和我说吗？",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "嘘，请安静。看来你是迷路了啊。",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "我们这次一起去秘密入口吧。",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "抱歉，你最好和同伴先分头行动吧。<br><br><FONT color=#7e12d2>※在组队状态下无法进行该任务。</FONT>"
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "如果你有什么需要，请随时来找我。",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "在传送装置旁边的就是 <FONT color=#086171>诺尔佩</FONT>大人。",
+      "answer": "",
+      "image": "qn_hologram.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？那只是个机械装置啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "准确来说，那是<FONT color=#086171>诺尔佩大人的全息图像</FONT>。诺尔佩大人通过全息图像可以出现的任何地方，听取我们的报告。",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "ndnpc_Hologram_Nophee_9746_qu_01.ogg}<br>咳咳，咳咳。波普兄弟啊，对于这些，相信你完全可以理解。<br><FONT color=#387206>{user_nick}</FONT>欢迎你。我从很久以前就一直在期待和你见面。",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "请原谅我以这样的样子出现。反女神派的存在是秘密中的秘密。 <br>就算是为了南部领地的人们，我们也要注意安全。",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "<FONT color=#7e12d2>（全息诺尔佩看了看周围）</FONT> 波普兄弟，这个秘密入口现在似乎无法使用了。格雷尔让我转告其他的良心商人兄弟，即使是绕点路，也最好通过其他的路来。",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "那……应该会很麻烦啊。",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "ndnpc_Hologram_Nophee_9746_qu_02.ogg}<br>我这就为你准备可以使用传送装置的其他入口。<br>曾经和伊贝尔留下很多回忆的这里……如今也被封闭了。",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "是，我马上就启动秘密入口破坏装置。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊……我，和一个叫艾瑞斯的小女孩说好了要一起去的……</FONT>",
+      "answer": "",
+      "image": "qn_iris.png"
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，没时间耽搁了，请快走吧。",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "你有什么话要和我说吗？",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "嘘，请安静。看来你是迷路了啊。",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "我们这次一起去秘密入口吧。",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "抱歉，你最好和同伴先分头行动吧。<br><br><FONT color=#7e12d2>※在组队状态下无法进行该任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "如果你有什么需要，请随时来找我。",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "这里无论什么时候都充满活力啊。这么富饶的地方能够躲过女神派的耳目得以存续，这都是多亏了诺尔佩大人。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我还以为这里是躲避查尔德的耳目而偷偷设立的藏身之处……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "哈哈哈，从秘密入口进来的<FONT color=#387206>{user_nick}</FONT>没看见啊。是的，如果要在迷之大陆生存下来，那就得不被维斯提内女神发现，或者躲在女神根本不关心的偏远地方。",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "这个<FONT color=#7e12d2> 拉达梅斯</FONT>因为<FONT color=#086171>城市中的机械装置</FONT>，从远处看的时候就只是块<FONT color=#a94407> 荒地</FONT>。在沙漠里不是偶尔会见到海市蜃楼吗？我们利用了同样的原理。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……拉达梅斯？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "那是<FONT color=#a94407>南部领地的名字</FONT>，在<FONT color=#a82424>拉达梅斯</FONT> 之外是不能提到这个名字的。为了反女神派能在迷之大陆继续存在，隐蔽和秘密是必需的。",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "时间太晚了。如果我不按时回到商团，那他们就该怀疑我的身份了。请<FONT color=#387206>{user_nick}</FONT>去找看门人佩尔森吧，我就先回梅尔卡市国了。",
+      "answer": ""
+    },
+    {
+      "npc": "看门人佩尔森",
+      "question": "希望今天也能成为正义的看门人……<br>请让我帮助善良的难民吧。<br><FONT color=#7e12d2>（看门人佩尔森正在恳切祈祷。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你好，我是波普大人介绍来的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "看门人佩尔森",
+      "question": "你是难民吗？你能允许我测试一下你是不是和复仇军团有关吗？如果你通过了测试，<FONT color=#7e12d2>魔法师安娜大人</FONT>会给你发放食物和药品。",
+      "answer": "",
+      "image": "qn_soceressanna.png"
+    },
+    {
+      "npc": "看门人佩尔森",
+      "question": "首先，你的<FONT color=#086171> 名字</FONT>是什么？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>{user_nick}，我从梅尔卡的心脏来。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "看门人佩尔森",
+      "question": "<FONT color=#387206>{user_nick}</FONT>？哎呀，<FONT color=#7e12d2>诺尔佩</FONT>啊，请原谅我啊。<br>没认出来真是抱歉，因为有时候一天要接待几百个难民……我就以为你是难民了。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "看门人佩尔森",
+      "question": "很高兴见到你。",
+      "answer": ""
+    }
+  ]
+}

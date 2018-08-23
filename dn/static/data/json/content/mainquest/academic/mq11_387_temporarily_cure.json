@@ -1,0 +1,179 @@
+{
+  "qkname": "寻找临时治疗剂",
+  "data": [
+    {
+      "npc": "杰兰特",
+      "question": "古代人的后裔还没有醒过来，<br>也没有什么其他的原因啊，到底是因为什么至今还不明确。"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "要是士兵们能赶紧好转就好了，真是令人担心啊。"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_04.ogg}<br>士兵们生病的原因，肯定和<FONT color=#a82424>黑龙的血</FONT>有关。<br>强大魔物的血对其他生物来说无疑是剧毒。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "既然被卷入了龙的战斗，肯定会有副作用。<br>总之，现在还没有发现能完全治愈该疾病的治疗剂。直到你和我生活的这一年代都没有。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "记录上记载的治疗剂只有精灵的药。<br>但这种药无法完全治愈这种病，只能抑制住这种症状。<br>到底能撑多久，就要看个人的意志力了……",
+      "answer": "精灵们的药？"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "嗯，那个时代的话……<FONT color=#7e12d2>（百合花搜索着资料）</FONT><br>嗯，高级弓箭手伊西莉安应该知道这种药。",
+      "answer": "我去找找看。"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "古代人的后裔还没有醒过来，<br>也没有什么其他的原因啊，到底是因为什么至今还不明确。",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "士兵们得快点好转起来才行啊。<br>搜集药的事情进行得怎么样了？",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_05.ogg}<br>\n嗯，伊西莉安肯定会很乐意帮忙的。<br>\n那就拜托你了。",
+      "answer": "",
+      "image": "qn_npc_archer_ishilien.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "如果是因灾殃之雨而感染的疾病，<br>\n50年前精灵们帮忙解决过类似的问题。<br>\n说不定当时参与过此事的精灵会有什么方法呢。",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "\n嗯，你有什么事情吗？",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "\n原来如此，50年前确实发生过这样的事情。<br>\n虽然50年前的状况与现在完全相同，但我不确定使用相同的药会不会有效。<br>\n<FONT color=#7e12d2>（伊西莉安陷入了沉思）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "\n<FONT color=#387206>{user_nick}</FONT>，你愿意去<FONT color=#a82424>死亡城市路口</FONT>搜集些<FONT color=#a82424>被污染的土壤标本</FONT>吗？<br>\n我需要将那里被污染的土壤标本与士兵们伤口上附着的土壤进行比较。",
+      "answer": "",
+      "image": "qw_38.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "\n你只要在<FONT color=#a82424>死亡城市路口</FONT>消灭怪物，就能获得<FONT color=#a82424>被污染的土壤标本</FONT>了。",
+      "answer": "",
+      "image": "qw_38.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "\n<FONT color=#2b2723>嗯，你搜集到土壤标本啦。那么……嗯……</FONT><br>\n<FONT color=#2b2723>嗯，这种污染并不是普通的魔物造成的。</FONT><br>\n<FONT color=#2b2723>与50年前相同的事情又发生在了士兵身上……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "\n看来只靠储备的药是不够的。<br>\n我先将我拥有的药全部交给道格拉斯将军，<br>\n我还要联系下<FONT color=#a82424>阿努阿兰德</FONT>……<br>\n<FONT color=#7e12d2>（伊西莉安叹了口气）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "\n不用了，<FONT color=#387206>{user_nick}</FONT>你去了那么凶险的地方，肯定已经累了，你还是好好休息吧。<br>\n如果身体变弱，心理就会跟着脆弱，脆弱的内心容易多疑，多疑会对身体和内心造成难以挽回的伤害。<FONT color=#7e12d2>（伊西莉安微笑着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（这件事情还是先向姐姐报告为好）</FONT><br>\n <br>\n<FONT color=#7e12d2>（请链接学者站台）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_02.ogg}<br><FONT color=#a82424>药</FONT><FONT color=#2b2723>物</FONT>拿过去了吗？<br>……嗯，他高兴就好，真是万幸。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "但是我还有一点不明白。<br>根据记录，先知会从那个地方消失，不是吗？可先知为什么会消失呢？",
+      "answer": "不是因为巢穴被解除了吗？"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "话虽如此，但我实在想不通那个原因。是不是杰兰特有其他急事，就解除巢穴然后离开了吗？<br>或者……",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "就像<FONT color=#a82424>古代祭司长的符文</FONT>那样，说不定可以通过什么东西进入金龙的巢穴。<br>肯定有人拿着那东西侵入了巢穴，怎么样？你觉得我的猜想对不对？",
+      "answer": "杰兰特的吊坠……？"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "只有可靠的人才能获得吊坠。在我们的记录中，获得吊坠之人好像没做什么可疑的事情。也就是说，有其他人侵入了巢穴，或者……？",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_06.ogg}<br>嗯……这件事有些可疑。<br>你能去问问位于王城地下的<FONT color=#a82424>杰兰特</FONT>吗？<br>说不定他会告诉你的。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "<FONT color=#387206>{user_nick}</FONT>是你啊。看来你对古代人的后裔很费心啊。<br>就算跟她说话，她好像也听不见。",
+      "answer": "我有个疑问想问你。"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……能否通过<FONT color=#a82424>古代祭司长的符文</FONT>进入这个地方？啊……那个你不用担心。无论是现在的黑龙，还是50年前的黑龙都是由古代人的力量制作的，所以祭司长符文才能削弱他的力量。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "但我们与混沌龙的后代可不同。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "与混沌龙的碎片不同，<FONT color=#a82424>古代龙的后裔</FONT>只有阿尔杰塔和我。<br>至少据我所知是这样。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你好像没有其他事情了。<br>那你回到派你来的人身边吧。",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_02.ogg}<br>嗯~ 既然他这么说，那我就安心了。<br>不过，我还是并不知道为什么巢穴会被解除，先知为什么会消失。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "……还有，并不是所有的龙都一样啊。<br>贝思柯德……也就是说，黑龙是<FONT color=#a82424>混沌龙</FONT>的碎片，杰兰特和阿尔杰塔是<FONT color=#a82424>古代龙</FONT>的后裔？",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "嗯……我们对龙的了解太少了。<br>在我们的时代，龙已经……<br><FONT color=#7e12d2>（百合花叹了口气）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "<FONT color=#a82424>贝思柯德</FONT>怎么样了？你们变得亲近了吗？<br>想要在那里行动自如，必须要和贝思柯德变得亲近才行。",
+      "answer": ""
+    }
+  ]
+}

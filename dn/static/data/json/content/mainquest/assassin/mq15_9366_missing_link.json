@@ -1,0 +1,189 @@
+{
+  "qkname": "缺失的一环",
+  "data": [
+    {
+      "npc": "萝丝",
+      "question": "我在梦里见到了巴尔纳。<br>请你把这件事告诉特拉玛依。<br>※ <FONT color=#7e12d2>可以从神圣天堂王城内部的泰兰斯·特拉玛依那里接受任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "就像你说的那样，和巴尔纳在一起的那个人很可能就是操纵巴尔纳的龙之追随者。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "如果能抓住那个龙之追随者，即使没有杰兰特的剑，也能净化巴尔纳。快到<FONT color=#a82424>陨石坠落地边界地区</FONT>去吧。",
+      "answer": "",
+      "image": "qw_60.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "请快点到<FONT color=#a82424>陨石坠落地边界地区</FONT>去。<br>特拉玛依和我随后就去。",
+      "answer": "",
+      "image": "qw_60.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "那……那个人是……黑骑士……<br><FONT color=#7e12d2>(萝丝的脸色很苍白)</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#a82424>古代人</FONT>……？<br>据我所知，她好像是被伊格纳西奥带走了。到底是怎么回事？<br>怎么会和你在一起？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个……</FONT><br><FONT color=#662500>(说明事情的来龙去脉)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "特拉玛依把她从龙之追随者手中救了出来……？<br>哼，胡说什么呢……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>胡说？你在说什么啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "那个人获得了觊觎已久的古代人的后裔，怎么可能那么轻易被人抢走……<br><FONT color=#7e12d2>(贝思柯德慢慢地打量着萝丝)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "果然……<br><FONT color=#7e12d2>(贝思柯德把视线从萝丝身上收了回来)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我感觉不到古代人的力量。<br>这个孩子要不就是已经丧失了古代人的力量，要不就是个假冒的古代人的后裔。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎么会……<br>她明明可以发挥出先知的预知能力啊……？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "那样的话，就很可能是个假冒的。<br>她的身体无法承载古代人的力量，却说了谎。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……使徒什么都做得出来。<br>那个男人非常执着于力量，你想象不到为了获得力量，他能做出多么残酷的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>(贝思柯德说完，就消失了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "……<br><FONT color=#7e12d2>(萝丝的脸色很苍白)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "最，对不起。我……实在太害怕，完全不知所措……<br>呃呃……",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "我们先回<FONT color=#a82424>神圣天堂</FONT>去吧……<br>回去之后我再跟你说……",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "其实……和以前相比，我做到的预知之梦少了很多。<br>在梦中看到的场景也变得模糊了。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "也许……就像黑骑士所说，我已经失去了力量……<br><FONT color=#7e12d2>(萝丝叹了一口气)</FONT><br>曾经我很讨厌拥有这种力量……<br>想到那种力量消失了，我突然有一种奇怪的感觉。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "如果我的力量已经完全消失，变成了普通的女人，我就能回到普雷利镇去，像以前一样生活了吗？<FONT color=#7e12d2>(萝丝擦了擦眼泪)</FONT><br>如果真是那样，失去力量也并不是什么坏事……<br>……对不起，在你面前失态了……",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "现在我什么都看不到感觉不到了。<br>不能帮你寻找黑骑士，对不起。<br><FONT color=#7e12d2>(与泰兰斯·特拉玛依对话)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "先知的力量变弱了，真是遗憾……<br>嗯，希望这只是暂时的现象……<br>我们还有很多地方需要用到她的力量。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我决定正式放出神殿骑士……不，动员神殿骑士，去寻找贝思柯德和巴尔纳。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "其他冒险家们也被派到了各地。<br>你先耐心等待一段时间，期待能听到好消息。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……但是贝思柯德说那个男人，</FONT><br>\n<FONT color=#662500>使徒们的国王不会轻易放走先知。<br>我想了想，最初碰到幻象的时候，幻象好像受了重伤，快要死了。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(那应该是被他们的国王打伤的。<br>一定是为了不让国王抢走露娜莉娅，在逃走的时候……受了伤。<br>疑点好像有很多。露娜莉娅却什么都没告诉我。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(幻象到底是在哪里见到露娜莉娅的呢？<br>他为什么要寻找露娜莉娅呢？……不，更让人迷惑的是……)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(他是我。<br>我只过了十年就变成了使徒幻象。<br>到底是为什么……？)</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "……你在听吗？<br>为了净化巴尔纳，如果收到了什么有用的情报，到时再跟你联系。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？……啊，好的！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……净化？<br>怎么感觉类似的话听到过好多遍呢……)</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(等等……上次好像……<br>没，没错。还有那个东西！)</FONT>",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "qkname": "散落的零件",
+  "data": [
+    {
+      "npc": "受伤的精锐士兵",
+      "question": "啊……事故是在一瞬间发生的。我听到咣的一声，然后就失去了意识。",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "我必须回去救回受伤的士兵。我一定要把伤害士兵的罪魁祸首……！",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "什么？我现在忙着修理那该死的飞艇，都已经晕头转向了，别烦我，走开！",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "那个<FONT color=#a82424>银发女剑客</FONT>是怎么回事？",
+      "answer": "（把事情从头到尾说明一遍）"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "结果还是让<FONT color=#a82424>黑骑士</FONT>跑掉了……<br>女剑客受了重伤，而那个可能是<FONT color=#a82424>先知</FONT>的<FONT color=#a82424>少女</FONT>还在恶人的魔爪中……啧啧……<br>这真是，事情变得越来越糟了。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>很抱歉，我没什么好说的……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "是啊，唉……我现在虽然不能说没关系，但也不能把责任都归到你的身上。<br>对了……女剑客让你去<FONT color=#a82424>神圣天堂</FONT>找<FONT color=#a82424>金发剑客</FONT>？",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "<FONT color=#a82424>神圣天堂</FONT>……<br>要想前往<FONT color=#a82424>王城</FONT>的话，必须乘坐飞艇才行……不过听说飞艇也被<FONT color=#a82424>黑骑士</FONT>毁坏了。",
+      "answer": "",
+      "image": "qw_airship.png"
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "什么？我现在忙着修理那该死的飞艇，都已经晕头转向了，别烦我，走开！<br>你有事的话，就去找<FONT color=#a82424>冒险家公会会长戴卡德</FONT>吧。",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "我必须回去救回受伤的士兵。",
+      "answer": ""
+    },
+    {
+      "npc": "受伤的精锐士兵",
+      "question": "啊……事故是在一瞬间发生的。我听到咣的一声，然后就失去了意识。",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "什么？你问飞艇的状态如何？唉，你这是要火上浇油……！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>抱……抱歉。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "<FONT color=#a82424>飞艇暂停运营</FONT>，你走吧。为什么暂停运营？这个问题我已经听了几百遍了。你去问旁边的士兵吧。我很忙，别再和我说话！",
+      "image": "qw_airship.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "看来你只能亲自去确认一下状态有多糟糕了。<br>\n你到码头去见见<FONT color=#a82424>飞艇工程师休伯特</FONT>吧。",
+      "answer": "",
+      "image": "qn_npc_engineer_hubert.png"
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "啊，真快疯掉了……库存里没有，就没办法更换。可又不能前往<FONT color=#a82424>死亡森林</FONT>找回那里<FONT color=#a82424>散落的部件</FONT>……<br>你如果有疑问就去问问旁边的士兵吧。我必须要修理飞机了。",
+      "answer": "",
+      "image": "qp_airship_part .png"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "<FONT color=#7e12d2>（冲着士兵们高声呼喊）</FONT><br>来，大家加油吧。再过不久飞艇就会被修好了。<br>……嗯？你怎么总是在这儿游荡？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊……我是</FONT> <FONT color=#419300>{user_nick}</FONT> <FONT color=#662500>。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "啊，你就是那个追踪<FONT color=#a82424>黑骑士</FONT>的冒险家？我们也被那个黑骑士害得无法离开这里。虽然已经从王城接到了派遣任务，可你也看见了……",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n难道就没有前往<FONT color=#662500>神圣天堂的方法吗？</FONT>",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "现在，除了把飞艇修好之外没有别的办法。<br>虽然我很想帮忙修理飞艇，可是……唉！大家一定要当心别让伤口感染了！",
+      "answer": "",
+      "image": "qw_airship.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我得问问有没有什么需要帮忙的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "\n好吧。我还得照看那些受伤的士兵，就先失陪了。",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "好了，只要飞艇一修好，我们就马上返回王城！大家都不要懈怠！",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "你想帮我们修理飞艇？<br>真让人高兴。",
+      "answer": "",
+      "image": "qw_airship.png"
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "据我所知，有两艘飞艇在飞往这里的途中遭到了袭击，其中 一艘坠落在了死亡森林，而另一艘则迫降在了这里。",
+      "answer": "",
+      "image": "qw_cataractgateway.png"
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "要想修好飞艇，我需要散落在<FONT color=#a82424>死亡森林</FONT>的飞艇部件。我是说绝对不是因为我的技术不精……总之，有人愿意帮我找回部件实在是太好了。",
+      "answer": "",
+      "image": "qw_17.png"
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "<FONT color=#a82424>死亡森林</FONT>的<FONT color=#a82424>蜘蛛</FONT><FONT color=#2b2723>和</FONT><FONT color=#a82424>食尸鬼</FONT><FONT color=#2b2723>都是</FONT>非常危险的怪物。不过以冒险家你的实力应该可以对付。你去为我搜集<FONT color=#a82424>3个</FONT><FONT color=#a82424>飞艇零件</FONT>吧。飞艇零件就散落在那里了。",
+      "answer": "",
+      "image": "qw_17.png"
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "你真了不起。这是给你的酬谢，请收下吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>您过奖了。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "qkname": "枯竭的能源",
+  "data": [
+    {
+      "npc": "阿尔杰塔",
+      "question": "你前往<FONT color=#a82424>神圣天堂</FONT>见到金发剑客，将这里发生的事转告给他。<br>并请他帮忙。那么就可以阻止黑骑士了。",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "悬浮装置",
+      "question": "</FONT><FONT color=#7e12d2>（似乎是不能再运转的装置。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "你来啦。<br>稍等一会儿，我正好进行到了收尾阶段。",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "终于把阿尔巴特罗号修好了。<br>好了，大家往后退几步。嘿嘿…… 阿尔巴特罗号~ 起航~！",
+      "answer": "",
+      "image": "qw_airship.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你前往<FONT color=#a82424>神圣天堂</FONT> 找到金发剑客，将这里发生的事转告给他。<br>并请他帮忙。<br>那么，就可以阻止黑骑士了。",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "哎呀！！这到底是怎么回事？！引擎居然爆炸了，一定什么地方出错了！怎么回事？到底哪里出错了呢？",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "唉……果然是驱动的问题。不然就想不出会是别的什么了。这艘阿尔巴特罗号所使用的是一种特殊驱动器，它只能在神圣天堂补充能源。在这里没有可以使它运转的设备。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "唉……看来飞艇暂时无法启动了。<br>很抱歉让你失望了。",
+      "answer": "",
+      "image": "qw_airship.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "什么？！你这家伙，我交给你的任务呢，你居然待在这里？",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "黑骑士那家伙……？！<br>切，居然提早就下了手。那么就只能将飞艇修好，再乘坐飞艇前往了，别无他法。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "对了，那个<FONT color=#a82424>悬浮装置</FONT>，说不定这里会留下什么力量可以为它充能的。我们最好利用之前没被黑骑士拿走的东西试试，虽然有点屈辱。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>！！你还记得之前黑骑士<FONT color=#a82424>偷走古代人的力量的地方</FONT>吗？你带着<FONT color=#a82424>悬浮装置</FONT>前往那里，确认能否为其充能。",
+      "answer": "",
+      "image": "qw_16.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>偷走古代人的力量的地方……是沉睡者神殿吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "真费口舌！我是个伤员，别在这啰嗦了，赶紧带着 <FONT color=#a82424>悬浮装置</FONT>前往<FONT color=#a82424>沉睡者神殿</FONT>吧！",
+      "answer": "",
+      "image": "qw_16.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>前往神圣天堂的飞艇已经被黑骑士……</FONT><br>\n<FONT color=#7e12d2>（讲述飞艇发生故障的经过）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "果然只能在<FONT color=#a82424>神圣天堂</FONT>才能为悬浮装置充能。唉……看来飞艇暂时无法飞行了。<br>很抱歉，让你失望了……",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "飞艇暂时无法飞行。<br>你也看到了，不是吗……",
+      "answer": "",
+      "image": "qw_airship.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>应该还有办法。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "办法？！你是说不去神圣天堂也有可以提高引擎动力的办法？！！",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>请先将悬浮装置交给我吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "好吧，那我就相信你了！我只要飞艇能飞起来就行。不过以后你可要一切都详细地告诉我！",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "真费口舌！我是个伤员，别在这啰嗦了，赶紧带着<FONT color=#a82424>悬浮装置</FONT>前往<FONT color=#a82424>沉睡者神殿</FONT>吧！当然，悬浮装置需要从<FONT color=#a82424>工程师休伯特</FONT>手里拿到，这你知道吧？",
+      "answer": "",
+      "image": "qn_npc_engineer_hubert.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你怎么还在这儿磨蹭？将<FONT color=#a82424>悬浮装置</FONT>拿到<FONT color=#a82424>沉睡者神殿</FONT>去。现在，马上就去。听到了吗？",
+      "answer": "",
+      "image": "qw_16.png"
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "只要你能为<FONT color=#a82424>悬浮装置充上能量</FONT>，阿尔巴特罗号就可以重新起飞了！",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "悬浮装置",
+      "question": "NT><br><FONT color=#7e12d2>（正在为悬浮装置补充能源）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "悬浮装置",
+      "question": "NT><FONT color=#a82424><br></FONT><FONT color=#7e12d2>（悬浮装置充能完成）</FONT><FONT color=#a82424><br></FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "悬浮装置",
+      "question": "</FONT><FONT color=#7e12d2>（悬浮装置充能完成）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    }
+  ]
+}

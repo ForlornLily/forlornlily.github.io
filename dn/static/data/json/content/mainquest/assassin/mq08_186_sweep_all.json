@@ -1,0 +1,211 @@
+{
+  "qkname": "势如破竹",
+  "data": [
+    {
+      "npc": "侦察兵福古斯",
+      "question": "魔物们的动态很不寻常。<br>好像很快就会发生什么事情。<br>嗯……不过你是……？",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "我好像之前没有见过你啊。<br>很抱歉，你能出示证明自己身份的物品吗？",
+      "answer": "(把水晶谷通行证给他看)",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "嗯？听说从普雷利镇来的人好像有两个啊……？<br><FONT color=#7e12d2>(福古斯歪了歪脑袋)</FONT><br>不管怎样，欢迎你过来。我是凯德拉冒险者公会的侦察兵福古斯。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>其他的人呢？战士西恩和……</FONT>",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "是的，是战士西恩和弓箭手特里亚纳。<br>他们俩接受了冒险家公会会长戴卡德的委托，正在想方设法救出被劫持的少女。",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "啊，你也在追踪那个红色鹰身人吗？<br>我们侦察队查明了那个<FONT color=#a82424>红色鹰身人</FONT>的行踪。<br>她好像往叹息峡谷那边去了。",
+      "answer": "",
+      "image": "qm_harpyred.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "不过暂时还不能马上去追踪鹰身人。",
+      "answer": "",
+      "image": "qm_harpyred.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "要想在叹息峡谷中找到鹰身人情妇，首先必须要有<FONT color=#a82424>黑暗精灵的竖琴</FONT>。<br>因为必须有那个东西，才能把鹰身人引出来。<br>其他冒险家一到这里，就马上到<FONT color=#a82424>袭击者巢穴</FONT>去寻找竖琴了。",
+      "answer": "",
+      "image": "qw_13.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(看来我也得到那里去一趟。)</FONT>",
+      "answer": "",
+      "image": "qw_13.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "嗯，可以的话，你能再帮我完成几个<FONT color=#a82424>凯德拉关卡</FONT><FONT color=#2b2723>的委托</FONT>吗？",
+      "answer": "",
+      "image": "qw_cataractgateway.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>委托？</FONT>",
+      "answer": "",
+      "image": "qw_cataractgateway.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "啊，那个……先到的冒险家们走得比较匆忙……所以凯德拉关卡的袭击者巢穴的委托还没有得到解决。",
+      "answer": "",
+      "image": "qw_cataractgateway.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我考虑一下。</FONT>",
+      "answer": "",
+      "image": "qw_cataractgateway.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "那么，只要到水晶谷对面的凯德拉关卡，找到<FONT color=#a82424>侦察兵福古斯</FONT>就行了，对吧？<br>明白了，出发。",
+      "answer": "",
+      "image": "qn_ranger_fugus.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "嗯？<br>福古斯好像在那边～不是这里。",
+      "answer": "",
+      "image": "qn_ranger_fugus.png"
+    },
+    {
+      "question": " <br>\n<FONT color=#7e12d2>(有个看上去充满活力的战士站在那里)</FONT>",
+      "answer": ""
+    },
+    {
+      "question": " <br><FONT color=#7e12d2>(有个看上去很沉着的弓箭手正在和自己的同伴说话)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "生命属于生命之树的我们，永远顺从于特雷西亚。<br>\n<FONT color=#7e12d2>（高级弓箭手艾德琳露出温暖的笑容）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "那就拜托你了。<br>竖琴就在<FONT color=#a82424>袭击者巢穴</FONT>的黑暗精灵的首领黑暗精灵暗杀者莉迪亚身上。<br>黑暗精灵是非常强、非常敏捷的魔物。小心不要被她们的舞蹈迷住了眼睛。<br><FONT color=#7e12d2>*请先到凯德拉关卡去接受支线任务。</FONT>",
+      "answer": "",
+      "image": "qw_13.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……你要到袭击者巢穴去。<br>明白了。",
+      "answer": "",
+      "image": "qw_13.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "找到啦。哎呀，没想到你这么厉害。<br>果然不愧是冒险家。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "对了，其他冒险家已经到了。<br><FONT color=#387206>{user_nick}</FONT>，他们得知你来了，正在<FONT color=#a82424>水晶谷</FONT>那边等着你呢。",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "\n不过，在那之前，还有一件事要做。<br>关于那个竖琴，请你到<FONT color=#a82424>高级弓箭手艾德琳</FONT>那里先去检查一下。<br>\n ",
+      "answer": "",
+      "image": "qn_npc_archer_adellin.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "冒险家公会会长戴卡德说必须确认一下那东西能不能正常使用。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你想拜托<FONT color=#a82424>高级弓箭手艾德琳</FONT><FONT color=#2b2723>修理竖琴</FONT>吧？<br>我明白了。",
+      "answer": "",
+      "image": "qn_npc_archer_adellin.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "愿生命之树的祝福与你同在……",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊，<FONT color=#387206>{user_nick}</FONT>！<br>哈哈，你果然到这里来救萝丝了！！",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "那个<FONT color=#a82424>鹰身人情妇</FONT>，据说往叹息峡谷那边去了。<br>不过要到那里去，需要有黑暗精灵的竖琴。你找到了吗？",
+      "answer": "",
+      "image": "qm_harpyred.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊！不过……竖琴的琴弦好像断掉了吧？<br>你能去凯德拉关卡，看看有没有人能修理琴弦吗？<br>\n<FONT color=#7e12d2>（请和凯德拉关卡的高级弓箭手艾德琳对话。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "你好，陌生的冒险家。<br>找我有事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "你手上拿着的竖琴是……<br><FONT color=#7e12d2>(艾德琳的表情凝固了)</FONT><br>啊，原来如此。你也是来这里寻找那个少女先知的啊。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "好的，请给我。虽然我已经好久没有演奏了，但我还保存了一些琴弦。<br>我可以帮你把它修好。",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "……给。<br>为了检查有没有修好，我来让你听听我最近听到的旋律。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>听到的旋律……？</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "是的，我和侦察兵福古斯一起在附近搜索的时候，偶然听到了这个旋律。<br>那应该是黑暗精灵们用于打开结界的旋律。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "ndQuest_Harp_01.wav}<br>请铭记在心。<br>希望你能在<FONT color=#a82424>叹息峡谷</FONT>得偿所愿。",
+      "answer": ""
+    }
+  ]
+}

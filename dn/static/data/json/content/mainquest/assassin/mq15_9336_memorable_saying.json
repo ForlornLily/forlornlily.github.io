@@ -1,0 +1,235 @@
+{
+  "qkname": "记忆中的话",
+  "data": [
+    {
+      "npc": "商人洛西塔",
+      "question": "咦？怎么又回来了？<br>没见到察提姐姐吗？<br><FONT color=#7e12d2>(洛西塔歪了歪脑袋)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "对了，<FONT color=#a82424>西戴尔</FONT>的脸色好像非常难看。<br>你可以到卡拉秋的草屋去看看。",
+      "answer": "",
+      "image": "qw_karakule_house.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "要回到<FONT color=#a82424>卡拉秋的草屋</FONT>去见见那个叫西戴尔的孩子，对吧？<br>嗯～辛苦你了。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我没有话可以跟你说。",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "察提好像去见那个可靠的人了。<br>……嗯？啊，你没见到<FONT color=#a82424>察提</FONT>啊？",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "西恩和特里亚纳好像见到了那个……“可靠的人”。那个人给老师写了一封信。<br>看了那封信之后，卡拉秋老师的表情变得非常严肃。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "她好像去什么地方了，但是没有告诉我目的地。<br><FONT color=#7e12d2>(西戴尔一直耷拉着脑袋)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "还有，察提也一句话不说就走掉了。<br>如果她又是去找那个可靠的人的话……呃呃……我该怎么办呢？",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "察提是这样，老师也是这样，一句话都不说，也不知道去了哪里……<br>好像就我被抛弃了，呜呜呜……<br><FONT color=#7e12d2>(西戴尔伤心地自言自语道)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "老师没让我跟着去，不过我大概猜到她去了哪里。要过去看看吗……？<br>要是被她发现，一定会被臭骂一顿……但是我真的很担心她，另外我还得找到察提。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>选择在于你自己。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "你说得对。<br>我去追老师。<FONT color=#387206>{user_nick}</FONT>，请你帮我去寻找<FONT color=#a82424>察提</FONT>。",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我想察提应该在<FONT color=#a94407>古代图书馆</FONT>。<br>她对那里非常熟悉。<br>\n可以在各种危险的装置之间来去自如。",
+      "image": "qw_52.png"
+    },
+    {
+      "question": "<FONT color=#7e12d2>(幻象的样子看上去好像和平时不太一样)</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "NT><FONT color=#7e12d2><br></FONT><FONT color=#662500>(要走近看看吗？<br>感觉不像是从我体内分离出来的幻象，更像是海市蜃楼……)</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "幻象",
+      "question": "</FONT><FONT color=#2b2723>……就快到了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>(原来如此。这不是想要吞噬我的幻象。<br>这是我的记忆。不，应该说是幻象的记忆。我又想起了我体内的幻象的记忆。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "幻象",
+      "question": "你在听吗？</FONT><FONT color=#a82424>鲁纳</FONT><FONT color=#2b2723>。</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我在听。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "鲁纳，只要通过阿努阿兰德就行，对吧？<br>根据我的调查，</FONT><FONT color=#a82424>秘密会议</FONT><FONT color=#2b2723>马上就会召开。所以，那时候……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "秘密会议……？",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "是精灵女王的继承仪式。<br>听说参加黑龙之战的精灵公主受了伤回来了，她也许会成为新的女王。</FONT>",
+      "answer": "",
+      "image": "qn_archer_nerwin_silhouette.png"
+    },
+    {
+      "npc": "幻象",
+      "question": "之前生命之树的王座一直空着……<br></FONT><FONT color=#7e12d2>(幻象的眼中闪着光，在向露娜莉娅说明着什么)</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "<FONT color=#7e12d2>(声音变模糊了。眼前的景象消失了。)</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "<FONT color=#7e12d2>(什么都看不见了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……露娜莉娅知道些什么吗？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我刚才看到的记忆，你也看到了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "不，我什么都没看到。<br>如果你看到了什么，一定是你体内的某人的记忆的重现。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我体内的某人，是幻象吗？<br>露娜莉娅，在刚才看到的记忆中，幻象看起来和现在的我更像了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>幻象好像是想通过阿努阿兰德到什么地方去。<br>和你一起，露娜莉娅。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你有话要跟我说吗？<br>露娜莉娅。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……没有。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我也不知道，自己迈出的一步会流逝百年或回到千年之前。<br>不管发生什么事情都不奇怪。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，对你来说可能是过去的对话，但对我来说可能是现在刚刚说的话。BR>对你来说可能是记忆，但对我来说却可能是现在。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么意思？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "关于时间的流动，所有的一切……<br>……所有的一切，既不是预言，也不是回忆，只是摆在这里。所以我…… 什么都……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "………………..<br>时间就像流水一样。就像巨大的水流一样，流过一个个刹那。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#662500>{user_nick}</FONT>……如果发生了什么事，就留下我先走吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？这段时间已经发生了足够多的事了！<br>干嘛突然这么说？露娜莉娅！</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……我不想连你也困在这奇怪的时间迷宫中。<br>全都是我……不是未来也不是过去的那时的我……把你……",
+      "answer": ""
+    }
+  ]
+}

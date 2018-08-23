@@ -1,0 +1,234 @@
+{
+  "qkname": "先知之力",
+  "data": [
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9280_04.ogg}<br><FONT color=#387206>尤万西贝尔</FONT>已、已经... 闯进女王的玉座了。",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "萝丝琳德",
+      "question": "啊哈哈哈哈！如<FONT color=#a82424>佩达</FONT>大人所说。果然能成就所有东西！",
+      "answer": ""
+    },
+    {
+      "npc": "特里亚纳",
+      "question": "得阻挡尤万西贝尔大人... 。<br><FONT color=#7e12d2>(特里亚纳看起来很悲伤)</FONT>",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "不知道尤万西贝尔是否要害女王，生命之树。<br>虽然特里亚纳追上去了，不知道会不会挡住....",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "<FONT color=#387206>{user_nick}</FONT>大人也快行动吧。<br>得阻挡那家伙。精灵的未来....呃呃..",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "<FONT color=#387206>{user_nick}</FONT>大人也快行动吧。<br>得阻挡那家伙。精灵的未来....呃呃..<br><FONT color=#7e12d2>(组队状态下无法进行该任务)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "<FONT color=#387206>{user_nick}</FONT>大人也快行动吧。<br>得阻挡那家伙。精灵的未来....呃呃.."
+    },
+    {
+      "npc": "精灵长老",
+      "question": "尤万西贝尔和 特里亚纳消失了？发生了什么事情。<br><FONT color=#7e12d2>(与生命之树内侧的萝丝琳德对话)</FONT>",
+      "answer": "",
+      "image": "qn_npc_rosalin.png"
+    },
+    {
+      "npc": "萝丝琳德",
+      "question": "ndnpc_AN_Rozalinde_qu_9298_01.ogg}<br>尤万西贝尔... 消失去哪里了呢？<br><FONT color=#7e12d2>(萝丝琳德在观望周边)</FONT>",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "萝丝琳德",
+      "question": "嗯,那程度的伤口的话，不会活下来的。精灵女王也是.. 就这样死掉了。<br>果然全部都遵循 <FONT color=#a82424>佩达</FONT>大人的意思。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝琳德",
+      "question": "加上从女王那里获得的这 宝玉...<br>终于... 终于！可以让佩达大人 侍陪成女神的心脏，巨石碑！！<br><FONT color=#7e12d2>(萝丝琳德以激昂的表情说话)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝琳德",
+      "question": "ndnpc_AN_Rozalinde_qu_9298_03.ogg}<br>我这个萝丝琳德， 先知之力!!!<br><FONT color=#7e12d2>(萝丝琳德说完话就飞快的飞向某处)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝琳德",
+      "question": "我这个萝丝琳德， 先知之力!!!<br><FONT color=#7e12d2>(萝丝琳德说完话就飞快的飞向某处)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9298_01.ogg}<br>白白在红龙上花费精力了。<br>萝丝琳德恢复 先知之力了，现在只能用武力阻挡她去巨石碑了。",
+      "answer": "",
+      "image": "qn_npc_rosalin.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>用武力？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_AN_Gereint Young_qu_9298_01.ogg}<br>在说我的力量。 ",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "得在生命之树根上制作一个巢穴吗？<br>佩达知道<FONT color=#a82424>巨石碑之路</FONT>路口的话，现在出发也为时已晚了。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "想把事情搞成这样的 尤万西贝尔抓起来往死里打一番，<br>不知两个精灵都消失去哪了...",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "他们不知道会不会再出现，你在这见他们再跟过来。<br>不是，不管来不来，都无关紧要，但要把结果报告给我。知道了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>在这等特里亚纳就可以了吗？要去哪里啊？</FONT>",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_AN_Gereint Young_qu_9298_02.ogg}<br><FONT color=#a82424>生命之树的起始地</FONT>. 与精灵长老询问一下。<br><FONT color=#7e12d2>(阿尔杰塔和杰兰特 风一样消失了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "<FONT color=#a82424>生命之树的起始地</FONT>. 与精灵长老询问一下。<br><FONT color=#7e12d2>(阿尔杰塔和杰兰特 风一样消失了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "特里亚纳",
+      "question": "ndnpc_AN_Archer Triana_qu_9298_01.ogg}<br>怎么回事？这里重新，生命之树....",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个我更想知道？ <br>你，那个精灵，与 叫尤万西贝尔的男人一起消失了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也想问到底是怎么回事。<br>特里亚纳大人,跟精灵一起消失过。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "特里亚纳",
+      "question": "用人类的话好难解释。对我来说也是神秘的体验。<br>哇哦。为什么脸红了？",
+      "answer": ""
+    },
+    {
+      "npc": "特里亚纳",
+      "question": "纳尔希亚大人即将会面临永眠。少了根源，生命力会更维持许久的。<br>然后 下一位女王 ... 不是，该称为王了。<br><FONT color=#387206>尤万西贝尔</FONT>, 那位成了精灵们的下一代王。",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃？ 尤万西贝尔没有死吗？突然冒出来什么王啊。好荒唐？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>尤万西贝尔大人 本来情况很危险，但是安然无恙。以那样受伤的身体..</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "特里亚纳",
+      "question": "是。继承 精灵的玉座后与树合为一体后，伤口好像没有意义了。<br>现在 尤万西贝尔大人的身体是 不仅仅是精灵之身而已..",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那人是精灵之王？？<br>啊哈哈.. 虽然有点荒唐，那种不能相信的人当上王，也没事吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃..? 呃?? 那成为了最初的男性女王.. 不是，王，是吗？<br>这个得庆祝吗....</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "特里亚纳",
+      "question": "<FONT color=#7e12d2>(特里亚纳轻轻的微微一笑)<br></FONT>不过 <FONT color=#a82424>萝丝琳德</FONT>呢？ 还有貌似见到了阿尔杰塔大人和 杰兰特大人，都怎么样了？",
+      "answer": "",
+      "image": "qn_npc_rosalin.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！对了。又要头疼了。<br>萝丝琳德好像找回了 先知之力了。现在可以开启走向巨石碑的路了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>所以两位去阻止那个去了。<br>生命之树的起始地，我们也得抓紧了！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！对了。又要头疼了。<br>萝丝琳德好像找回了 先知之力了。现在可以开启 走向巨石碑的路了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>诞生了新的女王.. 不对，王，有点万幸，不过马上萝丝琳德 就要开启通向巨石碑的通路了。<br>阿尔杰塔大人和 杰兰特大人先行一步去阻止她们了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>生命之树起始地，在森之境界里有通往巨石碑的通道。<br>我们也抓紧了！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "特里亚纳",
+      "question": "ndnpc_AN_Archer Triana_qu_9298_03.ogg}<br>原来是所有精灵的根啊。那个地方...<br>那得向 <FONT color=#a82424>长老</FONT>说一下了。",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "npc": "特里亚纳",
+      "question": "ndnpc_AN_Archer Triana_qu_9298_03.ogg}<br>原来是所有精灵的根啊。那个地方……<br>那得问一下长老。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9281_01.ogg}<br>生命之树的起始地。是要寻找所有精灵的根吗。<br>特里亚纳. 你知道那是什么地方，还让我告诉你是吗。<br><FONT color=#7e12d2>(精灵长老在沉思)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "呃.... 世界总会变。诞生了精灵最初的王也是。<br>不知，是不是我们精灵维持一种面目过于久了。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "不过... 巨石碑, 生命之树的起始地... 不知道现在该不该告诉你。<br><br><FONT color=#7e12d2>(Chapter 10.关于特雷西亚的故事到此为止。请期待下一个故事！)</FONT>",
+      "answer": ""
+    }
+  ]
+}

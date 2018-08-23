@@ -1,0 +1,332 @@
+{
+  "qkname": "笑里藏刀",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(幸好藏身处还完好地保持着上次的样子。</FONT><br>\n<FONT color=#662500>似乎没有别人进来的痕迹)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "<FONT color=#7e12d2>(贝勒尼卡似乎忙于政务。下次再来吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "可疑的装饰盒",
+      "question": "<FONT color=#7e12d2>(有个和这里完全不搭的漂亮装饰盒)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "可疑的金色液体",
+      "question": "<FONT color=#7e12d2>(装有黄金色美丽液体的坛子)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "研究日志",
+      "question": "<FONT color=#7e12d2>(有部分文字被损坏的研究记录)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "这里就是红龙的藏身处……。<br>书籍真多啊。一个个看完应该要花很久吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我们一起找吧。</FONT><br>\n<FONT color=#662500>你能从那边的书架开始找吗？我从这边开始找。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "……不知道我碰这些是不是不太好啊。那就只能失礼一下了。<br><FONT color=#7e12d2>(阿尔克开始翻书架)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，让我看看……。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(一眼看过去有</FONT><FONT color=#086171>角落里的日志</FONT><FONT color=#662500>，</FONT><FONT color=#086171>装着黄金色液体的坛子</FONT><FONT color=#662500>，还有</FONT><FONT color=#086171>漂亮的盒子</FONT><FONT color=#662500> 。一个个看看吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "研究日志",
+      "question": "<FONT color=#7e12d2>(有部分文字被损坏的研究记录)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "研究日志",
+      "question": "<FONT color=#7e12d2>(以前读过的神话故事。不过还是再看一遍吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "研究日志",
+      "question": "<FONT color=#7e12d2>(中略)</FONT><FONT color=#086171> ……据说阿尔泰亚沉睡后，维斯提内带着能够治愈阿尔泰亚的杯子，逃去了谜之大陆。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(这里出现的</FONT><FONT color=#a82424>“杯子”</FONT><FONT color=#662500>就是那个治愈之杯了吧……现在读来就知道了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "研究日志",
+      "question": "<FONT color=#7e12d2>(有一部分文字被损坏了，难以辨识)</FONT> <FONT color=#086171>……德斯莫德乌斯为了拯救阿尔泰亚，向众神中最贤明的</FONT><FONT color=#a82424>切洛斯</FONT><FONT color=#086171>寻求建议，他说为了避免死亡，最好借助睡梦之神的力量。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "研究日志",
+      "question": "<FONT color=#7e12d2>(中略)</FONT><FONT color=#086171> ……据说阿尔泰亚沉睡后，维斯提内带着能够治愈阿尔泰亚的杯子，逃去了谜之大陆。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(这里出现的</FONT><FONT color=#a82424>“杯子”</FONT><FONT color=#662500>就是那个治愈之杯了吧……现在读来就知道了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(总之</FONT><FONT color=#a82424>治愈之杯</FONT><FONT color=#662500>就在这个谜之大陆。但是维斯提内女神不会把这么重要的东西随便乱放，肯定藏得很好……我们要怎么找呢)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "研究日志",
+      "question": "<FONT color=#7e12d2>(虽然又翻了一下，但是能看懂的似乎就是这些了。这次看看坛子吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "可疑的金色液体",
+      "question": "<FONT color=#7e12d2>(装着闪耀的像黄金色眼泪一样的液体的坛子)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(完全没有腐烂，一直好好保存到现在。似乎有点香味……嗯，以防万一……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "可疑的金色液体",
+      "question": "<FONT color=#7e12d2>(卷起袖子把手放进了坛子里。用手搅了搅，似乎只有液体)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(果然什么都没有。这应该是很好的酒，就这么搅了还真是有点抱歉……接下来看看装饰盒吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "可疑的装饰盒",
+      "question": "<FONT color=#7e12d2>(和这里的气氛不搭的美丽装饰盒)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(</FONT><FONT color=#086171>梅里恩戴尔</FONT><FONT color=#662500>的骨灰盒……这段时间积了些灰啊)</FONT>",
+      "answer": "",
+      "image": "qn_npc_marriendel.png"
+    },
+    {
+      "npc": "梅里恩戴尔的骨灰盒",
+      "question": "<FONT color=#7e12d2>(小心地把灰尘掸了掸，什么事都没发生。</FONT><br>\n<FONT color=#7e12d2>守护这个骨灰盒的卢比纳特的意念体似乎也消失了……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "可疑的装饰盒",
+      "question": "<FONT color=#7e12d2>(侧面小小地写着</FONT><FONT color=#086171>“梅里恩戴尔”</FONT><FONT color=#7e12d2>的名字……)</FONT>",
+      "answer": "",
+      "image": "qn_npc_marriendel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(</FONT><FONT color=#086171>梅里恩戴尔</FONT><FONT color=#662500>的骨灰盒啊……</FONT><br>\n<FONT color=#662500>积了些灰。上次看到的时候还一尘不染呢……)</FONT>",
+      "answer": "",
+      "image": "qn_npc_marriendel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……梅里恩戴尔，怎么办呢？卢比纳特可能会永远离开我们了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(我没有信心能救出卢比纳特。我不知道该怎么做啊……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(梅里恩戴尔，如果你能看到我们，请保佑卢比纳特的意志不要被摧毁)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(查看了骨灰盒的周围后默哀了一会儿。</FONT><br>\n<FONT color=#662500>似乎没有什么线索，</FONT>和<FONT color=#086171>阿尔克</FONT><FONT color=#662500>说说吧。)</FONT>",
+      "image": "qn_arc.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你找到了什么吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "<FONT color=#7e12d2>(阿尔克从书堆后面探出了脑袋)</FONT>我没找到什么重要的线索。<br>这些大部分都是卢比纳特大人在谜之大陆生活的事情，或者和反女神派来往的记录。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "除之外的个人研究资料被损坏的很严重。<br><FONT color=#a82424>暗影龙</FONT>，<FONT color=#a82424>意念体</FONT>，<FONT color=#a82424>陨石</FONT>……都是这些东西，似乎没什么其他的重要东西。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这样啊……现在似乎没什么能找到的东西了，怎么办呢……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "如果可以，我想在这里继续查看这些书籍。<br>还有……<FONT color=#387206>{user_nick}</FONT>去见见<FONT color=#a82424>市国首长贝勒尼卡</FONT>大人怎么样？",
+      "answer": "",
+      "image": "qn_vernicka.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝勒尼卡大人？为什么……？</FONT>",
+      "answer": "",
+      "image": "qn_vernicka.png"
+    },
+    {
+      "npc": "阿尔克",
+      "question": "贝勒尼卡大人通过密探肯定已经知道了<FONT color=#387206>{user_nick}</FONT>你来到梅尔卡市国的事情。他会想知道你为什么来这里，<FONT color=#387206>{user_nick}</FONT>最好说你是因为反女神派的事情来梅尔卡的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>诺尔佩也……诺尔佩大人也说了类似的话。好吧。</FONT><br>\n<FONT color=#662500>那这里的事情就交给你了，我去去就来。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "我知道了。我查看完书籍后就马上去扭曲的区域的<FONT color=#a82424>贫瘠沙沼</FONT>。以后你需要我的时候就去那儿找我吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(阿尔克看了我一眼又开始查看书籍了。那现在去见见</FONT><FONT color=#086171>贝勒尼卡</FONT><FONT color=#662500>大人吧)</FONT>",
+      "answer": "",
+      "image": "qn_vernicka.png"
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "<FONT color=#7e12d2>(贝勒尼卡眼神锐利)</FONT><br>\n……你好啊。半吊子。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9772_qu_01.ogg}<br>我知道你来了。<br>\n女巫抓到了阿尔特里亚的红龙的传闻已经传遍了。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "你究竟在南部领地惹了什么麻烦啊？<br>\n偏偏是<FONT color=#a82424>红龙卢比纳特</FONT>被女巫抢走了，我真怀疑诺尔佩大人是不是也失去理智了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……反女神派的人都尽力了。诺尔佩大人也是。</FONT><br>\n<FONT color=#662500>但是女巫的行动比我们预想的更快。如果您已经知道了所有的事情，那我就没必要来这儿了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "啧……到了现在你居然还露出不爽的表情，说出这种话。<br>赶紧给我打起精神来。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "这件事情足以动摇反女神派的基础。女巫抓走了卢比纳特，不知道什么时候又会突然行动，你也知道，如果环绕巨石碑的结界也消失，那一切就完了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>结界现在还没事。卢比纳特……还没有屈服于暗影龙。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "<FONT color=#7e12d2>(贝勒尼卡挑了挑眉)</FONT> ……我们不知道他什么时候会屈服。幸好现在女巫似乎还没有什么大动作。所以反女神派必须趁此机会快点行动。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9772_qu_02.ogg}<br>我来提个<FONT color=#a94407>建议</FONT>吧。把我的建议告诉诺尔佩大人。那我就会尽量混淆女神派内部的舆论。<FONT color=#086171>“从阿尔特里亚来的龙真的有用处吗”</FONT>，把这样的言论散播到查尔德中间，引起混乱。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了。建议是什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9772_qu_03.ogg}<br>把<FONT color=#a82424>格雷尔</FONT>带来梅尔卡的心脏。",
+      "answer": "",
+      "image": "qn_child_grele.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>？！格雷尔为什么……?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "有两个理由。表面上来说，几天前从被遗弃者的摇篮回收了被推定为<FONT color=#086171> 伊贝尔的遗物</FONT>的东西。我想把那些东西交给格雷尔，让他在梅尔卡暂时休息一下。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>伊贝尔的遗物……那另一个的理由是什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9772_qu_04.ogg}<br><FONT color=#7e12d2>(贝勒尼卡的表情缓和了。露出了微笑)</FONT><br>最近南部领地附近的<FONT color=#a82424>查尔德玛蒙</FONT>的情况有些奇怪啊。你肯定知道吧？",
+      "answer": "",
+      "image": "qn_child_mammon_shadow.png"
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9772_qu_05.ogg}<br>反女神派很不安，而查尔德的动作又很可疑，如果连格雷尔都出了什么事那怎么办？或者，就算格雷尔安安静静待着，如果玛蒙发现了格雷尔，盯上宝玉呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "你现在懂了吧？格雷尔现在留在南部领地太危险了。反女神派已经失去了卢比纳特，如果连格雷尔这张牌也丢了，那就完了。而且对我也有致命的损害。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "所以我需要保证格雷尔的安全。<br>\n没有特里亚的梅尔卡对格雷尔来说是个非常安全的地方，在我的视线范围内保护格雷尔的话，我也能尽全力保护反女神派。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……有道理。格雷尔因为卢比纳特的事情非常伤心，正需要安慰……)</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "好，我要说的话就是这些。要不要告诉诺尔佩大人是你的选择。<br>\n我会等着你的好消息。",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "qkname": "小联盟",
+  "data": [
+    {
+      "npc": "精灵长老",
+      "question": "接下来要拜托你的地方……<br><FONT color=#7e12d2>（精灵长老把手里的羊皮纸文件递了过来）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我，可以去等待白昼森林看看吗？</FONT>",
+      "answer": "",
+      "image": "qw_89.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "……<FONT color=#a82424>等待白昼森林</FONT>……？你是想去看那附近的古代人的遗迹吗？虽然50年前那里的封印因为龙之追随者而被解开了，但那里并不安全。你可能会被遗迹制造的幻觉击倒。",
+      "answer": "",
+      "image": "qw_89.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，不过……我和认识的龙……啊不，和认识的人约好了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "嗯~干得不错吧？我？<br><FONT color=#7e12d2>（请和精灵长老对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "\n最近气氛很异常……说不定会发生什么事情呢。<br>\n<FONT color=#7e12d2>（请和精灵长老对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "嗯~干得不错吧？我？<br><FONT color=#7e12d2>（请和精灵长老对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "竟然约在那种地方见面？嗯……我知道了。<br><FONT color=#a82424>等待白昼森林</FONT>就在银色新月修炼场旁边。<br><FONT color=#7e12d2>（精灵长老露出担心的神色）</FONT>",
+      "answer": "",
+      "image": "qw_89.png"
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9392_qu_01.ogg}<br>嗯，你来啦。在这里的话，我可以更准确地看看你了。<br>……啊，果然。<FONT color=#387206>{user_nick}</FONT>……",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……你该不会是古代龙的碎片呢？",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "咳咳……你……你并不是从一开始就存在的。<br>你身上有什么不一样的东西。杰兰特的味道也比想象的要弱……",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "你沾染了黑龙的血？被污染了……对吧？",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9392_qu_02.ogg}<br>你把我，我看成什么了。混沌龙？这种程度我当然看得出来。但是这也太……你是怎样以这个身体坚持过来的？到现在为止你都没有一点事情，真是神奇啊。在这之前你都是怎么过的？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我得到了卡拉秋大人的帮助。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我得到了卡拉秋大人的帮助。而且，我……我和普通人类不一样。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>因为我得到了卡拉秋大人的帮助。而且……就算是杰兰特，我想他也是抵抗不了这种毒的。</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9392_qu_03.ogg}<br>……只是这样想的话，该怎么办才好呢……你最好不要太勉强自己。虽然你很弱，但不是还有我吗……？我会尽全力阻止的……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>虽说如此，但这是世界的危机，我不能袖手旁观。如果你有需要的话，请告诉我。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "呃……嗯，知道了。但是，如果你的身体有任何异常的话，要说出来哦。<br><FONT color=#7e12d2>（艾奥纳露出担忧的目光）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9392_qu_03.ogg}<br>原来如此~跟杰兰特说的一样。杰兰特的朋友果然厉害啊。唉。不过，如果你的身体有任何异常的话，一定要说出来啊！ ",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "嗯……没想到你是古代龙的碎片。而且，你这么矮，完全就是个小矮子嘛。没想到还有比我更小的宝玉在人类的形体内。 ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我已经用宝玉做过各种实验了。<br>……不过，你说什么？小矮子？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ionSmile}<br>你就是这么小小的嘛~古代龙也真是的。整天对我说什么碎片碎片的，结果自己是比我还小的宝玉碎片……杰兰特也变小了……噗！就是小矮子没错嘛！",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "<FONT color=#7e12d2>（艾奥纳缩成一团）</FONT>奇、奇怪。明明是我的年纪比较大，为什么觉得害怕呢，古代龙的碎片……好奇怪……？你生气了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……我没有生气到那个地步，所以你也不用那么害怕。哈哈哈。</FONT><br><FONT color=#662500>那么，该怎么办呢？艾奥纳。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……不可能看不出来啊。虽然晚了一点……因为你是如此扭曲的存在。你好像还不了解你自己……但是，或许这样反而比较好。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃？我只不过</FONT><FONT color=#662500>……</FONT><FONT color=#662500>跟着露娜莉娅，穿越了几次时间而已。</FONT><br>\n<FONT color=#662500>穿越时间都是靠露娜莉娅的力量。</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "……你以为普通人类随便穿越时间后还能若无其事吗？就算你是普通人类，现在也不能那么喊你了。虽然我不认识露娜莉娅，但她是不会随便选择一个人类的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是的。虽然我稍微穿越了一下时间，但我完全不会使用特殊的力量……</FONT><br>\n<FONT color=#662500>我很平凡。</FONT><FONT color=#662500>我是平凡的普通人类。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ionSmile}<br><FONT color=#7e12d2>（艾奥纳无奈地笑了起来）</FONT>你是在否定你自己吗？虽然我不能阻止你自我否定……算了，现在其他的事情更紧急。现在就不思考关于你的事情了。噗哈哈。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊？你是怎么知道的？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃，你怎么知道？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "嗯……总、总之！言归正传吧！<br>我现在的力量很弱，我自己什么都做不了……<br>努力来见我的杰兰特的朋友<FONT color=#387206> {user_nick}</FONT>，你是和我一边的，对吧？你也是我的朋友，对吧？<br>（<FONT color=#7e12d2>艾奥纳用小心翼翼的眼神看着我说道）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……嗯，我就先相信你吧。</FONT><br><FONT color=#662500>但是，我们成了一伙的话，从现在开始该怎么做，你有计划吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "呵呵，我早就想好了！虽然我不是很会制定计划，但参考以前的事情的话，定计划就很简单了！杰兰特曾经和人类们一起战斗过的……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你是说黑龙之战？</FONT>",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9392_qu_06.ogg}<br>嗯！据我所知，那恐怕……是把人类和龙的力量结合在一起的……第一场战争？对……吧？我们也那样做吧。该怎么做呢？",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "欸，你、你……你那时候已经认识杰兰特，不是吗？哦，那、那个……啊，是我搞错了吗？</FONT><br><FONT color=#2b2723>那、那么第二个黑龙</FONT><FONT color=#2b2723>……</FONT><FONT color=#2b2723>那时候怎么样？和杰兰特在一起的时候？？</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_twoeyes.png"
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "咦咦咦？！！怎、怎么会……你以为我是为了什么找你啊……呼，好吧。不知道的话，我们就一起来找好了！我是说最初的黑龙 之战。从开始到结束~",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "对人类而言，那是很重大的事情……所以人类应该有记录吧？<br>你快把相关的记录找来，黑龙之战！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃？为什么是我？？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "因、因为……<FONT color=#7e12d2>（艾奥纳的眼睛变大了）</FONT><br>你想想看……凭我这幅弱小的样子，可以到人类世界去询问吗？<br>像这种事情，当然还是得身为冒险家的<FONT color=#387206>{user_nick}</FONT>你出马啦……不、不是吗？",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9392_qu_07.ogg}<br><FONT color=#387206>{user_nick}</FONT>，你是杰兰特的朋友，你一定认识很多人吧？你去找谁问问看呢？",
+      "answer": "",
+      "image": "qn_npc_geraint_twoeyes.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，我想先去找斯塔西谈谈。他过去亲自参加过黑龙之战，他可能知道些什么。</FONT>",
+      "answer": "",
+      "image": "qn_npc_scholar_starshy.png"
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "斯塔西?人类的名字？很好！那么我就在<FONT color=#a82424>黛月森林入口</FONT>等你。我会好好躲起来，你一定要来找我哦。<br>……我什么都不会做，我就这里等你，一定要来找我啊！",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "嘿嘿，我会乖乖等你的。<br><FONT color=#7e12d2>（艾奥纳像强调似的重复说着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "嗯？<FONT color=#387206>{user_nick}</FONT>，你找我有什么事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "<FONT color=#2b2723>嗯？空气的流动改变了</FONT><FONT color=#2b2723>……</FONT><FONT color=#2b2723>！你有什么事吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "嗯……虽然从中间开始就没在听，但总之你需要黑龙之战的记录对吧？你找对人了……让我看看……<FONT color=#7e12d2>（斯塔西在仓库里翻找。看到了几本诡异的书……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "嗯……你可别在大街上做这种事。总之，你需要黑龙之战的记录对吧？你找对人了……让我看看……<FONT color=#7e12d2>（斯塔西在仓库里翻找。看到了几本诡异的书……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "嗬……这、这个感觉！？蕴含着怨念的节奏……我感觉到了灵、灵魂……！嗬，我这个老人家的心脏好久没有这样怦怦！跳动了。好，我马上给你找！唔……黑龙之战的记录，在哪呢……<FONT color=#7e12d2>（斯塔西在仓库里翻找。看到了几本诡异的书……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "啊，在这里。这是<FONT color=#a82424>[黑龙之战~10分钟轻松了解！~]</FONT>第一部。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（这起的什么名字啊……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "怎么这幅表情……呵呵，这是绝版图书，可是非常珍贵的东西。本来有第二部的，但别的家伙说掉到什么沼泽里去了！真是气死我了……对了，等等，太好了！我把第一部借给你，作为交换，你去把第二部给我找回来吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "很好，这是第一部。你好好看完之后，把第二部一起还回来吧。<br><FONT color=#7e12d2>（斯塔西露出满意的表情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "嘿嘿，那待会见吧~<br><FONT color=#7e12d2>（去找纹章学者斯塔西问问黑龙之战的事情吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_scholar_starshy.png"
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9392_qu_09.ogg}<br>啊，<FONT color=#387206>{user_nick}</FONT>！！怎么样？找到了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "…………才一会儿不见，发生了什么事？<br>………不过，没事。我能理解……嗯，世界真神奇啊……？<FONT color=#7e12d2>（艾奥纳好像在努力理解）</FONT><br>……快看看。",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "嘿嘿，果然！快看看！<br><FONT color=#7e12d2>（艾奥纳开心地笑了）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（打开书）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（好，快点去找艾奥纳，和他一起看书吧。他就在阿努阿兰德的黛月森林入口）</FONT>",
+      "answer": "",
+      "image": "qn_npc_white_dragon.png"
+    }
+  ]
+}

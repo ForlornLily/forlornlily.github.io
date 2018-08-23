@@ -1,0 +1,121 @@
+{
+  "qkname": "寻找格雷尔",
+  "data": [
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "快过来，冒险家。在<FONT color=#a82424>谜之大陆</FONT>辛苦你了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没什么，这些都是我应该做的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "谢谢你，只有冒险家你能给这个破碎的世界带来希望。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "快过来吧。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "今天也要请你在<FONT color=#a82424>谜之大陆</FONT>积极活动呢。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "怎么样？你决定前往<FONT color=#a82424>南部领地</FONT>了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "很好，正好<FONT color=#a82424>诺尔佩</FONT>曾经委托过我 一件事。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "当然不可草率做出决定。你什么时候决定前往南部领地，就再来找我吧。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9738_qu_01.ogg}<br>你找到<FONT color=#a82424>格雷尔</FONT>后，无论如何都要把他带回来。",
+      "answer": "",
+      "image": "qn_grele.png"
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "如果<FONT color=#a82424>格雷尔</FONT>真的成了<FONT color=#a82424>突变</FONT>，他将变成既拥有人类自我，又可以吞噬查尔德宝玉的特殊物种。对于反女神派来说，他将成为对付维斯提内女神的超级王牌。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9738_qu_02.ogg}<br>根据最近获得情报，格雷尔朝着<FONT color=#a82424>扭曲的区域</FONT>那边去了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>扭曲的区域？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9738_qu_03.ogg}<br>在谜之大陆，有一些维斯提内女神通过复制阿尔特里亚创造后又丢弃不管的地区。由于被废置的地区，时空处于扭曲的状态，所以禁止普通人出入。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "也许来自阿尔特里亚的你可能更熟悉那里，所以应该会比我们的调查团员更容易找到格雷尔。",
+      "answer": ""
+    },
+    {
+      "npc": "可疑装置",
+      "question": "<FONT color=#7e12d2>（有一个不知用途，却可以感觉到奇怪气息的装置）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "我会让警卫兵放你同行，你去找找格雷尔吧。",
+      "answer": ""
+    },
+    {
+      "npc": "可疑装置",
+      "question": "<FONT color=#7e12d2>（有一个不知用途，却可以感觉到奇怪气息的装置）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（这是什么？看来这附近好像有人生活过？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（那个……</FONT>和<FONT color=#a82424>格雷尔之前穿过的衣服</FONT><FONT color=#662500>好像啊。看来格雷尔果然来过这里！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "可疑装置",
+      "question": "<FONT color=#7e12d2>（继续观察了一下周围，没有发现格雷尔的踪迹。先回到</FONT><FONT color=#a82424>贝勒尼卡</FONT><FONT color=#7e12d2>那里吧）</FONT>",
+      "answer": "",
+      "image": "qn_vernicka.png"
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "……没有见到格雷尔，而是发现了格雷尔停留过的痕迹？",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的。我刚才交给你的应该就是格雷尔穿过的衣服。</FONT>",
+      "answer": ""
+    }
+  ]
+}

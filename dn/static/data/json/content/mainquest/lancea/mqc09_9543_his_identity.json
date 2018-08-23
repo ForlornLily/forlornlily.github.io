@@ -1,0 +1,188 @@
+{
+  "qkname": "他的真实身份",
+  "data": [
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "这种东西被王城的人发现就糟了……！！<br><FONT color=#7e12d2>（压低声音）</FONT><br>可能会连累兄弟团的某个人……",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我可以理解你为什么生气。<br>虽然我和兄弟团有密切的关系……但你在怀疑作为外人的我怎么会拥有这种<FONT color=#a82424>机密文件</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>对、对！大概就是这样！<br>特拉玛依，你果然你是大骗子吗？<br>（怒视着特拉玛依）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "关于这件事，我只能以后向你解释。 <br>只是……你现在不能相信我吗？",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "回想起来，之前的事情我的确很后悔。但是，我没有做任何有愧于女神的事情。<br>我知道这有点过分……但是时机成熟的时候我会告诉你一切，现在请你相信我。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>唔……不知道了啦……<br>但、但是，我还没有完全相信你！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "……是吗……<br>不过，我很相信你。<br><FONT color=#7e12d2>（特拉玛依微笑着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "对了，你寄出去的书信现在还没有答复。<br>你是正义的信奉者，而且是懂得为自己做的事情负责的人，所以，你能去确认一下是怎么回事吗？ ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>当、当然可以！<br>我可是热爱正义与和平，懂得为自己的事情负责的萌骑士！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "那就请你去投递书信的地方，找找看有没有<FONT color=#a82424>回信</FONT>吧。拜托你了。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我相信，你应该不会忘记<FONT color=#a82424>那里</FONT>是哪里吧。",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "<FONT color=#7e12d2>（……？？有谁昏倒在信箱前面）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>快醒醒！<br>我听说躺在这种地方的话，嘴巴会被吹歪掉的。<br>嘴巴歪掉的话喝汤的时候就会流出来，那么衣服就会被弄脏，衣服弄脏的话，妈妈会打你的喔……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "呃……呃呃呃呃……<br><FONT color=#7e12d2>（男人好像因为太吵了而醒了过来）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>最开始就不应该倒在这种地方……啊！<br></FONT><FONT color=#662500>你不是钢铁兄弟团的人吗？<br>“为了兄弟团！”</FONT><FONT color=#662500><br></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "啊啊……你居然知道兄弟团的口号……兄弟团里怎么会有这种小朋友啊……咳咳、咳咳…… <br>……兄弟团里……出了<FONT color=#a82424>叛徒</FONT>……咳咳……一定要……保重……呃……",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "………………<br><FONT color=#7e12d2>（男人从怀里掏出看起来像信的东西后失去了意识。好像已经断气了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（啊……这好像就是特拉玛依需要的</FONT><FONT color=#662500>回信……要先拆开看看吗……还是不要看呢……看吗……不看吗…… 呃呃呃呃……不行！这种行为是非正义的，快把这封信交给特拉玛依吧！）</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你去看了回信是怎么回事了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>带来回信的人遭到攻击倒下了……回信在这里！<br>（把</FONT><FONT color=#662500>密封的回信交给特拉玛依）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "带来回信的人遭到了攻击……？<br><FONT color=#7e12d2>（特拉玛依打开回信开始阅读）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "…………果然，就跟我预料的一样。<br>这样一来，我不得不把我的真实身份告诉你了。<br>如果你现在依然怀疑我的话，我说什么你都不会听的。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "其实<FONT color=#a82424>钢铁兄弟团</FONT>是以平民为中心结成的武力组织。但是反体制的势力形成军队，对王国来说非常有威胁性。<br>我身为教皇，却和这样的组织有关联，这可不是件值得推崇的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "但是，现在不能再隐瞒了……<br><FONT color=#7e12d2>（特拉玛依下定了决心似的抬起了头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "巴尔纳死后，率领钢铁兄弟团的<FONT color=#a82424>幕后的首领</FONT>……<br>就是<FONT color=#2b2723>我，泰兰斯·特拉玛依。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不会吧？！?！<br>特拉玛依，您真的是兄弟团的首领吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "嘘……小声点。<br><FONT color=#7e12d2>（特拉玛依拿出一个吊饰）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这、这是只给予</FONT><FONT color=#662500>兄弟团的盟约之吊饰……！<br>我父亲也有这个，我经常看到，绝不会错。<br>（吊饰后面写着“巴尔纳和特拉玛依。我们的盟约直至永远”） </FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "是的……所以，我以我和巴尔纳的名誉起誓，你最信任的好朋友凯伊并不是钢铁兄弟团的一员。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>如果特拉玛依您没有骗人的话……果然……凯伊才是骗子吗……?！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我在调查<FONT color=#a82424>帮助凯伊的人</FONT>的同时，为了以防万一也要了一份兄弟团团员的情报。<br>凯伊是我通过FONT color=#2b2723>拉斯</FONT>认识的，而且他也有<FONT color=#2b2723>兄弟团的吊坠，所以我没有怀疑过他，但是听了你的话之后我开始怀疑他究竟是不是兄弟团的成员。 </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "现在这份团员文件上并没有凯伊的名字。<br>也就是说凯伊并不隶属于兄弟团……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎么会有这种事……但是凯伊他……凯伊没道理要做坏事啊！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "凯伊也很可能是被利用了。<br>连兄弟团也查不出来<FONT color=#a82424>凯伊追随的人</FONT>是谁，这一点我也很不放心……",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "反正凯伊也在追<FONT color=#a82424>巴尔纳</FONT>。<br>去巴尔纳要去的地方的话，自然就可以见到他。",
+      "answer": "",
+      "image": "qn_npc_death_knight.png"
+    }
+  ]
+}

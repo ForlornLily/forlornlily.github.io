@@ -1,0 +1,234 @@
+{
+  "qkname": "无法返回的地方",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9467_qu_01.ogg}<br>不愧是姐姐。竟然找到了贤者法杖。<br>那么，贤者预言……<br><FONT color=#7e12d2>（听我说完，埃提亚的表情极为严肃）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可是我总感觉怪怪的。我完全没想到杰克竟然会是龙之追随者。<br>咦……那是什么？<br>（埃提亚拿着一把简易的花束）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9467_qu_02.ogg}<br>啊……这个，是凯伊哥哥。<br>他还有话让我转达给你。",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>凯伊他真的来过村庄了吗？？<br>诶……看来那小子面对爱情还是很勇敢的嘛~！</FONT>",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9467_qu_03.ogg}<br>姐姐……！！<br>现在不是开玩笑的时候。发生了很重要的事，你听了可不要太惊慌啊。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9467_qu_04.ogg}<br>凯伊哥哥好像因为联系不上父亲，就亲自去<FONT color=#a82424>我们家</FONT>看个究竟了。<br>可是……<br>我们家像是遭了强盗洗劫一样，一片狼藉，下人们也都全部不知所踪了。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9467_qu_05.ogg}<br>父亲也不知了去向。武器上留下了划痕和斑斑血迹……书房里……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？？？<br>我们必须马上回到领地才行。收拾东西，埃提亚。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9467_qu_06.ogg}<br>姐姐……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>还愣着干什么？我们得赶紧去找父亲啊！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9467_qu_07.ogg}<br>我就知道姐姐会这样。这也正是凯伊哥哥所担心的。<br>这时候回家的话太危险了。我们家族的所属……也可能会暴露的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可是父亲他……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9467_qu_08.ogg}<br>凯伊哥哥正在努力寻找线索。<br>哥哥他……怀疑钢铁兄弟团里是不是也有龙之追随者潜伏在其中。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9467_qu_09.ogg}<br>如果背叛父亲的人是龙之追随者，那么交到我们手上的秘传之球为什么是假的，就好解释了。<br>因为这次的事情一定就是那帮家伙谋划的。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9467_qu_10.ogg}<br>凯伊哥哥说最好继续追踪那些盗走秘传之球和贤者法杖的人。<br>我也是这么认为的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可是……呜……呜呜……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9467_qu_11.ogg}<br>停……不要哭了，姐姐。弄得我也……嘤嘤……<FONT color=#7e12d2>（埃提亚的眼泪呼之欲出）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呜，好吧。我作为姐姐应该振作起来才行……呜……<br>那，那么我们现在该怎么做呢？现在就真的没有能联系到父亲的办法吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9467_qu_12.ogg}<br>呼……<FONT color=#7e12d2>（埃提亚呼了一口气继续说道）</FONT><br>凯伊哥哥说他会再和钢铁兄弟团接触的。我们就去帮忙救出<FONT color=#a82424>那个少女</FONT>吧。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？拯救世界于危难的伟大事业，我早就跃跃欲试了……<br>可是父亲怎么办呢？我们的事又怎么办呢？？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9467_qu_13.ogg}<br>我们在救出少女的过程中一定会再遇到龙之追随者的，不是吗？<br>既然找不到别的线索，现在就只能通过追踪他们来找寻父亲的下落了。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>原来如此……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9467_qu_14.ogg}<br>姐姐！你别太难过了，嗯？？<br>父亲一定会没事的。所以我们打起精神来吧~！！<br><FONT color=#7e12d2>（埃提亚用她那真挚的目光望着我）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，谢谢你，埃提亚。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9467_qu_15.ogg}<br>那么，去问问要怎么样才能救出那个少女吧？<br>一起看到预言的<FONT color=#a82424>辛西亚</FONT>应该正在寻找可行的办法吧。<br>去告诉她我们也愿意加入她们吧。",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "听说你有很大的作为。多亏了你，才让我知道了有关预言中少女的事。<br>谢谢了。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>您会去救少女的，对吧？</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "那是当然。虽然还是有些不安，但我已经派出了实力出众的小魔法师，相信一定能把那个少女救出来的。<br>不过，你为什么要问这些？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也想一起去救出少女。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "又是为了跟恶势力对抗？<br>像你这样养尊处优的孩子，老是这样在外奔波的话，搞不好会丧命的。你还是回家老老实实呆着吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "T color=#662500><br>现在那样的事已经无法实现了。<br>觊觎秘传之球和贤者法杖的人，我有债要向他们讨回。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "又有什么东西被抢走了？嗯，要是为了这样的理由……考虑到你之前帮过我们那么多，这次我也要帮你。<br>可是，这次需要离开魔法山脊，看起来弱不禁风的你们可以吗？",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>当然了。埃提亚有我带着就行了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "<FONT color=#7e12d2>（高级魔法师辛西亚轻轻点了点头继续说道）</FONT><br>从贤者的启示中看到的那个<FONT color=#a82424>红发少女</FONT>，也许和世界的灭亡有着密切关联。<br>说不定会和古代人有关呢。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "那是生活在过去神之时代的，有着无穷力量的种族。如果少女继承了古代人的血脉，那么说不定她就是引发世界灾难的导火索。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "我们魔法师无法决定那个少女到底是应该守护的对象，还是应该铲除的对象。<br>不过我认为你应该能够自己判断出哪一条才是真正守护世界的道路。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "虽然……你有些呆头呆脑，让我稍有不放心，但如果你凭借那高呼正义的善良之心进行判断的话，应该是没问题的。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "你前往水晶谷另一边的<FONT color=#a82424>凯德拉关卡</FONT>吧。冒险家公会会帮助你的。<br>为了让你顺利进入凯德拉关卡，我会给你一张通行证，你带着它前往吧。",
+      "answer": "",
+      "image": "qw_cataractgateway.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "虽然不知道你发生了什么事，但我不希望看到像你这样漂亮的孩子流露出如此悲伤的目光。<br>祝你一路顺风……<br><FONT color=#7e12d2>（辛西亚亲切地微笑着，送我离开）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "看来是要去那个叫做<FONT color=#a82424>凯德拉关卡</FONT>的地方。知道了，姐姐。<br><FONT color=#7e12d2>（埃提亚费劲地想要起身）</FONT>",
+      "answer": "",
+      "image": "qw_cataractgateway.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你能走吗？？前往凯德拉关卡这一路上，姐姐我会保护好你的。<br>相信我，埃提亚。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "\n嗯，姐姐。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "\n可是，我好像还得收拾一下行礼。姐姐你去附近再进行一番训练后，再回来怎么样？<br>\n<br>\n<FONT color=#7e12d2>※达到9级后才可执行下面的任务。</FONT>",
+      "answer": ""
+    }
+  ]
+}

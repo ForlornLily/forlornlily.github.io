@@ -1,0 +1,207 @@
+{
+  "qkname": "柯梅里纳",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "嗯。钢铁兄弟团也在寻找先知？<br>真是奇怪。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "虽然这是凯伊哥哥的委托，但幸好姐姐你拒绝了。<br>因为只有先知醒来，我们才能找到父亲。现在先知还是待在比较安全的地方为好。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "你先去<FONT color=#a82424>卡拉安</FONT>那里看看吧。说不定她已经找到了唤醒先知的办法。",
+      "answer": "",
+      "image": "qn_npc_royal_magician_kalaen.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "你去见见<FONT color=#a82424>宫廷魔法师卡拉安</FONT>，向她询问是否找到了唤醒先知的办法吧，姐姐。<br>现在先知是我们唯一的希望。",
+      "answer": "",
+      "image": "qn_npc_royal_magician_kalaen.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>（可爱的少女站在那里东张西望。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "你为什么在这里瞎转悠？ ……喂，我不是说让你走啦！<br>你真是个不识趣的家伙。你找我有什么事情吗？<br><FONT color=#7e12d2>（卡拉安在发脾气）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你找到唤醒先知的方法了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "哈哈，现在我的心情终于痛快了很多。<br>总之，我会破例给你个机会，让你见识见识<FONT color=#a82424>佩奥里斯塔</FONT>的惊人能力。<br><FONT color=#7e12d2>（卡拉安将厚重的书放在一旁，得意洋洋地说道）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哇，快让我见识下吧！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "那你快去死亡城市路口，搜集些<FONT color=#a82424>梦幻草</FONT>给我吧。<br>我需要那些从怪物的腹中生长的植物，所以你去消灭<FONT color=#a82424>死亡城市路口</FONT>的强大魔物吧。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你不是说让我看看佩奥里斯塔的力量嘛。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "首先得有材料才行吧？材料！<br>我看你长得漂亮，本来想让你为我做些事的，没想到你话这么多啊。唉。",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "我的嘴巴都累了，你快去搜集<FONT color=#a82424>梦幻草</FONT>吧。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……要去哪里搜集？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "我刚刚不是说了嘛，你没听到吗？<br><FONT color=#7e12d2>（卡拉安似乎有些烦躁）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你说要给我看神奇的东西，所以我就集中了注意力啊……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "哎呀，我的头好晕。不知道吩咐你去跑腿是不是正确的选择。<br>我让你去<FONT color=#a82424>死亡城市路口</FONT>，等你回来，我就让你看看佩奥里斯塔的伟大力量！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（这可爱的小鬼是谁？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "啊！你…… 你找我有事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没有，我只是看你太可爱了，才跟你说话的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "原来是这样啊，我还以为……<FONT color=#7e12d2>（学者柯梅里纳松了口气）</FONT><br>我叫<FONT color=#a82424>柯梅里纳</FONT>。那个，你能帮帮我吗？",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "啊！！！你愿意帮我吗？<br>谢……谢谢！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊… 别…别客气。<br>那我先出发啦。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "啊！等等！你不是说要帮助我吗……<br>\n我还没告诉你应该做什么呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？（思考了一会儿之后，发现不知道应该做什么）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "由于与黑龙的那场战斗，很多人受了伤。我正在寻找制作治疗剂的材料。<br>我也想跟你一起去，但我还需要搜集材料拿给贝思柯德……啊，不是……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你说贝思柯德？</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "啊！你…你…就当做没有这回事吧。下次再见！！",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>（柯梅里纳消失了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "我……我先走了<br><FONT color=#7e12d2>（学者柯梅里纳消失了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "你真的搜集到啦？我以为你只是长得好看，没想到你还蛮有用的嘛？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>佩奥里斯塔的力量！快让我见识下吧，快~</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "你不是说有事情要问先知吗？如果你不想唤醒先知，只想见识佩奥里斯塔的伟大力量的话……<br><FONT color=#7e12d2>（卡拉安望着</FONT><FONT color=#7e12d2>{user_nick}</FONT><FONT color=#7e12d2>，小声地叹了口气）</FONT><br>真是个让人摸不着头脑的孩子。",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "现在我要用<FONT color=#a82424>梦幻草</FONT>制作<FONT color=#a82424>梦粉</FONT>了。你知道什么是梦粉吗？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "吼吼吼吼。我告诉你吧，听好了。这是<FONT color=#a82424>可以进入沉睡者梦中的</FONT>魔法粉末。因为一直沉睡不醒一般都是精神上的问题，所以进入其梦境直接问一问当事者是最快的方法。<br>而且还很便捷。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "它不可以经常使用，是我特别为你做的，你要感到荣幸哦！<br><FONT color=#7e12d2>（卡拉安用各种调味料搅拌着梦幻草）</FONT><br>虽然香味扑鼻，但你可不能吃。知道吗？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>闻起来真的好香啊，嗯嗯……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "喂！你在干什么？现在还很烫，你靠这么近，小心鼻子被烧熟！唉。<br><FONT color=#7e12d2>（将香味扑鼻的梦幻草粗略研磨后，递过来一小把）</FONT><br>已经好了，你拿去吧。",
+      "answer": ""
+    }
+  ]
+}

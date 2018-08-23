@@ -1,0 +1,193 @@
+{
+  "qkname": "来迟一步",
+  "data": [
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "天啊？好久没看到这么可爱的小女孩了。<br>话说梅伊小时候也非常可爱……<br><br>\n※ <FONT color=#7e12d2>必须要从侦察兵福古斯那里领取任务之后，才能进行。</FONT>",
+      "answer": "",
+      "image": "qn_ranger_fugus.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "嗯……考虑到神圣天堂或魔法山脊那边也很关注此事，我本希望能在冒险家们这里做个了结……看样子是我想错了。<br>※ <FONT color=#7e12d2>必须要从侦察兵福古斯那里领取任务之后，才能继续进行。</FONT>",
+      "answer": "",
+      "image": "qn_ranger_fugus.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "安杰利卡搜集到的竖琴的琴弦断掉了，她出发去修理竖琴了。",
+      "answer": "",
+      "image": "qw_cataractgateway.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "高级弓箭手艾德琳善于修理竖琴。<br>为了修理断掉的琴弦，她肯定会去找<FONT color=#a82424>高级弓箭手艾德琳</FONT>。你还是去向艾德琳询问安杰利卡的行踪吧。",
+      "answer": "",
+      "image": "qn_npc_archer_adellin.png"
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "天啊？好久没看到这么可爱的小女孩了。<br><FONT color=#7e12d2>（艾德琳微微一笑）</FONT><br>话说梅伊小时候也非常可爱……<br>不过，你来找我有什么事情吗？",
+      "answer": "",
+      "image": "qn_npc_archer_adellin.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我在找一位名为安杰利卡的魔法师。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "啊……那个小魔法师的名字原来是<FONT color=#a82424>安杰利卡</FONT>啊？<br>她一见面就让我帮她修好断掉的琴弦，搞得我有些不知所措。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "她的琴弦修好之后，已经出发前往<FONT color=#a82424>叹息峡谷</FONT>了。<br>有位名叫伊桑的懂礼貌的牧师与她同行，所以我印象深刻。<br>因为大部分牧师和魔法师的关系并不好。",
+      "answer": "",
+      "image": "qw_14.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>谢谢你！我得加快步伐了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "如果你想见到<FONT color=#a82424>魔法师安杰利卡</FONT>，干脆在这里等她不是更好吗？<br>如果再错过不就糟糕了嘛。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>不，我去那里处理些其他事情。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "去叹息峡谷处理其他事情…… 那肯定和<FONT color=#a82424>先知</FONT>有关吧。<br>你要去救出先知？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>嗯……差不多吧。</FONT><FONT color=#7e12d2>(虽然目的不同……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "原来如此。祝你好运。<br>现在安杰利卡应该已经达到<FONT color=#a82424>叹息峡谷</FONT>了吧。<br>不知你能否见到她，但如果你抓紧时间，说不定还有机会。",
+      "answer": "",
+      "image": "qw_14.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "嗯……考虑到神圣天堂或魔法山脊那边也很关注此事，我本希望能在冒险家们这里做个了结……看样子是我想错了。<br><FONT color=#7e12d2>（戴卡德叹了口气）</FONT>",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "现在安杰利卡应该已经达到<FONT color=#a82424>叹息峡谷</FONT>了吧。<br>不知你能否见到她，但如果你抓紧时间，说不定还有机会。<br>※ <FONT color=#7e12d2>请移动到叹息峡谷，寻找魔法师安杰利卡的行踪吧。</FONT>",
+      "answer": "",
+      "image": "qw_14.png"
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "欢迎光临，小流浪者。<br>你去叹息峡谷办的事情…… <FONT color=#7e12d2>（艾德琳察言观色后，小声叹了口气）</FONT><br>唉，看来结果并不理想啊，真是可惜。",
+      "answer": "",
+      "image": "qw_14.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>嗯，我到达那里时，那里空无一人。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "原来如此。我们这边也发生了很多意料之外的情况，令人乱了阵脚。<br>在解救先知之前，<FONT color=#a82424>有人</FONT>突然出现，抱住<FONT color=#a82424>先知</FONT>消失了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>是什么人？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "详细的情况你还是亲自去询问<FONT color=#a82424>冒险家公会会长戴卡德</FONT>为好。<br>安杰利卡和伊桑目前也在遵照戴卡德的指示做事。",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>好的，我去见见戴卡德。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "嗯，那再好不过了。<br><FONT color=#a82424>戴卡德</FONT>位于村子中央的桥附近。",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "你还有什么事情吗？难道……<br>啊！原来如此，你是不是迷路了？<br><FONT color=#a82424>冒险家公会会长戴卡德</FONT>位于村子中央的桥附近。",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "ionRefusal}<br>嗯……考虑到神圣天堂或魔法山脊那边也很关注此事，我本希望能在冒险家们这里做个了结……看样子是我想错了。<br><FONT color=#7e12d2>（戴卡德叹了口气）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你好。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "你好。额，小姑娘，你来找我有什么事情吗？<br>如果你是替哪位漂亮姐姐来送信给我的，我会收下……<br><FONT color=#7e12d2>（戴卡德笑弯了腰）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>不是的，我在找人。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "<FONT color=#7e12d2>（了解事情经过之后，戴卡德神情严肃）<br></FONT>啊，你是说<FONT color=#a82424>魔法师安杰利卡</FONT>吗？她刚刚来过这里。<br>她是个非常善良的姑娘，听说我们正为黑骑士发愁后，她毫不犹豫地表示愿意伸出援手。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>黑……骑士？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "嗯？你没听<FONT color=#a82424>高级弓箭手艾德琳</FONT>说过吗？<br>我们在叹息峡谷差点救出了<FONT color=#a82424>先知</FONT>，但黑骑士突然出现，抓走了先知！！<br>\n<FONT color=#7e12d2>（戴卡德愤怒地挥动着拳头）</FONT>",
+      "answer": "",
+      "image": "qn_npc_archer_adellin.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "收到黑骑士带着<FONT color=#a82424>先知</FONT>逃跑的报告后，我将黑骑士的<FONT color=#a82424>预想逃跑路线</FONT>告诉了他们俩。<br>我也已经派出大多数冒险家公会会员前去追踪…… 但仍未收到任何消息。我真的很担心……",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个黑骑士是谁？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

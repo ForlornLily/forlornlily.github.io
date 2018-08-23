@@ -1,0 +1,53 @@
+{
+  "qkname": "秘传之球Ⅱ",
+  "data": [
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "杰克那家伙好像和传闻不太一样嘛。<br>\n你在这里干什么呢？还不赶紧去把<FONT color=#a82424>秘传之球</FONT>找回来！",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师尤丽娅",
+      "question": "请你快去<FONT color=#a82424>帕雷利娜安息处</FONT>。<br>一定要找到<FONT color=#a82424>秘传之球</FONT>，交给辛西亚。<br>拜托你了。",
+      "answer": "",
+      "image": "qw_8.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n你说在<FONT color=#a82424>融解森林</FONT>见到尤丽娅了？<br>\n看来最好再听听她怎么说。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "\n好了，别耽误时间，赶快前往帕雷利娜安息处吧。",
+      "answer": "",
+      "image": "qw_8.png"
+    },
+    {
+      "npc": "魔法师尤丽娅",
+      "question": "请一定要在<FONT color=#a82424>帕雷利娜安息处</FONT>找到<FONT color=#a82424>秘传之球</FONT>，交给辛西亚。<br>拜托你了。",
+      "answer": "",
+      "image": "qw_8.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "ionTalk2}<br>秘传之球被抢走了？！这些愚蠢的……<br>牧师，我不应该那么相信他们……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我无话可说。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "我不想听！<br>我不想再见到你。快回到那个该死的<FONT color=#a82424>神殿骑士团长</FONT>那里去吧！",
+      "answer": "",
+      "image": "qn_cl_tomas.png"
+    }
+  ]
+}

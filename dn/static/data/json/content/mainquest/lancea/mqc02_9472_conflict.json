@@ -1,0 +1,228 @@
+{
+  "qkname": "冲突",
+  "data": [
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "现在，更重要的是一定要找出害了老师的元凶。虽然，有时也会出现由于对世上存有怨恨或者留恋的人死后徘徊在这世上的亡灵，但在侍奉女神的圣职者中，从未有过这种事情发生。",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "一定有什么狂人魔法师或者堕落怪物之类的家伙操纵着这件事。<br>我一定要找出元凶，让他为这样的恶行付出应有的代价。<br><FONT color=#7e12d2>（杰梅因的目光中流露着恳切之情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真是些阴狠毒辣之人。<br>居然将供奉女神的圣职者变成那副模样……<br>（握着武器的手因愤怒而颤抖着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我……我一定会帮助你的！<br>（去找埃提亚，与她商议这件事吧）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "什么啊？你还没有找到吊坠吗？<br>真是没用！<br><FONT color=#7e12d2>（阿尔杰塔看起来很烦躁。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "该死……呃……<br><FONT color=#7e12d2>（阿尔杰塔痛苦地呻吟着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "顺从吊坠……如果是重要的遗物，书上应该会记载保管处啊……<br><FONT color=#7e12d2>（埃提亚忙着阅读书。先去见见高级牧师杰梅因吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_cl_master_germain.png"
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "我很感谢你的好意。<br>但是顺从吊坠已经找到，你之前说有急事要处理，你还是先去处理自己的急事吧。<br><FONT color=#7e12d2>（回到埃提亚那里吧）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐！那项链难道是？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这是顺从吊坠。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "哇~ 你见到威廉啦！居然这么快就找到了。<br>我还担心你找不到顺从吊坠的所在地，正在寻找其他材料呢，看来我该反省了。哎呀。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我没能见到威廉。他……呜……<br>（将杰梅因和威廉的事情转告埃提亚）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "该死……但是杰梅因说得没错。<br>那个女人让你快点把顺从吊坠拿过去，肯定是有原因的。<br>你先去见见那个名叫<FONT color=#a82424>阿尔杰塔</FONT>的女人吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……不过，我要去哪里找她呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "哎呀，你又忘记了？她在<FONT color=#a82424>沉睡者神殿</FONT>等你。",
+      "answer": "",
+      "image": "qw_16.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！对了，沉睡者神殿。我默念了一百遍，结果还是忘记了。看来我真的是个笨蛋。</FONT>",
+      "answer": "",
+      "image": "qw_16.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "唉~别这样。你不是笨蛋，我特意记下来，所以才记住的~<FONT color=#7e12d2>（埃提亚慌忙地指着空空的笔记本说道）</FONT><br>还有，姐姐你肯定能救出那个少女的！我相信你。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "你一定要平安回来啊，知道了吗？<br><FONT color=#7e12d2>（埃提亚微笑着挥挥手。前往沉睡者神殿吧）</FONT>",
+      "answer": "",
+      "image": "qw_16.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你这个笨蛋！怎么这么晚才来！<br>你知道黑骑士已经进去多长时间了吗？！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我在寻找顺从吊坠，所以来晚了。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "哼，看样子你找到了<FONT color=#a82424>顺从吊坠</FONT>啊？<br>那好。我们现在就去打倒黑骑士，夺回少女吧！",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>夺……回？少女又不是被占领的要塞，说夺回是不是……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "别在那儿废话，集中精力！<br>你先进去引开黑骑士的注意。<br>然后我就趁机在<FONT color=#a82424>黑骑士</FONT>的背后进行<FONT color=#a82424>偷袭</FONT>。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>从背后偷袭太卑鄙了吧。<br>我要直接去找黑骑士，让他交出少女。</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "什么？你这不知天高地厚的家伙，你觉得你能对付黑骑士？<br>如果与那家伙正面作战，我都没有把握会取胜。<br>所以，无论你是用美人计，还是什么方法，只要尽可能引开他的注意力就行了，我会趁机偷袭他。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>但是，那么做……不够正大光明。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "那家伙也不是正大光明地把少女带走的。<br>你不要在这废话了，快去吧。我会伺机跟上去的。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "不要皱着眉头了，快去吧。<br>这只是救出那个<FONT color=#a82424>少女</FONT>的策略而已。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "该死……呃呃……<br><FONT color=#7e12d2>（阿尔杰塔痛苦地呻吟着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你没事吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你看我这样像是没事吗？呃……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你好像受了重伤，我们先到村子里治疗……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "没关系……呃呃……<br>我会自己去的，你先回去吧。<br>还有，我有件事要拜托你……",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你前往<FONT color=#a82424>神圣天堂</FONT>，找到一位名叫<FONT color=#a82424>杰兰特</FONT>的<FONT color=#a82424>金发剑客</FONT>，将这里发生的事转告给他。<br>并请他帮忙。",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "正在<FONT color=#a82424>黑山</FONT>附近搜查的<FONT color=#a82424>杰兰特</FONT>并不知道这里的情况……等我恢复些之后就去<FONT color=#a82424>莲沼镇</FONT>寻求别人的帮助。<br>拜托了，小家伙……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>黑骑士他……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "那是一段讨厌又复杂的孽缘……咳咳……<br>我以后会慢慢告诉你的，现在你就作为我的奴隶准备前往<FONT color=#a82424>神圣天堂</FONT>吧。去找杰兰特……<br>\n<FONT color=#7e12d2>（转告埃提亚，自己要前往神圣天堂）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你去<FONT color=#a82424>神圣天堂</FONT>，将期间发生的事情告诉金发剑客。<br>并且，向他寻求帮助。那样的话，应该就能阻止黑骑士了。<br>\n<FONT color=#7e12d2>（转告埃提亚，我自己要前往神圣天堂）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "那女人也没能阻止黑骑士啊……<br>切，还不如姐姐亲自出马，说不定能战胜黑骑士呢！结果现在都没能救出少女，事情还变得越来越复杂……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>就是说…… 现在还要前往王城的首都神圣天堂。<br>现在该怎么办？埃提亚</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "得去趟神圣天堂才行。<br>不过，凯德拉关卡有前往<FONT color=#a82424>神圣天堂</FONT>的飞艇，要去神圣天堂应该会很方便的。",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    }
+  ]
+}

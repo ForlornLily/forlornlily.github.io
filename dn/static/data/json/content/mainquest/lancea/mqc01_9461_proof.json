@@ -1,0 +1,299 @@
+{
+  "qkname": "证明清白",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "辛西亚咆哮的声音都传到这里来了，发生什么事了？姐姐？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>埃提亚……我们该怎么办啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "什么怎么办？到底发生什么事了？？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>她说，父亲得到的秘传之球，是假的。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "什么？？假的！？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯。而且其他人送往这里的那根法杖居然被盗了，所以我刚才过去的时候，那里的氛围简直是杀气腾腾。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "被盗？怎么回事……<br>所以你才没能转交秘传之球，就这么回来了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我转交了，只是被摔碎了。完全不堪一击，被摔得粉碎。<br>是辛西亚在盛怒之下扔出去的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "唉。情况再怎么不好，也不该随手就把送过去的东西扔出去呀。辛西亚真坏。<br>为什么生了气要往姐姐身上撒呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>看样子偷走法杖的人还没找到。<br>所以就怀疑被派来送东西的我们是不是和他们一伙的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "你该不会跟她和盘托出了吧……不会吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我是那么不靠谱的人吗？严守秘密！这可是自我出生以来就铭记于心的守则！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "嘿嘿。那就好。我怎么能信不过姐姐呢，对不起~！<br>那么你和她解释了吗？怎么说的？",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "什么！？姐姐……真的，你这么回答她的？<br><FONT color=#7e12d2>（埃提亚的表情僵硬）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可是我实在想不出什么好的理由！<br>有关钢铁兄弟团的事又对谁都不能说。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "可这么一来，她一定会更加怀疑我们的。<br>就说是受到了教团的邀请，也可以先这么和她敷衍一下呀……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，对呀！这个办法不错！<br>还是埃提亚聪明。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "嗯？不，不是的，姐姐。我要是撞到辛西亚气头上，也一定会慌张得什么都想不起来的。<br>她是不是看上去可怕极了？也没办法。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "你用自学的枪法一路上保护着我，还把我弄丢的秘传之球找了回来，不是吗？<br>秘传之球是假的，这我们也无能为力呀。姐姐你已经尽力了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>唉，那没什么~枪法书还是你解读之后，一点一点教给我的呢。<br>你又打算夸得我忘乎所以吗？埃提亚~</FONT><FONT color=#7e12d2>（抚摸着埃提亚的头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "呵呵！虽然情况不是很好，但是和姐姐在一起就像出来旅行一样，我真的好开心哦！<br>不过，关于秘传之球的事，我们得告诉父亲一声吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是啊。辛西亚正怀疑我们呢，所以也没法回到她那去。<br>等丢失的法杖找回来，自然就能消除她的疑心了！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "咳！没办法~只能那样了。相信姐姐的话一定能找回法杖的。<br>要想消除辛西亚的疑心，没有比这个更快的办法了。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "在那之前，姐姐~！<br>父亲说我们到了魔法山脊后，<FONT color=#a82424>他会派一名兄弟团的人过来</FONT>，那么有关秘传之球的事，我们就去问问那个人吧。<br>我们到达的消息早就发回去了，所以估计派来的人现在应该已经在村外等着我们了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。不过……见到那个人的话，我们应该跟他说些什么呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "嗯~拉斯大人交办的差事完成得怎么样了？<br>你先去魔法山脊看看埃提亚的情况再回来报告吧？",
+      "answer": ""
+    },
+    {
+      "question": "<br>有东西掉到地上了。看起来没什么用。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "就说秘传之球是假的，而且法杖也不见了。就把情况如实对他说就行了。<br>那人一定已经等很久了。你快去<FONT color=#a82424>融解森林</FONT>看看吧，姐姐！",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9461_qu_01.ogg}<br>额~<FONT color=#387206>{user_nick}</FONT>！<br>你很勇敢嘛，居然找到这里来了？？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>凯伊！你在这做什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9461_qu_02.ogg}<br>呵呵呵，没听你父亲说要从钢铁兄弟团派个人过来吗？<br><FONT color=#7e12d2>（凯伊摆着架子神气地说道）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃？莫非……你到底还是加入兄弟团了！？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9461_qu_03.ogg}<br>那当然！我在拉斯大人手下工作已经好几年了！现在<FONT color=#387206>拉斯大人</FONT>也该认可我的实力了吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我父亲的眼里可是揉不得半点沙子的！就算是我的发小儿，犯了错的话，他也绝不会姑息纵容的！<br>对埃提亚和我也是十分严格呢！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9461_qu_04.ogg}<br>知道。我当然知道！难不成你以为我会不知道吗？<br>话说回来，你的任务都完成了吗？我听拉斯大人说只要把东西转交给什么人就行了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个……出了点问题。</FONT><br><FONT color=#7e12d2>（向凯伊讲述秘传之球的事）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9461_qu_05.ogg}<br>什么！？<FONT color=#a82424>秘传之球</FONT>是假的？<br>我明明听说，那是巴尔纳从卡拉秋那里得到后交给兄弟团保管的宝物啊。<br>你，该不会是送往这里的途中被什么人给掉包了吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>不可能的！埃提亚可是从来都没让它离开过自己！<br>一直紧紧抱着的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "埃提亚当然信得过了。那么……嗯……<br><FONT color=#7e12d2>（凯伊眉头紧锁）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9461_qu_06.ogg}<br>我知道了。我先回去向拉斯大人报告一下情况，你就在村子里稍作休息，等辛西亚消除疑心吧。<br>要是马上回家的话，埃提亚的身体可能会吃不消的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，来的路上她还受了伤，所以正在村里休息呢。<br>你就只知道担心埃提亚！是不是太过分了啊？？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "受伤了？哪里？<br>你的样子看上去毫发无损，怎么没能保护好她！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>只是不小心摔倒了而已。<br>你要是实在担心的话就进村里亲自看看呗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "……呃，你明知道不能被负责联络的人发现，故意这么说的吧？<br>你这人，可真坏。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嘿嘿。不过能见到你也让我有了一种回家的感觉~！<br>我打算去找失踪的法杖了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "你要去找法杖？怎么找？为什么？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>这个嘛……我觉得偷走法杖的人应该会掉落什么东西吧，所以我打算去</FONT><FONT color=#a82424>霜风峡谷</FONT><FONT color=#662500>找找线索。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "看来你也没什么好办法，果然是你的作风。那么，你可要小心啊！<br>\n<FONT color=#7e12d2>（现在得前往霜风峡谷了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "你不是说要去法杖被盗的地方吗？<br>这么快就从<FONT color=#a82424>霜风峡谷</FONT>回来了？<br><FONT color=#7e12d2>（得去霜风峡谷寻找线索了）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "<br><FONT color=#7e12d2>（在树丛中发现了一件发光的东西）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "<br><FONT color=#7e12d2>（拿回去给埃提亚看看吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "是姐姐！这么快就回来了？<br>见到钢铁兄弟团派来的人了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "这个嘛，兄弟团里的团员，除了直接与其接触的人之外，对其他人来说完全保密的啊。<br>难道是我认识的人？",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "真小气，还不快告诉我是谁？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不要吃惊哦~！？<br>来的人是凯伊。看来父亲终于允许凯伊加入兄弟团了！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "真的！？凯伊哥哥的梦想实现啦，这下没什么可遗憾的了。嘿嘿。<br>早知道我就和你一起去了~。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "那么，凯伊哥哥会把这里的情况告诉父亲的吧？既然是熟人，那以后联系起来可就方便多了~<br>啊！你找到法杖的线索了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>当然了！只要是人，就一定会留下什么痕迹的，不是吗！？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

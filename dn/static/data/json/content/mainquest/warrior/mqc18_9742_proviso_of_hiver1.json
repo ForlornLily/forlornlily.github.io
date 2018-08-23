@@ -1,0 +1,132 @@
+{
+  "qkname": "伊贝尔留下之物 I",
+  "data": [
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "<FONT color=#7e12d2>（贝勒尼卡陷入了沉思）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这不是很奇怪吗！伊贝尔是新生查尔德，格雷尔是可以杀死</FONT><FONT color=#a82424>特里亚</FONT><FONT color=#662500>的突变……贝勒尼卡你觉得格雷尔是不是也能杀死伊贝尔呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "你才想明白这一点吗？那么现在来看呢？如果是伊贝尔希望的，格雷尔会不会自己了断自己的性命呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这该如何是好呢，贝勒尼卡？我该怎么做呢……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9742_qu_01.ogg}<br>呼……你不要轻易绝望，看来你还很不成熟啊。为了说服格雷尔跟他说伊贝尔'可能杀害你'，是一点用处也没有的。因为伊贝尔就是格雷尔活下来的全部意义。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "要想说服格雷尔，除非有办法使伊贝尔变回原来的样子，或者对格雷尔说'他可能会伤害到伊贝尔'，以这种方式来劝说他。也许后者的效果会更好。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你说格雷尔可能会伤害伊贝尔？不是说格雷尔甚至可以为了伊贝尔去死吗，怎么会有这种可能呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "根据反女神派的研究，<FONT color=#a82424>突变</FONT>和<FONT color=#a82424>查尔德</FONT>其实只有一张纸的差异。是通过坚定的意志保持了人类的自我，还是被查尔德完全吞噬了自我，这便是区分二者的唯一标准。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>也就是说，一旦格雷尔掉以轻心，被查尔德自我夺去了主导权，便有可能杀死伊贝尔？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "……给。你看看这个。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9742_qu_02.ogg}<br>没有人知道查尔德自我会不会真的失控，听了我的话之后，你的内心就会开始怀疑这种'可能性'。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>额……额，额额额……？！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9742_qu_03.ogg}<br>不安总是产生于可能性，而恐怖则会以无知为养分不断滋生。我所抛出的火种能持续多久，完全取决于你。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我明白了，贝勒尼卡。<br>可我担心格雷尔会在见到我之前先见到伊贝尔。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "嗯……从你最初发现的<FONT color=#a82424>可疑装置</FONT>来看，格雷尔正在通过感知伊贝尔的气息进行调查，对吧？这么说很有可能格雷尔和伊贝尔都在根据那件装置移动。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "伊贝尔当初为什么会设置那件装置呢？有必要先对这一点进行一下了解。",
+      "answer": ""
+    },
+    {
+      "npc": "可疑装置",
+      "question": "<FONT color=#7e12d2>（有一个不知用途，却可以感觉到奇怪气息的装置）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "你前往<FONT color=#a82424>扭曲的泉水</FONT>取回部分可疑装置吧。越快越好。",
+      "answer": "",
+      "image": "qw_110.png"
+    },
+    {
+      "npc": "可疑装置",
+      "question": "<FONT color=#7e12d2>（有一个不知用途，却可以感觉到奇怪气息的装置）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（果然是一件蕴含着不祥气息的装置。这真的是伊贝尔的气息吗？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "你回来啦，辛苦了。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "我认为这块矿石中蕴含着某种<FONT color=#a82424>咒术的力量</FONT>，应该不是格雷尔所说的伊贝尔的气息。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "正好负责调查该类事件的负责人前往<FONT color=#a82424>梅尔卡的心脏</FONT>了。",
+      "answer": "",
+      "image": "qn_npc_sarasa.png"
+    },
+    {
+      "npc": "可疑装置",
+      "question": "<FONT color=#7e12d2>（取下了一块貌似可疑装置核心的矿石。</FONT>回到<FONT color=#a82424>贝勒尼卡</FONT><FONT color=#7e12d2>那里吧）</FONT>",
+      "answer": "",
+      "image": "qn_vernicka.png"
+    }
+  ]
+}

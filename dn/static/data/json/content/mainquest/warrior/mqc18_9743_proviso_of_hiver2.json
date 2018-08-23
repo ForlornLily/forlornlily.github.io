@@ -1,0 +1,154 @@
+{
+  "qkname": "伊贝尔留下之物 II",
+  "data": [
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "我认为这块矿石中蕴含着某种<FONT color=#a82424>咒术的力量</FONT>，应该不是格雷尔所说的伊贝尔的气息。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "正好负责调查该类事件的负责人前往<FONT color=#a82424>梅尔卡的心脏</FONT>了。",
+      "answer": "",
+      "image": "qn_npc_sarasa.png"
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "说是要去和<FONT color=#a82424>萨拉奶奶</FONT>谈谈心里话，你去找他吧。",
+      "answer": "",
+      "image": "qn_npc_trader_phara.png"
+    },
+    {
+      "npc": "魔法师约尔",
+      "question": "<FONT color=#7e12d2>（转达贝勒尼卡的话）</FONT><br>嗯嗯嗯。嗯嗯。好的，我知道了。我明白贝勒尼卡的意思。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师约尔",
+      "question": "让我先来观察一下<FONT color=#a82424>矿石</FONT>吧。<br>嗯嗯……嗯嗯嗯……这气息很是不祥，极其容易使人陷入悲伤。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "魔法师约尔",
+      "question": "这种矿石只看到一部分是很难做出准确判断的。这可能是用于咒术一部分的矿石，能不能看到它的整体呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "在<FONT color=#a82424>逆行常胜地</FONT><FONT color=#662500>确实有它的整体。</FONT>",
+      "answer": "",
+      "image": "qw_111.png"
+    },
+    {
+      "npc": "魔法师约尔",
+      "question": "很好。我这就准备几件调查工具和出入扭曲的区域的许可证。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师约尔",
+      "question": "………………………………",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "………………………………",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师约尔",
+      "question": "我准备就绪后便会立即出发，咱们在<FONT color=#a82424>逆行常胜地</FONT>见吧。",
+      "answer": "",
+      "image": "qw_111.png"
+    },
+    {
+      "npc": "魔法师约尔",
+      "question": "嗯嗯嗯，比我想象中的要晚一些。调查已经结束了。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师约尔",
+      "question": "这件装置绝对不是善类。它是一件针对特定对象的咒术物品。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你的意思是，这是一件用于加害某人的咒术物品？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师约尔",
+      "question": "真难得你能一下子就明白我的意思。<br>没错，你不是说可以从中感觉到不祥的气息吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的！而且我认识的一个少年说从这个装置中感觉到了他姐姐的气息！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师约尔",
+      "question": "真是让人心情不爽。没错，就是心情很不爽。因为这个意思是说那个姐姐利用姐弟之间的血缘关系<FONT color=#a82424>打算杀死自己的弟弟以及其他亲戚</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没想到竟然是这样的装置……真是太可怕了……<br>（看来伊贝尔真的变成了查尔德，而且还要杀死所有和她有关系的人）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师约尔",
+      "question": "我现在想知道的是，是不是那个弟弟只是靠近这个装置感觉到了姐姐的气息，而并没有受到任何伤害？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的，咒术还没有发动。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师约尔",
+      "question": "嗯嗯嗯，好奇怪。从这个装置的状态来看，不是咒术还没发动，而是根本就没有起到作用……是不是那个少年身上带着某种具有强大防御能力的咒术工具。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（会不会是因为格雷尔是突变，或者是因为他吸收了几块查尔德宝玉后变强的缘故……？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师约尔",
+      "question": "既然没有受到伤害就好。我还要继续调查，那咱们就此分别吧。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "你……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你怎么会在这里，格雷尔？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "帮帮我吧。嗯？你会帮我的对吧，<FONT color=#387206>{user_nick}</FONT>？",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "我知道你会帮我的……对吧，<FONT color=#387206>{user_nick}</FONT>？",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "<FONT color=#7e12d2>（贝勒尼卡正在认真思考着什么。还是晚一点再来吧。）</FONT>",
+      "answer": ""
+    }
+  ]
+}

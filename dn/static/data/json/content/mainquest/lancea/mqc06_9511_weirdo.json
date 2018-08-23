@@ -1,0 +1,243 @@
+{
+  "qkname": "奇怪的人",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "姐姐，再见到你真是太好了……",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "这段时间你很忙吧？<br><FONT color=#a94407>原住民失踪事件</FONT>都解决了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯！埃提亚，你真是天才！<br>（把</FONT><FONT color=#a94407>伊格纳西奥的仪式相关的</FONT><FONT color=#662500>事情告诉埃提亚）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "犯人果然就是龙之追随者……不过，幸好在这个过程中寻回了先知，真是太好了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不过先知好像睡着了。而且，还得调查一下</FONT><FONT color=#a94407>戴头巾的人</FONT><FONT color=#662500>……另外，其他失踪的原住民们还不知怎么样了……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "那个……姐姐，我虽然不知道唤醒先知的方法，但我知道特拉玛依很好奇的<FONT color=#a82424>陌生人</FONT>是谁。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐，你之前不是说见过一个叫<FONT color=#387206>察提</FONT>的孩子吗？那孩子说<FONT color=#a94407>有人在帮助自己</FONT>，还因此和<FONT color=#387206>西戴尔</FONT>吵了一架……",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "嗯。那个人突然出现，说要帮助察提，还说能治好原住民的病……而且，声称卡拉秋是坏人的情报，也是<FONT color=#a82424>那个人</FONT>提供的，这不是很可疑吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊……原来如此！<br>我这就去找西戴尔问问这个人是怎么回事！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9511_qu_01.ogg}<br>哎！姐姐居然不用别人点拨就知道自己该做什么了！真是会举一反三啊！<br>我家姐姐真是越来越聪明了！令人惊喜呢！呵呵呵……",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "我让你去观察察提……怎么现在才来啊？",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊……我就是因为这件事而来的，我有点事情想问西戴尔。<br>（我自己想想都觉得防御得太好了！我真的变聪明了呢！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "西戴尔……他为了去找那个傲慢的小丫头去<FONT color=#a82424>龙之追随者据点</FONT>了。真是个笨蛋……",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>咦？我看您眼圈都红了……</FONT><FONT color=#a82424>奶奶</FONT><FONT color=#662500>，您没事吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "我……什么时候变成你<FONT color=#a82424>奶奶</FONT>了？！！<br>我从来没结过婚，一辈子都享受单身生活好吗？！！！！",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "我不是这个意思，是那个意思……总之，现在的年轻人啊……！想当年我风华正茂的时候……！！！<br><FONT color=#7e12d2>（卡拉秋悄悄把落款为</FONT><FONT color=#a94407>'超天才大哥</FONT><FONT size=2 face=\"Malgun Gothic\">'</FONT><FONT color=#7e12d2>的</FONT><FONT color=#a94407>信</FONT><FONT color=#7e12d2>藏了起来</FONT><FONT color=#7e12d2>）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>对不起、对不起，我错了……<br>（几乎道歉了一百遍，卡拉秋才总算消了气）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "哼，算了。总之，你要找西戴尔的话，就去<FONT color=#a82424>龙之追随者据点</FONT>吧。",
+      "answer": "",
+      "image": "qw_54.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "如果你看到西戴尔的话，就让他给我振作起来，赶紧回来！",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "呵呵，我知道你从刚才起就一直魂不守舍地看着我。<br>我现在都厌倦了这种充满羡慕的眼光。不过，遇到我这种完美的人，一般人都难免会忍不住多看几眼。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500> ……？……？？？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "呵呵，你又一脸痴迷地看我了。<br>你看我都超过3秒了呢。现在，你也成了我的奴隶了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我怎么听不懂你在说什么？我可不是谁的奴隶！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "呵呵，不要傲娇了，你强迫自己不看我也是没有用的。我的魅力是无可抵挡的……嗯？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你这个人怎么这样啊？你认识我吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "嗯……不。不过我这么伟大的人，没有不知道的事情。<br>但是，我今天来这里，可不是为了接受你热烈的崇拜。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那么，你究竟来这里干嘛？你到底是谁啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "你想要探究我致命魅力的根源的心情我很理解，不过问题一个个来嘛。<br>首先，我是<FONT color=#a82424>卡拉翰</FONT>。你看看我就知道了，我就是这么完美，不需要多余的说明。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#a94407>卡拉翰</FONT><FONT color=#662500>？这个名字好熟悉……卡拉胶？啊，不对，那是吃的东西……<br>卡拉……卡拉安？好像也不是？<br>啊！对了，这个名字和</FONT><FONT color=#a94407>卡拉秋</FONT><FONT color=#662500>的名字好相似！</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "……喂喂，不要随便把我的名字和别的东西扯上关系，不过呢<FONT color=#a82424>卡拉秋</FONT>的话，她是 <FONT color=#a94407>我的妹妹</FONT>。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？！ 怎么可能？卡拉秋奶奶……不、不是，我是说她不是年纪很大了吗？<br>而且，如果你真的是卡拉秋的哥哥的话，你为什么会在这种地方？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "真正的美丽是不会凋零的。另外，我之所以会在这里，都是为了帮助我忠实的崇拜者<FONT color=#a82424>察提</FONT>。",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！你就是号称要帮助察提的那个人？！那你说不定是坏人呢！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "哈哈哈……你说什么傻话，<FONT color=#a94407>小云雀</FONT>？如果你不相信我的话，我就告诉你证明我清白的情报吧。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "你想知道关于<FONT color=#a82424>失踪的原住民</FONT>们的事情吧？我可以告诉你，在<FONT color=#a82424>古代武器库的东边</FONT>有他们的痕迹。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真的吗？如果你知道原住民们被带到那里去的话，你为什么不救他们呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "这是因为如果是由无所不能的我出马的话，事情就解决得太容易了。如果我去那里的话，恐怕动一根手指头，战斗就结束了。 ",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "如果我强大的魔力也伤害到原住民们的话该怎么办呢？所以，这种事情当然是由弱小的你去办比较好。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "我和你们平民有天渊之别。但是，可爱的小云雀，以你的外貌，我可以批准你追随我。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你虽然长得还不错</FONT><FONT color=#2b2723>……</FONT><FONT color=#662500>但脑子似乎有点问题？我妹妹说不能跟奇怪的人走。</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "呵呵，不要再否认了，我知道你很仰慕我。总有一天你会拜倒在我脚下。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊~好奇怪，怎么这么累啊？我该去找</FONT><FONT color=#a82424>埃提亚</FONT><FONT color=#662500>了~啦啦啦~<br>（好像没必要再和卡拉翰谈话了。去找 </FONT><FONT color=#a82424>埃提亚</FONT><FONT color=#662500>吧）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "呵，我们会再见面的。<br><FONT color=#7e12d2>（快去找埃提亚吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐，快过来。你见到西戴尔了吗？",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "嗯……？你怎么一副奇怪的表情？",
+      "answer": ""
+    }
+  ]
+}

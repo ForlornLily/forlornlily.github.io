@@ -1,0 +1,33 @@
+{
+  "ret": true,
+  "data": {
+    "roleList": [{
+      "id": "warrior",
+      "name": "战士"
+    }, {
+      "id": "archer",
+      "name": "弓箭手"
+    }, {
+      "id": "sorceress",
+      "name": "魔法师"
+    }, {
+      "id": "cleric",
+      "name": "牧师"
+    }, {
+      "id": "academic",
+      "name": "学者"
+    }, {
+      "id": "kali",
+      "name": "舞娘"
+    }, {
+      "id": "assassin",
+      "name": "刺客"
+    }, {
+      "id": "lancea",
+      "name": "萌骑士"
+    }, {
+      "id": "machina",
+      "name": "兽娘"
+    }]
+  }
+}

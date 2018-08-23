@@ -1,0 +1,398 @@
+{
+  "qkname": "迟来的欢迎",
+  "data": [
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "……唧唧咕咕。这下糟糕了。先知……唧唧咕咕。杰兰特……唧唧咕咕。嗯，这可如何是好……唧唧咕咕。<br><FONT color=#7e12d2>（主教伊格纳西奥似乎陷入思绪中）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "哦哦，神圣天堂真正的朋友！<br>快来！<br><FONT color=#7e12d2>（主教用夸张的动作欢迎）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>为什么您要突然这样啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "嘘，这里就随便应付一下吧。<FONT color=#7e12d2>（伊格纳西奥清了清嗓子）</FONT><br>你就是守护了神圣天堂的勇士。你真是做了件好事啊。<br>但是……真让人惊讶。曾经是王国骑士的 <FONT color=#a82424>贝思柯德</FONT>居然利用<FONT color=#a82424>黑龙</FONT>的力量攻击了王国。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "曾经为了阻止<FONT color=#a82424>黑龙</FONT>而战斗的人，反而被它的力量吞噬，受尽折磨。真是诡异而悲伤的故事啊。这实在是一件让人遗憾的事情……<FONT color=#7e12d2>（主教看上去很惋惜））</FONT>",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "再加上，带回 <FONT color=#a82424>先知</FONT>的居然是<FONT color=#a82424>金龙</FONT>。<br>贵族们都在议论纷纷啊。从刚才开始就开会商讨如何善后，现在也没个结论啊。如果会议有什么进展我会叫你的，你等会儿再来吧。<br><FONT color=#7e12d2>*Lv 32以上才可执行该任务。</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "再加上，居然是<FONT color=#a82424>金龙</FONT>带回了<FONT color=#a82424>先知</FONT>。<br>贵族们都在议论着这件事。从刚才就开始商议如何做好善后工作，可一直没有得出结论。如果会议有什么进展我会叫你的，你等会儿再来吧。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "听上去，金龙和<FONT color=#a82424>先知</FONT>一起停留的地方，现在似乎只有你能出入啊。<br><FONT color=#a82424>贵族</FONT>们似乎有很多话要说，你不去听一听吗？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（好像不能和伊格纳西奥说实话。先撒个谎吧）<br>不。我没办法进入金龙的巢穴。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "嗯？是吗？奇怪了。我明明听说了你能进入巢穴啊。<br>看来是我听错了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>比起那个来，我……想先替先知报个平安。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "嗯？……啊，这样啊。你是受人所托，为了解救先知才到了这里的，对吧。我都忘了。呵呵。<br>你如果想邮寄信件的话，交给<FONT color=#a82424>精锐士兵克林德</FONT>就可以了。我会和他交代清楚的。",
+      "answer": "",
+      "image": "qn_npc_elite_soilder.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "那么保重吧，软弱的家伙。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "看样子你很担心古代人的后裔。放心吧，只要有我在，谁也不能伤害她。",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "你救出了先知，立下了大功。朕……朕非常吃惊。但是先知……原来只是个农村少女。真让人失望。不来向朕行礼，光顾着睡觉，真让人失望……哼。",
+      "answer": ""
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "从士兵们的报告来看，把<FONT color=#a82424>先知</FONT>带到我们王城地下的家伙是叫金龙啊。<br>……这真是件引人深思的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "那个被称为先知的女孩，就一直这样睡下去吗？像个懒虫一样……呼，我就知道会这样！我就知道，所谓先知不过是说得好听，实际上一点用处也没有！",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "嗯……我听说好不容易救出先知，她却一直沉睡不醒。问题究竟出在哪里？……反正我们已经尽了全力，如何处理先知的问题就交给国王吧。总之，辛苦你了。",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "虽然是一场激战啊，不过幸好听说已经救出了<FONT color=#a82424>先知</FONT>。<br>真是太好了。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "要是想送信的话，交给 <FONT color=#a82424>精锐士兵克林德</FONT>就行。<br><FONT color=#7e12d2>（主教突然压低声音，开始耳语）</FONT> <br>我们之间要说的话，就之后再说吧。",
+      "answer": "",
+      "image": "qn_npc_elite_soilder.png"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "啊，是书信吗？那个的话，就请交给我吧。<br>我会去拜托王城的使节们的。",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "嗯……交给普雷利镇的 <FONT color=#a82424>镇长海洛德</FONT> 就可以吗？那么就在这里写上姓名吧。<br><FONT color=#7e12d2>（填写完毕）</FONT>",
+      "answer": "",
+      "image": "qn_elder_harold.png"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "好的，我会帮您好好转交的。<br>收到消息的话，对方肯定也会很高兴的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>因为是我找到的，可能会失望的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "不会的。<FONT color=#387206>{user_nick}</FONT> 和其他兽人不一样嘛。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不。我和其他兽人是一样的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "咳，嗯……！总之，我会好好把这封信送到的，所以不用担心。您还是再去见见<br><FONT color=#a82424>主教伊格纳西奥</FONT>大人吧。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "快过来。<br>现在担心<FONT color=#a82424>先知</FONT>的那些人，收到你的联络之后也该放心了。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你救出<FONT color=#a82424>先知</FONT>，立下赫赫功劳的事情，我已经广而告之了。<br>从今往后你就能永远自由出入神圣天堂王城了。其实说服公爵真是费了很大的力气。<br><FONT color=#7e12d2>（主教伊格纳西奥似乎丢了面子）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "现在关于<FONT color=#a82424>先知</FONT>的待遇问题，还有<FONT color=#a82424>负伤士兵</FONT>们的处理，国王陛下和几位贵族正在纷纷争论着。<br>你近距离目睹了先知和杰兰特，要不要听听大家的想法？",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "那么我就按顺序说吧。<br>首先……向年幼的<FONT color=#a82424>国王</FONT><FONT color=#a82424>卡西乌斯</FONT>陛下请个安如何呢？",
+      "answer": "",
+      "image": "qn_npc_king_casius.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "那个……金发剑客……士兵们交头接耳都在谈论<FONT color=#a82424>金龙</FONT>……<br>怎么都不来请安？<br>真，真是无礼……",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>您是说杰兰特吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "杰兰特？这像是以前<FONT color=#a82424>和黑龙作战的英雄</FONT>的名字啊……不过叫 <FONT color=#a82424>杰兰特</FONT>本来也挺常见的……<br>总，总之这座城是朕的，居然没有朕的许可就进来，还锁上了门……真是无礼。<FONT color=#7e12d2>（卡西乌斯小心地表示着不满）</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_silhouette.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "本……本来是应该拖过来，让他见识下国王的威严的，不过……既然立下了功劳，就饶他一次吧。<br>让他为朕守护好<FONT color=#a82424>先知</FONT>吧。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>就算您不这么说，他也会守护好的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "原，原来如此。你虽然是兽人，不过叔父大人说可以相信你。那……那是真的……吧？<br><FONT color=#7e12d2>（看向公爵斯图尔特 ）</FONT>",
+      "answer": "",
+      "image": "qn_npc_duke_stwart.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "还没有觉醒的先知……带着她来的金龙……这一切都在我预料之外呢。<br><FONT color=#7e12d2>（需要和公爵斯图尔特对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "ionStand2}<br>我原本以为龙都是邪恶的存在，原来并不是这样的。<br>而且，<FONT color=#a82424>金龙</FONT>还以人的形态和<FONT color=#a82424>先知</FONT>一起出现……，不是很令人惊讶吗？<br>所以我才这么想。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "那是被我们年幼的<FONT color=#a82424>国王</FONT>的恩德所感化，<FONT color=#a82424>邪恶之龙</FONT>自然而然地<FONT color=#a82424>守护</FONT>起神圣天堂了。噢噢……这是多么美好的故事啊？<FONT color=#7e12d2>（公爵自以为是地解释着，并陷入感动）</FONT>",
+      "answer": "",
+      "image": "qn_npc_king_casius.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……我对这些不感兴趣。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "兽人们真是！<br>我们让你参与到这件事情中，稍微提振了一点兽人的威信，你可要好好宣传一下卡西乌斯王朝的宽宏大量啊。把这种事情好好包装一下，传播出去的话，百姓也高兴，都会称颂我们的国王陛下吧。阻挡了强大的 <FONT color=#a82424>黑骑士</FONT>，取得胜利，这都是多亏了<FONT color=#a82424>国王陛下</FONT>。就是这样的。",
+      "answer": "",
+      "image": "qn_npc_king_casius.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "比起这个来，又说是要军费，又要让动员士兵，成天就会瞎吵吵的精英部队又做了什么呢？<br>嗯嗯……总之，虽然不能质疑<FONT color=#a82424>道格拉斯将军</FONT>的忠诚……不过连一个兽人冒险家都比不上，咳咳。<FONT color=#7e12d2>（公爵瞟了一眼将军的方向）</FONT>",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "要去准备把国王的功绩传颂于天下了，你就先走吧。我会好好把你为了陛下忠诚战斗的事传播出去的，开心点。<br><FONT color=#7e12d2>（听了公爵的话，道格拉斯将军表情僵硬）</FONT>",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "虽然朕认为叔，叔父大人的意见常常是正确的，但是……朕……朕觉得……道格拉斯将军这次也立下了很大的功劳。<br><FONT color=#7e12d2>（需要和道格拉斯将军对话）</FONT>",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "没有觉醒的先知……带着她来的金龙……这一切都在我意料之外。<br><FONT color=#7e12d2>（需要和道格拉斯将军对话）</FONT>",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "我听说<FONT color=#a82424>先知</FONT>还没有苏醒，而且帮助我军打败敌人的那个骑士居然是<FONT color=#a82424>金龙</FONT>……<br>真让人难以置信。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "因为一下子发生了太多事情，我担心百姓会不会动摇。公爵和主教为了安抚民心，像是要对这件事适当进行包装……不过他们似乎只想着这个事情，连士兵们的劳苦都忘得一干二净了。<FONT color=#7e12d2>（道格拉斯将军看上去很不满）</FONT>",
+      "answer": "",
+      "image": "qn_npc_duke_stwart.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "与无数的怪物们展开激战，我军的伤亡也极为惨重。可是，<FONT color=#a82424>公爵</FONT>却只顾着<FONT color=#a82424>金龙</FONT>……士兵们的功劳没有达到公平的认可，实在让人惋惜。<FONT color=#7e12d2>（看似极为不满）</FONT>",
+      "answer": "",
+      "image": "qn_npc_duke_stwart.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（虽然冠冕堂皇，最终也只是因为自己的功劳没有被认可而不满吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "我想当务之急是治疗伤病以及消灭怪物残余势力。<br>不知道<FONT color=#a82424>宫廷魔法师卡拉安</FONT>是怎么想的。",
+      "answer": "",
+      "image": "qn_npc_royal_magician_kalaen.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "虽然朕认为叔，叔父大人的意见常常是正确的，但是……朕……朕觉得……道格拉斯将军这次也立下了很大的功劳。<br><FONT color=#7e12d2>（需要和宫廷魔法师卡拉安对话）</FONT>",
+      "answer": "",
+      "image": "qn_npc_royal_magician_kalaen.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "没有觉醒的先知……带着她来的金龙……无法进入金龙巢穴的你。这一切都在我意料之外。<br><FONT color=#7e12d2>（需要和宫廷魔法师卡拉安对话）</FONT>",
+      "answer": "",
+      "image": "qn_npc_royal_magician_kalaen.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "嗯…… 金龙叹服于陛下的慈悲，已决心成为守护龙！……怎么样？是不是很不错？<br><FONT color=#7e12d2>（需要和宫廷魔法师卡拉安对话）</FONT>",
+      "answer": "",
+      "image": "qn_npc_royal_magician_kalaen.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "一听到<FONT color=#a82424>金龙</FONT>出现的报告，那个狡猾的<FONT color=#a82424>主教</FONT>脸都青了！你真应该看看那副样子。<br>实在是太好笑了！哈哈哈～<FONT color=#7e12d2>（卡拉安放声大笑）</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "地下有没有金龙，跟我都没关系。<br>但是先知一直沉睡的话，还是挺麻烦的。<br>如果她是先知，不应该做些像先知一样的事儿，比如预言什么的吗？不是吗？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没错！我也有要问的问题……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "是啊，是啊～我就知道你的想法和我一样。哈哈哈～<br>别担心。通过魔法师拥有的秘传魔法的力量一定能唤醒先知。你就等着瞧吧。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真的可行吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "当，当然不可能马上就有效。这世界上所有的事情都得有准备的！<FONT color=#7e12d2>（卡拉安慌慌张张地翻开一本巨大的书）</FONT><br>应该就是在这上面的啊……难道不是这本书吗…… <br>（翻来翻去）看，看什么看！！",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "在我卡拉安大人准备的这段时间，你这家伙就去对付那个狡猾的主教吧。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "不知其他贵族的意下如何，总之我认为必须尽快救治伤兵，并扫除怪物的残党。<br><FONT color=#7e12d2>（需要和主教伊格纳西奥对话）</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "先，先知要是能快些醒来向朕请安就好了。什么时候才能醒呢？<br><FONT color=#7e12d2>（需要和主教伊格纳西奥对话）</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "嗯…… 金龙叹服于陛下的慈悲，已决心成为守护龙！<br>……怎么样？是不是很不错？<br><FONT color=#7e12d2>（需要和主教伊格纳西奥对话）</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "我估计你也已经听说了，因为一些亟待解决的问题，大家都很忙碌。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你们都只在自己的立场上考虑问题吧？我们村可不是这样。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "我最担心的还是先知。但是先知既然还没有觉醒，那么究竟有什么样的力量，从女神那里传来怎样的信息都无从得知，不是吗？<br>你要是能把<FONT color=#a82424>先知</FONT>带到我这里的话，我就能把所有的事情好好整理一下……",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（已经说过无法进入巢穴了……）<br>刚才虽然也说过了，但是我是无法进入金龙巢穴的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "虽然我收到报告说，看到金龙和你说了什么，不过看来不是他让你进去巢穴吗？你还没能取得<FONT color=#a82424>杰兰特</FONT>足够的信任，这下事情可就难办了。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没错啊。现在怎么办呢？</FONT>",
+      "answer": ""
+    }
+  ]
+}

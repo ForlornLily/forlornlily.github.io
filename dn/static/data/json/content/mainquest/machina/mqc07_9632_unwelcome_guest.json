@@ -1,0 +1,222 @@
+{
+  "qkname": "不速之客",
+  "data": [
+    {
+      "npc": "休利亚",
+      "question": "嗯，<FONT color=#387206>{user_nick}</FONT>。我听说你做事像蜗牛一样慢腾腾的。",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "我和你没什么可说的。我是来见卡拉秋的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哼，我也没什么可和你说的！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "怎么老是能碰到你，垃圾……",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你说的书就是这本吗。<br><FONT color=#7e12d2>（卡拉秋把书递给休利亚）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>莫非……您是为了休利亚才让我去找这本书的？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "他只是帮我对你的病进行一些调查而已。别在我面前张牙舞爪的。我的家不允许打架！ 咳咳咳咳.",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "<FONT color=#7e12d2>（看向休利亚）</FONT><br>好长时间没见到你了，干什么去了？",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "ndnpc_Suriya_9632_qu_01.ogg}<br>我想请您帮忙解读一下这张纸上所写的内容。都是用暗号书写的，所以根本读不懂，都不知道说了些什么。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "哼，原来是用佩奥里斯塔经常使用的暗语写的。到底是哪个魔法师写的这种简单暗语呢……这是关于某种实验的内容。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "<FONT color=#7e12d2>（卡拉秋的表情逐渐变得严肃起来）</FONT><br>哎呀……太可怕了……到底是什么人在进行如此可怕的实验？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（蓝塔娜给的磁石装置好像正指向这本笔记）<br>那笔记，是蓝塔娜的？</FONT>",
+      "answer": "",
+      "image": "qn_npc_lantana.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "<FONT color=#a82424>蓝塔娜</FONT>？你说这笔记的主人名叫蓝塔娜？<br>很好，休利亚。你把如此邪恶的东西抢了过来，他们暂时就无法继续实验了。",
+      "answer": "",
+      "image": "qn_npc_lantana.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>明明是偷的，您打算包庇这个盗贼吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "<FONT color=#387206>{user_nick}</FONT> ，这不是一本普通的笔记。这上面记录着他们为了测试陨石的力量，以原住民为对象进行的<FONT color=#a82424>可怕实验</FONT>。我虽然不知道那个<FONT color=#a82424>蓝塔娜</FONT>是怎么欺骗的你，但你绝不能被这本笔记的主人所蛊惑了。",
+      "answer": "",
+      "image": "qn_npc_lantana.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这不可能。蓝塔娜救过……我和我们村庄的人！</FONT>",
+      "answer": "",
+      "image": "qn_npc_lantana.png"
+    },
+    {
+      "npc": "休利亚",
+      "question": "ndnpc_Suriya_9632_qu_02.ogg}<br>我到底要说几遍你才能明白？那是因为你被骗了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好了！我不想听你这个谎话精说的话！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "行了，休利亚。不管你怎么说，他都听不进去。这本笔记暂时先放在我这儿吧。虽然内容有些可怕……但这是目前为止关于陨石力量的唯一记录。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "我参考这本笔记和<FONT color=#387206>{user_nick}</FONT> 你找回来的书，说不定能找到治愈<FONT color=#387206>{user_nick}</FONT>你的线索。<br>这本笔记暂时就放在我这儿，你去找找西戴尔吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（无视他，去见卡拉秋吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "西戴尔前往<FONT color=#a82424>龙之追随者据点</FONT>一直没回来。<br>看来他还是忘不了那丫头。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "真意外……<br>没想到会在这种地方遇到你。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你怎么会在这里？<br>你对西戴尔做了什么！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你的被害妄想症还是这么严重啊。<br>你是说这<FONT color=#a82424>小孩子</FONT>之所以会晕倒都是因为我吗？",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这么说不是你干的了？一个更坏的家伙说不能……相信……你…….</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "哼，我懒得跟你这种人解释。<br>走开。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你到莲花沼泽来干什么？你没有理由到这儿来啊！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你怎么还是听不明白话。<br>不关你的事，真够烦的……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>莫非你也在打绿龙宝玉的主意？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "………….<br>绿龙宝玉？我好像听到过有关的报告。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你不告诉我为什么来莲花沼泽，我也不会告诉你任何情报的！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>（贝思柯德皱起了眉头）</FONT><br>……我在追赶使徒卡拉翰的过程中感觉到了混沌龙的气息，所以就到这儿来了。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>使徒卡拉翰？！！你说卡拉翰是使徒？<br>所以这一切都是他和龙之追随者安排好的……完完全全地……把我骗了…….</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "吵死了，现在该把你知道的告诉我了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡拉翰把宝玉夺走了。你为什么会追赶卡拉翰呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "卡拉翰……？<br>他那么渴望获得的龙之宝玉，果然还是拿到手了啊。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我为什么会追赶卡拉翰犯不着跟你这个垃圾说。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你就是个垃圾，连被我利用的价值都没有。<br>别在这儿烦我，滚开吧。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "西戴尔不久前醒过来了。<br>到底发生了什么事情？",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（讲述和贝思柯德见面的事情）</FONT>",
+      "answer": ""
+    }
+  ]
+}

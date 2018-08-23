@@ -1,0 +1,141 @@
+{
+  "qkname": "回来的话匣子Ⅱ",
+  "data": [
+    {
+      "npc": "魔法师塔拉",
+      "question": "前辈的任务是，确认牧师们丢失了什么，以及我们应该如何应对。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "前辈救过的牧师就在融解森林等你呢。<br>你去问问他，应该就能了解到关于被抢物品的详细信息了。",
+      "answer": "",
+      "image": "qn_npc_cl_fallen_cedric.png"
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "你要是获得什么新的信息，一定要马上向<FONT color=#a82424>辛西亚</FONT>报告。<br>记住，这次可不能再闯祸了哦！！",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "牧师赛德瑞",
+      "question": "原来是我的救命恩人啊。上次真的感谢您。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "我是神殿骑士团的<FONT color=#a82424>杰克</FONT>，非常感谢你救了受伤的赛德瑞。",
+      "answer": "",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "你查出什么了吗？<br>\n赶快去和塔拉谈谈吧？",
+      "answer": "",
+      "image": "qn_soceresstara.png"
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "据说前辈救过的牧师就在<FONT color=#a82424>融解森林</FONT>。快去看看吧。",
+      "answer": "",
+      "image": "qn_npc_cl_fallen_cedric.png"
+    },
+    {
+      "npc": "牧师赛德瑞",
+      "question": "你就是救我的人啊。<br>\n上次真是太感谢你了。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师赛德瑞",
+      "question": "我为了看到贤者预言，特地来到了<FONT color=#a82424>魔法山脊</FONT>，结果竟发生这种事……",
+      "answer": "",
+      "image": "qw_manaridge.png"
+    },
+    {
+      "npc": "牧师赛德瑞",
+      "question": "不是说已经告诉过魔法师们的吗，似乎您还不知道哦。我们牧师们按照贤者的预言，为了把牧师的宝物<FONT color=#a82424>贤者法杖</FONT>与魔法师的宝物<FONT color=#a82424>秘传之球</FONT>进行合璧，才来到了这里。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "牧师赛德瑞",
+      "question": "可是，在我们将装有贤者法杖的箱子运往这里的途中，却遭到了怪物们的袭击。那时，正好被魔法师你救了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>哎嘿！那就谢谢我吧~！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师赛德瑞",
+      "question": "当，当然是非常感谢了，我真不知道要如何报答这份恩惠……<br>\n不过在这个过程中，我们却丢失了如此珍贵的箱子，不知，你在救我们的过程中，有没有看到什么类似的箱子？",
+      "answer": ""
+    },
+    {
+      "npc": "牧师赛德瑞",
+      "question": "你也没，没见到啊！果……果然如此。好吧。<br>\n<FONT color=#7e12d2>（赛德瑞慌慌张张）</FONT> 那，我去问问其他祭司吧。那，那就先再见吧。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "我是神殿骑士团的<FONT color=#a82424>杰克</FONT>。<br>谢谢你救了受伤的牧师。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师赛德瑞",
+      "question": "箱子去哪儿了呢……<br><FONT color=#7e12d2>（赛德瑞喃喃自语。旁边牧师杰克的表情有点不寻常）</FONT>",
+      "answer": "",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "我是神殿骑士团的<FONT color=#a82424>杰克</FONT>。<br>谢谢你救了受伤的牧师。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "\n在运输的过程中弄丢的箱子，真是大事不妙啊，当然作为拯救了我们的魔法师，你也不可能把那个藏起来嘛，我不是再怀疑你啦。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n我没见过那么大的箱子！真的！！",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "好吧……你应该是没见到。<br>\n<FONT color=#7e12d2>（杰克摇摇头）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "好吧，你查出什么了吗？<br>\n去见见你救的那些牧师应该能得到些信息的。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "不管怎样，你要是知道了什么，请告诉我。<br>\n拜托了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（莫，莫非……我在救赛德瑞的时候，偷拿的这只箱子被察觉了？）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（嗯~</FONT><FONT color=#662500>看样子在被袭击的马车上被偷走的这只箱子就是装有贤者法杖的箱子……</FONT><br>\n<FONT color=#662500>偷偷打开吧！）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    }
+  ]
+}

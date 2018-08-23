@@ -1,0 +1,302 @@
+{
+  "qkname": "大开眼界",
+  "data": [
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "你今天也在努力守护凯德拉啊！<br>你真是了不起。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "哈啊……安杰利卡小姐不是坏人，但她的个性自由奔放……<br>\n这让我有些为难。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "嗯？别看我平时嘻嘻哈哈，我做起事来很认真的。<br>\n我是个认真的人～！！",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "嗯……很快就能出发了。<br>\n你再等等！",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "<FONT color=#7e12d2>（与姐姐的对话保留在记录装置中。<br>试着播放）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "与百合花的最近通话记录",
+      "question": "<FONT color=#7e12d2>祈祷者安息处那里有古代人制作的净化装置。</FONT><br><FONT color=#7e12d2>但是，为了启动装置，好像需要纯白之球和净化装置的钥匙……</FONT><br><FONT color=#7e12d2>纯白之球在圣域中心……</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "与百合花的最近通话记录",
+      "question": "<FONT color=#7e12d2>净化装置的启动钥匙就在祈祷者安息处的沉睡的狮蝎克鲁鲁手中。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（记录的内容到此为止啊……）</FONT><br>\n ",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "你今天也在努力守护凯德拉啊！<br>你真是了不起。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "最近你的声名远扬。<br>大家都在称赞<FONT color=#387206>{user_nick}</FONT>小姐的活跃表现。<br>你真是个了不起的小姑娘。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "嗯？别看我平时嘻嘻哈哈，我做起事来很认真的。<br>我是认真的人~！！是真的！",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "嗯……很快就能出发了！<br>\n你再等等。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "><FONT color=#7e12d2>（将净化装置启动钥匙的事情告诉冒险家公会会长戴卡德）</FONT>",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "ionRefusal}<br><FONT color=#a82424>净化装置启动钥匙</FONT>在狮蝎克鲁鲁手中？<br>噢噢……感谢你为我提供如此珍贵的情报。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "按照你所说的，我们应该消灭<FONT color=#a82424>祈祷者安息处</FONT>的狮蝎克鲁鲁，利用启动钥匙使净化装置运转。<br>\n这么一来，我们就能净化凯德拉的污染物质了。",
+      "answer": "",
+      "image": "qm_manticore.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "狮蝎是古代文明与魔导学结合的产物。<br>它是<FONT color=#a82424>凯米拉的其中一种</FONT>，通常是由狮子的头、羊的身体和蛇的尾巴混合制成的。",
+      "answer": "",
+      "image": "qm_manticore.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我来帮忙。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "这对你来说太危险了。我会安排其他冒险家去做这件事。<br>如果让你这个小孩独自前往祈祷者安息处，我肯定会受到非难和指责。你为了提供了情报，这已经足够了。",
+      "answer": "",
+      "image": "qw_26.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（唉~看来又要偷偷前往了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "祈祷者安息处的狮蝎克鲁鲁……<br>应该派谁去对付它呢？<br><FONT color=#7e12d2>（戴卡德翻阅着冒险家公会名单）</FONT>",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "<FONT color=#a82424>祈祷者安息处</FONT>的狮蝎克鲁鲁……？<br>\n应该派谁去对付它呢？<br><FONT color=#7e12d2>（戴卡德翻阅着冒险家公会名单）</FONT>",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "嗯？别看我平时嘻嘻哈哈，我做起事来很认真的。我是个认真的人~！！<br>\n……怎么，你不相信我吗？",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "哈啊……安杰利卡小姐并不是坏人。<br>\n但她的个性自由奔放……这令我有些为难。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "天啊！这不是<FONT color=#387206>{user_nick}</FONT>嘛？！<br>你怎么会来到这里？真是胆大妄为！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你又为什么会在这里呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "嗯？别看我平时嘻嘻哈哈，我做起事来很认真的。我是个认真的人~！！<br>那是因为我和伊桑听<FONT color=#a82424>冒险家公会会长</FONT>说，为了凯德拉……嗯？<br><FONT color=#7e12d2>（安杰利卡望着净化装置启动钥匙）</FONT>",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "天啊！你已经获得钥匙啦？<br>向冒险家公会会长提供情报的人也是你吧，小孩？<br>你究竟是怎么知道<FONT color=#a82424>净化装置启动钥匙</FONT>在这个地方的？！",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>那个……（如果知道通讯器修好，她肯定又会抢走吧？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "是因为那个奇怪的装置吧？！那个被我弄坏了，你修……啊！<br>不，不是，我以为出故障了，原来是好的啊？<br>天啊~ 这真是太好了。<br><FONT color=#387206>{user_nick}</FONT>，能给我看看吗？！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>啊！不行！绝对不行！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "唉……不要这样啦，就给我看一眼。<br>嗯？嗯？我不会碰的……啊呀！！<br>伊桑！不要拉我，有话就说！！<br><FONT color=#7e12d2>（牧师伊桑向你眨眼）</FONT>",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "哎呀~真是的！！<FONT color=#a82424> 伊桑</FONT>，你什么时候才能不把我当做小孩子对待？！！<br>所以说牧师……！<br>\n我是心胸宽广，才跟你一起行动的！！",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "呼……虽然我不太清楚情况……<br>\n但安杰利卡小姐似乎又对不该好奇的东西产生了好奇。<br><FONT color=#7e12d2>（伊桑无奈地叹了口气）</FONT>",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>她又想要我的通讯器。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "通讯器？啊……上次你给我看资料时所用的机器？<br>很奇怪，魔法师们似乎对机械装置尤为热衷。<br><FONT color=#a82424>安杰利卡</FONT>小姐的好奇心比较重。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n嗯，应该是特别重……",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "哈哈……总之，我来拦着安杰利卡小姐，你快点逃…… 不，快离开这里。净化装置启动钥匙交给<FONT color=#a82424>冒险家公会会长戴卡德</FONT>就行了。<br>那拜托你啦。",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "好了~那么，安杰利卡小姐，我们现在返回凯德拉关卡吧。<br>那个机器是<FONT color=#387206> {user_nick}</FONT>小姐的，你就不要再惦记啦。<br><FONT color=#7e12d2>（伊桑开始劝慰安杰利卡）</FONT>",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "和一个牧师在一起我能得到什么啊，哼。<br>呼……心胸宽广、善良可爱的我就忍你一次，哼！！<br>\n<FONT color=#7e12d2>（现在还想去向冒险家公会会长戴卡德报告为好）</FONT>",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "前往神圣天堂？嗯，真是太好了。快过去吧。<br>真希望你能在那里见到先知……<br>\n不，一定要见到先知！",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "这么小的孩子居然打倒了<FONT color=#a82424>狮蝎克鲁鲁</FONT>，世界都会为之震惊的！<br>真是了不起！这件事肯定会流传千古！",
+      "answer": "",
+      "image": "qm_manticore.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>呃，这没什么啦~ 嘿嘿……（真害羞）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "不要害羞。<br>你可是<FONT color=#a82424>拯救凯德拉的英雄</FONT>！<br>哇哈哈哈哈~<br>\n<FONT color=#7e12d2>（戴卡德爽朗地笑着）</FONT>",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "啊，对了。现在阿尔巴特罗号似乎已经修理好了。<br>如果你想前往神圣天堂，就去<FONT color=#a82424>飞艇工程师休伯特</FONT>那里看看吧。",
+      "answer": "",
+      "image": "qn_npc_engineer_hubert.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "ionRefusal}<br>威胁凯德拉的毒物已经散去，现在大家终于能安心了，真的很感谢你。<br><FONT color=#a82424>飞艇工程师休伯特</FONT>应该也能安心放飞飞艇啦。",
+      "answer": "",
+      "image": "qn_npc_engineer_hubert.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>Mission Object.<br></FONT>▷请去见见飞艇工程师休伯特吧。",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "啊，你是最近声名赫赫的<FONT color=#387206>{user_nick}</FONT>小姐吗？<br>你真是了不起！<br>相比之下，我们的凯文还是那么不懂事，哈哈哈。",
+      "answer": "",
+      "image": "qn_crew_kevin.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（因为凯文爷爷年纪还小……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "精锐士兵的伤势也恢复的差不多了，他们打算乘坐飞艇前往神圣天堂。<br>听说，他们要去报告飞艇坠毁、<FONT color=#a82424>黑骑士</FONT>，以及凯德拉发生的各种事情……",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "虽然这不是我这个工程师该过问的，但这些事情小姑娘你应该最了解吧？听说有几名冒险家为了向王城报告，打算一同前往<FONT color=#a82424>神圣天堂</FONT>。<br>所以，小姑娘你也跟他们一起去吧。",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>他们要向王城报告？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "好像是的。军官已经阵亡，精锐士兵克林德打算率领剩余的士兵回去报告。<br>到达<FONT color=#a82424>神圣天堂</FONT>后，你可以去和<FONT color=#a82424>精锐士兵克林德</FONT>交谈下，哈哈。",
+      "answer": "",
+      "image": "qn_npc_elite_soilder.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（不知道能不能获得什么情报）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

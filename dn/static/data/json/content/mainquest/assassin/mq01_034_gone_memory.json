@@ -1,0 +1,198 @@
+{
+  "qkname": "消失的记忆",
+  "data": [
+    {
+      "npc": "村长海洛德",
+      "question": "哦，冒险家。<br>不久前有其他冒险家回来，说萝丝从墓穴中逃了出来。",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "但是有点奇怪。<br>如果她真的逃出来了的话，现在应该已经回来了才对。情况真是让人摸不着头脑。",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "自卫团的人和冒险家们好像正在谈论着什么，不知道有没有讨论出什么结果。<br>唉…… 我的孙女莉莉因为担心姐姐，一直在不停地哭。真让人担心。",
+      "answer": "",
+      "image": "qn_lily.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>应该很快就会有好消息的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "</FONT><FONT color=#2b2723>希望如此。<br>但是不知道他们有没有发现萝丝的行踪。</FONT><br><FONT color=#2b2723>很多冒险家都到</FONT><FONT color=#a82424>阴影森林</FONT><FONT color=#2b2723>那边去了。</FONT>",
+      "answer": "",
+      "image": "qw_windforest.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(阴影森林？</FONT><br>\n<FONT color=#662500>感觉有有点奇怪，要去看看吗？)</FONT>",
+      "answer": "",
+      "image": "qw_windforest.png"
+    },
+    {
+      "question": "<FONT color=#7e12d2>(露娜莉娅面无表情地盯着天空)</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "<FONT color=#7e12d2>(有个看上去很强壮的战士站在那里)</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "<FONT color=#7e12d2>(有个看上去很沉着的弓箭手正在和自己的同伴说话)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "希望我们家萝丝不会出事……<br>只能相信去<FONT color=#a82424>狂风森林</FONT>的冒险家们了。",
+      "answer": "",
+      "image": "qw_windforest.png"
+    },
+    {
+      "npc": "陌生的战士",
+      "question": "啊，你好！！！！<br>很高兴见到你。你也是冒险家吗？",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "我叫西恩。<br>这位是我偶然遇到的<FONT color=#a82424>特里亚纳</FONT>。<br>\n我们都在寻找萝丝。",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "你好。<br><FONT color=#7e12d2>(特里亚纳用入木三分的眼神看着我)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我叫{user_nick}。<br>你们找到那个叫萝丝的人了吗？</FONT><br><FONT color=#662500>村长说她还没回去……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "我已经跟自卫团的人说过了，她现在应该在<FONT color=#a82424>阴影森林中心</FONT>那边。<br>我收到了报告，说那里魔物的动向很不寻常。<br>\n",
+      "answer": "",
+      "image": "qw_4.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "我正想和特里亚纳一起到那里去搜索。<br>现在就出发。<FONT color=#387206>{user_nick}</FONT> ，如果你也想帮忙的话，愿意和我们一起过去吗？<br>\n",
+      "answer": "",
+      "image": "qw_4.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我还有同伴。</FONT><br>\n<FONT color=#662500>我们也会试着寻找的。</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊～是这样啊。<br>哈哈，人手越多越好！！祝你们好运！！<br><FONT color=#7e12d2>(战士西恩带着愉快的笑容挥了挥手)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "希望能在<FONT color=#a82424>阴影森林中心</FONT>找到萝丝……<br>真让人担心。",
+      "answer": "",
+      "image": "qw_4.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "希望能在<FONT color=#a82424>阴影森林中心</FONT>找到萝丝……<br>真让人担心。",
+      "answer": "",
+      "image": "qw_4.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "\n一切都是特雷西亚。<br>\n为了寻找陌生的少女而战，这也是特雷西亚的一部分。",
+      "image": "qw_4.png"
+    },
+    {
+      "question": "<FONT color=#7e12d2>(露娜莉娅面无表情地盯着天空)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……发生了什么事？<br>嗯，好的。<br>\n我想不起来了。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你是不是在战斗中被那个人吞噬了？<br><FONT color=#7e12d2>(露娜莉娅指着{user_nick}说)</FONT><br>你体内的那个人。<br>\n",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>接下去呢？</FONT><br>\n<FONT color=#662500>他怎么样了？其他冒险家去哪儿了？</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n不知道。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "某个人出现，和那个少女一起走了。<br>冒险家们看到之后，也全都走了。<br>\n",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "不知道。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>回普雷利镇问问就知道了吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(多亏了我体内的那个人，我才能进行战斗，但是……<br>如果失去了自己的意识，那就没有意义了。真让人头疼。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n你要回到<FONT color=#a82424>普雷利镇</FONT>去。<br>\n明白了。<br>\n我留在狂风森林。",
+      "answer": "",
+      "image": "qw_prairietown.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "不久前，冒险家们告诉了我 萝丝的行踪。<br>他们说萝丝和提摩西往古代神殿发掘场那边去了。",
+      "answer": "",
+      "image": "qw_5.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "为了救出萝丝，提摩西一直在四处寻找。<br>\n他原本是我们村自卫团的人，他甘愿冒这么大的风险，让我很感激。<br>\n唉……",
+      "answer": "",
+      "image": "qn_guard_timose.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "虽然村里的自卫团长派出了搜索队，但我还是很担心。<br>光靠村里人的力量，好像不足以处理眼前的情况。",
+      "answer": "",
+      "image": "qw_5.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "希望事情能够顺利解决……<br>\n但是我总是有一些悲观的想法，真不知道该怎么办。",
+      "answer": ""
+    }
+  ]
+}

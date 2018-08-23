@@ -1,0 +1,131 @@
+{
+  "qkname": "被血染红的继承仪式",
+  "data": [
+    {
+      "npc": "杰兰特",
+      "question": "那个叫佩达的人似乎需要那个力量啊。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "\n怎么了。你说找谁?<br>\n<FONT color=#a82424>杰兰特?</FONT>就站在我身边啊。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "不是在和<FONT color=#a82424>杰兰特</FONT>说话吗?<br>那家伙很久没说过这么多话了，所以有话趁现在说吧。",
+      "answer": "",
+      "image": "qn_npc_geraint_kid.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "一定要阻止他们妨碍女王选举会议。<br>不过真令人困扰。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "女王选举会议是神感交汇的仪式。<br>像我们这种存在进到精灵之森肯定会妨碍到她们吧。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_AN_Gereint Young_qu_9291_01.ogg}<br>虽然很可惜但只能由你行动了…不过信不过你的实力啊。<br><FONT color=#7e12d2>(杰兰特看了一眼这边接着说)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>相信我吧!<br>那我该做什么呢?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "<FONT color=#a82424>清扫消失的满月沙漠。</FONT>",
+      "answer": "",
+      "image": "qw_77.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(杰兰特似乎不会说第二遍。<br>去问问阿尔杰塔吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(杰兰特似乎不会说第二遍。<br>去问问阿尔杰塔吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "呼。不愧是杰兰特。<br><FONT color=#7e12d2>(阿尔杰塔久违的看起来相当愉快)</FONT><br>因为懒得招呼你所以把你扔到我这儿是让人有点烦啦。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我亲切地解释给你听吧。不过亲切不会有第二次所以好好听。<br>你去<FONT color=#a82424>消失的满月沙漠</FONT>找找龙之追随者并将他们消灭吧。明白?",
+      "answer": "",
+      "image": "qw_77.png"
+    },
+    {
+      "npc": "显眼的脚印",
+      "question": "<FONT color=#7e12d2>(有很多脚印乱七八糟地印在这里。<br>脚印的方向全部通向月食峡谷)</FONT>",
+      "answer": "",
+      "image": "qs_01.png"
+    },
+    {
+      "npc": "显眼的脚印",
+      "question": "<FONT color=#7e12d2>(龙之追随者们似乎全去了月食峡谷了。去看看吧)</FONT>",
+      "answer": "",
+      "image": "qs_01.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "脚印?除了那个没别的吗。<br><FONT color=#7e12d2>(在月食峡谷找找别的痕迹吧)</FONT>",
+      "answer": "",
+      "image": "qw_80.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "龙之追随者们的痕迹通向<FONT color=#a82424>月食峡谷</FONT>？<br>那你该到那边去啊，为什么来找我？喂，蠢人类！对你稍微亲切一些，就觉得我好欺负是不是？<br><FONT color=#7e12d2>（去月食峡谷找找别的痕迹吧）</FONT>",
+      "answer": "",
+      "image": "qw_80.png"
+    },
+    {
+      "npc": "显眼的脚印",
+      "question": "<FONT color=#7e12d2>(龙之追随者似乎去了月食峡谷了)</FONT>",
+      "answer": "",
+      "image": "qw_80.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "有人找遗物?<br><FONT color=#a82424>萝丝琳德</FONT>看来在支配着这个地区的魔物啊。",
+      "answer": "",
+      "image": "qn_npc_rosalin.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>听说萝丝琳德失去了力量。 <br>有可能做到那种事情吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "先知的力量不是那种。可能是成为使徒时获得了其他的力量吧。<br>之前不是说过萝丝琳德操纵了巴尔纳的尸体吗?",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9292_01.ogg}<br>森林的魔物吗... 那就能理解了。<br>就算不那样，特里亚纳传来了不好的消息呢。据说<FONT color=#a82424>女王候补正在被杀害</FONT>呢。",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "qkname": "最后的自尊",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "不能让他再做傻事了，凯伊哥哥……不要在意别人的眼光，快回来吧……",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "如果他向我们求助的话，也许就不会变成这样……哥哥总是这样。<br>觉得自己要保护我们，而且在我们面前总是自尊心很强。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "说这些都没用了……<br>现在我们必须赶紧找到哥哥。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯！这次再发现凯伊的话，就算给他脖子上拴条链子，也一定要把他带回来！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "噗……姐姐真是的……<br>那么，最好从之前没去过的地方找起吧。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐，不如去<FONT color=#a82424>阿勒努特峡谷</FONT>看看吧？就从那里开始搜索吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（凯伊……？他旁边是谁……？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "百合花",
+      "question": "谢谢你把门打开了，凯伊。<br>多亏有你，<FONT color=#a94407>荒漠风暴</FONT>可以成功了。",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9552_qu_01.ogg}<br>闭嘴！这……这不是我想要的结果！！",
+      "answer": ""
+    },
+    {
+      "npc": "百合花",
+      "question": "你被那个男人利用的事实，可是我告诉你的……现在你竟然说这种话，真是太令人失望了。",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9552_qu_02.ogg}<br><FONT color=#a82424>兰伯特</FONT>还有你……现在对我来说都一样！你不也是在利用我吗，骗我说这样做是为了挽回一切?！！<br>你们全都在骗我！",
+      "answer": "",
+      "image": "qn_npc_warrior_lambert.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9552_qu_03.ogg}<br>但是……<br><FONT color=#7e12d2>（凯伊露出绝望的笑容）</FONT><br>我发现的东西，在你所知的历史中应该没有吧……",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9552_qu_04.ogg}<br>你觉悟吧……<br><FONT color=#7e12d2>（凯伊突然消失了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "百合花",
+      "question": "…………！！！！好像让他溜了！！！",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "这下糟了……<FONT color=#a82424>黛西</FONT>……黛西被绑架了……",
+      "answer": "",
+      "image": "qn_npc_daisy.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>黛西……？对了，凯伊也曾说过没有保护好黛西什么的……这个名字好熟悉啊……<br>啊……就是那个让我帮她照顾小鸟的少女？！！</FONT>",
+      "answer": "",
+      "image": "qn_npc_daisy.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "黛西是<FONT color=#a82424>K博士</FONT>制造的生命体。她是我们分得的宝玉碎片的原型，也是XD-00<FONT color=#7e12d2></FONT>的母亲。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>听不懂你在说什么！！那个小女孩怎么会是你们的母亲呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "我们所有克隆体全都是龙的<FONT color=#a82424>宝玉的碎片</FONT>。而且，原型就是那个女孩，<FONT color=#a82424>黛西</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "黛西具有强大的宝玉，她本来可以长生不老的。<br>但是，K博士把她制作得并不完整，因此她正在缓慢地迈向死亡。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "有一天，她终于明白了自己的生命即将终结。<br>不过她并不畏惧死亡。<br>因为，变回宝玉之后，过一段时间还会以新的生命体形式重获新生。但是……",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "她真正惧怕的是，自己死后那些生命只能陷入痛苦当中。她无法对此置之不理。<br>因此她从自身宝玉抽取一半的力量，制造出了可以传承其记忆与知识以及使命的继承者。那就是我的姐姐以及创造者<FONT color=#a82424>百合花</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "然而百合花诞生后不久，黛西也随即死去。百合花就用黛西留下来的另外一半宝玉制造出了我们。<br>所以，黛西就是百合花和我们的母亲。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#a82424>百合花通过</FONT><FONT color=#2b2723>门</FONT>成功来到这里后，绑架了<FONT color=#086171>现在世界的黛西，想要取出她的宝玉</FONT> 。<br>如果她得到了强大的力量，现在的世界将会灭亡。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊啊……该怎么办呢……我知道这个世界发生了大事……但是……我为了埃提亚，为了我的朋友凯伊，必须做些什么。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……我理解你。人们不论身处什么样的局面，都有自己想要守护的东西。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>而且，那个叫百合花的人如果是开了门来到这里的话……这件事凯伊和……没能阻止凯伊的我都有责任……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，那么就请做你力所能及的事情吧。我也会尽我所能。<br>那么，我们就在时间的尽头再会吧。<br><FONT color=#7e12d2>（柯梅里纳充满朝气地笑着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "\n你以为你能抓住谁啊！！",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "我一定要保护这个世界……保护<FONT color=#a82424>生命的守护者</FONT>……",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "你回来啦，姐姐。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "你找到凯伊哥哥了吗？",
+      "answer": ""
+    }
+  ]
+}

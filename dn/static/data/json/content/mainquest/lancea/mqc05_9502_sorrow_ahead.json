@@ -1,0 +1,153 @@
+{
+  "qkname": "化悲痛为力量",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "红墨水……血……呃呃……呜……呜……<FONT color=#7e12d2>(埃提亚开始哭了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(先抱抱埃提亚吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐……<br>现在就剩我们俩了。对吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你这是什么话啊，埃提亚。父亲……不是在某个地……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐你真是的……都这个时候了……呜呜……我……现，现在……不知道……该怎么……怎么办了。呜呜……<br><FONT color=#7e12d2>(埃提亚无法控制住泪水。过一会儿再来吧)</FONT><br><br><FONT color=#7e12d2>※ 达到40Lv以上才能进行下一步。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "父亲希望我们，能够纠正他所犯下的错误。<br>那是……我们现在可以为父亲做的最后的事情。<br><FONT color=#7e12d2>(埃提亚把信纸摊平，擦干了眼泪说道)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "我们去莲花沼泽吧。找到卡拉秋，并把父亲的话告诉她吧。姐姐。",
+      "answer": "",
+      "image": "qn_npc_karakule_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>埃提亚，父亲不是还在附近嘛。<br>必须找到他才行。因为他受伤了……必须救他。不是吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "<FONT color=#7e12d2>(埃提亚一句话都不说，只是静静地看着地面)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>埃提亚！呜呜……呃啊啊……呜呜呜……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐，够了。虽然我也不想承认……<br>父亲不是说了嘛，希望我们冷静看待现在的一切。我已经决定了……遵循父亲的意愿。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "但是，我需要姐姐你的帮助。我现在连回到神圣天堂，都倍感吃力。<br>姐姐，你现在是我唯一的亲人，你要保护我不是吗，嗯？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……对不起，埃提亚。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔的奴隶戴维",
+      "question": "你问我为什么在这里？呼……<br>那是秘密！呼呼呼",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "我们去<FONT color=#a82424>莲花沼泽</FONT>吧。在赫尔马岱港口坐船的话，就能立刻前往。",
+      "answer": "",
+      "image": "qw_lotusmarshtown.png"
+    },
+    {
+      "npc": "阿尔杰塔的奴隶戴维",
+      "question": "哦？你知道我要来，所以特意来迎接我？呼呼呼<br>没想到，你这家伙倒还有如此一面啊？！",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "ionStand01}<br>说起来，好久不见，我的脸上又多了几丝不幸！呼呼呼<br>那都是被<FONT color=#a82424>阿尔杰塔</FONT>抛弃而造成的~！",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我现在……不想跟你折腾。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔的奴隶戴维",
+      "question": "我也一样！我可不想与你这种人纠缠！不过，因为要替阿尔杰塔跑腿，我才站在你的面前，这已经算看得起你了。<br>这药对眼睛好，你快拿给<FONT color=#a82424>杰兰特</FONT>吧。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……杰兰特(讲述这段时间的事情)</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "什么什么什么，你说什么？！ <FONT color=#7e12d2>（戴维惊呆了）</FONT><br>你，刚，刚，刚，刚才说什么？杰，杰兰特……<br>杰兰特死……不，去世了？那是真的吗？！",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "你这家伙开玩笑呢吧？<br>和世上最<FONT color=#382000>美丽，</FONT><FONT color=#7e12d2>耀眼，</FONT><FONT color=#086171>可爱的</FONT>阿尔杰塔一样强大的人，怎么可能会死？！<br>再说，他都战胜了黑龙！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>对不起……这是事实……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "呃呃……<FONT color=#7e12d2>(戴维揪着头发)</FONT><br>以我这天才般的头脑想了想，要是我把这消息传达回去的话，肯定会遭到<FONT color=#a82424>阿尔杰塔</FONT>的暴打，甚至被无情地打死！呃呃~！",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "阿尔杰塔的奴隶戴维",
+      "question": "呃呃，杰兰特居然去世了，这不是真的吧……！<br>不行，如果我就这样独自回去，也许我会……<FONT color=#7e12d2>(咕咚)</FONT> 性命难保……<br>你，<FONT color=#387206>{user_nick}</FONT>！杰兰特的消息由你亲自转达吧！",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也正想去莲花沼泽呢。</FONT>",
+      "answer": "",
+      "image": "qw_lotusmarshtown.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "额？可那个人是谁呢？",
+      "answer": ""
+    }
+  ]
+}

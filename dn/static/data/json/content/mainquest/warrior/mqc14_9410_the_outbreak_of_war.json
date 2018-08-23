@@ -1,0 +1,397 @@
+{
+  "qkname": "开战",
+  "data": [
+    {
+      "npc": "王城近卫兵劳尔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，王城那里传来了口信。请你马上到王城去，听从国王卡西乌斯的指示。",
+      "answer": "",
+      "image": "qn_npc_king_casius.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>王城？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "王城近卫兵劳尔",
+      "question": "是的。虽然具体的不太清楚，不过据说和阿努阿兰德传来的消息有关。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>阿努阿兰德……！<br>(这么说，不会是……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "王城近卫兵劳尔",
+      "question": "陛下在等着你呢。<br>请你抓紧时间吧。<FONT color=#7e12d2>(劳尔恭敬地行礼后离开了。前往王城吧。 )</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "现在消息应该传过去了。<br><FONT color=#7e12d2>(去找国王卡西乌斯吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "你怎么才过来？<br>看来也不能随随便便就相信冒险家。对吧，各位？<br>这家伙可能都不清楚自己在做什么。<br><FONT color=#7e12d2>(斯图尔特流露出非常不满的表情)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "欢迎你，<FONT color=#387206>{user_nick}</FONT>。从精灵长老处刚刚传来了一个消息。<br>好像是巨石碑的入口处出现入侵者了。<br>另外，龙之追随者那边也有异动。",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "刚接到的报告说入侵巨石碑的家伙戴着龙之追随者的面具。<br>\n这一切都是龙之追随者们的所为。<br>\n这次我要彻底铲除它们。既拯救了世界，又能消灭龙之追随者！岂不是两全齐美。 ",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "很可惜，我们无法进入巨石碑的里面，可这也是没办法的事。<br>我们无法预知贸然闯进去会招致什么后果，而且从这个世界诞生的时候开始精灵就一直守护在那里了……<br>只能相信它们了。",
+      "answer": ""
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "<FONT color=#7e12d2>（斯图尔特依然是一副不满的表情。）</FONT><br>我再强调一次，我这边是不会发援兵的。<br>我的兵力只用于守护神圣天堂。",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "我们在跟魔物交战，因此无法支援太多兵力。<br>\n进入阿努阿兰德的主力应该是特拉玛依的神殿骑士团和卡拉安的宫廷魔法师团吧。<br>\n如果接收到紧急请求，那我们会立即发兵支援。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "那已经足够了。阿努阿兰德并非是宽敞的地方，没办法开始就投入大量士兵。<br>\n除了与龙之追随者们的交战外，我们也要守好阿努阿兰德。<br>\n那么<FONT color=#387206>{user_nick}</FONT>……作为把这件事情通知给宫廷的人, 快去接受国王的指示吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "呃，呃呃， 啊啊! 唔, 啊唔。呃呃啊，咳咳，嗯!<br><FONT color=#7e12d2>(卡西乌斯在很认真地清嗓子 。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "我，我们现，现在，处于非常，非常非常，危险……的时刻。<br><FONT color=#7e12d2>(卡西乌斯颤抖着双手读着卷轴。身旁的斯图尔特用担忧的眼神看着卡西乌斯。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "巨，巨石碑的，危机是，全，全世界的危机。 朕，朕高，高度地，赞，赞赏，了解这，这，这，这个危，危，危机，并，并敢于跨越，种族的界限，向，向精灵长老，请，请求协助的<FONT color=#387206>{user_nick}</FONT>的功劳。",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "这，这这这这这，这这一刻，非常，非常非常有，意义……我，我们会，和，精灵，联手。还，还有……我，我们会，重新，找，找回以往的，英，英雄之荣耀。",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "我，我们，做，做好了，直面，世，世界危机，并与，与之奋，奋战的准备……！<br><FONT color=#387206>{user_nick}</FONT><FONT color=#2b2723>你去</FONT>把这，这个事情，转告给，精灵长老。 ",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "<FONT color=#662500>(卡西乌斯以快要昏厥的表情递来了卷轴。赶紧收下吧。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "陛下读的部分并非是卷轴的全部内容。<br>\n卷轴里还写有我们的兵力及之后的计划。你可要安全地送过去呀。<br>\n万一有个闪失，你将难辞其咎。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我明白了。<br>(卷轴似乎被手心的汗水浸湿了……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我们会及时发援兵的，不要担心。快去吧。<br>\n<FONT color=#7e12d2>(特拉玛依拍了下我肩膀)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "……放心，我们不会像以前那样推脱责任的。<br>\n当然，无论什么事情都会有反对者出现，你可别想太多。<br><FONT color=#7e12d2>(特拉玛依看了一眼斯图尔特)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "啊，竟然提议要把牧师派到最危险的地区。<br>不过，这么做我们也能够理解。果然是六大英雄……与之前那些缩头缩脑的乌龟，那可不是一个级别的呀。<br><FONT color=#7e12d2>(卡拉安看了一眼特拉玛依)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "……你可别乱来啊<br>我还没有完全信任你。<br><FONT color=#7e12d2>(斯图尔特看起来十分疲惫)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "你的勇气会拯救世界!",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "做你该做的事吧。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "NT><br>\n<FONT color=#7e12d2>(一副不满的表情)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "要，要保重身体啊。<br>……朋友<br><FONT color=#7e12d2>（卡西乌斯在低声嘟囔。去找精灵长老吧。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "你来了。消息送到宫廷了吗？ ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>送到了。我还带来了回信。<br>(把卡西乌斯的卷轴递过去)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "嗯。<FONT color=#7e12d2>（精灵长老接过卷轴开始读起来了）</FONT><br>……看来特拉玛依大人说了不少好话呀。<br>关于<FONT color=#387206>{user_nick}</FONT>你的任务，他们已全权委托给我们了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哦？还有事情需要我来做吗？ </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "<FONT color=#7e12d2>（长老的表情相当阴沉）</FONT><br><FONT color=#387206>{user_nick}</FONT>，新任精灵王正在找你。<br>还有龙也在等着你，快去生命之树看看吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>新任国王，不会是……！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "<FONT color=#7e12d2>（长老勉强挤出一丝微笑）</FONT><br>没错。说起来她跟<FONT color=#387206>{user_nick}</FONT>你也是老熟人了。<br>一进去你就能认出来。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哦。(到生命之树的里面看看)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "ionSee}<br>欢迎你。以这副模样相见，这还是头一次。<br><FONT color=#7e12d2>(精灵王挪动着不利索的身体向我走来)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>尤万西贝尔……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "ndnpc_ElfKing_9410_qu_01.ogg}<br>从现在开始叫我佩尔德列斯吧。像历代女王那样，当上女王之后将获得新的名字。<br><FONT color=#7e12d2>(佩尔德列斯微笑着)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "不要罗里吧嗦的，说要紧的。<br>我可没空在这里听你们的废话!",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "ionSmile}<br>……你的性子太过急躁了，阿尔杰塔。<br>性急可能会使问题变得更复杂。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ionHwww}<br>我这样急躁的性格都是拜你所赐？！<br>不过……<FONT color=#7e12d2>（阿尔杰塔瞥了我一眼）</FONT>你这家伙说的倒像是真的。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "我岂敢骗银龙大人。我们已确认混沌龙的力量碎片已分散于阿努阿兰德。其中的一个就在这位<FONT color=#387206>{user_nick}</FONT>的身上发光。 ",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你杀了混沌龙？不过你不像是吸收了宝玉啊，这究竟是怎么回事？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是，我没有杀……是艾奥纳……<br>(讲述事情的前因后果)</FONT>",
+      "answer": "",
+      "image": "qn_npc_white_dragon.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9410_qu_01.ogg}<br>白龙艾奥纳？！就是以前的那个邪念吗……最后一次见到它是很久前的事了，它还活着？而且主动赋予你力量后消失了？哈，真是一对大白痴。",
+      "answer": "",
+      "image": "qn_npc_white_dragon.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GeraintKid_9410_qu_01.ogg}<br>竟然放过了混沌龙？<br>我怎么没听说。<br><FONT color=#7e12d2>(杰兰特的表情变得有些烦躁)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "有那种东西。好，不管怎样，既然获得了混沌龙的力量，那应该能在巨石碑 的入口自由活动吧。尤万西贝尔，看来咱们确实找到了个跑腿儿的。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "哼。<FONT color=#7e12d2>(装没听见)</FONT><br>那么现在可以在巨石碑之门附近活动的有我、杰兰特、还有跑腿儿的，一共三个人。<br>\n如果你胆敢耍花招，我会把你踢出阿努阿兰德，你就好自为之。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……你可千万不要胡来啊。<br>除了我亲自交待的事情之外，其他的事情千万不要做。<br>精灵王和长老你们也一样。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ionTalk_Angry}<br>我不太喜欢你们。<br>如果还像上次秘密会议时那样，让龙之追随者喽啰们靠近巨石碑的话，那到时候我不会轻饶你们。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "那当然。我们绝不会重蹈覆辙。<br>我们会尽全力做好防守。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "<FONT color=#7e12d2>(以犀利的眼神看着精灵王)</FONT><br>……以后不会再有背叛者了。人类的部队也会跟我们联手。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "什么？<FONT color=#7e12d2>(阿尔杰塔似乎有些惊讶)</FONT><br>他们竟然放下了自尊……<br>看来被龙之追随者和黑龙打得够呛啊。虽然这都是他们自作自受。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_ElfElder_9427_qu_08.ogg}<br>就是这位<FONT color=#387206>{user_nick}， </FONT><FONT color=#2b2723>最先把</FONT>危机报给大家的，最后还说服了大家。<br>于是我们决定并肩作战。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "什么？就你？<FONT color=#7e12d2>(阿尔杰塔看起来有些惊讶)</FONT><br>真是无语！就凭你，还想学杰兰特？<br>是不是想过一过当英雄的瘾？！",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "噗，哈哈哈！真会耍嘴皮子。<br>虽然看起来你比杰兰特聪明那么一丁点，但比起贝思柯德那差远啦。人类竟然会信任你，哈哈哈！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(不知道这算是夸人还是损人……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GeraintKid_9410_qu_02.ogg}<br>又在说我的往事？我不就是个失败者吗？居然想模仿那种东西，你也算是个奇葩。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "哼。你聚集的这些乌合之众有什么用？把这些不堪一击的人聚集起来，只会成为累赘！",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "他们可以帮我们对抗龙之追随者，减轻我们的负担。<br>虽然他们和龙之追随者没法进入巨石碑内部。<br>出去吧。我不想呆在这里了。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "…千万要平安无事啊。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "我也要走了。<br>请休息吧，国王大人。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "看什么看？快去做你该做的事。<br><FONT color=#7e12d2>(请和精灵王佩尔德列斯对话)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "他们俩的关系好像不怎么样？<br>不过这无关紧要。<br><FONT color=#7e12d2>（请和精灵王佩尔德列斯对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "没想到尤万西贝尔会成为国王……<br>无论如何，我会做好我分内的事，只要他具备国王应有的威严。<br><FONT color=#7e12d2>(请和精灵王佩尔德列斯对话)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "ionSee}<br>不要用那样的眼神看着我。我可是你的盟友啊……<br>今后就拜托你了。<br><FONT color=#7e12d2>(佩尔德列斯跟我打了一声招呼。出去和阿尔杰塔对话吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "好，我来告诉你该做的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "如果你拖后腿，我会马上甩掉你。<br>我可不管人类和精灵是否联手，最好不要像杰兰特那样依赖那种东西。<br>你将在巨石碑附近战斗，没有人可以帮你。 ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，我明白了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "…又来了…以前的我到底哪里做的不好？<br><FONT color=#7e12d2>（表情相当不满）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#7e12d2>(阿尔杰塔装作没听到杰兰特所说的话)</FONT><br>哼, <FONT color=#387206>{user_nick}</FONT>…… 回答的倒是挺利索的嘛。还算是有点进步。<br>好了。要给你说明的东西还有很多。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "<FONT color=#7e12d2>(看起来十分不满)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "说真的……国王怎么一个个都这个样子……<br><FONT color=#7e12d2>(阿尔杰塔烦躁地嘟囔着。到外面去对话吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "那我也出去啦。<br>\n<FONT color=#7e12d2>(到外面和阿尔杰塔对话)</FONT>",
+      "answer": ""
+    }
+  ]
+}

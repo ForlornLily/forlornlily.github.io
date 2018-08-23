@@ -1,0 +1,377 @@
+{
+  "qkname": "与传奇之人的相遇",
+  "data": [
+    {
+      "npc": "道格拉斯将军",
+      "question": "长时间来与魔物对峙，士兵们已经相当疲劳了。<br>只要军事整备一完成，我就向<FONT color=#a82424>黑暗大君主领地</FONT>进军，你不要过于担心。",
+      "answer": "",
+      "image": "qw_28.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "iontalk}<br>我刚刚回城。<br>你也平安回来啦。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，兵力已经准备好了吗？现在能出发前往黑暗大君主领地了？</FONT>",
+      "answer": "",
+      "image": "qw_28.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "啊啊，不要这么着急。还有很多兵力没有回来，而且在黑暗矿山和魔物们对抗了那么久，士兵已经相当疲劳了。",
+      "answer": "",
+      "image": "qn_npc_elite_soilder.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "只要军事整备一完成，我就向<FONT color=#a82424>黑暗大君主领地</FONT>出兵，你不必太担心。",
+      "answer": "",
+      "image": "qw_28.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "我得询问一下，召集兵力的事情进展得怎么样了。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "赶快去和他商议下进攻黑骑士根据地的战略吧。",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "金发剑客",
+      "question": "……<br><FONT color=#7e12d2>（看上去无意对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "怎么回事？你怎么在这里？<br>赶紧去忙你自己的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你不应该待在这里吧。<br>不要妨碍我，去做你自己的事情吧。",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "抱歉，现在我很忙。由于凯德拉发生的事，光是报告我就要写上一百多张。唉……",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔的奴隶戴维",
+      "question": "喂，笨蛋！阿尔杰塔怎么了？<br>为什么一直都没有回来~！",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "来到神圣天堂之后，你好像就非常忙。希望你能把埃提亚放在心上……<br>如果你与王城内的人的事情处理得差不多了，就告诉我！？<br><FONT color=#7e12d2>（埃提亚努力挤出微笑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "克林德，你来报告一下吧。",
+      "answer": "",
+      "image": "qn_npc_elite_soilder.png"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "我接到紧急召集命令，现在正在神圣天堂迅速召集所有可用的兵力。",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "不过，由于和怪物们展开了持久的局部战争，城中所剩的预备兵力已经不多了。",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "所以，我已经下令，让被派往其他各地的兵力迅速回城。<br>你也做一些其他准备，等着的通知吧。",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "从现在召集的兵力来看，似乎可以出兵了。",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "<FONT color=#7e12d2>（正在向道格拉斯将军报告。去听听他在和道格拉斯将军说什么吧。）</FONT>",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "已经召集了预备兵力。<br>请向道格拉斯将军报告，然后听从将军的命令吧。",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "已经召集了兵力。<br>虽然数量没有预期的多，但大家都是经过长期战斗锻炼出的最精锐士兵。<br><FONT color=#7e12d2>（道格拉斯将军似乎很自豪）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "目的地是<FONT color=#a82424>黑暗大君主领地</FONT>……到目前为止，我们还从未深入过那个地方。只要我们趁此机会获得更多的情报，应该会给以后的战斗带来很大的帮助。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "iontalk}<br>那我们快点出发吧。<br>我们都会竭尽全力的，你也不要放松警惕，为了救出先知，让我们最后一搏吧。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那是当然。那我们在黑暗大君主领地见吧！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "锐士兵第1集团军已经出发了。<br>你做好准备之后，就前往<FONT color=#a82424>黑暗大君主领地</FONT>，与大军会合吧。",
+      "answer": "",
+      "image": "qw_28.png"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "现在，所有兵力已经准备就绪。你先出发，我们定会紧随其后，所以请放心前往<FONT color=#a82424>黑暗大君主领地</FONT>吧。",
+      "answer": "",
+      "image": "qw_28.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "哦，你现在要出发吗？希望道格拉斯将军的兵力能帮上忙。<br>你尽快前往<FONT color=#a82424>黑暗大君主领地</FONT>吧。",
+      "answer": "",
+      "image": "qw_28.png"
+    },
+    {
+      "npc": "金发剑客",
+      "question": "……<br><FONT color=#7e12d2>（好像正在和阿尔杰塔对话）</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我就知道是你的脚步声，<FONT color=#387206>{user_nick}</FONT>。<br>你还真有本事找到这里来啦。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个……你认识金发剑客吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "当然认识了。那家伙就是<FONT color=#a94407>杰兰特</FONT>。<br>我之前和你说过吧？",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？是他吗？！我上次在被遗弃的韦尔顿哈鲁看见他正与黑骑士作战……</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "啊，那个时候啊？这个笨蛋还是让那个家伙逃掉了。<br>杰兰特，那家伙是怎么从你手中逃脱的？我完全想不通。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "杰兰特！你在听我说话吗？！！<br><FONT color=#7e12d2>（杰兰特轻轻张开嘴）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你不能跟着杰兰特走。",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>为什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "什么为什么？就连我都帮不上什么忙，你去了只会妨碍他，跟我到<FONT color=#a82424>黑山山角</FONT>去吧。",
+      "answer": "",
+      "image": "qw_skirtofblackmountain.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "前往黑暗大君主领地的事情，都处理好了吗？<br>士兵好像都平安返回了。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……<br><FONT color=#7e12d2>（看上去无意对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你不应该待在这里吧。<br>不要妨碍我，去做你自己的事情吧。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你在那儿磨蹭什么呢？<br>我要前往<FONT color=#a82424>黑山山角</FONT>，你快点准备吧。<br>以你现在的实力就别妄想跟着杰兰特了。知道吗？",
+      "answer": "",
+      "image": "qw_skirtofblackmountain.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "不知道杰兰特有没有找到。<br>那个笨蛋被这样欺骗，还不知醒悟，真是糟糕。以前他也被贝思柯德那家伙欺骗过，怎么到现在还迷迷糊糊……啧啧。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德？那是谁啊？？噢，我好像在哪里听说过这个名字……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "他就是你口中的<FONT color=#a94407>黑骑士</FONT>。我没有告诉过你吗？不，这种事在我告诉你之前你不就应该知道吗？<br>你不是在四处寻找古代人嘛，怎么什么都不知道啊。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德…贝思，杰兰….嗯？？贝思柯德和杰兰特？？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔的奴隶戴维",
+      "question": "贝思柯德？！杰兰特？！！<br>噢噢……真不愧是阿尔杰塔！！ <br>原来你与六大英雄有交情呀！<br><FONT color=#7e12d2>（戴维兴奋地喊叫着）</FONT>",
+      "answer": "",
+      "image": "qn_six_heroes_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这怎么可能。他是50年前的人……怎么会是这么年轻的哥哥呢……<br>只是凑巧名字相同而已吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我不知道什么六大英雄，但那些家伙好像确实是你们所说的英雄。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？？即便阿尔杰塔你这么说……我还是难以相信。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔的奴隶戴维",
+      "question": "你…你！你竟敢怀疑阿尔杰塔所说的话？<br>阿尔杰塔，就算你说可以用柿子做年糕，我也相信！",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你们俩吵死了，能安静点吗？你！还有你！！<br><FONT color=#7e12d2>（阿尔杰塔似乎很烦躁。还是和埃提亚商量下自己的疑问为好）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "阿尔杰塔的奴隶戴维",
+      "question": "……阿尔杰塔让你安静……！<br><FONT color=#7e12d2>（看到阿尔杰塔的眼神后，戴维悄悄地说道）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "贝思柯德和杰兰特……<br>没想到他们俩就是<FONT color=#a82424>六大英雄</FONT>，但更加令人难以置信的是，我们一直以来所认定的恶棍黑骑士居然是贝思柯德。",
+      "answer": "",
+      "image": "qn_six_heroes_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>对吧对吧？不是只有我觉得奇怪……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "嗯。就算是阿尔杰塔，经过岁月的流逝，也……他们居然50年来相貌没发生任何变化，这怎么能让人信服呢？",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "还有，50年前阻止威胁神圣天堂的<FONT color=#a94407>黑龙卡拉斯</FONT>的人，居然变成了<FONT color=#a94407>黑骑士</FONT>，让这个地方陷入了危险……这不是很奇怪嘛。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "他们俩长什么样？黑骑士贝思柯德……他长得好像与我们之前听说的一样，那杰兰特呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰兰特……他那蜂蜜色泽的金发随风舞动，神情忧郁，眼睛就如日落时分寂寥的夕阳。<br>洁白，没有任何缺陷的脸颊，配上那金发……简直是完美！</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "<FONT color=#7e12d2>（埃提亚呆呆地望着姐姐。）</FONT><br>你是说他有些金发和金色的眼睛？嗯……书上是怎么写的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎么能说得这么简单呢！巴尔纳的记录中也说是拥有灿烂的金发的……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "什么！长得也一样？？这怎么可能！<br>其他人或许不知情，但我们对六大英雄解散的事情有所了解啊？",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "连钢铁兄弟团的创始者<FONT color=#a94407>巴尔纳</FONT>在黑龙之战后命运也发生了改变。<br>据说，英雄内尔文、特拉玛依和卡拉秋的健康状况也不是很好。",
+      "answer": "",
+      "image": "qn_six_heroes_silhouette.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "但是，唯独销声匿迹的他们俩……仍然保持了年轻时的样子？？<br>如果，他们真的是以前的六大英雄，那他们身上究竟发生了什么事情？<br>虽然令人难以置信……啊~ 搞不懂。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>的确，有好多事情都想不通。我还没能见到黑骑士。<br>你有没有收到凯伊的消息？</FONT>",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "还没有。不知道他是不是在追踪黑骑士时受了伤…… 真让人担心。<br>呼~ 现在一切都是谜，我感觉好像进入了迷宫。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……我先到王城报告追踪黑骑士的情况，然后再回来。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "我知道了。不过，姐姐，如果……<br><FONT color=#7e12d2>（埃提亚卖起了关子）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？你说啊。</FONT>",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "mqc07_9517_karakule_remedy",
+    "name": "卡拉秋的药",
+    "qid": "9517",
+    "nextid": "9518",
+    "chapter": "7"
+  },
+  {
+    "id": "mqc07_9518_uninvited_guests",
+    "name": "未被邀请的客人",
+    "qid": "9518",
+    "nextid": "9519",
+    "chapter": "7"
+  },
+  {
+    "id": "mqc07_9519_old_grudge",
+    "name": "宿怨",
+    "qid": "9519",
+    "nextid": "9520",
+    "chapter": "7"
+  },
+  {
+    "id": "mqc07_9520_feeling_sinister",
+    "name": "不祥的预感",
+    "qid": "9520",
+    "nextid": "9521",
+    "chapter": "7"
+  },
+  {
+    "id": "mqc07_9521_waking_up_to_prophet",
+    "name": "苏醒的先知",
+    "qid": "9521",
+    "nextid": "9522",
+    "chapter": "7"
+  },
+  {
+    "id": "mqc07_9522_end_and_start",
+    "name": "结束和开始",
+    "qid": "9522",
+    "nextid": "9523",
+    "chapter": "7"
+  }
+]

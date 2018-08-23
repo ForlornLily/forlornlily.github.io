@@ -1,0 +1,145 @@
+{
+  "qkname": "献给她的挽歌Ⅱ",
+  "data": [
+    {
+      "npc": "原住民塔伦",
+      "question": "恩？你就是之前约好要和我见面的那个<FONT color=#a82424>魔法师</FONT>吗？",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我听说之前从龙之追随者手中逃跑的帕都部族的人在一起避难，不知道他们有没有时间为察提准备葬礼呢。",
+      "answer": "",
+      "image": "qn_lm_nativeman_a.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，我听说原住民都在<FONT color=#a82424>伊斯拉土著民村落</FONT>那里避难……<br>你能替我去一趟吗？虽然也有察提的事情牵涉其中，但我答应他们帮忙找到卡拉翰的行踪的。",
+      "answer": "",
+      "image": "qw_58.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了。</FONT>",
+      "answer": "",
+      "image": "qw_58.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我得赶紧找到他的行踪才行。<br>虽然也一直在接受魔法师们的帮忙，但自从老师离世之后，消息传送体系就变得一团糟。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "原住民塔伦",
+      "question": "恩？你就是之前约好要和我见面的那个魔法师吗？<br>……我听说是个一头柔软金发的温柔娇小的少年啊。<br><FONT color=#7e12d2>（原住民一脸疑惑地看着我）</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>西戴尔因为要准备卡拉秋的葬礼的关系而没能过来。</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "原住民塔伦",
+      "question": "这事情就难办了，<br>那个察提的魔法师朋友，倒是看上去挺值得信赖的。",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>还是先跟我说吧。</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "原住民塔伦",
+      "question": "啊，那你难道是<FONT color=#387206>{user_nick}</FONT>……？<br>我听说那个魔法师有个关系很好的<FONT color=#387206>{user_class}</FONT>。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的！那就是我！</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "原住民塔伦",
+      "question": "啊……这么看来，那你难道就是<FONT color=#387206>{user_nick}</FONT>……？<br>我听说你是察提和那个魔法师共同的朋友。",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>就是我，没错</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "原住民塔伦",
+      "question": "自从我们部族所守护的封印被解除之后，我们就一直在追踪卡拉翰的下落。<br>他已经拿到<FONT color=#a82424>绿龙宝玉</FONT>了。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "原住民塔伦",
+      "question": "不过现在他还没有具备完整的龙的形态。<br>但是为了积聚力量变身为龙，他正在古代遗迹各地四处游荡，搜集古代遗物。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这可真是大事不妙啊。</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "原住民塔伦",
+      "question": "是，如果不赶紧阻止他，等到他变成完整的绿龙，到时候那就大难临头了。<br>麻烦你去转告那个名叫<FONT color=#a82424>西戴尔</FONT>的魔法师。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "原住民塔伦",
+      "question": "麻烦你赶紧，<br>根据我们的判断，卡拉翰接下来盯上的宝物在<FONT color=#a82424>古代宝物仓库</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "原住民塔伦",
+      "question": "那就麻烦你了，<br>得赶紧阻止<FONT color=#a82424>卡拉翰</FONT>才行。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "啊！你回来了啊，<FONT color=#387206>{user_nick}</FONT>。<br>那个原住民是怎么说的？<br>\n<FONT color=#7e12d2>（转述塔伦的话）</FONT>",
+      "answer": "",
+      "image": "qn_lm_nativeman_a.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "是这样啊，卡拉翰他……<br><FONT color=#7e12d2>（西戴尔一脸严肃的表情）</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "为了继承老师的遗志，还有……就算是为了察提。<br>为了阻止更多的牺牲，我一定要阻止他才行。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

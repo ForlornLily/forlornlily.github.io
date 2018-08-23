@@ -1,0 +1,200 @@
+{
+  "qkname": "未来要去的地方",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "姐姐，幸好你没事，真是太好了……<br><FONT color=#7e12d2>（埃提亚泪眼朦胧地笑着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，我还打败了百合花，拯救了未来呢！而且……<br>（关于</FONT><FONT color=#a82424>贝思柯德</FONT><FONT color=#662500>的事情……虽然很烦恼，但告诉埃提亚也没关系吧？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9555_qu_01.ogg}<br><FONT color=#7e12d2>（埃提亚听完了这段时间发生的一切）</FONT><br>啊啊……姐姐好棒啊。真是太了不起了！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嘿嘿……没什么……都是多亏了柯梅里纳。但是，我还是没找到</FONT><FONT color=#a82424>凯伊</FONT><FONT color=#662500>，真是让人放心不下。<br>而且，这块</FONT><FONT color=#a94407>宝玉</FONT><FONT color=#662500>……该怎么处理呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9555_qu_02.ogg}<br>凯伊哥哥的事情还是处理了<FONT color=#a94407>宝玉</FONT>之后再说吧。<br>我认为，最好的方法就是把它交给姐姐你想给的人……你觉得怎么样？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哦……我？嗯……<br>（以前都是埃提亚告诉我该做什么选择……嗯……不过这次我好像自己知道了。知道这块</FONT><FONT color=#086171>宝玉的主人</FONT><FONT color=#662500>是谁）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "现在姐姐已经不需要我了……<br><FONT color=#7e12d2>（埃提亚抚摸着凯伊的胸针，苦涩地笑着）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "呃啊……<br><FONT color=#7e12d2>（贝思柯德的表情非常痛苦。他旁边的柯梅里纳看上去也十分焦虑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>柯梅里纳？你怎么在这里……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "这里不是游乐园，小鬼们……怎么都往这里跑……",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "状态怎、怎么会恶化成这个样子……？历史上没有提到这些啊！到底发生了什么事？",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "吵死了……<br>啧……不用你们管。这里没你们的事。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>（柯梅里纳好像有点惊慌失措）</FONT><br>怎、怎么办……不快点想办法的话，这样下去贝思柯德会……<br>那个，<FONT color=#387206>{user_nick}</FONT>，如果刚才的那块<FONT color=#a94407>宝玉</FONT>你还带在身上的话，能不能……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你不是说把未来交给我了吗，柯梅里纳？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "可是这样下去的话……守护未来的唯一的英雄就要消失了……我好害怕……我知道历史发生了改变，但没想到会发生这么大的变化……所以我只好厚着脸皮……拜托你……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嘻嘻……别吓坏了。你猜我为什么来找贝思柯德？<br>其实我早就决定要把它交给贝思柯德了……我想，如果是柯梅里纳的话，一定会这样做的！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "啊啊……<FONT color=#387206>{user_nick}</FONT>……",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "从刚才开始就不得安宁。<br>我的命和你们有什么关系？一点关系都没有。赶紧滚！",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "有关系！<br><FONT color=#7e12d2>（柯梅里纳开始讲述未来和有关未来的英雄的故事）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "哈哈哈……未来唯一的英雄？<br>哈哈哈哈哈！",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "别白费心思了。未来的那个家伙和我不是一个人！<br>我丝毫没有再次成为英雄的想法。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "贝思柯德……拜托你了。我已经无法回到未来了。<br>……如果连现在的你都无法保护的话……我怕我会连最后的一点希望都因此失去。那样的话，在走向灭亡的未来……我们就一点反抗的机会都没有了……",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "…………<FONT color=#7e12d2>（他的表情难以捉摸）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……你可别后悔。<br>就算我重新获得了力量……<br>我也不一定会站在你们一边。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "没关系，贝思柯德。只要你能继续活下去……<br>我相信你。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……这个债……我一定会还。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（把</FONT><FONT color=#a82424>古代龙的宝玉</FONT><FONT color=#662500>放到了贝思柯德面前。<br>宝玉开始散发灿烂的光芒）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "啊……这是？<br><FONT color=#7e12d2>（脸色苍白。和贝思柯德对话吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……真是温暖的光。……但是，这种感觉…… <br><FONT color=#7e12d2>（贝思柯德看上去比之前平静了很多）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……太，太好了……贝思柯德……呜，呜呜呜，抽泣……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>太好啦，贝思柯德！！哇啊啊啊啊……！！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "吵死了，快给我出去。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "呵，呵呵……抽泣……<FONT color=#387206>{user_nick}</FONT>，非常感谢你……<br>虽然历史已经改变了……抽泣。<br>但最好还是不要太显眼……我们以后再见吧……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（柯梅里纳依然在哭。贝思柯德默默放任柯梅里纳哭着。最好回去找埃提亚）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>（完全不管正在哭泣的柯梅里纳。但是也没有发火或不耐烦）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "欢迎回来，姐姐！<br><FONT color=#7e12d2>（不知为何埃提亚看起来很急切）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？出了什么事吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>……！！</FONT>",
+      "answer": ""
+    }
+  ]
+}

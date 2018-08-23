@@ -1,0 +1,271 @@
+{
+  "qkname": "为了将来的决定",
+  "data": [
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "<FONT color=#387206>{user_nick}</FONT>！你来得正好，我正要找你呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>为什么这么说？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "你看，这是学者柯梅里纳给你写的信。",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>信？！柯梅里纳给我的？</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": ">真想不到未来人竟然会把信寄到我这里来~毕竟未来人只知道伟大的魔法师斯泰拉我一个人的地址！呵呵呵~你拿着信吧。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳的信",
+      "question": "\n<FONT color=#7e12d2>（接过信。这封信似乎写得很匆忙）</FONT><br>在利物沃特码头，泰尔罗萨入口旁，古代寺院旁，被凿开的地方，百合花，已先到。请勿告诉任何人。 [<FONT color=#a82424>百合花远征基地</FONT>]，那个地方的名字，被人知道的话，我们说不定就会有危险，当心。",
+      "answer": "",
+      "image": "qw_81.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "上面写了什么？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（巧妙的转移话题）只是柯梅里纳和我之间的私人事情……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "什么？私人事情？<br>哎哟喂！你俩的关系可真是不一般啊~<br>在战火中萌生出的友情，好浪漫啊！",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "呵呵呵~你原来还有可爱的一面啊。的确，你现在正是谈恋爱的时候。想当年我年轻的时候……<FONT color=#7e12d2> （斯泰拉开始回忆过去）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（赶快去泰尔罗萨入口的百合花远征基地吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>（带着下定决心的表情。看上去十分值得信赖。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>（尽管很抱歉对斯泰拉撒了谎，但的确是没办法。前往泰尔罗萨入口的百合花远征基地吧）</FONT>",
+      "answer": "",
+      "image": "qw_81.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "</FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#2b2723>！你能平安到达真是太好了。百合花还没有出现……我成天提心吊胆的，担心百合花会首先发动攻击。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>我也很吃惊。没有想到百合花会突然出现……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "我们现在还不能和百合花作战。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？为什么啊？</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "你看到我身后的那个地方了吗？那里曾经是古代寺院的一部分。百合花好像正利用那个地方的力量激活宝玉，制作新的克隆体人瓦尔基里和诺伦。",
+      "answer": "",
+      "image": "qm_nornen_valkiri.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>刚刚和我作战的那个人原来就是瓦尔基里啊。</FONT>",
+      "answer": "",
+      "image": "qm_nornen_valkiri.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……是的。百合花利用寺院的力量不仅可以轻松制作出瓦尔基里和诺伦，自己也会……变得像巨龙一样，拥有金刚不坏之躯。不管受到多么强力的攻击，都可以毫发无伤。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "不过也不是没有办法。在古代寺院里找到向百合花输送能量的瓦尔基里和诺伦，并将他们消灭后，就可以切断对百合花能量的供给。",
+      "answer": "",
+      "image": "qm_nornen_valkiri.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>原来如此，这件事就交给我吧。</FONT>",
+      "answer": "",
+      "image": "qm_nornen_valkiri.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……谢谢。古代寺院里为了抵御过去敌人的入侵，将敌人当做祭品……算了，反正里面路况复杂。请不要迷路，务必当心。 ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#2b2723>我知道了。</FONT><FONT color=#2b2723>（刚刚好像听到了很恐怖的声音）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……我会伺机寻找侵入研究室的机会。百合花如果做出什么奇怪的行动的话，就立刻攻击……不，立刻告诉你。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>好的。（柯梅里纳变得比原来勇敢了，真是太好了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "百合花好像在遗迹里设置了防御用的装置。<FONT color=#387206>{user_nick}</FONT>你肯定没有问题的，不过还是小心为妙。 ",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……你，你做到了……？ <FONT color=#387206>{user_nick}</FONT>把百合花消灭了！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>一切都结束了！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……尽管还不能确认它是否真的死了，但是已经消灭掉了新的克隆体，基地也被<FONT color=#387206>{user_nick}</FONT>守住了，看来百合花不敢再发动战争什么的了。你做到了！",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "嘿嘿……再也不会有家破人亡的悲剧，再也不会有村庄被烧毁的悲剧了。太谢谢你了。 <FONT color=#387206>{user_nick}</FONT>，<FONT color=#387206>{user_nick}</FONT>你就是这个时代的救世主。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#2b2723>（拯救时代，好没有真实感啊）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "啊，对了，还有句话要对你说……那个，你能先拿着那个巨龙宝玉吗？<br>你拿着宝玉后，我再告诉你这是什么宝玉。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……比起我，我觉得这个时代的<FONT color=#387206>{user_nick}</FONT>你更适合获得这块宝玉。<br>请务必拿上这块宝玉，听我慢慢道来。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>（柯梅里纳脸上露出了笑容）</FONT><br>多美丽的宝玉啊。这是女神创造的巨龙中，拥有善良之心的巨龙， 古代龙的宝玉……一直以来都是由善良的英雄所携带。杰兰特，阿尔杰塔……即将成为未来守护者的那位……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（善良的英雄……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "尽管这三位从没聚首在一起过，但他们都继承了古代龙善良的心灵。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个，我从一开始就很好奇……未来的英雄是谁啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>（柯梅里纳突然严肃起来，开始自言自语）</FONT><br>……啊……那个……到底……能不能说呢……<br>嗯，世界已经变了，说说也无妨……额……<br>好，我告诉你！但是千万不许告诉别人！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>当然啦。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……是贝思柯德。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……我说的就是现在在王城地下的那位贝思柯德……事实上现在的贝思柯德和将来的贝思柯德很不一样……他是个温情的人……！",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "嗯，反正这是未来的事情了。现在那个宝玉……根据历史来看，应该是属于黛西的，但是现在黛西不在了。可以说现在宝玉没有主人了。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "所以我才想把这个宝玉交给<FONT color=#387206>{user_nick}</FONT>你。我觉得现在的你，已经具备了成为英雄的资格。我相信你会把宝玉用在需要的地方。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……我感觉压力很大啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……不管你做出什么决定，我都支持你。<br>只是你要把它用在什么地方时，需要先告知我。<br>因为历史有可能发生新的改变，我有责任记录历史。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……拜托了。我在这里等着你。以后你再把结果告诉我吧。<br><FONT color=#7e12d2>（先去找高级魔法师斯泰拉，告诉她百合花被消灭的事情吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_soceressstella.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "嗯？什么？<br>\n<FONT color=#7e12d2>（述说期间发生的事情）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "qkname": "再次向前迈进",
+  "data": [
+    {
+      "npc": "卡汉拉",
+      "question": "命运在指引你。现在你正往<FONT color=#a82424>女神之瞳</FONT>去啊。",
+      "answer": "",
+      "image": "qw_96.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "哦，你在关心我吗……？嗯……嗯……<br>我没事……没事。<br><FONT color=#7e12d2>（看起来明明很不好嘛）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "不管是已发生的事，还是未发生的事，命运是很奇妙的。<br>即使是失去了意志的眼睛，也依然能映照出你的决心。这让我重新认识到你是个强者啊。<br><FONT color=#7e12d2>（前往露娜莉娅心心念念的女神之瞳吧）</FONT>",
+      "answer": "",
+      "image": "qw_96.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……唔，呜呜呜呜……<br>\n<FONT color=#7e12d2>（露娜莉娅看上去十分难过）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你还好吧？露娜莉娅？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9435_qu_01.ogg}<br>我不能伤心，我不能伤心……现在没有他我一秒钟都无法忍受。<br>我怎么会变得这么软弱？他，他为什么不会厌恶我呢？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我一直在时间中穿梭，他一定很辛苦。尽管我们有缘，可他终究是生活在这个世界上的普通人类啊！这样的旅程一定会让他觉得很疲倦……因为人类很难理解我的举动……不，应该说，他们不该理解我。<FONT color=#7e12d2>（露娜莉娅的脸色变得灰暗）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我们快点去<FONT color=#a82424>女神之瞳</FONT>吧。他在等我……<br><FONT color=#7e12d2>（前往露娜莉娅心心念念的女神之瞳吧）</FONT>",
+      "answer": "",
+      "image": "qw_96.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（看露娜莉娅这么伤心……连我的心情似乎也变得忧郁了。</FONT><br>\n<FONT color=#662500>要不试试转换一下氛围？给露娜莉娅提个可以转换心情的问题吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……唔，他真的珍惜我吗？如果是那样就好了。他是个很开朗的人，正像他所说……<br><FONT color=#7e12d2>（露娜莉娅停顿了一下）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……他在女孩子之间非常受欢迎……不管去哪里，身边都围着许多女孩，也最先和女孩们亲近起来。<br>\n但是，我除了他之外，没法适应其它人，所以一般都不和人们交往……<br>\n尽管如此，他却常常会带女孩回来。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "可，可我还是很珍惜他。而且我也知道他没有什么坏心。<br>\n他只是想大家一起玩罢了，因为他是个很害怕孤独的人。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "认识他后……我才明白自己想要什么……对我来说……他真的是很重要的人。<br><FONT color=#7e12d2>（露娜莉娅嘴角露出一丝微笑，这笑容显得非常温柔。再问问别的问题吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我该怎么跟你解释呢……我想想，嗯，用面包来解释会不会容易些？我的做法就相当于是在面包上涂了黄油后，再把面包折起来。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "虽然黄油不会流动……只会凝结在一处……但折起面包后，黄油就会沾得到处都是。而且那样就能一口吃下面包了。……哎呀，早知道我就这样跟他解释了！以前他每天都跟我撒娇，说我讲的他听不懂。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我得记住了。面包和黄油……嗯……换成果酱会不会更好点？不过果酱会滴出来，吃起来不方便。啊，还是用黄油比较合适！",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "哦……？我以为这样说是最容易明白的。嗯……看来还不行。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，还是不明白。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#7e12d2>（露娜莉娅凤眼圆睁）</FONT><br><FONT color=#387206>{user_nick}，</FONT>你好直接……简直一击毙命……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……呃，是不是想说我一语中的？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "耶……你怎么知道？<br><FONT color=#7e12d2>（露娜莉娅似乎真的很惊讶。再说下去估计会越来越跑题，问点别的吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……<FONT color=#7e12d2>（露娜莉娅呆呆地看着我）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>为什么这么说？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "对普通人类说这些……对方也不能体会，还很难理解。与其这样，我觉得还是不要理解更好些。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "如果你能理解，在你理解的那一瞬间，就说明你已经不是个普通人了。嗯，就这事不行。我很感激你和我同行，但关于这事，我不能说。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "在我看来，普通人能过着普通人的生活是最理想的……因为我做不到……<br>……我……嗯，那是我最向往的。尽管他们不能理解我……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（嗯……说到这里，让我不禁想起了艾奥纳……看来他并不讨厌人类）</FONT>",
+      "answer": "",
+      "image": "qn_npc_white_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，我从以前开始，就有个问题一直很想问你。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "嗯？是什么问题？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅你……是什么？</FONT><br>\n<FONT color=#662500>你……不是人类吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9435_qu_02.ogg}<br>我来这里的目的是为了打开巨石碑之门。为了打开门……我是为了打开巨石碑之门而来的，这也是我存在的理由。<br>仔细想想我本来并不需要他的……我是怎么会非他不行的呢？为什么会这样……？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9435_qu_03.ogg}<br>我期望的就只有那一件事……那是我唯一的心愿……<br>难道我除了肩负的使命之外，就不允许拥有任何心愿吗……",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9435_qu_04.ogg}<br>无论如何，我终究是诞生了，也变得很需要他。到底是从哪里开始出错了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（看样子露娜莉娅真的很喜欢他……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>再走一会儿就到目的地了，加油，露娜莉娅。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9435_qu_05.ogg}<br>嗯，谢谢你……",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9435_qu_06.ogg}<br>还有，对不起……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？对不起什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……各种事情……要说对不起的事太多了……<br>\n<FONT color=#7e12d2>（露娜莉娅低下头，似乎不想再多说）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "啊……啊……啊啊啊啊啊啊……！！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅！！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9435_qu_07.ogg}<br>不，我不要，不要啊啊啊啊！！！他不在，他不在，他不见了！！",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9435_qu_08.ogg}<br>呜呜，不要，求求你！女神，我错了！我知道错了！求求你，求求你不要这样做……！",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9435_qu_09.ogg}<br>不要从我身边夺走他……！<br><br><br><FONT color=#7e12d2>*与队员达到同一步骤时，可以执行任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，<FONT color=#387206>{user_nick}</FONT>！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>梅里恩戴尔……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "你没事吧？你从刚才开始就失魂落魄的，别人说什么也没反应，真让人担心。出什么事了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么事……？啊！对了，露娜莉娅……露娜莉娅呢？<br>（头疼得要裂开了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "露娜莉娅？这是人名吗？这里除了<FONT color=#387206>{user_nick}</FONT>你之外，没有其他人啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃……哦……啊？话说回来，我为什么要帮助露娜莉娅？！真奇怪……？哦？耶……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "呃，虽不知道刚才发生了什么事……但我只看见<FONT color=#387206>{user_nick}</FONT>你一个人在这里，没见到其他人。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（到底是怎么回事！？更奇怪的是……我怎么会在帮助露娜莉娅？嗯……感觉头好疼）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（想不明白……可是……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（性格虽然不一样，但说话语气，个人气质都像是同一个人……如果说这里是过去的时空，那么那个露娜莉娅也是过去的露娜莉娅。到底发生了什么事，让她有那么大的变化？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（过去的露娜莉娅看起来性情十分柔弱……还有[他]……嗯……如果能知道曾经发生过什么事情，是否能有助于击败后来的露娜莉娅呢？可深深怀念那个他的露娜莉娅太可怜了……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……我不能动摇。露娜莉娅是敌人，是企图毁灭世界的邪恶……生灵。她甚至还攻击了阿尔杰塔……可她为什么这么做？）</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……所以，说到底露娜莉娅的身份是什么？他又是谁？……）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "你快到<FONT color=#a82424>痛哭墙</FONT>去吧。我刚见到佩达往那边去了。<br><FONT color=#7e12d2>（前往痛哭墙）</FONT>",
+      "answer": "",
+      "image": "qn_npc_npc_pether.png"
+    }
+  ]
+}

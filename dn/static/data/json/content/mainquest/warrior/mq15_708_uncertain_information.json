@@ -1,0 +1,239 @@
+{
+  "qkname": "可疑的谍报",
+  "data": [
+    {
+      "npc": "察提",
+      "question": "搞什么？你怎么又来这里？"
+    },
+    {},
+    {},
+    {
+      "npc": "西戴尔",
+      "question": "\n<FONT color=#7e12d2>（西戴尔好像陷入了沉思）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你在想什么呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我不知道老师还有其他的兄弟姐妹。<br><FONT color=#a82424>那个男人</FONT>，居然和老师称兄道妹的，这年纪也太不像了吧。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>应该是使用魔法阻止了衰老。</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#7e12d2>（西戴尔低声说）</FONT><br>我也在旁边听说了……，可是从理论上说，是不可能通过时空控制魔法达到那种效果的。实际上大部分的时间魔法都是通过魔力抑制空间而产生的……<br>\n<FONT color=#7e12d2>（西戴尔就时间魔法的理论讲解了半天）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "……所以，最终还是很难抑制衰老的啊。<br>如果，光靠<FONT color=#a82424>秘传魔法</FONT>就能实现的话，佩奥里斯塔的先祖们就能活得更加长久了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这么一听还真是……那么你认为是怎么回事呢……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "那个男人肯定是……知道秘传魔法之外的其他种类的魔法，比如神圣魔法……或是古代魔法之类的。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#662500>那样也可以吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "这个嘛……隶属于佩奥里斯塔的魔法师是禁止研究秘传魔法之外的其他魔法的，虽然我也不知道是不是确实可行，但是秘传魔法和神圣魔法最开始就是从同一种魔法中分支开来的，应该不会不可能的吧……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>原来如此……西戴尔还很博学嘛。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "因，因为老师教导得比较严格……<br>还有，如果那是对<FONT color=#a82424>察提</FONT>有帮助的信息，我也很想一起去的……好可惜啊。",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>看来你，真的很喜欢察提啊？</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "呃，你怎么知道的……？！<br><FONT color=#7e12d2>（西戴尔脸颊绯红）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（这太明显了……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#a82424>察提</FONT>是一个非常有见地又善良的姑娘。<br>我想不到的部分，她都能为我考虑到。",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你说的……，和我认识的察提完全不同啊……</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "不，不是那样的。这是因为你和<FONT color=#a82424>察提</FONT>还不太熟的缘故，因为常做噩梦，我总是睡不好觉，她知道后就总是会帮我找到有助于睡眠的药草，她想得多周到啊。",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>噩梦……？</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "那是我从小就会经常做的噩梦。<br>一个巨大的绿色怪物出现并伤害人类的噩梦……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那一定很辛苦……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "吃下察提给的药草之后，我就可以深深地入睡了。<br>老师应该比我更辛苦吧……<br>啊，还有……你也是……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我没事，这不算什么。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "你真是个强大的孩子。<br>看上去不像是和老师得了一样的病啊。",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "什么啊？你怎么来这里了？<br>这里可没什么要你处理的事，你赶紧回到<FONT color=#a82424>西戴尔</FONT>那儿吧。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "那，我和老师还有话要说……<br>你就先去<FONT color=#a82424>利物沃特村庄废墟</FONT>见见<FONT color=#a82424>那个男人</FONT>吧。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "察提",
+      "question": "什么啊？你怎么来这里了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我是想从那个人口中获得一些有关失踪原住民的消息……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "那就好说了。<br>因为我已经听说了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "我不是说过吗？有个值得信任的人。<br>我跟你介绍下，就是救过我的那位。<br><FONT color=#7e12d2>（察提以崇拜的眼神望着卡拉翰）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "啊……现在你也了解到我那悲惨的过去了啊。在面对秘传魔法的激流和命运的仇恨时，我只能抛弃佩奥里斯塔的名誉，我那段悲惨的故事啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不明白你在说什么。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "嗯？难道卡拉秋没有说过我的事情吗？<br>这可真是可惜啊，那么，就来听听我那华丽非凡如同电影一般神奇的历史吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>现在重要的是，请按照约定告诉我原住民的信息。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "额，好吧。我那宏伟壮大的叙事诗日后再聊，到时候我们两个人一起度过一段温馨甜蜜的时间吧。要是听了我的那段故事，你也会对我崇拜得五体投地的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，好……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "原住民的痕迹留在了<FONT color=#a82424>古代武器库的东边</FONT>那里。",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>古代武器库？</FONT>",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "是的。<FONT color=#a82424>古代武器库</FONT>是古代人为了保存自己的遗物而建造的仓库。为了使那地方起到保存遗物作用，古代人创造了很多魔法生命，遍布在那里。对你们来说，那里的危险是致命的，就如同我的魅力一般！呵呵。",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "要是准备不充分，很有可能会吃大亏的。<br>你们回去准备一下吧。<br><FONT color=#7e12d2>（回到西戴尔那里）</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    }
+  ]
+}

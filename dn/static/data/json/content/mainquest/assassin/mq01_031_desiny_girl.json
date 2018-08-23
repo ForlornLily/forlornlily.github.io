@@ -1,0 +1,176 @@
+{
+  "qkname": "命运的少女",
+  "data": [
+    {
+      "question": "<FONT color=#7e12d2>(有个上了年纪的老人发现了</FONT> <FONT color=#387206>{user_nick}</FONT><FONT color=#7e12d2>，显得很高兴)</FONT><br>\n ",
+      "answer": ""
+    },
+    {
+      "question": "<br><FONT color=#7e12d2>(失去了意识，不清楚后来发生了什么事)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "看来你好像没有受伤。<br>你是怎么遇上那种危险的事情的……咳咳咳咳。",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "不过还算好，咳咳咳咳……<br>你们两人当时看上去精疲力竭，我还担心会出什么事呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个女人的身体怎么样？</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "别太担心。那个姑娘只是太虚弱了。<br>她一个弱女子，好像吃了不少苦头。",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "对了，冒险家。<br>\n那个姑娘的身体很弱，你能帮我去搜集一些药草吗？<br>我看她好像是你的同伴……",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "实在不好意思，现在实在腾不出人手……咳咳咳咳。<br>我们实在没有余力去照顾那个姑娘。咳咳……<br>\n",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……？</FONT><br>\n<FONT color=#662500>发生什么事了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "几天前，我孙女被兽人劫持了。<br>很多冒险家在千方百计地寻找那个孩子，但直到现在都没什么消息。",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "啊……不用你操心了。她应该已经不在这附近了，唉。<br><FONT color=#7e12d2>(海洛德叹了口气)<br></FONT>眼下更应该担心与你同行的那个姑娘…….",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "她现在一直在睡觉，吃点滋补品的话，也许能很快恢复。<br>好了，你快到阴影森林山麓去搜集药草吧。",
+      "answer": "",
+      "image": "qw_1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？但是我不会战斗……啊……<br>我也不是冒险家……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "<FONT color=#7e12d2>(村长海洛德用怀疑的眼神看着我)<br></FONT>只要去山麓上采一些药草就行，连这都做不了吗？<br>\n这种事情连我的孙女们都能做到。希望你快去快回。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "???",
+      "question": "呵呵呵……我就是你。",
+      "answer": ""
+    },
+    {
+      "question": " <br>\n<FONT color=#7e12d2>(最好先把少女送到村里去)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "只要到<FONT color=#a82424>阴影森林山麓</FONT>去搜集一些阴影森林蒲公英就行。<br>听说在那里的深处可以找到。请注意安全。",
+      "answer": "",
+      "image": "qw_1.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "你还真是个让人值得信赖的<FONT color=#387206>{user_class}</FONT>呢，如果你需要<FONT color=#a82424>[详细教程]</FONT>的话，你随时都可以来找我。<br>适应训练可是相当重要的哦，咳咳……",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "是吗？嗯，适应训练非常重要。咳咳咳咳……<br>可以的话，我现在就可以让你进入<FONT color=#a82424>[详细教程]</FONT>。怎么样？",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "对不起。那里每次只能进入<FONT color=#a82424>一个人</FONT>。<br>\n以后再跟我说<FONT color=#a82424>[我想接受教程]</FONT>，我就把你送过去。需要的话，请尽管说。",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "好的，我马上把你送到为新手冒险家特别准备的修炼场去。<br>祝你好运。",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "以后如果需要接受[<FONT color=#a82424>详细教程</FONT>]的话，可以随时跟我说。<br>适应训练是非常重要的事情。咳咳咳咳。",
+      "answer": ""
+    },
+    {
+      "question": " <br>\n<FONT color=#7e12d2>按(</FONT><FONT color=#387206>[H]</FONT><FONT color=#7e12d2>键，可以呼出操作向导窗。</FONT><br>按<FONT color=#387206>[Ctrl]</FONT><FONT color=#7e12d2>键，可以显示鼠标。</FONT><br><FONT color=#7e12d2>再按一次，可以恢复原状)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……我体内的力量……这个技能到底是什么？<br>我为什么会知道战斗技巧？！)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>使用我的身体？<br>你这家伙……一定是和那个女人一起出现在我面前的那个家伙吧？ <br>你到底是谁？！</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "???",
+      "question": "ndnpc_Illusion_qu_0031_02.ogg}<br>切，你自己太弱了，我是在帮你，免得你死在那种垃圾魔物手上……<br>你难道不应该对我表示感激吗？<br>呵呵……",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "ndnpc_Illusion_qu_0031_03.ogg}<br>别搞错了。<br>在你的体内帮你战斗的是我。<br>是我，而不是你！",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "ndnpc_Illusion_qu_0031_04.ogg}<br>把你这孱弱的身体交给我吧。<br>我还有要紧的事情要做。<br>我需要找到一样东西。",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "ndnpc_Illusion_qu_0031_01.ogg}<br>呵呵呵……你能看见我吗？<br>我就是你。<br>在你体内用着你的身体。",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "乖乖地把身体交给更有能力的人吧。<br>别白费劲了。"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "哦，找到啦。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的，给。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这种东西真的能做成药吗？</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "qkname": "谁也别信",
+  "data": [
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "啊，对了。<FONT color=#a82424>伊贝尔</FONT>又给你寄了<FONT color=#a82424>信</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "不知怎么，我从反女神派收到的联络全部都是伊贝尔给你的信……总觉得我变成了信鸽啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>她应该和贝勒尼卡大人一样，因为我被特里亚那边知道了长相，所以让我在停战协定签订之前不要到处乱跑吧。<br>（打开伊贝尔的信）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔的信",
+      "question": "<FONT color=#086171>再次致信给你真是抱歉，</FONT> <FONT color=#387206>{user_nick}</FONT><FONT color=#086171>大人。<br>但是，我现在已经能回到</FONT><FONT color=#a82424>梅尔卡</FONT><FONT color=#086171>了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔的信",
+      "question": "<FONT color=#086171>我必须仔细打听关于格雷尔失踪的事情，所以我要去苍翠的风之平原的舅舅家看看。如果</FONT> <FONT color=#387206>{user_nick}</FONT><FONT color=#086171>大人能够和我一起去就好了。/FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（伊贝尔回来了？我还是快去</FONT><FONT color=#a82424>苍翠的风之平原</FONT><FONT color=#662500>看看吧！）</FONT>",
+      "answer": "",
+      "image": "qw_108.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>谢谢你把信转交给我，贝勒尼卡大人。下次再见！<br>（又把点燃的信交给了贝勒尼卡）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "……哼，我才不会又被弄到呢。<br><FONT color=#7e12d2>（贝勒尼卡皱着眉，立刻把信丢到了外面</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "<FONT color=#7e12d2>（似乎非常生气）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔的舅舅",
+      "question": "所以说，格雷尔死了可不是我的错啊。呜呜。"
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "我再和你说一遍，现在是敏感时期，你不要去惹麻烦，知道了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "ndnpc_Hiver_9722_qu_01.ogg}<br>如果格雷尔真的像舅舅说的那样已经死去，那尸体不是应该在墓地里吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>（什么？格雷尔死了？这到底是怎么回事？！！）</FONT>",
+      "answer": "",
+      "image": "qn_grele.png"
+    },
+    {
+      "npc": "伊贝尔的舅舅",
+      "question": "我不是说了吗，他被盗贼团袭击，然后死了啊！尸体实在是惨不忍睹，所以就火化了。虽然很对不起你，但是这都是为了你啊。呜呜……",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "格雷尔死了，您不应该第一个告诉我吗？连句话都没有……一开始您不是说他只是失踪了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔的舅舅",
+      "question": "那，那是因为一开始他确实是失踪了啊！但是，打听了一下才知道是遭到袭击而死了！而且，如果告诉你他的死讯，你肯定会很伤心……",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "ionSurprise}<br>……请不要说谎。您是怕如果告诉我他的死讯，我就不再寄钱来了吧？",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔的舅舅",
+      "question": "哈！这孩子现在说的这叫什么话！谁在乎你送来的那点钱啊！你寄来的那点钱，连我们吃饭都不够，你还在这里说这种话！",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔的舅舅",
+      "question": "是啊，我就是有什么目的又怎么样？！那你呢，你为了什么<FONT color=#a82424>反女神派</FONT> 活动，你们家都被灭了，大家都知道，你还在这里顶撞我？！！",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "……哈哈。我明白了。总之，舅舅知道我送来的钱不够，也知道我为了反女神派工作的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔的舅舅",
+      "question": "是，是啊！那又怎么样？！！！",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "舅舅，为什么舅舅拿不出任何证据证明格雷尔已经死了？就算真是火化了，那也应该有骨灰吧。",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "ndnpc_Hiver_9722_qu_02.ogg}<br>……请听好了。我一定要找到格雷尔。我现在只有格雷尔一个亲人了，所以我一定会想尽一切办法找到他。而且如果格雷尔还活着，那这一切的代价就要让舅舅来偿还。",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔的舅舅",
+      "question": "……哇，你现在是在威胁你舅舅吗？好啊~！好，那你这家伙就去找 <FONT color=#a82424>特里亚</FONT> 领主大人吧！",
+      "answer": "",
+      "image": "qw_tryan.png"
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "……！！！",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔的舅舅",
+      "question": "那你要我这个手无缚鸡之力的舅舅怎么办？查尔德领主大人来到这儿，拿出钱来，要我把那家伙交出来！ 你不也是因为查尔德才失去了家人吗！我也没办法！我也不想这样啊！",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "……我知道了。<br><FONT color=#7e12d2>（伊贝尔收回了剑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔的舅舅",
+      "question": "我没错！查尔德就是法律！我没错啊！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊……你果然在这儿，伊贝尔。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "刚才真是抱歉了。舅舅的行为实在让人太生气了，所以我什么都听不进去。",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "有着血缘关系的人居然……我反复告诉自己，要去相信才能有变化……但是我的心里总是有个声音，让我谁也别信，相信了就会被背叛……呜呜……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>请不要自责，这不是无可奈何的吗？而且，如果真是</FONT><FONT color=#a82424>特里亚</FONT><FONT color=#662500>带走了</FONT><FONT color=#a82424>格雷尔</FONT><FONT color=#662500>，那现在该怎么办呢？</FONT>",
+      "answer": "",
+      "image": "qw_tryan.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "<FONT color=#a82424>特里亚</FONT>应该确信我是<FONT color=#a82424>反女神派</FONT>，才会把我的弟弟抓去当诱饵。然后通过我来引出<FONT color=#387206>{user_nick}</FONT>大人。",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔的舅舅",
+      "question": "ionPain}<br>我没错！查尔德就是法律！我没错啊！"
+    }
+  ]
+}

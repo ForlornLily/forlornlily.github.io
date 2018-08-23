@@ -1,0 +1,126 @@
+{
+  "qkname": "复活的尸体",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "<FONT color=#a82424>柯梅里纳</FONT>被<FONT color=#a82424>凯伊</FONT>哥哥……他怎么可能做这种事？<br>是的……一定是姐姐看错了……",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "现在还不能确定<FONT color=#a82424>凯伊</FONT>哥哥杀死了<FONT color=#a82424>柯梅里纳</FONT>，所以，姐姐最好再去发现尸体的地方看看。 ",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9547_qu_01.ogg}<br>也有可能是姐姐看错了。<br>也许凯伊哥哥也和姐姐一样，发现柯梅里纳死了非常吃惊，所以逃走了。这也是有可能的，不是吗？<br><FONT color=#7e12d2>（埃提亚的声音中透着急切）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（呜呜……可怜的埃提亚……！她拼命想要相信凯伊……好像又哭了……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>对，没错！<br>凯伊那家伙也对突发状况没什么经验！<br>虽然他总嘲笑我是笨蛋，但凯伊他自己随机应变的能力也很弱啊！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "没错，是这样的……<br><FONT color=#7e12d2>（埃提亚苦涩地笑着）</FONT><br>所以，姐姐最好再去一趟<FONT color=#a82424>奇迹祭坛保护区，看看那里有没有什么线索……</FONT>",
+      "answer": "",
+      "image": "qw_69.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "我……相信<FONT color=#a82424>凯伊</FONT>哥哥……",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "啊，你……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃啊啊啊啊~~！尸体复活啦！！<br>啊，你不会是僵尸吧？柯梅里纳也像巴尔纳那样变成僵尸了吗~~~？！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "我不是僵尸。我的确是你认识的那个柯梅里纳。<br>我正在调查一件事，为了寻找相关资料所以来到了这里。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真的吗？你是活的柯梅里纳？<br>我之前在这里看到了柯梅里纳你的尸体，吓死我了！我还以为你死了，原来还活着啊……真是太好了！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "啊……那具尸体……<br><FONT color=#7e12d2>（柯梅里纳暧昧地笑着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？你知道那具尸体是怎么回事吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "是的，我知道。<br>用人类的说法……啊不，用通俗的说法来说的话，那具尸体可以说是相当于我的双胞胎姐妹。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>双胞胎姐妹？！<br>难怪你们长得那么像……对不起！你的姐妹死了，我还说什么僵尸之类的奇怪的话！<br>嗯这种时候应该说……请节哀顺变……愿她安息……呜呜……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……虽然不知道该做什么反应，但你应该是想安慰我吧。<br>谢谢。<br>不过，<FONT color=#387206>{user_nick}</FONT>，你为什么来这里呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！对了，你在这附近看到</FONT><FONT color=#a82424>凯伊</FONT><FONT color=#662500>了吗？</FONT>",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……虽然不知道凯伊是谁……但我看到过一个在这危险的实验室周围徘徊的少年。<br>我最后一次见到他，是在<FONT color=#a82424>狂人研究所</FONT>附近。",
+      "answer": "",
+      "image": "qw_70.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊……谢谢你，柯梅里纳！<br>我现在就把这个消息告诉</FONT><FONT color=#a82424>埃提亚</FONT><FONT color=#662500>，那我们下次再见咯！</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（最好把凯伊的消息告诉埃提亚。去</FONT><FONT color=#a82424>神圣天堂</FONT><FONT color=#662500>找埃提亚吧）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "欢迎回来，姐姐。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "那具尸体……还在那里吗？",
+      "answer": ""
+    }
+  ]
+}

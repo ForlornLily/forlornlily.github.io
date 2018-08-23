@@ -1,0 +1,139 @@
+{
+  "qkname": "谁是骗子",
+  "data": [
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你来得正好。好像神殿骑士团终于找到<FONT color=#a82424>贝思柯德</FONT>的行踪了。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "据报告，贝思柯德在<FONT color=#a82424>陨石坠落地边界地区</FONT>露面了。好了，你赶快出发吧。",
+      "answer": "",
+      "image": "qw_60.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "如果我拿到<FONT color=#a94407>杰兰特的剑</FONT>，就立刻和<FONT color=#a82424>先知</FONT>一起去寻找巴尔纳，将其净化。<br>你准备好了的话，就赶紧来<FONT color=#a82424>陨石坠落地边界地区</FONT>吧。",
+      "answer": "",
+      "image": "qw_60.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>（特拉玛依和贝思柯德之间有种奇妙的紧张气氛）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "好久不见，特拉玛伊。<br>你隐藏行踪这么久，终于露面的原因……跟<FONT color=#a82424>巴尔纳</FONT>有关吧？",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "…………<br>贝思柯德，我们俩这样面对面呆久了也没什么好处，我就长话短说了。<br>你身上带着的<FONT color=#a82424>杰兰特的剑</FONT>，希望你能把它交给我。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你要<FONT color=#a94407>杰兰特的剑</FONT>干什么？<br>你也不像是晚年忽然对舞刀弄剑感兴趣的人……？",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "都过了50年了，你这爱讽刺人的语气还是一点没变。<br>我没时间跟你一一说明理由。<br>要是不给，我只能硬抢了……<br><FONT color=#7e12d2>(特拉玛伊摆出了战斗姿势)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "哈哈，除了一身硬骨头一无是处的家伙，嘴倒挺能说……",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "他……那个人是……黑骑士……<br><FONT color=#7e12d2>（萝丝的脸色十分苍白）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#7e12d2>（特拉玛依和贝思柯德之间流动着一种微妙的紧张感）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "…………<br><FONT color=#7e12d2>（萝丝的脸色十分苍白）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#a82424>古代人……？</FONT>……？<br>她明明被<FONT color=#a82424>伊格纳西奥</FONT>带走了，现在是怎么回事？<br>她怎么会跟你在一起？",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>她原来跟龙之追随者在一起，然后特拉玛依救了她！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#a82424>那个人</FONT>好不容易才把心心念念的<FONT color=#086171>古代人的后裔</FONT>弄到手，怎么可能那么轻易就被你们抢走……<br>哼，真是荒唐。<br><FONT color=#7e12d2>（贝思柯德仔细打量着萝丝）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "果然不出我所料……<br><FONT color=#7e12d2>（贝思柯德从萝丝身上收回了视线）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我感觉不到古代人的力量。<br>这个孩子要不就是已经丧失了古代人的力量，要不就是假冒古代人后裔的<FONT color=#a82424>冒牌货</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真的吗？那么，先知骗了我们咯？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "先知很好地发挥了先知的能力。<br>贝思柯德，你才不要说荒唐话了。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "那样的话，就很可能是个假冒的。<br>她的身体无法承载古代人的力量，却说了谎。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "…………<br><FONT color=#7e12d2>（萝丝的脸色十分苍白）</FONT>"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "好久不见，虽然想跟你叙叙旧，但我还有别的事情，先失陪了。<br><FONT color=#7e12d2>（贝思柯德说完，就消失了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "…………<br><FONT color=#7e12d2>（萝丝的脸色十分苍白）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "贝思柯德好像去<FONT color=#a82424>恶灵阴影</FONT>那边了。",
+      "answer": "",
+      "image": "qw_61.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "不能就这样放走贝思柯德。<br>你赶快去<FONT color=#a82424>恶灵阴影</FONT>吧。",
+      "answer": "",
+      "image": "qw_61.png"
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "qkname": "追踪黑骑士",
+  "data": [
+    {
+      "npc": "黑骑士",
+      "question": "让开，别妨碍我！"
+    },
+    {
+      "npc": "萝丝",
+      "question": "<FONT color=#7e12d2>（眼睛茫然无神，看上去好像受到了黑骑士的支配）</FONT>"
+    },
+    {
+      "npc": "冒险家公会成员韦伯",
+      "question": "嗯……谁……谁啊？<br><FONT color=#7e12d2>（因为受了伤，所以脸色不太好）</FONT>"
+    },
+    {
+      "npc": "受伤的冒险家",
+      "question": "<FONT color=#7e12d2>（看上去好像失去了意识）</FONT>"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "你去见见水晶谷入口的<FONT color=#a82424>侦察兵福古斯</FONT>吧。"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "你是说黑骑士出现在叹息峡谷，把少女抢走了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>是的……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "看来黑骑士也在觊觎<FONT color=#a82424>古代人的力量</FONT>……<br>我们不能就这样坐以待毙。必须马上联络冒险家公会，追踪<FONT color=#a82424>黑骑士</FONT>。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也愿意帮忙。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "谢谢你。那么，请向<FONT color=#a82424>冒险家公会会长戴卡德</FONT>报告现在的情况吧。",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "谢谢你，不过似乎你还没有做好对抗这里怪物的准备。你最好再积累些实力后再来帮助我们吧。",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "你去见见水晶谷入口的<FONT color=#a82424>侦察兵福古斯</FONT>吧。",
+      "answer": "",
+      "image": "qn_ranger_fugus.png"
+    },
+    {
+      "npc": "冒险家公会成员韦伯",
+      "question": "嗯……谁……谁啊？<br><FONT color=#7e12d2>（因为受了伤，所以脸色不太好）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "受伤的冒险家",
+      "question": "<FONT color=#7e12d2>（看上去好像失去了意识）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑骑士",
+      "question": "让开，别妨碍我！",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "<FONT color=#7e12d2>（眼睛茫然无神，看上去好像受到了黑骑士的支配）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "什么呀？这是。<br>\n<FONT color=#7e12d2>（银发女剑客嫌麻烦并不理睬）</FONT>"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "请尽快将这个消息报告给<FONT color=#a82424>冒险家公会会长戴卡德</FONT>。",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "你来得正好。<br>你说<FONT color=#a82424>黑骑士</FONT>出现把少女劫走了？",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "ionRefusal}<br>嗯……不论<FONT color=#a82424>神圣天堂</FONT>还是<FONT color=#a82424>魔法山脊</FONT>都有眼线，所以我原本是想通过冒险家将这件事不漏风声地解决掉……看来，这是我的失误。",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "黑骑士是最近出现的身份不明的人物。<br>有人说黑骑士是<FONT color=#a82424>龙之追随者</FONT>或者<FONT color=#a82424>龙的手下</FONT>，不过可能只是一个传闻。他的行踪非常可疑。",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "你是说<FONT color=#a82424>龙之追随者</FONT>？顾名思义应该就是追随龙的组织。他们立下教义说只要服从于龙，就能获得拯救，真是不可理喻。",
+      "answer": "",
+      "image": "qm_dragonsycophant.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "遗憾的是，这种疯狂的团体在王室的力量无法企及的偏远之地招摇过市，光明正大地四处活动。<br>唉，世界为什么会变成这样……啧啧……",
+      "answer": "（询问其他事情）"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "对于<FONT color=#a82424>龙的手下</FONT>，我们知道的不多。<br>据说是龙对人或怪物洗脑之后，将其作为自己的心腹。因此有人说龙之追随者教团的创始者是龙的手下。",
+      "answer": "（询问其他事情）"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "最近神圣天堂的兵力和黑山的怪物们之间的冲突日渐频繁，他是个多次出现在现场的危险人物。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "而且，将2艘从神圣天堂开往凯德拉的飞艇破坏的人也是他。虽然不知道黑骑士的目的到底是什么，不过可以确定一定是他袭击了村子。",
+      "answer": "",
+      "image": "qw_airship.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "他非常觊觎<FONT color=#a82424>古代人的力量</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "ionRefusal}<br>公会的侦查组看到黑骑士正在赶往<FONT color=#a82424>森林圣域</FONT>。<br>所以我派公会的人在那里设下了埋伏。等着瞧吧……",
+      "answer": "",
+      "image": "qw_15.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "嗯……说不定现在已经抓住黑骑士把少女救回来了。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "你去协助完成这件事吧。<br>你走过水晶谷的桥，然后通过<FONT color=#a82424>遗忘寺院入口</FONT>就能到达<FONT color=#a82424>森林圣域</FONT>了。",
+      "answer": "",
+      "image": "qw_15.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "你目前的实力还不足以在<FONT color=#a82424>森林圣域</FONT>中活下来。<br>你先回到凯德拉做好充分准备，并积累足够的经验后再来找我吧……",
+      "answer": "",
+      "image": "qw_15.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "……我希望能去一次<FONT color=#a82424>森林圣域</FONT><FONT color=#662500>。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>黑骑士是什么人？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "黑骑士会经过森林区域。<br>你走过水晶谷的桥，然后通过<FONT color=#a82424>遗忘寺院入口</FONT>就能到达<FONT color=#a82424>森林圣域</FONT>了。",
+      "answer": "",
+      "image": "qw_15.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "我听说黑骑士正在赶往<FONT color=#a82424>森林圣域</FONT>的方向。<br>冒险家公会成员们正埋伏在森林圣域，不过不知道能否成功。<br><FONT color=#387206>{user_nick}</FONT>，请你去那里看一看。",
+      "answer": "",
+      "image": "qw_15.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "你在找前往<FONT color=#a82424>森林圣域</FONT><FONT color=#2b2723>的路线吗？走过水晶谷的桥，然后通过</FONT><FONT color=#a82424>遗忘寺院入口</FONT><FONT color=#2b2723>就可以到达了。</FONT>",
+      "answer": "",
+      "image": "qw_15.png"
+    },
+    {
+      "npc": "冒险家公会成员韦伯",
+      "question": "嗯……谁……谁啊？<br><FONT color=#7e12d2>（因为受了伤，所以脸色不太好）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我从凯德拉来。这里怎么样了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会员韦伯",
+      "question": "你是从公会过来的吗？呃……我们为了攻击黑骑士埋伏在了这里，可全都不是他的对手。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>少女平安无事吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会员韦伯",
+      "question": "你是说和黑骑士在一起的红发少女吗？<br>黑骑士把她带进寺院里去了……之后就不知道怎么样了……呃呃……",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你还好吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会员韦伯",
+      "question": "嗯……我还好，请去帮助里面的公会成员吧……<br><FONT color=#7e12d2>（由于受伤，说话显得很吃力）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "受伤的冒险家",
+      "question": "我不要紧，请去帮助进入里面追赶黑骑士的同伴们吧……",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会员韦伯",
+      "question": "我还好，请去帮助里面的公会成员吧。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你来这儿做什么，小家伙？<br><FONT color=#7e12d2>（银发女剑客不耐烦地说）</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我来追踪黑骑士。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "黑骑士？吼吼……想对抗<FONT color=#a82424>黑骑士</FONT>，你的实力差得太远了吧？<br>看来你才会使一件小武器就不知道天高地厚了啊。你回去吧！",
+      "answer": ""
+    }
+  ]
+}

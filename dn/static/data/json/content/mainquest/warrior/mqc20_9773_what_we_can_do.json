@@ -1,0 +1,317 @@
+{
+  "qkname": "现在能做的事",
+  "data": [
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "好，我要说的话就是这些。要不要告诉诺尔佩大人是你的选择。<br>\n我会等着你的好消息。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(贝勒尼卡转过了头去。先回去</FONT><FONT color=#a82424>拉达梅斯</FONT><FONT color=#662500>吧。</FONT><br><FONT color=#662500>这算是公事，还是和</FONT><FONT color=#086171>诺尔佩</FONT><FONT color=#662500>的</FONT><FONT color=#086171>全息图像</FONT><FONT color=#662500> </FONT><FONT color=#662500>那边</FONT><FONT color=#662500> 报告下比较好)</FONT>",
+      "answer": "",
+      "image": "qn_hologram.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你去哪儿了？我等了你好久啊。<br>\n你先去做你该做的事吧。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "….",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "….",
+      "answer": ""
+    },
+    {
+      "npc": "可疑装置",
+      "question": "<FONT color=#7e12d2>(似乎在哪儿看过的可疑装置)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "<FONT color=#387206>{user_nick}</FONT>？现在我不好直接和你对话…… 你能去<FONT color=#086171>全息</FONT>那边说吗？",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "啊，你来这边了啊。你找到什么了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我去了卢比纳特的藏身处，但没什么收获。</FONT><br><FONT color=#662500>不过</FONT><FONT color=#086171>贝勒尼卡</FONT><FONT color=#662500>大人…… </FONT><FONT color=#7e12d2>(转达了贝勒尼卡的提议)</FONT>",
+      "answer": "",
+      "image": "qn_vernicka.png"
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "<FONT color=#7e12d2>(全息暂时停滞了。诺尔佩似乎在想什么)</FONT> ",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "……对我们来说这个建议并不坏。不管是我还是<FONT color=#387206>{user_nick}</FONT>，现在都没有精力来照顾格雷尔。贝勒尼卡大人担心<FONT color=#a82424>查尔德玛蒙</FONT>的事情我也能理解。",
+      "answer": "",
+      "image": "qn_child_mammon_shadow.png"
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "玛蒙对金钱和权力也很贪婪，但最想要的就是<FONT color=#a82424>强大的宝玉</FONT><FONT color=#2b2723>。玛蒙</FONT> 一直向这附近派遣侦察兵说不定也是感觉到了格雷尔大人的气息，打算抢夺宝玉 。",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "当然，如果要说起来，吸收了<FONT color=#a82424>特里亚</FONT>的宝玉的格雷尔比玛蒙更强……<br>\n但是玛蒙如果带着士兵出现，那不管是格雷尔还是拉达梅斯就都危险了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那我们要接受提议吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "先这么定吧。不过我们这边也要派出密探来守护格雷尔。我今天之内会选出几个信得过的人。",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "啊，这么说来，<FONT color=#a82424>杰兰特</FONT>大人回来了。<br>\n他说有话要和<FONT color=#387206>{user_nick}</FONT>你说。请去找他吧。",
+      "answer": "",
+      "image": "qn_npc_geraint_kid.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我等了你好久啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>明明是我在等你啊！你这段时间去哪儿了啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "<FONT color=#7e12d2>(杰兰特的神色黯淡了下来)</FONT> ……卢比纳特成了那样，我怎么能袖手旁观！<br>\n因为实在是太郁闷了，我就去了<FONT color=#086171>巨石碑</FONT>。我觉得说不定能发现什么，和贝思柯德也谈了谈……",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我本来想在那儿再待一段时间，但我又怕你要找我，所以就回来了。<br>不过，你去哪儿了啊？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也没办法干等着，所以去了梅尔卡的心脏。我以为卢比纳特的藏身处会有什么线索……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "卢比纳特的藏身处？所以，你发现了什么吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不，还没有……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……<FONT color=#7e12d2>(杰兰特似乎想到了什么)</FONT><br>那你打开那个看了吗？<FONT color=#086171>梅里恩戴尔的骨灰盒</FONT>啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……？没有，我只是掸了掸灰……打开骨灰盒是非常不礼貌的吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "嗯……果然。原来如此。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>？？？！什么啊，你这反应？…… 难道，在梅里恩戴尔的骨灰盒里有什么线索吗？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "不不。不是的。<br>就算那里面真的有线索，现在不管是你还是我，都打不开那个骨灰盒。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "而且，暂时……别找那个<FONT color=#a82424>治愈之杯</FONT>了。那个东西太危险了。<br>\n我会在巨石碑和阿尔特里亚那边寻找线索，你在这里等着。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？！为什么！你如果要去阿尔特里亚寻找线索，我和你一起去就行了啊！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你这笨蛋，你不是有卢比纳特的半个宝玉嘛！如果连你都去了阿尔特里亚，那万一卢比纳特的结界出了什么问题可怎么办？<br>\n如果卢比纳特出了什么事……。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "所以你就在这里待着。我来搜集情报。<br>\n如果发现了什么，我马上就回来，那时候我们再一起行动。嗯？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(杰兰特……似乎在强忍泪水)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了……那我就留在这里帮助诺尔佩。如果你找到线索我们马上就行动。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……谢谢你，<FONT color=#387206>{user_nick}</FONT>。我一定会找到治疗卢比纳特的方法……",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "那我就回到<FONT color=#086171>巨石碑</FONT>去了。我马上就回来，你在拉达梅斯做你能做的事情吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(杰兰特转过了头。看来他马上就要去巨石碑了……</FONT><br>\n<FONT color=#662500>这么说来还得告诉</FONT><FONT color=#086171>阿尔克</FONT><FONT color=#662500>暂时不用找治愈之杯的事情)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(虽然就这么停止寻找</FONT><FONT color=#a82424>治愈之杯</FONT><FONT color=#662500>有点不爽……<br>阿尔克说过他去了</FONT><FONT color=#086171>扭曲的区域</FONT><FONT color=#662500>的</FONT><FONT color=#a82424>贫瘠沙沼</FONT><FONT color=#662500>。去那里看看吧)</FONT>",
+      "answer": "",
+      "image": "qw_120.png"
+    },
+    {
+      "npc": "阿尔克",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你来了啊。我正打算联系拉达梅斯那边。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "<FONT color=#387206>{user_nick}</FONT>你走了之后，我继续寻找线索，但是没什么发现……抱歉啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没关系。其实我有话要说。</FONT><FONT color=#7e12d2>(转达了杰兰特说的话)</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_kid.png"
+    },
+    {
+      "npc": "阿尔克",
+      "question": "……杰兰特是这么说的啊。不过如果他亲自去了 <FONT color=#086171>巨石碑</FONT>，他应该能带来比我们东奔西走更珍贵的情报吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>本来想请你来帮忙的……抱歉啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "没事。<FONT color=#387206>{user_nick}</FONT>如果不需要我了，那我当然会尊重你的想法。<br>\n不用在意。<br>如果你之后还要寻找治愈之杯，那时候我再来帮助你吧。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "……啊，说起来……<br>如果可以的话，我能拜托你一件事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>当然了。我现在也没什么事……你要拜托什么事情呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "其实我在等<FONT color=#387206>{user_nick}</FONT>你的时候发现了一个奇妙的东西。<br>一开始我以为是拉达梅斯的东西，但是它周围的气息非常不祥……",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "所以想请你看看。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "请来这边。<FONT color=#7e12d2> (阿尔克走到了前面。跟他走吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "<FONT color=#7e12d2>(阿尔克站在了</FONT><FONT color=#a82424>可疑装置</FONT><FONT color=#7e12d2>旁边)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "就是这个。你知道这是什么吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这是……！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(这和我以前在</FONT><FONT color=#a82424>扭曲的泉水</FONT><FONT color=#662500>看过的装置一样啊？！</FONT><br><FONT color=#662500>难道 </FONT><FONT color=#086171>伊贝尔</FONT><FONT color=#662500>来了这附近吗？……不，伊贝尔在北边的</FONT><FONT color=#086171>冰海</FONT><FONT color=#662500>啊)</FONT>",
+      "answer": "",
+      "image": "qn_child_hiver.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(先查看一下吧。</FONT><br><FONT color=#662500>……嗯，有些奇怪啊。总感觉有点……粗制滥造？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "看来这果然不是拉达梅斯的东西啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>似乎是这样的。我觉得还是先给</FONT><FONT color=#a82424>诺尔佩</FONT><FONT color=#662500>大人看看吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "拜托你了。我去了拉达梅斯会有麻烦，我就先回<FONT color=#a82424>卡特德拉忏悔室</FONT>看看有没有其他异常情况吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(把装置带回</FONT><FONT color=#a82424>拉达梅斯</FONT><FONT color=#662500>给</FONT><FONT color=#086171>诺尔佩</FONT><FONT color=#662500>看看吧。以防万一，最好悄悄地带去吧)</FONT>",
+      "answer": "",
+      "image": "qn_nophee.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "<FONT color=#7e12d2>(诺尔佩疲惫地操纵着全息控制装置)</FONT><br><FONT color=#387206>{user_nick}</FONT>？我现在不好和你直接对话……你能和全息对话吗？",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>等等，其实我在</FONT><FONT color=#086171>贫瘠沙沼</FONT><FONT color=#662500>发现了这个…… </FONT><FONT color=#7e12d2>(展示装置，说明前因后果)</FONT>",
+      "answer": ""
+    }
+  ]
+}

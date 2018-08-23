@@ -1,0 +1,157 @@
+{
+  "qkname": "幻象",
+  "data": [
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "听说其他冒险家去给悬浮装置充能了……？",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "你也要到<FONT color=#a82424>沉睡者神殿</FONT>去吗？<br>一定要注意安全。",
+      "answer": "",
+      "image": "qw_16.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我们快出发吧。到<FONT color=#a82424>沉睡者神殿</FONT>去。<br>我会跟着过去。",
+      "answer": "",
+      "image": "qw_16.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……那个穿红衣服的精灵，好像认识你。<br>但那应该不是你。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "穿红衣的黑暗精灵",
+      "question": "……！！<br>幻象！你还活着吗？<br><FONT color=#7e12d2>(黑暗精灵好像非常吃惊，走了过来)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "干嘛？那副表情？你不是来找我<FONT color=#a82424>埃雷娜</FONT>的吗？<br><FONT color=#a82424>幻象</FONT>，你为什么会在这里？这段时间……<br>算了，我不需要知道这些。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "鹰身人情妇没有回来，事情变得一团糟。<br>先知一定是被人类藏了起来。那些不知天高地厚的东西！<br>等着瞧！我一定要让他们知道我的厉害！",
+      "answer": "",
+      "image": "qm_harpyred.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(先知，应该是说萝丝吧？)</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "我按照国王的命令，来把先知带回去。没想到竟然被人类横插一脚……呵呵呵。<br>\n真是可笑。<br>袭击者埋伏点的<FONT color=#a82424>小精灵制造装置</FONT>差不多完成了。只要那个东西一启动，世界就清静了。",
+      "answer": "",
+      "image": "qp_hobgoblin_maker.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……</FONT><br>\n<FONT color=#662500>把这种事情告诉我，没关系吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "嘻嘻，有什么不行的？<br>\n你，难道会来妨碍我吗？会吗？<br>还是别的什么？幻象，我为什么要堤防你？",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "我和你一向很谈得来。<br>\n你和那些装腔作势的家伙不同。<br>这段时间你到底跑哪儿去了？幻象？",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "有人认为你叛变了，不过我不这么想。<br>如果你真的叛变了，我们的国王早就把你抓起来了，就像那个讨厌的<FONT color=#a82424>竞技场的骑士</FONT>一样。<br>怎么可能会让你在外面逍遥五十年。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(五十年？竞技场的骑士？</FONT><br>\n<FONT color=#662500>……国王？！)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "回答我，幻象。<br>\n……你干嘛穿着哪种菜鸟冒险家的服装啊？",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "……也是，我想也是。<br>不管怎样都没关系。<br><FONT color=#7e12d2>(埃雷娜转过了身)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "我很忙，先失陪了。<br>……啊，对了。你的位置被一个浑身散发臭味的<FONT color=#a82424>兽人</FONT>占据了。<br>\n我想你一定知道吧。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "呵呵……那些不知分寸的人类，好像已经到了。<br>为了使用<FONT color=#a82424>古代人的遗迹</FONT>，呵呵呵呵。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "\n我一定要利用那些愚蠢的人类，查明幕后黑手。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n啊，好像又穿越时间了……",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n……<br>好像又穿越时间了。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "知不知道穿越到了哪个时间？<br>……不知道。<br>\n过去和未来，对我来说都一样。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>在见到埃雷娜之前，时间好像也扭曲了……</FONT><br>\n<FONT color=#662500>所以一共穿越了两次。对吧？</FONT>",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "也许吧。<br>但是对我而言，两次和三次都是一样的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>对我而言可不一样。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "啊，是吗？<br>\n那可不太好。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(唉，我到底该说什么呢……)</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>总之先回水晶谷去吧。</FONT>",
+      "answer": ""
+    }
+  ]
+}

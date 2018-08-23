@@ -1,0 +1,118 @@
+{
+  "qkname": "真实之镜",
+  "data": [
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "嗯，你向<FONT color=#a82424>西戴尔</FONT>求助了吗？",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(转述与贝思柯德的对话)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你去告诉<FONT color=#a82424>泰兰斯·特拉玛依</FONT>，<br>叫他别再干预这件事情……",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "哼，也就是说，<FONT color=#a82424>贝思柯德</FONT>打算亲自处理巴尔纳吗？",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "贝思柯德……虽然与他志不同道不合，可是50年前，在我心里我们毕竟是彼此肝胆相照的战友……<br>看来是我太天真了，竟还对他抱有一丝期待……",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#a82424>巴尔纳</FONT>是守护了阿尔特里亚的英雄……<br>不能褒奖这个为了世界牺牲自己的英雄就算了，绝对不能再玷污死者的名誉。",
+      "answer": "",
+      "image": "qn_npc_death_knight.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>特拉玛依……</FONT>",
+      "answer": "",
+      "image": "qn_npc_death_knight.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你去见西戴尔的时候，我们也做了一些调查。查找了除<FONT color=#a82424>杰兰特的剑</FONT>以外，还有没有能扼制巴尔纳身上的邪恶诅咒的媒介。",
+      "answer": "",
+      "image": "qp_geraint_sword.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>找到别的办法了吗？</FONT>",
+      "answer": "",
+      "image": "qp_geraint_sword.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "是的。虽然只是莲花沼泽里流传的传说……可是只要有一点可能性，就得努力试试看。据传说，很久很久以前，古代人之间发生战争的时候，为了净化那些被抓住的堕落的古代人，善良的古代人们制作了蕴含女神力量的圣物。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "那个东西叫做<FONT color=#a82424>真实之镜</FONT>。<br>据说要是看着真实之镜，就会映照出自己虚伪的模样，然后被吸入镜子里。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "如果传说是真的，那么就能把操控巴尔纳的邪恶力量关到镜子里去。然后用先知的力量就可以净化巴尔纳了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>在哪里可以找到真实之镜？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "神殿骑士团正在多方面进行寻找。你去帮我查看一下<FONT color=#a82424>恶灵阴影</FONT>那边。如果在那里发现有散发出神圣力量的镜子，就把它带回来。<br>那东西说不定就是<FONT color=#a82424>真实之镜</FONT>。",
+      "answer": "",
+      "image": "qw_61.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你在<FONT color=#a82424>恶灵阴影</FONT>里有什么发现吗？",
+      "answer": "",
+      "image": "qw_61.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么也没找到。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "咳……不像想象中的那么容易啊。<br><FONT color=#7e12d2>(特拉玛依摸着下巴)</FONT><br>应该就在莲花沼泽的某处……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>如果是莲花沼泽的原住民，会不会知道一些信息？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "对，如果是原住民，说不定会知道点什么。<br>西戴尔跟原住民有些交情，去找西戴尔打听真实之镜的信息好了。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "咳……不像想象中的那么容易啊。<br><FONT color=#7e12d2>(特拉玛依摸着下巴)</FONT><br>得再搜集点信息。我很快会再联系你。这段时间你好好训练。<br>※ <FONT color=#7e12d2>只有55级以上角色才能执行下一个任务。</FONT>",
+      "answer": ""
+    }
+  ]
+}

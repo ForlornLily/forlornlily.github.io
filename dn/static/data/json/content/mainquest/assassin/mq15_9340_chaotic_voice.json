@@ -1,0 +1,197 @@
+{
+  "qkname": "混乱中的声音",
+  "data": [
+    {
+      "npc": "商人洛西塔",
+      "question": "你好，冒险家。",
+      "answer": ""
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "察提姐姐的爷爷……还没救出来吗？<br>希望大家能在一起快乐地生活……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(露娜莉娅说看见冒险家们到龙之追随者据点去了。<br>不知道时间又扭曲成什么样了。不知道会在那里遇到什么人……不过最好还是去看看。)</FONT>",
+      "answer": "",
+      "image": "qw_54.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#a82424>龙之追随者据点</FONT>。<br>去不去，决定权在你。我只是跟着你罢了。",
+      "answer": "",
+      "image": "qw_54.png"
+    },
+    {
+      "npc": "幻象",
+      "question": "ndnpc_Illusion_qu_9340_01.ogg}<br>\n你还不知道吗？<br>愚蠢的过去的我。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……我没什么话好说了。",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "呜呜……爷爷……抱歉我来晚了……<br>我…我已经早点赶来的……<br>爷爷……",
+      "answer": ""
+    },
+    {
+      "npc": "察提的爷爷",
+      "question": "ionStand}<br>不，不……孩子。你能现在过来，我就已经很感谢先祖了。<br>咳咳咳咳……现在爷爷我……要到先祖们那边去了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(到底是怎么回事？……不是说察提已经死了吗……？<br>难道又穿越时间了吗……？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "我不要！不行！你不能留下察提一个人！<br>我还需要爷爷！",
+      "answer": ""
+    },
+    {
+      "npc": "察提的爷爷",
+      "question": "对不起，察提……咳咳咳咳……今后我们部落就交给你了……<br>我把我们部落的圣地……告诉你……<br><FONT color=#7e12d2>(察提的爷爷在察提的耳边说了些什么)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提的爷爷",
+      "question": "咳咳咳咳……龙之追随者对我进行拷问，想知道圣地的位置……<br>但是爷爷我……呵呵……守住了先祖们的秘密……",
+      "answer": ""
+    },
+    {
+      "npc": "察提的爷爷",
+      "question": "ionDie}<br>察提……你也一定要……守住这个秘密……<br>\n守护好龙的宝玉……<br><FONT color=#7e12d2>(察提的爷爷闭上了眼睛)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "不～！爷爷！求你……求你睁开眼睛！<br>求你……别扔下我一个人……求你了……呜呜……<br><FONT color=#7e12d2>(察提悲伤地放声大哭)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>…….</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "走开……走开。求你，让我和爷爷……两个人待一会儿……<br>呜呜……爷爷……呜呜……<br><FONT color=#7e12d2>(察提把身子缩成一团，把头埋在爷爷的胸口)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>察提，嗯……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "<FONT color=#7e12d2>(察提正在抱着逐渐冷去的爷爷的尸体哭泣)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "ndnpc_Illusion_qu_9340_01.ogg}<br>你还不知道吗？愚蠢的过去的我。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你是谁？是在我体内出现的幻象吗？还是拥有实体的本人？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "ndnpc_Illusion_qu_9340_02.ogg}<br>……我是你。<br>你是过去的我。在浪费了很多时间之后，你才最终变成了我。",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "ndnpc_Illusion_qu_9340_03.ogg}<br>我不是告诉你了吗？<br>那个女人在骗你。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你在说什么啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "ndnpc_Illusion_qu_9340_04.ogg}<br>那个女人知道不让你成为时间的迷童的方法。<br>但是她却没有告诉你。",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "ndnpc_Illusion_qu_9340_05.ogg}<br>为了让你发疯。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你说什么？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "ndnpc_Illusion_qu_9340_06.ogg}<br>愚蠢的家伙……",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "ndnpc_Illusion_qu_9340_07.ogg}<br>她是想等你疯掉之后，再把你浪费掉的时间倒转回去。<br>让你变成充满悔恨的时间的迷童之后。<br>\n愚蠢的过去的我……",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "看见幻象了？<br>你问我有没有听到他的声音？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "没有，我看不见。<br>我怎么能看到你的想法？那是你内心的那个人给你看的幻象。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ionStand1}<br>你其实是在和自己对话。<br>我是没办法知道的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>看上去就像真的一样。没有分离开来，而是我体内的那个他？<br>……搞不明白。我越来越不知道这是哪里，现在是什么时候，我是谁，他是谁了……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我和你的时间混乱现象正在逐渐变得严重起来。<br>在你的世界中，时间按照顺行结构运转的只有你一个人。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "看来黑暗女神官埃克莱尔制造的工具的力量也已经耗尽了。<br>必须寻找更强的什么东西才行。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>更强的什么东西……？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#2b2723>是的，拥有强大力量的什么东西。<br>需要……能抓住你我的时间的东西。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>总之先到利物沃特码头那边去看看吧。<br>反正站在这里也不会有什么改变。</FONT>",
+      "answer": "",
+      "image": "qw_liverwortferry.png"
+    }
+  ]
+}

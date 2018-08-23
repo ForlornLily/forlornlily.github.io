@@ -1,0 +1,234 @@
+{
+  "qkname": "沉睡的先知",
+  "data": [
+    {
+      "npc": "杰兰特",
+      "question": "你最好是去外面那个充满活力的世界，寻找自己该做的事情。"
+    },
+    {
+      "npc": "萝丝",
+      "question": "…….<br><FONT color=#7e12d2>（没有任何反应，似乎是睡着了。）</FONT>"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "我很担心<FONT color=#a82424>先知</FONT>。<br>虽然救出了先知，但她一直沉睡不醒，所以我们无法知道她到底拥有什么力量，以及女神所要传达的事情，不是吗？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "所以……我要亲自前去利用教团的秘典试着唤醒先知。<br>你可以去转告<FONT color=#a82424>杰兰特</FONT>吗？",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "现在，除你之外，没有人能见到<FONT color=#a82424>杰兰特</FONT>。无论是英勇士兵的枪剑，还是魔法师们的法力，都无法打开那扇设置了结界的门。所以你去请他允许我进去吧。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "…….<br><FONT color=#7e12d2>（没有任何反应，似乎是睡着了。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "…女神教团？<br>啊，是<FONT color=#a82424>特拉玛依</FONT>所属的那个教团吧。",
+      "answer": "",
+      "image": "qn_cleric_teramai_silhouette.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "教皇？……嗯。不久前还只是个风华正茂的<FONT color=#a82424>年轻牧师</FONT>，现在已经是教皇了。<br>人类的世界里真是光阴似箭啊。",
+      "answer": "",
+      "image": "qn_cleric_teramai_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>那是50年前的事吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "是啊。<br>他是个诚实善良的人。",
+      "answer": "",
+      "image": "qn_cleric_teramai_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（居然说50年前是不久前。和阿尔杰塔一样……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "<FONT color=#a82424>特拉玛依</FONT>要来吗？",
+      "answer": "",
+      "image": "qn_cleric_teramai_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>不是。主教伊格纳西奥说他要来。</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "是吗？我不认识他。<br>不论他是谁，以人类的力量是无法唤醒<FONT color=#a82424>古代人的后裔</FONT>的。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>可是……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "\n……要不是亲眼所见，人类是不会轻易相信的。<br>回去转告我的话。<br><FONT color=#a82424>特拉玛依</FONT>亲自来的话，我就允许他进来。",
+      "image": "qn_cleric_teramai_silhouette.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "人类的力量无法唤醒<FONT color=#a82424>古代</FONT><FONT color=#a82424>人的后裔</FONT>。<br>不过，如果是<FONT color=#a82424>特拉玛依</FONT>的话，我就允许他进来。<br>回去转告吧。",
+      "answer": "",
+      "image": "qn_cleric_teramai_silhouette.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "也就是说如果<FONT color=#a82424>特拉玛依</FONT>教皇不亲自来的话，就不允许进入。嗯……知道了。<br>他执意如此的话也没有办法。",
+      "answer": "",
+      "image": "qn_cleric_teramai_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>不能请来特拉玛依教皇吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "没办法，突然要去请她的话比较困难。<br>如何是好呢。<br>\n<FONT color=#7e12d2>（主教叹息着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你也是神殿骑士团的一员，应该有所耳闻。<br>女神教团的现任教皇<FONT color=#a82424>特拉玛依</FONT>很久以前就隐居了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道这件事。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "虽然这件事没有在世间流传，但国家的要员都大概了解。<br>其实，女神教团的现任教皇<FONT color=#a82424>特拉玛依</FONT>很久以前就隐居了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>隐居？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "是啊。很遗憾，他的去向完全是个秘密。就连我这个教团第二号人物也全然不知他现在在哪儿。所以要怎么请来呢？",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "不过，我们还是不能放弃唤醒<FONT color=#a82424>先知</FONT>。<br>而且也有必要确认他的话是否属实吧？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "那么，我来翻阅教团的记录寻找治疗方法，你就先下去休息吧。<br><FONT color=#7e12d2>（达到32级后，才可进行下一阶段。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "不凑巧，我们没有办法唤醒沉睡中的先知。<br>记录中有一种叫做<FONT color=#a82424>圣水</FONT>的东西，毕竟那是古代之物，没有留存至今。<br>\n<FONT color=#7e12d2>（主教摇着头）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "很惭愧，看来必须寻求魔法师的帮助了。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "<FONT color=#2b2723>……我已经和宫廷魔法师卡拉安说好了。你去的话应该会帮你的。</FONT>",
+      "answer": "呃，你们的关系不太好……",
+      "image": "qn_npc_royal_magician_kalaen.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "\n<FONT color=#2b2723>……</FONT>现在不是计较那些陈年老账的时候。虽然不知道她是怎么想的<FONT color=#2b2723>……</FONT>你赶快去看看吧。<FONT color=#7e12d2>（伊格纳西奥仁慈地笑着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "你在这儿晃悠什么呢？<br>……喂，我又没叫你走！<br>真是个不识趣的家伙。你不是有事吗？<br>\n<FONT color=#7e12d2>（卡拉安发着神经）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "哼，那个<FONT color=#a82424>狡猾的</FONT>家伙，又在搞什么把戏，居然那种态度？真搞不清楚。可疑，真是~太可疑了。",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "\n不管怎样，你！将特别有机会亲眼见识一下<FONT color=#a82424>佩奥里斯塔</FONT>惊人的能力。<br>\n ",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "\n你，尽快前往<FONT color=#a82424>孤岛中心</FONT>搜集些<FONT color=#a82424>梦幻草</FONT>回来吧。<br>因为需要那些从怪物的腹中生长的植物，所以你先去消灭孤岛中心的强大怪物吧。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "怎么？你还没走吗？去 <FONT color=#a82424>孤岛中心</FONT>搜集<FONT color=#a82424>梦幻草</FONT>回来吧。<br>我将让你见识到佩奥里斯塔的伟大力量！",
+      "answer": "",
+      "image": "qw_33.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "嗯。看你长得弱不禁风，还挺有本事的嘛？<br>你还是清醒清醒，离开那个<FONT color=#a82424>狡猾的</FONT>主教吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>那么用这个来做什么呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "你急什么？沉睡的先知又不会跑掉？<br>现在，要将<FONT color=#a82424>梦幻草</FONT>制成<FONT color=#a82424>梦粉</FONT>。<br>你知道梦粉是什么吗？",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "吼吼吼吼。我告诉你吧，听好了。这是<FONT color=#a82424>可以进入沉睡者梦中的</FONT>魔法粉末。因为一直沉睡不醒一般都是精神上的问题，所以进入其梦境直接问一问当事者是最快的方法。<br>而且还很便捷。",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "它不可以经常使用，是我特别为你做的，你要感到荣幸哦！<br><FONT color=#7e12d2>（卡拉安用各种调味料搅拌着梦幻草）</FONT><br>虽然香味扑鼻，但你可不能吃。知道吗？",
+      "answer": ""
+    },
+    {
+      "npc": "完成任务",
+      "question": "\n ",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "给，都好了。<br><FONT color=#7e12d2>（递过一撮粗略研磨后香味扑鼻的梦幻草）<br></FONT>你拿走吧。",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "qkname": "突如其来的告别",
+  "data": [
+    {
+      "npc": "暗影喵",
+      "question": "喵？你又变回善良的徒弟了吗喵？！！<br>欢迎你喵！欢迎！欢迎喵！欢！喵！……嗯？奇怪喵？",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "嗯？你要到利物沃特码头去吗喵？<br>再见喵～希望你能找到想找的东西喵～",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我们回去吧，<FONT color=#387206>{user_nick}。<br></FONT>因为你的选择，新的道路打开了。<br>\n到<FONT color=#a82424>利物沃特码头</FONT>方向去吧。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_qu_9349_01.ogg}<br>好不容易来到了这里。<br>感觉好像经过了非常漫长的岁月一样。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我还是有点混乱。<br>我是谁？属于哪里？我还是搞不太清楚。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也知道，就算回到过去，也没办法像过去那样生活了。<br>我没办法回去了，是吧？露娜莉娅，你从一开始就知道这一点。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>幻象吞掉我的时候，他是和你一起又穿越到了过去。<br>我原来所在的那个过去。<br>我想要回去的那个过去。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>但是那里有另一个我，就像幻象和我看起来似乎是不同的人一样，那里的我也已经是另一个我了。<br>幻象……不，我……我杀死了过去的我。对吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_qu_9349_02.ogg}<br>杀死他的人，是幻象。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>但是是我的身体。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_qu_9349_03.ogg}<br>……你一定很恨我吧，<FONT color=#387206>{user_nick}？</FONT><br>从你的立场上来看，这一切不过是一起不愉快的事故罢了。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_qu_9349_04.ogg}<br>幻象虽然是你，但又不是你。<br>你被卷入了幻象的执着，最终成为了时间的迷童。和我一起被困在无法确定今天的下一天是不是明天的世界里。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_qu_9349_05.ogg}<br>你恨我吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……我不知道恨不恨。<br>但遇到这种事情的人不止我一个。露娜莉娅，你也是时间的迷童。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不，我不恨你。<br>因为遇到这种事情的人不止我一个。露娜莉娅，你不也一样吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你一直在这样的世界中生活。<br>生活在一个不知道现在在哪里，不知道即将发生的事情到底是不是未来的世界中。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_qu_9349_06.ogg}<br>不开花也能结果的世界。<br>在播种之前果实就已经失去了光华的世界。<br>遥远未来的痛苦与甜美的快乐共存的混沌的世界。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_qu_9349_07.ogg}<br>我不能让你经历那种混乱。<br>幻象说的对，一开始我就选择错了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……露娜莉娅？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_qu_9349_08.ogg}<br>现在我要让你从这个迷宫中出去。<br>我要把你从即使不断往上爬也会掉回到无尽地狱之中的<FONT color=#a82424>无限地狱刑罚</FONT>中解放出来。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_qu_9349_09.ogg}<br><FONT color=#387206>{user_nick},</FONT> 我一直在欺骗你。<br>因为我一直待在你身边，所以让你经历了无数次时间的混乱。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_qu_9349_10.ogg}<br>我现在决定放开你。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_qu_9349_11.ogg}<br>我承认，我是在依赖你。<br>……从我们在很久很久以前或者很久很久以后的第一次见面时开始，我一直在依赖你。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_qu_9349_12.ogg}<br>对不起。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……对不起。",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "干嘛喵？<br>又在找什么东西吗喵？我暗影喵不是狗，所以帮不了你喵。",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "……嗯？上次你变得很可怕，说要找一个女人。到现在还没找到吗喵？<br>唉……<FONT color=#387206>{user_nick}</FONT>，真不知道说什么好喵。我的第十二个姐姐说，那么执着的话，会把女人吓跑的喵。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(不是执着，我只是想知道她最后说的话是什么意思罢了。<br>此外也有点担心她……)</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "看你这么认真，我怎么能不帮忙呢喵？<br>挠挠……我想了想，找人的事情虽然猫不行，但好像有人可以喵。",
+      "answer": ""
+    }
+  ]
+}

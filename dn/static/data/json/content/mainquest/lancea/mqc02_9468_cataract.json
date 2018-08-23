@@ -1,0 +1,385 @@
+{
+  "qkname": "凯德拉关卡",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "看来是要去那个叫做凯德拉关卡的地方。知道了，姐姐。<br><FONT color=#7e12d2>（埃提亚费劲地想要起身）</FONT>",
+      "answer": "",
+      "image": "qw_cataractgateway.dd"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你能走吗？？前往凯德拉关卡这一路上，姐姐我会保护好你的。<br>相信我，埃提亚。</FONT>",
+      "answer": "",
+      "image": "qw_cataractgateway.dd"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "嗯，从地图上看，<FONT color=#a82424>凯德拉关卡</FONT>就在那~边，融解森林另一面的水晶谷方向。<br>那么，我们现在就去吧。",
+      "answer": "",
+      "image": "qw_cataractgateway.dd"
+    },
+    {
+      "npc": "凯伊",
+      "question": "<FONT color=#387206>{user_nick}</FONT>……<br><FONT color=#7e12d2>（凯伊有些过意不去地望着这边）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "我不是说了吗，现在不能回家。埃提亚，你没把我的话转告她吗？",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "不是的，哥哥。<br>我们要去往<FONT color=#a82424>凯德拉关卡</FONT>。",
+      "answer": "",
+      "image": "qw_cataractgateway.dd"
+    },
+    {
+      "npc": "凯伊",
+      "question": "凯德拉关卡？",
+      "answer": "",
+      "image": "qw_cataractgateway.dd"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "我们知道觊觎秘传之球和贤者法杖的那帮家伙现在好像正在打一个少女的主意。<br>要是找到那个少女的话，应该会再次碰到龙之追随者的。所以我们正在前往凯德拉关卡。<br>不过，哥哥你……是担心我们会回家，所以才守在这里的吗？",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "诶，怎么会。<br>呵呵！我也是有任务在身的！<br><FONT color=#7e12d2>（好像是想调节一下气氛，凯伊美不滋地说）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "不是的！？我身上有非~~~常重要的事，都顾不上你们了！？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你？？吹牛吧！是什么事？说说看。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "那是……！！<FONT color=#7e12d2>（凯伊突然停顿了片刻后，又尴尬地继续说道）</FONT><br>你又不是不知道，任务必须相互保密才行。就算是对你们，也不能说。",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "凯德拉关卡……那里可不是魔法山脊这样的小村庄，到时再想见到你们岂不是更难了？<br>不过我还是会经常放飞蓝鸟的，要是发现什么线索，可要及时告诉我，知道了吗？<br>拉斯大人对我来说……也是如同父亲一样亲的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你~~又来了。又在打着我们埃提亚的主意胡说八道了！</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "<FONT color=#7e12d2>（看到我紧紧抱着埃提亚充满警戒的样子，凯伊忍不住笑了出来）</FONT><br>噗噗。我不是这个意思。拜托严肃点行不行？反正以后也不能经常见面了！<br><FONT color=#387206>埃提亚</FONT>走了那么远的路看上去有些疲惫，你们还是继续赶路吧。",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "不要去危险的地方，要照顾好自己哦。为了兄弟团！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，为了兄弟团。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "我好像之前没有见过你啊。很抱歉，你来这里是为何事？<br><FONT color=#7e12d2>（好像在水晶谷看到了凯伊。和凯伊对话之后再过来吧）</FONT>",
+      "answer": "",
+      "image": "qw_cristalstream.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "嗯？第一次见你，你来凯德拉有什么事吗？<br><FONT color=#7e12d2>（好像在水晶谷看到了凯伊。和凯伊对话之后再过来吧）</FONT>",
+      "answer": "",
+      "image": "qw_cristalstream.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "你不是说要去凯德拉关卡寻找冒险家公会吗？<br>看吧，埃提亚都那么累了。赶快到村子里去吧！<br><FONT color=#7e12d2>（现在前往凯德拉关卡吧）</FONT>",
+      "answer": "",
+      "image": "qw_cataractgateway.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "嗯？第一次见你，你来凯德拉有什么事吗？<br><FONT color=#7e12d2>（先完成要做的事后再过来吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "看你好像是个新面孔。很抱歉，请你出示可以证明自己身份的东西。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "啊，你就是来自魔法山脊的<FONT color=#387206>{user_class}</FONT><FONT color=#387206>{user_nick}</FONT>啊。我是凯德拉冒险家公会的侦察兵福古斯。<br>我接到了消息，正在等你。",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "请先去见见凯德拉关卡的<FONT color=#a82424>冒险家公会会长戴卡德</FONT>再过来吧。他正守护在有着最多人流往来的凯德拉关卡大桥的旁边。",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "请先去见见凯德拉关卡的<FONT color=#a82424>冒险家公会会长戴卡德</FONT>再过来吧。他正守护在有着最多人流往来的凯德拉关卡大桥的旁边。",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "ionRefusal}<br>嗯？我好像是第一次见你，你来凯德拉有什么事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我是为了寻找一个少女而从魔法山脊过来的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "啊啊……我接到联系了。<br>我是凯德拉的冒险家公会会长戴卡德。我正在等你。不过……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>有什么问题吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "魔法山脊方面明明联系我说会有<FONT color=#387206>被逐出师门的牧师和混混魔法师</FONT>来到这里……可是你怎么看都不像其中的任何一个。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的。我原本是有事经过魔法山脊，被偶然卷入了其中。现在正在帮忙寻找少女。<br>辛西亚还为我写了通行证。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "我看到那张通行证了，不过在最近这种事端多发的时期，仅凭一张通行证，是不足以让人相信的，不是吗？<br>既然能帮助<FONT color=#a82424>辛西亚</FONT>，看来你应该很有实力，那么你是因为什么事才开始这次旅行的呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（嗯……这问题已经被问过好几遍了，这次一定不能再引起别人的怀疑了！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我是和妹妹一起出来闯江湖的。<br>我们谨遵父亲的教诲，不能眼睁睁看着那些坏人作恶多端而袖手旁观，所以便开始寻找少女。</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "真是一位好父亲！<br>不过……看你的样子像是位富家小姐，与其白白卷入这么危险的事情，还要寻求王城部队的帮助，引起混乱，倒不如加入训练兵，怎么样？在那里可以为世界带来更多帮助的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不行的！我必须救出那个少女才行。您为什么不相信我呢？<br>为什么每个人都疑心这么重呢？？</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>在魔法山脊，贤者法杖和秘传之球可都是被我找回来的！<br>为什么大家都对我……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "哦哦~冷静点。我那么说，并不是因为不相信你，而是为了你的安全着想……<br>话都已经说到这个地步，如果你还是执意要帮忙的话，我也不阻拦了。",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "事实上，我最早收到的是<FONT color=#a82424>普雷利镇</FONT>的联络，让我帮着寻找少女。说是村长的孙女<FONT color=#a82424>萝丝</FONT>被怪物劫持，大家正在急于寻找。当然，我们无法知道那女孩到底是不是村长的孙女……",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "ionRefusal}<br>而魔法山脊则认为那个少女是<FONT color=#a94407>先知</FONT>，让我们帮忙寻找她的下落。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "不过目前为止还没有任何确切的说法。但对于存在<FONT color=#a94407>贤者的启示</FONT>的说法，实在不容我们忽视，不是吗？",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "话题扯远了。 首先，我们必须前往<FONT color=#a82424>叹息峡谷</FONT>救出被劫持的少女。虽然不能确定她是否就是古代人的后裔，但既然有人被劫持了，就应该把她救出来。",
+      "answer": "",
+      "image": "qw_14.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>叹息峡谷在哪里？</FONT>",
+      "answer": "",
+      "image": "qw_14.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "你去问把你引到这里的侦察兵福古斯吧。他会帮你的。",
+      "answer": "",
+      "image": "qn_ranger_fugus.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "你回去找侦察兵福古斯吧。他会协助你救出少女的。",
+      "answer": "",
+      "image": "qn_ranger_fugus.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "我们又见面了，<FONT color=#387206>{user_class}</FONT><FONT color=#387206>{user_nick}</FONT>。你见过公会会长戴卡德了吗？",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的。他让我向福古斯你寻求帮助。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "原来如此。<br>就在你来到这的几天前，冒险家公会的侦察队看到<FONT color=#a82424>红色鹰身人情妇</FONT>将少女劫持到了<FONT color=#a82424>叹息峡谷</FONT>。",
+      "answer": "",
+      "image": "qm_harpyred.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "当时刚好不用执勤的我追踪<FONT color=#a82424>红色鹰身人情妇</FONT>进入了<FONT color=#a82424>叹息峡谷</FONT>。结果在峡谷中，我却一不留神把它跟丢了。",
+      "answer": "",
+      "image": "qm_harpyred.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "于是我便一直留意<FONT color=#a82424>叹息峡谷</FONT>，但在那一次之后，我就再也没有见到<FONT color=#a82424>红色鹰身人情妇</FONT>了。",
+      "answer": "",
+      "image": "qm_harpyred.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那么……就再没有任何线索吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "不，并不是那样！据我推测……在<FONT color=#a82424>袭击者巢穴</FONT>驻扎着<FONT color=#a82424>黑暗精灵</FONT>。那个<FONT color=#a82424>黑暗精灵</FONT>会偶尔往来于<FONT color=#a82424>叹息峡谷</FONT>，看样子是和<FONT color=#a82424>红色鹰身人情妇</FONT>有什么关系。",
+      "answer": "",
+      "image": "qm_darkelfgray.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>有什么关系……？<br>要说有什么关系的话……黑暗精灵也是在树上出生的，所以在成长的过程中会需要鹰身人，是这样的吗？？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "<FONT color=#2b2723>……看上去挺有知识的一位小姐，怎么这么没脑子呢。</FONT><br>\n<FONT color=#7e12d2>（侦察兵福古斯对正在说明的我叹了口气，好像很失望的样子）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "虽说它们似乎有着某种关系，可是……反正它们好像定期保持着联系。因为我亲眼见过，那个黑暗精灵只要在峡谷中演奏它的竖琴，<FONT color=#a82424>红色鹰身人</FONT>就会出现。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊……那么，我们应该做些什么呢？需要让黑暗精灵把门打开吗？</FONT>",
+      "answer": "",
+      "image": "qm_darkelfgray.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "黑暗精灵和人类是宿敌，它是不会帮我们的。<br>不过，要是能拿到黑暗精灵的首领——<FONT color=#a82424>黑暗精灵暗杀者莉迪亚</FONT>所持的竖琴，说不定就能进入峡谷了。",
+      "answer": "",
+      "image": "qm_darkelfgray.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那么，我去将竖琴夺过来。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "<FONT color=#a82424>袭击者巢穴</FONT>的黑暗精灵是一种极其敏捷且力量强大的怪物。<br>你一定要小心不要被它们的舞蹈所迷惑。",
+      "answer": "",
+      "image": "qw_13.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "请你去从<FONT color=#a82424>袭击者巢穴</FONT>的<FONT color=#a82424>黑暗精灵暗杀者莉迪亚</FONT>那里把竖琴夺过来。黑暗精灵是一种非常敏捷且力量强大的怪物。你一定要小心不要被它们的舞蹈所迷惑。",
+      "answer": "",
+      "image": "qm_darkelfgray.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "噢……你果然把竖琴找回来啦。辛苦了。<br><FONT color=#7e12d2>（侦察兵福古斯的目光中充满了意外）</FONT>",
+      "answer": "",
+      "image": "qs_203.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>而且，我还发现了这个东西。觉得可能会有帮助。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "这个……这是怪物们的命令书。<br>我来看一下内容。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "嗯……根据上面的内容，<FONT color=#a82424>黑暗精灵 </FONT><FONT color=#a82424>暗杀者莉迪亚</FONT>是计划从红色鹰身人那里将少女接过来看押。很好，下面我们利用竖琴应该就能救出少女了。<br><FONT color=#a82424>啊，这……</FONT>",
+      "answer": "",
+      "image": "qm_darkelfgray.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "<FONT color=#a82424>竖琴的弦</FONT>断了。这下糟了。要是我妹妹在的话很快就能修好……没办法，只能拜托<FONT color=#a82424>艾德琳</FONT>了。她以前经常和我妹妹一起演奏竖琴。",
+      "answer": "",
+      "image": "qn_npc_archer_adellin.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你是说艾德琳吧？我这就去找她。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "刚好我在追踪红色鹰身人的时候，艾德琳也在旁边，所以她应该也听到了它们的演奏。你跟她学会黑暗精灵的竖琴演奏后，就马上前往<FONT color=#a82424>叹息峡谷</FONT>吧。",
+      "answer": "",
+      "image": "qw_14.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>竖琴演奏？？啊……怎么办……不管怎样我都会做到的！</FONT>",
+      "answer": ""
+    }
+  ]
+}

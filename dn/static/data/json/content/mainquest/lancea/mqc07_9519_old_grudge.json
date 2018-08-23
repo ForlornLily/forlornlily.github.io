@@ -1,0 +1,157 @@
+{
+  "qkname": "宿怨",
+  "data": [
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "卡拉翰肯定想去遗迹获取力量。<br>你快去<FONT color=#a82424>古代图书馆西边</FONT>看看吧。<br><FONT color=#7e12d2>（组队状态下无法进行该任务）</FONT>",
+      "answer": "",
+      "image": "qw_56.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "好了，你赶紧去<FONT color=#a82424>古代图书馆西边</FONT><FONT color=#2b2723>吧。<br></FONT><FONT color=#7e12d2>（组队状态下无法进行该任务）</FONT>",
+      "answer": "",
+      "image": "qw_56.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "真是个执拗的家伙。<br>根本用不到你，小毛孩。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "这里我会看着办的，你别管了。<br>你来也是白白送死，给你善后反而更麻烦。"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你还是跟到这里来了啊，小毛孩。 ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可是，什么叫做</FONT><FONT color=#a94407>竞技场的骑士</FONT><FONT color=#662500>……？ 听起来好酷啊！ <br>而且你逃出了实验室，我没能把你杀死……该怎么形容呢？爱憎和背叛？真刺激啊！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……你都在想些什么乱七八糟的……？<br>所谓竞技场的骑士，那只不过是很久之前我做<FONT color=#a82424>使徒</FONT>时期的称号而已。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这么说来，使徒究竟是什么呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#a82424>使徒FONT>……指的是一个男人的<FONT color=#a94407>七名家臣</FONT>。<br>像埃雷娜、伊格纳西奥、卡拉翰、塔朋金等都是那个男人的手下。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊……因为使徒是龙之追随者的首领，我以前还以为他们和龙之追随者是一样的， 都是</FONT><FONT color=#a94407>龙的粉丝团</FONT><FONT color=#662500>的成员，原来不是这样的啊？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#a94407>龙的粉丝团</FONT>……这是什么东西啊……？这个恶心的词是什么意思？<br><FONT color=#7e12d2>（贝思柯德以奇怪的眼光看过来）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你连这个都不知道？ 当然就是</FONT><FONT color=#a94407>崇拜龙的人组成的团体</FONT><FONT color=#662500>啊！ 就是这个意思，嘿嘿！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "真恶心。跟你一样，真是个愚蠢的名字。<br>……如果真是那样的话，明明杰兰特和阿尔杰塔也是龙……啊，不对，我为什么要被你愚蠢的思想影响？！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哎呀~我原来以为因为杰兰特和阿尔杰塔是善良的龙，所以想要阻止崇拜黑龙之类的恶龙的龙之追随者！但是，现在看来，龙之追随者其实跟龙的随从没什么关系，他们当上了使徒的话，离龙的随从的距离就更远了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你说的话虽然荒唐，但又微妙地切中了核心……<br>没错，使徒们追随他，其实都是有目的的。但是， <FONT color=#a82424>伊格纳西奥</FONT>和我是上一代就侍奉那个男人的家族的后裔，所以我们从不怀疑为什么要去服从他。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "不过，那只是愚昧的盲从而已。<br>我花了很长时间才领悟到这一点。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个人究竟想干什么？啊……原来不是追随龙，而是想变成龙啊？ 所以他才要搜集龙之宝玉？对吧？哇……我好像变成天才了？！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>（贝思柯德的眼神就像是看不能分类回收的食物垃圾一样）</FONT><br>……他很久以前就已经得到了龙之宝玉。<br>但是，他还没搞清楚成为龙的方法，认为自己获得的宝玉太不稳定或还不够多。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "所以他便开始觊觎另一块龙的宝玉。<br>也就是曾经作为完整的龙的<FONT color=#a82424>黑龙卡拉斯</FONT>那块……",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那就是50年前的龙之突袭</FONT><FONT color=#662500>啊！</FONT>",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "然而，黑龙的宝玉被吸到了我的体内无法取出。所以他下令让<FONT color=#a82424>卡拉翰</FONT>取出宝玉，或者研究出可以成为龙的方法。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "卡拉翰不仅研究出了变成龙的方法，而且还找到了取出宝玉的方法。于是，他便企图从我的身体里取出宝玉后自己变成龙。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我趁机从卡拉翰的研究室逃了出来。<br>之后便开始了漫长的寻找<FONT color=#a82424>古代人后裔</FONT>的生涯。<br>为了获得龙的力量……也为了报仇……",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哦……？卡拉翰想要取出宝玉，所以拿贝思柯德你的身体做实验，是吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "…………哼，只有这种不需要你操心的时候你就变机灵了。<br>但这不是你该关心的事。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>绝不能原谅他！怎么能做出这种事情呢？卡拉翰究竟……不、不对，指使卡拉翰做这种事情的男人的真面目究竟是什么？！以正义的名义，我绝不能原谅他！！</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……我对你说了太多不该说的话。<br>耽误了我追卡拉翰的时间。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你回去吧，小毛孩。<br><FONT color=#7e12d2>（回到卡拉秋那里吧）</FONT>",
+      "answer": ""
+    }
+  ]
+}

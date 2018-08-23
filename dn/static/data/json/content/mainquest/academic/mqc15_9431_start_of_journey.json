@@ -1,0 +1,134 @@
+{
+  "qkname": "旅行的开始",
+  "data": [
+    {
+      "npc": "卡汉拉",
+      "question": "\n<FONT color=#7e12d2>（卡汉拉温柔地注视着我）<br></FONT>……",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "阿努阿兰德关卡……请你前往那个精灵们的城市，<br>也是你来时的地方吧。<br><FONT color=#7e12d2>（请前往阿努阿兰德关卡）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "卡汉拉<br>你好，我在此恭候你多时了。",
+      "answer": ""
+    },
+    {
+      "question": "#VALUE!",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "请你先静下心来，好吗？<br>你来到这里是命中注定的。你的命运……就是重建已经扭曲得看不出形体的命运框架。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>命运？这是什么意思？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9431_qu_02.ogg}<br>……你来到这里是因为某人的意愿，有些事情该让你知道。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不明白，什么叫做某人的意愿，那人是谁！</FONT><br><FONT color=#662500>我得赶紧回去协助阿尔杰塔。阿尔杰塔她怎么样了？</FONT><br><FONT color=#662500>如果你在那里看见她，请告诉我！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "<FONT color=#7e12d2>（卡汉拉坚决地摇摇头）</FONT><br>你以为你去了，就能帮到银龙吗？<br>巨石碑之门开启的情况下，你在那里根本帮不上任何忙。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "等你拥有了比现在更强的实力后再来找我，我就指引你前往你该去的地方。<br>我现在的使命，就是引导你踏上你的命运旅程。<br><br><FONT color=#7e12d2>（达到Lv75以上后才能执行该任务）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不明白你的意思！！请你把我送回去！！</FONT><FONT color=#662500>我已经看够了过去的回忆！</FONT><br>\n<FONT color=#662500>对现在的我来说，还有什么事能比回去帮助阿尔杰塔阻止世界灭亡更重要？？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……<FONT color=#7e12d2>（卡汉拉露出悲伤的微笑）</FONT><br>更重要的事……呵呵，你应该再多积累些见闻，多了解些真相，变得更强大才行。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……这也是银龙对你的期望。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我实在听不懂你在说什么。</FONT><br>\n<FONT color=#662500>你能不能给我解释得直白点！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……这不是我能说得清的。<br>但既然你这样要求了，我可以将你从眼下所在的时间迷途去往现实世界的入口告诉你。剩下的路，就看你自己去走了。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……<FONT color=#a82424>监视者之塔</FONT>。<br>它位于巨石碑之门深处，是从女神的表层进入女神的深处，熔岩化作血液流淌之地的起始点。<br>你到那里去吧。巨石碑之门开启后，女神的表层与外部连通，你将一路直达目的地。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>去到那里的话，就可以返回现实世界吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……只要你依照规定的顺序前行，一定可以回去。<br>希望你不要被卷入过去。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……好吧，既然你这么说了，我愿意相信你……</FONT><br>\n<FONT color=#662500>但我从之前就有个问题想问你……你是不是我的老师？</FONT><br>\n<FONT color=#662500>你和我的老师太相像了。名字一样，外貌也非常相似。你能回答我吗……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "\n你的老师，是不是被称为古代人？<br>\n<FONT color=#7e12d2>（卡汉拉的眼神似乎正仔细地扫过我全身）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>也许吧。因为我的故乡是个古代人村庄。</FONT><br>\n<FONT color=#662500>如果照我看见的过去记忆，那应该是你建造的村庄之一。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "\n……原来如此。<br>\n我所知的历史并没有到那么久远，我无法做出判断。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是这样啊……唉，仔细想想我的老师如今已寄身在我的灵魂护身符中，不可能再现身了……<br>不好意思，对你说了这些胡话。就算是穿越了时间，也不可能发生那样的事。你对我的老师一点也不了解……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……你到<FONT color=#a82424>监视者之塔</FONT>去吧。在那里，你会找到你想要的答案。",
+      "answer": "",
+      "image": "qw_94.png"
+    },
+    {
+      "question": "任务完成",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……新开启的门被称为<FONT color=#a82424>熔岩江入口</FONT>。<br>\n<FONT color=#2b2723>位于火焰山入口附近。</FONT><FONT color=#a82424> </FONT><br>\n你通过<FONT color=#a82424>熔岩江入口</FONT>，就可以去往<FONT color=#a82424>监视者之塔</FONT>。",
+      "answer": "",
+      "image": "qw_94.png"
+    }
+  ]
+}

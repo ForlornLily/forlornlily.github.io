@@ -1,0 +1,76 @@
+{
+  "qkname": "破坏制造装置",
+  "data": [
+    {
+      "npc": "阿尔杰塔",
+      "question": "悬浮装置被大块头的食人魔吞掉了，你还被之前从未见过的黑暗精灵威胁了？<br>了不起，真是了不起… 啧啧….",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "嗯……<FONT color=#a82424>那个女人</FONT>是怎么威胁你的？你该不会什么都告诉她了吧？ ",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个....我第一次见到黑暗精灵，又害怕食人魔……</FONT>",
+      "answer": "",
+      "image": "qm_ogre_white.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "食人魔吓吓你，你就全部说出来了？！哎呀，我的头好晕…… <br>有些人除了一张美丽面容外，其他一无是处！",
+      "answer": "",
+      "image": "qm_ogre_white.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不过，我真的是……死里逃生。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "还有，<FONT color=#a82424>埃雷娜</FONT> 那个女人只要一出现，就会惹是生非！哼，不过，她怎么会来到这里呢？不会是跟踪我到这里的吧……",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你们互相认识吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "埃雷娜？她曾经带着那群你见到的小妖精惹事，结果被我教训了一顿。那件事发生还不到20年，她居然又开始捣乱了……看来这次她又准备改造小精灵，究竟要搞什么鬼。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "如果不尽快破坏那些制造装置的话， 小精灵的嚣张气焰就会扩张到整个凯德拉的！你是在袭击者埋伏点看到的？必须马上前往那里，<FONT color=#a82424> 破坏制造装置</FONT>才行。",
+      "answer": "",
+      "image": "qp_hobgoblin_maker.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你在干嘛？还不快点行动？如果觉得自己实力不足，那就努力磨练自己！",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你确实是在<FONT color=#a82424>袭击者埋伏点</FONT>见到的吧？她来这里肯定有什么阴谋……别磨蹭了，快去把制造装置全部破坏掉！",
+      "answer": "",
+      "image": "qw_18.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "辛苦了。<FONT color=#a82424>埃雷娜</FONT>具有一种能力，可以<FONT color=#a82424>随心所欲地改造生物体，或者使其受到污染</FONT>。虽然你破坏了所有的制造装置，但既然知道她在这附近，我就得好好教训教训她。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

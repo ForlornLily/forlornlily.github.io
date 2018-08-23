@@ -1,0 +1,89 @@
+{
+  "qkname": "神圣天堂的教皇",
+  "data": [
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "时过境迁，但这个地方却没有任何变化……<br><br>※ <FONT color=#7e12d2>可以在利物沃特码头的泰兰斯·特拉玛依那里接受任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "要想获得杰兰特的剑，必须知道<FONT color=#a82424>贝思柯德</FONT>的行踪。<br>贝思柯德刚好就在莲花沼泽。必须调查一下。<br>趁现在我们有先知的预言，不能错过这个时机……",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "要找到贝思柯德，需要借助神殿骑士团的力量。<br>看来必须回<FONT color=#a82424>王城</FONT>一趟才行……",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "好了<FONT color=#387206>{user_nick}</FONT>。<br>我们在神圣天堂王城见吧。",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "过了这么长时间，这里还是老样子……<br><FONT color=#7e12d2>(特拉玛依脸上带着苦涩的微笑)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "过了这么长时间，这里还是老样子……<br><br><FONT color=#7e12d2>(特拉玛依脸上带着苦涩的微笑)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "有件事我想嘱咐你。<br><FONT color=#a82424>巴尔纳</FONT>的事情……最好小心不要落入其他人的耳朵。",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我希望巴尔纳，他在人们的记忆里永远是个英雄。<br>你明白我的意思吧？",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "谢谢。<br>好的，我会正式放出孩子们……不，动员神殿骑士团开始进行搜索。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "其他地方我会派遣神殿骑士去，你就去<FONT color=#a82424>异变栖息地</FONT>看看吧。",
+      "answer": "",
+      "image": "qw_59.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你来得正好。好像神殿骑士团终于找到了<FONT color=#a82424>贝思柯德</FONT>的行踪。<br>不过……你好像有什么话想说？",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#a82424>巴尔纳</FONT>在那里出现了吗……？和谁在一起……？<br>果然，巴尔纳不是凭自己的意志在行动。",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你先去见见贝思柯德。<br>必须从他那里得到<FONT color=#a82424>杰兰特的剑</FONT>，才能净化巴尔纳。",
+      "answer": "",
+      "image": "qp_geraint_sword.png"
+    }
+  ]
+}

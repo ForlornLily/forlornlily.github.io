@@ -1,0 +1,106 @@
+{
+  "qkname": "作战已开始",
+  "data": [
+    {
+      "npc": "铁匠柏林",
+      "question": "可爱的小女孩，过得还好吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，你的事情进行得还顺利吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "铁匠柏林",
+      "question": "嗯，在像你这样的冒险家的帮助下，事情进行得很顺利。<br>尽管离完工还需要一段时间。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>祝贺你。（柏林公司终于要建立起来了啊……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "铁匠柏林",
+      "question": "什么祝贺啊……<br>不过，我现在有件事想要拜托你，你可以帮我个忙吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#2b2723>是什么事情啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "铁匠柏林",
+      "question": "在不久前的理事会议上，有人提出了一项提案。<br>是站在公司的角度上考虑，为了社会贡献和医疗领域的发展，建立医疗中心的问题。<br>嗯，我当然对此持积极态度啦。",
+      "answer": ""
+    },
+    {
+      "npc": "铁匠柏林",
+      "question": "我在寻找合适的地方时，得到了这么一个不错的消息。<br>听说K博士曾经居住过的<FONT color=#a82424>奇迹祭坛保护区</FONT>这次要对外出售。",
+      "answer": "",
+      "image": "qw_69.png"
+    },
+    {
+      "npc": "铁匠柏林",
+      "question": "之前那块地是限制开发区域，但好像因为这次事件，限制被解除了。<br>所以你去看一下那块地到底怎么样吧。",
+      "answer": "",
+      "image": "qw_69.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": "",
+      "image": "qw_69.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>网络不稳定。</FONT><br>▷ <FONT color=#7e12d2>Mission Object 设定失败。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "铁匠柏林",
+      "question": "你只要前往<FONT color=#a82424>奇迹祭坛保护区</FONT>，确认下土地面积是否充足，周围是否有魔物出没等基本的信息就行了。<br>那就拜托你啦。",
+      "answer": "",
+      "image": "qw_69.png"
+    },
+    {
+      "npc": "铁匠柏林",
+      "question": "\n哦，你回来啦。<br>\n嗯，怎么样了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>在我看来……那周围好像很危险。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "铁匠柏林",
+      "question": "是吗？嗯……既然你这么说的话，我也没什么办法了。<br>看来得重新挑选地方了。<br>辛苦你了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>（XD-27怎么会出现在这个地方……？</FONT><br><FONT color=#7e12d2>难道是百合花姐姐来到了这个世界……？</FONT><br><FONT color=#7e12d2>……不，我还不能轻易下结论。我要去获取一些详细信息……</FONT><br><FONT color=#7e12d2>使用XD-27的通信机链接学者站台吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>代号XD-27，登入成功。</FONT><br><FONT color=#2b2723>▷ </FONT><FONT color=#086171>Checking Data…………</FONT><br>▷ <FONT color=#7e12d2>Operation Desert storm.</FONT><br>▷ <FONT color=#7e12d2>正在确认详细任务，请稍等。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>荒漠风暴……？</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

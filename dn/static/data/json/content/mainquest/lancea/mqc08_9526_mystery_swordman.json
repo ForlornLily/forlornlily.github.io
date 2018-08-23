@@ -1,0 +1,272 @@
+{
+  "qkname": "奇怪的剑士",
+  "data": [
+    {
+      "npc": "西戴尔",
+      "question": "……你是怎么知道遗迹的事情的呢，<FONT color=#387206>{user_nick}</FONT>？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>噢……那是卡拉秋那次说不知道卡拉翰会做出什么事情……这是她去世之前的事情！所以，我想搞清楚卡拉翰究竟在做什么~然后我就到处跑……<br></FONT><FONT color=#662500>（最初告诉我遗迹的事情的，是贝思柯德吗？又不能说出特拉玛依的事情……啊啊……好伤脑筋啊~~）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#7e12d2>（西戴尔直愣愣地盯着</FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#7e12d2>看了一会儿，随后又像是放弃了似的笑道）</FONT><br>……好吧……像你这样的人记不住那些小事也是可能的。那也没什么重要的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没、没错！现在最重要的是打倒卡拉翰！<br>（虽然他的态度似乎从一开始就没抱什么期待……但不管怎样总算成功搪塞过去了！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "现在佩奥里斯塔的内部因为<FONT color=#a82424>卡拉秋</FONT>的死，充斥着混乱和悲伤。<br>但是，佩奥里斯塔的耻辱要由佩奥里斯塔亲手了断！",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "这次我不会像上次一样，独自鲁莽地行动了。<br>越是这种时候，就越要冷静把握对方和我之间的力量差异，联合所有力量和他对决。<br>其他高级魔法师们也同意我的话。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#a82424>卡拉翰</FONT>已经强大得能够创造<FONT color=#a82424>巢穴</FONT>了，他也已经集齐了能够支撑他力量的古代遗物。<br>不过我看他似乎还没能完全地变身为绿龙，看来除了遗物之外，应该还需要其他什么东西。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>其他什么东西？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "嗯，有关这东西我也有一定的推测，我收集了刚刚来过的高级魔法师的意见，调查了一下古代文献。<br>我还曾经从察提部族的人那里听说过有关部族传承的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "卡拉翰是佩奥里斯塔的耻辱，为了帮察提和卡拉秋报仇，为了证明我和他不是同一类人……我们一定要亲手了断了他。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（西戴尔真的变强了啊……是什么让西戴尔变得这么强？埃提亚会知道吗？）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（最好去找埃提亚）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "哎呀，姐姐？你的表情怎么这么奇怪啊？<br>西戴尔说了什么不好的事情吗？",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没有……西戴尔好像变强大了，也成长了。不知道究竟是什么让西戴尔成长了这么多。<br>可是我好像还停留在原地……所以心情有点怪怪的。</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "<FONT color=#7e12d2>（埃提亚温柔地笑着）</FONT><br>我姐姐也终于有了<FONT color=#a94407>思想</FONT>啊！<br>在我看来，姐姐开始冒险以来，也成长了很多啊！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！是嘛！我也觉得最近我好像变聪明了！<br>所以我也在成长吗？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9526_qu_01.ogg}<br>呵呵，人类本来就是在与许多人交往，经历许多事情的过程中渐渐成长起来的。<br>西戴尔他也是在经历了极大的悲痛后，才成长为一个智慧的青年。<br>不过，即使经历了同样的事情，如果不发自真心地去思考，就无法真正地强大起来，也不能成长为正直的人。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>如果没有思考反省的话，既不会真正地变强、也不会正直地长大成人……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9526_qu_02.ogg}<br>之前因为有父亲和众位长辈们的帮助，我们需要选择或思考的事情相对较少。<br>但从今往后，我们会碰到越来越多需要去认真考虑其是否正确……是否正义的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没关系的！我不是有埃提亚嘛！<br>就算是困难的事情，只要我们两个在一起，就没什么好怕的！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐……<br><FONT color=#7e12d2>（埃提亚一脸感慨万千的表情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "……<br>……<br>啊！对了，我差点忘了，<FONT color=#a82424>凯伊</FONT>哥哥找过你呢。<br>和姐姐在一起，时间过得真快啊！嘻嘻嘻……",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "虽然不知道有什么事情，但他让你去<FONT color=#a82424>女王庭院</FONT>。",
+      "answer": "",
+      "image": "qw_68.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "先知又说了什么预言吗……？<br>在这么忙的时候叫你，一定是有重要的事情吧？",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "你来得真是快~啊！<br>不用想就知道，你肯定是忙着做别的事情，把我的事忘得一干二净了吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哇~你简直可以去算卦了！你怎么知道的？嘿嘿！ </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "……原来是真的吗……<br>你这家伙真是太好猜了，真不知道该高兴还是难过……呼……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不过，特拉玛依不在，先知也不在……你找我有什么事情？<br>你是因为他们两个太严肃了，你很无聊所以叫我来玩吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "你我把当成什么人了？！<br>他们正在讨论<FONT color=#a82424>预言</FONT>相关的事情，我是特意趁有空的时候过来的！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哎……如果是在说预言之类的事情的话，那我不就说对了嘛。<br>你是因为他们谈话严肃、沉重又听不懂，觉得没意思，所以才来找我的，对吧？哈哈哈哈……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9526_qu_01.ogg}<br>你以为我是你吗？！别胡乱冤枉人！<br>我，我是因为……有，有东西要交给<FONT color=#a82424>埃提亚</FONT>，才找你来的！",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？是吗？为什么你脸红了？<br>你发烧了吗？<br>（把手放到凯伊额头上）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9526_qu_02.ogg}<br>别瞎说！<br><FONT color=#7e12d2>（凯伊闪身避开了</FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#7e12d2>的手）<br></FONT>这个你拿着！",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（哼，别人担心你还发脾气……什么啊，有什么不好意思的吗……）<br>……是胸针啊，真漂亮。<br>那我的呢？</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9526_qu_03.ogg}<br>你又没做啥讨人喜欢的事，我干嘛给你送礼物？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……啊……为什么要差别对待我和埃提亚。<br>你四岁的时候和六岁的时候做的事情我全都知道！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9526_qu_04.ogg}<br>我才不相信你有那么好的记性！！<br>再说了，真要算起来，我也知道你不少趣事哦？你直到八岁还在被子里撒……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃啊啊——！！你给我闭嘴，闭嘴！！<br>（蹦跳着想捂住凯伊的嘴，但凯伊灵活地躲避着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9526_qu_05.ogg}<br>哼，就你那小学生水准的智力，怎么赢得过我这成年人的头脑……哎呀！！<br>瞧这说着说着差点把正事给忘了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>海豚？海豚很可爱很好啊~</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "<FONT color=#7e12d2>（凯伊无语地看着</FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#7e12d2>，然后摇了摇头）</FONT><br>……啧啧，是啊，对你我还能指望什么啊。别废话了，把这个胸针给我交给埃提亚。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "我在这里等你，你把东西交给她之后就再来找我。明白了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "你回来了，姐姐？先知又做了什么新预言吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是的。<br>凯伊让我把这个交给你。<br>（把凯伊给的胸针交给埃提亚）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "啊……真是漂亮的胸针。<br>但这、这算什么啊？！姐姐你这么忙，他就因为这个让你跑一趟吗？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>就是啊。我问他没有我的份吗，他甚至说我以为我有多讨人喜欢，他为什么要送我东西。<br>凯伊是笨蛋、傻瓜、海参、海葵……卡拉秋的缓解剂……真是个讨厌的家伙，哼！</FONT>",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐说得对。<br>是凯伊哥哥错了。害你辛苦了，姐姐。<br><FONT color=#7e12d2>（埃提亚小心翼翼地抚摸着凯伊送的胸针）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不过，我去见凯伊的时候，看到了一个奇怪的人！</FONT>",
+      "answer": "",
+      "image": "qn_npc_death_knight.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "奇怪的人？你又看到了像卡拉翰一样的人吗？<br><FONT color=#7e12d2>（不知不觉卡拉翰成了奇怪的人的代名词……）</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    }
+  ]
+}

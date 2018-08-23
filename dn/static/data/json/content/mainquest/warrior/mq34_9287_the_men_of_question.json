@@ -1,0 +1,257 @@
+{
+  "qkname": "奇怪的男人",
+  "data": [
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "而且如果帮了这次的事情，也许能和精灵们培养信赖也说不定....<br>真是绝好的机会不是吗。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "ndnpc_AN_Teramai_qu_9287_01.ogg}<br>不过如你所知，因为维修王城，这里的情况也不妙。<br>他们的目的变得明确之后，由我来说服这里的人吧。<br>你就去<FONT color=#a82424>阿努阿兰德</FONT>把情况继续报告给我吧。",
+      "answer": "",
+      "image": "qw_anuarendelgateway.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "不能立刻给你答案真是可惜。<br>我担心阿努阿兰德的精灵们会不会失望呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(正如阿洁丽雅所说的呢?唔~ 该怎么传达这个消息呢...)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "还没向神圣天堂出发吗?<br>说了要向<FONT color=#a82424>特拉玛依</FONT>大人传达这儿的情况吧。",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "<FONT color=#7e12d2>(尤万西贝尔看来不是很想对话)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "拉帮结派一起行动不管是人类还是精灵都是一样的啊。你们到底在做什么?",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "别烦我。人类。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "不能立刻给你答案真是可惜。<br>我担心<FONT color=#a82424>阿努阿兰德</FONT>的精灵们会不会失望呢。",
+      "answer": "",
+      "image": "qw_anuarendelgateway.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "在这个瞬间，龙之追随者们也在破坏森林吧。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "ndnpc_AN_Archer Triana_qu_9287_01.ogg}<br>一直在等你。<br>王城的事怎么样了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个…恐怕无法立刻就提供帮助。<br>神圣天堂王城也被摧毁，也需要维修....</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>恐怕无法立刻就提供帮助。<br>因为不久前的攻击被摧毁的神圣天堂也正忙着修理呢。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "原来如此。他们也有他们的苦衷吧。<br>但不知道是不是特拉玛依大人通知的，有其他的冒险家们来帮忙了。<br>光是这些我就觉得很有帮助。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>谁来了？去哪儿了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那些人去哪儿了?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "到我们还没确认的地方去找龙之追随者了。<br><FONT color=#387206>{user_nick}</FONT>大人也快点去吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你不一起去吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>特里亚纳大人呢?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "我打算去把情况通知给长老。<br>觉得要通知准备女王选举会议会有大危险。",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "那在这儿会合吧。<br>听说<FONT color=#a82424>青铜残月林间路</FONT>里的魔物增加了。请小心。",
+      "answer": "",
+      "image": "qw_79.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "我是很想一起去，但觉得要通知长老。<br>去青铜残月林间路吧<FONT color=#387206>{user_nick}</FONT>! ",
+      "answer": "",
+      "image": "qw_79.png"
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "......<br><FONT color=#7e12d2>(尤万西贝尔正望着这片森林)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(又见面了...?)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "......<br><FONT color=#7e12d2>(看来得由我先去搭话啊)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你! 在这里干什么呢?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>在这里做什么呢?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "啊! 你是.... 和特里亚纳大人在一起的，对吧?<br><FONT color=#7e12d2>(尤万西贝尔暂时露出了高兴的脸色)</FONT>",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我在森林上寻找可疑的人，不过总是能和你碰面呢?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯。比起那个，我在森林寻找着可疑的人们...</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9287_01.ogg}<br>\n比起这个... 特里亚纳大人好好回去了吗?",
+      "answer": "又转移话题吗!?先回答我的问题!",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9287_01.ogg}<br>\n比起这个... 特里亚纳大人好好回去了吗?",
+      "answer": "为什么不回答问题总转移话题呢?",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>又要转移话题吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "我可没有理由要回答你的问题。<br><FONT color=#7e12d2>(尤万西贝尔转过身前往森林)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(什么啊? 那个男人...)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "似乎已经没有什么话可说了。<br><FONT color=#7e12d2>(尤万西贝尔望着森林)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "特里亚纳",
+      "question": "搜查的如何呢?有发现吗?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯。没什么特别的啊?</FONT><br>\n<FONT color=#662500>(虽然见到了让人在意的人...)</FONT>",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没。也没找到特别的。</FONT><br>\n<FONT color=#662500>(虽然见到了让人在意的人...)</FONT>",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "特里亚纳",
+      "question": "我知道了。因为女王选举会议我得先去趟长老那儿，以后恐怕很难一起行动了。<br>因为这样那样的原因我也变成了女王候补。<br><FONT color=#7e12d2>(特里亚纳害羞似的微笑着)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "特里亚纳",
+      "question": "<FONT color=#387206>{user_nick}</FONT>大人去给守护者生命之树的<FONT color=#a82424>阿尔杰塔</FONT>大人传达情况如何呢?<br>她那么担心森林，可能在等消息吧。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "特里亚纳",
+      "question": "<FONT color=#387206>{user_nick}</FONT>大人去给守护者生命之树的<FONT color=#a82424>阿尔杰塔</FONT>大人传达情况如何呢?<br>她那么担心森林，可能在等消息吧。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9287_01.ogg}<br>只是向精灵们传达消息，怎么会花这么长的时间?<br>你似乎和精灵们一起去森林了，那毒物已经处理好了吧?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个...</FONT> <br><FONT color=#7e12d2>(报告搜索结果)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "什么啊，那是! 没找到毒药不说，连使徒们也让他们从眼前跑了?<br>正在考虑是不是要重新把你雇佣为我的奴隶，但还是算了。",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "ndnpc_AN_Gereint Young_qu_9287_01.ogg}<br>这就是我打算救的人类吗?",
+      "answer": ""
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（阿尔杰塔旁边忽然出现了一个金发剑士。和他对话吧）</FONT>",
+      "answer": ""
+    }
+  ]
+}

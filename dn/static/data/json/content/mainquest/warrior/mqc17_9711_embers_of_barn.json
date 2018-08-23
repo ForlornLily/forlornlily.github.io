@@ -1,0 +1,164 @@
+{
+  "qkname": "库房的导火索",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝勒尼卡大人，你解除了从</FONT><FONT color=#a82424>特里亚的领地</FONT><FONT color=#662500>获得的指令书上的封印了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "我的魔法师们都很厉害。封印已经被解除了。<br>但是，内容是用某种暗号写成的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没有解读暗号的方法吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "指令书似乎是用极其麻烦的暗号写的。而且，我最擅长解读暗号的亲信因为实~在是太有能力了，正因为停战协定的事在和查尔德们接触。总之，这事应该要花很长时间。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "<FONT color=#7e12d2>（贝勒尼卡陷入沉思）</FONT><br><br><FONT color=#7e12d2>*84级以后才可执行此任务</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（让我去找卢比纳特，但又对于也许和卢比纳特有关的指令书漠不关心……？不行，如果我不做些什么……！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那就让我去见见那位亲信吧。我去哪儿才能见到他？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "……到现在这个时候你才来装出一副很努力的样子啊。到时候我自然会告诉你的……<br><FONT color=#7e12d2>（贝勒尼卡阴险地笑了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "要是你非得去，那就去<FONT color=#a82424>激战之荒地</FONT>找<FONT color=#a82424>符号学者卡尔鲁亚</FONT>吧。<br>你如果就这么去，他会起疑心的，带上市国首长的证物，拿给他看吧。/html>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "符号学者卡尔鲁亚",
+      "question": "<FONT color=#7e12d2>（一个和阿尔特里亚的</FONT><FONT color=#a82424>纹章学者贝利</FONT><FONT color=#7e12d2>长得一模一样的人。好像是从原型阿尔特里亚派生出来的人物</FONT>",
+      "answer": "",
+      "image": "qn_npc_scholar_baily.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（</FONT><FONT color=#a82424>激战之荒地</FONT><FONT color=#662500>的</FONT><FONT color=#a82424>符号学者卡尔鲁亚</FONT><FONT color=#662500>……难道他也是由阿尔特里亚的谁派生出来的复制品吗？）</FONT>",
+      "answer": "",
+      "image": "qw_105.png"
+    },
+    {
+      "npc": "符号学者卡尔鲁亚",
+      "question": "你是来找我的吗？我并不认识你，你是怎么一眼就找到我的呢……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（怎么能说他和贝利长得一模一样呢，还是把贝勒尼卡的证物给他看，蒙混过去吧）<br>我只是记住了贝勒尼卡大人告诉我的衣着容貌而已。我听说你正在解读特里亚的指令书。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "符号学者卡尔鲁亚",
+      "question": "啊……这确实是写着贝勒尼卡大人独有暗号的纹章。<br>特里亚大人的指令书……请等一下。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "符号学者卡尔鲁亚",
+      "question": "<FONT color=#7e12d2>（卡尔鲁亚从怀里的书信中抽出了一封，交给了我）</FONT><br>解读出来的内容是这样的。",
+      "answer": ""
+    },
+    {
+      "npc": "特里亚的指令书",
+      "question": "<FONT color=#086171>*领地内发现查尔德。应为觉醒不久的未分化个体。在狩猎过程中，趁巨石碑周围的混乱，逃入梅尔卡市国 内部。最近目击场所wie</FONT><FONT color=#a82424>被遗弃者的摇篮</FONT><FONT color=#086171>。第 ㅇㅇ支部的附近……</FONT><br><FONT color=#7e12d2>（之后写有详细的地区说明，总觉得是很熟悉的地方。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（刚觉醒不久的查尔德？听说查尔德是暗影龙的进化体，那究竟是怎么发生的……？而且……这个查尔德藏身的地点……怎么看都是</FONT><FONT color=#a82424>伊贝尔的家</FONT><FONT color=#662500> 附近啊……？！！难道那个</FONT><FONT color=#a82424>可疑的男人</FONT><FONT color=#662500>……？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "符号学者卡尔鲁亚",
+      "question": "你发现了什么重要的内容吗？你的脸色看上去不太好啊。<br>但是，我有个疑问啊……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>疑问？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "符号学者卡尔鲁亚",
+      "question": "我一解读完这个暗号，就通过魔法师告诉了贝勒尼卡大人指令书的内容，他为什么还要派你来呢……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？！贝勒尼卡大人已经知道了这个指令书的内容？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（贝勒尼卡大人已经知道了暗号的内容，为什么还要派我来这里？贝勒尼卡大人不认识伊贝尔，也应该不知道查尔德藏身之处是谁的家……难道只是为了防止我在梅尔卡内部被特里亚发现，才故意把我支开的吗……？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "符号学者卡尔鲁亚",
+      "question": "这……谁也猜不到贝勒尼卡大人的心思，我能帮你的就这么多了。<br>你也看到了，我现在有些忙。",
+      "answer": ""
+    },
+    {
+      "npc": "符号学者卡尔鲁亚",
+      "question": "<FONT color=#7e12d2>（似乎不能再和卡尔鲁亚对话了。我还是很担心伊贝尔的家，回去找</FONT><FONT color=#a82424>贝勒尼卡</FONT><FONT color=#7e12d2>寻求帮助吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝勒尼卡大人！贝勒尼卡大人，出大事了！所以说……！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "啊啊，我知道你要说什么。不要像快死了的人一样气喘吁吁地说话。<br><FONT color=#7e12d2>（贝勒尼卡像赶苍蝇一样挥了挥手）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……？！！虽然我不知道你都知道了些什么，逃亡的查尔德似乎藏在了反女神派的联络人伊贝尔的家里！如果我一个人去，可能会碰上特里亚，请贝勒尼卡大人派兵帮助我！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "我刚才不是已经说了，你要说的话我都知道了吗？但是我不能派兵。因为在自由中立城市，狩猎宝玉是不违法的。<br><FONT color=#7e12d2>（贝勒尼卡的眼神变得锐利了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "而且，我也不许你去那里。<br>……所以你就应该在激战之荒地多待会嘛，干嘛这么快就回来……啧……",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>难道……你已经都知道了暗号的内容，还故意把我派到卡尔鲁亚那儿去？！！</FONT>",
+      "answer": ""
+    }
+  ]
+}

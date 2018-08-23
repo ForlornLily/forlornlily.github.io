@@ -1,0 +1,104 @@
+{
+  "qkname": "另一个脚印",
+  "data": [
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "先知的力量在减弱，真遗憾……<br>嗯，希望这只是暂时的……<br>现在我们还有很多事情需要她的帮助。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>现在该怎么办呢。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我打算再放出……不，动员更多的神殿骑士去寻找贝思柯德和巴尔纳。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你帮我去搜索一下<FONT color=#a82424>陨石坠落地中心</FONT>附近。<br>那个地区很危险，如果不是你这样历练过的人，估计会很辛苦。",
+      "answer": "",
+      "image": "qw_63.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": "",
+      "image": "qw_63.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "希望能在<FONT color=#a82424>陨石坠落地中心</FONT>找到贝思柯德或巴尔纳的踪迹。",
+      "answer": "",
+      "image": "qw_63.png"
+    },
+    {
+      "npc": "？？？",
+      "question": "<FONT color=#7e12d2>(好像没什么特别的)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "？？？",
+      "question": "<FONT color=#7e12d2>(这是巴尔纳站过的地方。乍一看，没发现有什么特别的东西)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>(再仔细看看)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "？？？",
+      "question": "<FONT color=#7e12d2>(除了巴尔纳的以外，还印着别人的脚印)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "还留着别人的脚印……？<br>巴尔纳果然不是一个人行动……你看见那人往哪边去了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没有，很遗憾……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "知道了，看来得重点搜索一下陨石坠落地附近了。<br>搜索的事情我会交给其他神殿骑士，你去见见<FONT color=#a82424>先知</FONT>。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>先知吗？</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "也许上次见到贝思柯德后受了刺激，先知的脸色一直不太好。这段时间一直一言不发的，今天她忽然要找你。说是有重要的事情要拜托你。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>她要拜托我什么事？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "嗯，这个她没说。<br>你见到先知就会知道了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

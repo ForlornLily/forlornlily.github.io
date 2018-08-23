@@ -1,0 +1,271 @@
+{
+  "qkname": "约定",
+  "data": [
+    {
+      "npc": "卡汉拉",
+      "question": "命运在指引你。现在你正往痛哭墙去啊。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "不管是已发生的事，还是未发生的事，命运是很奇妙的。<br><FONT color=#7e12d2>（到痛哭墙去吧）</FONT>",
+      "answer": "",
+      "image": "qw_95.png"
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9437_qu_01.ogg}<br>怎么会这样。佩达……他已经经过这里了吗。<br>下面他可能去的地方……应该是<FONT color=#a82424>祈祷之心</FONT>。",
+      "answer": "",
+      "image": "qw_97.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>祈祷之心？</FONT><br><FONT color=#662500>（又一次和他错过了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "是的。据我和佩达的调查，那里是巨石碑气息最强盛的地方。<br>连我和佩达都不能在那附近待太长时间。<br><FONT color=#7e12d2>（梅里恩戴尔微微一笑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9437_qu_02.ogg}<br>估计那还是我第一次见到佩达疲倦的模样。<br>他无论在任何极端情况下，都不会失去自信，始终表现出坚强的面貌。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……他似乎非常强大。</FONT><br><FONT color=#662500>尽管我曾在多个时代里见过佩达，却从未和他认真交过手。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "交手？噢，呵呵。虽然你的勇气可嘉，但我奉劝你还是别这么做。因为就连精灵中拥有最强实力的我，起初也不禁要为佩达的力量所叹服。当然我现在是否会改变看法也难说。<FONT color=#7e12d2>（梅里恩戴尔露出个自信的微笑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那梅里恩戴尔你是佩达的部下吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "比起部下的称呼……也许说是同伴更为准确吧？呵呵。<br>佩达他无法使唤我，他也没这个念头，而我并不想离开他。<br>\n佩达他多么了不起啊。光是能长时间留在他身边，都是件不容易的事。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，如果你在他身边待久了，肯定也会被他吸引的。他身为人类，却成为了这片大陆上最强大的生灵。我一直对他如此强大的原因感到很好奇。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "于是我找出了这个原因！<br>\n<FONT color=#387206>{user_nick}</FONT>，你觉得这个原因是什么？",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "呵呵，你全都猜错了。他之所以如此强大，是因为他始终都是佩达。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "不好意思，我讲的方式太自我了。呵呵，我再给你解释一下……他不管是作为流浪剑士或优秀剑士时，还是受到众人尊敬的国王时，抑或是身为美丽公主的丈夫时，他始终都只是佩达这个人，他一直没变。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "虽说人类是个善变的种族，但我发现佩达从未变过。<br>\n而且，我明白了这正是佩达强大的原因。佩达他……有很强的自控能力，阻止自己改变。<br>\n我觉得这样的他，十分值得敬佩。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……我大概明白你的意思了。你想说的是他的信念吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "啊哈，这么说就容易理解多了。信念……这是个很不错的词汇。<FONT color=#7e12d2>（梅里恩戴尔露出微笑）</FONT><br>可是，即使是拥有那样坚强信念的佩达……也总有一天……",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "会比我先死。因为他是人类。我这么说没有要对女神不敬的意思，<br>但我希望他能比普通人类活得更加长久。他是个正直的人，而且把人类领导得非常好。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>佩达是这么伟大的王吗……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "嗯，我不知道在<FONT color=#387206>{user_nick}</FONT>你的时代是怎么评价佩达的……<br>\n但在眼下这个世界上，没有任何人敢与他对抗。<br>\n所有的种族都齐声赞美他是英雄王，是伟大的征服王。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9437_qu_03.ogg}<br>因此，我希望那样的佩达可以一直不要改变，永远做人类的王……。<br>事实上，不仅是我，相信他身边的同伴也都是同样的想法。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那么，你是使徒吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9437_qu_04.ogg}<br>使徒？不不，我们之间没有那样的成员。<br>我们只是因为仰慕佩达而聚集在一起的……按佩达的说法……",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9437_qu_05.ogg}<br>我们是一群<FONT color=#a94407>[吵吵闹闹又充满活力的古怪家伙]</FONT>！呵呵。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（总的来说，这个时代的佩达身边没有使徒，反而有许多像梅里恩戴尔这样的同伴……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "说到这里，我也想介绍你认识一下佩达的同伴们呢。尽管大伙们都各有特点，<br>\n但我相信他们也会和<FONT color=#387206>{user_nick}</FONT>你成为好朋友的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，不用了……我……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "通过熔岩江入口，可以前往<FONT color=#a82424>痛哭墙</FONT>。",
+      "answer": "",
+      "image": "qw_95.png"
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9437_qu_06.ogg}<br>你用不着觉得害羞。我们这些同伴都是些善良又实力出众的人。<br><FONT color=#387206>{user_nick}</FONT>你在这巨石碑中也能维持自我不失去神智，不是吗？<br>虽说有被卷入不同时空的麻烦，却也是无法避免的。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9437_qu_07.ogg}<br>佩达一向平等对待各个种族或生灵。<br>我相信你一定可以和他成为好朋友。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哈哈……你的好意我心领了，但我还得返回我生活的那个世界……</FONT><br>\n<FONT color=#662500>与我之前所在的时代相比，这里无论如何都算是过去……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "哦，是吗……<FONT color=#387206>{user_nick}</FONT>你生活的时代与我们的时代相隔很多吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，也许吧……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "有缘的话，希望我也能在<FONT color=#387206>{user_nick}</FONT>的时代认识你。<br><FONT color=#7e12d2>（梅里恩戴尔露出个微笑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（梅里恩戴尔的话让我觉得心里很不是滋味……尽管我与她的关系从未闹僵……但以前我见过的她都是很伤感的……可眼前的她，性格却很开朗……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（我很难想象眼前的梅里恩戴尔是我之前遇到的梅里恩戴尔的未来时。这样来看的话，她与我之前见过的梅里恩戴尔是同一人。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……那么，佩达也一样。佩达为什么会发生那样的转变？还是因为露娜莉娅吗？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（说到佩达的同伴，让我有点好奇啊……征服王的同伴应是非常厉害的吧……？</FONT><br>\n<FONT color=#662500>改天我得调查一下）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "哎呀，说着说着就聊起来了。瞧我这脑子……<br>\n佩达常责备我不该这么多话。<br>\n我还有事想问你呢，把正事都给忘了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>什么事？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你总是和佩达走岔，这期间有没有什么异常遭遇？<br>\n说起来之前的情况也很奇怪……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>啊，你说的是……露娜莉娅？露娜莉娅是……</FONT><br>\n<FONT color=#662500>（讲述露娜莉娅的事）</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "<FONT color=#2b2723>露娜……莉娅？这名字好耳熟……</FONT><br>\n<FONT color=#2b2723>……</FONT><br>\n<FONT color=#2b2723>……！！！！</FONT><br>\n<FONT color=#7e12d2>（梅里恩戴尔的脸色突然变得煞白）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>梅里恩戴尔？你认识露娜莉娅？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "<FONT color=#2b2723>……她怎么会在这里！</FONT><br>\n<FONT color=#2b2723>她应该在很久很久以前就消失了啊……怎么会？</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "<FONT color=#2b2723>……噢天啊。难道，难道她……不，不行。</FONT><br>\n<FONT color=#2b2723>如果她出现的话，不管是巨石碑之门，还是佩达，都不知道会发生什么事！</FONT><br>\n<FONT color=#7e12d2>（梅里恩戴尔似乎陷入了恐慌）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>梅里恩戴尔？你认识露娜莉娅吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "<FONT color=#2b2723>……如果我想得没错，也算是认识她吧……</FONT><br><FONT color=#387206>{user_nick}</FONT><FONT color=#2b2723>，你见过她也依然平安无事，我有件事想拜托你。</FONT><br><FONT color=#2b2723>如果我出了什么意外，麻烦你照顾佩达。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊？！？！？！</FONT><br>\n<FONT color=#662500>照顾佩达是什么意思……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "<FONT color=#2b2723>……我知道这个世界的许多真相，我曾发誓不会把这些好不容易得知的真相告诉任何人，</FONT><br><FONT color=#2b2723>但既然她出现了，我就只能违背誓约了……</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务完成",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "你快到<FONT color=#a82424>祈祷之心</FONT>去吧。<br>我只希望不要发生最糟的情况……<br><FONT color=#7e12d2>（梅里恩戴尔的脸色很苍白。到祈祷之心去吧。）</FONT>",
+      "answer": "",
+      "image": "qw_97.png"
+    }
+  ]
+}

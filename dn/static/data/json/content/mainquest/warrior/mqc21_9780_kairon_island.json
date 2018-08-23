@@ -1,0 +1,164 @@
+{
+  "qkname": "卡伊伦岛",
+  "data": [
+    {
+      "npc": "杰兰特",
+      "question": "什么？那家伙莫非知道了治愈之杯的下落？<br><FONT color=#7e12d2>（看来杰兰特还是没有理解贝思柯德的话……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卢比纳特虽然不知道治愈之杯的确切位置<br>但他知道如何能找到治愈之杯。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GereintKid_9780_qu_01.ogg}<br>那家伙明明知道，为什么还瞒着我们在箱子里藏东西？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这个……我刚不是说了嘛。<br>卢比纳特不希望我们找到治愈之杯。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "为什么？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（真是对牛弹琴。）<br>我怎么知道。重要的是，最后没能听清卢比纳特的意念体告诉我的信息。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "意念体说了什么？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我只听清他说卡伊伦岛。<br>貌似有人在卡伊伦岛留下了什么。至于是谁，就不得而知了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "那不是跟没听见一样。<br>先去找诺尔佩吧。说不定诺尔佩能找出蛛丝马迹。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "顺利见到杰兰特大人了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "好久不见。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "反正也搞不懂卢比纳特的意思。<br>赶快让诺尔佩看看从骨灰盒获得的信息吧。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "顺利见到杰兰特大人了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这不重要。<br>我找到治愈之杯的线索了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "真的吗？看来杰兰特大人在巨石碑找到了线索。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>说来话长……<br>杰兰特找到了打开卢比纳特藏身处梅里恩戴尔骨灰盒的钥匙<br>那个骨灰盒里封存着知晓治愈之杯下落的卢比纳特意念体。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "果然没错……卢比纳特大人早就留下了有关治愈之杯的线索。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>关键是，在最后意念体力气尽失之际，我没能听清完整的信息。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "嗯……这下可难办了。 <br>你从意念体那听到了什么？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我只听清他说卡伊伦岛。<br>好像是谁在那里留下了什么。剩下就没听到。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "卡伊伦岛……<br>是梅尔卡市国西海对岸的巨岛。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你知道那里？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "我只知道位置，其余一无所知。<br>贝勒尼卡大人应该比我更了解。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>也就是说线索就在岛上吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "ndnpc_Nophee_9780_qu_01.ogg}<br>按照意念体留下的信息，虽然不知道具体是谁留下的线索<br>但可以肯定，卡伊伦岛一定留有线索。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>太好了。我这就去询问贝勒尼卡大人有关卡伊伦岛的情况。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "即使为了前往卡伊伦岛，也需要贝勒尼卡大人的协助，祝愿你一切顺利。<br>经过上次玛蒙的事件，贝勒尼卡大人不会轻易帮忙的。 ",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "好久不见。<br>看你的样子，是有事找我。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我需要贝勒尼卡大人的帮助。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "我的帮助……<br>天下没有免费的午餐，这个道理你不会不懂吧？",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这件事关系到反女神派和梅尔卡市国的安危。</FONT>",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "qkname": "污染",
+  "data": [
+    {
+      "npc": "戴维",
+      "question": "你问我为什么会在这里？呵……<br>这是秘密！哈哈哈。"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "你，你是忠实的臣子吗？嗯？……不过不论你怎么说，朕都不会相信。呜呜……<br><FONT color=#a82424>将军道格拉斯</FONT>应该可以相信吧？将军……是个好臣子。<FONT color=#7e12d2>（卡西乌斯十分焦急）</FONT>",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "ionStand2}<br>因此<FONT color=#a82424>主教伊格纳西奥</FONT>失踪的消息我们也应该低调处理。<br>相信你应该听的懂我的话，哼哼。",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "哼，那个像浣熊一样的主教居然消失了，跟我可没关系。<br>\n哇~哈哈哈哈！",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "\n王城那边一阵骚乱。<br>\n你最好去见见<FONT color=#a82424>将军道格拉斯</FONT>。",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "不知是因为过度操心，还是因为长时间战斗的原因，你的脸色看上去很不好。<br>真让人担心。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（是因为沾染了萨芬特拉的血吗……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "该不会是和黑龙战斗时积累下的疲劳现在才爆发出来吧……真奇怪。<br>要不你去问问<FONT color=#a82424>高级弓箭手伊西莉安</FONT>吧。<br>她应该可以帮到你。",
+      "answer": "",
+      "image": "qn_npc_archer_ishilien.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "你问我为什么会在这里？呵……<br>这是秘密！哈哈哈。",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "主……主教竟然背叛了朕，还劫持了<FONT color=#a82424>先知</FONT>……难以置信。呜呜。就像斯图尔特叔父说的，这世上除了<FONT color=#a82424>叔父</FONT>没一个人可信……呜呜。<br>\n<FONT color=#7e12d2>（卡西乌斯不安地环顾着四周）</FONT>",
+      "answer": "",
+      "image": "qn_npc_duke_stwart.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "你，你是忠实的臣子吗？嗯？……不过不论你怎么说，朕都不会相信。呜呜……<br><FONT color=#a82424>将军道格拉斯</FONT>应该可以相信吧？将军……是个好臣子。<FONT color=#7e12d2>（卡西乌斯十分焦急）</FONT>",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "看来我们年幼的国王因为这件事感到非常伤心。<br>正想利用金龙和先知进行大力宣传呢……真是不巧。<br>\n（公爵叹息着）",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "最好先不要将先知和<FONT color=#a82424>金龙</FONT>消失的事张扬出去。<br>不管怎样，最重要的还是消灭了黑龙的事迹，其他的事不管发生没发生，都没什么区别。不是吗？",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "ionStand2}<br>因此<FONT color=#a82424>主教伊格纳西奥</FONT>失踪的消息我们也应该低调处理。<br>相信你应该听的懂我的话，哼哼。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "哼~我就知道会这样。我早料到了。那个<FONT color=#a82424>主教</FONT>的阴险凶恶、诡计多端，还有你愚蠢！！<br>\n<FONT color=#7e12d2>（卡拉安气势汹汹地嚷着）</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "我的判断总是对的~哦哈哈哈哈！我是个优雅的观察者。而你却是个弄丢了先知的蠢货？噢哈哈。<br>那是因为<FONT color=#a82424>先知</FONT>失踪的事不能被传到十里八乡去，所以才没处罚你。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>原来如此。</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "很好~不会把你关到监狱去了。<br>好了，在<FONT color=#a82424>公爵</FONT>改变主意之前，你赶快离开这里吧？",
+      "answer": "",
+      "image": "qn_npc_duke_stwart.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "祝你一路顺风。<br>不论在哪儿都不要失去勇气。",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "有什么事吗？你是来帮我的吗？<br>……哎呀。你，脸色很不好。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>实不相瞒……（说明情况）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "原来如此……<FONT color=#a82424>杰兰特</FONT>他……<br>感觉很奇怪……他是拥有着至高力量的龙，那样的存在居然也会失去生命……",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，如果你说的都属实的话，那你现在的情况非常危险了。因为你很有可能和那些被<FONT color=#a82424>灾殃之雨</FONT>污染的人一样，染上了严重的病。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>像被黑龙之血污染的人那样？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "是啊。从你的目光和变化的体温就能知道。<br>你也知道，这种病没有什么药可以彻底治愈。<br>不过却可以暂时缓解症状。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那就拜托了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "请你前往<FONT color=#a82424>凄凉森林幽灵村</FONT>搜集回<FONT color=#a82424>凄凉森林化石碎片</FONT>吧。以我现在持有的材料，只能制作低效药，对你的病情起不到什么作用。",
+      "answer": "",
+      "image": "qw_45.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "你把材料带回来啦。<br>我马上就来制作药剂，请稍等。<br>\n<FONT color=#7e12d2>（伊西莉安迅速开始忙活起来）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "给，药已经制作好了。<br><FONT color=#7e12d2>（递出一瓶散发着奇特香味的药剂）</FONT><br>以后就要看你的宿命了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>谢谢。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "<FONT color=#7e12d2>（将药剂喝下去之后，顿时便感到神清气爽。整个身体似乎变得舒服多了）</FONT><br>加油吧。决不能被怪物的血打败。",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "\n<FONT color=#7e12d2>（伊西莉安用她那清澈的目光注视着）</FONT><br>不过<FONT color=#a82424>阿尔杰塔</FONT>现在在哪儿呢？<br>应该把杰兰特的消息告诉她才对呀。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>她说去莲花沼泽，现在应该在那里吧。</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "很好。<FONT color=#387206>{user_nick}</FONT>你也追随阿尔杰塔前往<FONT color=#a82424>莲花沼泽</FONT>吧。对了，<FONT color=#a82424>卡拉秋</FONT>也在那儿，或许能帮上你的忙。",
+      "answer": "",
+      "image": "qn_npc_karakule_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好。正好我也有东西要转交给她。</FONT>",
+      "answer": "",
+      "image": "qn_npc_karakule_silhouette.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "那你就快去<FONT color=#a82424>赫尔马岱港口</FONT>吧。只有从那里乘船才能到达莲花沼泽。<br>愿生命之树的祝福伴随你的旅途……",
+      "answer": "",
+      "image": "qw_hermalteport.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "什么？知道我要来，特意前来迎接？吼吼吼。<br>你这家伙还挺特别的嘛？！",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "ionStand01}<br>话说回来，一段时间没见，你的样子看上去更加不幸了啊？吼吼吼。<br>那都是因为被<FONT color=#a82424>阿尔杰塔</FONT>抛弃的缘故啊~！",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不过，你怎么又回来了？</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "还能为什么？替阿尔杰塔办事呗！<br>她找到了治眼睛的良药，吩咐我拿来给<FONT color=#a82424>杰兰特</FONT>。<br>给！赶快拿去吧！",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……实不相瞒……（讲述这段时间发生的事）</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "什么什么什么，你说什么？！<FONT color=#7e12d2>（戴维惊住了）</FONT><br>你刚，刚，刚，刚才说什么？杰，杰兰特他……<br>杰兰特死……不，去世了？是真的吗？！",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……）</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "你这家伙开玩笑呢吧？<br>和世上最<FONT color=#382000>美丽、</FONT><FONT color=#7e12d2>耀眼、</FONT><FONT color=#086171>可爱的</FONT>阿尔杰塔一样强大的人，怎么可能会死？！<br>和黑龙的战斗都胜利了。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>很抱歉……的确是事实……</FONT>",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "呃呃……<FONT color=#7e12d2>（戴维撕扯着自己的头发）</FONT><br>经过我天才的头脑分析，要是我把这个消息告诉<FONT color=#a82424>阿尔杰塔</FONT>的话，毫无悬念一定会被她打死的！她一定会豪不留情地狠打我一顿的！ 呃呃~！",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "呃呃，杰兰特居然去世了，这不可能……！<br>不行。我要是就这么独自回去的话，说不上我……<FONT color=#7e12d2>（哽咽）</FONT> 很难保住性命呀……<br>你，<FONT color=#387206>{user_nick}</FONT>！杰兰特的消息由你亲自去说吧！",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>要不我也正想去莲花沼泽呢。</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "\n哦？但那个人是谁？",
+      "answer": ""
+    }
+  ]
+}

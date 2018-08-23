@@ -1,0 +1,167 @@
+{
+  "qkname": "地狱的那一头",
+  "data": [
+    {
+      "npc": "西戴尔",
+      "question": "想要对付卡拉翰，就不能这么毫无准备而去，<br>要不然到时候又会徒增无辜的受害者。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "为了去卡拉翰所在的<FONT color=#a82424>绿龙巢穴</FONT>，我打算创造<FONT color=#a82424>堕落魔石</FONT>。<br>为了接近巢穴，就需要将抵抗减少到最小化的遗迹。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "作为佩奥里斯塔的继承人，我可以创造出几乎和老师非常相似的灵气。<br>利用这个，肯定就能靠近卡拉翰的巢穴的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>要准备什么才行呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我真的要谢谢你。但是这次我会亲自来做的，材料已经准备好了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（真是厉害）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "如果可以，我想亲自消灭卡拉翰。为察提和卡拉秋大人报仇……<br>而且，我也想证明自己和他是不同的人。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "谢谢， <FONT color=#387206>{user_nick}</FONT>。我一定要消灭卡拉翰。<br>如果想要追踪他，就需要许多人的帮助。<br>你也能来帮我吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>当然</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "只要有你相伴，我的心里就很踏实。<br><FONT color=#7e12d2>（西戴尔一脸毅然决然的表情，握住了我的手）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "……在我完成未完成的使命之前，我就还没有完全继承老师的衣钵。<br><FONT color=#7e12d2>（西戴尔的视线穿过棚屋的窗户，凝望着远方）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>西戴尔……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "……在我完成未完成的使命之前，我就还没有完全继承老师的衣钵。<br>所以，我现在要去和卡拉翰做个了断……去绿龙的巢穴。<br><FONT color=#7e12d2>（去绿龙巢穴吧。通过利物沃特码头就能到达绿龙巢穴。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>！！！我们做到了！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>西戴尔……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我们只是在背后帮助你，多亏了你，卡拉翰的野心才被阻止了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>对不起……但是……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "你没什么对不起我的地方。我知道我一个人是不能对卡拉翰怎么样的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "但是，失去的东西不会再回来。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>西戴尔……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#7e12d2>（西戴尔用力摇了摇头）</FONT><br>谢谢你， <FONT color=#387206>{user_nick}</FONT>。如果没有你，我们是无法和成为了龙的卡拉翰战斗的。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#7e12d2>（西戴尔深呼吸后大声喊起来，在他的声音中充满了魔力）</FONT><br>佩奥里斯塔的各位！今天！因为我们的朋友<FONT color=#387206>{user_nick}</FONT>！我们的仇人，卡拉翰被打倒了！大仇已报！他再也不能来欺骗我们了！",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "虽然卡拉翰已经陷入了沼地的泥沼中，但是我们还有事情要做！我们失去的东西太多了！现在，我们要重新建立佩奥里斯塔！",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "虽然会有很多人认为我和卡拉翰是一样的魔法师，但是我要告诉你们，我虽然和卡拉翰同样是魔法师，但我也是卡拉秋大人的弟子，继承了卡拉秋大人的意志。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "请帮助我。请帮助佩奥里斯塔。在天堂，卡拉秋大人也会看着我们，称赞我们。请帮助我，帮助我们。<br><FONT color=#7e12d2>（西戴尔又一次深呼吸，声音中的魔力消失了。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我想再次谢谢你。<FONT color=#387206>{user_nick}</FONT>.",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>西戴尔……</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "这么说来，神圣天堂里教皇大人正在等着……<br>现在应该没关系，你去见他吧。",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "察提……<br><FONT color=#7e12d2>（西戴尔看着天空，小声的喃喃自语）</FONT>",
+      "answer": ""
+    }
+  ]
+}

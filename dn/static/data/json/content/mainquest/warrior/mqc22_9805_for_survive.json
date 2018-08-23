@@ -1,0 +1,170 @@
+{
+  "qkname": "为生存而战",
+  "data": [
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "看来笼罩世界的不祥气息轻易不会消散。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>现在绝不能坐以待毙。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "我们始终需要你的力量。请立即前往迷之大陆。<br>祝愿<FONT color=#387206>{user_nick}</FONT>在路上一切顺利。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "<FONT color=#7e12d2>(贝勒尼卡看起来一脸凝重)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "快过来，<FONT color=#387206>{user_nick}</FONT>，你决定好了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>决定了。如果撇下梅尔卡，只去追寻治愈之杯，我一定会心有不安。<br>毕竟贝勒尼卡、萨拉奶奶，还有许多梅尔卡人都曾给过我很多帮助。</FONT>",
+      "answer": "",
+      "image": "qw_merca_heart.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这并不代表我放弃寻找治愈之杯了。可为了梅尔卡的心脏，我想争取更多的时间。</FONT>",
+      "answer": "",
+      "image": "qw_merca_heart.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "我知道。看来我也要制定个计划了。既然决定帮忙，那就好好筹划一下，最好把梅尔卡完全拉拢到反女神派这边。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……！诺尔佩也答应帮忙？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "不是我，是反女神派。<br><FONT color=#7e12d2>(诺尔佩微微一笑)</FONT>若想跟<FONT color=#086171>阿耶乐卡共国</FONT>取得联系，还需要点时间。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "并且，抛开办事效率和反女神派的大义不说……这样更让我心安。<br>只不过师父在天之灵，说不定会责骂我。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不过还是谢谢你，诺尔佩……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "<FONT color=#387206>{user_nick}</FONT>不必谢我。<br>不过你能帮忙打听一下<FONT color=#a82424>贝勒尼卡</FONT>大人的意思吗？相信贝勒尼卡一定对梅尔卡的安危早有对策。",
+      "answer": "",
+      "image": "qn_vernicka.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "格雷尔和其他人，我去负责劝说。<br>请<FONT color=#387206>{user_nick}</FONT>前往梅尔卡首长府，询问<FONT color=#a82424>贝勒尼卡</FONT><FONT color=#2b2723>大人</FONT>后续的计划。",
+      "answer": "",
+      "image": "qn_vernicka.png"
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "……你脸上真是藏不住秘密。<br>上面分明写着我已经知道了。也是，身为女神的仆人，要是不知道才更奇怪。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>抱歉偷听先前的谈话了。可我是特地跑来帮忙的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9805_qu_01.ogg}<br>帮忙？我看你是想打一巴掌给个甜枣吧。<br>当初梅尔卡解除中立的决定性原因是什么，你心里很清楚。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9805_qu_02.ogg}<br>我们不需要什么帮助。正如艾达特传令所说，梅尔卡若想存活，只有归顺查尔德这一条路。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9805_qu_03.ogg}<br>看来要跟距离梅尔卡最近的领主<FONT color=#a82424>查尔德海兰德尔</FONT>协商一下。如果协商不成，就先拖住对方，然后再找其他查尔德协商。这种外交问题倒是需要你来帮帮忙。",
+      "answer": "",
+      "image": "qn_hirendel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>归顺查尔德……这样一来，梅尔卡岂不成了一具傀儡。这并不是贝勒尼卡大人想要的结果啊！ </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "除此之外还有别的办法吗？<br><FONT color=#7e12d2>(贝勒尼卡的声音冰冷彻骨)</FONT>你倒是说说看啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……（嗝）维斯提内女神宣布梅尔卡市国解除中立完全是易如反掌。这种情况下，即便梅尔卡乖乖归顺查尔德，也不见得会相安无事……！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>女神随时有可能翻脸变卦。所以……还是跟反女神派联手吧。刚刚诺尔佩已经答应了，直到梅尔卡市国平安无事，他会一直支援到底。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "唉，这真是养虎为患啊。竟然爬到我头上来了。<FONT color=#7e12d2>(贝勒尼卡一脸追悔莫及)</FONT><br>你说得对，归顺并不是解决问题的办法。可也确实没别的办法啊。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9805_qu_04.ogg}<br>我不认为反女神派的军事实力和技术实力能守护梅尔卡。不过除了海兰德尔，你还认识几个志同道合的查尔德领主吧。那我先暂时接受你的提议吧。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9805_qu_05.ogg}<br>请转告诺尔佩，我决定接受提议。不过，此外我还会跟其他查尔德协商一下，这样算是做出很大让步了吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>只要梅尔卡平安无事，我就别无所求了。既然贝勒尼卡大人打算全力以赴，那我也没任何异议。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "那就别再浪费我的时间，赶快出发吧。<br><br><FONT color=#7e12d2>(获得贝勒尼卡的准许。)</FONT>把这个消息转告给<FONT color=#a82424>诺尔佩</FONT><FONT color=#7e12d2></FONT> ",
+      "answer": "",
+      "image": "qn_nophee.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "贝勒尼卡大人怎么说？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(转达对话内容)</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "嗯……果然不出我所料。这也可以理解。但正如<FONT color=#387206>{user_nick}</FONT>所说，梅尔卡被纳入查尔德的领地并不是解决问题的根本办法。",
+      "answer": ""
+    }
+  ]
+}

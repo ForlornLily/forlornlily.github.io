@@ -1,0 +1,256 @@
+{
+  "qkname": "遇见了卡拉秋",
+  "data": [
+    {
+      "npc": "阿尔杰塔",
+      "question": "你又来啦，脸皮真够厚的。<br><br>※<FONT color=#7e12d2>需要在学者站台那里接受任务才能继续进行。</FONT>",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "……如果不是因为我的话，杰兰特就不会死。<br>我真是个愚蠢的家伙。<br>※<FONT color=#7e12d2>需要在学者站台那里接受任务才能继续进行。</FONT>",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳咳，是个没礼貌的小孩啊……<br>进来的时候应该先敲门。<br>※<FONT color=#7e12d2>需要在学者站台那里接受任务才能继续进行。</FONT>",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "<FONT color=#7e12d2>（西恩和西戴尔正在说话）</FONT><br><br>※<FONT color=#7e12d2>需要在学者站台那里接受任务才能继续进行。</FONT>",
+      "image": "qn_npc_academic_station.png"
+    },
+    {},
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>网络不稳定。</FONT><br>▷ <FONT color=#7e12d2>重新设置Mission Object。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>Mission Object.</FONT><br>▷ <FONT color=#7e12d2>请访问利物沃特码头的卡拉秋的草屋，与阿尔杰塔对话。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "\n<FONT color=#a82424>阿尔杰塔</FONT>肯定还在<FONT color=#a82424>卡拉秋的草屋</FONT>。<br>\n不过，她很快就会离开那里，如果你想见她，最好抓紧时间。",
+      "answer": "",
+      "image": "qw_karakule_house.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#7e12d2>（阿尔杰塔的表情很冷淡）</FONT><br>干嘛？你来这里干什么？",
+      "answer": "（询问先知的行踪）"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "什么？<FONT color=#a82424>先知</FONT>的行踪？<br>是你们人类把先知弄丢的，为什么要来问我啊。<br>哼，如果我知道先知的行踪，你觉得我会轻易放过那些人吗？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "如果你想找到<FONT color=#a82424>先知</FONT>，我劝你还是打消念头吧。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你已经放弃……先知了吗？</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "放弃？你这么说我可不爱听。<br>从一开始，先知对我来说就没有任何意义。<br>我是因为<FONT color=#a82424>贝思柯德</FONT>那家伙才关注先知的。现在那家伙已经销声匿迹，我还会对那一无是处的、已经灭亡的古代人的后裔感兴趣吗？",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我很想将你们这些愚蠢又自私的人类全部消灭，但……想到曾经喜爱过人类的杰兰特，我才忍住不杀你们，你给我记住了。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>阿尔杰塔……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "如果你们知道什么是廉耻，就去帮<FONT color=#a82424>卡拉秋</FONT>阻止因龙之宝玉而复活的家伙吧！<br><FONT color=#7e12d2>（阿尔杰塔不想再继续对话。去和卡拉秋·佩奥里斯塔对话吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳咳，是个没大没小的小鬼啊……<br>进来时记得先敲门。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "<FONT color=#7e12d2>（西恩和西戴尔正在说话）</FONT>"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#7e12d2>（阿尔杰塔不想再继续对话。去和卡拉秋·佩奥里斯塔对话吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>Mission Object.</FONT><br>▷ <FONT color=#7e12d2>请访问利物沃特码头的卡拉秋的草屋，与卡拉秋·佩奥里斯塔对话。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳咳……<br><FONT color=#a82424>杰兰特</FONT>的死也有你的责任吗？",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "唉……现在什么都无所谓了。<br>谁会为龙的死而悲伤……<br><FONT color=#7e12d2>（卡拉秋的手微微颤抖着）</FONT><br>不过，你……？",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你与那些孩子不同，你好像没被黑龙的血所污染啊……？<br>这奇妙的违和感是怎么回事……你为什么会来到这里？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（告诉卡拉秋自己来自未来的事情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "……你是从丛林来寻找冰川的孩子啊。<br>先知不在这个地方。<br>这里只有潮湿的湿气和死亡般的痛苦。<br>嗯……你所说的未来是什么样的地方？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（述说未来的事情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "<FONT color=#7e12d2>（卡拉秋皱着眉）</FONT><br>就为了那样的未来，我们努力奋战到今日……真是荒唐……<br>我，以及追随阿尔杰塔的那些小鬼看不到那种未来说不定是件好事。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你这么说是什么意思？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "那个叫做西恩的小鬼没有告诉你吗？<br>他的身体支撑不了多久了。在他们一起来的人中，西恩的身体状况最糟糕。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>该死……他没有告诉我……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "他对杰兰特的死自责不已，也没有好好照顾自己……<br>这种装善良的家伙总是最先死，咳咳咳咳……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "西恩说要为那个叫做特里亚纳的精灵准备药物，匆匆忙忙地跑走了，忘了拿这个。<br><FONT color=#7e12d2>（卡拉秋拿出一个小药瓶）</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这是什么……？</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "这是减缓病症的镇定剂。<br>这是最后一瓶了，你把这个交给西恩那家伙吧。<br>他现在肯定在<FONT color=#a82424>古代图书馆</FONT>。",
+      "answer": "",
+      "image": "qw_52.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>Mission Object.</FONT><br>▷ <FONT color=#7e12d2>请将卡拉秋的药瓶交给位于古代图书馆的西恩。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你来这里干什么？",
+      "answer": "（拿出卡拉秋给的药瓶）"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "早知有这种药，应该尽快交给<FONT color=#a82424>特里亚纳</FONT>的……<br><FONT color=#7e12d2>（西恩露出惋惜的神色）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你先照顾好自己吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你就像我妈妈一样唠叨啊，嘿嘿。<br>对了。这是卡拉秋的弟子<FONT color=#a82424>西戴尔</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（西戴尔……？这个名字好熟悉……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "很高兴见到你，你叫<FONT color=#387206>{user_nick}</FONT>？<br>我和西恩正准备返回。<br>很抱歉，虽然这是我们初次见面，但我有件事想拜托你……<br><FONT color=#7e12d2>（西戴尔露出为难的表情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我现在要立刻返回老师的草屋，所以我似乎无法遵守与朋友们的约定了。你能帮帮我吗？<br>我有件物品必须转交给他们。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "如果是那样的话，就交给我吧！哈哈哈~！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我来帮你交给他们吧。西恩，你不是要将药交给特里亚纳嘛。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊，对……对哦，哈哈哈……<br>那就麻烦你了。<FONT color=#387206>{user_nick}</FONT>，你去帮忙把物品转交给他们吧。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "<FONT color=#662500>没关系。就当做是你之前给我提供建议的小小回报吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

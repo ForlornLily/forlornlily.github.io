@@ -1,0 +1,130 @@
+{
+  "qkname": "麻烦的误差",
+  "data": [
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "你刚才问的是什么东西？",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "你想说什么？<br>纯白之球？<br>……那是什么东西？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那你听说过凯德拉关卡差点被人投毒……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "投毒？！你，你在说什么啊？<br>跟我仔细说说！！！",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "那个<FONT color=#a82424>红色黑暗精灵</FONT>是在制定那种计划吧？<br>最近由于担心那家伙在策划什么阴谋，冒险家们都进入了紧急状态！！！",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(好像是回到了投毒之前的过去。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "呃呃呃～我不能坐视不管。<br>喂，你。必须负起责任来！快去确认一下！",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "现在冒险家们都到<FONT color=#a82424>神殿礼拜堂</FONT>去了。<br>你也去确认一下那个红色黑暗精灵是不是正在实施污染凯德拉关卡的计划！",
+      "answer": "",
+      "image": "qw_19.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你和高级魔法师缇娜.……谈过了吧？<br>回来了吗？",
+      "answer": "",
+      "image": "qn_npc_soceresstiana.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "可恶的黑暗精灵……！<br>为了守护凯德拉关卡，大家打起精神！",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "\n快到<FONT color=#a82424>神殿礼拜堂</FONT>去。<br>\n明白了吗？",
+      "answer": "",
+      "image": "qw_19.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n要到神殿礼拜堂去啊。<br>\n明白了。",
+      "answer": "",
+      "image": "qw_19.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "我们正在调查红色黑暗精灵的阴谋。<br>刚好我们发现他的手下们正在<FONT color=#a82424>制造小精灵</FONT>，并且接到了<FONT color=#a82424>破坏掉制造装置</FONT>的委托。",
+      "answer": "",
+      "image": "qp_hobgoblin_maker.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "<FONT color=#a82424>红色黑暗精灵</FONT>的手下们正在制造小精灵……是不是很让人吃惊？<br>要是凯德拉关卡附近都被那些小精灵占据，那就糟了。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "还好及时破坏掉了制造装置。<br>唉……到神圣天堂去虽然很重要，但是为了保护凯德拉关卡不受威胁，我决定帮忙帮到底。",
+      "answer": "",
+      "image": "qw_cataractgateway.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "嗯？当然是为了其他所有人。<br>其他人不都说<FONT color=#a82424>拜托我</FONT>吗？<br>\n我有力气，也有能力帮助他们，所以才会帮助他们！",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "我会继续努力的！为了见到父亲。<br><FONT color=#7e12d2>(西恩握紧了拳头)<br></FONT>泰努玛拉的英雄，<FONT color=#a82424>沙漠中的蓝狼兰伯特</FONT>……其实是我的父亲。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "我一直很崇拜他，发誓决不能让他丢脸。<br>父亲说等我成为超越<FONT color=#a82424>巴尔纳</FONT>的战士之后，就能再见到他。",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "总有一天，我一定会做到！为了重新见到我的父亲。<br>嗯……不过我现在还差得太远，没什么好吹嘘的。<br><FONT color=#7e12d2>(西恩挠了挠头)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>巴尔纳?</FONT>",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "嗯？你连巴尔纳都不知道吗？<br>他是<FONT color=#a82424>六位英雄</FONT>的一员，对我们战士来说是传说般的人物……<br>啊，对了！现在不是说这些的时候。<br><FONT color=#7e12d2>(西恩环顾了一下四周)</FONT>",
+      "answer": "",
+      "image": "qn_six_heroes_silhouette.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "<br><FONT color=#7e12d2>(西恩环顾了一下四周)</FONT>",
+      "answer": ""
+    }
+  ]
+}

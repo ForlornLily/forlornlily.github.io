@@ -1,0 +1,279 @@
+{
+  "qkname": "危险的姐姐",
+  "data": [
+    {
+      "npc": "诺尔佩",
+      "question": "而且这个装置的本来目的是<FONT color=#a82424>屠杀</FONT>……难道……所以<FONT color=#086171> 伊贝尔</FONT>……！",
+      "answer": "",
+      "image": "qn_child_hiver.png"
+    },
+    {
+      "npc": "阿尔克",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "伊贝尔的行踪很奇怪……果然是这样……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>？！伊贝尔？伊贝尔出了什么事吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "ndnpc_Nophee_9776_qu_01.ogg}<br>刚才密探发来了报告。这几天伊贝尔一直在冰海的<FONT color=#a82424>扭曲的区域</FONT> 附近徘徊。就像在寻找什么……",
+      "answer": "",
+      "image": "qn_child_hiver.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "<FONT color=#a82424>扭曲的区域</FONT>是女神放置不管，扭曲了的地区……<br>贫瘠沙沼里如果有强烈散发格雷尔的气息的装置，那么这个气息就会通过扭曲的次元传播到其他扭曲的区域。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "当然，不是扭曲的区域的其他地方也会有少数的力量溢出。但是身为格雷尔<FONT color=#a82424>亲人</FONT>的伊贝尔不管是多么微小的气息，只要是格雷尔的气息，她就能感觉到。",
+      "answer": "",
+      "image": "qn_child_hiver.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "而且这个装置的目的是 <FONT color=#a82424>屠杀</FONT>…… 和诅咒伊贝尔的咒术一起散播，干扰她的判断力。伊贝尔现在状态很不好，所以会受到咒术的很大影响。",
+      "answer": "",
+      "image": "qn_child_hiver.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>伊贝尔不是吞下了</FONT><FONT color=#086171> 冰龙的宝玉</FONT><FONT color=#662500>吗。</FONT><br><FONT color=#662500>就算这样伊贝尔还是会受到咒术影响吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "伊贝尔还没有完全把冰龙的宝玉吸收。<br>查尔德吞噬宝玉后，需要把<FONT color=#a82424>自己的宝玉</FONT>和<FONT color=#a82424>吞下的宝玉</FONT><FONT color=#086171>融合</FONT>在一起。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "如果两个宝玉的力量相当，马上就能合二为一，但如果新吞噬的宝玉很强，就需要大量时间。不仅需要时间，还需要体力。所以现在的伊贝尔肯定会受到咒术的影响。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "她因为<FONT color=#a82424>咒术</FONT>影响了判断力，而且还有要抹去作为人类的过去的<FONT color=#a82424>查尔德的本能</FONT>……<br>伊贝尔肯定会追着这个装置散发的气息而去。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那么这个装置是以</FONT><FONT color=#086171>伊贝尔</FONT><FONT color=#662500>为目标而设置的吗？！</FONT><br><FONT color=#662500>为了把伊贝尔带到扭曲的区域……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "ndnpc_Nophee_9776_qu_02.ogg}<br>现在来看只能这么想了。<br>如果我的假设是对的……那<FONT color=#a82424>玛蒙</FONT>似乎是要狩猎伊贝尔。",
+      "answer": "",
+      "image": "qn_child_mammon_shadow.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "ndnpc_Nophee_9776_qu_03.ogg}<br>拥有冰龙的宝玉而且还非常虚弱的查尔德。<br>在玛蒙的眼里这应该是最好的猎物了吧。",
+      "answer": "",
+      "image": "qn_child_mammon_shadow.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "ndnpc_Nophee_9776_qu_04.ogg}<br>而且玛蒙不想让其他查尔德把这个猎物抢走。所以……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……</FONT>他在<FONT color=#a82424>扭曲的区域</FONT><FONT color=#662500>设置了这个装置！</FONT><br>\n<FONT color=#662500>扭曲的区域由于次元扭曲，不管是人还是查尔德都不会靠近那里……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "<FONT color=#7e12d2>(诺尔佩点头)</FONT> 在大部分的查尔德领地里是无法进入扭曲的区域的。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "而且如果装置到了扭曲的区域外面，就会失去作用的话，那么也不会吸引其他查尔德。这是为了伊贝尔量身定做的陷阱。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>如果真如你所说，伊贝尔就真的危险了……！</FONT><br>\n<FONT color=#662500>不，等下……有点奇怪啊，诺尔佩。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>查尔德都已经忘记了自己曾经是人类。</FONT><br>\n<FONT color=#662500>但是身为普通查尔德的玛蒙怎么会想到利用伊贝尔和格雷尔的关系呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "他怎么知道<FONT color=#662500>伊贝尔和格雷尔有血缘关系……？</FONT><br>\n<FONT color=#662500>这事除了和伊贝尔相熟的反女神派 人或者梅尔卡的人都不知道啊……</FONT><br><FONT color=#662500>格雷尔的头发又是从哪儿来的？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "玛蒙当然不是单凭他自己的力量获得这所有的情报和装置……而且还有格雷尔的头发。这不借助外力更是不可能办到。<br>我觉得现在反女神派的内部很可能有<FONT color=#a82424> 间谍</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎么会，间谍……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "而且也许……<FONT color=#7e12d2>(诺尔佩想了想，摇了摇头)</FONT>不，这也只是我的猜测。<br>总之，有几件事要搞清楚。我们先从最可疑的地方开始查吧。在这么下去拉达梅斯也可能会被危及。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了。那我先去扭曲的区域看看还有没有装置。</FONT><br>\n<FONT color=#662500>不管怎样都要阻止玛蒙，不能让他伤害伊贝尔！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "我知道了。<FONT color=#2b2723>那请先搜索</FONT><FONT color=#a82424>卡特德拉忏悔室</FONT><FONT color=#2b2723>。</FONT><br>阿尔克现在应该已经回去了。<br>\n请你把隐藏的所有的装置都消除掉。",
+      "answer": "",
+      "image": "qw_119.png"
+    },
+    {
+      "npc": "阿尔克",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你又来了啊。你又是来寻找那个装置的吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>事情紧急。其实……</FONT><br>\n<FONT color=#7e12d2>(说明关于装置的事情)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "原来如此。这是为了吸引伊贝尔的陷阱啊…… ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>首先我们得破坏所有的装置。如果伊贝尔被卷进看来，那格雷尔肯定会非常受伤的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "……我有几个想到的地方。先去那里看看吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(阿尔克走向了前面，跟着他吧。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "可疑装置",
+      "question": "<FONT color=#7e12d2>(角落里隐藏着装置)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(先破坏掉吧。把这个中心的矿石打碎就行了吧？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "<FONT color=#7e12d2>(阿尔克在我破坏装置的时候一直静静站着。似乎在想别的事情)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好了，这似乎停止运作了。现在找到其他装置……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "………",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……？ 阿尔克。我们得去找其他装置啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "……啊，抱歉。我刚才在想事情。<FONT color=#387206>{user_nick}</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "我想到了一件事。关于<FONT color=#086171>查尔德玛蒙的背后势力</FONT>。",
+      "answer": "",
+      "image": "qn_child_mammon_shadow.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>？！？！请告诉我！谁告诉了玛蒙关于伊贝尔的情报？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "在告诉<FONT color=#387206>{user_nick}</FONT>你之前，我想先告诉诺尔佩大人。最好能现在就去拉达梅斯……",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你能帮我吗？如果<br>\n<FONT color=#387206>{user_nick}</FONT>带着我去拉达梅斯，好好地说说，诺尔佩大人也不会太责怪我的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了。我们现在就去拉达梅斯。我们去找</FONT><FONT color=#086171> 诺尔佩大人的全息</FONT><FONT color=#662500>就行。</FONT>",
+      "answer": "",
+      "image": "qn_hologram.png"
+    },
+    {
+      "npc": "阿尔克",
+      "question": "好的，<FONT color=#086171>诺尔佩大人的全息</FONT>吗。我会跟着你的。",
+      "answer": "",
+      "image": "qn_hologram.png"
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "你来了啊，<FONT color=#387206>{user_nick}</FONT>。<br>\n……阿尔克，我应该跟你说过尽量不要来拉达梅斯。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>诺尔佩，不，诺尔佩大人。是我要他一起来的，请你理解。阿尔克说他想到了关于玛蒙的背后势力的事情。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "<FONT color=#7e12d2>(全息停滞了一下，又开始动了)</FONT> 这是真的吗？",
+      "answer": ""
+    }
+  ]
+}

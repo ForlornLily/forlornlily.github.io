@@ -1,0 +1,168 @@
+{
+  "qkname": "失败了",
+  "data": [
+    {
+      "npc": "战士西恩",
+      "question": "要是能救出先知，让大家过上幸福的生活，那该多好！哈哈！<br>\n是吧？"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br><FONT color=#7e12d2>▷请到纹章学者斯塔西那里去完成古代祭司长的符文。</FONT>"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……<br>\n<FONT color=#7e12d2>（好像不感兴趣的样子）</FONT>"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "好了，我已经按照约定为你制作了<FONT color=#a82424>古代祭司长的符文</FONT>，你快去做你的事情吧。<br>看到你为国家如此努力，作为大人，我很惭愧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>谢谢。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "你离开之后，我也会到王城帮忙为战争做准备。<br><FONT color=#7e12d2>（请返回学者站台，向姐姐报告吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "希望能尽快救出先知。<br>我和普雷利镇的村长还有莉莉做了约定，一定要救出先知，然后返回。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "…….<br><FONT color=#7e12d2>（好像不感兴趣）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_02.ogg}<br>你来啦，<FONT color=#387206>{user_nick}</FONT>。<br>古代祭司长的符文做好了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>当然啦。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "先知应该能靠近<FONT color=#a82424>黑龙的巢穴</FONT>了。<br>你要注意安全啊，想独自进入巢穴可不是简单的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_08.ogg}<br>一定要根据数据中记录的地图，慎重地行动。<br>要是能在<FONT color=#a82424>黑暗大君主练兵场</FONT>找到先知就好了。"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你是我在凯德拉关卡见过的那个家伙吗？<br>……真是个胆大包天的小鬼。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "像你这样的小鬼居然能进入这里，看来黑龙的力量也不算什么啊。<br>你说你认识未来的我……？小鬼。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不叫小鬼，我的名字是{user_nick}。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "反正你就要死了，你叫什么名字与我无关。<br>小鬼，我再问你个问题。<br>在你来自的未来，我的复仇成功了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#662500>这个你没有告诉过我。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……果然不能相信你。虚无缥缈的未来，不管怎样都一样。<br>你来这里干什么？",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "真是可笑。你又要用一副纯真的表情劝我交出<FONT color=#a82424>古代人的后裔</FONT>吗……<br>感谢你的用心，这次我就放你一马。好了，在我杀了你之前，快离开吧。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我有话想对你说！</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我已经跟你无话可说了，小鬼。<br><FONT color=#7e12d2>（贝思柯德纵身一跃，向着黑暗大君主领地方向消失了）</FONT>",
+      "answer": "",
+      "image": "qw_36.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……真是烦人。<br>快离开。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_06.ogg}<br>看来你没能说服贝思柯德啊。<br>不知其他冒险家在做什么，你去<FONT color=#a82424>黑山山角</FONT>看看吧，怎么样？",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "其他冒险们也在为战争做准备啊。<br>刚刚战士西恩往<FONT color=#a82424>黑山山角</FONT>跑去了。",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "哦？<FONT color=#387206>{user_nick}</FONT>！<br><FONT color=#387206>{user_nick}</FONT>你是不是也要去和黑骑士战斗？<br>\n<FONT color=#7e12d2>（西恩不由分说地抓住你的手）</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "如果想进入<FONT color=#a82424>黑龙的巢穴</FONT>，需要某样东西。<br>为了制作那个东西，我四处奔走，现在终于完成，我要和精锐士兵们一起出发前往黑龙巢穴了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是古代祭司长的符文吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊！！你是怎么知道的？！真是了不起~ <FONT color=#7e12d2>（西恩爽朗地笑着）<br></FONT><FONT color=#387206>{user_nick}</FONT>果然了不起！嘿嘿~",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "阿尔杰塔和杰兰特也表示原意帮忙。<br>杰兰特肯定早已完成准备并出发了。哈哈！！<br>因此，<FONT color=#387206>{user_nick}</FONT>也跟我们一起去吧！！",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我，我吗？（这可怎么办？）</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

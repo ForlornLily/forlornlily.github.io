@@ -1,0 +1,391 @@
+{
+  "qkname": "黑骑士",
+  "data": [
+    {
+      "npc": "侦察兵福古斯",
+      "question": "你是说<FONT color=#a82424>黑骑士</FONT>出现在叹息峡谷，把少女抢走了？/html>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "什么？还有事情没办完？<br>姐姐~~~你到底还要让我等多久呀~你要快去快回才行哦！<br><FONT color=#7e12d2>（完成和侦察兵福古斯的对话后就回来吧）</FONT>",
+      "answer": "",
+      "image": "qn_ranger_fugus.png"
+    },
+    {
+      "npc": "受伤的冒险家",
+      "question": "<FONT color=#7e12d2>（看上去好像失去了意识）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会成员韦伯",
+      "question": "嗯……谁……谁啊？<br><FONT color=#7e12d2>（因为受了伤，所以脸色很差）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "什么呀？这是。<br><FONT color=#7e12d2>（银发女剑客嫌麻烦并不理睬）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "我们也在追踪黑骑士。<br>目前得到的线索还太少。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "你是谁啊？可爱的小姑娘！<br><FONT color=#7e12d2>（安杰利卡好像很满意似的微笑着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "看来黑骑士也在觊觎<FONT color=#a82424>古代人的力量</FONT>……<br>我们不能就这样坐以待毙。必须马上联络冒险家公会，追踪<FONT color=#a82424>黑骑士</FONT>。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也愿意帮忙。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "那就谢谢了，不过那边好像<FONT color=#a82424>有个少女</FONT>正在找你，你是不是应该过去看看呢？",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>少女？啊！埃提亚！！埃提亚一定担心了！！很抱歉，我去去就来！</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "追踪黑骑士的事，你打算……啊！！<br><FONT color=#7e12d2>（埃提亚正在等我呢。先去看看埃提亚吧）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "……寻找那个少女的事进展得怎么样了？<br><FONT color=#7e12d2>（不知为什么，埃提亚看上去有些不太高兴）</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>埃提亚，你生气了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "没有，我干嘛要生气~虽然一来到村里你就对我置之不理，跑去了别的地方……不过我知道你很忙。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可你的表情却不太一样哦？对不起~~所以我才跑过来找你了啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "知道，知道。姐姐总是把我放在第一位的嘛。<br>我只是因为来到一个陌生的地方，谁也不认识，还等了这么久，有些孤单而已。不过我已经和旁边的梅伊小姐熟悉了，所以现在好多了。<br>不过，那个少女怎么样了？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>一个黑头发黑披风的骑士出现把她带走了。那人也是来救少女的吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "好像……不是的……<br>福古斯不是说他们在追踪<FONT color=#a82424>黑骑士</FONT>吗？那么他应该不是为了村庄而行动的人吧？",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那莫非是龙之追随者！？不过他并没有带面具。<br>而且那个黑骑士还是用他那非常温柔的动作将红发少女抱走的呢。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐……那个<FONT color=#a82424>黑骑士</FONT>，长得什么样？能和我说说吗？",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ionBreak}<br>怎么回事~~？为什么记得这么详细？？<br>姐姐！那个人怎么看都是我们的敌人。是恶党！嗯？你是不是又花痴地被他的样貌给迷住了？？",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "不过，你为什么会脸红呢？难道是又感冒了？<br><FONT color=#7e12d2>（埃提亚面露担忧地伸手摸了摸我的额头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "嗯，总之，重要的是那个被称为<FONT color=#a82424>黑骑士</FONT>的人或者是龙之追随者，或者即使不是也有可能掌握着有关这件事的线索，不是吗？去见见<FONT color=#a82424>凯伊</FONT>哥哥，问问兄弟团有没有关于黑骑士的什么线索吧。",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "我这就放飞蓝鸟，你到<FONT color=#a82424>水晶谷</FONT>去吧。现在凯伊哥哥应该还没走远，你们很快就会见到的。",
+      "answer": "",
+      "image": "qw_cristalstream.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "我为什么？？对于嫌妹妹碍事就把她丢在一边自己一个人跑开的姐姐，我有什么好生气的？？<br><br><FONT color=#7e12d2>（埃提亚看上去很不高兴。需要达到12级以后再来找她。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "你好像还有很多事情要忙。那么我们就自己去追踪<FONT color=#a82424>黑骑士</FONT>了。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "凯伊哥哥好像已经到达<FONT color=#a82424>水晶谷</FONT>了。问问哥哥有没有什么线索吧。",
+      "answer": "",
+      "image": "qw_cristalstream.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "我们又见面了。<br><FONT color=#387206>{user_nick}</FONT>你也在追踪<FONT color=#a82424>黑骑士</FONT>吗？",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（反正也差不多，就这么和他说吧？）啊……是。是的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "果然，我也觉得你对这种事是不会袖手旁观的。<br>我也正在前往<FONT color=#a82424>森林圣域</FONT>……我们一起走吧？",
+      "answer": "",
+      "image": "qw_15.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那位是魔法师呢。是你的同伴吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "是的。他是从魔法山脊和我一起过来的同伴。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>魔法山脊……魔法师……（突然又想起了初次见到辛西亚时的情景，不禁毛骨悚然）<br>伊桑！虽然我也很想和你一起走，不过我看我还是一个人走吧。</FONT>",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "<FONT color=#7e12d2>（伊桑的表情有点莫名其妙）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "好，那就请便吧。那么我们就先行前往<FONT color=#a82424>森林圣域</FONT>了。<br>\n<FONT color=#387206>{user_nick}</FONT>，愿女神的祝福与你同在。<br>\n",
+      "answer": "",
+      "image": "qw_15.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "凯伊哥哥不在？嗯~为什么没来呢？<br>嗯，没办法了，还是先按照伊桑说的，前往<FONT color=#a82424>森林圣域</FONT>去追踪黑骑士吧。",
+      "answer": "",
+      "image": "qw_15.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "据冒险家公会戴卡德所说，黑骑士向<FONT color=#a82424>森林圣域</FONT>的方向去了。<br><FONT color=#7e12d2>（前往森林圣域去追踪黑骑士吧）</FONT>",
+      "answer": "",
+      "image": "qw_15.png"
+    },
+    {
+      "npc": "冒险家公会成员韦伯",
+      "question": "嗯……谁……谁啊？<br><FONT color=#7e12d2>（因为受了伤，所以脸色很差）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我正在追踪黑骑士。怎么办……你好像受伤了。</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "冒险家公会成员韦伯",
+      "question": "你是从公会过来的吗？呃……我们为了攻击黑骑士埋伏在了这里，可全都不是他的对手。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>看来他真是个坏人！我一定会惩治恶人的。<br>他跑到哪里去了？少女呢？看到了吗？</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "冒险家公会成员韦伯",
+      "question": "你是说那个和黑骑士在一起的<FONT color=#a82424>红发少女</FONT>吗？<br>黑骑士把她带进寺院里去了……之后就不知道怎么样了……呃呃……",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！你还好吗？<br>我这就回到村庄叫……叫人过来。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会成员韦伯",
+      "question": "嗯……我还好，请去帮助里面的公会成员吧……<br><FONT color=#7e12d2>（由于受伤，说话显得很吃力）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "受伤的冒险家",
+      "question": "我不要紧，请去帮助进入里面追赶黑骑士的同伴们吧……",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会成员韦伯",
+      "question": "我还好，请去帮助里面的公会成员吧……",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你来这儿做什么，小家伙？<br><FONT color=#7e12d2>（银发女剑客不耐烦地说）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃……啊……追黑骑士……</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "黑骑士？吼吼……想对抗黑骑士，你的实力差得太远了吧？<br>像你这样可爱漂亮的家伙老老实实呆在安全的地方，才是为世界好。你回去吧！",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不行，我一定要救回被黑骑士带走的少女。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "少女？你是说被那家伙带走的<FONT color=#a82424>红头发小孩</FONT>？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的。据说那少女是古代人的后裔。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#7e12d2>（女剑客皱起了眉头）</FONT><br>\n……看来我慢了一步。如果真照你说，那个小家伙是<FONT color=#a94407>古代人的后裔</FONT>的话，事情就不一样了。<br>可是你为什么要追踪<FONT color=#a82424>黑骑士</FONT>呢？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个……<br>（这么看来她应该见过凯伊了。凯伊也在追踪那个人吧？）</FONT>",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "看样子你有什么秘密。人类的女孩子人人都有吧。<br>可以理解。反正我也没什么闲工夫。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你要是想救回那个少女的话，我就允许你帮我的忙了。<br>因为我知道<FONT color=#a82424>黑骑士</FONT>去了哪里。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真的吗！？他去哪儿了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "那家伙在这个遗迹游荡的时候我就该有所察觉的……多亏了你，现在可以确信了。<br>不过我还不能相信你，小可爱。<br><FONT color=#7e12d2>（阿尔杰塔的嘴角泛出奇怪的微笑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "所以，要想得到我的信任，你得为我办件事才行。<br>看你的样子和出去办事相比似乎更适合老实呆着，不过看在你在人类当中算是比较可爱的，我就给你一次机会。知道了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "那么，你去为我找来<FONT color=#a82424>顺从吊坠</FONT>吧。那家伙跑去了遗忘寺院，他能进入而我们却不能，所以我让你去找的正是进入那里的钥匙，这样你也不亏，不是吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那……倒是？<br>（嗯，等下得去问问埃提亚才行。这个姐姐都说了什么我要牢牢记下才行！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你去找来<FONT color=#a82424>顺从吊坠</FONT>吧。然后再来<FONT color=#a82424>沉睡者神殿</FONT>找我。<br>要是不能尽快找到少女事情一定会越来越糟的，所以你必须赶快行动。知道了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（顺从吊坠……沉睡者神殿……顺从吊坠……沉睡者神殿……）</FONT>",
+      "answer": "",
+      "image": "qw_16.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你在那嘟囔什么呢！我问你知道了没！？<br>啧啧……为什么长得好看却派不上什么用场！再见吧，可爱的小家伙。<br><FONT color=#7e12d2>（先回到埃提亚那里吧）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "都说了必须赶快行动才行，怎么看上去还是不紧不慢的？<br>找到吊坠后赶紧到<FONT color=#a82424>沉睡者神殿</FONT>来。知道了吗？",
+      "answer": "",
+      "image": "qw_16.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（先去把情况告诉埃提亚吧）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐！你的衣服怎么了？摔倒了吗？有没有受伤？<br><FONT color=#7e12d2>（埃提亚但心地想要看看我的胳膊和腿）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>只是沾了点泥土而已。你不用那么担心，埃提亚。</FONT>",
+      "answer": ""
+    }
+  ]
+}

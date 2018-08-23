@@ -1,0 +1,244 @@
+{
+  "qkname": "再会",
+  "data": [
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "使徒的目的是夺走贝思柯德的宝玉……<br>完成目的之后，他们好像马上就离开了。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "等我给贝思柯德配好药之后，我随后就去。<br>你先到<FONT color=#a82424>受到蚕食的神殿废墟</FONT>去，阻止巴尔纳，不要让他离开那里。",
+      "answer": "",
+      "image": "qw_62.png"
+    },
+    {
+      "npc": "兰伯特",
+      "question": "哼……<br>真让人失望……",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "真让人失望，巴尔纳……<br>你曾经是我的终极偶像，没想到居然变成了这样……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你是……！<br>从神圣天堂带走萝丝的那个男人？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "你是那个叫<FONT color=#387206>{user_nick}</FONT>的人吧？<br>上次忘了跟你这位前辈打招呼了。你该不会是为了责怪我的无礼，才到这里来的吧？",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "幻象，和在神圣天堂遇到的时候相比，你的气息好像强了不少。<br>那时要不是伊格纳西奥告诉我，我根本不知道你和我是一类人。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "兰伯特",
+      "question": "国王还不知道你的事情。<br>但是……<br><FONT color=#7e12d2>(兰伯特转过身子)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "别恨我。<br>这是国王的意思。",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "弱肉强食，这就是这个世界的规则。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅。<br>你一直在看着我啊……露娜莉娅。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……<br><FONT color=#7e12d2>(露娜莉娅睁开了眼睛。静静地看着{user_nick})</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你好。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "对我而言，时间不是流动的。你也知道，不是吗，<FONT color=#387206>{user_nick}？<br></FONT>对我来说，你和我就像刚刚分手一样。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我不知道该从何说起。<br>什么时候是开始，什么时候是结束？……我不知道。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "对我来说，不过是相同的事情在不断重复而已。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我在时间的迷宫中徘徊。在没有昨天，没有今天，也没有明天的世界中前行。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "永远都一样。就像涂在面包上的黄油一样，只是，在那里而已。<br>我的时间不是流动的，所以不会凝聚，也不会腐烂。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#387206>{user_nick}</FONT>……如果你答应接受我的道别，我就把一切都告诉你。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "在跟你说完话之前，我不会走……我在利物沃特码头等你。我想在那里和你谈。安然地离开这里……在那里见面。",
+      "answer": "……知道了。"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(露娜莉娅好像不想再说话了。先到利物沃特码头去吧)</FONT>",
+      "image": "qw_liverwortferry.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……首先，应该从第一次见到<FONT color=#387206>{user_nick}</FONT>你……不，第一次见到幻象的时候开始说起。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "在不知道是过去还是遥远的未来的某个时候……<br>我遇到了那个叫做幻象的男人。",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，那个男人也许就是你。<br>不……是你，过去的你。在你以这种形态遇到我之前的你。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "变成幻象之前的幻象。",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "遇见他，是一次偶然。我一直在走，他只是在那里罢了。<br>我遇到了他，他向我伸出了手。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我和他一起走。来到了巨石碑。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>巨石……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "嗯，巨石碑。<br>我必须到巨石碑那里去。他成为了我的同伴。我们……一起旅行了很长时间……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……那时也像现在这样经常穿越时间吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "偶尔……不过那时我有阿尔泰精髓，不像现在这么频繁。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>阿尔泰精髓？</FONT><br>\n",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "那是控制我的力量的工具。<br>同时也受到我的力量的影响，可以用来干涉时间。<br>\n",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……那个陌生的男性精灵所说的工具就是阿尔泰精髓吗？<br>他说露娜莉娅可以制作那个东西。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你说旅行，那应该有目的地吧？</FONT><br>\n",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "是的，我想通过巨石碑，到世界的另一面去。<br>因为那是我的义务。<br>\n",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……义务？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……过去他也用这种眼神看着我。<br>到巨石碑去，那是我的义务。<br>我是为了到巨石碑那边去，才会在这里的。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "虽然其他的东西我不记得了，但我知道这些。<br>就像花知道开放，鸟懂得飞翔一样。<br>就像天那么高，水那么深一样，我知道必须要到巨石碑那边去。<br>\n",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "在巨石碑的门打开之前，我和他道别。<br>为了向我的同伴表示感谢，我把阿尔泰精髓送给了他。因为我已经不再需要它了。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……本来应该这样结束的。<br>但是他……",
+      "answer": ""
+    }
+  ]
+}

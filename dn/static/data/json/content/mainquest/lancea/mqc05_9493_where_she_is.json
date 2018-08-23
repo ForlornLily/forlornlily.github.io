@@ -1,0 +1,430 @@
+{
+  "qkname": "她的行踪",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "终于找到了黑骑士的线索！<br>之前我总觉得我们做的事情空泛又不切实际，现在终于有明确的目标了。对吧？",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "安杰利卡怎么还不来。她总是磨磨蹭蹭的。",
+      "answer": ""
+    },
+    {
+      "npc": "刺客列恩",
+      "question": "露娜莉娅…… <FONT color=#7e12d2>（不明白他在说什么）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "据说在这附近的哪里发现了曼德拉……<FONT color=#7e12d2>（柯梅里纳正努力地寻找什么）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "啊啊啊！上次真的很抱歉！！<FONT color=#7e12d2>（柯梅里纳急急忙忙地想要离开）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "嗯？我….我。那个……我没在这里藏任何东西！<br><FONT color=#7e12d2>（她看起来很慌张）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "滚开。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃……嗯？现在该怎么做呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "你说那个女孩叫做<FONT color=#a82424>柯梅里纳</FONT>？必须要再次见到那个女孩。<br>那个少女肯定知道黑骑士贝思柯德在什么地方。",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？柯梅里纳知道黑骑士的位置？？<br>埃提亚，你是怎么知道的？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ionBreak}<br>嗯，这个我还得像你说明吗……<FONT color=#7e12d2>（埃提亚摸着额头，叹了口气）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "那个女孩不是跟你说贝思柯德需要翅膀碎片吗？<br>如果她不是将那黑色羽毛作为礼物放到贝思柯德的墓碑前，那肯定是将羽毛亲自交给贝思柯德吧？",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，没错。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "那就意味着她知道黑骑士在哪里啊？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……是这样吗？？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "嗯，是的……<br>如果那个小女孩在帮助黑骑士，说不定她能找到黑骑士，她还有可能掌握着找出叛徒的情报。必须要找到那个女孩，明白了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯。但是要怎么找？<br>她总是突然出现，然后一溜烟地就逃跑了！就像只小猫咪。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "其他冒险家会不会认识她呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>要怎么样才能找到其他冒险家呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "呃呃呃……你先去见见<FONT color=#a82424>伊桑</FONT>吧。<br>我听说，伊桑正在<FONT color=#a82424>黑山山角</FONT>寻找什么东西。",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！我怎么把伊桑给忘了。我已经好久没见到他了。</FONT>",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "你就这么高兴啊？比起见我，你好像更喜欢见到其他人！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是的啦。伊桑就像是我的老朋友，我离开凯德拉之后一次都没有见过他，所以才这样的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我现在就去找伊桑。你说他在黑山山角？</FONT>",
+      "answer": "",
+      "image": "qw_skirtofblackmountain.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "嗯。你到<FONT color=#a82424>黑山山角</FONT>，去找找其他冒险家吧。说不定他们中有人知道那个名为<FONT color=#a82424>柯梅里纳</FONT>的女孩。",
+      "answer": "",
+      "image": "qw_skirtofblackmountain.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "啊，原来是<FONT color=#387206>{user_nick}</FONT>啊。<br>真是好久不见。你看起来很匆忙，是不是有什么事情啊？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呼……呼……伊……伊桑……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "啊，你无法喘气吗？如果你需要我搀扶，那就不要这样，还是让我好好搀扶……<FONT color=#387206>{user_nick}</FONT>……<br><FONT color=#7e12d2>（牧师伊桑红着脸，往后退了一步）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哈啊……我喘不过气，又特别高兴……但是由于喘不过气，所以见到你很高兴这句话……始终说不出…所以…哎呀呀…<br>见到你很高兴，伊桑。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "没想到你见到我这么高兴，我也非常开心。<br>不过，你为什么跑这么快，是有什么事情吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，我正在寻找一个叫做柯梅里纳的少女。<br>你认不认识她？</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "啊，你是说那个小女孩啊。<br>我见过她几次。她比看起来要强大，有时候会说些让人费解的话。",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你认识她啊！为什么我之前没见过她呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你要忙着照顾妹妹，和其他冒险家没有什么交流，不是吗？<br>我想或许是因为这个原因吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>原来如此。那你知道如果想见到柯梅里纳，应该去哪里吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "这个么，我们还没有这么亲近。还有，最近她说了些主教的坏话，所以……<br>总之，我也不知道去哪里才能见到她。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你们吵架了啊……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "你这么垂头丧气的，我会觉得很抱歉的。<br>我们没有吵架。或许，啊！那边的列恩可能知道去哪里可以见到她。<br><FONT color=#7e12d2>（牧师伊桑指着刺客列恩）</FONT>",
+      "answer": "",
+      "image": "qn_npc_novice_assassin.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>噢？那个长相帅气的哥哥啊……！！<br>谢谢你，伊桑。</FONT>",
+      "answer": "",
+      "image": "qn_npc_novice_assassin.png"
+    },
+    {
+      "npc": "刺客列恩",
+      "question": "你是谁？你认识我吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不认识，我第一次见到你。<br>我正在寻找柯梅里纳，伊桑说你可能知道她在哪里。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "刺客列恩",
+      "question": "啊，你找柯梅里纳有事啊。<br>柯梅里纳说她要去寻找什么药，到<FONT color=#a82424> 孤岛中心</FONT>去了。",
+      "answer": "",
+      "image": "qw_33.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "啊！！你是那个……<br><FONT color=#7e12d2>（柯梅里纳又打算逃跑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "啊啊！好痛啊。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "呜呜，这是新衣服~~ 你赔我。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "我的药草！！！快还给我！ ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这次你可逃不掉了！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你肯定知道黑骑士在哪里吧？<br>我必须要见到那个人。快告诉我。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "嗯？<FONT color=#a82424>贝思柯德</FONT>吗？",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，贝思柯德。</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "嗯……贝思柯德已经成为了神圣天堂所有人的敌人。<br>我不能告诉你。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我……虽然是正义的一方，但我不太清楚。<br>黑龙又没有摧毁神圣天堂的建筑物，就那样待在巢穴里，是我们去进攻他的啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不是为了消灭黑龙，才参与那场战争的。<br>我只是有件事情想问他。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "有事情要问他？不是想加害他？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯。我有事想问黑骑士…贝思柯德。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>（学者柯梅里纳似乎很苦恼）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这件事情关于我父亲的生死存亡！请帮帮我吧！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>（学者柯梅里纳用可怜的眼神望着我，思考了一会儿后说道）</FONT><br>嗯，我知道了。我让你去见见<FONT color=#a82424>贝思柯德</FONT>。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哇！成功啦！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "话说，我都还不知道你的名字呢。我们重新认识下吧。我叫<FONT color=#a82424>柯梅里纳</FONT>，很高兴见到你。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，我是尤斯提亚家族的{user_nick}。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "你的名字和你的长相一样美。不过……嗯？？<FONT color=#387206>{user_nick}</FONT>这个名字……我好像听说过…<br><FONT color=#7e12d2>（柯梅里纳开始摆弄一个奇怪的机器）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "搜索……卡西乌斯王的……噢？所以说，你说女王……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？女王？现在只有一个小国王而已啊。据我所知，现在还没有女王啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "呃。你，你不知道也无妨。<br>那…那么，我们一起前往<FONT color=#a82424>黑山山角</FONT>，去见贝思柯德吧。",
+      "answer": "",
+      "image": "qw_skirtofblackmountain.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "那么，我们一起前往黑山山角，去见贝思柯德吧。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "贝思柯德就在那个山丘里。<br>这件事你绝不能告诉其他人啊！",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "咳……被发现了吗？<br>虽然我还没有完全恢复，但对付一个小毛孩……<br><FONT color=#7e12d2>（贝思柯德试着起身）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，等，等等！我不是来跟你打架的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是柯梅里纳告诉我的，来这里就能见到你……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "那个小鬼也不可靠吗……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我父亲曾经说过，人与人之间的交往是建立在信任的基础之上！<br>柯梅里纳好像是个好人。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……搞不懂你在说什么。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我，我来这里是想问你一件事。真的不是打算攻击你。<br>正义之人是不会攻击受伤的敌人的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#2b2723>我只知道，又多了个吵闹的家伙。<br></FONT><FONT color=#7e12d2>（贝思柯德安心地坐了下来。他好像还握着剑）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "如果你有话要说，那就快点说完，然后滚吧。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "你好像见到了<FONT color=#a82424>柯梅里纳</FONT>啊。你们说了什么有趣的事情？<br>你看起来很愉悦。",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没…没什么。这是我们之间的秘密！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "嗯，你们俩好像亲近了很多。能有一个共同分享秘密的朋友，是件好事。<br>那样的朋友就像家人一样。",
+      "answer": ""
+    },
+    {
+      "npc": "刺客列恩",
+      "question": "你找到<FONT color=#a82424>柯梅里纳</FONT>了吗？我还担心你们会互相错过呢，这真是太好了。",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    }
+  ]
+}

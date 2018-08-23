@@ -1,0 +1,239 @@
+{
+  "qkname": "留下线索的主人",
+  "data": [
+    {
+      "npc": "梅里恩戴尔的骨灰盒",
+      "question": "<FONT color=#7e12d2>（虽然打开了骨灰盒，但意念体并没出现。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "梅里恩戴尔的骨灰盒",
+      "question": "<FONT color=#7e12d2>（装饰盒空空如也。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "ndnpc_Iris_9799_qu_01.ogg}<br>卢比哥哥再也没有出现过。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>艾瑞斯？？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "ndnpc_Iris_9799_qu_02.ogg}<br>箱子里卢比哥哥的气息全都消失了。<br>我能感觉得到。箱子里现在什么都没有了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我还在期待他会重新出现呢……果然如此……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "ndnpc_Iris_9799_qu_03.ogg}<br><FONT color=#387206>{user_nick}</FONT>想再听一次卢比哥哥说的话对吧？<br>我当时也听到了。卢比哥哥的意念体留下的话。我当时也在场呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真的吗？你还记得卢比纳特想说的话是什么吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "那当然了。我全都记得。我记忆力可好了呢。<br>卢比哥哥当时说的是<FONT color=#a94407>\"……留在……卡伊伦岛的神秘……兽……\"</FONT>。<br><FONT color=#7e12d2>（将断断续续的话按照原样再现的艾瑞斯……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不不，这个我也知道……<br>我是问你，你知不知道卢比纳特想说的话究竟是什么。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "我只记得听过的话，你问我没听过的话，我岂不是要编给你听？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是，我不是这个意思……（她应该帮不到我们什么忙了……）<br>好吧，是我错了，不该对你有所期望的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "我说错什么了吗？<br>卢比哥哥明明说了谜之大陆的兽人把什么东西留在卡伊伦岛上了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？这话什么意思？谜之大陆的兽人？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "我只是把我听到的原原本本地说出来而已。他明明说了<FONT color=#a94407>\"</FONT><FONT color=#a94407>卡伊伦岛上……留下的……神秘……兽人\"</FONT>这样的话。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这跟你刚才说的不一样啊！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "不一样吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>“兽”字后面不是多了一个“人”字嘛！“人”！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "我能够了解卢比哥哥的想法，虽然我只说听到的东西，不过如果你问我为什么要多加一个“人”字的话，就等同于你在问我是否能读懂卢比哥哥的心……这个我也不太清楚。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（根本不知道她在说什么。）<br>总之，谢谢你。兽人在卡伊伦岛留下了什么东西对吧？得先去问问附近的兽人，卡伊伦岛上的兽人的事。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "我很开心能帮上忙。",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "\n<FONT color=#7e12d2>（如果是梅尔卡的兽人的话，应该先去找帕尔乔。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "商人帕尔乔",
+      "question": "<FONT color=#7e12d2>（翻看行李中物品的帕尔乔看到</FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#7e12d2>后面露喜色。）</FONT><br>好久不见啊。喵！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>帕尔乔！我现在有急事要问你。你知道在卡伊伦岛生活过的兽人的事儿吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "商人帕尔乔",
+      "question": "嗯……不是很清楚但确实有<FONT color=#a94407>1个兽人</FONT>在卡伊伦岛生活过。喵！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你知不知道那个兽人是谁，是个什么样的人？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "商人帕尔乔",
+      "question": "啊！虽然我不太清楚但是我的亲戚<FONT color=#a82424>帕尔加</FONT>没准知道。<br>听说进入卡伊伦岛的兽人是帕尔加的亲戚。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真的吗？谢谢你！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "商人帕尔乔",
+      "question": "哪儿的话！本来<FONT color=#a82424>帕尔加</FONT>也打算在梅尔卡待一阵子，应该很容易就能找到他。",
+      "answer": ""
+    },
+    {
+      "npc": "炼金术士帕尔加",
+      "question": "哦吼，原来是来自阿尔特里亚的人类。有什么事吗？<br>还是有什么需要我帮忙的？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>与其说是寻求帮助，其实是有事想问您。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "炼金术士帕尔加",
+      "question": "嗯，你说说吧。只要知道我肯定全告诉你。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>您知不知道曾经在卡伊伦岛生活的兽人啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "炼金术士帕尔加",
+      "question": "<FONT color=#7e12d2>（帕尔加目光一滞，像已经等待这个问题很久一般说道。）</FONT><br>我当然知道。他是我的远亲。是一位非常优秀非常伟大的人。因为他是一个走遍了谜之大陆全境进行测量并留下记录的杰出<FONT color=#a94407>地图学者</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>地图学者？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "炼金术士帕尔加",
+      "question": "我们兽人的性格原本就很开放而且向往自由，大部分都不会长久停留在某一个地方，喜欢过流浪生活。",
+      "answer": ""
+    },
+    {
+      "npc": "炼金术士帕尔加",
+      "question": "这种天性加上每个人能力不同，所以有的人游走于全国各处做生意，像我一样头脑聪明的人会去收集全国各地的材料和物品来研究炼金术或魔法，也有人像卡伊伦岛那位一样，走遍全国并留下记录。",
+      "answer": ""
+    },
+    {
+      "npc": "炼金术士帕尔加",
+      "question": "他留下的是最初也是最后一份测量<FONT color=#a94407>谜之大陆</FONT>的<FONT color=#a94407>唯一记录</FONT>。<br>之前谜之大陆被维斯提内统治，因而除了女神之外，其他人根本不可能留下大陆全貌的记录。",
+      "answer": ""
+    },
+    {
+      "npc": "炼金术士帕尔加",
+      "question": "因此他隐居在<FONT color=#a94407>卡伊伦岛</FONT>想要<FONT color=#a94407>秘密完成地图的收尾工作</FONT>。<br>遗憾的是海兰德尔入侵后，幸存下来的人类和他都下落不明，也没人知道他留下来的地图完成的怎么样了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>兽人地图学者留下的最后的谜之大陆地图……！原来是它！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "炼金术士帕尔加",
+      "question": "看来好像帮到你了。<br>需要我帮忙的时候你可以随时来找我。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "我和格里高利在梅尔卡港口前面等你。",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "等你找到线索的时候再叫我，到时候我跟着你。<br>不要用那种眼神看着我！我没想逃跑！",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "打听到什么消息了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰兰特！我知道卡伊伦岛上治愈之杯的线索是什么了！</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "什么？你说的是真的吗？",
+      "answer": ""
+    }
+  ]
+}

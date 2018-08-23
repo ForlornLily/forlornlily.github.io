@@ -1,0 +1,217 @@
+{
+  "qkname": "焦急的心情",
+  "data": [
+    {
+      "npc": "卡汉拉",
+      "question": "……你通过熔岩江入口，就可以去往<FONT color=#a82424>监视者之塔</FONT>。<br>你想要的答案的引子就在那里……",
+      "answer": "",
+      "image": "qw_94.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（卡汉拉好像不打算再多说。到监视者之塔去吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ionCry}<br><FONT color=#7e12d2>（正在哭泣的梅里恩戴尔）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>梅里恩戴尔！？你是不是梅里恩戴尔？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9432_qu_01.ogg}<br>呃？你是谁？你是做什么的？怎么会在通道的尽头出现……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>梅里恩戴尔……？</FONT><br><FONT color=#662500>你不记得我了？我们之前见过面的，我是……火焰山入口的……{user_nick}！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9432_qu_02.ogg}<br>什么意思？我以前没见过你啊。而且这里是巨石碑！这不是你该来的地方。如果你只是个普通人，请赶快回去，如果你是巨石碑的亡灵，希望你别妨碍我。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不不！梅里恩戴尔……我……呃，难道这是比我看见的记忆更早的过去……？<br>我，我想说……我是在巨石碑中徘徊时见到你的！梅里恩戴尔，你和佩达是一起的吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "啊？这你怎么……？我明白了，你是被巨石碑的旋流卷入，无法踏上正确的时间路途的冒险家吧。这样的话，你认识我也不奇怪……啊啊，这弯弯绕绕地说得我都糊涂了。怎么会变成这样呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>发生什么事了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9432_qu_03.ogg}<br>你不知道？未来的我什么也没对你说吗……<br>啊，眼下巨石碑之门渐渐开启。生命之树正忍受着痛苦。<br>可怜的女王……她的哀鸣声让所有同族都陷入了恐惧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么！不是有封印石吗……？</FONT><br>\n<FONT color=#662500>就是那个封印巨石碑之门的东西？</FONT><br>\n<FONT color=#662500>那是古代建造的！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "……<FONT color=#7e12d2>（梅里恩戴尔似乎想说什么，又闭上了嘴）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>还有阿尔杰塔呢！？如果封印石出事了，那阿尔杰塔她怎么样了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9432_qu_04.ogg}<br>阿尔杰塔……？<FONT color=#7e12d2>（梅里恩戴尔惊讶地看着我）</FONT><br>你说的是古代记录中的银龙？关于她的记录在古代就终结了。<br>她不存在于这个世界。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？！？！？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（这是怎么回事？！梅里恩戴尔虽是过去的人，可与阿尔杰塔或古代人相比，她生活的年代更靠后啊？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（佩达说过古代人灭亡了，当时梅里恩戴尔明明是跟他在一起的啊）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（阿尔杰塔不可能不在的……她是从遥远的古代一直活到现代的银龙）</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（怎么会有阿尔杰塔不存在的时代！）</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "呃，你在发愁什么啊？出什么事了吗……？<br>嗯，既然你不是敌人，可以帮我个忙吗。尽管眼下佩达他正试图封上巨石碑之门，可再这样下去，门真的会开启的……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃？你说佩达他要封上巨石碑之门？他不是想开启那扇门吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_npc_pether.png"
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9432_qu_05.ogg}</FONT><br><FONT color=#7e12d2>（梅里恩戴尔似乎真生气了）</FONT><br>你说什么啊！佩达他正试图封上巨石碑之门。<br>我在帮他招募人手。只要是能来到这巨石碑附近的人都是个希望！<br>得有人去协助他。请你快去找佩达吧。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "不管你在哪里，你毕竟是这个世界的一份子，不是吗……？<br>我们不能眼睁睁看着这个世界走向灭亡。我要尽全力帮助佩达。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这，这是当然……（可佩达他为什么这么做？他明明是要……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "佩达他就在这附近。我也会去找他，请<br>\n<FONT color=#387206>{user_nick}</FONT>你也快动身吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（继续和梅里恩戴尔说下去似乎也得不到什么信息。干脆直接去见过去的佩达，搞清楚现在是什么情况吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（虽说是在过去，可他的行动怎么会与现实世界正相反？过去到底发生了什么事……？）</FONT>",
+      "answer": "",
+      "image": "qn_npc_npc_pether.png"
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "你既然是来到巨石碑附近的旅行者，实力应该很强吧？</FONT><br>\n<FONT color=#2b2723>祝你好运。</FONT><br>\n<FONT color=#7e12d2>（梅里恩戴尔很快走掉了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9432_qu_01.ogg}<br>你是谁。居然能来到巨石碑处，看样子是个厉害的冒险家……<br>你就是打算开启巨石碑之门的人吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这是什么话……企图打开巨石碑之门使世界毁灭的人……不是你吗！佩达！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9432_qu_02.ogg}<br>什么……？哈哈哈，这世界真是乱套了，如今竟连阿猫阿狗般的人物都能进入巨石碑！<br>愚蠢的家伙！<FONT color=#7e12d2>（佩达的语调中隐约透出愤怒）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（他说的是真的吗？！就算是过去的佩达，也依然散发出慑人的威严啊！这时他是否拥有龙之宝玉了呢？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9432_qu_03.ogg}<br>凡事不靠自己的双眼去观察，却一辈子将虚妄的传闻当做真相的人，是多么愚昧！趁我还没杀了你，快回去吧，无知的人！等到世界即将倾覆时，才挣扎地想寻求真相，为时已晚！你们怎么就想不明白正是你们的愚昧，才导致世界颓败至如此地步！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可是你……！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9432_qu_04.ogg}<br>我要去<FONT color=#a82424>痛哭墙</FONT>。<br>在那里，你自己睁大双眼看看吧。<br>看清楚你的敌人到底是谁！",
+      "answer": "",
+      "image": "qw_95.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……（这种威严……这惊人的力量……看样子不管在哪个年代，佩达都是个极其厉害的角色……）</FONT>",
+      "answer": "",
+      "image": "qn_npc_npc_pether.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（力量的事先不提，佩达说的话为什么会和现实世界的有这么大的出入？这事我得好好想想。</FONT><br><FONT color=#662500>首先，这个佩达正试图封上巨石碑之门，可我所见过的佩达，却是想打开巨石碑之门的。两者的目的完全相反啊。这世界上又不可能有两个佩达……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（我觉得这其中肯定发生过什么事，但没法确切知道发生了什么。</FONT><br><FONT color=#662500>还是先追上佩达吧。虽不知卡汉拉所说的那条可以返回现实世界的道路是什么，可如果能知道佩达身上发生过什么事……或许能成为阻止他开启巨石碑之门的关键）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务完成",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（我尽快把这里的事了结就回去，你要等我，阿尔杰塔。</FONT><br><FONT color=#662500>千万不要出什么事啊……）</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    }
+  ]
+}

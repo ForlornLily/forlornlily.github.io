@@ -1,0 +1,258 @@
+{
+  "qkname": "新的开始",
+  "data": [
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "<FONT color=#387206>{user_nick}</FONT>。<br>\n我想拜托你去做个调查。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>调查？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "是的，调查。你去做任务的时候，调查团曾去确认过百合花是否已消失，但我觉得有必要对这件事进一步的确认。所以你就再去一趟<FONT color=#a82424>百合花远征基地</FONT><FONT color=#2b2723>确认一下吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "总之这件事要仔细去做。我当时要是有这份仔细的话该多好啊。那么我的那块地就……唉，我的钱啊！我要是早分析到市区遭到入侵后，房价会大跌就好了……柯梅里纳……你怎么不早告诉我呢……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……你不会是又买地了吧……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "……啊哈……过去的失败就不要再提了。你快去快回吧。唉，我的地啊…… 卡拉秋仙境……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我去去就回。（刚好我也有个约定）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "呜呼，真是要折寿啊……<br>啊，话说，斯泰拉好像正在找你，<br>我这里没什么事情，你先去见斯泰拉吧。<br>我在这里等着你~<br><FONT color=#7e12d2>（请和神圣天堂的高级魔法师斯泰拉对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "嗯，好的。 <FONT color=#a82424>百合花远征基地</FONT>可以通过<FONT color=#a82424>泰尔罗萨入口</FONT>进入，这个你应该知道吧？那辛苦你了~<br><FONT color=#7e12d2>（请前往泰尔罗萨入口的百合花远征基地）</FONT>",
+      "answer": "",
+      "image": "qw_81.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "</FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#2b2723>……！你来啦。唉……刚刚... 我那厚脸皮的请求真是对不起了。我明明亲自把宝玉给了你，却又对你提出了那样的请求……</FONT><FONT color=#7e12d2>（柯梅里纳低下了头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>没关系，在那样的情况下，你也别无选择啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "事情怎么会变成这样子呢……就算询问贝思柯德，也和我所知道的历史没有多大的出入……就算已经和历史有了出入，又怎么会这么明显……",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "有出入的历史……当然有可能会让事情变得更糟糕，我太慌张了……我还身负着对未来历史负责的责任……看来我还是太稚嫩了。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>（柯梅里纳脸红了）</FONT><br>嘿嘿，听<FONT color=#387206>{user_nick}</FONT>你这么一说，我心情顿时好多了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（居然这么高兴……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……不过…… 即便如此…… 现在也是该和<FONT color=#387206>{user_nick}</FONT>说再见的时候了。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……<FONT color=#387206>{user_nick} </FONT>你真的是位善良又强大的人。<br>但是，正因为如此……我在不知不觉中好像对你产生了依赖。<br>而且，<FONT color=#387206>{user_nick</FONT>}还有<FONT color=#387206>{user_nick}</FONT>你自己的路要走……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我要走的路……那柯梅里纳你呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "我以后……要变得更强大。总有一天，我会像<FONT color=#387206>{user_nick}</FONT>你一样……能给需要帮助的人带去希望……我想要成为这样的人。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>柯梅里纳……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "我会为了不让这个时代的人民失望……而努力的。<br>下次我们再见面的时候，我会变得比<FONT color=#387206>{user_nick}</FONT>更强大，就能够帮助<FONT color=#387206>{user_nick}</FONT>你了！",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "嘿嘿，那当然了！<br><FONT color=#387206>{user_nick}</FONT>你不管走上什么样的道路，我都会坚定不移地支持你。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也会在背后支持你的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "真的……真的太感谢了。我…… 要是没有<FONT color=#387206>{user_nick}</FONT>的话……我是绝对不可能走到这一步的……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也是，如果没有柯梅里纳的帮忙的话，我也走不到今天。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "嗯，你要多多保重身体，呜呜……不，从现在开始，我不能再哭泣了！<br><FONT color=#7e12d2>（柯梅里纳含着泪水，表情显露着坚强）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>柯梅里纳……你也要注意身体。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>（柯梅里纳比起第一次看见她时更坚强了。尽管不知道什么时候能再见到她，但是我很期待那一天的到来）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>（基地里已经没有什么特别的地方了，回去向高级魔法师斯泰拉报告吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_soceressstella.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "嗯~ 好吧，情况怎么样了？<br>\n<FONT color=#7e12d2>（告诉她所见所闻，以及关于柯梅里纳的事情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "原来如此。那孩子比我第一次见到她时更加坚强了。<br>如此告别…….希望以后还能再见到她。如果我也能见她一面就好了……没办法了……<br><FONT color=#7e12d2>（斯泰拉露出遗憾的表情） </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>她突然说要离开，我也觉得很吃惊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "……人世间有太多不可预见的离别。<br>现在连柯梅里纳都离开了，看来这场战斗真的结束了……<br>唉~没想到活着碰到这么多稀奇古怪的事情，居然还和未来人作战。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（斯泰拉你又没参加战斗……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "唉，我在中间传话也是很费力的。<br>对你这样的人要用能让你理解的方法说明，对于年长的人又要用让他们能够理解的方法说明……哎，有种魔力都快要透支的感觉了。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "\n呵呵呵~只要看你的表情，我就知道了。对了，特拉玛依正在找你，你去见见他吧。 ",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>特拉玛依？</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "嗯，他好像是有什么重要的事情要告诉你。<br>你赶紧去找他吧。<br><FONT color=#7e12d2>（请去找神圣天堂王城的泰兰斯·特拉玛依）</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "啊，你来了啊。我已经确认过贝思柯德平安的消息了。真是太神奇了。他说要去找代替宝玉的什么东西……然后就立刻离开了。我真是受不了他这种冷冰冰的态度。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "走的人就让他走吧，我们做好自己的事情就行了。<FONT color=#387206>{user_nick}</FONT><FONT color=#2b2723>, </FONT>你还记得我之前跟你说过的关于阿努阿兰德的事情吧？",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "经历过这么多复杂的事情后，就算你忘了也是可以理解的。阿努阿兰德是精灵们的地盘。过去是不允许外人随便进入的。不过……贝思柯德让我告诉你，那个地方即将发生了一些事情。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么事情……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "走的人就让他走吧，我们做好自己的事情就行了。<FONT color=#387206>{user_nick}</FONT><FONT color=#2b2723>，贝思柯德让我转告你，阿努阿兰德即将要发生什么事情。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你说贝思柯德……？ </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "那么长话短说吧。贝思柯德走的时候让我转告你。阿努阿兰德那里可能会发生了什么大事……",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "他说话就是这么言简意赅。从他的话语中来看，他应该是已经前往阿努阿兰德了。不过，到底会发生什么事情呢……",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我就是传个话。我不强求你的，你自己做出判断后再决定吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "据我所知，你最近通过和许多邪恶的敌人战斗，立下了赫赫战功。<br>不要太过勉强自己，要注意身体才是。<br>辛苦你了。<br><br><FONT color=#7e12d2>*已完成[章节外传 II.代号杰罗]</FONT>"
+    }
+  ]
+}

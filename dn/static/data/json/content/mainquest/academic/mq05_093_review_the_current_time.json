@@ -1,0 +1,209 @@
+{
+  "qkname": "讨论现在的时间",
+  "data": [
+    {
+      "npc": "牧师托马斯",
+      "question": "我现在有很多事情需要处理，没空招呼你这个小姑娘。<br>\n <br>\n※ <FONT color=#7e12d2>必须要从学者站台领取任务之后，才能进行。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n姐姐我很忙，没空理你这个小孩。<br>\n所以，如果你没什么急事，还是下次再来吧。<br>\n※ <FONT color=#7e12d2>必须要从学者站台领取任务之后，才能进行。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_MR_Jasmin_sp_03.ogg}<br><FONT color=#387206>{user_nick}</FONT>，现在装备用起来顺手了吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n不知道，感觉和之前一样啊……？",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "是吗？<FONT color=#a82424>宝林</FONT>在总公司也是声名远扬的实力铁匠，真令人意外。<br>无论如何，现在正式开始作战吧？",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "\n首先要了解现在的准确时间。只凭大致的时期是无法推测出具体时间的，当务之急是了解当前事态进展到什么地步了。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "在你去修理装备的这段时间里，我用虚拟数据测算了一下，我估计你所到的时期应该是<FONT color=#a82424>秘传之球盗窃事件</FONT>所发生的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "我往你那里传送些材料，你看下吧。<br>\n<FONT color=#7e12d2>（百合花在画面上输出了材料）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "File No.103 ：秘传之球",
+      "question": "<FONT color=#7e12d2>根据预言的时机已经到来的指示，牧师们将贤者法杖搬运至魔法山脊。为了将曾为一体的贤者法杖和秘传之球重新结合，实现贤者的预言。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "File No.103：秘传之球",
+      "question": "<FONT color=#7e12d2>但在将贤者法杖搬运至魔法山脊的途中，由于受到了魔物的袭击，法杖遗失了。秘传之球也落入了魔物的手中，幸好牧师与魔法师齐心协力，最终找回了两件宝物。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "File No.103：秘传之球",
+      "question": "\n<FONT color=#7e12d2>事后证实，此事为神殿骑士团的内部人员所为，同时那个人还是龙之追随者……</FONT><br>\n<FONT color=#7e12d2>（数据在传送过程中突然中断了）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "\n仔细看过材料了吗？现在你去见见神殿骑士团长<FONT color=#a82424>牧师托马斯</FONT>，向他了解当前事态发展的情况吧。<br>\n你好不容易变成了这么可爱的小女孩，你要好好利用这一点啊。",
+      "answer": "",
+      "image": "qn_cl_tomas.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我可不是小孩子……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_MR_Jasmin_sp_05.ogg}<br>嗯，那又怎么样？只要能派上用场就行。<br>不要忘了，你是我们最后的希望……",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "此外，可以通过[ <FONT color=#a82424>K</FONT> ]按键或者<FONT color=#a82424>学者站台</FONT>的技能程序，提升学者的技能。<br>\n技能升级之后，请仔细查看吧。",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "很抱歉，我好像给你施加了很大的压力。<br>我相信你的能力，我会在远处为你加油，请振作起来……<br>\n<FONT color=#7e12d2>（与百合花的通讯结束）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "我现在有很多事情要处理，没空理你这个小孩子。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n姐姐我很忙，没空理你这个小孩。<br>\n所以，如果你没什么急事，还是下次再来吧。",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br>▷ <FONT color=#7e12d2>请去找牧师托马斯，向他了解目前的情况吧。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "小姑娘，你来找我有什么事情吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你好！</FONT><br>\n<FONT color=#662500>我有些事情想向你请教。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "嗯……很抱歉，你来得不是时候。<br>因为某些内部问题，我忙得焦头烂额，如果你没什么急事，还是下次再来找我吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>是不好的事情吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "\n这件事可不能随意告诉外部人，即便你是小孩也不行。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>啊！找到叛徒了？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "ionTalk2}<br>什么……？<br><FONT color=#7e12d2>（托马斯动了动眉毛）</FONT><br>小女孩，你是从哪儿听说的这些事情？是谁让你这个小孩子来问我的？",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "\n小姑娘，你在看玩笑吧？<br>\n即便我们是女神忠诚的仆人，我们也会生气的哦。不能和大人开玩笑的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>好的……不过，我知道一些事情。</FONT><br>\n<FONT color=#662500>叛徒是……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "<FONT color=#7e12d2>（听到这里，托马斯眉头紧蹙）</FONT><br>你这玩笑开得太严重了吧？！他作为神殿的骑士，目前正忠诚地执行着任务。<br>\n我不想再听到你肆意诽谤他人，你走吧！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>……噢噢？</FONT><br>\n<FONT color=#662500>总之，托马斯好像不想和我继续交谈了。</FONT><br>\n<FONT color=#662500>现在去见见</FONT><FONT color=#a82424>高级魔法师辛西亚</FONT><FONT color=#662500>吧？</FONT>",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br>▷ <FONT color=#7e12d2>请去找高级魔法师辛西亚，向她了解目前的情况吧。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "我好想没见过你啊……？<br>\n是魔法师志愿生吗？",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "很抱歉，姐姐我现在有点忙。<br>如果你是志愿生，就去找塔拉吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>请问秘传之球找到了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n什么？！你……你是从哪里听说的？",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n你怎么用这么可爱的脸问出这么荒唐的问题……哈哈……<br>\n但你以为我对可爱的东西没有抵抗力……嗯？<br>\n<FONT color=#7e12d2>（辛西亚眼睛中闪现了光芒）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "小孩……你好像有件很有趣的东西啊？<br>那是用来做什么的啊？<br>\n ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>这个吗……？这是……通讯器啊……？</FONT>",
+      "answer": ""
+    }
+  ]
+}

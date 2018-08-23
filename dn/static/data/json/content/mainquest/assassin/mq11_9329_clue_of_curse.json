@@ -1,0 +1,224 @@
+{
+  "qkname": "诅咒的线索",
+  "data": [
+    {
+      "npc": "精锐士兵克林德",
+      "question": "\n没想到主教伊格纳西奥竟然会背叛王国……<br>真让人震惊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(到神圣天堂王城地下秘密区域去和战士西恩谈谈吧。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "这是宿命。<br>\n所有的一切都在阿尔泰亚女神安排的巨大的特雷西亚之中。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……你在这里干什么？<br>难道不是要到神圣天堂王城去确认情况吗？",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "弓箭手特里亚纳正在赫尔马岱港口等我。<br>我们打算先到莲花沼泽去。",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "我想把杰兰特的宝玉交给阿尔杰塔。<br>我能做的事情……只有这个了。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你还是觉得这是自己的责任吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "这是我的过错。我嘴上说我会遵守约定，救出先知，但最终还是把一切都搞砸了。<br>我现在终于明白，无知是多大的罪过。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊，对了。<FONT color=#387206>{user_nick}</FONT>，可以的话，我能请你帮个忙吗？",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "因为和我一起去消灭萨芬特拉，特里亚纳好像也被萨芬特拉的血淋到，受到了污染。当然，我也……<br>\n我遇到这种事，是我自己的错，但特里亚纳是被无辜卷进来的。",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "在和黑龙的战斗中，她就已经沾上了黑龙的血。现在又遇到了这种事，我没脸去见她。特里亚纳从普雷利镇开始一直和我同姓，帮了我很多忙，我欠了她不少人情……",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "我问了一下伊西莉安，她说可以制作延缓污染速度的药。 <br>我想为特里亚纳和其他冒险家准备那种药。你能帮帮我吗？",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊，需要搜集的是凄凉森林化石碎片。<br>化石碎片在凄凉森林幽灵村中可以获得。拜托你了。",
+      "answer": "",
+      "image": "qw_45.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "请你到<FONT color=#a82424>凄凉森林幽灵村</FONT>去搜集凄凉森林化石碎片，然后交给赫尔马岱港口的特里亚纳。<br>拜托了。",
+      "answer": "",
+      "image": "qw_45.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n你要到凄凉森林幽灵村去啊。<br>\n知道了。明白了。",
+      "answer": "",
+      "image": "qw_45.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "啊，战士西恩让你把这个交给我……？<br>谢谢。",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "他说要到<FONT color=#662500>莲花沼泽去。<br>特里亚纳，你也要去吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "是的，这也是我的特雷西亚的一部分。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "是的。这是宿命。<br>所有的一切都在阿尔泰亚女神安排的巨大的特雷西亚之中。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "但是有时……我能听到的只是空虚的风声而已。有时感觉好像从未听到过特雷西亚的振翅声一样。<br><FONT color=#7e12d2>(特里亚纳用非常复杂的眼神看着{user_nick})</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "你也要一起去吗？",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "英雄<FONT color=#a82424>卡拉秋</FONT>就住在莲花沼泽中。<br>也许可以从她那里得到什么教诲。<br>\n如果我的特雷西亚允许的话。",
+      "answer": "",
+      "image": "qn_npc_karakule.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡拉秋……？</FONT><br>\n<FONT color=#662500>原来如此。她在那里啊。</FONT>",
+      "answer": "",
+      "image": "qn_npc_karakule.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "听魔法师安杰利卡说，卡拉秋是非常厉害的魔法师。<br>受到魔物之血的污染之后，感觉身体变得越来越重了。我想去见见卡拉秋，看看有没有什么治疗的方法。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>治疗萨芬特拉的血和黑龙的血造成的污染吗？<br>卡拉秋真的知道这些吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_karakule.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "我也不知道。在见到她之前，我没办法确认任何事情。<br>那超出了我的知识范围。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(说不定卡拉秋对我和幻象进行了研究。<br>虽然时间有点混乱，但我确实在这附近见到了过去的她。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_karakule.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "好了，我要失陪了。<br>我得去找西恩和其他人了。",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n你要去找弓箭手特里亚纳啊。<br>\n知道了。",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "如果我们的缘分没有就此断绝，我们一定还会再见面的。<br>在特雷西亚的引导下……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(关于今后的计划，先去和露娜莉娅谈谈吧。</FONT><br>\n<FONT color=#662500>她应该就在附近等着我……)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "到莲花沼泽去？<br>因为在那里见到卡拉秋的话，就可能获得帮助？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我们不是见过过去的她吗？从那之后已经过去了几十年了。<br>如果她真的在这段时间里进行了研究，也许现在……</FONT>",
+      "answer": "",
+      "image": "qn_npc_karakule.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "也许现在可以给我们什么解答，对吧？<br>嗯……有这个可能。<br>如果这个问题有简单的解决方法的话。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "虽然我觉得很可能是空欢喜一场。<br>……不过我不反对。<br>\n反正我也没什么地方可去。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我只是跟着你罢了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好吧，不管你说什么，我只是想努力回到原来的地方，并把你送回去而已。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(其他冒险家说为了寻找治疗魔物之血造成的污染，要去找卡拉秋。<br>如果卡拉秋有那么渊博的知识，说不定也知道解决幻象问题的方法。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_karakule.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "原来你想见卡拉秋啊。<br>\n但是，你得先见见一个人。",
+      "answer": "",
+      "image": "qn_npc_karakule.png"
+    }
+  ]
+}

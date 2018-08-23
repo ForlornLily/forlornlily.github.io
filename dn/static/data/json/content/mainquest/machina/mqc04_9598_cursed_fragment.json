@@ -1,0 +1,253 @@
+{
+  "qkname": "被诅咒的碎片",
+  "data": [
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "过去办的事情如何啦？贵族们会由我来说服，你就放心吧。<br><FONT color=#7e12d2>（要去见黑山山角的阿尔杰塔）</FONT>",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "黑龙再次苏醒，而且还建造了巢穴，真烦人。<br><FONT color=#a82424>50年前</FONT>，为了打开黑龙的巢穴必须要有<FONT color=#a82424>古代祭司长的</FONT> <FONT color=#a82424>符文</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那么这次……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "是啊。如果杰兰特能找出其他方法就更好了，不过那还是未知，所以现在最好制作一个<FONT color=#a82424>古代祭司长的符文</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我来吧！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "要想制作<FONT color=#a82424>古代祭司长的符文</FONT>，必须要先搜集符文碎片。然后将碎片制作成完整的符文，再找到可以注入力量的核心后，合成一体就可以了。<br>你知道该怎么做了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>首先……要搜集符文碎片。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "还挺积极的。也是，古代人就近在咫尺，却不能马上找回来，当然焦急了。<br>那么你赶快去搜集<FONT color=#a82424>符文</FONT> <FONT color=#a82424>碎片</FONT>吧。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>去哪里可以搜集到？</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "看来你还真是一无所知。你知道<FONT color=#a82424>枯竭的玛丽莎泉</FONT>吗？不久前，那里曾经有个可以吸取黑暗力量的装置。现在应该也有一些破碎的符文。",
+      "answer": "",
+      "image": "qw_35.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的，我去去就回。</FONT>",
+      "answer": "",
+      "image": "qw_35.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你仔细找的话就能找到的。<br>别漏掉任何一个角落，找出<FONT color=#a82424>10个</FONT>回来吧。",
+      "answer": "",
+      "image": "qw_35.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "过去办的事情如何啦？贵族们会由我来说服，你就放心吧。<br><FONT color=#7e12d2>（要去见黑山山角的阿尔杰塔）</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "仔细查看<FONT color=#a82424>枯竭的玛丽莎泉</FONT>的周边，就会找到符文的。虽然只是一些<FONT color=#a82424>碎片</FONT>，但搜集回来的话，就能制成完整的符文，所以你一定要睁大眼睛看仔细了。",
+      "answer": "",
+      "image": "qw_35.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "嗯...不错嘛，反正这种事连猴子都能完成。我的意思说，你辛苦了。",
+      "answer": "（递交月牙碎片）"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "所谓人类，从古至今都是一个样。古代人也好，现代人也好，在我看来没什么两样。<FONT color=#7e12d2>（阿尔杰塔抚摸着符文）</FONT>这个符文原本是完整的，可是却被愚昧的人类糟蹋成这副样子。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>发生什么事情了？</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "古代人中间也有人有一些奇怪想法。他们做了一些<FONT color=#a82424>不可饶恕的</FONT> <FONT color=#a82424>实验</FONT>。为什么呢，因为肯定会有一些总是要犯下无法挽回的错误的人，不是吗？要是这世界上都是你这样纯真的笨蛋的话，也不会发生这样的事情了。<br><FONT color=#7e12d2>（阿尔杰塔皱起了眉头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "总之，要用这些制成<FONT color=#a82424>古代祭司长的符文</FONT>。将碎片合为一体，就像拼图一样。就连小孩子都会。不过你不行吧？所以我来替你做吧，你要谢谢我。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是。谢谢。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "哼，你说得倒好听……简单的事情不一定很快就能完成。制作古代祭司长的符文需要一些时间。<br>趁这段时间你去好好修炼吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>在此之前我，还得去向王城的伊格纳西奥大人报告。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "什么？王城？报告什么的。真是拿你没办法啊。<br>你现在还对人类抱有什么期待吗？你要吃多少苦头才能打起精神来啊？",
+      "answer": "",
+      "image": "qw_sainthaven_inside.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>反正我也没法去。因为兽人是不能去王城的。</FONT>",
+      "answer": "",
+      "image": "qw_sainthaven_inside.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "不能去？他们就因为你们是不同种族的，就差别对待，无视你们对吧？<br>那样的人类交给你的事，你还乖乖做了，看来你真是无可救药的大笨蛋啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是的。我……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "哼，我对你是不是被人类无视没有兴趣。<br>但是要是我的话，就无视人类的什么规矩，直接闯进去。不，不对。我从一开始就不会做像进入王城这种麻烦事的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>上次我也被赶出来了……就那么进去也行吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "这个嘛。这得你自己决定啊。我和你废话，又浪费不少时间。<br>我要集中在这件事上。你要去王城报告也好，诉苦也好，你自己看着办吧。",
+      "answer": "",
+      "image": "qw_sainthaven_inside.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……我必须专心工作了。和你争论也够烦的。<br>那么，你是去<FONT color=#a82424>王城</FONT>报告也好，诉苦也好，随你的便吧。",
+      "answer": "",
+      "image": "qw_sainthaven_inside.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你已经知道了巢穴生成的事了呢。我把这个危险的消息告诉了周围的人，你就能出入王城了呢。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "我们虽然不能亲眼确认巢穴，但是我有<FONT color=#a82424>贤者之</FONT> <FONT color=#a82424>眼</FONT>。<FONT color=#7e12d2>（伊格纳西奥拿出了造型独特的圆球）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贤者之……眼？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "那是50年前，黑龙之战时使用过的古老物件。当这颗宝珠附近形成一个强力<FONT color=#a82424>结界</FONT>的时候，它就会放射出一种强光。巢穴是一种最为强大的结界，所以它的形成也可以通过这颗宝珠知道。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真是个神奇的东西。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "是谁建造的<FONT color=#a82424>巢穴</FONT>呢？<br>是劫持了先知的<FONT color=#a82424>黑骑士</FONT>吗？",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>其实……是黑龙复活了。</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "什么？！黑……<FONT color=#a82424>黑龙</FONT>再次苏醒了？<br>该死……这是最糟糕的情况。噢噢……愿我们的神能守护神圣天堂……<br>\n<FONT color=#7e12d2>（主教一边叹息，一边双掌合十）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "事情变得越来越糟。看来已经无法避免一场正面冲突了。幸好阿尔杰塔在帮助我们制作<FONT color=#a82424>古代祭司长的符文</FONT>，这便减少了我们的一些担忧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>您知道古代祭司长的符文吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "当然知道了。那是在<FONT color=#a82424>50年前，为了突破黑龙的巢穴</FONT>所使用过的物品。<br>总之，黑龙已经再次苏醒了，这让我很担心先知的安危。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>如果不能尽快救回的话……</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "既然黑龙已经苏醒，这神圣天堂王城有可能马上就会遭到魔物们的攻击。在此之前，我们必须找到先知。<br><FONT color=#7e12d2>（主教沉思着望向我）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "在说服其他贵族和国王陛下的同时，还得动员神殿骑士团做好作战准备。",
+      "answer": "",
+      "image": "qn_npc_king_casius.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>所以，王城决定要出兵了吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_king_casius.png"
+    }
+  ]
+}

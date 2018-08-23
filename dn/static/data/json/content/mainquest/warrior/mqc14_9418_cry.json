@@ -1,0 +1,338 @@
+{
+  "qkname": "呐喊",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(从古代的石板中放射出的光芒指向炙风地狱)</FONT>",
+      "answer": "",
+      "image": "qw_93.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(前往炙风地狱吧)</FONT><br>\n <br>\n ",
+      "answer": "",
+      "image": "qw_93.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(前往炙风地狱吧)</FONT><br><br><FONT color=#7e12d2>*该任务无法以组队形式进行。</FONT>",
+      "answer": "",
+      "image": "qw_93.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……这么快？天啊，真了不起。不对，这是怎么回事？这是绝对不可能的！<br><FONT color=#7e12d2>(好像无法与其对话，和发光的地方对话吧。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "……<FONT color=#7e12d2>(一言不发地咬着下嘴唇)</FONT><br><FONT color=#7e12d2>(好像无法与其对话，和发光的地方对话吧。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "天啊，这是封印石？这么快？？你们这些家伙，是怎么做到的？这明明是不可能的。<br><FONT color=#7e12d2>(阿尔杰塔好像真的大吃一惊)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "……<FONT color=#7e12d2>(一言不发地咬着下嘴唇)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9418_qu_01.ogg}<br>这封印石不管是用来存放我的力量，还是用来控制巨石碑之门，我看都能胜任。<br>不对……还需要我的力量吗……当然，要支撑它的话好像还是逐渐需要些力量的……",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9418_qu_02.ogg}<br>你到底是怎么办到的？阿罗诺！？",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "ndnpc_Arno_9418_qu_01.ogg}<br>……正如你所做的一样，我们所有人不惜耗费生命和灵魂才建成了这块封印石。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9418_qu_03.ogg}<br>耗费生命和灵魂？我有那么拼命吗？",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "ndnpc_Arno_9418_qu_02.ogg}<br>……你会这样想也不足为奇，毕竟你是龙。你对于自己的牺牲既不感到畏惧，也丝毫没有犹豫。你为的是完成使命，而我们却不同。",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "ndnpc_Arno_9418_qu_03.ogg}<br>……我们人类比你想象的更加软弱无力。我们是永远都优先考虑自己，而且不敢勇于承认错误的懦弱的人类。甚至我们将这个世界推到灭亡的边缘，还一味地逃避责任，只想着如何活命。有人说是你错了。",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "ndnpc_Arno_9418_qu_04.ogg}<br>但我仔细考虑过……错处在我们……<br>就算再怎么错，我们也不应该以身为被女神选中的强大种族为由，用傲慢掩盖一切。这是我们所犯下最大的过错……？",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "ndnpc_Arno_9418_qu_05.ogg}<br>如果那强大力量会给所有生灵造成伤害和折磨，那得到它又有什么意义呢？<br>那不再是强大，而是邪恶。最为丑恶、恐怖的邪恶……",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "哪来那么多废话……我问你是怎么做到的。",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "ndnpc_Arno_9418_qu_06.ogg}<br>…<FONT color=#7e12d2>(深吸了一口气说道)</FONT>寄寓在封印石中的，是承载着女神祝福的我们族人的肉身。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9418_qu_04.ogg}<br>什么！？！？",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "得到女神祝福的强大力量，发挥出远远超越其他人类、其他生物的力量……！这种力量不同于我们迄今为止做过实验的任何生物，就是它让我们陷入傲慢难以自拔。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "那是什么意思，肉身？！肉身怎么会在里面，你在胡说八道什么呢？！这……不对，这个……<FONT color=#7e12d2>(阿尔杰塔的眼里充满了惊讶，来回看着封印石和阿罗诺)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "ndnpc_Arno_9418_qu_07.ogg}<br>请别惊讶，银龙。我们只是想稍微为你分担一点你肩负的痛苦。<br>同时，也希望以我们的死，来洗清我们的罪孽。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9418_qu_05.ogg}<br>死？！我从没提出过这种要求！我是让你们没有力量的话就老实待着，从没说过让你们去死！不，不能这么做，不行！！你到底在做什么！我从来没说过让你们去送死的话？！！",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9418_qu_06.ogg}<br>你觉得我为什么要不惜生命来守护你们？！<br>你们给我的报答就是这个？！？！！？",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "<FONT color=#7e12d2>(阿罗诺面带笑容)</FONT>也许对于坚守着纯粹使命的你来说难以接受。但拥有过生命的我们已经对这个世界无法带来任何帮助了。",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "既然没有帮助就该消失，不是吗？更何况是拥有着世界守护女神之力量的我们呢……我再也不能眼看着我的同族继续堕落下去了。",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "ndnpc_Arno_9418_qu_08.ogg}<br>对这个世界来说，更需要的是你，而不是我们。你没听见这个世界的生灵埋怨我们的诉苦声吗……",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9418_qu_07.ogg}<br>……你们这么做真是蠢透了……！",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "得到女神祝福的龙啊……我们的生命与你相比实在是太渺小了，就让我们成为守护这世界的柱子吧。我们终于发挥了应有的作用，而且你也不必消失了。以后就请你好好守护这个世界吧。",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "ndnpc_Arno_9418_qu_09.ogg}<br>纯洁、美丽又高贵的……银龙……阿尔杰塔……。<br>这就是我们给你的答案。",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "ndnpc_Arno_9418_qu_10.ogg}{actionExcuse}<br>阿尔杰塔……永别了。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "阿罗诺？！难道你也！！！",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9418_qu_01.ogg}<br>……<FONT color=#7e12d2>(呆呆地站在那里，眼泪呼之欲出。)</FONT><br>银龙……这就是我们的回答。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9418_qu_08.ogg}<br>……？！！阿罗诺呢，阿罗诺他怎么样了？<br>你是谁？",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9418_qu_02.ogg}<br>……这就是父亲给出的答案。这么做都是为了你，可你为什么觉得难过呢？银龙……这时候更该难过，该哭泣的人，是我啊……",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9418_qu_09.ogg}<br>我到底什么时候要求他这么做了！哎，其他古代人在哪里？",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9418_qu_03.ogg}<br>….<FONT color=#7e12d2>(声音有些颤抖)</FONT>你刚才没听见父亲的话吗，你还不明白他的决定吗？<br>他将所有族人的肉身融化，建成了那块美丽的石头。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9418_qu_04.ogg}<br>他这么做是为了守护你，为了可以完完整整地储存你的力量，永远封印巨石碑之门。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "….<FONT color=#7e12d2>(受到打击的阿尔杰塔久久不能回过神来)</FONT><br>怎么这么傻……",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……等等，你是怎么回事呢？你……没有被封印吗？",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……因为我受到了父亲的诅咒……在没有完成父亲的指示之前，我是无法入睡的。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "我们还有许多需要处理的事。<br>父亲认为这些事只要一人足以完成……",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "而且他想得很周到，连这个也考虑到了。<br><FONT color=#7e12d2>(卡汉拉拿出了护身符)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……这是？",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9418_qu_05.ogg}<br>这下你明白了吧？阿尔杰塔……人类的肉体是无法在没有灵魂的情况下存在的。<br>你不用担心封印石会损坏。只要我们的灵魂永远徘徊在巨石碑中，这封印石也会永恒存在……。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "我的这个护身符将巨石碑的灵魂和封印石联系在一起。我只不过是一条通道而已。<br>我死去的话，将由我的后代继续守护这一通道。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9418_qu_06.ogg}<br>你不觉得他们很可悲，也很可怜吗？银龙……作为罪人的我们最后竟付出了这样的代价来赎罪……",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9418_qu_07.ogg}{actionGoodBye}<br>银龙，请你记住今天这一切。记住我们这些罪人是如何在悲惨痛苦中死去的……",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "为了赎罪，为了世界，为了你……",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "<FONT color=#7e12d2>(阿罗诺的身体消失了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……你个笨蛋！等等！！",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9418_qu_10.ogg}<br>……这什么意思，你们为什么要自作主张！！！",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……你自信满满的方法，就是将灵魂注入巨石碑，并把自己的身体融化成石块吗？",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "好啊！你可真了不起，阿罗诺！你这到底……干的是什么啊……",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你到底为什么要这么做，你个笨蛋，傻瓜！",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你个笨蛋……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……卡汉拉……阿尔杰塔……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那些封印石，全部是由死去的古代人化身而成的……<br>而他们的灵魂却在巨石碑内……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……卡汉拉……我虽然见过几次灵魂状态下的她，却没想到她是这样一个人。<br>不过，细想起来，她明明说自己是在古代人的村庄来着。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……老师……好像曾经提到过古代人的村庄。在灵魂的状态下……<br>虽然我们的村庄也继承了古代人的血脉，但却从未叫过古代人的村庄啊……那么老师指的地方是哪里呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……该不会巨石碑里的那些灵魂所在的地方叫做村庄吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……(唉，不会的。别胡思乱想了……)</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>古代的石板放射出光芒，好像在指引我前往火焰峡谷 <br>……去看看吧。</FONT> ",
+      "answer": "",
+      "image": "qw_92.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>*达到72级以后可继续进行任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……卡汉拉……阿尔杰塔……</FONT><br><FONT color=#662500>我必须回到阿努阿兰德梳理下思绪才行。</FONT>",
+      "answer": ""
+    }
+  ]
+}

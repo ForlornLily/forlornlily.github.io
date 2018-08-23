@@ -1,0 +1,226 @@
+{
+  "qkname": "失败的净化",
+  "data": [
+    {
+      "npc": "西戴尔",
+      "question": "啊……！！您是<FONT color=#a82424>六大英雄</FONT>之一的……<FONT color=#a82424>特拉玛依</FONT>！",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "见到您我深感荣幸。<br>您是听说了老师葬礼的消息所以过来的吧。<br>感谢您远道而来。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "是的，这段时间你辛苦了。<br>你这么年轻……身上的担子却非常沉重。<br><FONT color=#7e12d2>（特拉玛依拍着西戴尔的肩膀。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "没有……<br>我只是担心我能不能好好继承老师的遗志。<br>但是，现在大家来了，我心里也踏实多了。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "是啊……本来你为了葬礼和其他诸多事务就已经很忙了，非常抱歉在这个时候打扰你，但是我们现在有紧急的事情想问你。<br><FONT color=#7e12d2>（特拉玛依将巴尔纳的事情告诉了西戴尔）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "已经去世的人，而且还是六大英雄之一的<FONT color=#a82424>巴尔纳</FONT>中了邪术，在周围徘徊……事情果然很严重。<br>我会竭尽全力帮助各位。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "谢谢，这样我心里也踏实多了。<br>那么，你听卡拉秋说过有关死者的咒术吗？",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "是的。因为唤醒死者是绝不允许的……所以我没有直接学习过，但我对这种咒术有一些了解。<br>最彻底的解决方法就是找出咒术的施展者，但是如果找不到施展者的话，就只能在外部强制净化了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（大家开始说听不懂的事情了。闭着耳朵等谈话结束。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（谈话似乎结束了。和特拉玛依对话吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "果然慈悲的女神不会给予没有出口的试炼……<br>巴尔纳……我一定会让你安息……<br><FONT color=#7e12d2>（特拉玛依阴沉的脸上露出平静的微笑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？找到解救巴尔纳的方法了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "详细情况稍后再说吧。<br><FONT color=#387206>{user_nick}</FONT>，现在我们最好尽快回盲目溪谷。",
+      "answer": "",
+      "image": "qw_67.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "先知萝丝……这个少女似乎又成了我们的希望……",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#7e12d2>（特拉玛依带着悲痛的表情陷入沉思）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "……不好意思，我的能力有限，帮不了你们什么忙。真的很抱歉。<br>特拉玛依应该会很难过吧……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可是，龙之追随者们究竟是为什么要做出这种事呢？<br>先知，你既然是先知，应该知道的吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "那个……我也不知道。不好意思。我的能力有限……<br><FONT color=#7e12d2>（萝丝害羞地低下了头）</FONT><br>但是我好像知道巴尔纳现在正在追赶什么。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>咦？！是什么呢？ </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "黑骑士……<br><FONT color=#a82424>贝思柯德</FONT>，就是他……",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德？！为什么啊？他是跟踪狂吗？<br>柯梅里纳肯定会发火的！！</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "……说实话，我连嘴上说出他的名字都觉得害怕……<br><FONT color=#7e12d2>（萝丝咬着嘴唇）</FONT><br>我是说真的。<br>我的梦就是这么告诉我的。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>为什么呢？为什么会是贝思柯德呢？</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "这……我也不知道。<br>我只是做了这样的梦而已……<br>我在梦中看到了<FONT color=#a82424>巴尔纳</FONT>追赶<FONT color=#a82424>黑骑士</FONT>的场景，所以才这么说的。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "尽管不确定，但我听说他以<FONT color=#a82424>竞技场的骑士</FONT>之名，以<FONT color=#a82424>使徒</FONT>的身份活动。<FONT color=#a82424>龙之追随者</FONT>向来以对叛徒的冷酷而出名，他这么做说不定是为了消灭叛徒或重新夺回<FONT color=#a82424>贝思柯德</FONT>拥有的力量。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "不管怎样，想要净化<FONT color=#a82424>巴尔纳</FONT>的话，只用之前那种方法是不行的。<br>要是有更强大的力量来对抗他就好了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>更强大的力量？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "我们需要能阻断围绕在巴尔纳周围邪恶之力的媒介，或者比这种力量更强大的力量才行。比如，<FONT color=#a82424>巨龙之力</FONT>……",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "<FONT color=#7e12d2>（萝丝正在沉思。最好和特拉玛依对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "巨龙之力……<br><FONT color=#7e12d2>（特拉玛依似乎突然想起了什么）</FONT><br><FONT color=#387206>{user_nick}</FONT>，我有件事要问你。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "对了，<FONT color=#a94407>杰兰特的剑</FONT>……在你手上吗？",
+      "answer": "",
+      "image": "qp_geraint_sword.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰兰特的剑……是在贝思柯德手上吧？</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "什么……？！那把剑在贝思柯德的手上？<br>真的太糟糕了……唉。<br><FONT color=#7e12d2>（特拉玛依紧锁眉头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "这下就复杂了<br>要想把剑找回来的话，还需要寻找贝思柯德的下落才行。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "我觉得这是件好事。<br>有了杰兰特的剑的话，就一定能铲除控制巴尔纳的邪恶之力。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "结论好像出来了。<br>正好<FONT color=#a82424>贝思柯德</FONT>在<FONT color=#a82424>莲花沼泽</FONT>，去调查一下吧。<br>在先知有新预言之前，没有理由停下你的脚步……",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "那么我就祈祷女神能给我下达什么预言吧。<br>希望能拯救那不幸的人……<br><FONT color=#7e12d2>（萝丝两手恭敬地合在一起，开始祈祷）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "想找到贝思柯德，不仅需要佩奥里斯塔的力量，还需要借助<FONT color=#a82424>神殿骑士团</FONT>的力量。<br>看来是时候回<FONT color=#a82424>王城</FONT>了……真是好久没回王城了……",
+      "answer": "",
+      "image": "qw_sainthaven_inside.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "但是，离开的时间太久了，这也的确是事实……<br><FONT color=#7e12d2>（特拉玛依像下了决心似的点这头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "好，<FONT color=#387206>{user_nick}</FONT>，<br>那我们就在神圣天堂见吧。",
+      "answer": "",
+      "image": "qw_sainthaven_inside.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "天啊，我也老了吗。<FONT color=#a82424>西戴尔</FONT>居然说要找你，吓了我一跳。 <br>\n他说找到了关于绿龙的线索。那我先去神圣天堂等着你。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    }
+  ]
+}

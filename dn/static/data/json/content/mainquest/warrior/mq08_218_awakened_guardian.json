@@ -1,0 +1,226 @@
+{
+  "qkname": "苏醒的守护者",
+  "data": [
+    {
+      "npc": "阿尔杰塔",
+      "question": "先是食人魔吞掉悬浮装置，后来埃雷娜释放毒素形成毒雾。<br>\n能束缚我的方法还真多。",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "虽然任务失败了，但我必须回去救回受伤的士兵。",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "不明的雾气开始弥漫，所以……<br>\n在雾散开之前，即使是完好无损的飞艇也无法起飞。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "你说那个<FONT color=#a82424>埃雷娜</FONT>的精灵死了？她一定是为了净化倾倒在自己身上的污染物质，想要得到纯白之球。但却因为自己制造的污染物质中毒死了。真是报应不爽。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "好了，先不提伦理教科书上的内容了，看看我们接下来该做什么吧。想要启动净化装置，还需要有<FONT color=#a82424>净化装置的启动钥匙</FONT>。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "如果你那个木头脑袋存在记忆的话，应该记得去哪寻找吧？<br>持有那把钥匙的正是<FONT color=#a82424>祈祷者安息处</FONT>的<FONT color=#a82424>狮蝎克鲁鲁</FONT>。",
+      "answer": "",
+      "image": "qw_26.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "<FONT color=#a82424>狮蝎领主</FONT>是在古代文明和魔导学的结合下诞生的创造物。是通常有着狮头、羊身、蛇尾的混合体凯米拉的一种。",
+      "answer": "",
+      "image": "qm_manticore.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "<FONT color=#a82424>祈祷者安息处</FONT>的狮蝎克鲁鲁是一种相对高级的魔兽。从<FONT color=#a82424>古代人将其设为自己遗迹的守护者</FONT>就能看出，它绝对不好对付。</FONT> ",
+      "answer": "",
+      "image": "qm_manticore.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>嗯……的确如此。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "iontalk}<br><FONT color=#387206>{user_nick}</FONT>，到目前为止，你所展示的能力虽然不强，但要战胜那个古代魔兽的话，还是存在一丝希望的。<br>你做好和狮蝎克鲁鲁战斗的准备了吗？",
+      "answer": "",
+      "image": "qm_manticore.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "先是食人魔吞掉悬浮装置，后来埃雷娜释放毒素形成毒雾。<br>\n能束缚我的方法还真多。",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "不明的雾气开始弥漫，所以……在雾散开之前，即使是完好无损的飞艇也无法起飞。",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "虽然任务失败了，但我必须回去救回受伤的士兵。我一定要把伤害士兵的罪魁祸首……！",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "打败<FONT color=#a82424>祈祷者安息处</FONT>的狮蝎克鲁鲁，<FONT color=#a82424>用启动钥匙启动净化装置</FONT>，就可以净化弥漫在凯德拉的污染物质了。",
+      "answer": "",
+      "image": "qm_manticore.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "你比想象中要厉害嘛！居然打败了狮蝎克鲁鲁。而且还证实了我老师的研究价值，看来我必须谢谢你。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "虽然这么说可能会让你难为情，不过……好吧。今天，就让我称呼你为<FONT color=#a82424>拯救凯德拉的英雄</FONT>吧。",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "干得好，很好！现在只要等待雾气散开就行了！",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "好，好，做得很好。<br>这次我必须承认你的能力。既然打败了狮蝎克鲁鲁，为了表示对你的肯定，以后我就叫你<FONT color=#a82424>有用的奴隶</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "好，好，做得很好。<br>既然打败了狮蝎克鲁鲁，这次我就承认你的能力。<br>我还要给你一个<FONT color=#a82424>有用的奴隶称号</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>有用？！奴……隶……呼呼</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "人类就是不知足啊。<br>我称你是有用，你应该感到高兴才是呀。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不管怎样，已经净化了凯德拉就可以了吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "要是那样就好了，可是现在还有地方没有被净化。真是奇怪。<br>对了，你打算什么时候前往神圣天堂呢？！！现在飞艇可以起飞了吧？你去确认一下。",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你要是敢在中途偷懒的话，小心我打你屁股！",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "你真是完成了一件了不起的事。你是拯救了凯德拉的英雄！",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "雾气开始消散了。<br>现在马上就可以向<FONT color=#a82424>神圣天堂</FONT>出发了。",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "可是刚刚<FONT color=#a82424>精锐士兵克林德</FONT>找来，说一定要见见你。看来他们现在也打算回去了，是不是有什么话想说？",
+      "answer": "",
+      "image": "qn_npc_elite_soilder.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>是精锐士兵克林德吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "iontalk}<br>现在雾气还没有散尽，所以你先去见见<FONT color=#a82424>精锐士兵克林德</FONT>吧。他可能有什么重要的事。",
+      "answer": "",
+      "image": "qn_npc_elite_soilder.png"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "我听说<FONT color=#a82424>飞艇</FONT>已经差不多修好了。身为神圣天堂派来的精锐士兵居然需要冒险家的帮助，真是惭愧。",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "我们也打算乘坐飞艇回<FONT color=#a82424>神圣天堂</FONT>，不过……<FONT color=#382000>{user_nick}</FONT>，凯德拉关卡的守护者，实不相瞒，我还有一事相求。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>什么事？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "我回城之后，必须马上向<FONT color=#a82424>卡西乌斯国王</FONT> 报告。那时，我想请<FONT color=#382000>{user_nick}</FONT>，你这个凯德拉关卡的守护者与我同行，和我一起向国王报告。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>什么？我吗？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "<FONT color=#a82424>先知</FONT>的情况怎么样，<FONT color=#a82424>黑骑士</FONT>又有多么厉害，光凭我一人报告口说无凭。你为了保卫凯德拉，和怪物们进行了多次战斗，希望你能帮助我。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>您那么说的话……我知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "真的很感谢你。那么，我们在<FONT color=#a82424>神圣天堂</FONT>见吧。请赶快前往<FONT color=#a82424>飞艇工程师休伯特</FONT>那里，向他确认一下飞艇是不是已经完全修好了。",
+      "answer": "",
+      "image": "qn_npc_engineer_hubert.png"
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "iontalk}<br>现在雾气还没有散尽，所以你先去见见<FONT color=#a82424>精锐士兵克林德</FONT>吧。他可能有什么重要的事。",
+      "answer": "",
+      "image": "qn_npc_elite_soilder.png"
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "雾气开始消散了！！！！光顾着雾气，居然忘记修理飞艇了。你把<FONT color=#a82424>悬浮装置</FONT>带来了吗？ 快，快，给我。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "真的很感谢你。那么，我们在<FONT color=#a82424>神圣天堂</FONT>见吧。请赶快前往<FONT color=#a82424>飞艇工程师休伯特</FONT>那里，向他确认一下飞艇是不是已经完全修好了。",
+      "answer": "",
+      "image": "qn_npc_engineer_hubert.png"
+    }
+  ]
+}

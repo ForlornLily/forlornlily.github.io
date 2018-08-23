@@ -1,0 +1,330 @@
+{
+  "qkname": "什么时候发生的事",
+  "data": [
+    {
+      "npc": "商人洛西塔",
+      "question": "你好，冒险家。",
+      "answer": ""
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "找到察提姐姐的爷爷了吗？<br>战士西恩好像一直很担心。<br>他刚才往<FONT color=#a82424>利物沃特码头方向</FONT>去了……",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "……察提……",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "西戴尔好像很担心，咳咳咳咳……",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "好像应该和那边的战士西恩谈谈。",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……要到<FONT color=#a82424>利物沃特码头</FONT>方向去看看吗？<br>也许<FONT color=#a82424>有人可以给你说明一下情况</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "为什么又遇到这种事……<br><FONT color=#7e12d2>(西恩一脸痛苦地扶着额头)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊，</FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#2b2723> 。<br>因为察提的事情，西戴尔……好像非常伤心。他的心情我可以理解。</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>到底怎么了？<br>被劫持的察提的爷爷……还有原住民们都救出来了吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty_grandfather.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "原住民们？那个……<br>呃，卡拉翰的目的是得到察提的部落藏起来的<FONT color=#a82424>绿龙的宝玉</FONT>。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "察提的爷爷把宝玉的位置告诉察提之后就死了。<br>察提因为这件事非常伤心，在卡拉翰的欺骗下……把他带到了部落的圣地。",
+      "answer": "",
+      "image": "qn_npc_charty_grandfather.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "在那里，当察提的手碰到绿龙的宝玉的时候，察提变成了魔物。<br>西戴尔和我们为了拯救察提，一直在后面不停地追……<br>\n但是最终还是晚了一步。",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "我们到底的时候，卡拉翰已经从察提的体内取出了宝玉逃走了。<br>在他吸收掉宝玉之后，他的样子也发生了变化。看来这次他会变成<FONT color=#a82424>绿龙</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……虽然不知道有多久，但好像穿越了相当长的一段时间。<br>既然已经知道卡拉翰是坏蛋，关于他是使徒之类的话就没必要再说了。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "我们已经把这件事告诉了卡拉秋。西戴尔好像受到了很大的打击。<br>我怕他过度伤心，做出什么傻事来。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊，</FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#2b2723>。</FONT><br>\n<FONT color=#7e12d2>（达到43级以后才能进行下一阶段的任务）</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "察提的死，我也要负一定的责任。<br>\n为什么每次总是几乎要够到了，却偏偏触碰不到呢？<br>……我只是想救他们。",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(要去见见西戴尔吗？)</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "西戴尔在草屋里。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "糟了。<br>察提她……",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我听说了。察提……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "察提上了那个男人的当，说要到部落的圣地去看看，然后就走了！<br>这样下去的话，绿龙的宝玉……也许就会落入<FONT color=#a82424>那个男人</FONT>的手中。",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "这次我还是什么都帮不了她……呜呜……<br><FONT color=#7e12d2>(西戴尔抽泣着说)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？察提……嗯？和卡拉翰一起走了？</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(不是说她死了吗？到底是怎么回事？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我一直想为察提做点什么，但却什么都没能做。<br>这次我真的希望能为察提做点什么。<br>就算需要赌上我的一切……",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "帮我跟<FONT color=#a82424>卡拉秋</FONT>老师保密，我要跟着察提过去。<br><FONT color=#7e12d2>(西戴尔收拾着行李，偷偷地看了卡拉秋那边一眼)</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "请帮我跟<FONT color=#a82424>卡拉秋老师</FONT>保密。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "要去见卡拉秋吗？",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳咳……<br>看来是时候了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>时候？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳咳……卡拉翰比我预想的更强……<br>曾经继承了<FONT color=#a82424>佩奥里斯塔</FONT>之名的人，果然不是开玩笑的。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "以我这破烂之躯是不可能抵挡住他的。<br>在我小时候，那个男人曾经是耀眼的明星，咳咳咳咳……<br>\n在小时候的我看来，他就像是山一样高不可攀。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你，你没事吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳……你认为我这个破烂之躯看上去没事吗……？<br>因为我的固执，我背负佩奥里斯塔这个包袱已经太长时间了。<br>现在放下这个包袱的时候到了，咳咳咳咳……",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "……玷污了佩奥里斯塔之名的卡拉翰。跟他做个了断，是我该做的事情。<br>即使身体交给憎恨，我也要挣扎着坚持下去，都是为了这一天。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "但是，没有比怀着迷恋苟延残喘更丢脸的事情了。<br>一旦错过了应该放手的时刻，所有的东西都会腐烂。<br>\n不止是事物。爱情也会腐烂，变成憎恨。等待也会枯萎，变成愤怒。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "我得把西戴尔叫过来。<br><FONT color=#7e12d2>(卡拉秋咳嗽着，把身体埋进了椅子里)</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "真累啊……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(到底是怎么回事？怎么和西戴尔说的又不一样呢？<br>……要回到村里去，见见商人洛西塔吗？)</FONT>",
+      "answer": "",
+      "image": "qw_lotusmarshtown.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "要到莲花沼泽去见见那个戴着耳朵的商人女孩，对吧？<br>你可真忙。",
+      "answer": "",
+      "image": "qw_lotusmarshtown.png"
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "找到察提姐姐的爷爷了吗？<br>希望别出什么事……",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "西戴尔很担心察提姐姐。<br>察提姐姐因为最近情况不太好，所以说话比较难听。但西戴尔还是为了给她准备礼物而请我帮忙。",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "希望大家能在一起快乐地生活……<br>嗯？……冒险家，你怎么了？你脸色好像不太好。<br>\n哪里不舒服吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(洛西塔说的话好像又不一样，察提到底是死了还是活着啊？</FONT><br>\n<FONT color=#662500>卡拉秋见到卡拉翰了吗？<br>还是……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "你最好先休息一下。<br>如果还是不舒服的话，最好吃点药。",
+      "answer": ""
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "……冒险家，健康是最重要的。生病了的话，就什么都做不了了。<br><FONT color=#7e12d2>(洛西塔一脸担心地看着我)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(再到利物沃特码头那边去看看吧。<br>感觉脑袋很混乱。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "这次一定要救出察提。<br>一定……",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "是把佩奥里斯塔之名传下去的时候了，咳咳咳咳……<br>我好像已经背负了太长时间了。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我看到冒险家们往那边去了。<br>你也要去吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>冒险家们……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "战士西恩和其他冒险家。<br>不知道他们为什么要跑到那边去。不过他们去了。",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……这到底是什么时候啊？<br>现在吗？昨天？还是……明天？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我也不知道是什么时候。对我来说可能是刚刚发生的事情，但对你来说可能是昨天的事情。<br>可能是一百年之前，也可能是一百年之后。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "对我而言，时间的流动没有任何意义。<br>就像是涂在面包上的黄油或果酱一样，是绝对不会流动的。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……去？或者不去？<br>选择在于你。不管你干什么，我都没有理由阻止你。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……<br>去哪儿了呢？</FONT>",
+      "answer": ""
+    }
+  ]
+}

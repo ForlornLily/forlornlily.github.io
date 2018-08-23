@@ -1,0 +1,93 @@
+[
+  {
+    "id": "mq15_9200_lament_for_farewell1",
+    "name": "献给她的挽歌Ⅰ",
+    "qid": "9200",
+    "nextid": "9201",
+    "chapter": "8"
+  },
+  {
+    "id": "mq15_9201_lament_for_farewell2",
+    "name": "献给她的挽歌Ⅱ",
+    "qid": "9201",
+    "nextid": "9202",
+    "chapter": "8"
+  },
+  {
+    "id": "mq15_9202_lament_for_farewell3",
+    "name": "献给她的挽歌Ⅲ",
+    "qid": "9202",
+    "nextid": "9203",
+    "chapter": "8"
+  },
+  {
+    "id": "mq15_9203_lament_for_farewell4",
+    "name": "献给她的挽歌Ⅳ",
+    "qid": "9203",
+    "nextid": "9204",
+    "chapter": "8"
+  },
+  {
+    "id": "mq15_9204_warrior",
+    "name": "不明身份的剑士",
+    "qid": "9204",
+    "nextid": "9205",
+    "chapter": "8"
+  },
+  {
+    "id": "mq15_9205_shadow",
+    "name": "英雄的影子",
+    "qid": "9205",
+    "nextid": "9206",
+    "chapter": "8"
+  },
+  {
+    "id": "mq15_9206_strange",
+    "name": "奇妙的行程",
+    "qid": "9206",
+    "nextid": "9207",
+    "chapter": "8"
+  },
+  {
+    "id": "mq15_9207_contact",
+    "name": "又一次见面",
+    "qid": "9207",
+    "nextid": "9208",
+    "chapter": "8"
+  },
+  {
+    "id": "mq15_9208_reunited",
+    "name": "再见面的少女",
+    "qid": "9208",
+    "nextid": "9209",
+    "chapter": "8"
+  },
+  {
+    "id": "mq15_9209_eternal_rest",
+    "name": "安息的条件",
+    "qid": "9209",
+    "nextid": "9730",
+    "chapter": "8"
+  },
+  {
+    "id": "mqc08_9730_his_trace",
+    "name": "他的足迹，败北",
+    "qid": "9730",
+    "nextid": "9731",
+    "chapter": "8"
+  },
+  {
+    "id": "mqc08_9731_gain_power",
+    "name": "他手上掌控的力量",
+    "qid": "9731",
+    "nextid": "9732",
+    "chapter": "8"
+  },
+  {
+    "id": "mqc08_9732_otherside_of_hell",
+    "name": "地狱的那一头",
+    "qid": "9732",
+    "nextid": "",
+    "chapter": "8"
+  }
+]

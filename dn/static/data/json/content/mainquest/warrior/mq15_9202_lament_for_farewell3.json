@@ -1,0 +1,139 @@
+{
+  "qkname": "献给她的挽歌Ⅲ",
+  "data": [
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（只剩下什么东西破碎后的痕迹）</FONT>"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "为了变成完整的龙，卡拉翰正在四处搜集古代人的遗物。<br>一定要阻止他才行。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#7e12d2>（西戴尔低头看了看自己紧握的拳头）</FONT><br>……有时候我会觉得自己的心情并不是适度的愤怒，而是掺杂了私人感情的憎恶。<br>老师一直告诫我，要摒弃这种私人的怨恨。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "老师一定是担心我会重蹈卡拉翰的覆辙。<br>我也很担心。要是我也变成了卡拉翰那样的人，该怎么办呢？如果我的心因为渴望得到强大力量的欲望而变了的话，我也许会毁掉佩奥里斯塔之名。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你和他不一样。</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "真是这样吗，<br>……也是，现在我不该有这样的想法，在什么事情都没有发生之前，任何事情都只是可能性而已。<br>我只能一辈子努力去警惕这种事情的发生。<br>\n<FONT color=#7e12d2>（西戴尔淡淡地微笑着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "每次都要很感谢你，<FONT color=#387206>{user_nick}</FONT>。<br>多亏了你，我才能鼓起勇气。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我，一定要打倒卡拉翰。<br>所以我也要替察提报仇，我要证明我和他是不一样的人。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的，你可以做到。</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "据察提部族的人所说，<FONT color=#a82424>卡拉翰</FONT>会来<FONT color=#a82424>古代宝物仓库</FONT>是吧？<br>虽然不知道这个情报准不准确，但最好还是去确认一下。",
+      "answer": "",
+      "image": "qw_57.png"
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（只剩下什么东西破碎后的痕迹）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你替我去<FONT color=#a82424>古代宝物仓库</FONT>确认一下吧。<br>希望古代人的遗物还安然无恙。",
+      "answer": "",
+      "image": "qw_57.png"
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（地面上分散着很多散发出一股奇异气息的碎石）</FONT>",
+      "answer": "（靠近点确认）"
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（碎片上镌刻着古代纹样，<br>看来这是刚刚才被打破的）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（看来卡拉翰已经完成目的，消失不见了。<br>回去向西戴尔报告）</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "该死！卡拉翰居然已经去过了？<br>我们去迟了一步……大事不妙啊。<br>\n<FONT color=#7e12d2>（西戴尔一脸严肃的表情）</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我听刚刚出去侦察的魔法师说，<FONT color=#a82424>卡拉翰</FONT>的力量越来越强大，而且因为他开始触碰那些古代人的遗物以及原住民封印的图腾，所以出现了越来越多的不祥的事情。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不祥的事情？</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "开始出现了怪物变强的地区，<br>而且本来就埋藏了很多图腾的<FONT color=#a82424>伊斯拉土著民村落</FONT>和<FONT color=#a82424>古代宝物仓库</FONT>比以前变得更加危险了。",
+      "answer": "",
+      "image": "qw_57.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>大事不好啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "恩，我们在魔法师的会议上也该讨论一下这个议题了，<br>为了消灭那些突然出现的强大怪物，我们得赶紧派出魔法师才行。<br>首先……得把<FONT color=#a82424>老师的葬礼</FONT>办完。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>葬礼……</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "……她原本是佩奥里斯塔的支柱，可是现如今却要在如此乱世将其送走，这是何等的悲哀啊。<br>但是她的遗志仍然在我的心中……我绝对不会忘记，我会努力不辜负她的期望。<br>希望老师也能宽容体谅。<br>\n<FONT color=#7e12d2>（西戴尔抬头望着天）</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

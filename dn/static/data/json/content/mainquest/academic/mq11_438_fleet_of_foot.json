@@ -1,0 +1,208 @@
+{
+  "qkname": "行动敏捷",
+  "data": [
+    {
+      "npc": "阿尔杰塔",
+      "question": "你是不可能把杰兰特赶出去的。<br>……如果你非要去的话，我也不会阻止你。这是你的自由。",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……不要妨碍我。<br>\n我正在寻找他的位置。",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_06.ogg}<br>要是能把先知从黑暗领地守备队据点救出来就好了……<br>但是根据我们的记录，应该没那么容易。",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "现在准备工作几乎都完成了，我们能出发前往<FONT color=#a82424>黑暗领地守备队据点</FONT>了。<br>我已经通知其他的冒险家们，他们应该正在准备，这次我们一定要找回先知。",
+      "answer": "",
+      "image": "qw_43.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>也带我去吧！</FONT>",
+      "answer": "",
+      "image": "qw_43.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "噢噢，你真是可靠！！",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "将你这种小女孩带到那么危险的地方，我真的很惭愧，但我相信你的实力。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "我不是小孩……",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "或许是因为我也有个<FONT color=#a82424>女儿</FONT>，所以在我眼里你就是个小孩。<br>我的女儿就像温室中的花草，无法参与战斗……<br>你真是了不起。<br><FONT color=#7e12d2>（将军抚摸着你的头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……都说了我不是孩子！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "但是，我不能将你这种小孩子带到那么危险的地方。<br>\n<FONT color=#7e12d2>（达到28级以后才能进行该任务）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台上",
+      "question": "▶ Mission Object<br><FONT color=#7e12d2>▷ 请到王城与将军道格尔斯对话。</FONT>",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你是不可能把杰兰特赶出去的。<br>……如果你非要去的话，我也不会阻止你。这是你的自由。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……不要妨碍我。<br>我正在寻找那家伙的行踪。",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "我已经通过各种渠道将精锐士兵和冒险家们派去了那里。<br>你快出发前往<FONT color=#a82424>黑暗领地守备队据点</FONT>吧！",
+      "answer": "",
+      "image": "qw_43.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "看来我来晚了一步……<br><FONT color=#7e12d2>（杰兰特盯着里面说道）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "里边已经形成了<FONT color=#a82424>巢穴</FONT>，我无法继续接近了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>巢，巢穴……？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "嗯？<FONT color=#7e12d2>（杰兰特表情很诧异）</FONT><br>你好像知道巢穴啊……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我有话想对你说……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "如果你有话要说，那就去找黑山山角的<FONT color=#a82424>阿尔杰塔</FONT>吧。<br><FONT color=#7e12d2>（说完之后杰兰特就闭上了嘴巴）</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……<br><FONT color=#7e12d2>（杰兰特好像不想继续对话。</FONT><FONT color=#7e12d2>去见见黑山山角的阿尔杰塔吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我也知道巢穴已经完成，我刚刚感觉到了。<br>……不过，状况真是糟到了极点。<br>现在除了撤退也别无他法了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（查找巢穴有关的材料）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "File No. 438",
+      "question": "<FONT color=#086171>巢穴。拥有压倒性力量的生命为了守护自己的领土而设置的一种结界。巢穴内部是巢穴建造者的领域，除了巢穴主人之外，其他人很难靠近那里。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "File No. 438",
+      "question": "<FONT color=#086171>巢穴主人能够选择可以进入自己巢穴的对象，</FONT><FONT color=#086171>如果利用特殊的力量和道具，也能够强制进入巢穴。</FONT><br><FONT color=#086171>如果巢穴的主人死去或者失去力量，巢穴将会被破坏。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "如果是狮蝎或地狱犬之类的病秧子，那倒没事……但建造巢穴的人是<FONT color=#a82424>黑龙</FONT>。<br>可恶的贝思柯德！他终于成为了<FONT color=#a82424>完整的黑龙</FONT>。<br><FONT color=#7e12d2>（阿尔杰塔嘟囔着）</FONT>",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "看来我得吩咐其他冒险家去想想办法了。<br>那里对你这种小孩来说太危险了，你还是回家陪狗狗玩吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（看来我要跟姐姐商量下了）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "事情越来越复杂了。<br>那黑漆漆的家伙果真不可信。杰兰特这个傻瓜！<br><FONT color=#7e12d2>（请返回学者站台，跟姐姐商议）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "我收到了报告，真是糟糕……好像发生了什么不寻常的事情。<br>等到冒险家们返回，我就召开大家举行会议",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_04.ogg}<br>嗯？黑龙的巢穴？<br><FONT color=#7e12d2>（百合花翻阅着资料）</FONT><br>……啊，嗯。我找到了相关的记录，记录上说当时黑龙重新复活了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你指的是贝思柯德吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "确实是贝思柯德，但当时他还是王国的敌人。<br>……我也不知道究竟是什么事情让贝思柯德回心转意的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我无法见到贝思柯德吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "如果想见到他，必须进入<FONT color=#a82424>巢穴</FONT>才行，我看看有没有什么办法。<br>……嗯，这个么……啊，找到啦！<br>记录上有记载。你看下~<br>\n<FONT color=#7e12d2>（发送资料）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "File No. 143-58",
+      "question": "<FONT color=#086171>古代祭司长的符文。黑龙卡拉斯突袭时曾经使用过的特殊纹章。<br>符文合成的配方如下。</FONT><br><FONT color=#7e12d2>（材料显示）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（储存材料吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

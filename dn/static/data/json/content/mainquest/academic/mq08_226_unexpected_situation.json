@@ -1,0 +1,388 @@
+{
+  "qkname": "意想不到的状况",
+  "data": [
+    {
+      "npc": "牧师伊桑",
+      "question": "<FONT color=#a82424>安杰利卡</FONT>小姐是位优秀的魔法师，但是偶尔……<br>她也会做出令人困惑不解的事情来。<br>\n<FONT color=#7e12d2>※必须从学者站台接受任务后，才能进行。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "\n没有想的那么容易，我这微不足道的能力让我觉得很无奈。<br>\n<br>\n<FONT color=#7e12d2>※必须从学者站台接受任务后，才能进行。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……是谁。<br>\n<br>\n<FONT color=#7e12d2>※必须从学者站台接受任务后，才能进行。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "\n我对你无话可说，你回去吧。<br>\n<br>\n<FONT color=#7e12d2>※必须从学者站台接受任务后，才能进行。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "\n我对你无话可说，你回去吧。<br>\n<br>\n<FONT color=#7e12d2>※必须从学者站台接受任务后，才能进行。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_04.ogg}<br>虽然通讯状态有些不稳定……<br>但既然你的数据已经全部丢失，我就从这里传送给你。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的，姐姐，拜托你了。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "开始传送数据。<br>我已经将连接状态设置为保持，不过，估计需要耗费很长时间。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "你不能就这么干等着，其他人现在肯定已经开始行动了。<br>你说<FONT color=#a82424>贝思柯德</FONT>正前往<FONT color=#a82424>沉睡者神殿</FONT>，对吧？",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>嗯，听说他带着先知正前往沉睡者神殿。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "在数据传送期间，你也去趟<FONT color=#a82424>沉睡者神殿</FONT>吧。<br>如果运气好，说不定你能见到贝思柯德呢。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "<FONT color=#a82424>安杰利卡</FONT>小姐是位优秀的魔法师。但有时……<br>她做的事情真是让我困惑。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "所有的事情都没有想象中的那么简单。<br>我的无能让我觉得很无奈。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "………你是谁？",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我似乎跟你无话可说啊……？",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我似乎跟你无话可说啊……？",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_05.ogg}<br><FONT color=#a82424>沉睡者神殿</FONT>可以通过<FONT color=#a82424>水晶谷</FONT>的沉默森林入口过去，小心别迷了路。<br>你是个聪明的孩子，但是偶尔也会犯些令人无语的错误。<br><FONT color=#7e12d2>※组队状态下无法进行该任务。</FONT>",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "<FONT color=#387206>{user_nick}</FONT>小姐，我正在等你。<br>你是不是正打算前往<FONT color=#a82424>沉睡者神殿</FONT>？",
+      "answer": "",
+      "image": "qw_16.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>嗯？你是怎么知道的？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "我是听<FONT color=#a82424>安杰利卡</FONT>小姐说的。<br><FONT color=#7e12d2>（伊桑苦笑着）<br></FONT><FONT color=#387206>{user_nick}</FONT>你获得的顺从吊坠被安杰利卡小姐抢……<br>咳咳……交换……走了啊。",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>嗯，算是交换吧……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "唉…… 居然用这种方式拿走小孩获得的物品，究竟……<br>很抱歉，我替她向你道歉。<br>安杰利卡小姐有时会像这样胡闹，但她并没有恶意。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>伊桑你没有必要跟我道歉啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "总之，我会将安杰利卡小姐抢走的<FONT color=#a82424>顺从吊坠</FONT>还给你。<br>我们拜托纹章学者，获得了其他替代品。<br>觊觎别人的物品，这种行为是非常不可取的。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "那，我就此告退了。<br><FONT color=#a82424>沉睡者神殿</FONT>是非常危险的地方，请千万要小心啊。<br><FONT color=#7e12d2>（伊桑微笑着挥挥手）</FONT>",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "<FONT color=#a82424>沉睡者神殿</FONT>是非常危险的地方，请千万要小心啊。<br><br><FONT color=#7e12d2>※ 组队状态下无法进行该任务。</FONT>",
+      "answer": "",
+      "image": "qw_16.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>（全身被黑色包裹的男子，身上散发出压迫性的气息）</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>贝思柯德！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>（男子的眼神非常诧异）</FONT><br>你是谁？你这样的小孩怎么会知道我的名字啊？",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n我是<FONT color=#662500>{user_nick}。虽然你现在还不认识我……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "现在还不……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我……来自未来。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "未来？哼……未来的我还要跟你这种小孩打交道？<br>这可不令人愉快……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我需要你的帮助。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "真是可笑。我对未来的事情没有兴趣。<br>快滚开。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>等，等一下！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "现在连流鼻涕的小孩都要来烦我……<br>带着这种垃圾是<FONT color=#a82424>阿尔杰塔</FONT>你的爱好吗？<br><FONT color=#7e12d2>（贝思柯德凝视着某个地方）</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>阿尔杰塔……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "她明白我们之间的实力差距，选择进行突袭没错，但她认为你这样的小屁孩能扰乱我的视线吗？<br>这么愚蠢的做法很不符合<FONT color=#a82424>阿尔杰塔</FONT>的作风啊。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>贝思柯德，你为什么要与阿尔杰塔进行斗争？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "真是可笑。<br>我们有理由不进行斗争吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>两位是共同守护阿尔特里亚的英雄啊！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "守护阿尔特里亚的英雄？哈哈哈哈！<br>你声称自己来自未来，结果就在我面前胡诌<FONT color=#a82424>50年前</FONT>的荒诞<FONT color=#a82424>英雄</FONT>故事？",
+      "answer": "",
+      "image": "qn_six_heroes_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>不，我是说……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "不要再胡言乱语了，快走开！",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "咳……贝思柯德这家伙，短短时间内就拥有这般力量……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>阿尔杰塔，你没事吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你！究竟是什么人？！<br>你是怎么认识<FONT color=#a82424>贝思柯德</FONT>的呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>嗯？这个……上次我就跟你说过了，我来自未来……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "不要胡言乱语……！呃呃……<br><FONT color=#7e12d2>（阿尔杰塔眉头紧蹙）</FONT><br>切……我要先休息一会儿……",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "还有，我要跟你谈一谈。<br>\n我会在这附近你们人类生活的村庄，那个……叫做<FONT color=#a82424>凯德拉关卡</FONT>的地方休息，你来找我吧。",
+      "answer": "",
+      "image": "qw_grayruin.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你究竟是什么人？<br>真的来自未来吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>嗯……我来自距现在约50年后的未来。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "50年后……？<br>那你回到过去的目的何在？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>那个……我无法告诉你。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……….<br>那好，那50年后的未来会变成什么样？你肯定不是来这里玩的，肯定是出了什么问题，所以才来处理的吧？<br>你来自的未来是什么样的，跟我说说吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>那……那个也不能告诉你。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你来自未来，却不能说来到这里的原因？<br>也不能描述未来是什么样？<br>你是在跟我开玩笑吗？！！！！<br><FONT color=#7e12d2>（阿尔杰塔愤怒地大声叫喊）</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>如……如果出什么意外，未来可能会被改变，所以必须要小心……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "未来会被改变？<br>你来到这里的目的不是改变未来吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>不是的。无论我在这里做什么，我所在的未来都不会受到影响。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "这又是什么鬼话……<br>既然你来的那个未来不会改变，那你又说未来会改变，所以才要小心，这是什么意思？前后不是矛盾嘛！<br>你能不能说得简单点，好让我明白！",
+      "answer": "（说明详情）"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "………. 也就是说，无论你在这里做什么，你所在的未来都不会改变？你是担心如果这个地方的未来发生改变，会改变你们的历史，引发难以预测的状况，所以你尽可能不说未来的事情……？<br>在你们的目的达到之前。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>嗯，没错。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你们简直……完全是恣意妄为嘛？<br>那你上次见到我时，一直念叨着<FONT color=#a94407>巨石碑</FONT> 是因你们的未来所需？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>那……那个……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "算了，我已经跟你无话可说了，你走吧！<br><FONT color=#7e12d2>（阿尔杰塔似乎不想继续对话了。链接学者站台，与百合花取得联络吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_03.ogg}<br>数据的传送比我预想的时间还要久，<br>状况怎么样了？你见到<FONT color=#a82424>贝思柯德</FONT>了吗？",
+      "answer": "（把事情从头到尾说明一遍）",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "<FONT color=#a82424>贝思柯德</FONT>……？<br>原来如此，也对……肯定会与我们所认识的他有很大差距。<br>50年并不是个短暂的时间……",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>现在该怎么办？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

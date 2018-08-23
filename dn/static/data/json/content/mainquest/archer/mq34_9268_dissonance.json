@@ -1,0 +1,173 @@
+{
+  "qkname": "不协和音",
+  "data": [
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "难道阿洁丽雅出什么事了吗?<br>黄金草原的话以她的实力早就通关两回了啊。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "<FONT color=#387206>阿洁丽雅</FONT>是女王选举会议的女王候补中的一个...<br>\n我有保护她的义务!<br>不行了。我得去找找了。",
+      "answer": "",
+      "image": "qn_npc_azelia.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我去找找吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "啊?! 是吗? 呼~ 太好了。<br><FONT color=#a82424>黄金草原</FONT>的魔物很多，心里还是有点怕怕的。<br>\n真是谢谢你替我去了~",
+      "answer": "",
+      "image": "qw_78.png"
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "<FONT color=#7e12d2>(阿洁丽雅似乎很忙。</FONT><br>\n<FONT color=#7e12d2>与精灵警卫兵巴夏对话吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_basha.png"
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "这边就交给我。<br>我们就约好在阿努阿兰德关卡交流探索结果吧。",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "阿努阿兰德的风景就像看在眼里一样。<br>有时候想回到故乡的怀抱啊。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "<FONT color=#a82424>黄金草原</FONT>的魔物很多，心里还是有点怕怕的。真是谢谢你替我去了!",
+      "answer": "",
+      "image": "qw_78.png"
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "呃啊…竟然在这种地方如此....",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "ndnpc_AN_Archer Agelia_qu_9268_01.ogg}<br>啊啊.... 是<FONT color=#387206>{user_nick}</FONT>啊。太好了。<br>是他们。你说的<FONT color=#a82424>龙之追随者</FONT>来过这里。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你受伤了。不要紧吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "ndnpc_AN_Archer Agelia_qu_9268_02.ogg}<br>伤口不深。只是因为中毒了暂时动不了而已。<br>比起这种事，快点吧。把他们.... <br><FONT color=#7e12d2>(阿洁丽雅指着们的另一边)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我去看看吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "他们..没去追龙之追随者吗? <br>我看到他们向<FONT color=#a82424>黄金草原</FONT>移动。快点吧。",
+      "answer": "",
+      "image": "qw_78.png"
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "多亏你阿洁丽雅平安归来了。 <br>不过听说有不明身份的敌人，不在 <FONT color=#a82424>黄金草原</FONT>追击也没关系吗?",
+      "answer": "",
+      "image": "qw_78.png"
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "他们进到里面了。要追的话得快点。",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "回来了啊，我担心是不是连<FONT color=#387206>{user_nick}</FONT>也会被那些人打败呢..",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "ndnpc_AN_Archer Agelia_qu_9268_03.ogg}<br>他们怎么样了?<br>\n啊…看来是失手了啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，迟了一步。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "我明明该等着你的....<br>竟然轻率地跟踪他们，被他们发现让他们跑了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>现在该怎么办呢。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "现在是非常重要的时期，似乎不是我们游侠就能解决的问题啊。<br>我去找长老报告情况吧。",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "ndnpc_AN_Archer Agelia_qu_9268_04.ogg}<br>你去找旅行中的同族通知危机吧。。<br><FONT color=#a82424>神圣天堂的高级弓箭手伊西莉安</FONT>如果肯帮忙就会轻松一些的。<br>凛冽的风接近了。快点吧。",
+      "answer": "",
+      "image": "qn_npc_archer_ishilien.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "<FONT color=#a82424>去神圣天堂找高级弓箭手伊西莉安</FONT>大人吧。<br>凛冽的风出来了。快点。",
+      "answer": "",
+      "image": "qn_npc_archer_ishilien.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "正好听到你去<FONT color=#a82424>阿努阿兰德</FONT>的消息，怀念着那个地方呢。<br>来找我是为了告诉我故乡的消息吗?",
+      "answer": "",
+      "image": "qw_anuarendelgateway.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不，是来求救的。<br></FONT><FONT color=#7e12d2>(把阿努阿兰德告诉她)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "生命之树...<br>\n阿努阿兰德有危险吗?",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "虽然想马上就去守护森林，但不能那么做真是太痛苦了。<br>知道我的<FONT color=#a94407>宿命</FONT>有时候竟然会这么痛苦。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>因为宿命…吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "是。不过正因为宿命，我很清楚自己该怎么做。<br>就像引导了幼小的精灵们，把正在冒险的同族们引导到阿努阿兰德不正是我的作用吗。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

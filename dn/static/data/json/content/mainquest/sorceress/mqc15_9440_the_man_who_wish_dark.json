@@ -1,0 +1,178 @@
+{
+  "qkname": "怀念黑暗的人",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……卡汉拉果然不在这里。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>干等下去她也不会回来……到</FONT><FONT color=#a82424>女神之瞳</FONT><FONT color=#662500>去吧。</FONT><br><br><br><FONT color=#7e12d2>*组队状态下无法执行该任务。</FONT>",
+      "answer": "",
+      "image": "qw_96.png"
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "通过熔岩江入口可以前往<FONT color=#a82424>女神之瞳</FONT>。<br>\n <br>\n <br>\n<FONT color=#7e12d2>*组队状态下无法执行该任务。</FONT>",
+      "answer": "",
+      "image": "qw_96.png"
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "你来了。那事情就拜托你了。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "我现在就帮你移动到沙漠。<br>请你多保重……<br>\n <br>\n<FONT color=#7e12d2>*组队状态下无法执行该任务，也无法移动。/FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "ndnpc_Arno_9440_qu_01.ogg}<br>你是谁！竟敢擅闯我们的圣地！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，我是……（该怎么回答？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "ndnpc_Arno_9440_qu_02.ogg}<br>什么……？<FONT color=#7e12d2>（阿罗诺以一种极其诡异的表情看过来）</FONT><br>你这家伙，是不是从我那不懂事的女儿那里逃出来的？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（呃！？！！）这，这怎么可能……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "ndnpc_Arno_9440_qu_03.ogg}<br>嗯……若是愚昧的人，进入此地时必然会因失去自我而发疯。看样子你是追寻真理之人，所以即使来到这里，也仍神志清楚。",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "ndnpc_Arno_9440_qu_04.ogg}<br>你能来这里，肯定有同伙帮忙！你离开他们了吗？呵呵，随心而行是你的自由。然而就连那自由，说到底其实只是种残酷的欺骗，只是场虚无的梦。",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "ndnpc_Arno_9440_qu_05.ogg}<br>我做这些事是为了大家好……连神也无法战胜黑暗，我们又如何抵抗得了！！",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "ndnpc_Arno_9440_qu_06.ogg}<br>黑暗才是我们的根本，是我们终究要回归的终点……这样显而易见的道理，你们怎么就不明白……唉……呜呜……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（他的状态看起来真的很糟糕）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "我们必须打开巨石碑之门！我们是肩负着这个使命来到这里的。女神的梦永远没有终点。但我们要自己书写结局。我们会亲手划上这个连神都办不到的句点。",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "ndnpc_Arno_9440_qu_08.ogg}<br>虽说眼下巨石碑之门由我那些愚昧无知的同伴们守卫，但我们盼望的神迹绝不会因这点小事而受阻。门存在的意义就是为了开启。我们将在这里打开巨石碑之门！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>在这里！？怎么开……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "ndnpc_Arno_9440_qu_09.ogg}<br>我们要召唤来位于巨石碑之门另一头的谜之大陆上的生灵。我们汇聚的毒会召唤她前来，她必将冲破一切次元的干涉，到达此地。巨石碑之门会大敞着迎接她的降临！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>谜之大陆的生灵……！！？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿罗诺",
+      "question": "ndnpc_Arno_9440_qu_10.ogg}<br>是时候了，同伴们！黑暗，我们的故乡，这世界的真实面貌！我们即将重返谜之大陆！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……刚才我见到的那人是露娜莉娅……肯定是她没错。</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可阿罗诺说的不是谜之大陆的生灵吗……那么露娜莉娅是……来自谜之大陆的？</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……这到底是怎么回事。你快跟我说清楚！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9440_qu_01.ogg}<br>……现在还不是时候……。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>…啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（这个卡汉拉难道是把我带来这里的卡汉拉！？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9440_qu_02.ogg}<br>……真相即将揭晓。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不行！你不许消失！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡汉拉消失了！？！这里是阿努阿兰德！？！……我回来了？我来到哪个时代了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎么回事，我不能再去到刚才那个地方了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（不管我怎么调查周围，也找不到一个人……）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务完成",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可恶……！</FONT>",
+      "answer": ""
+    }
+  ]
+}

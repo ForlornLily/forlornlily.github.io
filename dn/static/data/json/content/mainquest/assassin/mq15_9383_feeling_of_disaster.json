@@ -1,0 +1,163 @@
+{
+  "qkname": "灾难的气息",
+  "data": [
+    {
+      "npc": "暗影喵",
+      "question": "<FONT color=#387206>{user_nick}</FONT>！我找你这么久，怎么现在才来啊喵？你这个笨蛋徒弟喵！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>又有什么事啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "呃呃呃……你知道一个名叫<FONT color=#a82424>泰尔罗萨市区</FONT>的地方吗喵？那是位于泰尔罗萨入口的繁华的城市喵。那里真的有很多东西喵。有鱼，还有只在沙漠中出产的珍贵的鱼，以及在沙漠的阳光下晒干的鱼脯……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>都是鱼啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "呼，呼噜噜！<FONT color=#7e12d2>(暗影喵匆忙地擦了擦嘴角</FONT>)先，先不说这个喵。那座城市里好像发生了什么事喵。不久前我订购的最高级鱼脯到现在还没送过来喵！！那可是限量商品！怎，怎么配送这么慢啊喵。一定是发生了什么事喵。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你难道是想让我帮你去看看你的鱼什么时候能送到吧？<br>我很忙，柯梅里纳不知道什么时候会跟我联系。那件事情要重要得多。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "暗影喵",
+      "question": "喵喵喵喵喵～！！！！那里的阳光太热，像我这么柔弱的猫没办法去喵～！！！！你快去帮我打听一下喵喵喵！！！",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "如果收到了那个叫柯梅里纳的人的联系，我马上飞奔过去找你喵！因为我记得你的味道喵！！嗯嗯嗯？<br>你怎么还不到<FONT color=#a82424>泰尔罗萨市区</FONT>去喵～！！！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃……没办法。知道了。不过有消息一定要告诉我哦！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "喵喵，放心吧喵！！猫从来说一不二喵！<br><FONT color=#7e12d2>(请到泰尔罗萨入口的泰尔罗萨市区去</FONT><FONT color=#7e12d2>)</FONT>",
+      "answer": "",
+      "image": "qw_73.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#387206>{user_nick}</FONT>？！你怎么会在这里……？<br>我以为你还得有一段时间才会收到我的联系呢……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>柯梅里纳！？到底是怎么回事？这里怎么着火了？未来的军队……？</FONT><br><FONT color=#662500>战争已经开始了吗？！？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "没有……不是的。<br>……刚才你看到一个戴着眼镜的女人，把少女劫持走的场景了吧？",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "那个女人的名字叫百合花。是未来入侵现在的作战队长……她……劫持了名叫黛西的少女。……你认识黛西吗？",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>(摇了摇头</FONT><FONT color=#7e12d2>)</FONT>不知道。我完全没有料到。不过可以肯定的是，她一定又在策划什么阴谋。我要去追赶百合花。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也一起去。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "好的，那就拜托你了！百合花好像是往<FONT color=#a82424>阿勒努特峡谷</FONT>方向去了。我先到那里去。",
+      "answer": "",
+      "image": "qw_74.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>明白了。我马上跟过去。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>(柯梅里纳的表情很严肃</FONT><FONT color=#7e12d2>)<br></FONT>你果然认识她啊……<br>她拥有什么了不起的能力吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是的，我只是把养鸟所需的东西送过去，才认识她的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>(柯梅里纳摆出一脸惊讶的表情</FONT><FONT color=#7e12d2>)<br></FONT>养鸟？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，叫碧月……好像是只非常脆弱的鸟。(记忆隐约浮现出来)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "那么她只是普通的少女了……百合花为什么要劫持她呢……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>柯梅里纳，你没想到什么吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "是！<FONT color=#7e12d2>(柯梅里纳一本正经地点了点头。先去把泰尔罗萨 </FONT><FONT color=#7e12d2>市区的情况告诉暗影喵吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_shadow_meow.png"
+    },
+    {
+      "npc": "暗影喵",
+      "question": "<FONT color=#387206>{user_nick}</FONT>！？！？你来的正好喵。这里有一封柯梅里纳的信喵！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我已经见到她了。还有……泰尔罗萨市区……(说明事情的来龙去脉)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "什什什什什，什么喵？～？！！？",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "咳，咳嗷嗷嗷嗷……那……那是呃及个月……的将近喵嗷嗷嗷嗷～",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(虽然听不懂它在说什么，不过听上去好像是绝望的呐喊……)</FONT>",
+      "answer": ""
+    }
+  ]
+}

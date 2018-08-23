@@ -1,0 +1,377 @@
+{
+  "qkname": "枉然的希望",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（这到底是什么情况。现在我该去哪里？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（在这里想破脑袋，也不见得能想出什么好主意……我连自己现在在哪里都不知道，我已经完全在时间里迷路了……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "<FONT color=#7e12d2>（卡汉拉发现我时，吓了一跳。）</FONT><br>你还好吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>？！？！卡汉拉？！</FONT><br><FONT color=#662500>你怎么在这里？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "我听说有人在这里见到<FONT color=#387206>{user_nick}</FONT>你，就抱着侥幸心理过来看看。<br>看见你平安无事真是太好了！你没事吧？你怎么离开那地方的？你在那里看见了什么？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃，你一个一个问好不好。</FONT><br><FONT color=#662500>我在那里见到了……</FONT><br><FONT color=#662500>（除了有关未来的卡汉拉的事，我把其余情况都说了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "<FONT color=#7e12d2>（卡汉拉的脸色惊得煞白）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡汉拉？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……父亲他……到底是选择了那条道路啊……<br>……唔，虽然我想把所有事情都告诉你……但现在似乎不是谈这些的时候。<br>我想一个人静静。<br><br><FONT color=#7e12d2>*达到77级以后可以执行该任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……父亲他最终……不行，我们得换个地方谈谈。你跟我一起去痛哭墙吧。<br>我的同伴们都在那里，所有事情等到了那边再说。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好吧。（前往</FONT><FONT color=#a82424>痛哭墙</FONT><FONT color=#662500>）</FONT>",
+      "answer": "",
+      "image": "qw_95.png"
+    },
+    {
+      "npc": "古代人1",
+      "question": "你跑哪里去了，卡汉拉！因为你突然消失，我们都急坏了。",
+      "answer": ""
+    },
+    {
+      "npc": "古代人2",
+      "question": "哦，那个软弱的人类居然还好好的！是卡汉拉你救了他吗？",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……我是因为担心这位勇士的安危，所以尾随过去看看。他不需要我保护。<br>他已经很强了。虽然不及我们，却也拥有不错的实力。请各位尊重他。",
+      "answer": ""
+    },
+    {
+      "npc": "古代人3",
+      "question": "就这弱不禁风的家伙？他只是运气好吧？<br>\n嘁……闹哄哄……<FONT color=#7e12d2>（众人的情绪颇有不满）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（真是太过分了……就算我拥有强大的力量，也不想变成他们那样目中无人）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9441_qu_01.ogg}<br>说话请慎重点。这位勇士真的给了我们很多帮助。<br>我把情况大致跟你说说吧。他们终究是成功了……",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9441_qu_02.ogg}<br>他们利用毒，联通了这个世界与谜之大陆之间的次元，<br>并召唤出了谜之大陆的生灵……谜之大陆的女神——维斯提内。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>维斯提内？！！露娜莉娅是维斯提内女神？！？！？</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9441_qu_03.ogg}<br>……不过，由于他们制造的装置不太完善，只成功地使维斯提内的极小部分……维斯提内的碎片来到了这个世界。那碎片名叫露娜莉娅。",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9441_qu_04.ogg}<br>摧毁阿尔特里亚大陆，使大陆被黑暗吞没是维斯提内女神唯一的心愿和目的。<br>露娜莉娅是她的碎片，当然也具有同样的目的，我估计她要下手的第一个目标就是巨石碑之门。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9441_qu_05.ogg}<br>她打开巨石碑之门的那一瞬间，大陆会开始逐渐崩塌，蛰伏在门中的女神之噩梦将发出信号，<br>然后维斯提内女神就会降临在这片仿佛地狱一般的混乱中，彻底令这世界灰飞烟灭。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9441_qu_06.ogg}<br>换句话说，这个世界将会灭亡。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎，怎么会……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "古代人1",
+      "question": "我们可以阻止那个维斯提内女神的碎片嘛？<br><FONT color=#7e12d2>（古代人陷入了恐惧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "她是为了破坏这阿尔特里亚大陆而来。我们只是群借用女神之力的人类。可以摧毁她的……就只有她自己，以及创造了她的……维斯提内女神。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我的天啊！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "古代人2",
+      "question": "我们怎能眼睁睁看着这个世界被毁灭！绝对不行！",
+      "answer": ""
+    },
+    {
+      "npc": "古代人3",
+      "question": "说得对！她再怎么厉害，也只是女神的碎片，不是吗？如果集结我们大家的力量，说不定能打败她！",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "肩负打开巨石碑之门使命的生灵已抵达此地，我们这个世界也苟延残喘不了多久了。若是能使父亲恢复神志……他或许可以想出个解决的法子。",
+      "answer": ""
+    },
+    {
+      "npc": "古代人4",
+      "question": "呃？可我们哪有办法净化堕落之毒？",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9441_qu_07.ogg}<br>再过不久，我母亲就能用永恒虚伪的黑暗制作出真实之镜。真实之镜能借助女神的力量使真实存在的生灵恢复原样。我们可以用它来拯救族人们。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9441_qu_08.ogg}<br>我稍后就带着真实之镜过去。他们已召唤出维斯提内女神的分身，很快就会行动！你们快到<FONT color=#a82424>祈祷之心</FONT>去。巨石碑之门就在那里。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（巨石碑之门……！会不会和之前在炙风地狱里见到的那扇门一样？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "我会和这位勇士随后赶到。<br>你们先走。<br><br><FONT color=#7e12d2>（古代人消失后，请重新和卡汉拉对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……首先，我要感谢你接受了我们的委托。<br>没想到那里竟成了这么可怕的剧毒之地……他们犯下了无法饶恕的罪孽啊。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "我的父亲阿罗诺居然变得那么不理智，我身为子女，实在是……<br>要是母亲知道这个事实，还不知会受到多大的刺激……她已经历过很多伤痛了啊。",
+      "answer": "",
+      "image": "qn_npc_arno.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡汉拉……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9441_qu_09.ogg}<br>真实之镜就快制成了。可……我很担心我们赶到那里后，会不会也陷入堕落……如果我不幸言中，<FONT color=#387206>{user_nick}</FONT>，就请你将我们的愚昧公告天下吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？！？！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "你可以撑过去的。我作为先知……可以预知到那样的结果。<br>保护你的那股高贵巨龙之力会守护你的善心。<br>即使我们陷入了堕落，你也依然可以保持纯净健全的心智。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……获得了神之力的我们，却无法获得神最伟大的创造物——巨龙的心……我真的很羡慕你。靠力量是无法赢得真心的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>….</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9441_qu_10.ogg}<br>即使拥有的神的力量，如果被所有人憎恨，强大又有何用……？我们只不过是一群怪物，注定要一辈子为了赎罪而活的怪物。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……（卡汉拉……相比其他古代人，她的想法似乎更为深刻）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9441_qu_11.ogg}<br>经过无穷尽的赎罪后，女神，和这个世界的万千生灵，会宽恕我们的吧。呵呵，得不到宽恕也没关系。只希望你们不要继续排斥我们……我们正是心怀着这样的信念而积极行动的。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9441_qu_12.ogg}<br>拥有高贵的龙之力量的勇士，我可以把突然从天而降的你当做是女神还未抛弃我们的凭证吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我……这个嘛……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9441_qu_13.ogg}<br>……对不起。这些话对你来说也许太沉重了。<br>如果我能有更多时间和你多聊聊该多好。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "ndnpc_Gaharam_9441_qu_14.ogg}<br>说起来，我还没问过你的名字呢……请原谅我的无礼。请问勇士尊姓大名？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "我叫<FONT color=#662500>{user_nick}……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "呵呵，真是个好名字。<br><FONT color=#7e12d2>（卡汉拉露出微笑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……！是这样啊……呵呵，真是个好名字。<br><FONT color=#7e12d2>（卡汉拉露出微笑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "那，我们快前往<FONT color=#a82424>祈祷之心</FONT>吧。愿女神保佑我们……",
+      "answer": "",
+      "image": "qw_97.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……怎么办……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……未来的情况我都知道了啊。虽然他们成功地用真实之镜使阿罗诺恢复了神志，可是）</FONT>",
+      "answer": "",
+      "image": "qn_npc_arno.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（巨石碑之门已经开启，世界处在即将崩溃的边缘，即使是阿罗诺也回天无力了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（阿罗诺找到阿尔杰塔，为了赎罪……杀死所有古代人，筑起了封印巨石碑之门的封印石……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（唯一的幸存者就是卡汉拉……而她的命运……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（尽管古代人全都很可恶，可他们最终的命运是被残忍屠杀……！这结局是正确的吗？！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……唉，我还不如别知道他们的将来呢……怎么办……接下来我还要继续帮助他们吗？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……等等。仔细想想这里是真正的过去。我现在并不是什么隐形的精灵或幻影。如果我做出努力，是否可以改变未来呢？能否使古代人们不要犯下那样决定性的错误，也不要做出使世界陷入灭亡危机的事情？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……嗯，只要有微小的可能性，我就不能放弃！我要跟随卡汉拉去阻止那些堕落的古代人。那样巨石碑之门就不会打开，一切问题都能顺利解决。还可以救阿尔杰塔。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（仔细想想……就算这里真的是过去的世界，我明明清楚未来的情况，也总是无法扭转局面……不管我在这里做什么，事情都不会改变……就像之前几次一样！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……如果是这样，我能放弃吗……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……嗯，就算是这样，我也不能放弃。只因为知道未来的可怕结果，就什么也不做的话，太荒唐了！无论在何时何地，我都应该以救人为重！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（我绝不能眼睁睁看着许多人在我面前死去）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（绝对，绝对不行……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（我一定要努力阻止他们。快赶去</FONT><FONT color=#a82424>祈祷之心</FONT><FONT color=#662500>吧！我要阻止这一切悲剧的发生）</FONT>",
+      "answer": "",
+      "image": "qw_97.png"
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（这回……我不想再被动地让巨石碑旋流牵着鼻子走了！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（到卡汉拉所在的</FONT><FONT color=#a82424>痛哭墙</FONT><FONT color=#662500>去吧）</FONT>",
+      "answer": "",
+      "image": "qw_95.png"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "mqc01_9571_suspicious_teacher",
+    "name": "奇怪的师父",
+    "qid": "9571",
+    "nextid": "9572",
+    "chapter": "1"
+  },
+  {
+    "id": "mqc01_9572_whereabouts_airship",
+    "name": "飞艇的行踪",
+    "qid": "9572",
+    "nextid": "9573",
+    "chapter": "1"
+  },
+  {
+    "id": "mqc01_9573_misunderstanding",
+    "name": "误会",
+    "qid": "9573",
+    "nextid": "9574",
+    "chapter": "1"
+  },
+  {
+    "id": "mqc01_9574_antagonism",
+    "name": "反目成仇",
+    "qid": "9574",
+    "nextid": "9575",
+    "chapter": "1"
+  },
+  {
+    "id": "mqc01_9575_botched_work_processing",
+    "name": "轻率的处理",
+    "qid": "9575",
+    "nextid": "9576",
+    "chapter": "1"
+  },
+  {
+    "id": "mqc01_9576_seriousness_direction",
+    "name": "真心的方向",
+    "qid": "9576",
+    "nextid": "9577",
+    "chapter": "1"
+  }
+]

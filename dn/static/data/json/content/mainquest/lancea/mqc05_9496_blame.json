@@ -1,0 +1,272 @@
+{
+  "qkname": "指责",
+  "data": [
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "使，使徒？什么使徒，你在说什么啊？<br>你说的话真是令人费解。",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "我以为你只是说话简短，没想到你说话还如此轻率？<br>现在我无法帮助你。请谨言慎行，下次再来找我吧！",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "朕…朕不明白你所说的话。<br>但是听到你所说的话……王、王城内的大、大臣们都非常……生……生气，所以……你……你还是先离开吧。",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "哼！我还以为你要说你给了伊格纳西奥一拳呢，原来你想说的就是这些没头没脑的鬼话啊。<br>这样的鬼话谁会相信啊！",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "伊格纳西奥主教是使徒！！天啊……<br>但这件事确实可信吗？又没有什么证据……<br><FONT color=#7e12d2>（埃提亚摇了摇脑袋）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "…..<FONT color=#7e12d2>（贝思柯德好像仍在恢复中）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "哼！我才不要和叛徒说话呢！<br><FONT color=#7e12d2>（凯伊好像十分生气）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>听说你实际上是龙之追随者的头目。<br>我都听说了！你就不要装了！<br>（我太酷了，我好像真的很会说话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "哈哈，什么使徒，我还是第一次听说。<br>况且，我是供奉女神之人，你居然说我与龙之追随者是一伙人，你这么说让我很生气！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>但……但是，我听说你是使徒……<br>所以说！快告诉我，我的父亲在哪里！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "大家都说你可爱，对你疼爱有加，你就胆敢蔑视王城了？居然敢说这样的胡话。<br><FONT color=#387206>{user_nick}</FONT>，你之前在神圣天堂的百姓面前说什么龙之追随者的事情，制造恐慌。我之所以不追究你的责任，都是出于对你家族的考虑。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "但是，你现在居然敢诬陷我，我不能再任由你胡来了。<br>将军道格拉斯，想必你也听到这个女孩刚刚所说的话了吧？",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "……呃<FONT color=#7e12d2>（将军道格拉斯皱着眉头，似乎很为难）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "我收到报告，据说尤斯提亚家族的主人拉斯最近失去了消息。<br>你的父亲连自己的领地都治理不好，居然还逃跑了，你又有什么资格在这里散布谣言。呵呵。",
+      "answer": "",
+      "image": "qn_lath.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不要辱骂我的父亲！！那么，伊格纳西奥主教，你是说你没有做坏事吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "我敢向女神发誓，我所做的一切不会遭到任何人的无可非难。<br>如果你再敢在国王陛下面前制造混乱，我就命士兵把你赶出去！",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "我不想再听你说任何话了！如果你不自己离开，我就喊士兵了。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9496_qu_01.ogg}<br>这么说，你跑到伊格纳西奥主教面前，问他是不是使徒……唉….<br><FONT color=#7e12d2>（埃提亚叹了口长气）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>埃提亚，我做错了什么吗？<br>他只要回答我他是不是使徒不就行了嘛。况且……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9496_qu_02.ogg}<br><FONT color=#a82424>柯梅里纳</FONT>说伊格纳西奥主教是使徒？<br>虽然柯梅里纳告诉你贝思柯德所在的地方，对你也很亲切，但我们还是不能完全信任她。",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>为什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "因为我们还是不知道黑骑士，就是那个贝思柯德究竟是好人还是坏人。<br>我们也不了解柯梅里纳。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>原来是这样啊……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐，你的传闻已经在王城…传开了。<br>还有人跑来问我，是不是有个少女说想要见到龙之追随者。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃……大家是怎么说的？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "这个并不重要。只要我知道姐姐为寻找父亲付出了很多努力就行了。<br><FONT color=#7e12d2>（似乎想改变沉闷的氛围，埃提亚微笑着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "你先去见见柯梅里纳，问她为什么觉得伊格纳西奥是使徒吧，怎么样？<br>如果知道了理由，我们就能确认她所说是否属实了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>原来如此！现在想来，我确实没有向她询问原因。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "柯梅里纳会去哪里呢？你有没有听说什么？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！上次我见到她时，她说要去沉没的货船寻找某样东西。</FONT>",
+      "answer": "",
+      "image": "qw_46.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐，那你去<FONT color=#a82424>沉没的货船</FONT>见见柯梅里纳吧。<br>希望她还没有离开那里……",
+      "answer": "",
+      "image": "qw_46.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9496_qu_01.ogg}<br>嗯？这不是叛徒嘛？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？我不是叛徒。你在这里有没有见到名为柯梅里纳的学者？</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "\n你不帮忙完成钢铁兄弟团的任务，不是叛徒是什么？我对你太失望了。<br>就算没有你的帮助，我现在也有办法带走先知了。我才不需要你的帮助呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？你真的是这么看我的吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9496_qu_03.ogg}<br>没错。你和埃提亚都是叛徒。<br>但是，我能理解。除了正义感之外，你的脑袋里什么都没有，不是吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么~！我还以为你真的生气了呢……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9496_qu_04.ogg}<br>傻瓜！如果你要依赖我，至少要信任我才对吧？切。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>话说，你就不来村子一趟吗？<br>埃提亚好像正在等你的消息。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "这还不都是因为你嘛。唉，都怪你到处说些奇怪的话，村子里关于龙之追随者的谣言四起。<br>警备也变得更加森严了，我很难进入村子。",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "钢铁兄弟团还不认可现在的卡西乌斯国王，因此我们被视作反抗者，正被追赶。都怪你，我见不到埃提亚了。这算什么事啊？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯。如果你像我一样，把徽章放在家里就好了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9496_qu_05.ogg}<br>钢铁兄弟团才不会藏踪蹑迹呢！不……虽然我是东躲西藏，但直到我死的那一刻，我都不会忘记自己的所属。<br>况且，这徽章是那个人亲自给我的。",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "话说，你来这里做什么？你在找一个名叫<FONT color=#a82424>柯梅里纳</FONT>的孩子？",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，你有没有见到她？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9496_qu_06.ogg}<br>我在这里待了好久了，没有见到她。那个女孩应该没有来这里吧。<br>你又白跑了一趟吧？哈哈",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我一定要找到她才行……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9496_qu_07.ogg}<br>我给你个建议吧。你去问问其他认识那个女孩的人就行了！怎么样，很好的建议吧？<br><FONT color=#7e12d2>（去找贝思柯德，问问他柯梅里纳在什么地方吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "什么啊，又是你这个家伙啊？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个，贝思柯德，你有没有见到柯梅里纳？</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "吵死了。你把这里当做游乐场吗？<br><FONT color=#7e12d2>（贝思柯德似乎很厌烦）</FONT>",
+      "answer": ""
+    }
+  ]
+}

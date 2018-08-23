@@ -1,0 +1,258 @@
+{
+  "qkname": "敌人就在眼前",
+  "data": [
+    {
+      "npc": "贝思柯德",
+      "question": "……行为决定结果。<br>世间的法则同样也适用于鲁莽的笨蛋。"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "\n很，很高兴见到你，勇敢的少女。"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "愿女神的祝福与你同在。"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_03.ogg}<br>记录上明确记载，伊格纳西奥就是神圣天堂的叛徒，所以战士西恩为他做事让我很是担心。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_05.ogg}<br>不知道什么时候会发生什么事情，所以必须要留意王城的情报。<br>继续关注王城。<br><FONT color=#a82424>国王卡西乌斯</FONT>对你非常友好，你要和他保持交流。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……行为决定结果。<br>世间的法则同样也适用于鲁莽的笨蛋。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "<FONT color=#387206>{user_nick} </FONT>小姐。<br>愿女神的祝福永远伴随你。",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "很，很高兴见到你，勇敢的少女……<br>你为神圣天堂忙碌的身影非……非常帅气，嘿嘿。",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "和你一起来的冒险家们仍在<FONT color=#a82424>伊格纳西奥</FONT>麾下努力做事。将军和叔父都在忙着处理战争后事，主教愿意抽空净化黑龙的邪恶力量，<FONT color=#a82424>为国家举行净化仪式</FONT>，值得赞扬。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "NT><br>\n<FONT color=#662500>现在他们在做什么啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "啊……刚刚有个人拿着水晶葫芦瓶，好像去了<FONT color=#a82424>沉没的货船</FONT>那里。<br>好像要去那里装些什么回来…… 朕，朕不太清楚。",
+      "answer": "",
+      "image": "qw_46.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "NT><br>\n<FONT color=#662500>沉没的货船？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你也要前往<FONT color=#a82424>沉没的货船</FONT>那里吗？<br>你是不是担心先出发的同伴？<br>你真，真是善良的少女啊……",
+      "answer": "",
+      "image": "qw_46.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "是<FONT color=#387206>{user_nick}</FONT>小姐啊。<br>你为什么会来到这种地方？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我应该问你的，你怎么会在这种地方啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "我刚刚在用水晶葫芦瓶搜集<FONT color=#a82424>海怪之魂</FONT>。<br>现在已经搜集到了足够的魂，正准备回去报告呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你不能帮助主教。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "……你为什么突然这么说？<br>你有怀疑主教的理由吗？",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "NT><br>\n<FONT color=#662500>我来自未来。所以说……我知道。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "你的未来……？我不是不相信<FONT color=#387206>{user_nick}</FONT>小姐。<br>但是，如果你所谓的未来是固定不变的、是确切的，那你为什么会在这里呢？还有，你为什么没能决定下一步行动，而跟随我到这里来呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "NT><br><FONT color=#662500>那个……（现在还不能说）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "<FONT color=#387206>{user_nick}</FONT>小姐有必须要做的事情，我也一样。<br>用不确切的情报在内部引起骚乱的行为是不可取的。那我告辞了。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "我对<FONT color=#387206>{user_nick}</FONT>小姐的勇气和实力充满敬意。<br>如果能再有机会一起做事就好了。那么，我先告辞了。",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "你去过沉没的货船那里了吗？<br>你的脸……脸色很阴沉……连朕都变得忧郁了……",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_MR_Jasmin_sp_01.ogg}<br><FONT color=#a82424>牧师伊桑</FONT>也不相信你所说的话啊？<br>……就算他相信，他也很难突然怀疑<FONT color=#a82424>主教</FONT>。<br>总之，他是个牧师，主教如同是他的上级。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "NT><br>\n<FONT color=#662500>现在该怎么办啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "贝思柯德怎么说？<br>你去向位于<FONT color=#a82424>黑山山角</FONT>的贝思柯德寻求建议吧。海怪让我也很难释怀。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "海怪……？<br>你是指大概50年前，我与那些家伙一同消灭的<FONT color=#a82424>萨芬特拉</FONT>吗？",
+      "answer": "",
+      "image": "qm_sea_drake.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "NT><br>\n<FONT color=#662500>萨芬特拉……？</FONT>",
+      "answer": "",
+      "image": "qm_sea_drake.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "没错，<FONT color=#a82424>萨芬特拉</FONT>。那魔怪曾在神圣天堂附近的罗雷莱茵河中逞凶，50多年前被我们消灭了。由于不可能将它彻底消灭，所以我们将它分成多个碎片，<FONT color=#a82424>封印</FONT>了起来。它不可能重新复活。",
+      "answer": "",
+      "image": "qm_sea_drake.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "NT><br>\n<FONT color=#662500>说不定它会复活。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你们的未来是那么记录的吗？<br>……获得我的核心，原来是为了获得让萨芬特拉复活的能量啊。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "那个人是<FONT color=#a82424>邪教</FONT>中的一员。<br>他的目的是在神圣天堂内部暗中活动，搅乱教团。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "NT><br><FONT color=#662500>现在该，该怎么办？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我没有告诉你吗？愚蠢的人无论招致什么后果，都是他们自己的责任。<br>不要管那些傻瓜了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "NT><br>\n<FONT color=#662500>但是……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "如果你为他人牺牲，他人还不能体谅你，那你就白辛苦了。<br>我曾见过与你相似的家伙，在我看来，你们只是在做无谓的挣扎。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_MR_Jasmin_sp_01.ogg}<br><FONT color=#a82424>萨芬特拉</FONT>？果然……我们的记录没有错。<br>我真的很担心。再这样下去，神圣天堂会再次受到萨芬特拉的攻击。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "NT><br>\n<FONT color=#662500>必须要加以阻止！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "……真的应该阻止他们吗……<br><FONT color=#7e12d2>（姐姐自言自语地说，看上去好像很没自信）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "如果事情不按照既定的情况发展，说不定我们会遇到难以想象的问题。<br>现实不允许我们插手这件事。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "如果你在那里做了不该做的事情，因此改变历史，末日说不定就会提前来临。<br>如果非但没能拯救我们的世界，而让末日提前降临到<FONT color=#a82424>那个地方</FONT>的话，那就糟了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "NT><br>\n<FONT color=#662500>说不定能够拯救这个地方呢！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_06.ogg}<br>拯救？<FONT color=#7e12d2>（百合花笑得很无奈）<br></FONT>你要拯救的是我们的世界。不是那个地方。<br><FONT color=#387206>{user_nick}</FONT>，你忘记自己的任务啦？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "NT><br>\n<FONT color=#662500>……我没忘。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "那你就不要管萨芬特拉了，因为它最终会复活的。<br>比起这件事，你应该盯住巢穴，在被解除的时刻牢牢抓住<FONT color=#a82424>先知</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "NT><br>\n<FONT color=#662500>……那才是我的使命。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "嗯，你不要忘记那个使命。",
+      "answer": ""
+    }
+  ]
+}

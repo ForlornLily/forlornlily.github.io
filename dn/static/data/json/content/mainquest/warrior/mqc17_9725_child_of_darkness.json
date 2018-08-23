@@ -1,0 +1,164 @@
+{
+  "qkname": "黑暗之子",
+  "data": [
+    {
+      "npc": "良心商人波普",
+      "question": "向您转达下个指令吧。",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "现在请<FONT color=#387206>{user_nick}</FONT>去破坏<FONT color=#a82424>特里亚建立的阵地</FONT>。<br>请不要惊讶，听我说完。",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "<FONT color=#a82424>特里亚</FONT>从很久以前开始就是梅尔卡附近的的强者，不可能会放过现在这个机会。他已经以一己之力压迫着梅尔卡，如果在这里获得更强的力量，他将会对反女神派产生重大威胁。",
+      "answer": "",
+      "image": "qw_tryan.png"
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "<FONT color=#387206>{user_nick}</FONT>已经几次进入特里亚的领地，被他们知道了长相，但是您也比谁都熟悉那里，我们认为您是去执行任务的最佳人选。当然，特里亚要比至今为止您对付过的其他查尔德强大得多。",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "因此，在这次的袭击中， 反女神派也会派出精英部队。<FONT color=#387206>{user_nick}</FONT>需要做的就是拖住特里亚。在您拖住特里亚的时候，我们的部队将会袭击其他查尔德。",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "如果<FONT color=#387206>{user_nick}</FONT>能消灭特里亚是最好不过了……您先拖住他就行。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了。我会尽全力拖住特里亚的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "那就请您前往特里亚的领地吧。祝您好运。",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "ndnpc_Iris_9725_qu_01.ogg}<br>结果……仇恨之种还是发芽了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这……这是怎么回事？！！！<br>你知道什么吗？</FONT><FONT color=#a82424>格雷尔</FONT><FONT color=#662500>怎么会变成这样？！！</FONT>",
+      "answer": "",
+      "image": "qn_grele.png"
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "ndnpc_Iris_9725_qu_02.ogg}<br><FONT color=#a82424>格雷尔</FONT><FONT color=#a82424>觉醒成为了查尔德</FONT>……而且无法逆转……",
+      "answer": "",
+      "image": "qn_grele.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#a82424>查尔德</FONT><FONT color=#662500>？他不久之前都还是个平凡的孩子啊？怎么会成为暗影龙的进化体……成为这个世界的恶之元凶查尔德呢？！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "<FONT color=#a82424>维斯提内女神</FONT>在暗影龙入侵阿尔特里亚后，决定要制造出终极武器。然后，她看到了……人的力量……精灵的力量……各个种族的力量……",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "在世界上生存的各种生命体存在无限的可能。他们克服了环境的考验，每天都在进化为新的自己。而维斯提内女神决定在拥有无限进化可能性的生命体中种下<FONT color=#a82424>怨恨的种子</FONT>……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>种下怨恨的种子……难道……难道查尔德是在这个世界的生命体中诞生的吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "ndnpc_Iris_9725_qu_03.ogg}<br><FONT color=#a82424>维斯提内女神和这个世界生育的混血儿</FONT>——黑暗之子。那正是查尔德的真面目……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那……格雷尔出生时就有这个种子了吗……？</FONT>",
+      "answer": "",
+      "image": "qn_grele.png"
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "是的，查尔德就是在你见过的爱过的人们中间诞生的，令人悲伤的怪物……种子是没有任何标准，随机在这个世界撒下的……然后，寻找合适的身体，在发芽之前度过漫长的沉睡时间……",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "人们不知道查尔德的产生过程，是因为在觉醒为查尔德的瞬间，将会抹去和自己有关的所有痕迹。他们会厌恶和否定自己的过去……亲手杀害自己曾经最爱的人……",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "格雷尔是因为家人全部死去，受到打击而觉醒的……在内心充满黑暗的状态下觉醒，还吃下了高级查尔德的宝玉，不知道今后会变成什么样。但是，神奇的地方在于，他还 <FONT color=#a82424>留有强烈的自我意识</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>还有自我意识？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "ndnpc_Iris_9725_qu_04.ogg}<br>是的。也就是说，他们同时拥有维斯提内的血脉和这个世界的血脉，即同时拥有神的自我和个人的自我。如果格雷尔的个人自我能够战胜并支配神的自我……或许他能成为查尔德当中<FONT color=#a82424>最早的突变</FONT>！",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "<FONT color=#2b2723>是啊！</FONT>请和我一起去见见<FONT color=#a82424>诺尔佩</FONT>大人吧，<FONT color=#387206>{user_nick}</FONT>。也许这就是发生改变的转折点！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不知道了……其实我现在脑子里一片混乱……来到迷之大陆之后，要维持清醒实在是太累了……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>而且，你就像是不幸的使者一样，只在发生坏事时才出现……我真的能相信你的话吗……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "<FONT color=#7e12d2>（艾瑞斯悲伤地望向我）</FONT><br>我不是一直都告诉您吗……无论如何，艾瑞斯都是站在<FONT color=#387206>{user_nick}</FONT> 这边的……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>谢谢你帮助了我，但是我要先告辞了。再见……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "良心商人波普",
+      "question": "真是辛苦你了。连<FONT color=#a82424>特里亚</FONT>都被您消灭了，您真是太厉害了！",
+      "answer": "",
+      "image": "qw_tryan.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是我消灭的……</FONT>",
+      "answer": ""
+    }
+  ]
+}

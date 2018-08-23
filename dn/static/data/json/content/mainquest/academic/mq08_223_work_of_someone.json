@@ -1,0 +1,234 @@
+{
+  "qkname": "到底是谁所为",
+  "data": [
+    {
+      "npc": "冒险家公会成员韦伯",
+      "question": "嗯……谁……谁啊？<br><FONT color=#7e12d2>（因为受了伤，所以脸色不太好）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "……你来晚了一步。<br><FONT color=#7e12d2>（伊桑似乎受了伤，紧皱着眉头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "受伤的冒险家",
+      "question": "<FONT color=#7e12d2>（好像失去了意识）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "ionRefusal}<br>安杰利卡和伊桑已经出发去找<FONT color=#a82424>黑骑士</FONT>了。<br>那个坏家伙，带着<FONT color=#a82424>先知</FONT>逃跑了……<br><FONT color=#7e12d2>（戴卡德叹了口气）</FONT>",
+      "answer": "（询问黑骑士的事情）",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "黑骑士是个来路不明的人物，他最近才出现在这一地区。<br>传闻说，<FONT color=#a82424>黑骑士</FONT>是龙之追随者或者龙的手下。虽然这只不过是传闻，但他的行迹非常可疑。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>并不是所有的龙都是坏的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "……小姑娘，不要乱说话。这是谁告诉你的？！<br>如果你到处说这些胡话，会出大事的，你得小心。<br><FONT color=#7e12d2>（戴卡德似乎很担心）</FONT>",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "总之，黑骑士最近时常与<FONT color=#a82424>神圣天堂</FONT>的兵力和<FONT color=#a82424>黑山</FONT>的魔物发生冲突，他被认定是非常危险的人物。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "同时他也是破坏2台从神圣天堂飞往凯德拉的<FONT color=#a82424>飞艇</FONT>的主犯。<br>没先到他的目的是获得<FONT color=#a82424>古代人的力量</FONT>……<br>真是个可恶的家伙！！",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（黑骑士果然就是那个人……！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "为了抓住黑骑士，救出少女，所有人都出发前往<FONT color=#a82424>森林圣域</FONT>了。<br>你的年纪还小，不要去那种危险的地方，玩的时候注意安全哦。<br>听见了吗？",
+      "answer": "",
+      "image": "qw_15.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我可不是小孩子！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "好好，你不是小孩子。总之，不要去危险的地方。<br>我现在很忙，以后再陪你玩啊~<br><FONT color=#7e12d2>（戴卡德还是像在对待小孩）</FONT>",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（真是的！！都说了我不是小孩！！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "受伤的冒险家",
+      "question": "<FONT color=#7e12d2>（好像失去了意识）</FONT>",
+      "answer": "",
+      "image": "qn_npc_adventure_wilber.png"
+    },
+    {
+      "npc": "受伤的冒险家",
+      "question": "<FONT color=#7e12d2>（好像失去了意识）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "……你还是小孩子。<br>我来掩护你，你快逃到安全的地方。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "什么啊？怎么会有小孩子。<br><FONT color=#7e12d2>（银发女剑客不予理会，似乎觉得很烦）</FONT>"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "ionRefusal}<br>希望前往<FONT color=#a82424>森林圣域</FONT>的冒险家能够平安无事。<br>\n……嗯？小姑娘，我现在很忙，你自己去一边玩吧。知道了吗？",
+      "answer": "",
+      "image": "qw_15.png"
+    },
+    {
+      "npc": "受伤的冒险家",
+      "question": "我没关系，我的同伴进去追踪黑骑士了，请帮助他们……！！<br>咳额……",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会成员韦伯",
+      "question": "嗯……谁……谁啊？<br><FONT color=#7e12d2>（因为受了伤，所以脸色不太好）</FONT>",
+      "answer": "",
+      "image": "qn_npc_adventure_wilber.png"
+    },
+    {
+      "npc": "冒险家公会会员韦伯",
+      "question": "呃呃……是我眼花了吗？这个地方怎么会有小孩子……咳咳咳！<br>……我只记得我在追踪黑骑士时，被他一击打倒，之后就什么都不记得了。咳咳……",
+      "answer": "",
+      "image": "qn_npc_adventure_wilber.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我正在寻找来到这里的冒险家。他们在哪里呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会员韦伯",
+      "question": "这……这个么……他们好像进入了<FONT color=#a82424>圣域内部</FONT>……咳咳……<br>之后的事情我就不知道了。<br>咳……必须要去帮助其他的公会会员才行……啊……<br><FONT color=#7e12d2>（由于受了伤，韦伯说话非常困难）</FONT>",
+      "answer": "",
+      "image": "qn_npc_adventure_wilber.png"
+    },
+    {
+      "npc": "冒险家公会会员韦伯",
+      "question": "必须快些前往圣域内部追踪<FONT color=#a82424>黑骑士</FONT>……不然就糟了！！咳咳……！<br><FONT color=#7e12d2>（由于受了伤，韦伯说话非常困难）</FONT>",
+      "answer": "",
+      "image": "qn_npc_adventure_wilber.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "……啊，这不是之前在魔法山脊见到的<FONT color=#387206>{user_nick}</FONT>小姐吗？<br>你居然独自跑到这么危险的地方……<br>你没有受伤吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我没事。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "我正打算回去向<FONT color=#a82424>冒险家公会会长戴卡德</FONT>报告。<br><FONT color=#387206>{user_nick}</FONT>小姐最好还是赶紧回村庄吧，<br>这里已经没有什么事情要处理了。",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "我太弱了，根本不是<FONT color=#a82424>黑骑士</FONT>的对手……<br>我和安杰利卡小姐为了救出<FONT color=#a82424>先知</FONT>，对黑骑士进行了突袭，但最终还是失败了……",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "他把我们打成重伤之后，就扬长而去。如果不是<FONT color=#a82424>长着银发的美丽女子</FONT>出现，救了痛苦呻吟的我们，我们说不定就……<br><FONT color=#7e12d2>（伊桑叹了口气）</FONT>",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>长着银发的女子？是谁啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "嗯……那边站着的那位。<FONT color=#7e12d2>（牧师伊桑指着站在角落的银发女剑客）</FONT><br><FONT color=#a82424>安杰利卡</FONT>小姐先回去了，我留下来向询问线索，但一无所获。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（噢……？她难道是！？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "<FONT color=#387206>{user_nick}</FONT>你好像对那位女剑客充满好奇啊。如果你有什么疑问，最好趁她离开之前询问她。<br>\n不过，说不定危险的魔物很快就会再出现，你还是快逃到安全的地方吧。",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "ionRefusal}<br>嗯…… 我已经从<FONT color=#a82424>牧师伊桑</FONT>和<FONT color=#a82424>魔法师安杰利卡</FONT>那里听说了。没想到负责埋伏的人员会全军覆没……<br><FONT color=#a82424>黑骑士</FONT>比我想象中的更为强大。啊，小姑娘，你没受伤吧？",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我没事。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "那真是太好了。<br>\n我听<FONT color=#a82424>伊桑</FONT>说，你也对那个银发女剑客充满好奇，你有没有和那个女剑客对话啊？",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！还没有。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "他们俩一无所获，最好在<FONT color=#a82424>女剑士</FONT>消失前与她对话为好。<br>\n<FONT color=#7e12d2>（请去找森林圣域的银发女剑客，并和她对话）</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "这又是什么啊……？<br>哼……我有什么可看的吗？<br>今天怎么有这么多小东西来找我啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>果然！你是阿尔杰塔吧？！</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

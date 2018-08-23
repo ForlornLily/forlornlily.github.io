@@ -1,0 +1,250 @@
+{
+  "qkname": "遇到了他",
+  "data": [
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "伊桑应该很快就能到这儿，我要和他一起去趟霜风森林。<br>等着瞧吧，<FONT color=#a82424>赛.德.瑞</FONT>，你这个叛徒。<br>\n<FONT color=#2b2723>※ </FONT><FONT color=#7e12d2>必须要从高级魔法师辛西亚那里领取任务之后，才能进行。</FONT>",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "安杰利卡这家伙说要去找回秘传之球，为什么到现在还不回来？<br>怎么一点音讯都没有啊？<br><FONT color=#7e12d2>（辛西亚嘟囔着）</FONT>",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "嗯？小姑娘，你在这里做什么？<br>你没有和安杰利卡一起去<FONT color=#a82424>霜风森林</FONT>吗？",
+      "answer": "",
+      "image": "qw_10.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "伊桑应该很快就能到这儿，我要和他一起去趟霜风森林。<br>等着瞧吧，<FONT color=#a82424>赛.德.瑞</FONT>，你这个叛徒。</FONT>",
+      "answer": "",
+      "image": "qn_npc_cl_fallen_cedric.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>(呃呃，好奇怪啊？</FONT><br>\n<FONT color=#662500>如果我看到的数据没错的话，小偷不是赛德瑞，而是杰克啊……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(必须在安杰利卡前往霜风森林之前，查明真正的叛徒)</FONT>",
+      "answer": "",
+      "image": "qw_10.png"
+    },
+    {
+      "npc": "???",
+      "question": "\n<FONT color=#7e12d2>(看见了一个陌生男子。该男子似乎是杰克)</FONT>",
+      "answer": "",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>杰克？</FONT>",
+      "answer": "",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "\n……？你认识我吗？我们好像是第一次见面啊……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我来自未来，我对你有些了解。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "\n未来……？哈哈……你这话倒是挺有意思的。<br>\n从未来而来的淑女居然也会来到这么危险的地方，你有何贵干啊？",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "\n住手？我怎么听不懂你在说什么……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我是说龙之追随者……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "\n…………<br>\n<FONT color=#7e12d2>（杰克露着淡淡的微笑）</FONT><br>\n小女孩你怎么会对我说这种话呢？",
+      "answer": "",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "\n我很快就会死……？<br>\n哈哈……真是有趣。<br>\n那我能问问你，我是怎么死的，被谁杀死的吗？",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "<FONT color=#7e12d2>(看到数据的杰克陷入了沉默。杰克的表情显得很黯然，但很快他的嘴角又露出了微笑)</FONT><br>原来如此。我被弟弟……哈哈……",
+      "answer": "",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>现在还不晚。</FONT><br>\n<FONT color=#662500>只要你回心转意……！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "<FONT color=#7e12d2>（杰克轻轻地摇了摇头）</FONT><br>不……我不会停下来，也不会回头。<br>直到我生命的最后一刻，我都要忠实地完成我的使命。",
+      "answer": "",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我不明白！</FONT><br>\n<FONT color=#662500>你明知道这么做自己会死，为什么还要坚持！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "这个么……该说我多变呢，还是固执呢……呵呵……",
+      "answer": "",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "\n我小时候的生活过得毫无意义，只是机械式地重复一天又一天。<br>\n我像个傀儡似的活着，只要感觉到某处有一丝温暖，我就会像发现生命的出口一样，用尽全身的力量奔过去。",
+      "answer": "",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "不过，这个世界已经扭曲，根本不存在什么出口。<br>\n伴随我的永远都是黑暗，我对这个世界的愤怒、对人生的憎恶充斥了我的全身。",
+      "answer": "",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "就在那时，碰巧有人将我从无尽的黑暗之中救了出来。<br>他拥有着纯粹的灵魂，是我的兄弟，同时也是我的分身……<br>我见到了我的弟弟……",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>既然你的弟弟对你这么重要，为什么你……</FONT>",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "呵呵……如果未来他踏上了邪路，说不定我会就此住手。但……<br>他似乎变得很优秀，真是万幸……",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n哎哟……真是郁闷死我了。<br>\n干脆我去吧？啊？<br>\n<FONT color=#7e12d2>（赶紧向霜风森林前进）</FONT>",
+      "image": "qw_10.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "\n好像来迟了一步……"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "啊~~~！！本来可以逮着的~！<br>那个狡猾的龙之追随者，居然卑鄙地逃走了~！！！<br><FONT color=#7e12d2>（安杰利卡气得要跳脚）</FONT>",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "看来我晚了一步……",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n呃呃~~~！！差点就抓到了~！<br>\n狡猾的龙之追随者，居然卑鄙地逃跑了~！！！<br>\n<FONT color=#7e12d2>（安杰利卡暴跳如雷）</FONT>",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n我本来就在生气呢，因为有些不明事理的家伙居然怀疑是我偷走了秘传之球！这都怪伊桑那家伙，他的动作太慢了！",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "不过，这里面是通往什么地方的啊？<br>我好像有些印象……呃呃……<br><FONT color=#7e12d2>（安杰利卡抱头沉思着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "\n我打算先回去向托马斯报告。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n你这个无情的家伙！<br>居然想丢下柔弱的女子，自己先离开，哼！",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n嗯？！等等~ 小孩~ 我马上就要想起来这霜风森林是通向什么地方的了！<br>以前上魔法学概论那种无聊的课时，我和塔拉偷偷去过那里！",
+      "answer": "",
+      "image": "qn_soceresstara.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>对小孩来说，那种地方太危险了吧……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "……….<br>你居然这么说，听起来很搞笑呢，小鬼头。<br>无论如何~！以前我偷偷进入那里时，到达的地方……！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>应该是马里安殿堂。</FONT>",
+      "answer": "",
+      "image": "qw_11.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "呵呵……如果未来他踏上了邪路，说不定我会就此住手。但……<br>他似乎变得很优秀，真是万幸……",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "马里安殿堂~ 是马里安殿堂~",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "没错！<FONT color=#a82424>马里安殿堂</FONT>……<br>什么？你早就知道了？！",
+      "answer": "",
+      "image": "qw_11.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不是跟你说过了嘛，我来自未来……！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "对啊！你有个很神奇的装置！<br>\n真是的，那你早说嘛~！！哼。",
+      "answer": "",
+      "image": "qw_11.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "无论如何，那里通往的是<FONT color=#a82424>马里安殿堂</FONT>！",
+      "answer": ""
+    }
+  ]
+}

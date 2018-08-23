@@ -1,0 +1,169 @@
+{
+  "qkname": "这里是莲花沼泽",
+  "data": [
+    {
+      "npc": "战士西恩",
+      "question": "……如果不是因为我的话，杰兰特就不会死。<br>我真是个愚蠢的家伙。<br>※<FONT color=#7e12d2>可以从学者站台那里接受任务。</FONT>",
+      "image": "qn_npc_academic_station.png"
+    },
+    {},
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_MR_Jasmin_sp_02.ogg}<br><FONT color=#387206>{user_nick}</FONT>，是你啊。<br><FONT color=#7e12d2>（百合花的声音似乎有些疲惫）</FONT><br>你有什么事情吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我已经到达了莲花沼泽。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_MR_Jasmin_sp_02.ogg}<br><FONT color=#387206>{user_nick}</FONT>，是你啊。<br><FONT color=#7e12d2>（百合花的声音似乎有些疲惫）</FONT><br>你有什么事情吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我已经到达了莲花沼泽。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "已经没有意义了，太晚了……<br>我做了很多模拟试验，在那个时期，没有任何方法能将先知弄到手。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……？你不是说先知会出现在莲花沼泽吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_LM_Jasmin_sp_07.ogg}<br>我们没办法得到先知。有时候在现实面前需要学会死心。<br>你也就此放弃吧……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎么会……那从现在开始，我要做什么呢……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "我们正在讨论将来的计划。<br>如果有结果我，我会立刻通知你。<br>那就这样吧……<br><FONT color=#7e12d2>（百合花结束了通讯）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>（与百合花的通讯中断。到利物沃特码头见见战士西恩吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "……如果不是因为我，<FONT color=#a82424>杰兰特</FONT>应该不会死吧。<br>我真是愚蠢至极。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br>▷ <FONT color=#7e12d2>请到利物沃特码头见见战士西恩吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊，<FONT color=#387206>{user_nick}</FONT>，很抱歉！<br><FONT color=#7e12d2>（西恩低垂下头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没什么。你的心情好些了吗……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "我是个没用的家伙，我的心情丝毫没有好转。<br>……但我不能什么都不做。<br>为了偿还<FONT color=#a82424>杰兰特</FONT>为我做出的牺牲，我愿意做任何事情。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你将宝玉转交给阿尔杰塔了吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "嗯……<FONT color=#a82424>阿尔杰塔</FONT>也非常生气。<br>无论如何……阿尔杰塔和杰兰特如同亲兄妹……她现在肯定会痛苦。<br>这也在所难免。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>原来如此……你以后有什么打算呢？</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "据说杰兰特死后，龙之封印被解除了，我要去阻止这一切……此外，还要去治疗因为我而受伤的特里亚纳。<br><FONT color=#7e12d2>（西恩小声地补充说）</FONT>",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "实际上，我正打算去找你，我需要<FONT color=#387206>{user_nick}</FONT>你帮我一起完成这些事。很惭愧，如果你现在无事可做，希望你能帮助我。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我原本有件事必须要去做，但……好像已经失败了……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "好像已经失败了……？你似乎还不能确定啊。<br>我冒昧说一句，你可能会觉得很可笑，但是……没到最后一刻，判断失败还是成功是不是为时过早了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>西恩，你不害怕面对……失败吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "可能是我比较笨，我并不害怕面对失败。<br>在我亲眼确认之前，我什么都不相信。<br>因此，我才会忽视<FONT color=#387206>{user_nick}</FONT>你的意见……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也……想亲自确认下结果了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "嘿嘿~。<br><FONT color=#7e12d2>（西恩挠着脑袋）</FONT><br>总之，我认为在事情还没有定论之前，最好竭尽所能去尝试。只要自己已经尽力，就问心无愧！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>谢谢你……不过，阿尔杰塔现在在哪里？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "<FONT color=#a82424>阿尔杰塔</FONT>应该还在<FONT color=#a82424>卡拉秋的草屋</FONT>里。",
+      "answer": "",
+      "image": "qw_karakule_house.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我要去见见阿尔杰塔，听听她的建议。</FONT>",
+      "answer": "",
+      "image": "qw_karakule_house.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "qkname": "战云",
+  "data": [
+    {
+      "npc": "将军道格拉斯",
+      "question": "你最好把你看到听到的事情也向<FONT color=#a82424>主教伊格纳西奥</FONT>报告一下。<br><FONT color=#7e12d2>（要与主教伊格纳西奥对话）</FONT>",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "我在你去追踪<FONT color=#a82424>黑骑士</FONT>的那段时间一直在努力说服国王陛下和其他贵族，不过……<br>最近<FONT color=#a82424>神圣天堂</FONT>内外皆是一片混乱，实在是难以动员兵力。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>必须尽快才行。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "不过，那个和叫<FONT color=#a82424>阿尔杰塔</FONT>的女人一起的金发剑客叫什么来着？",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>听说他叫杰兰特。</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "杰……兰特？呵呵……太有意思了。<br>也是……50年前的黑龙之战结束后，出生的金发男孩谁都可以取名叫<FONT color=#a82424>杰兰特</FONT>，所以也不算什么稀奇事……",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>而且，听说黑骑士的名字叫贝思柯德。</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "贝思柯德？你说黑骑士叫贝思柯德……？<br>在<FONT color=#a82424>阿尔杰塔</FONT>之后又出现了<FONT color=#a82424>杰兰特</FONT>和<FONT color=#a82424>贝思柯德</FONT>……呵呵……这真是，也就是说50年前黑龙之战的主力们又都出现了……",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不能将他们看作是50年前的英雄了，不是吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "嗯……其实，在50年前的黑龙之战结束后，世上流传的很多内容都和事实不符……尤其是，对于<FONT color=#a82424>杰兰特</FONT>和<FONT color=#a82424>贝思柯德</FONT>的真实情况，除了六大英雄之外，只有极少数人知道……",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>与事实不符？那么，是说他们才是真正的英雄吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "嗯……亲爱的<FONT color=#382000> {user_nick}</FONT>，<FONT color=#a82424>黑骑士</FONT>是50年前的英雄，如果他和<FONT color=#a82424>贝思柯德</FONT>是同一个人的话……你应该很快也会知道事实真相的。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "不过，现在国内流传的<FONT color=#a82424>贝思柯德</FONT>是50年前在黑龙之战中战死的救国英雄，为世人所敬仰。",
+      "answer": "",
+      "image": "qn_knight_velskud_silhouette.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "很遗憾，如果<FONT color=#a82424>贝思柯德</FONT>的真实身份被世人知道的话……一定会引来巨大混乱的。所以对平民百姓，你对<FONT color=#a82424>黑骑士</FONT>的事要缄口不言。而且，这次的事也要在扩大前，迅速处理妥善。",
+      "answer": "",
+      "image": "qn_knight_velskud_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": "",
+      "image": "qn_knight_velskud_silhouette.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "iontalk}<br>谢谢你的理解。<br>不过现在的问题是，我们没有办法追到<FONT color=#a82424>黑骑士</FONT>逃去的地方……这真是个难题。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "对于这个问题，<FONT color=#a82424>道格拉斯将军</FONT>没说什么吗？<br>他应该能想出什么计策。你去和他谈谈吧。",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "你最好把你看到听到的事情也向<FONT color=#a82424>主教伊格纳西奥</FONT>报告一下。<br><FONT color=#7e12d2>（要与主教伊格纳西奥对话）</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "iontalk}<br>你去问问指挥出兵的<FONT color=#a82424>道格拉斯将军</FONT>有没有什么好的对策。<br>我们不能就这么等下去，不是吗？",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "iontalk}<br>这次出兵，你功不可没。<br>我之前还对你这个<FONT color=#a82424>凯德拉关卡</FONT>的守护者半信半疑，现在我已经不得不承认了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>您过奖了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "我们已经一定程度地占领了黑骑士的根据地，也算是取得了成果。<br>不过，我们没能找到<FONT color=#a82424>先知</FONT>……",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没有别的办法吗？</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "你也知道，我们无法马上进入<FONT color=#a82424>黑暗领地守备队据点</FONT>。如果鲁莽进入的话，说不定会全军覆没。<br>可也不能就这样等下去。想想别的路吧。",
+      "answer": "",
+      "image": "qw_43.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>别的路？</FONT>",
+      "answer": "",
+      "image": "qw_43.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "是的。我打算不断派出兵力扫荡<FONT color=#a82424>黑暗大君主的领地</FONT>的怪物，同时寻找大军可以进入的要道。<br>在这过程中必须探索出是否有可以进入内部的通道。",
+      "answer": "",
+      "image": "qw_28.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我可以帮忙。</FONT>",
+      "answer": "",
+      "image": "qw_28.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "是吗？<br>那我就单独交给你一项<FONT color=#a82424>任务</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "为了达到有效的攻击，我们必须集中全力。<FONT color=#a82424>孤岛</FONT>的<FONT color=#a82424>黏稠荆棘</FONT>实在是令人头疼。<br>它们给我们的补给船造成了很大的威胁。",
+      "answer": "",
+      "image": "qw_30.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "所以，为了确保日后的进攻，需要尽快铲除那些<FONT color=#a82424>威胁着补给船的</FONT><FONT color=#a82424>黏稠荆棘</FONT>，这就是你的任务。<br>可能会很辛苦。",
+      "answer": "",
+      "image": "qw_30.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了！</FONT>",
+      "answer": "",
+      "image": "qw_30.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "iontalk}<br>很好。<br>我会在这儿继续扩充兵力，并努力确保物资。 那就拜托你了。",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "尽快铲除那些<FONT color=#a82424>威胁着补给船的</FONT><FONT color=#a82424>黏稠荆棘</FONT>就是你的任务。<br>可能会很辛苦。",
+      "answer": "",
+      "image": "qw_30.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "iontalk}<br><FONT color=#a82424>孤岛</FONT>的<FONT color=#a82424>黏稠荆棘</FONT>吗？嗯……它们很难对付，像你这样英勇的人前去的话一定会带来很大帮助的。这个决定很好！",
+      "answer": "",
+      "image": "qw_30.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "哦，是<FONT color=#387206>{user_nick}</FONT><FONT color=#382000> </FONT>啊！<br>在你各方面的努力下，后方补给变得顺利多了。<br>\n<FONT color=#7e12d2>（道格拉斯将军很高兴）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "我已经将<FONT color=#2b2723>正在进攻的</FONT><FONT color=#a82424>黑暗大君主的领地</FONT>调查得一清二楚，并且确定了有效路线，以后我们可以在战斗过程中减少很多损失。",
+      "answer": "",
+      "image": "qw_28.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那么现在可以去追踪黑骑士了吗？</FONT>",
+      "answer": "",
+      "image": "qw_28.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

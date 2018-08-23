@@ -1,0 +1,114 @@
+{
+  "qkname": "木偶之神",
+  "data": [
+    {
+      "npc": "伊贝尔",
+      "question": "<FONT color=#a82424特里亚</FONT>应该确信我是<FONT color=#a82424>反女神派</FONT>，才会把我的弟弟抓去当诱饵。然后通过我来引出<FONT color=#387206>{user_nick}</FONT>大人。",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "但是，我也只能自己跳进特里亚的陷阱里去。<br>只要能救出弟弟……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不行，伊贝尔！你一个人太危险了！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "<FONT color=#7e12d2>（伊贝尔已经断气了。但她的脸上仍然挂着淡淡的微笑）</FONT>"
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "<FONT color=#7e12d2>（艾瑞斯哭丧着脸）</FONT>"
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "<FONT color=#7e12d2>（伊贝尔无视了</FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#7e12d2>的话，迅速消失了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>伊贝尔… 伊贝尔…….</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "<FONT color=#7e12d2>（伊贝尔已经断气了。但她的脸上仍然挂着淡淡的微笑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "ndnpc_Iris_9723_qu_01.ogg}<br>普通生命的结局只能是成为<FONT color=#a82424>查尔德的养分</FONT>而悲惨死去……这个世界是非常残酷的……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么啊……你，为什么又出现了……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "ndnpc_Iris_9723_qu_02.ogg}<br>想要在正义下生活，但是生活本身就很不容易。所以，是否丢弃<FONT color=#a82424>善心</FONT>……和<FONT color=#a82424>自由的意志</FONT>更好一些……？<FONT color=#a82424>阿尔特里亚的善念</FONT>被复制到了维斯提内女神的世界，结果只能是让所有人更加痛苦，不是吗……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你要是就来说这些废话，那就快走……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#a82424>伊贝尔</FONT><FONT color=#662500>说过……她受过伤……被背叛过……失去过……经历过挫折……即便如此，她还是向往着幸福……她想要拯救这个世界……她希望正在痛苦中煎熬的人们能够不再痛苦……</FONT>",
+      "answer": "",
+      "image": "qn_hiver.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>如果否定自由的意志，艾瑞斯，你就是在完全否定用尽全力活到现在，还要继续活下去的所有人的生活……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "……！！<br>是吗……原来如此……",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "是啊，所以艾瑞斯爱着大家。也非常非常喜欢<FONT color=#387206>{user_nick}</FONT>……<br>我爱着这个世界……是啊……就是这样……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>奇怪的家伙……我现在要走了。<br>格雷尔……我得找到格雷尔……我必须找到并且守护用伊贝尔的牺牲换来的……</FONT>",
+      "answer": "",
+      "image": "qn_grele.png"
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "不管未来怎样，请你加油……<FONT color=#387206>{user_nick}</FONT>……艾瑞斯不管什么时候都是站在你这边的……",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "你都干了些什么啊？！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊……你的情报真是快啊，贝勒尼卡大人……</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "因为你看上去很不安，我当然就拜托了特里亚那边的密探告诉我发生了什么事情！你居然在这么敏感的时候消灭了查尔德…… <FONT color=#a82424>伊贝尔</FONT>……那孩子也是个问题……不过她已经死了……",
+      "answer": ""
+    }
+  ]
+}

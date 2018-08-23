@@ -1,0 +1,145 @@
+{
+  "qkname": "遭遇",
+  "data": [
+    {
+      "npc": "阿尔杰塔",
+      "question": "什么?用宝玉救了贝思柯德?而且黑龙宝玉还被抢。<br>人类做的事真是太让人无语了。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "所以你来这儿是为了见精灵女王吗?<br>以为精灵女王会见成天闯祸的你吗?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>有办法见到女王吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "当然。不过没理由告诉你。快从这事抽身吧。",
+      "answer": "给她看特拉玛依的书信",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#7e12d2>(阿尔杰塔读了书信后皱着眉头)<br></FONT>哈! 人类为什么会以为区区几十年就了解了世上所有的事呢?",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "嗯，看在过去那个耐打的小朋友做过的事就给你个提示吧。<br>和你不同，他为阻止混沌龙后裔至少出了点力，看在那个份上就帮帮你吧。",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9265_02.ogg}<br>和可惜现在是见不到女王的。<br>生命之树变得这么弱，弱到不是得由我亲自来保护吗?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是在守护生命之树吗？为什么?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "不用你担心这种事哦?<br>啊。正好。让内尔文省点力气，为了不让她把力量花在保护这个地方，正好需要个人。<br>做得好说不定女王会接见你对吧?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>到底让我做什么....</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9265_03.ogg}<br>消灭掉通过<FONT color=#a82424>沙尘之海</FONT><FONT color=#2b2723>入侵过来的魔物。<br>以防万一我必须守在这里，当然得由你跑一趟了。快去吧！</FONT>",
+      "answer": "",
+      "image": "qw_76.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "什么。还没去吗?<br>我都亲切地告诉你去<FONT color=#a82424>沙尘之海</FONT>了，不会是听不懂吧?",
+      "answer": "",
+      "image": "qw_76.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "为什么急忙跑过来? 真让人分心。<br>不会是连这种程度也做不到，被魔物欺负了吧?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>沙尘之海里有<FONT color=#a82424>伊格纳西奥</FONT><FONT color=#662500>在。</FONT></FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9265_04.ogg}<br>他是谁？我连你朋友们的消息都得知道吗？",
+      "answer": "告诉她神圣天堂的事"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>就是，在神圣天堂背叛的使徒...<br></FONT><FONT color=#7e12d2>(阿尔杰塔不知道神圣天堂发生的事吗?)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "\n果然…那些家伙们也来这儿了吗。<br>你不会是，让那些叫龙之追随者的家伙跟踪了吧? ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我可没尾巴啊...</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "知道，我知道。<br>\n我知道你们人类没有尾巴这种事。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>沙尘之海里有<FONT color=#a82424>伊格纳西奥</FONT><FONT color=#662500>在。</FONT></FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9265_04.ogg}<br>他是谁？我连你朋友们的消息都得知道吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>所以， 背叛了神圣天堂的使徒……<br></FONT><FONT color=#7e12d2>（阿尔杰塔不知道在神圣天堂发生的事吗）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "\n果然…那些家伙们也来这儿了吗。<br>你不会是，让那些叫龙之追随者的家伙跟踪了吧? ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我……我的尾巴还没大到可以带着龙之追随者走来走去的程度！ </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "\n知道了。知道了。对于龙之追随者来说，你的尾巴还是太小了。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

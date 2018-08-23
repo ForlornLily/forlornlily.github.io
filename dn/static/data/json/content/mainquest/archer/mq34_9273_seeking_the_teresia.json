@@ -1,0 +1,273 @@
+{
+  "qkname": "寻找特雷西亚之声",
+  "data": [
+    {
+      "npc": "精灵长老",
+      "question": "竟然选择尤万西贝尔... 但是我会相信<FONT color=#387206>{user_nick}</FONT>大人的选择。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9273_01.ogg}<br>看来大家已经都准备好了，开始第一个仪式巡礼吧。",
+      "answer": ""
+    },
+    {
+      "question": " <br>\n<FONT color=#7e12d2>(精灵长老碰了下用树藤做的竖琴，美丽的声音响彻森林。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "有什么事吗?<br>\n你的脸上充满了混乱呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我还不知道这条路是不是我的宿命。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "在重要的决定前颤抖是理所当然的事情吧。<br>不过不用太担心。所有的女王候补们都会经历这个。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>所有…吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "是。就连纳尔希亚大人完成巡礼之后说不想拜见女王而撒娇。<br><FONT color=#7e12d2>(精灵长老似乎想起了往事微笑着)<br></FONT><FONT color=#2b2723>所以女王选举会议是从寻找特雷西亚之声的巡礼开始的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9273_02.ogg}<br>通告女王选举会议的这个仪式中使用的竖琴会给你看森林的记忆。<br>通过<FONT color=#387206>{user_nick} </FONT>大人持有的特雷西亚之声去看看女王之路吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也能听到那个声音吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9273_03.ogg}<br>不好说。会有什么记忆来找你实在说不好。<br>一切尽在特雷西亚 之中。现在是时候和誓约的守护者进行巡礼了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>(要通知尤万西贝尔该出发了)</FONT>",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "长老似乎还有话要对你说。<br><FONT color=#7e12d2>(与精灵长老对话吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "npc": "飘流的灵魂",
+      "question": "<FONT color=#7e12d2>(美丽的光芒闪耀在灵魂周围)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "闪耀的魔灵",
+      "question": "<FONT color=#7e12d2>(美丽的光芒闪耀在魔灵周围)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "透明的灵魂",
+      "question": "<FONT color=#7e12d2>(美丽的光芒闪耀在灵魂周围)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "能守护你是我的荣幸。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "能守护你是我的荣幸。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "准备结束了吗?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯。我们该去</FONT><FONT color=#a82424>消失的满月</FONT><FONT color=#a82424>沙漠</FONT><FONT color=#662500>呢。</FONT>",
+      "answer": "",
+      "image": "qw_77.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "就是啊。会有什么记忆来找你实在说不好。<br>一切尽在特雷西亚中。前往<FONT color=#a82424>消失的满月沙漠</FONT><FONT color=#2b2723>吧。<FONT color=#387206>{user_nick}</FONT><FONT color=#2b2723>大人！</FONT>",
+      "answer": "",
+      "image": "qw_77.png"
+    },
+    {
+      "npc": "飘流的灵魂",
+      "question": "ndnpc_AN_Soul01_qu_9273_01.ogg}<br>我马上就会变成沙子，就像这悲伤的沙漠吧。<br>女王之力变弱，我们精灵的森林也在消失。<br>帮帮我吧，能成下任女王的人啊....",
+      "answer": ""
+    },
+    {
+      "npc": "飘流的灵魂",
+      "question": "ndnpc_AN_Soul01_qu_9273_02.ogg}<br>希望你的特雷西亚能引导我们到绿色森林。<br>把祝福…把祝福....<br><FONT color=#7e12d2>(似乎风在抚摸着我的头)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "是不是该出发去巡礼了?",
+      "answer": ""
+    },
+    {
+      "npc": "闪耀的魔灵",
+      "question": "ndnpc_AN_Soul02_qu_9273_01.ogg}<br>呃?还活着!还活着的孩子在看着我?<br>我也有这么活力的时代啊。就像这孩子一样。<br>\n那个时代我也能随意活动...",
+      "answer": ""
+    },
+    {
+      "npc": "闪耀的魔灵",
+      "question": "不过永眠不只是幸福。是啊，至少真实如此。<br>那么我们希望的特雷西亚到底是什么？真的有那种东西吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>(就算搭话灵魂似乎也听不见{user_nick}的声音)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "闪耀的魔灵",
+      "question": "\"<FONT color=#a82424>不懂。我还是不懂</FONT>\" 做着那种表情呢?<br>有见过继承生命的精灵做着如此烦恼的表情吗?咯咯咯咯咯...<br><FONT color=#7e12d2>(闪耀的魔灵旋转着消失)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "飘流的灵魂",
+      "question": "<FONT color=#7e12d2>(美丽的光芒闪耀在灵魂的周围，再也听不到任何声音)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9273_01.ogg}<br>似乎听到了某种声音啊。 <br>我是听不到啦，但看到你的表情变得多姿多彩啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是。这就是我的特雷西亚之声吗?<br></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9273_02.ogg}<br>判断是属于你的。<br>在这仪式中我只能守护你不能出那之上的力实在让我心痛啊。<br><FONT color=#7e12d2>(尤万西贝尔做出悲伤的表情)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>原来如此。得去别的森林看看了。<br></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "闪耀的魔灵",
+      "question": "<FONT color=#7e12d2>(美丽的光芒闪耀在魔灵周围，再也听不到任何声音了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "透明的灵魂",
+      "question": "ndnpc_AN_Soul03_qu_9273_01.ogg}<br>你是我们的新女王候补啊。 <br>看你抱着顾虑和纠结。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>都这样吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "透明的灵魂",
+      "question": "谁知道呢。女王之路可没找过我。<br>不过女王是引导我们，不让我们特雷西亚之内迷路的存在....<br>替所有精灵解决顾虑和纠结的人吧。",
+      "answer": ""
+    },
+    {
+      "npc": "透明的灵魂",
+      "question": "ndnpc_AN_Soul03_qu_9273_02.ogg}<br>我希望你能成为我们的新女王。<br>如果是聪明又慎重的你....<br><FONT color=#7e12d2>(灵魂变得更加透明，似乎无法继续进行对话)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9273_02.ogg}<br>巡礼似乎还没完呢。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9273_02.ogg}<br>能稍微定下心了吗?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不，还不知道。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>如果女王之路就是我的特雷西亚，就要无怀疑地接受，但我为什么在踌躇呢?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我....<br></FONT><FONT color=#7e12d2>(闭上嘴陷入思考)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "<FONT color=#7e12d2>(因为好久都接不上话，尤万西贝尔微笑着接过对话)<br></FONT><FONT color=#2b2723>巡礼不是要你寻找答案，而是要你寻找提问。<br>见过女王之后你的犹豫将会结束。</FONT>",
+      "answer": "",
+      "image": "qn_npc_elf_narsilia.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>见到女王之后?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9273_03.ogg}<br>对。所有的女王候补在结束巡礼之后要去拜见女王。<br>他们会向女王提问，通过那个提问，女王会知道下任女王会是谁。<br>那我们去见女王吧?",
+      "answer": ""
+    },
+    {
+      "npc": "透明的灵魂",
+      "question": "<FONT color=#7e12d2>(美丽的光芒在灵魂周围闪耀着，已经无法听到任何声音了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "是。所有女王候补们完成巡礼之后得去拜见女王。<br>之后，他们会提自己的问题，女王会知道下任女王会是谁。<br>那么回去见女王吧?",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9273_04.ogg}<br>哦哦...! <FONT color=#387206>{user_nick}</FONT>大人，能平安归来真是太好了。 ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>巡礼的场所很危险吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "不。没什么危险。 <br>意识之竖琴会发动精灵神秘的力量从外部防止敌人的入侵。<br>不过为什么她们还不会来呢。<br><FONT color=#7e12d2>(精灵长老的表情变暗了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>发生了什么事吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

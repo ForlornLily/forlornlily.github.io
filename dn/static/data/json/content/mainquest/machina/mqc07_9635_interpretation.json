@@ -1,0 +1,217 @@
+{
+  "qkname": "解释",
+  "data": [
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "我有东西要给休利亚，你去把<FONT color=#a82424>休利亚</FONT>叫来吧。",
+      "answer": "",
+      "image": "qn_lm_nativeman_b.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>您不是在开玩笑吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "今天师父我又在到处宣扬说你是个最厉害的格斗家，同时愿意为了正义献出生命！怎么样？师父我做得不错吧！",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "<FONT color=#a82424>蓝塔娜</FONT>的笔记我已经解读一半多了。幸好那孩子把<FONT color=#a82424>他们家族</FONT>传下来的一些事告诉了我，所以我才能了解更多的内容。",
+      "answer": "",
+      "image": "qn_lm_nativeman_b.png"
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "就算为了佩奥里斯塔，也一定要让卡拉秋恢复健康啊……",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "你怎么会在这里？",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "你根本听不进我说的话，所以我也没什么好和你说的。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "笔记当中，有些内容需要让<FONT color=#a82424>休利亚</FONT>知道一下。<br>或许你那个爱多管闲事的<FONT color=#a82424>师父</FONT>……能知道他在哪里。",
+      "answer": "",
+      "image": "qn_npc_shaolong.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "你问我<FONT color=#a82424>休利亚</FONT>在哪？你找他干什么？<br>啊哈！看来你现在也想找休利亚谈谈了！！！",
+      "answer": "",
+      "image": "qn_lm_nativeman_b.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "师父我以前不是说过嘛。你有必要跟那小子敞开心扉好好谈一次！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我可没什么跟他聊的。是卡拉秋让我找他的，我也没办法。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "这样啊。嗯……既然你不是想找他打架，我倒是可以告诉你……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你知道他在哪？我很好奇师父你是怎么知道的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "我只是通过洛西塔知道的！听说那小子是<FONT color=#a82424>洛西塔</FONT>的哥哥。洛西塔跟我说，或许能通过一个名叫西恩的孩子见到他。",
+      "answer": "",
+      "image": "qn_npc_lucita.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "具体的位置呢……现在前往<FONT color=#a82424>古代图书馆</FONT>的话，或许可以见到休利亚。",
+      "answer": "",
+      "image": "qw_52.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你赶快去把休利亚找来。",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "你怎么会在这儿？是谁把我的位置告诉你的？<br>那个人，到底是谁？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我为什么要告诉你。我恨不得现在就把你杀了，是因为卡拉秋的嘱托我才忍下来的！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "ndnpc_Suriya_9635_qu_01.ogg}<br>卡拉秋？笔记都解读完了吗？<br>我的<FONT color=#a82424>终极任务</FONT>终于要实现了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>任务？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "跟你没关。<br><FONT color=#7e12d2>（先返回卡拉秋的草屋吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你才回来啊？还是那么慢腾腾的。<br>我在等你呢，希望你也能一起听听。咳咳咳咳！",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "休利亚拿回来的笔记上，详细记录着利用原住民对陨石的力量进行实验的内容。为什么要利用原住民，休利亚已经猜到了，但<FONT color=#387206>{user_nick}</FONT>你似乎还不清楚，那我就来跟你说明一下吧。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "原住民的祖先跟普通人相比，是一种对毒性的抵抗能力更强的<FONT color=#a82424>人类</FONT>。这是古代人的书中说的。虽然那本书非常陈旧，缺失的内容也很多，但幸好还能得到这些信息。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "有一天，这本书作者的很多朋友由于暴露在某种毒性之下，很多人都变成了可怕的怪物，但其中也有人没失去理智。但是，这些人的头上和屁股上却长出了长长的耳朵和尾巴。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "外表发生变化的他们担心自己的体内还存有毒性，于是便离开了同伴。他们后来定居的地方便是莲花沼泽。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这是什么意思？你是说以前的我们没有耳朵和尾巴？真不可思议。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "卡拉秋说得没错！只要能把身体里的毒祛除，我们就可以变回原来的样子了！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？你觉得你的尾巴和耳朵让你难堪了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳咳，吵死了。要想打架就到别的地方去！<br>嗯，现在没法知道你们的身体里边是否还有毒。总之，原住民的确天生就对毒性有着强大的抵抗力，要是换做普通人，是绝对难以承受陨石之力的。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "那帮家伙……所做的实验实在是太可怕了。<FONT color=#387206>{user_nick}</FONT>，事实上只要将你那条被陨石污染的手臂截去，你便可以恢复健康了。但由于他们在你的手臂上安了那条<FONT color=#a82424>假肢</FONT>……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……你骗人。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你如果实在不信，我也不强求。不过幸好我通过这本笔记了解到不少情况。陨石某块特定的碎片中，蕴藏着与普通碎片不同的力量，利用那种力量，可以治好<FONT color=#387206>{user_nick}</FONT>你的病。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "<FONT color=#7e12d2>（瞥了一眼休利亚）</FONT>而且休利亚，你的愿望，应该也可以实现。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>就……就是嘛。他们实验的目的是为了治好所有人。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "<FONT color=#7e12d2>（卡拉秋轻轻地摇了摇头）</FONT><br>不是这样的。<FONT color=#387206>{user_nick}</FONT>，他们的目的是利用陨石的力量，将这个世界置于<FONT color=#a82424>更恐怖的邪恶</FONT>当中。咳咳咳咳",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "您还好吗？",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "我的病情似乎越来越严重了。<FONT color=#387206>{user_nick}</FONT>，你替我到<FONT color=#a82424>塔玛拉</FONT>那里再拿些药回来吧！<br>我还有些话要对休利亚说。",
+      "answer": "",
+      "image": "qn_npc_soceresstamara.png"
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "卡拉秋的药又吃完了？哎呀……看来他吃药的周期越来越短了。<br>你稍等一下。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "给，这是卡拉秋的药。<br><FONT color=#7e12d2>（塔玛拉递过一个小药瓶）</FONT><br>赶快把它拿给卡拉秋吧。",
+      "answer": ""
+    }
+  ]
+}

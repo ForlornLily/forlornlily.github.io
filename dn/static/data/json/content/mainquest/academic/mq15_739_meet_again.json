@@ -1,0 +1,269 @@
+{
+  "qkname": "再次相遇",
+  "data": [
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "你有什么急事吗？<br><br>\n※<FONT color=#7e12d2>需要在学者站台那里接受任务才能继续进行。</FONT>",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "真麻烦……<br>我可没什么事情要找小毛孩的。<br>\n※<FONT color=#7e12d2>需要在学者站台那里接受任务才能继续进行。</FONT>",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳咳……你，你赶紧……去<FONT color=#a82424>塔玛拉</FONT>那里……药……<br>咳咳咳咳……<br>\n※<FONT color=#7e12d2>需要在学者站台那里接受任务才能继续进行。</FONT>",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>网络不稳定。</FONT><br>▷ <FONT color=#7e12d2>重新设置Mission Object。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳咳……你，你赶紧……去<FONT color=#a82424>塔玛拉</FONT>那里……药……<br>咳咳咳咳……",
+      "answer": "",
+      "image": "qn_npc_soceresstamara.png"
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "你有什么急事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡拉秋的咳嗽很厉害。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "唉……看样子咳嗽又加重了……<br>你稍等一会儿。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "给，这是药。<br><FONT color=#7e12d2>（塔玛拉拿出一个小药瓶）</FONT><br>还有，你可以转告卡拉秋吗？就说原住民的病情进一步恶化了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>原住民的情况不好吗……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "之前从龙之追随者据点那里救出的原住民之中，有几个人再次旧病复发。<br>因为情况紧急，我就先下了点镇定剂，症状算是暂时稳定了，但是病情好像越来越糟糕了。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "再这样下去，他们很有可能会再次<FONT color=#a82424>魔化</FONT>的……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>魔化？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "最开始发现原住民的时候，他们之中的一部分已经被魔化，而且发生了变异。<br>卡拉翰制作的<FONT color=#a82424>药</FONT>可以让大家变回原来的样子……不过那药的效果也只是暂时的。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "既然不知道卡拉翰制药的方法，就没有其他的方法可以阻止他们的变异。他们肯定很快就会再次变成魔兽的模样的。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡拉翰的制药方法 ……看来是需要这个了。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "是啊。虽然卡拉翰的药不能彻底治愈被魔化的原住民，但效果一定是有的。<br>对那种药的制作方法进行研究的话，就一定能够找出彻底的治疗方法。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "真麻烦……<br>我可没什么事情要找你这个小毛孩的。",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>Mission Object.</FONT><br>▷ <FONT color=#7e12d2>请和高级魔法师塔玛拉对话吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "说不定还能找到可以缓和卡拉秋病情的方法呢。先把那个药拿给<FONT color=#a82424>卡拉秋</FONT>吧。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳咳……<br>不就拿个药嘛，怎么用了这么长的时间？咳咳咳咳……",
+      "answer": "（将药交给卡拉秋）"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳……<br><FONT color=#7e12d2>（卡拉秋饮下药后，深深吸了口气）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>您还好吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳……稍微咳嗽几下死不了人的。<br><FONT color=#7e12d2>（卡拉秋皱起了眉头）</FONT><br>这又是什么味道啊……？我都说了多少遍了，不要在药里加些乱七八糟的东西，她怎么就是不听呢……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你看着我干什么？<br>还有什么话要说吗？<br><FONT color=#7e12d2>（卡拉秋的咳嗽似乎好了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（转达塔玛拉说的原住民的情况）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你说原住民的病情再次恶化了……？<br>不过更让我吃惊的是，卡拉翰的那个药居然还有效，我还以为只要变异过一次就难以恢复原状了呢……哎……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没办法找出卡拉翰的制药方法吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "那家伙可能会平白无故交出制作方法吗？<br>而且，既然他想要的绿龙的宝玉已经到手了，一定早就藏在什么地方打算获取力量了。<br>说不定已经离开莲花沼泽了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我去找找卡拉翰。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "那不是无用功吗。啧啧……<br>你要是无事可做的话，就去<FONT color=#a82424>龙之追随者据点</FONT>把<FONT color=#a82424>西戴尔</FONT>带回来。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>西戴尔还没回来吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "是啊。看样子打击不小。<br>所以为什么对那丫头……啧啧……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那么，最好还是先去见见西戴尔。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你去好好安慰一下西戴尔吧。<br>恐怕他正打算向卡拉翰复仇呢……<br>不行，还是先把西戴尔带回来。",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>Mission Object.</FONT><br>▷ <FONT color=#7e12d2>请将药交给卡拉秋·佩奥里斯塔。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你去<FONT color=#a82424>龙之追随者据点</FONT>把<FONT color=#a82424>西戴尔</FONT>带回来吧。<br>看样子那家伙……已经伤心欲绝了……<br>所以为什么对那丫头……啧啧……",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "真是出人意料……<br>没想到你能活到现在……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德……？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "与之前不同，不安定的气息好像消失了。<br>你从卡拉秋那里获得了帮助？<br>\n<FONT color=#7e12d2>（述说期间发生的事情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "原来你也不过是个消耗品而已……？<br>咳咳……我逐渐对你所说的未来世界产生了兴趣。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不过，西戴尔怎么会变成这样？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我来的时候就发现他躺在这个地方了。<br>这家伙碍手碍脚的，你快带着他消失吧。<br><FONT color=#7e12d2>（贝思柯德走了几步，重新转过头来）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "既然你已经没法从未来获得情报了，那就和一个普通的人类小孩没什么两样。<br>你不要再关心这些无谓的事情了，好好享受你的新生活吧。<br>虽然这份和平并不会持续太久……但应该足够你享受了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我……想为这个世界做点事情。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>Mission Object.</FONT><br>▷ <FONT color=#7e12d2>请移动到龙之追随者据点。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你这个想法非常愚蠢。你一个普通的小孩，能为这世界做得了什么。<br>别无谓地去寻死了，好好安心地活着吧。<br><FONT color=#7e12d2>（回到卡拉秋那里吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "西戴尔刚刚醒过来了。<br>究竟发生了什么事情啊？<br>\n<FONT color=#7e12d2>（述说见到贝思柯德的事情）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>Mission Object.</FONT><br>▷ <FONT color=#7e12d2>请和卡拉秋·佩奥里斯塔对话吧。</FONT>",
+      "answer": ""
+    }
+  ]
+}

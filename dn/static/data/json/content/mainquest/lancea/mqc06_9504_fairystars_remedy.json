@@ -1,0 +1,224 @@
+{
+  "qkname": "佩奥里斯塔的治疗剂",
+  "data": [
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#7e12d2>(西戴尔正陷入沉思)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(最好回到卡拉秋的草屋)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "啊……你来啦。话说……<br>初次见面就说这些，我真是有些不好意思呢……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哎哟！有事就说吧，别卖关子了。<br>我父亲常说‘男子汉，作决断时要干净利落’！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "其实，我有东西务必要交给我的朋友……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……哦，有东西要转交？我还以为你要向我表白呢……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#7e12d2>(看到{user_nick}一脸失望的表情，西戴尔非常诧异)<br></FONT>好像有点小误会，抱歉。不过我只能拜托你了。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我的朋友非常爱吃用<FONT color=#a82424>丛林蕨菜</FONT>制作的料理。所以我原本想给她弄点丛林蕨菜的，不过还得处理老师吩咐的事情，所以没空去弄。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "很抱歉，你能不能替我去收集<FONT color=#a82424>丛林蕨菜</FONT>呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>恩！可以，没问题！<br></FONT><FONT color=#662500>……哦……不过……？该去哪里收集丛林蕨菜呢？</FONT><FONT color=#662500> </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "丛林蕨菜好像生长在<FONT color=#a82424>利物沃特村庄废墟</FONT>的潮湿地带！<br>你只要帮我摘来一捆就行了，谢谢啦。",
+      "answer": "",
+      "image": "qw_51.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯！明白了！那么，所谓的潮湿地带……就是湿漉漉……潮乎乎的地方……对吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "让你办的事还没办妥吗？<br>你真是比看起来还迟钝啊。",
+      "answer": ""
+    },
+    {
+      "npc": "杂货商洛西塔",
+      "question": "啊！抱歉。我还是第一次见到如此漂亮的小姐呢……<br>你这么漂亮，应该不会打我吧……？",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师约翰",
+      "question": "这里的人们好像和北部的人们关系越来越紧张了。",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手洁娜",
+      "question": "最近局势动荡。<br>万一打起仗来，我都不知道该站在哪一边。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "谢谢啦，那么就拜托你了。<br><FONT color=#7e12d2>(去利物沃特村庄废墟寻找丛林蕨菜吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "<FONT color=#2b2723>啊……</FONT><FONT color=#662500> </FONT><FONT color=#387206>{user_nick}</FONT>？你怎么会在这里？！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！凯伊？见到你真是太好了！我可是一直在找你啊！父亲他……父亲他……！<br>(向凯伊讲述了有关父亲的信件的内容，并告诉了他，父亲也许已经去世了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "原来发生了这种事情……不过，你别太难过了。我相信拉斯肯定还活着。<br>你和埃提亚不都很清楚吗？拉斯比任何人都要强，不是嘛。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……父亲可是非常强的人！不会随随便便就被杀死的……呵呵……<br></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "你可真是……！ <FONT color=#7e12d2>(凯伊无可奈何地笑了)</FONT><br>对了，让你们姐妹俩身处这样的险境，我始终觉得很不安。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯~？我倒是无所谓，但我挺担心埃提亚！<br></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9504_qu_01.ogg}<br>俗话说得好，跟着瓦匠睡三天，不会盖房也会搬砖……看来，你在经历了许多事情后，也慢慢地有了自己的想法。 <br>真令人惊讶啊，人类……不愧是会发生改变的存在啊。从你身上，让我见识到了世间的神秘。你很厉害啊，朋友。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哇~我变厉害了？我受到了凯伊的称赞！！嘿嘿嘿！<br>(虽然不知道凯伊为何用怜悯的眼神看着我，但不用管那么多)<br></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "总之，很抱歉。我本想介绍一个得力之人给你……可没想到会发生这种事。早一点将他介绍给你就好了……我已经跟埃提亚联系过了，详细的事情，你去问埃提亚吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的，那么，我得尽快回去才行……啊！对了！我还得搜集</FONT><FONT color=#a82424>丛林蕨菜</FONT><FONT color=#662500>！！<br></FONT><FONT color=#662500>这可是帮助过我的人拜托我的事情……只要解决了这件事，我就立马回去！<br></FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "啊哈……我刚刚问你为何在这里，现在终于知道原因了啊。 <br>事情办完后，你就尽快回到埃提亚那边吧。不能总把妹妹独自留在陌生的地方吧。<br>况且那孩子的身体也不是很好……",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "那么，我们以后再见吧。",
+      "answer": ""
+    },
+    {
+      "npc": "丛林蕨菜",
+      "question": "<FONT color=#7e12d2>（丛林蕨菜上挂着名签）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "丛林蕨菜",
+      "question": "<FONT color=#7e12d2>(我亲爱的凯瑟琳)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（连名签都挂上了，看来有人精心种植这些蕨菜啊。连茎干都生长得很好，看来的确是被精心栽培着。）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(不过，我要摘了，别怪我啊)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "凯瑟琳(丛林蕨菜，约1岁)",
+      "question": "<FONT color=#662500>(拔下了凯瑟琳。我会把你用在有意义的地方……返回西戴尔那边吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "啊，你回来啦？我刚刚调好了药。你快喝吧。<br>此药有助于缓解你的症状，但效果不会立即体现出来。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃……这味道真是……犹如沼泽地里的脏水……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "都说良药苦口嘛。对了，最近周围非常混乱，老师正在担心呢。<br>可以的话，你能不能帮帮老师呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……嗯……我也想帮助卡拉秋。不过，我现在有事情要做！<br></FONT><FONT color=#662500>我现在必须去莲花沼泽找我妹妹！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "这样的话，那就没办法了。不过，希望你以后再来这里哦。拜托了。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐……你回来啦……",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "从凯伊哥哥那里……呜……收到了消息……<br><FONT color=#7e12d2>(埃提亚正强忍着哭声，不知道她怎么了)</FONT>",
+      "answer": "",
+      "image": "qn_kaye.png"
+    }
+  ]
+}

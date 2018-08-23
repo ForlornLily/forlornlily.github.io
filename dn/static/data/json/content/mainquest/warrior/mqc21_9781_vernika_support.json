@@ -1,0 +1,388 @@
+{
+  "qkname": "贝勒尼卡的支援",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这件事关乎反女神派和梅尔卡市国的安危。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernika_9781_qu_01.ogg}<br>最好不要在这公然谈论这件事。<br>身为中立市国，梅尔卡帮助反女神派的事如果传到帝国耳朵里，那反女神派和梅尔卡都没好果子吃。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "你先说来听听。<br>你所说的有利反女神派和梅尔卡的事究竟是什么。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>梅尔卡是谜之大陆唯一的中立市国，如今战乱不断，这也是对立势力能够共存的唯一净土。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可这种局面只能在双方势均力敌的情况下才能维系。<br>一方得势，另一方自然失势。一旦有一方消失，那中立也将毫无意义？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>所以说，贝勒尼卡大人应该帮助的不是握有武器的强者，而是手无缚鸡之力的弱者。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "原来你还记得。<br>按你所说，莫非有办法重振日益衰退的反女神派？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>如果有样东西能寻回卢比纳特，唤醒阿尔泰亚的意识，你会相信吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "如果真的真能寻回红龙，唤醒阿尔泰亚的意识……<br>那东西岂不是早就被反女神派找到了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也是最近才知道那东西的存在。<br>通过卢比纳特留下的信息，我得知了那东西的下落。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "简直让人匪夷所思。知晓化解办法的当事人竟然隐藏真相……<br>并且自己还堕落为女神的奴仆……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也搞不懂卢比纳特的意图，关键现在唯一的办法是<br>追寻卢比纳特留下的线索。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "你怎么证明线索的真实性？<br>如今帝国警卫森严，如果贸然涉险，梅尔卡很有可能被帝国揪住把柄。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>与其坐以待毙，日后任人宰割，倒不如早做准备！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "<FONT color=#7e12d2>（贝勒尼卡盯着坚定决绝的</FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#7e12d2>，突然噗嗤笑了。</FONT><br>你说得对。我该怎么帮你？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>按照卢比纳特留下的信息，有关那东西的线索就在卡伊伦岛。<br>我需要知道卡伊伦岛的情况和贝勒尼卡大人的支援。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernika_9781_qu_02.ogg}<br>卡伊伦岛……这可麻烦了。<br>那座海岛被一个叫<FONT color=#a82424>海兰德尔</FONT>的高级查尔德占领了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>高级查尔德？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "你也知道，查尔德通过其他查尔德作为养分，让自身成长、壮大。<br>如果是高级查尔德，可想而知要吃掉多少查尔德才会如此强大。<br>从前的卡伊伦岛主人就是被海兰德尔吃掉了。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "我会出手帮助你，但你要答应我一个条件。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么条件？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "高级查尔德的领土上， 格雷尔是反女神派最后的堡垒，我不能派他前往高级查尔德的领地。<br>这完全是羊入虎口。 ",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernika_9781_qu_03.ogg}<br>正如你所说，反女神派一旦衰败，对梅尔卡并非好事。<br>所以但愿你能保证反女神派的希望格雷尔的安全。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（诺尔佩说过，格雷尔吸收玛蒙的宝玉后，一直不太稳定， </FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#662500>点点头。）<br>知道了。我不会带格雷尔前往卡伊伦岛的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "好吧。如果你想进入卡伊伦岛，日后一定需要船只。<br>我会跟梅尔卡港口的船长打好招呼，你去港口跟船长见一面吧。",
+      "answer": "",
+      "image": "qn_hector.png"
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "为了保密，你最好单独行动。<br><br><FONT color=#7e12d2>※无法组队完成的任务。</FONT>"
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "好吧，如果准备好了，就来和我对话。"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "等你好久了，诺尔佩都告诉我了。<br>我把格里高利这家伙也带来了，明智吧？ ",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "你该不会真的要前往卡伊伦岛吧？BR>可恶！那可是高级查尔德的地盘！",
+      "answer": ""
+    },
+    {
+      "npc": "梅尔卡船长赫克托",
+      "question": "嗯？贝勒尼卡大人说你们打算前往卡伊伦岛，胆子可真不小！ ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，确实如此。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "梅尔卡船长赫克托",
+      "question": "你们真是不要命了。<br>那岛的主人查尔德对人类恨之入骨，已经好久没有人类的踪迹了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我必须要到那里去。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "梅尔卡船长赫克托",
+      "question": "也是，我年轻的时候也是坐船四处游历。<br><FONT color=#7e12d2>（船长看了看杰兰特和格里高利）</FONT>好吧，坐船的只有你们三人吗？",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "<FONT color=#7e12d2>（被杰兰特硬拉来的格里高利不悦地说道。）</FONT><br>凭什么算上我？我可没答应去！<br> ",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你身为反女神派的一员，倒是发挥点用处啊？",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "我的存在本身对反女神派来说就是很大的帮助！<br> ",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "看起来也帮不上什么忙，不如杀了他吧？<br><FONT color=#7e12d2>（杰兰特一本正经地询问 {user_nick}。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你冷静点，杰兰特。<br>格里高利自然对反女神派会有帮助。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "ndnpc_Gregory_9781_qu_01.ogg}<br><FONT color=#7e12d2>（杰兰特杀气吓得格里高利结巴起来。）</FONT><br>我不是害怕去卡伊伦岛，最近帝国那边不是管的严吗？<br>总要有人留在这保护反女神派吧？格雷尔的状态也不太好……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>说得有道理。<br>（点点头。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "那家伙真可恶。<br><FONT color=#7e12d2>（杰兰特抬头看着格里高利，格里高利露出得意的笑容。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "梅尔卡船长赫克托",
+      "question": "甭管两名还是三名，快上船吧。",
+      "answer": ""
+    },
+    {
+      "npc": "梅尔卡船长赫克托",
+      "question": "这船今后就借给你们了，随你们自由使用，无需向我报告。<br>那祝你们好运。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "这里就是卡伊伦岛？没想到码头这么阴森？ ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>先前说他讨厌人类，果真是一个人影都没有。.</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "普通的查尔德占领土地后，会把人类当做奴隶……<br>等等！ <FONT color=#7e12d2>（杰兰特环顾周围，似乎感觉到了什么。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎么了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "到底是谁，别缩头缩脑的，有种就出来！",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "格雷尔这家伙，什么时候偷偷上船的？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格雷尔？你怎么在这？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "我藏在船里，悄悄跟过来了……你们丢下我，是觉得我没用吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没有的事，格雷尔。<br>你因为玛蒙的事，身体尚未恢复……我们都是为你着想。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "没、没关系！我好着呢！我也想帮忙找到治愈之杯！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可格雷尔……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "ndnpc_Grele_9781_qu_01.ogg}<br>我见到姐姐后，忽然明白了，她已经不是过去的姐姐了……<br>可治愈之杯不是能治愈维斯提内的剧毒，重新净化卢比纳特吗？",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "所以说，姐姐也一定能靠那个杯子恢复到原来的样子！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这个……没办法保证，格雷尔。<br>虽然治愈之杯是最后的办法，但没人知道它是否真的有效。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "即便如此……！即便如此……！不也能消除维斯提内的邪恶气息嘛！<br>我……一定要帮忙找到治愈之杯！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "ndnpc_Grele_9781_qu_02.ogg}<br>我不拖累你们。我吸收了玛蒙的宝玉，变得更加强大。让我帮帮忙吧。 ",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "反正只有一艘船，终究要一起回去。<br>不如就带上格雷尔吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（只能这样了……）<br>好吧。但千万不能逞强，格雷尔。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "嗯……这岛周围弥漫着异常的气息？",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "全都消灭了！这下可以进入岛内了吧？",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "慢着，等等。<br>森林里弥漫着一股异常气息。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>异常气息？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "莫非是结界？<br>如果贸然闯进去，我们三个一定吃不了兜着走。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你说结界……莫非是海兰德尔布下的？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "很有可能。<br>还是先返回梅尔卡，跟诺尔佩商量一下吧。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "\n别担心！我能帮上忙。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你返回梅尔卡，把结界的事告诉诺尔佩。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（还是先返回梅尔卡，跟诺尔佩商量为好。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "看来在卡伊伦岛有所收获？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我们本打算进入岛内，可却被一层结界挡住了。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "结界……想必是岛主海兰德尔布下的。",
+      "answer": ""
+    }
+  ]
+}

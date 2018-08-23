@@ -1,0 +1,150 @@
+{
+  "qkname": "迷雾中的幻象",
+  "data": [
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "贝思柯德……<br>抛弃了人类的样子之后获得的力量，就是那种东西吗……<br><br>※ <FONT color=#7e12d2>必须在神圣天堂王城内部的泰兰斯·特拉玛依那里接受任务，才能进行。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "这里是我待过的地方……<br><br>※ <FONT color=#7e12d2>在神圣天堂王城内部的泰兰斯·特拉玛依那里可以接受任务。</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "贝思柯德……<br>不知道他在耍什么花招……",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "不能让贝思柯德就这么跑掉。<br>请尽快到<FONT color=#a82424>恶灵阴影</FONT>去。",
+      "answer": "",
+      "image": "qw_61.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "贝思柯德……<br>抛弃了人类的样子之后获得的力量，就是那种东西吗……",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "贝思柯德……<br>抛弃了人类的样子之后获得的力量，就是那种东西吗……",
+      "answer": ""
+    },
+    {
+      "npc": "特拉玛依",
+      "question": "……现在不是回忆往事的时候。<br>所有的一切都已经变成过去。对我们而言，重要的是现在要做到事情。",
+      "answer": ""
+    },
+    {
+      "npc": "特拉玛依",
+      "question": "他必定是跑到<FONT color=#a82424>恶灵阴影</FONT>那边去了。<br>我们也追过去吧。",
+      "answer": "",
+      "image": "qw_61.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "那里是我曾经待过的地方……<br>……多亏了特拉玛依，我才能回到这里。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "可恶……！<br>没想到让贝思柯德轻易跑掉了……",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "以我们的力量，好像无法轻易获得杰兰特的剑。<br>是不是应该向佩奥里斯塔魔法师团请求帮助呢……呵呵，我这个老头子的面子都要丢光了……",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "先回到<FONT color=#a82424>神圣天堂</FONT>去吧。<br>应该去看看先知有没有获得什么新的启示。",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "先知在王城地下。<br>她在杰兰特生前待过的地方，你应该很容易就能找到。<br>快去见见先知吧。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我们正在重新调查贝思柯德的行踪，但目前还没什么消息。<br>你去见见先知，看看她有没有获得什么新的启示吧。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "啊，<FONT color=#387206>{user_nick}</FONT>，是你啊。<br>你来得正好。刚才我睡了一会儿，在梦中看到了什么东西……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是贝思柯德的行踪吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "不是的。很遗憾，我没有看到黑骑士。<br>我看到的是……巴尔纳的样子。",
+      "answer": "",
+      "image": "qn_warrior_barnak.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "是巴尔纳在<FONT color=#a82424>陨石坠落地边界地区</FONT>和某人在一起的场面。",
+      "answer": "",
+      "image": "qw_60.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "虽然没能看清那个人的长相……<br>但他肯定和另外一个人在一起。<br>也许那个人就是操纵他的幕后黑手。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "我们必须抓紧时间。<br>要是能抓住操纵巴尔纳的人，就算没有杰兰特的剑，也能让巴尔纳得到救赎。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我还有一个问题。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "嗯？<br><FONT color=#7e12d2>(萝丝仔细地听{user_nick}说完)</FONT><br>啊……原来是这样。你是在找人啊……哎呀，一定很辛苦吧。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "但是……很遗憾，现在我的力量还没有完全恢复，恐怕没办法帮你。<br>我没有得到过有关她的启示。真是抱歉。<br><FONT color=#7e12d2>(萝丝的眼中含着泪水)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "你一直在帮我，我也很想帮你……我为什么这么弱呢？<br>贝思柯德的位置好像也被迷雾笼罩着……其他的东西也一样。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "……现在希望你能帮着解决巴尔纳的事情。<br>等眼下的事情解决之后，也许我的力量就会恢复，我就能获得新的启示了。<br>我会虔诚祈祷的。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的，先集中精力解决巴尔纳的事情吧。</FONT>",
+      "answer": ""
+    }
+  ]
+}

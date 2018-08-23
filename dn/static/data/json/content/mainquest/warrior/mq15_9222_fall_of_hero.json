@@ -1,0 +1,138 @@
+{
+  "qkname": "英雄的没落",
+  "data": [
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "快过来…，<FONT color=#387206>{user_nick}</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德现在怎么样了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "虽然已经过了危险期，但还是需要持续治疗。<br>之前还有龙之宝玉支撑着他的身体，现在没有了宝玉，不知道会出现什么副作用。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他现在在哪里?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你是来看我落魄的样子吗…？咳咳。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "他就在<FONT color=#a82424>王城地下</FONT>休息。<br>我想整个王城中，不起眼的地方也只有那里了……",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你是来看我落魄的样子吗…？咳咳。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我只是来看你身体有没有好转的…",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "那么，你说我现在还好吗？<br><FONT color=#7e12d2>(贝思柯德苦笑着)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我真是愚蠢啊。<br>最初说不能用杰兰特的剑消灭巴尔纳那句话，就是为了引我出来的谎言…",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我就没相信过，那个古代人小孩儿能逃过那个人的手掌心。我还以为她只是一个诱饵罢了…<br>没想到那个小孩儿居然成为了新的使徒…",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我已经失去了龙的力量，我现在什么也不是了…<br>在过去50年里，我日思夜想的复仇计划就这么无疾而终了啊。你不觉得这很悲惨吗？<br>咳咳…",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>…….</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我要休息了…你走吧。<br><FONT color=#7e12d2>(贝思柯德看上去很疲惫，回到特拉玛依那里去吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "贝思柯德好像受到了很大的打击…<br>虽然我还有账要跟他算，不过现在还是要集中精神，让他赶快恢复健康才是。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>有什么我可以帮忙的吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我看过一些书籍，并且询问过宫廷医师，现在正在查找那些有利于恢复健康的药草。<br>不过我还需要你的帮助。<br><br>※ <FONT color=#7e12d2>达到58级以后才能执行该任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "如果你肯帮助，就再好不过了。<br>虽然已经做了一些应急措施，但他的伤势较重，肯定会很痛苦的。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "要是有药草给他用就好了……<br>你能帮我收集一些吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么药草呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你到 <FONT color=#a82424>被蚕食的神殿废墟</FONT>去找一些叫做<FONT color=#a82424>丛林蓝色锦葵</FONT>的药草给我吧。<br>那个药草可以做成镇痛剂。",
+      "answer": "",
+      "image": "qw_62.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "快过来吧，<br>这些药草已经够用了。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "\n<FONT color=#7e12d2>(转述在被蚕食的神殿废墟看到的事情)</FONT><br>你见到了<FONT color=#a82424>巴尔纳</FONT>…？<br>巴尔纳怎么会在被蚕食的神殿废墟……",
+      "answer": "",
+      "image": "qn_npc_death_knight.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>这是怎么回事?</FONT>",
+      "answer": "",
+      "image": "qn_npc_death_knight.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "使徒的目标是贝思柯德的宝玉……。<br>他应该是得手之后，便立刻离开的。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "qkname": "还无法停止",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（查看K博士的日志）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（不，研究资料就是使用宝玉制造出巨龙的方法……<br>说不定…… 百合花正打算唤醒新的巨龙！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（日志中记载的地点就是狂人研究所……<br>必须阻止百合花获得K博士的研究资料）</FONT>",
+      "answer": "",
+      "image": "qw_70.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>代号XD-28，登入成功。</FONT><br><FONT color=#2b2723>▷ </FONT><FONT color=#086171>Checking Data………….</FONT><br>▷ <FONT color=#7e12d2>Operation Desert storm.</FONT><br>▷ <FONT color=#7e12d2>正在确认详细任务。请稍等。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

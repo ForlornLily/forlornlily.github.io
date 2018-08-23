@@ -1,0 +1,98 @@
+{
+  "qkname": "我该怎么办",
+  "data": [
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>代号XD-28，登入成功。</FONT><br><FONT color=#2b2723>▷ </FONT><FONT color=#086171>Checking Data………….</FONT><br>▷ <FONT color=#7e12d2>Operation Desert storm.</FONT><br>▷ <FONT color=#7e12d2>正在确认详细任务。请稍等。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br>▷ <FONT color=#7e12d2>移交获得的K博士的研究资料</FONT><br>\n▷ <FONT color=#7e12d2>和XD-27一起去伊戴尔基地会合</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（伊戴尔基地难道就是百合花的战斗部队驻扎的的地方吗……？<br>单凭我一人之力能阻止他们吗……）</FONT>",
+      "answer": "",
+      "image": "qw_71.png"
+    },
+    {
+      "npc": "XD-29",
+      "question": "嗷嗷……呃呃……<br><FONT color=#7e12d2>（XD-29东倒西歪）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（没办法了……<br>这场战争因我而起，我要尽我最大的努力。<br>不能让百合花得逞……<br>我要前去伊戴尔基地）</FONT>",
+      "answer": "",
+      "image": "qw_71.png"
+    },
+    {
+      "npc": "XD-29",
+      "question": "嗷嗷……呃呃……<br><FONT color=#7e12d2>（XD-29东倒西歪）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>K博士的研究资料在哪？快说！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "XD-29",
+      "question": "XD-26，你个叛徒……<br>你觉得我会告诉你吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>沙漠风暴是什么？你们真的要挑起战争吗？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "XD-29",
+      "question": "你问我们是否打算挑起战争……？<br>不，战争早就开始了！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你们不惜牺牲无数人的性命……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "XD-29",
+      "question": "别搞笑了，你这个伪善者！<br>我应该问你，你真的杀掉生活在未来世界的人们？！<br>你原本属于我们的世界。<br>你不惜牺牲掉自己所属的世界，也要维护的东西到底是什么？",
+      "answer": ""
+    },
+    {
+      "npc": "XD-29",
+      "question": "我们为了生存而战斗，可你呢？<br>你到底为了什么而战斗？<br>因为你，未来的无数人将遭受痛苦，被残忍地杀死，这些你都想过吗？",
+      "answer": ""
+    },
+    {
+      "npc": "XD-29",
+      "question": "造成这一切的元凶就是你！<br>如果你成功将<FONT color=#a82424>先知</FONT>弄到手，我们也不至于这么做……<br>是你将所有人推向死亡！<br>是你的错！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不……不是的！我……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "XD-29",
+      "question": "咳咳……<br>我们……必须活下来……<br><FONT color=#7e12d2>（XD-29摇晃着走向某地）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_normal.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（未来和现在……到底哪一边会不得不消失呢……？<br>贝思柯德……我该怎么办呢……）</FONT><br><br>※ <FONT color=#7e12d2>请追赶XD-29，前往泰努阿尔神殿。</FONT>",
+      "answer": "",
+      "image": "qw_72.png"
+    }
+  ]
+}

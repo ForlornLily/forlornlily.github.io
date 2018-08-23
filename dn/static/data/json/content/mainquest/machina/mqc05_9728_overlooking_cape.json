@@ -1,0 +1,422 @@
+{
+  "qkname": "远处观望者之地",
+  "data": [
+    {
+      "npc": "道格拉斯将军",
+      "question": "在你去遗忘时间废墟期间，侦察兵们带回了新的情报。",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "除了<FONT color=#a82424>遗忘时间废墟</FONT> ，据说在阴森森林中的幽灵村和枯叶森林爆炸地区也出现了贝思柯德的踪影，而且。",
+      "answer": "",
+      "image": "qw_47.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>而且？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "而且龙之追随者也出现了。准确来说是它们的尸体。他们还带着这样的纸条。",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（沾满血的纸条。纸条皱巴巴的，上面写着意义不明的文字。）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "沾血的纸条",
+      "question": "<FONT color=#7e12d2>往昔守候着的人凝望远方的地方，<br>神圣岛屿的引导者就在那个地方，<br>跟随他开辟的道路，去往那个伟大的存在。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "<FONT color=#7e12d2>（将军道格拉斯反复地读着沾血的纸条上写着的文字）<br></FONT>哼，难道黑骑士真的是个和<FONT color=#a82424>龙之追随者</FONT>有关联的人物……？",
+      "answer": "",
+      "image": "qm_dragonsycophant.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>应该并非如此。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "你为何如此斩钉截铁地做出这样的判断？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我和他碰过几次面，他不是龙之追随者。</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "嗯……也是。我也不认为 <FONT color=#a82424>黑骑士</FONT>和<FONT color=#a82424>伊格纳西奥</FONT>是一伙的。那黑骑士的目的究竟是什么呢？<br>还有，龙之追随者为什么会死在那里……？<br><FONT color=#7e12d2>（将军陷入了沉思。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "虽然只是我个人的想法……不过，也许那里的怪物接受了黑龙的命令，然后消灭了<FONT color=#a82424>龙之追随者</FONT>？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那么，黑骑士正在追赶龙之追随者？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "虽然现在还不能准确地进行判断……<br>不过现在既然没办法知道 <FONT color=#a82424>黑骑士</FONT>的行踪，就必须要考虑所有的可能性。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "看不见希望的时候，就算用自己的毅力，我们也要打造出一片希望，我是看不懂这纸条上面的文字，<br>不过倒是有人能够看懂这上面的字。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你是说斯塔西吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "我听说你突然不见了……看来你还有事情要做啊。",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "是的，看来只有像<FONT color=#a82424>纹章学者斯塔西</FONT>这样知识渊博的人才能看懂。<br>你去找他，问问看这纸条上所写的文字是什么意思吧。",
+      "answer": "",
+      "image": "qn_npc_scholar_starshy.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "自从你上次来过之后，我还是会经常听说有人被<FONT color=#a82424>萨芬特拉</FONT>所伤，<br>究竟<FONT color=#a82424>道格拉斯将军</FONT>在做什么呢？",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他正在找寻打倒萨芬特拉的方法。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "居然把军队派遣到那么莫名其妙的地方，还扬言要找什么方法，这真是叫人难以理解，我真是搞不懂到底将军内心是怎么想的。",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "嗯……？所以拿着<FONT color=#a82424>杰兰特的剑</FONT>的<FONT color=#a82424>黑骑士</FONT>……就是说，他正在追踪<FONT color=#a82424>贝思柯德</FONT>的行踪吗？",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "好吧，为了寻找<FONT color=#a82424>贝思柯德</FONT>的行踪，你们想要我帮什么忙？",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你能看出这个纸条究竟是什么意思吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "<FONT color=#7e12d2>（纹章学者斯塔西看着纸条上的内容）</FONT><br>如果这个是龙之追随者的纸条，那么就应该是暗号吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "虽然我不知道这个叫<FONT color=#a82424>神圣岛屿</FONT>的地方是哪里……估计应该是龙之追随者认为很神圣的地方，这肯定是个和<FONT color=#a82424>龙</FONT>有关系的地方。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>和龙有关系的地方？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "还有这里所指的神圣的引导者，应该就是指引众人前往那个地方的人，或是知道那个地方所在位置的人。<br>凝望远方的地方应该就是指<FONT color=#a82424>远处观望者之地</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那是什么地方？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "就是在很久以前，开疆拓土之王佩达和前去远征的军队家属在那里守候军人回家的那个地方，现在<FONT color=#a82424>海盗船长达兰特</FONT>将那个地方当成了自己的根据地。",
+      "answer": "",
+      "image": "qw_39.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>也就是船长达兰特的根据地吧？</FONT>",
+      "answer": "",
+      "image": "qw_39.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "这个，虽然还有几处地方我还没有搞明白，但这一部分应该是可以肯定的，简单来说，龙之追随者那些家伙应该是要聚集在<FONT color=#a82424>船长达兰特的根据地</FONT>，打算一同前往某个地方。",
+      "answer": "",
+      "image": "qw_39.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "这些信息量对你来说应该足够充分了吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是。谢谢。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "但我还有点不放心的地方，他们好像认为自己所崇拜的龙就在那神圣岛屿之上，但是<FONT color=#a82424>萨芬特拉</FONT>不过只是个海怪而已，它并不是<FONT color=#a82424>龙</FONT>啊？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没错。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "…………",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "哼，清除了一个垃圾，又出现了其他垃圾啊。<br><FONT color=#7e12d2>（贝思柯德轻蔑地看着我）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "也是………一想到到现在为止你所做过的事情，说你是垃圾还真是可惜了，哈哈！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我……做过的事？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>（贝思柯德嘲笑了起来）</FONT><br>看来你连自己做了什么都不知道啊。<br>在去红色胡须之岛之前，我来教教你吧？<br>我会像曾经相信你的某人一样亲切的……呵呵……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你在说什么啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "刺激了使徒埃雷娜，在凯德拉关卡放出污染物质的人正是你这家伙。 就因为埃雷娜误以为你这家伙把先知小鬼带走了，你就这样吗。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "虽然她不过是个早晚要被消灭掉的麻烦东西，不过她号称使徒，居然被你这个无名之辈打败了，真是让我没想到呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "还有那个成为<FONT color=#a82424>使徒伊格纳西奥</FONT>的傀儡，最终将先知拱手奉上的人还是你.",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "被蒙蔽了双眼的<FONT color=#a82424>杰兰特</FONT>就是为了保护你小子，才在和萨芬特拉争斗的过程中丧失了性命，不过，你做过的最傻的事情就是让<FONT color=#a82424>萨芬特拉</FONT>尝到了杰兰特的血的滋味.",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（真不知道他要说什么……我才不想听呢）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我的意思是说，多亏了有你，原本不过是个海怪的<FONT color=#a82424>萨芬特拉</FONT>才变成了<FONT color=#a82424>龙</FONT>.",
+      "answer": "",
+      "image": "qm_sea_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "正如我说的那样，多亏了你的愚蠢，<FONT color=#a82424>萨芬特拉</FONT>才变成了<FONT color=#a82424>海龙</FONT>.<br>将状况搞到这副田地的元凶却仍然摆着一副懵懂未知的表情.",
+      "answer": "",
+      "image": "qm_sea_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我是为了帮助其他人……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "也就是说你连自己几斤几两都搞不清吧？<br><FONT color=#7e12d2>（贝思柯德嘲笑了起来）</FONT><br>那么，打算帮助别人的家伙为什么要跟着我呢，伟大的<FONT color=#387206>{user_class}</FONT> ？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>为了找到杰兰特的剑……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#a82424>杰兰特的剑</FONT>………？ 为什么？<br>啊啊………难道，你打算用这把剑捕获萨芬特拉不成？<br>啧啧………到现在还没掂清楚自己的份量.",
+      "answer": "",
+      "image": "qp_geraint_sword.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "若说你还有那么一丁点类似罪责感或责任感的感情，还不如早点以死谢罪如何？<br>至少我也不用受累来面对你这种垃圾.",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "哼，从刚刚到现在，你除了会乱嚷嚷之外好像什么都没做过吧？至少垃圾还比较安静，<br>比你这家伙要强.<br><FONT color=#7e12d2>（贝思柯德嘲笑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "若是想要证明你自己不是垃圾，就不要到处去找什么剑，还不如干脆拼上你这条贱命，假装去负个责任也好.",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>拼上……性命……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "………我连砍你都觉得麻烦，<br>给我滚开.<br><FONT color=#7e12d2>（贝思柯德好像再也不想面对我了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "总之，去那里调查一下，说不定能发现什么。<FONT color=#a82424>贝思柯德</FONT>也可能会出现。<br><FONT color=#7e12d2>（去船长达兰特的根据地吧）</FONT>",
+      "answer": "",
+      "image": "qw_39.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "我听说你去了船长达兰特的根据地。",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "你找到<FONT color=#a82424>黑骑士</FONT>的行踪了吗？",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "我见到了<FONT color=#662500>黑骑士。但是……</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "你见到了黑骑士……？<br>难道，你和他打起来了？那<br><FONT color=#a82424>杰兰特的剑</FONT>呢？",
+      "answer": "",
+      "image": "qp_geraint_sword.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我没能让他还回来……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "也没想着他能乖乖地还回来.<br>可看你的表情应该还有其它事.",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>其实……他说萨芬特拉成了海龙……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "ionTalk2}<br>什么……？<br>萨芬特拉成了<FONT color=#a82424>海龙</FONT>？<br>这是怎么回事？！",
+      "answer": "",
+      "image": "qm_sea_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>黑骑士是那么说的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "咳……真是难以置信。<br>不能光凭他的话就下定结论。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "但是，这么可怕的消息也不能就这么不予理睬啊……<br><FONT color=#7e12d2>（将军陷入沉思）</FONT><br>我们得调查一下萨芬特拉是否成了海龙。他还说了什么吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他说他要去红色胡须之岛。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "红色胡须之岛……似乎很久之前就成为了海盗红色胡须根据地啊？<br>我知道了，我会派侦察兵去那里调查情况的。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "在侦察兵们去红色胡须之岛调查回来之前，我们先暂时等一下吧。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>（贝思柯德好像再也不打算开口了）</FONT>",
+      "answer": ""
+    }
+  ]
+}

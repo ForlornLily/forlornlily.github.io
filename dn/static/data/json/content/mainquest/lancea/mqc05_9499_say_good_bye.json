@@ -1,0 +1,143 @@
+{
+  "qkname": "告别之言",
+  "data": [
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "虽然你现在才认识到自己的错误，嗯嗯……<br>不过，女神已经原谅了你这个愚蠢的人类所犯下的错误。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "不过现在的情况并非如此。这到底是怎么回事？<FONT color=#387206>{user_nick}</FONT>!!<br><FONT color=#7e12d2>(伊格纳西奥一脸凶相地追问我)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哎……？？？又发生什么事了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "<br>我感觉这里……会发生什么事情。我的心扑通扑通直跳。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我有种不好的感觉。<br><FONT color=#7e12d2>(杰兰特仍然处在恢复当中)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你知道发生什么事情了吗？<br>我的担忧到底是成真了……<FONT color=#a82424>萨芬特拉</FONT>复活了。好不容易得来的和平，又一次被危险的阴云所笼罩。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "王城和神圣天堂的人们正陷入恐惧之中。<br>虽然此事并非因你而起，但对于这场危机，你也有一定责任。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "既然你意识到了错误，我相信你会负起责任的吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃……这……<br>我该怎么做呢？这可是不得了的事情……该怎么办呢？要不要问问埃提亚呢？怎么办啊！？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "萨芬特拉的力量虽然还很弱，但毕竟是龙。<br>如果是<FONT color=#a82424>杰兰特</FONT>的话，应该可以跟它对抗。",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>但是，杰兰特受伤了。<br>而且他的伤还没好。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "王城士兵全都受到了黑龙的污染而无法行动。难道你就忍心看着神圣天堂的人们一个个死去吗！？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>当……当然不忍心啦。那好，我去找杰兰特。</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "<FONT color=#a82424>杰兰特</FONT>肯定会义不容辞的。<br>你快去吧！趁现在神圣天堂还未遭到凶残魔物的摧残……",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……我已经听到你急急忙忙跑来的脚步声了。<br>看来的确发生了大事，正是如我所料啊。<br>我感觉到有一股力量正在逼近。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONTcolor=#662500>萨芬特拉……呜呜，都是我的错……呜呜……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "真是难以理解。它可不是仅凭一个人类的力量就能唤醒的魔物。<br>之前，为了使它不再复活而让它陷入了沉睡，怎么又会出现呢？",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "情况我已经了解了。<br>我要赶紧去<FONT color=#a82424>船长达兰特的根据地</FONT>。",
+      "answer": "",
+      "image": "qw_39.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我能帮上什么忙吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "目前，我的视力还没有恢复，只能依靠其他感官进行战斗。 以防万一，请你与我同行吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的，明白了。请相信我吧！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我所感受到的力量的波动无疑就是萨芬特拉。<br>不管怎样，应该就是同一个家伙……",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……怎么如此嘈杂。我听不清你的声音了。<br>希望周围能保持安静。<br><FONT color=#7e12d2>(组队状态下无法进行该任务)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我不知道很久以前被消灭掉的萨芬特拉为何会再次出现。<br>我们得赶快前往<FONT color=#a82424>船长达兰特</FONT>的根据地。",
+      "answer": "",
+      "image": "qw_39.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰兰特！！！不行！！</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(杰兰特的巢穴……)</FONT>",
+      "answer": ""
+    }
+  ]
+}

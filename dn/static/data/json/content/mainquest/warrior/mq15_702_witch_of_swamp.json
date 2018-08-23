@@ -1,0 +1,238 @@
+{
+  "qkname": "沼泽地的魔女",
+  "data": [
+    {
+      "npc": "阿尔杰塔",
+      "question": "你这个厚脸皮的家伙，倒是经常能见到啊。<br>\n<FONT color=#7e12d2>（只能从赫尔马岱港口的戴维那里获得并进行任务）</FONT>",
+      "image": "qn_slave_david.png"
+    },
+    {
+      "npc": "卡拉秋",
+      "question": "咳咳咳咳，真是个没规矩的家伙……<br>进来之前应该先敲门。<br>\n<FONT color=#7e12d2>（只能从赫尔马岱港口的戴维那里获得并进行任务）</FONT>",
+      "image": "qn_slave_david.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我好像第一次见你啊？<br>这里面很危险的，你最好还是回去吧。<br>\n<FONT color=#7e12d2>（只能从赫尔马岱港口的戴维那里获得并进行任务）</FONT>",
+      "image": "qn_slave_david.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "ionStand01}<br>好吧，成交！<br>伟大的奴隶<FONT color=#a82424>戴维</FONT>将亲自指引你去见阿尔杰塔。这可是你整个家族的荣耀啊。",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "阿尔杰塔现在就在六大英雄之一的<FONT color=#a82424>卡拉秋</FONT>家里。<br>你去<FONT color=#a82424>利物沃特码头</FONT>那里找找<FONT color=#a82424>卡拉秋的草屋</FONT>吧。",
+      "answer": "",
+      "image": "qw_karakule_house.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你这个厚脸皮的家伙，倒是经常能见到啊。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋",
+      "question": "咳咳咳咳，真是个没规矩的家伙……<br>进来之前应该先敲门。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我好像第一次见你啊？<br>这里很危险，你最好还是回去吧。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你这个厚脸皮的家伙，倒是经常能见到啊。<br>你来这里有什么事吗？<br><FONT color=#7e12d2>（阿尔杰塔表情冷漠地说道）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我是来……转告杰兰特的消息的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "那个<FONT color=#a82424>傻子</FONT>的事情，就算不听我也能感觉得到！<br>而且我也知道这事情和你脱不了关系！",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真的……很抱歉。</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "抱歉……？<br>你是不是都不知道那个傻子为了救你的性命付出了多大的代价？<br>为了救你，不仅<FONT color=#a82424>杰兰特</FONT>命丧黄泉，现在连<FONT color=#a82424>混沌龙的后代</FONT>都开始兴风作浪了。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？混沌龙的后代？</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "若是没人向你一一说明，你就压根不明白这些事情，你可真是个不折不扣的白痴啊。<br><FONT color=#a82424>杰兰特</FONT>这段时间一直用自己的力量将混沌龙的后代封印了起来，他死之后，这些封印也会渐渐变弱。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "在不久的将来，除了<FONT color=#a82424>黑龙</FONT>，还会出现更多<FONT color=#a82424>混沌龙的后代</FONT>，你知道了吧？这些可都是那个傻子为了救你的代价。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真没想到会发生这种事。</FONT>",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我也不认为你会明知代价惨重还会惹出那样的事来。总之，我要说的就这些了。<br><FONT color=#a82424>杰兰特</FONT>交给你的事你自己看着办吧。<br>别想着我能帮你什么。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>等，等等……</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "干什么？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（拿出杰兰特的宝玉）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#7e12d2>（阿尔杰塔轻轻地抖了下肩膀）</FONT><br>居然还知道自觉把这个交给我……看来你还是有点良心的，至少有猎犬眼泪那么大点的良心，不过你……",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#7e12d2>（阿尔杰塔好像在很仔细地观察着我）</FONT><br>被黑色的气息污染了啊……若是想要活命，就去问问<FONT color=#a82424>卡拉秋</FONT>有没有什么办法，我会想想该怎么解决你闯的那些祸的。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "卡拉秋",
+      "question": "阿尔杰塔说的是真的吗？<FONT color=#a82424>杰兰特</FONT>真是为了救你才死的吗？",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的……</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "卡拉秋",
+      "question": "那个傻瓜，不管是以前还是现在，净做些没用的事情，到最后连句谢谢都听不到……咳咳咳咳。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>您哪里不舒服吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "卡拉秋",
+      "question": "你问我哪里不舒服？是啊，从50年前开始我就一直抱恙在身。<br>被<FONT color=#a82424>黑龙</FONT>的血污染之后，我就一直面容憔悴，在痛苦中熬过每一个日夜。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "卡拉秋",
+      "question": "英雄？哼，收起那些虚有其表的东西吧！<br>自从被那<FONT color=#a82424>黑色血液</FONT>沾染之后，我就已经和死人没什么两样了。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也被海龙的血污染了。</FONT>",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "卡拉秋",
+      "question": "<FONT color=#7e12d2>（卡拉秋的瞳孔稍微闪动了一下）</FONT><br>所以你是想让我同情你吗？<br>我是因为被那些龙所骗才落得如此下场，你以为我会和你这种缺根筋的家伙产生共鸣吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不是这个意思……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋",
+      "question": "咳咳咳咳，那个病无药可救。<br>只能慢慢地延缓病情，在走向死亡之前不断和那股气息抗争。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋",
+      "question": "如果你想苟延残喘，就去<FONT color=#a82424>古代图书馆</FONT>看看。<br>有个叫<FONT color=#a82424>西戴尔</FONT>的孩子在那里挖药草，那药草就是用来治疗这病的。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "嗯？我好像第一次见到你？<br>难道你迷路了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你是西戴尔吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "是啊，我叫<FONT color=#a82424>西戴尔</FONT>。<br>你见过我吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡拉秋告诉我，如果需要药的话就来找你。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "啊，看来你也患上了和老师一样的病啊……<br><FONT color=#7e12d2>（西戴尔用同情的眼神看着我）</FONT><br>我知道了，我会挖上足够的药草，给你开处方的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>谢谢。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "那个……初次见面就要麻烦你这种事情真不好意思。<br><FONT color=#7e12d2>（西戴尔支支吾吾地开了口）<br></FONT>我得赶紧回去制作药，其实我有样东西要交给我的朋友……",
+      "answer": "要给样东西？"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>要转交的东西？</FONT>",
+      "answer": ""
+    }
+  ]
+}

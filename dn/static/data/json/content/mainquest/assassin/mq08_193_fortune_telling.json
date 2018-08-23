@@ -1,0 +1,200 @@
+{
+  "qkname": "预见到的未来",
+  "data": [
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "哦，是你吗？<br>\n快过来。",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "你去办的事情怎么样了？<br><FONT color=#a82424>魔法师安杰利卡</FONT>好像安然回来了……<br>但是好像吃了不少苦。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(还好穿越时间的误差不是很大。</FONT><br><FONT color=#662500>魔法师安杰利卡好像也没事。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "她嚷嚷着说一定要向<FONT color=#a82424>穿红衣服的黑暗精灵</FONT>报仇。<br>嗯？你也在追踪那个黑暗精灵？",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "我们正在进一步调查那个黑暗精灵的行踪。一旦有什么有用的消息，我会告诉你。<br>不久前，我们向几个地方派出了搜索队。<br><br><FONT color=#7e12d2>(* 必须达到16级之后，才能进行下一阶段。)</FONT>",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "我们调查了一下，据自卫团报告，在凯德拉关卡附近曾经有个红色的黑暗精灵出现过。 <br>不知道是不是那个黑暗精灵，但穿红衣的黑暗精灵很少见。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "其他的冒险家们一定到那边去了。<br>如果你也感兴趣的话，愿意去看看吗？",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "你到凯德拉关卡的北边--灰色废墟那里，寻找<FONT color=#a82424>墓穴集会场</FONT>。<br>等公会成员回来之后，我打算把他们派过去。有几个冒险家已经先去了，也许会有什么收获。",
+      "answer": "",
+      "image": "qw_20.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "我们正在进一步调查那个黑暗精灵的行踪。一旦有消息，我会立刻告诉你。<br>不久前，我们向几个地方派出了搜索队。<br><br><FONT color=#7e12d2>（* 转职完成后才能进行下一阶段的任务。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n你在干嘛？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>先回到凯德拉关卡去，确认一下到底穿越了多少时间，以及埃雷娜的行踪吧。<br>还有，必须找到控制住体内的那个家伙的方法。</FONT>",
+      "answer": "",
+      "image": "qw_cataractgateway.png"
+    },
+    {
+      "question": " <br><FONT color=#7e12d2>(* 达到15级之后，可以在凯德拉关卡的暗影喵那里进行转职)</FONT>",
+      "answer": "",
+      "image": "qn_npc_shadow_meow.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "啊，你好。<br>我正在执行任务。",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "从情报中得知，那个黑暗精灵非常恶毒。<br>一定要小心一点。<br>啊，你要去的地方是<FONT color=#a82424>墓穴集会场</FONT>～这一点千万别忘了！",
+      "answer": "",
+      "image": "qw_20.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "哦，<FONT color=#387206>{user_nick}</FONT>！<br>好久不见。",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "过去凯德拉关卡差点被人<FONT color=#a82424>投毒</FONT>的时候，我真的很吃惊。感觉心里凉飕飕的。<br><FONT color=#387206>{user_nick}</FONT>，那时多亏了你和其他冒险家奋不顾身地努力，村子才能化险为夷。",
+      "answer": "",
+      "image": "qw_cataractgateway.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "我还以为之后你就和他们一起到<FONT color=#a82424>神圣天堂</FONT>去了，没想到还能再见到你。<br>真是好久不见了。你到凯德拉关卡这边来有什么事吗？",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>投毒？凯德拉关卡有人投毒？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "嗯？就是那个恶毒的<FONT color=#a82424>埃雷娜</FONT>……想在村里投毒。<br>你记不起来了吗？",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "我们要赶走埃雷娜，又要<FONT color=#a82424>净化凯德拉关卡</FONT>……真是忙得晕头转向。<br>大家都被折腾得焦头烂额。<br>哈哈，不过事情已经过去了，现在都变成了回忆。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……看来来到这里的时候，穿越了不少时间。</FONT><br>\n<FONT color=#662500>而且是穿越到了未来！)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "我正在附近执行侦察任务，先失陪了。<br>有时间的话，到村里去坐坐，哈哈哈。",
+      "answer": "",
+      "image": "qw_cataractgateway.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(必须回到凯德拉关卡，和露娜莉娅谈谈。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "嗯，是的。<br>好像又穿越了时间。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "但是又往过去回了一点，现在应该没那么大的误差了。<br>……也许。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你得想办法练练你的能力。<br>怎么完全无法控制自己的力量啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……<br>\n不过试着去做，总比不去做好些……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，概括一下就是，虽然你很难让自己不穿越时间，但是可以主动地穿越时间，对吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "有这个可能。<br>也许。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>还有一个问题，露娜莉娅。<br>幻象突然在我面前出现，并撞到我的时候……</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……不知道。<br>我只知道……当时我受到了攻击。<br>正在被什么人追赶。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#a82424>幻象</FONT>强行把我带走。但是后来被人追击，受到攻击之后快要死了。<br>我穿越了时间。穿越了几次……你就出现在了我眼前。<br>然后就撞上了。",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "最近穿越时间的频率更加频繁了，也许是那时候突然用掉了太多的力量。<br>可能是某种<FONT color=#a82424>平衡</FONT>被打破了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那么怎样才能恢复那种平衡呢……？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#7e12d2>(露娜莉娅用水汪汪的眼睛盯着我)</FONT><br>你想恢复平衡？<br>……原来如此。现在我理解你的话了。",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "qkname": "和她的邂逅",
+  "data": [
+    {
+      "npc": "阿尔杰塔",
+      "question": "什么啊？小孩。<br>我没有时间跟你玩，快走开。",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者贝利",
+      "question": "<FONT color=#a82424>冒险家公会会长戴卡德</FONT>好像正在找<FONT color=#387206>{user_nick}</FONT>你哦。",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "据说他们俩被黑骑士打倒之后，有个银发女剑客出现并救了他们。<br>小姑娘，你有没有见到那个银发女剑客？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>银发女剑客？她是谁啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "这个么……我也不知道她是敌是友。<br>详细的情况我也不知道，听闻只要黑骑士一出现，她就会有所行动。",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "ionRefusal}<br>黑骑士出现在森林圣域的消息也是从那个银发女剑客口中得知的。<br>都因为她，凯德拉冒险家公会损失了一大半的兵力……",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "这又是什么啊……？<br>哼……我有什么可看的吗？<br>今天怎么有这么多小东西来找我啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>果然！你是阿尔杰塔吧？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "银发女剑客？？<br>正巧我听说<FONT color=#a82424>伊桑</FONT>和<FONT color=#a82424>安杰利卡</FONT>又见到了她。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "这个么……我也不知道她是敌是友。<br>详细的情况我也不知道，听闻只要<FONT color=#a82424>黑骑士</FONT>一出现，她就会有所行动。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "<FONT color=#a82424>森林圣域</FONT>将会有<FONT color=#a82424>黑骑士出现的情报</FONT>，也是从那位银发女剑客那里获得的。<br>多亏了她，凯德拉冒险家公会丧失过过半的兵力，哼哼。",
+      "answer": "",
+      "image": "qw_15.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你知道她的名字吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "我不知道她的名字，也不知道她的真实身份。不过，她是在<FONT color=#a82424>森林圣域</FONT>救了他们俩，说不定为了追踪黑骑士的踪迹，<br>她现在仍停留在森林圣域。",
+      "answer": "",
+      "image": "qw_15.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>对了！安杰利卡去了哪里？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "<FONT color=#a82424>安杰利卡</FONT>……啊，那个魔法师？她说她要再去见见银发女剑客，就和<FONT color=#a82424>伊桑</FONT>一起去了<FONT color=#a82424>森林圣域</FONT>。<br>看来她想继续追踪黑骑士。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，为什么总是错过……呃呃……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "难道安杰利卡抢了你的<FONT color=#a82424>玩具</FONT>？这真是……<br>你就在凯德拉关卡耐心等着，说不定就能遇到啦？<br>搞不懂你为什么要跟在她后面跑。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>此事刻不容缓</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "嗯？什么，你认识我？<br>不会又有什么关于我的传闻吧？<br>我最怕这种事情了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我在数据中见过你！这还是我第一次见到你本人！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "数据？……虽然我不知道那是什么，但你最好不要烦我，快回家吧。<br>姐姐我可是很忙哦~ 快走~。<br><FONT color=#7e12d2>（阿尔杰塔摇了摇手）</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>等一下，我有很多事情想问你！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "好好，就算你有很多事情想问我，<br>但我不想回答，你还是快回家……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我想知道巨石碑在哪里。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "…….<br><FONT color=#7e12d2>（阿尔杰塔的表情变得凶狠）<br></FONT>小孩……你，究竟是什么人？你是从哪里听说的……？",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>实际上，我来自未来。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "未来……？<br>哼，我不相信。就算是真的，我为什么要将那种事告诉你这样的小屁孩？",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "刚刚有几个像你一样胆大包天的小孩在<FONT color=#a82424>那家伙</FONT>身边晃来晃去，结果被打得四脚朝天。<br>如果你不想落到那样的下场，最好收起你的好奇心。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你所说的那家伙是不是指……贝思柯德？</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "哦吼……？你果真来自未来？哈哈~。<br>刚刚那些小孩向我询问被<FONT color=#a82424>贝思柯德</FONT>带走的<FONT color=#a82424>少女</FONT>的事情。你也知道那个少女吗？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道她是古代人的后裔。</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我知道了。你和那些小孩一样，目的都是找到那个少女啊？<br>你不会是真的想问我有关<FONT color=#a82424>巨石碑</FONT>的事情吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……是真的。我要怎么做，你才能告诉我？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "那不是人类应该关心的事情。<br>如果你不打算帮忙追踪<FONT color=#a82424>贝思柯德</FONT>，还是离开吧。<br>我不想跟你废话了。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你想抓到贝思柯德吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "没错，虽然不知道你是怎么知道那家伙的真实身份的，<br>但我这次一定要拧断他的脖子。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你究竟……为何要与他争斗？他是……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "不要再胡言乱语了，在我发火之前，你还是尽快离开吧？<br>如果你真想知道我为何要和他争斗，还是亲自问他吧！",
+      "answer": ""
+    },
+    {
+      "question": "<FONT color=#7e12d2>（阿尔杰塔似乎不想继续进行对话了。如果想见到黑骑士，似乎需要冒险家公会的帮助。</FONT><FONT color=#7e12d2>还是去向冒险家公会会长戴卡德询问黑骑士的行踪吧）</FONT>",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "纹章学者贝利",
+      "question": "<FONT color=#a82424>冒险家公会会长戴卡德</FONT>好像正在找<FONT color=#387206>{user_nick}</FONT>你哦。",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "ionRefusal}<br>嗯，你又要前往<FONT color=#a82424>森林圣域</FONT>吗？<br>你之前去过那里也能平安无事，我就不阻拦你了，但请千万要小心啊。<br>魔物可不会因为你年幼就放过你哦！",
+      "answer": "",
+      "image": "qw_15.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "这又是什么啊……？<br>哼……我有什么可看的吗？<br>今天怎么有这么多小东西来找我啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>果然！你是阿尔杰塔吧？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "嗯？什么，你认识我？<br>不会又有什么关于我的传闻吧？<br>我最怕这种事情了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我在数据中见过你！这还是我第一次见到你本人！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "数据？……虽然我不知道那是什么，但你最好不要烦我，快回家吧。<br>姐姐我可是很忙哦~ 快走~。<br><FONT color=#7e12d2>（阿尔杰塔摇了摇手）</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>等一下，我有很多事情想问你！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "好好，就算你有很多事情想问我，<br>但我不想回答，你还是快回家……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我想知道巨石碑在哪里。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "…….<br><FONT color=#7e12d2>（阿尔杰塔的表情变得凶狠）<br></FONT>小孩……你，究竟是什么人？你是从哪里听说的……？",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>实际上，我来自未来。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "未来……？<br>哼，我不相信。就算是真的，我为什么要将那种事告诉你这样的小屁孩？",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "刚刚有几个像你一样胆大包天的小孩在<FONT color=#a82424>那家伙</FONT>身边晃来晃去，结果被打得四脚朝天。<br>如果你不想落到那样的下场，最好收起你的好奇心。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你所说的那家伙是不是指……贝思柯德？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "哦吼……？你果真来自未来？哈哈~。<br>刚刚那些小孩向我询问被<FONT color=#a82424>贝思柯德</FONT>带走的<FONT color=#a82424>少女</FONT>的事情。你也知道那个少女吗？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我知道她是古代人的后裔。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我知道了。你和那些小孩一样，目的都是找到那个少女啊？<br>你不会是真的想问我有关<FONT color=#a82424>巨石碑</FONT>的事情吧？",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我要怎么做，你才能告诉我？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "那不是人类应该关心的事情。<br>如果你不打算帮忙追踪<FONT color=#a82424>贝思柯德</FONT>，还是离开吧。<br>我不想跟你废话了。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你想抓到贝思柯德吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "没错，虽然不知道你是怎么知道那家伙的真实身份的，<br>但我这次一定要拧断他的脖子。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你究竟……为何要与他争斗？他是……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "不要再胡言乱语了，在我发火之前，你还是尽快离开吧？<br>如果你真想知道我为何要和他争斗，还是亲自问他吧！",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "question": "<FONT color=#7e12d2>（阿尔杰塔似乎不想继续进行对话了。如果想见到黑骑士，似乎需要冒险家公会的帮助。</FONT><FONT color=#7e12d2>还是去向冒险家公会会长戴卡德询问黑骑士的行踪吧）</FONT>",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "ionRefusal}<br>小姑娘，你也见到了银发女剑客？",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的，但是……她不理我。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "不要这么失望啦。<br>她或许是觉得，这些事情对你来说太危险了。哈哈。<br>啊！对了，伊桑和安杰利卡已经出发了。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？他们去了哪里？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "我收到情报，黑骑士去了<FONT color=#a82424>沉睡者神殿</FONT>那里。<br>他们为了进入沉睡者神殿，去寻找<FONT color=#a82424>顺从吊坠</FONT>了。<br>虽然他们险些丧生，但仍然坚持想救出<FONT color=#a82424>先知</FONT>……真是些善良的人啊。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>顺从吊坠？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "顺从吊坠的事情我是听<FONT color=#a82424>纹章学者贝利</FONT>说的……<br>如果你感兴趣，还是去问问纹章学者贝利吧？<br>我也不知道能不能对小孩说这些事情，嘿嘿。",
+      "answer": "",
+      "image": "qn_npc_scholar_baily.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "嗯，顺从吊坠的事情<FONT color=#a82424>纹章学者贝利</FONT>应该知道。<br>伊桑和安杰利卡应该也去搜集顺从吊坠了吧。",
+      "answer": "",
+      "image": "qn_npc_scholar_baily.png"
+    },
+    {
+      "npc": "纹章学者贝利",
+      "question": "嗯？顺从吊坠？<br>……嘿嘿，小姑娘，你也想获得顺从吊坠吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我想追上安杰利卡。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者贝利",
+      "question": "没想到这么小的女孩会在冒险岛公会里工作……<br><FONT color=#7e12d2>（贝利摇着头）</FONT>",
+      "answer": "",
+      "image": "qn_npc_scholar_baily.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

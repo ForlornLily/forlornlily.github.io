@@ -1,0 +1,330 @@
+{
+  "qkname": "迷之大陆的西戴尔",
+  "data": [
+    {
+      "npc": "魔法师安娜",
+      "question": "总之，多亏了你，我才能制作出这个。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "格雷尔",
+      "question": "我想见到更多认识姐姐的人。",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "为了拉达梅斯的和平……",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "艾瑞斯想和弟弟亲近。",
+      "answer": ""
+    },
+    {
+      "npc": "不明身份的少年",
+      "question": "这附近很危险，如果没有向导，就不能在里面转悠。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这是什么？像是药瓶……有什么用处？</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "这是能够平静心神的药。虽然暴走开始后我们就无能为力了，但是如果使用这个药，能够让他多少平静一些，阻止他的暴走。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>谢谢。像这么为了格雷尔着想的就只有安娜了。对了，在荒地遇到的那个宝石商人想来拉达梅斯。要不要带他来？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "ndnpc_Anna_9752_qu_01.ogg}<br>当然不行了。那个商人，行为举止很奇怪。哪有宝石商人会到一个到处是盗贼的荒地来？",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "ndnpc_Anna_9752_qu_02.ogg}<br>我估计他就是盗贼团的小喽啰或者是复仇军团的间谍。不过如果说是复仇军团……有点太猥琐了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>间谍，确实啊……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "这下行了吧？你快去找<FONT color=#a82424>格雷尔</FONT>吧。我还要做药品，要做的事情一大堆呢！",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "镇静剂？我不需要这个啊……",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "ndnpc_Grele_9752_qu_01.ogg}<br>这里的人还是把我当成怪物一样。因为我攻击过别人！我……我只是担心……因为我是查尔德而受到伤害……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格雷尔，安娜不是这个意思。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，一开始我觉得这是姐姐曾经待过的地方，觉得很开心，但是……现在我渐渐感到有些奇怪了。 ",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "ndnpc_Grele_9752_qu_02.ogg}<br>这里，虽然没有大富豪，但人们都生活得很富足。据说对那些老弱病残的人，不但不收取税金，而且还会给他们送吃的！可是，<FONT color=#387206>{user_nick}</FONT>，拉达梅斯的人过得如此富足！为什么，不来帮帮其他正在承受痛苦的人呢？",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "而且，还把这么富饶的地方藏起来！难民们要冒着生命危险通过布卡努斯沼泽地带，而那些偶尔出现的密探身上一点伤都没有！",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "而且，沼泽里那些陷阱虽然会关查尔德，但是也会攻击无辜的人！太奇怪了。<FONT color=#387206>{user_nick}</FONT>，反女神派……只要自己幸福就可以了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格雷尔，冷静点。诺尔佩大人肯定有自己的原因。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "我……又太过激动了？是吗？我……这种药！<br><FONT color=#7e12d2>（格雷尔扔掉了安娜给的药。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不！格雷尔，我也有和你一样的疑问。我去问问诺尔佩大人。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "……谢谢。我现在不想见那个叫诺尔佩的人。和那个人对话，心情会变得很奇怪，居然要和一个蓝色的全息图像对话……",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "我听说你帮助了安娜的事情。虽然她很害羞，无法表现出来，但是她很感谢 <FONT color=#387206>{user_nick}</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哈……我还以为安娜讨厌我呢。我……诺尔佩大人……（转告格雷尔的疑问）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "ndnpc_Hologram_Nophee_9752_qu_01.ogg}<br>\n原来如此。我能理解格雷尔的愤怒。如果我有能力，我也想去帮帮那些正在承受痛苦的人。可是<FONT color=#387206>{user_nick}</FONT>，我们从现实的角度考虑一下，如果老弱病残的人来到拉达梅斯就会获得安定，这一事实被公诸于世的话，会发生什么呢？",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "那当然就会有很多人来到拉达梅斯，与此同时，复仇军团也会來。那么将拉达梅斯的存在公布于世的意义何在？我们都会被查尔德杀死……",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，我已经……太老了，不会为了理想牺牲现实。维斯提内女神有多可怕，通过我的兄弟姐妹们的经验你就能知道。维斯提内女神对于背叛自己的人，不会痛快地杀死。",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "而是会将他的人性彻底泯灭，让他经历比死更痛苦的事情。将伊贝尔变成查尔德就是这样。对于喜爱伊贝尔的善良的人来说，这比伊贝尔的死亡更加的让人绝望。",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "最终，我们会用自己的手……送伊贝尔上路。查尔德伊贝尔和人类伊贝尔是不同的存在，但是还是会有人喜爱着她。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没有办法让伊贝尔恢复吗？就像是格雷尔突变那样……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "但是<FONT color=#387206>{user_nick}</FONT>，你有什么方法？不杀死伊贝尔，让她恢复原状，拯救让迷之大陆饱受痛苦的人们的方法？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……………………</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "ndnpc_Hologram_Nophee_9752_qu_02.ogg}<br><FONT color=#387206>{user_nick}</FONT>，如果能有好的办法，我比任何人都希望这么做。让我们重新回到现实吧。不能为了理想而丢弃这片土地的现实。",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "我们要从能够做到的事情开始一步步前进。在那之前，就算是对现在的现实感到悲伤，也不能让愤怒主宰自己，给大家带去灾难。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（总觉得和贝勒尼卡大人说话的感觉很像。但是和贝勒尼卡大人完全不同）<br></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "我们先从力所能及的事情开始做吧。有个好消息，关于开发治疗卢比纳特的药，已经有进展了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真的吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "是，但是……我们需要白树根。白树难以找到，现在拉达梅斯的病例也不足。<br><FONT color=#7e12d2>（诺尔佩的全息图像盯着我）</FONT> ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我去找吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "谢谢。<FONT color=#086171>白树根</FONT>在<FONT color=#a82424>布卡努斯沼泽地带</FONT>就能找到。",
+      "answer": "",
+      "image": "qw_117.png"
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你来这儿有什么事？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>艾瑞斯，布卡努斯沼泽地带对于你来说太危险了。</FONT>",
+      "answer": "",
+      "image": "qw_117.png"
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "你在担心艾瑞斯？我好高兴啊！不过你不用担心。艾瑞斯有切洛斯，而且，艾瑞斯很擅长于躲藏哦。",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "ndnpc_Iris_9752_qu_01.ogg}<br>艾瑞斯还有很多好奇的事。艾瑞斯好想知道人们都在想什么。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这里太危险了。等我找到</FONT><FONT color=#a82424>白树根</FONT><FONT color=#662500>，我们就一起回拉达梅斯吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "<FONT color=#a82424>白树根</FONT>？白树不会长在沼泽里啊。白树喜欢长在高山上。 ",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "啊！艾瑞斯知道有个人有<FONT color=#a82424>白树根</FONT>！请跟上艾瑞斯！<br><br><FONT color=#7e12d2>（艾瑞斯跑进了</FONT><FONT color=#a82424>布卡努斯沼泽地带</FONT><FONT color=#7e12d2> 里面，快点追上艾瑞斯吧）</FONT> ",
+      "answer": ""
+    },
+    {
+      "npc": "不明身份的少年",
+      "question": "这附近很危险，如果没有向导，就不能在里面转悠。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你……你是西戴尔？！？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "不明身份的少年",
+      "question": "ndnpc_Nophee_9752_qu_01.ogg}<br>西戴尔？？我的名字不叫西戴尔……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊哈哈哈，抱歉，你和我在阿尔特里亚认识的人太像了……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "不明身份的少年",
+      "question": "我知道我是阿尔特里亚的复制品。不过你最好不要把这里的人当成阿尔特里亚的人。",
+      "answer": ""
+    },
+    {
+      "npc": "不明身份的少年",
+      "question": "很多人相信，阿尔特里亚的人为了在迷之大陆待下去，会抢夺迷之大陆人的身体。特别是在这附近，有很多在女神派的势力下长大的难民。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你果然是拉达梅斯啊，你能告诉我你的名字吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "不明身份的少年",
+      "question": "我的名字……不能告诉你。你来这个沼泽要干嘛？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我？我要找白树根。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "不明身份的少年",
+      "question": "ndnpc_Nophee_9752_qu_02.ogg}<br>这附近不生长白树。这个给你，是用白树根制成的。把它交给诺尔佩，他一定会喜欢的。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你怎么知道是诺尔佩大人要我找的？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "不明身份的少年",
+      "question": "只要想想就知道了啊。不要生气，我还要采集点东西，先走一步了……<br><br><FONT color=#7e12d2>（回去找拉达梅斯的诺尔佩吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "啊啊，我就知道你能圆满完成任务。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>其实这不是我找到的，而是在沼泽里见到的人给我的。他说……在布卡努斯沼泽地带不生长白树。你为什么要让我去那里呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "你这不是找到了吗？<FONT color=#7e12d2>（诺尔佩笑了）</FONT> ",
+      "answer": ""
+    }
+  ]
+}

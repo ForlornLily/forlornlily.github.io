@@ -1,0 +1,397 @@
+{
+  "qkname": "又说再见",
+  "data": [
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#7e12d2>(泰兰斯·特拉玛依的表情非常沉痛)</FONT><br>最终……我还是没能为巴尔纳做什么……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(先到利物沃特码头去，听听露娜莉娅怎么说吧)</FONT>",
+      "answer": "",
+      "image": "qw_liverwortferry.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>(贝思柯德的脸色很苍白)</FONT><br>怎么？你又来看我的丑态？",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "对你这种蠢货，我没什么好说的。<br>也不想多说什么。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "阿尔泰精髓的一半现在在你的体内。<br>如果你无法原谅我，想重新回到过去的话……<br>那我不会反对你的做法。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_qu_9377_01.ogg}<br>但是如果你原谅我，我会离开这里，离开你。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_qu_9377_02.ogg}<br>我是在跟你道别。<br>……最后的致意。<br>\n我不会再回来，也不会再和你继续旅行。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_qu_9377_03.ogg}<br>据我所知……红色军队的国王，使徒们的主人正在觊觎巨石碑。<br>他是红龙，想通过巨石碑与另一个世界接触。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_qu_9377_04.ogg}<br>他想通过巨石碑，将女神维斯提内的世界，即迷之大陆召唤到这个世界中来。<br>那样的话，这个世界将会崩溃。<br>如果被他先把门打开，这个世界的时间将无法再恢复。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(使徒们的国王……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_qu_9377_05.ogg}<br>如果我先打开了巨石碑的门，去了另一边……<br>虽然我会消失，但这个世界就会稳定下来。虽然我不敢肯定，但我是这么认为的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你会消失？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_qu_9377_06.ogg}<br>嗯，<FONT color=#a82424>我会消失</FONT>。<br>也许我无法保持现在这个样子。那就意味着死亡，对吧？<br>虽然我不知道死亡是什么，但是所有人都不想死。因为那样就会永远离开这个世界。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_qu_9377_07.ogg}<br>他……<FONT color=#a82424>幻象</FONT>知道我会消失之后非常生气。<br>他发了疯。<br>拉着我的手，用阿尔泰精髓回到了过去，呵呵呵。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_qu_9377_08.ogg}<br>我又在你面前说起同样的事情，你们的表情一模一样，真是好笑。<br>在离开之前，我想告诉你一件事。你可以把它当成是预言，也可以把它当成是遥远过去的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_qu_9377_09.ogg}<br>阿努阿兰德有通向巨石碑的门。<br><FONT color=#387206>{user_nick}，</FONT>其他冒险家很快就会到那里去。<br>我在内心深处希望他们能守护这个世界，阻止红色军队的主人。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_qu_9377_10.ogg}<br>但是那个门会被红色军队的主人打开，我会失去我的目的地。<br>世界将会走向毁灭。我希望你生活的这个世界能平安无事。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_qu_9377_11.ogg}<br>好了……我真的要跟你说再见了。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_qu_9377_12.ogg}<br>再见，<FONT color=#387206>{user_nick}</FONT>。<br>对不起。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你应该说谢谢你，<br>露娜莉娅。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_qu_9377_13.ogg}<br>是吗……<br>……也许吧。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_qu_9377_14.ogg}<br>谢谢你。<br>希望你能幸福。再见……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(露娜莉娅走了。<br>以后应该再也见不到她了。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "幻象",
+      "question": "ndnpc_Illusion_qu_9377_01.ogg}<br>……又陷入无聊的感情中了。<br>\n真是个无可救药的笨蛋。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……嗯？咦？！！<br>为什么幻象……？！又？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "ndnpc_Illusion_qu_9377_02.ogg}<br>我就是你。我不厌其烦地说过很多次了，你自己是不会那么轻易消失的。<br>愚蠢的家伙。<br><FONT color=#7e12d2>(可以模糊地看到幻象的样子)</FONT>",
+      "answer": ""
+    },
+    {
+      "question": " <br>\n<FONT color=#7e12d2>(可以模糊地看到幻象的样子)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "ndnpc_Illusion_qu_9377_03.ogg}<br>对你这种蠢货，我没什么好说的。<br>也不想多说什么。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>和自己说话，我的感觉不是很好。<br>现在露娜莉娅已经走了，你就放弃吧。好吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "ndnpc_Illusion_qu_9377_02.ogg}<br>我就是你。我不厌其烦地说过很多次了，你自己是不会那么轻易消失的。<br>愚蠢的家伙。",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "ndnpc_Illusion_qu_9377_04.ogg}<br>露娜莉娅那个女人……说了一些愚蠢的话之后，最终还是走掉了。<br>呵呵……真让人寒心。寒心得让我发抖。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅有她该去的地方，妨碍她的人难道不是你吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "幻象",
+      "question": "ndnpc_Illusion_qu_9377_05.ogg}<br>是吗……？<br>如果你这么认为，那就这么认为吧。",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "ndnpc_Illusion_qu_9377_06.ogg}<br>从结果上来看，她并没有完全说错，呵呵呵……",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "ndnpc_Illusion_qu_9377_07.ogg}<br>不过真是可笑。<br>露娜莉娅……做出选择的人到底是谁？",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "ndnpc_Illusion_qu_9377_08.ogg}<br>在巨石碑的门口，她回头看了好几次。<br>你把那个选择怪在我头上吗？露娜莉娅。",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "ndnpc_Illusion_qu_9377_09.ogg}<br>愚蠢的露娜莉娅……<br><FONT color=#7e12d2>(声音越来越小)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>.……什么意思呢？</FONT><br>\n<FONT color=#662500>她的选择？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "ndnpc_Illusion_qu_9377_10.ogg}<br>可悲……而又可怜的……女神的……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>喂！！！</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "<FONT color=#7e12d2>(再也听不到任何声音了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(哇！一直占据着别人的身体的家伙，现在却自说自话地消失了？<br>怎么能这样？！！！)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(啊，不知道。虽然感觉有点奇怪，不过……<br>要先回到王城去看看吗？</FONT><br>\n<FONT color=#662500>因为露娜莉娅的事情，把王城那边的事情全给忘了。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(去见见泰兰斯·特拉玛依吧。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "怎么这么晚才来？受到袭击了吗？<br>我已经从其他冒险家那里听说了<FONT color=#a82424>巴尔纳</FONT>的消息。<br>我还以为你也出什么事了呢。你能安然回来，真是太好了。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "巴尔纳……最终还是……<br>\n<FONT color=#7e12d2>(特拉玛依的表情非常沉痛)</FONT><br>这次我还是没能帮到那位老朋友。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我派神殿骑士去回收了巴尔纳的尸体。<br>为了不再让他受到惊扰，我们把他安葬在修道院的深处了。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你知道攻击巴尔纳的人吗？<br>其他冒险家告诉我，说贝思柯德认识那个人。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "是的，那个人是巴尔纳的关门弟子兰伯特。<br>被称为沙漠蓝狼，曾经是个有名的战士。",
+      "answer": "",
+      "image": "qn_npc_warrior_lambert.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(战士西恩的父亲，就是那个男人吗？<br>他是使徒？)</FONT>",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我也很震惊。冒险家们好像是这么说的。<br>……具体的情况，你能去问问贝思柯德吗？",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "王城地下的贝思柯德的状态不是很好。<br>我很担心。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……<br><FONT color=#7e12d2>(贝思柯德很不耐烦地用手扶着额头。<br>表情不是很好)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "见到兰伯特了吧？他应该不认识你，你们应该是第一次见面。",
+      "answer": "",
+      "image": "qn_npc_warrior_lambert.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是第一次见面。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "嗯，他一般不怎么轻易露面的啊……<br>不过这不是什么重要的事情。能受到他的攻击而没有丢掉性命，你的幸运还真是让人赞叹。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "兰伯特是巴尔纳的徒弟，但是却走上了与巴尔纳完全不同的道路。<br>他很重视战士的名誉，但为了名誉可以抛弃一切。<br>冷酷而又冷静……",
+      "answer": "",
+      "image": "qn_npc_warrior_lambert.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "兰伯特也许不是因为那个人的命令，而是认为巴尔纳衰弱的样子太丢人。<br>呵呵，曾经的英雄堕落如此，确实挺让人寒心的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>对了，你知道巨石碑吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你觉得我什么都知道，什么都得回答你吗？<br>真是荒唐。<br>想聊天的话，能去找其他那些冒险家吗？",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "呃……<FONT color=#7e12d2>(贝思柯德捂住了胸口)<br></FONT>……要是你觉得看着我垮掉的样子很有趣，那就另说了，呵呵呵……<br><FONT color=#7e12d2>(贝思柯德呻吟着，看上去很痛苦。去告诉特拉玛依吧。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你说贝思柯德的状态更加恶化了？<br>嗯，看来后遗症比想象中的严重啊……",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "自从他遗失了龙之宝玉之后，身体就急速老化。现在看来，他可能撑不了多久了……想要救他的话，必须要有不亚于龙之宝玉力量的强大的生命之力才行。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>有那种东西吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "有一个……<br>拥有强大生命能量的东西……",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "那就是……<br>世界上所有精灵的母亲，森林、风和精灵的故乡。<br>阿尔特里亚拥有最强生命力的东西。<br>那就是生命之树。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>生命之树！<br>那是……阿努阿兰德的？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "是的。<br>我打算向内尔文……不，向纳尔希亚女王请求帮助。<br>你能和其他冒险家一起去一趟吗？",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "快去做好前往阿努阿兰德的准备吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……露娜莉娅说红色军队的主人正在觊觎阿努阿兰德。<br>如果他们打开了通往巨石碑的门，露娜莉娅就会失去目标。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(这个世界就会毁灭。<br>……反正那样的话，我也会没处可去。我也一起到阿努阿兰德去看看吧。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(不管是为了露娜莉娅，还是为了世界，都不能让他们打开通往巨石碑的门。<br>这是我可以选择的道路，可能也是必须要走的道路。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(不管是为了露娜莉娅，还是为了世界，都不能让他们打开通往巨石碑的门。<br>这是我可以选择的道路，可能也是必须要走的道路。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(防止通往巨石碑的门被人打开。<br>也许是这交织在一起的缘分的正确结局。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……再见，露娜莉娅。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

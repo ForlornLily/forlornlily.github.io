@@ -1,0 +1,45 @@
+{
+  "qkname": "异界假面",
+  "data": [
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "真慢，慢死了！<br>现在才把<FONT color=#a82424>陨石碎片</FONT>拿来？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "既然找到了异界假面的主要材料陨石碎片，接下来该找下一个材料<FONT color=#a82424>突变之眼</FONT>了。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "突变之眼可以在<FONT color=#a82424>异变栖息地</FONT>找到。<br>去那里消灭遇见的突变魔物就能获得了。",
+      "answer": "",
+      "image": "qw_59.png"
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "让我看看……<br>\n材料都找齐了。好了，你把这些东西交给<FONT color=#a82424>西戴尔</FONT>吧。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>给西戴尔……？</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "啰嗦鬼查克博士",
+      "question": "对，<FONT color=#a82424>西戴尔</FONT>会帮你制作异界假面。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    }
+  ]
+}

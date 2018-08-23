@@ -1,0 +1,259 @@
+{
+  "qkname": "过去或者未来",
+  "data": [
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "药材拿来啦。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "谢谢。这下终于可以放心了。<br>啊，对了，听说其他冒险家们到<FONT color=#a82424>利物沃特码头</FONT>那边去了……见到他们了吗？",
+      "answer": "",
+      "image": "qw_liverwortferry.png"
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "和总是一个人行动相比，和同伴们在一起要好得多。<br>可以让自己的心更坚定，尤其是在现在这种艰难的时期。",
+      "answer": "",
+      "image": "qw_liverwortferry.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "……露娜莉娅。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "希望<FONT color=#a82424>察提的爷爷</FONT>没事……<br>我想尽快找到他，但却并不容易。",
+      "answer": "",
+      "image": "qn_npc_charty_grandfather.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(那个老人……明明在我眼前死掉了啊……<br>把部落圣地的位置告诉察提之后……)</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty_grandfather.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(虽然知道时间变得杂乱无章，但还是无法适应。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "听说原住民们被劫持到了龙之追随者据点。<br>有人看到察提到那边去寻找爷爷的行踪了。",
+      "answer": "",
+      "image": "qw_54.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "我打算现在就出发。<FONT color=#387206>{user_nick}</FONT>，希望你也能过去。",
+      "answer": "",
+      "image": "qw_54.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "志同道合的同伴越多越好。<br>现在……现在对所有人来说都不容易。<br><FONT color=#7e12d2>(西恩露出了苦涩的表情)</FONT>",
+      "answer": "",
+      "image": "qw_54.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "希望能把察提的爷爷安全地救出来。<br>我不想有人再在我的面前死去了。<br><FONT color=#7e12d2>(西恩握紧了拳头)</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty_grandfather.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "快点到<FONT color=#a82424>龙之追随者据点</FONT>去吧。<br>察提的动作很快，不快点追过去的话，可能就晚了。",
+      "answer": "",
+      "image": "qw_54.png"
+    },
+    {
+      "npc": "???",
+      "question": "……露娜莉娅。<br><FONT color=#7e12d2>(看见一个男人灿烂地笑着，向露娜莉娅伸出手去)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "露娜莉娅，已经不远了。<br>再等一会儿，门就能如你所愿地打开……",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……不。<FONT color=#387206>{user_nick}</FONT>，我们绝对不能到那里去。<br>绝对不能去。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "够了，现在……<br>还是停下来的好。",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "鲁纳……里亚……？",
+      "answer": ""
+    },
+    {
+      "question": "<FONT color=#7e12d2>(男人的形象逐渐变得模糊)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>虽然我知道你不会回答，但我想问问你。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "刚才那个男人吗？<br>我也看到了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没想到你竟然会回答，真让人意外。<br>那你能为我说明一下吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "那也是过去或者未来。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个人到底是谁，到底是怎么回事？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "不知道。<br>我一直就是这样活着，没办法说明。我也无法让你理解。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我也不知道每迈出一步的时候，时间会怎么变化。<br>但是变化的是你周围的一切，你的世界，而不是你自己。<br>只有你自己是永远不变的。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "不管时间如何流动，现在在这里做出的选择，是你自己做出的。<br>你没有做的事情，就不会发生。相信你自己。相信现在这里的，你认识的自己。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我能告诉你的就是这些。<br>……要是那时我也这么说，那就好了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……那时？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "对你而言已经变成过去的某个时候。<br>是你而又不是你的某个人。<br><FONT color=#7e12d2>(露娜莉娅用平静的眼神望着虚空)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……露娜莉娅的话还是那么难懂，虽然本来也没期待能得到回答)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "时间的混乱正变得越来越严重，这是事实。好像一步就能穿越几百年，然后又回来。<br>我不希望你完全变成时间的迷童。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "所以，<FONT color=#387206>{user_nick}，</FONT>你快回去找卡拉秋吧。<br>在给她的那块石板上，应该写着与古代人的工具有关的故事。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "希望<FONT color=#a82424>卡拉秋</FONT>的知识能帮到你。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那就应该回到利物沃特码头那边去。</FONT>",
+      "answer": "",
+      "image": "qw_liverwortferry.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "为什么又遇到这种事……<br><FONT color=#7e12d2>(西恩一脸痛苦地扶着额头)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊，<FONT color=#387206>{user_nick}</FONT>。<br>因为察提的事情，西戴尔……好像非常伤心。他的心情我可以理解。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(上次好像听到他说这些话了啊？<br>看来又往回穿越了一点时间。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你是说卡拉翰从察提体内取出了宝玉，然后逃走了……对吧？</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊，你已经知道了吗？<br>我们已经把这件事告诉了卡拉秋。西戴尔好像受到了很大的打击。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "我怕他过度伤心，做出什么傻事来。<br>我的力量实在太弱了，我痛恨我自己。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "察提的死，我也要负一定的责任。为什么每次总是几乎要够到了，却偏偏触碰不到呢？<br>……我只是想救他们。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "……啊，对了，还有一件事情。<br>听说<FONT color=#a82424>贝思柯德</FONT>在附近出现了。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他为什么要到这种地方来？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "我也不太清楚。<br>我想到看到他的地方去看看。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "\n也许只是传闻，或者是看错了。",
+      "answer": ""
+    }
+  ]
+}

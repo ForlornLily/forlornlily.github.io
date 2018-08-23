@@ -1,0 +1,301 @@
+{
+  "qkname": "担忧者",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(从古代的石板中放射出的光芒正指向迷雾遗址)</FONT>",
+      "answer": "",
+      "image": "qw_90.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(前往迷雾遗址吧)</FONT>",
+      "answer": "",
+      "image": "qw_90.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(前往迷雾遗址吧)</FONT>",
+      "answer": "",
+      "image": "qw_90.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>果然，这石板的光芒变得很微弱了。仿佛就要被耗尽了一样……</FONT><br><FONT color=#662500>这一路上都是靠着它走来的，难道没有什么方法能修理一下吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……要是我没有将它捡起或许也不会发生这些事了吧？</FONT><br><FONT color=#662500>可我当时想的是它也许能帮到杰兰特……唉。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>古代人为什么会留下这样一件东西呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>额，有人来了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手 ????",
+      "question": "……！你是……！",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9420_qu_01.ogg}<br>你的反应可真奇怪。我是梅里恩戴尔。咱们之前不是见过面嘛？<br>而且你还帮过我很多忙……还有<FONT color=#387206>{user_nick}</FONT>你，还没回到你曾经所在的未来世界吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，你是怎么知道的？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "怎么可能不认识呢……嗯……是时代混乱了吗？因为这里是受到巨石碑影响的地方。<br>不过在这种情况下你还能保持自己的状态，真是了不起啊。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "你果然不是凡夫俗子。你应该不是龙，就是得到龙之宠爱的人。<br>和我所侍奉的王很相似。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那是什么意思……王吗？你侍奉的是哪个王呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "我说的自然是征服王佩达。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？！征服王佩达？！你是说佩达？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "还有别人叫佩达的吗？<FONT color=#7e12d2>(梅里恩戴尔摇了摇头)</FONT><br>当然，由于征服王很强大，所以他的名字也可能被别人采用。<br>人类不是很善于做这些事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "不过，如果是我的话，一定不会使用统一了整个阿尔特里亚大陆的征服王的名字。因为能够做出这种丰功伟绩的人，自古至今也只有佩达一个人。他的名字实在是太沉重了。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "\n然而，这样的他却也被无穷无尽的苦恼与绝望折磨着，人类到底是要承受多少痛苦的生命体啊。<br>\n你……还好吗？在巨石碑附近徘徊的话，是会看到很多本不愿意看到的东西的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，呃……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "哎呀，抱歉。我不由自主地问了个难以回答的问题。<br>其实我也是和你一样站在这里的。嗯……<FONT color=#387206>{user_nick}</FONT>你把自己想象成和我一样强大的话，就完全可以接受了。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "哎呀，我可要比看起来强大很多呢。我可是精灵中唯一一个可以与佩达势均力敌的呢！当然，就算是龙我也能和它打个平手！<FONT color=#7e12d2>(梅里恩戴尔微微一笑)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "唉……可是我到底该怎么安慰佩达呢……现在的他不得不那么做，我虽然很理解这一点……当然，我不想指责他。可是，随着他苦恼的增多，最终只能是越来越接近绝望……因为现实都是残酷的……",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "……<FONT color=#387206>{user_nick}</FONT>。很抱歉，我有一事相求……你可以和我一起前往迷雾遗址吗？我很担心佩达。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(嗯……按这个名叫梅里恩戴尔的精灵所说，这里应该就是在过去没错。而且我竟然和梅里恩戴尔认识，可我并没有见过他呀。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(嗯，先前往迷雾遗址再确认吧。说不定还能和过去的佩达对话了解到什么呢)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(最糟的情况，如果那不是我所见过的佩达，而是过去的佩达的话……如果他还没有得到龙的宝玉，那么说不定我可以阻止。虽然很对不起梅里恩戴尔，但是没办法……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好，一起去吧！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9420_qu_03.ogg}<br>谢谢你！佩达现在正在那尽头处。我们快一起过去吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(和梅里恩戴尔对话吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_marriendel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(呃，怎么回事？这种强大的压力……！果然是我所认识的那个佩达……！)</FONT>",
+      "answer": "",
+      "image": "qn_npc_npc_pether.png"
+    },
+    {
+      "npc": "征服王佩达",
+      "question": "ndnpc_Pether_9420_qu_01.ogg}<br>梅里恩戴尔，这次又有什么事。你想说什么？",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9420_qu_04.ogg}<br>……佩达，如今你该放下心中的苦恼和绝望了吧？你现在的苦恼都是徒劳的。因为那绝不是凭我们的力量所能解决的问题。",
+      "answer": ""
+    },
+    {
+      "npc": "征服王佩达",
+      "question": "ndnpc_Pether_9420_qu_02.ogg}<br>别说傻话，梅里恩戴尔。存在于这世界上的我们怎么会解决不了这个世界的问题！你真打算让我承认这种矛盾吗？",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "可是佩达，我不希望你再痛苦下去了。",
+      "answer": ""
+    },
+    {
+      "npc": "征服王佩达",
+      "question": "你说我痛苦？梅里恩戴尔，你错了，这不是痛苦。<br>\n这是必死的决心和挣扎。梅里恩戴尔！也许身为精灵的你不能理解。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "佩达……我只是不想看到你这种样子……<br>\n早知如此的话，我还不如什么都不和你说。",
+      "answer": ""
+    },
+    {
+      "npc": "征服王佩达",
+      "question": "……是吗？你后悔了吗，梅里恩戴尔？<br>你认为还有比明明不知道还要硬撑着更难看的事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "那也比明明知道却还要自寻痛苦强吧。<br>佩达……拜托你放下吧。女神的意志不是你所能改变的。",
+      "answer": ""
+    },
+    {
+      "npc": "征服王佩达",
+      "question": "要是再说这种话我连你也不会放过的，梅里恩戴尔。<br>不许你再妨碍我的前进。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "ndnpc_Marriendel_9420_qu_05.ogg}<br>……佩达……！",
+      "answer": ""
+    },
+    {
+      "npc": "征服王佩达",
+      "question": "ndnpc_Pether_9420_qu_03.ogg}<br>如果你是因无谓的感情而接近我，就快离开。<br>我要亲眼去观察，再决定一切该怎么进行。我一定要进入巨石碑更深处，探知所有情况！",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "\n……佩达。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "佩达……！",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "佩达……！",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……你在干什么呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>咦？！杰兰特？！！？刚刚佩达他……征服王佩达他…… <br>那个，你能看到我吗！？你是杰兰特吗？？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……？真不知道你在说什么。<br>佩达？什么佩达，你在说什么呢？我没看到佩达。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃，怎么回事？可是……？呃？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你怎么一转眼就从火焰峡谷跑到迷雾遗址来了？刚才不还和阿尔杰塔在一起吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>刚才还和阿尔杰塔在一起……杰兰特，这个杰兰特就是我之前认识的杰兰特没错！！！那么这里是现在了！？！？看他那刻薄的态度就知道了，这应该就是我认识的杰兰特没错！！(猛地抓住杰兰特的手)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "\n你干什么？！<FONT color=#7e12d2>(杰兰特粗鲁地收回手)</FONT><br>我看，你是在巨石碑附近待久了，精神失常了吧？<br>\n你把阿尔杰塔丢在哪里了，一个人跑来这儿干什么？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是的，我没有丢下她……那个，我真的是回到了过去！见到了古代人、阿罗诺、卡汉拉、佩达还有梅里恩戴尔……反正，我还以为自己会被关在过去无法回来了呢！在那儿胡乱徘徊……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "<FONT color=#2b2723>你难道是被巨石碑卷进去的？那种事你自己看着办就行啦！现在阿尔杰塔去了炙风地狱，你快跟过去。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>阿尔杰塔去了炙风地狱？我，我消失多久了呢……？</FONT><br>\n<FONT color=#662500>啊！杰兰特你现在好些了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "<FONT color=#2b2723>你现在是担心别人的时候吗？</FONT><FONT color=#7e12d2>(杰兰特好像很无语)</FONT><br>\n<FONT color=#2b2723>对我来说那点小伤不算什么！快去找阿尔杰塔吧！</FONT><br>\n<FONT color=#2b2723>我要在这里追赶佩达那家伙！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是……(杰兰特好像不再回答了。前往炙风地狱吧)</FONT>",
+      "answer": "",
+      "image": "qw_93.png"
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "<FONT color=#2b2723>你真是又脆弱又令人讨厌啊。再在这儿碍事的话就给我出去！</FONT><br><FONT color=#7e12d2>(杰兰特眉头紧锁)</FONT>",
+      "answer": "",
+      "image": "qw_93.png"
+    }
+  ]
+}

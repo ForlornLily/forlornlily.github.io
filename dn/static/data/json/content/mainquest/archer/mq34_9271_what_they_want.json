@@ -1,0 +1,285 @@
+{
+  "qkname": "他们所求之物",
+  "data": [
+    {
+      "npc": "阿尔杰塔",
+      "question": "他和以前的杰兰特不同。我们是由宝玉纯粹的力量诞生的存在..<br>新出生的他不可能会有以前的记忆或感情留下。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9271_01.ogg}<br><FONT color=#a82424>杰兰特</FONT>是为了从混沌龙手中保护这个世界而存在的。<br>\n能回收宝玉真是太好了。",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "但也不是想谢你。 <br>当初就是因为你，<FONT color=#a82424>杰兰特</FONT>才死掉的吧?",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "话说回来。刚才<FONT color=#a82424>那边的精灵游侠</FONT>找过你哦?<br>你不在的时候，对我感觉跟我有多要好似的，真是麻烦!",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这里是精灵村庄啊。是在说谁呢?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "阿杰…什么来着，我像是会记住精灵名字之类的人吗?<br>就是前不久和你一起去找毒物的那个精灵。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>(阿洁丽雅啊。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_azelia.png"
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "正在和阿尔杰塔大人对话吗?<br><FONT color=#7e12d2>(在新月森林进行完与阿尔杰塔对话吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "请守护我们的故乡，阿努阿兰德吧。<br><FONT color=#7e12d2>(回到新月森林完成与阿尔杰塔的对话吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "不知道有什么事，似乎很兴奋呢...<br>\n精灵什么时候变得和人类小孩子一样吵闹的?<br><FONT color=#7e12d2>(去找阿洁丽雅对话吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_azelia.png"
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "啊! <FONT color=#387206>{user_nick} </FONT>大人。<br>\n我正有事找你呢。",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "ndnpc_AN_Archer Agelia_qu_9271_01.ogg}<br>有个男性来找你了。<br>说是关于龙之追随者的重要事情。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么样的人呢?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "个子这~么高，看起来像6~700岁左右，头发是接近银色的金发，眼睛鼻子嘴这样...<br><FONT color=#7e12d2>(阿洁丽雅描述得相当仔细。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>尤万西贝尔大人?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "名字就不知道了。说你去月食峡谷了，他做出非常担心的表情，并拜托我等你回来之后把这个交给你。<br><FONT color=#7e12d2>(阿洁丽雅拿着一朵蓝色的花)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "看来已经有人在这儿开始帮助你了啊。<br>男精灵本来就很稀有，那种容貌出众的男精灵就更是万众挑一了。<br><FONT color=#7e12d2>(阿洁丽雅不把花交过来很神奇地看着)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这是什么花呢?</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "就是啊。我也是第一次见到呢。<br>但是<FONT color=#a82424>神圣天堂</FONT>的<FONT color=#a82424>高级弓箭手伊西莉安</FONT>也许知道也说不定。",
+      "answer": "",
+      "image": "qn_npc_archer_ishilien.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "经常来这边呢。可以相信你是来传故乡的好消息吗?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>其实....<br></FONT><FONT color=#7e12d2>(拿出花)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "这是迎星花。真是好久没见过呢。 <br>这花只在<FONT color=#a82424>消失的满月沙漠</FONT>中生长哦。而且非常珍贵，不好找。",
+      "answer": "",
+      "image": "qw_77.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>有人送我的，似乎有重要的事。<br>如果对这朵花知道更多，请全部告诉我吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "什么? <FONT color=#a94407>有.人.送.你.花了吗?</FONT> 我之前不是说了吗?<br>对我们精灵来说，爱情实在是无意义又是消耗性的感情!<br>\n以爱情为基础的恋爱也是。",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "有多少英雄豪杰拜倒在爱情下。<br>先人的教训就是，为了不重复他们的失误而记住他。<br>于是。送你花的是精灵吗？还是别的种族吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是精灵。不过有误会....</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "男性精灵啊，还好。<br>不过现在不是谈恋爱的时候吧。阿努阿兰德最大的危机就在眼前啊。<br>连<FONT color=#387206>{user_nick} </FONT>大人也忘掉任务陷入爱情小说似的妄想中…",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>等等！不是这样啊啊啊~!<br>这是和使徒有关的线索。是某人交给我的线索啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "嗯?诶嘿?<br>\n看来是我误会了。<br><FONT color=#7e12d2>(伊西莉安像什么都没发生过一样微笑着)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "如果花就是线索，那就找找花语之类的吧?<br><FONT color=#7e12d2>(伊西莉安从口袋中拿出看起来有些陈旧的手册)<br></FONT>这花的花语是? 在这附近... 啊! 是\"<FONT color=#a82424>请跟着我来</FONT>\"呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>就是让我跟着他去的意思吧?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "<FONT color=#a82424>神圣天堂</FONT>的<FONT color=#a82424>伊西莉安</FONT>大人也许知道这花也说不定。<br>因为那位旅行过很多地方啊。<br><FONT color=#7e12d2>(去找伊西莉安看看吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_archer_ishilien.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "是想去<FONT color=#a82424>消失的满月沙漠</FONT>吧?<br>一定要小心啊。阴森的地方和危险的地方要全力避开。知道了吧?",
+      "answer": "",
+      "image": "qw_77.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9271_02.ogg}<br>发现了毒所以全部除掉了?幸好呢。<br>不过想了想，毒…可能不至于那么危险吧。<br><FONT color=#7e12d2>(阿尔杰塔不知道为什么做着生气的表情)</FONT>",
+      "answer": "",
+      "image": "qp_manufactory.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_AN_Gereint Young_qu_9271_01.ogg}<br>不是想起来的，而是我告诉你的吧? 阿尔杰塔。<br>别小看生命之树。<br>\n被那种角色制造的毒所影响的程度就不可能成为所有精灵的中心。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那龙之追随者们到底为什么...</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "就是啊。那个就不知道了。<br>龙之追随者和你做的是无用功就好了。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "或者有别的目的?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>说起来佩达似乎要来这里。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "佩达?",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "\n听起来像是以前建立人类王国的人。<br>\n人类能活这么久吗?<br>\n还是，同名的其他人呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>嗯，虽然不太懂，伊格纳西奥……</FONT><br><FONT color=#7e12d2>(告知与伊格纳西奥之间的事。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9271_03.ogg}<br>那么那个叫<FONT color=#a82424>佩达</FONT>的人就是龙之追随者的首领哦?<br>竟然用建国王的名字，看来很憧憬那些没用的名誉荣光之类的垃圾呢?",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_AN_Gereint Young_qu_9271_02.ogg}<br>而且感觉那家伙就是，这恶心的古代龙。<br>这里的某处似乎还是有该打倒的敌人潜伏着，实在是不愉快。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "生命之树和古代人的遗迹啊…. 真头疼，感觉有什么事要发生。什么来着?<br><FONT color=#7e12d2>(阿尔杰塔似乎想起了什么，皱着眉头)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "遗迹…森林... 女王选举会议。啊哈! 果然是<FONT color=#a82424>女王选举会议</FONT>吗。女王选举会议!<br>喂。你。精灵！说起来你们女王选举会议的准备进行得怎么样?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯... 嗯?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "为什么没想到这个呢? 按杰兰特说的笨蛋被传染了吗....<br>他们的目标会是什么呢? <FONT color=#a82424>巨石碑</FONT>吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(巨石碑? 似乎以前从杰兰特大人听说过。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "要用遗物的力量打开通向巨石碑之路，有一个条件。<br>\n就是生命之树失去力量。<br>\n因为那个树像是守着通向巨石碑的门。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "那夺走树之力的最简单的方法是什么？<br>\n不就是妨碍女王选举会议，让女王无法守护树吗?",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

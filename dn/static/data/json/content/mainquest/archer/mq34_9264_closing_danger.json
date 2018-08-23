@@ -1,0 +1,227 @@
+{
+  "qkname": "逼近的危险",
+  "data": [
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "ndnpc_AN_Teramai_qu_9261_01.ogg}<br>准备好出发了吗??",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯。该准备去阿努阿兰德了。</FONT>",
+      "answer": "",
+      "image": "qw_anuarendelgateway.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "好吧，冒险家时代本来就是得去找有事发生的地方。<br>作为一个人类，现在变成了又病又老又没用的身体，无法像你一样轻松离开，真是可惜啊...",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "不过你也得照看你的身体状况吧。<br>正好目的地是阿努阿兰德... 向<FONT color=#387206>精灵女王</FONT>询问治疗方法吧。",
+      "answer": "",
+      "image": "qn_npc_elf_narsilia.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是所有的精灵都能见到女王啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "嗯。也是，她成为女王之后....<br><FONT color=#7e12d2>(特拉玛依暂时陷入了沉思)<br></FONT>我给你写一封书信吧。肯定会有帮助的。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>谢谢。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "跳级向导特瑞希",
+      "question": "请稍等~差点就忘掉了!<br>有<FONT color=#387206>{user_nick}</FONT>大人的书信哦。看吧~!",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>谁寄的呢?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "跳级向导特瑞希",
+      "question": "是王城的<FONT color=#a82424>特拉玛依</FONT>大人寄的哦。他让我在这里等着，看到<FONT color=#387206>{user_nick}</FONT>大人要去阿努阿兰德时就转交给您。",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "跳级向导特瑞希",
+      "question": "呃?不能在这里开封哦。他说过，你会需要这封书信的，所以不能马上就打开。<br>他留下的话我记下来了，现在就读给您哦。<br><FONT color=#7e12d2>(特瑞希微微一笑，从口袋中寻找着什么)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "特拉玛依的书信",
+      "question": "<FONT color=#086171>看来现在才准备好出发了。所谓的冒险家本来就喜欢去有事发生的地方。<br>我现在已经变成了又病又老又没用的身体，无法像你一样轻松离开，真是可惜啊。</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "特拉玛依的书信",
+      "question": "<FONT color=#086171>作为旅行的前辈做一个忠告的话，那就是要好好照看自己的身体。正好你要去的地方是阿努阿兰德…… 见精灵女王问问治疗方法可能会对你有帮助。</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "特拉玛依的书信",
+      "question": "<FONT color=#086171>不过听说因为内尔文成了女王，变得不是任何人都能见到她。<br>所以我想，这封写给内尔文的书信可能会对你有帮助，所以就交给你了。</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "特拉玛依的书信",
+      "question": "<FONT color=#086171>好久没出现过像你一样的伙伴，所以我觉得很高兴。<br>虽然危险时刻伴随着旅行，但女神会保佑你的。祝你幸运…</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "跳级向导特瑞希",
+      "question": "这么写着呢。<br>啊，不过我竟然没问啊。现在是去<FONT color=#2b2723>阿努阿兰德</FONT>没错吧?",
+      "answer": "对，没错。"
+    },
+    {
+      "npc": "跳级向导特瑞希",
+      "question": "幸好!书信我已经交给您了。<br>听说<FONT color=#a82424>阿努阿兰德</FONT>是个非常美丽的地方。祝您的旅程愉快。",
+      "answer": "",
+      "image": "qw_anuarendelgateway.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "因为好久没出现过伙伴的关系耽误了你这么久啊。快点向阿努阿兰德出发吧。<br>虽然危险时刻伴随着旅行…女神会保佑你的。祝你幸运...",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "没用的奴隶们...<br><FONT color=#7e12d2>(阿尔杰塔不肯理我。和戴维对话吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "你…你!! 最近到底在做什么。",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "阿尔杰塔说今后不想和麻烦的人类有任何关联，连<FONT color=#a82424>奴隶的证明</FONT>也拿走了!!<br>这都怪你！<br><FONT color=#7e12d2>（戴维做出马上就要哭出来似的表情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "以为和别人不同，了解我的魅力， <br>成天跟什么<FONT color=#a82424>金发小子</FONT>在一起….<br><FONT color=#7e12d2>(诉苦看来要变长了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>…于是，有什么事吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "你被阿尔杰塔大人抛弃之后，搭话不是常常回答你吗?<br>是啊，我也能变得像你一样吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不好说....</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "不能就这么被抛弃了!<br>你去…向阿尔杰塔大人再次说明我的魅力怎么样?<br><FONT color=#7e12d2>(戴维急忙坐在地上画圈圈)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>阿尔杰塔大人在这里吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "不是就在那生命之树前嘛。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(和阿尔杰塔大人对话吧。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "那快点去向<FONT color=#a82424>阿尔杰塔</FONT><FONT color=#387206> </FONT>大人求情，让她再次把我当奴隶使吧。<br>\n干吗?! 还不快去!",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "跳级向导特瑞希",
+      "question": "听说<FONT color=#a82424>阿努阿兰德</FONT>是个非常美丽的地方。祝您的旅程愉快。<br><FONT color=#7e12d2>(特瑞希微笑着摆手)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "那快点去向 <FONT color=#a82424>阿尔杰塔</FONT><FONT color=#387206> </FONT>大人求情，让她再次把我当奴隶使吧。<br>\n干吗?!还不快去!",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#7e12d2>(阿尔杰塔的表情很严肃)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9261_01.ogg}<br><FONT color=#2b2723>又是你?连自己的身体都照顾不好，又想闯什么祸来这儿的?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>听说这里会发生危险的事情。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#2b2723>不是你这种程度就能插手的事情，滚吧。</FONT> ",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#2b2723>啊…好麻烦。到底谁把你派来的?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德大人告诉我的。</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9261_02.ogg}<br><FONT color=#2b2723>他告诉你? 我倒是感觉到黑龙之力消失了。<br>没想到是你杀死了贝思柯德…似乎变得挺强的嘛。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>不是那样的....<br></FONT><FONT color=#7e12d2>(告诉她这期间发生过的事)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#2b2723>什么?用宝玉救了贝思柯德? 而且黑龙宝玉还被抢。<br>人类做的事真是太让人无语了。</FONT> ",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

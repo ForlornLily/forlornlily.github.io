@@ -1,0 +1,272 @@
+{
+  "qkname": "内心深处的敌人",
+  "data": [
+    {
+      "npc": "将军道格拉斯",
+      "question": "我收到了报告，说金发剑客追踪黑骑士，进入了黑暗领地守备队据点。<br>我们掌握的情报还不够，没办法派遣大规模部队到那里去。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "不过在冒险家公会的协助下，我们获得了一部分内部地图。我们已经派出了侦察队，应该很快就能进入内部。",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "请你先努力修行，稍微等一等。<br>啊，其他冒险家好像到<FONT color=#a82424>赫尔马岱港口</FONT>那边去执行公会的委托了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(那么……</FONT><br>\n<FONT color=#662500>我也要到赫尔马岱港口那边去看看吗？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你来这里干什么？<br>是想和那边的魔法师说话吗？",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你在干嘛？",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "啊！！<FONT color=#387206>{user_nick}</FONT>！！<br>没想到会在这种地方见到你！哇啊啊～！！<br>\n见到你真高兴～",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "看来你没被奇怪的人拐跑，没被人割掉鼻子，没有被骗，也没有迷上赌博。<br>呵呵呵，姐姐我的建议有用吧？",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "嗯～别摆出那种表情，让人家怎么下得了台？<br>切～真是个没意思的家伙，跟那个书呆子一样。<br>总之，你现在正在找事做，对吧？",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "我在远处看见你在看公会委托公告栏。<br>呵呵呵，别想骗过我安杰利卡的眼睛～一定没错！你需要找事情做，对吧？",
+      "answer": "",
+      "image": "gq_normal.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "哎呀～我又不会吃了你。<br>……没什么问题的话，就乖乖地听我说，嗯？",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "呵呵呵，刚好有件好事。<br>好好听着吧。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "因为和黑骑士之间的战争，整个神圣天堂都乱糟糟的。要想打仗，就需要大量的物资。<br>筹备物资的事情，现在由我负责。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "其实我是想把它推给伊桑的，但是他接受了主教伊格纳西奥的委托，不知道跑到哪里去了。<br>唉……那些不靠谱的牧师老先生。<br><FONT color=#7e12d2>(安杰利卡抱怨道)</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……那个主教，是可以相信的人吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "嗯？我从来没有相信过牧师。<br>\n不过像伊桑老先生那种让人无语的书呆子，本质上倒还是个不错的家伙。",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "我之所以听主教的话，是因为可以赚钱。<br>\n而对抗黑骑士的事情，和我们的目的也是一致的。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "主教在王城中的势力很大。要是因为乱说话而被禁止出入，那就太不划算了。<br>没有什么地方能比王城更快地搜集到情报了。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "是吧？所以你也应该像我一样，随便应付应付，顺便赚点钱。<br>……好了，明白了的话，就快去吧！！",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "我接受了卡拉安的委托，那是必须先完成的事情～从<FONT color=#a82424>将军</FONT>那里接受的一个小小的委托，就交给你了。<br>将军说谁去办都没关系。所以就由你去处理吧。",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "嗯？什么事情？我刚才没说吗？<br>\n就是到<FONT color=#a82424>孤岛</FONT>去搜集地精火药。火药不够的话，士兵们就无法自由行动了。",
+      "answer": "",
+      "image": "qw_30.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "只要去<FONT color=#a82424>孤岛</FONT>消灭{monster863}，应该就能搜集到～<br>\n拜托你了～",
+      "answer": "",
+      "image": "qw_30.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "搜集到了之后，就送到<FONT color=#a82424>这里</FONT>来！<br>明白了吗？呵呵呵～<br>\n",
+      "answer": "",
+      "image": "qw_30.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "\n嗯？搜集火药？<br>\n这件事我交给<FONT color=#a82424>魔法师安杰利卡</FONT>了。<br>\n我想她也许在赫尔马岱港口那边……",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "伊桑那个家伙又把事情搞砸了吗？<br>\n怎么还不回来？！",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "嗯？火药？<br>哦……好像有点不太对吧？<br>\n你找对东西了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "在孤岛……<br>\n发生了什么事，你还记得吗？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你是<FONT color=#387206>{user_nick}</FONT> ……对吧？<br><FONT color=#7e12d2>(从露娜莉娅的表情中，可以感觉到一丝紧张)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>发生什么事了？露娜莉娅。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#387206>{user_nick}</FONT>……真的是你啊。<br>……呼。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>幻象又出现了吗？<br>不是我，是幻象……</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "幻象把那些戴着面具的人全部干掉了。<br><FONT color=#7e12d2>(露娜莉娅指着几个戴着红色面具的人说)</FONT>",
+      "answer": "",
+      "image": "qm_dragonsycophant.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……<br>我体内的那个家伙，好像出现得越来越频繁了。</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "可能吧。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "担心？<br>……嗯，我？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "害怕？<br>我害怕过什么东西吗？<br>\n……害怕你？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "不过这样下去的话，你不知道又会发生什么事。<br>……也许。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>光是纯白之球碎片的力量好像还不够。<br>要是有别的办法就好了……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "哎呀，真是辛苦你了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>又说得好像别人的事情一样。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我不是觉得这是别人的事情……<br>只是如果我可以帮助<FONT color=#a82424>他</FONT>……可以停下来的话……<br>我早就做了。",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "但是我什么都做不了，什么都不知道……<br><FONT color=#7e12d2>(露娜莉娅的声音越来越小)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……<br>\n总之，现在最好到<FONT color=#a82424>赫尔马岱港口</FONT>去一趟。<br>那个魔法师正在那里等你。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n现在最好到<FONT color=#a82424>赫尔马岱港口</FONT>去一趟。<br>那个魔法师正在那里等你。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "见到魔法师安杰利卡了吗？",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "啊，拿来了吗？我要的东西？<br>\n嗯～干得不错嘛！",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "伊桑那个傻瓜怎么这么磨蹭，到现在都没回来。<br>唉……真让人郁闷。",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "那个让人无语的牧师，等他等得皱纹都要出来了。<br>\n不行～ 看来得帮帮他才行。",
+      "answer": ""
+    }
+  ]
+}

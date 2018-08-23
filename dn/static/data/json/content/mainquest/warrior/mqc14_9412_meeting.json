@@ -1,0 +1,173 @@
+{
+  "qkname": "会面",
+  "data": [
+    {
+      "npc": "阿尔杰塔",
+      "question": "你来啦？那告诉你下一个任务吧。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "据说，杰兰特现在在影子墓穴中，快去找他吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>影子墓穴吗？</FONT>",
+      "answer": "",
+      "image": "qw_91.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "据说，杰兰特现在在影子墓穴中，快去找他吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>影子墓穴吗？</FONT>",
+      "answer": "",
+      "image": "qw_91.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "通过火焰山入口即可到达那里。<br>你快去吧，我马上就跟过去。<br><FONT color=#7e12d2>(请到影子墓穴寻找杰兰特)</FONT>",
+      "answer": "",
+      "image": "qw_91.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "通过火焰山入口即可到达那里。<br>你快去吧，我马上就跟过去。<br><FONT color=#7e12d2>(请到影子墓穴寻找杰兰特)</FONT>",
+      "answer": "",
+      "image": "qw_91.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "搞什么，你怎么在这里？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是阿尔杰塔让我来的。</FONT><br><FONT color=#662500>她让我转告你，就算找到佩达，也不要单独行动。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GeraintKid_9412_qu_01.ogg}<br>什么？阿尔杰塔，她还是信不过我吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？不是的，不是不信任你，她说单挑时没法确定到底有多少胜算，所以她才让我转告你。 </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "<FONT color=#7e12d2>(杰兰特皱起了眉头)</FONT><br>不就是那个意思嘛！这都第几次了，不解释光下命令！我虽然比阿尔杰塔出生得晚一些，但说起打仗，我可是比她强太多了。还有竟然派区区一个跑腿儿的来转告我，她该不会把我当成和你一个级别的吧？ ",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GeraintKid_9412_qu_02.ogg}<br>哼。你就会耍嘴皮子。<br>我不想听你说这些，你走吧。<br>我自己会看着办的，不用你管。 ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>在阿努阿兰德，你可不是这样的呀。怎么突然开始固执起来了呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "<FONT color=#7e12d2>(杰兰特突然发起了火)</FONT><br>\n在阿努阿兰德的时候，如果按照我的想法去做，事情早就解决了！当时我不大了解情况，所以什么也没说。现在的阿尔杰塔有太多顾虑，所以什么都做不成。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GeraintKid_9412_qu_03.ogg}<br>总之，你快滚开，不要再妨碍我了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>等一下！杰兰特！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(杰兰特消失了。他好像到深处去了……赶快跟过去吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GeraintKid_9412_qu_06.ogg}<br>你那副表情是什么意思！呃……<br><FONT color=#7e12d2>(杰兰特受伤了，看起来很痛苦)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ionTalk_Angry}<br>你搞什么，小鬼…… 你跟佩达是一伙的吗？<br>你这家伙不会跟贝思柯德一样，是个间谍吧？<br>还有，我让你做的事情，你是怎么处理的！我不是让你去阻止他们单挑吗！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个，你能不能一个一个地问啊…… 我已经尽力了，是真的！<br>还有，今天是我第一次见到佩达。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9412_qu_01.ogg}<br>可是，他好像认识你啊？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那，或许是因为我曾经和龙之追随者们打过仗吧……？<br>如果那家伙是龙之追随者的头目……肯定会知道有关我的传闻或长相啊……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#7e12d2>(阿尔杰塔的表情有所缓和)</FONT>也对。如果你是龙之追随者，应该不会站出来和使徒们打斗……再说你就那么大的能耐，即便成为了我的敌人，也不会对我构成威胁。你和以前的那个家伙不一样，与杰兰特也不是特别亲近。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GeraintKid_9412_qu_04.ogg}<br>我们的确不亲近。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……能不能稍微考虑一下…)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你那表情是什么意思！呃……<br><FONT color=#7e12d2>(杰兰特受伤了，看起来很痛苦)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ionHwww}<br>哈，我就知道会这样所以才让人阻止你们单挑的。<FONT color=#7e12d2>(阿尔杰塔不耐烦地摇着头)</FONT><br>没办法……必须改变计划了。看来现在最好先治好你的伤势，杰兰特。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GeraintKid_9412_qu_05.ogg}<br>就这点程度不算什么，你用不着担心，阿尔杰塔。",
+      "answer": ""
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9412_qu_02.ogg}<br>……我也不想担心，可你觉得以你现在的实力，能对付得了持有两块宝玉的龙吗？",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "哼，要是我的剑还在的话，就没问题。<FONT color=#7e12d2>(杰兰特面露愤怒)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "是啊……要是能使用宝剑中蕴含的力量，情况一定会有所改观……<br><FONT color=#2b2723>哎……</FONT><FONT color=#387206> {user_nick}</FONT>，你该高兴，又有事情做了。",
+      "answer": ""
+    }
+  ]
+}

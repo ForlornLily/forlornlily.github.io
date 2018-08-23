@@ -1,0 +1,213 @@
+{
+  "qkname": "不完整的情报",
+  "data": [
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9295_02.ogg}<br>是尤万西贝尔在卖掉女王选举会议的情报。 ",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "又见面了。<br><FONT color=#7e12d2>(尤万西贝尔似乎不怎么关心)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "不过信的内容有点奇怪啊?<br>这儿写的虽然是所有根源，但没写齐，最重要的遗物，关于生命之树相关内容却片字未提。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不幸中的万幸啊。<br>所以萝丝琳德才会发脾气吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我也不知道。人类的感情真实好复杂呢?<br>反正，下次见面的场所也写上去了，你去看看吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>会不会太迟了呢?<br>为了解读来回跑花了不少时间...</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "那你要干啥?想说太迟了坐在地上，那为啥拿着线索跑过来的?<br>麻烦的话都放弃掉，乖乖地等着世界毁灭好了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>去。我去。我去还不行吗~</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9295_03.ogg}<br>嗯去吧。<FONT color=#a82424>月食峡谷</FONT>吗....<br>那边已经没有森林的根源存在了，真是好奇怪哦?",
+      "answer": "",
+      "image": "qw_80.png"
+    },
+    {
+      "npc": "萝丝琳德",
+      "question": "怎么回事? 尤万西贝尔…这家伙怎么还不来!?<br><FONT color=#7e12d2>(萝丝琳德陷入沉思，似乎没发现我来了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#a82424>月食峡谷</FONT>中已经没有森林的根源了....<br>嗯，就算白跑一趟也是你跑。快去吧!",
+      "image": "qw_80.png"
+    },
+    {
+      "npc": "萝丝琳德",
+      "question": "怎么回事?我把你告诉我的遗物都聚齐了，却还是感觉不到力量!",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "为了让遗物的力量觉醒还需要一个条件。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(要说出据说在生命之树里的那个根源吗???)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "龙之宝玉... 特别是佩达大人所持有的纯粹的红玉，应该就能通过遗物让古代人的力量得到恢复吧。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝琳德",
+      "question": "佩达大人的宝玉?也就是说能在佩达大人前恢复力量吗?<br>那个听起来相当..不错哦? ",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝琳德",
+      "question": "呼呼。知道了。得马上去佩达大人那儿了!<br><FONT color=#7e12d2>(萝丝琳德急忙从视野中消失)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝琳德",
+      "question": "呼呼。知道了。得马上去佩达大人那儿了!<br><FONT color=#7e12d2>(萝丝琳德急忙从视野中消失)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "什么嘛。在<FONT color=#a82424>月食峡谷</FONT>没有任何收获吗?<br>萝丝和尤万西贝尔在一起就给我追啊。",
+      "answer": "",
+      "image": "qw_80.png"
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9295_01.ogg}<br>又见面了。<br><FONT color=#7e12d2>(尤万西贝尔似乎不怎么关心)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是你? 听说你成了什么守护者，把特里亚纳怎么样了，为什么在做单独行动?</FONT>",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>听说你是特里亚纳的守护者。不是吗?<br>为什么不和特里亚纳在一起呢?</FONT>",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "女王选举会议吗。已经中断了，所以我没有作为守护者的义务了。<br>不过，想逗留在她身边的心倒是有。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我捡了萝丝琳德掉落的信。你也是使徒吗?<br>背叛了精灵吗?</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>找到了萝丝琳德掉落的信。<br>果然你也是使徒吗?背叛了精灵吗?</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "看起来已经都知道了嘛。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯。刚才见过。关于你和萝丝琳德对话内容... 为什么说谎了?<br>不是喝萝丝琳德在同一个阵营吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是。不过你刚才把错误的情报告诉给萝丝琳德了。不是跟他们一伙的吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "真是不会看人脸色啊。<br>有时间担心我的事还不如做好你自己的事呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我的事?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我该做的事?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9295_02.ogg}<br>萝丝琳德想恢复力量的时候，红龙会完全露出原形吧。我是在说<FONT color=#a82424>龙之追随者之王佩达</FONT>。<br>去<FONT color=#a82424>青铜残月林间路</FONT>吧。如果想阻止他们...",
+      "answer": "",
+      "image": "qw_79.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这可以相信吗?你是使徒吧!<br>怎么说得像就算我们阻止萝丝琳德也没关系似的呢?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你明明是使徒，但说得好像和自己没有任何关系呢。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "当然了。反而在期望那种结局。我的目的和别的使徒们不同..<br>反正佩达的位置不是你和古代龙们渴求的情报吗?<br><FONT color=#7e12d2>(尤万西贝尔像是说完了话似的转过身去)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "看来很无聊啊。都已经把他们会面的地方告诉你了。<br><FONT color=#7e12d2>(得赶紧回到阿尔杰塔身边了)</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我也从特里亚纳处听说了女王选举会议中断的消息了。<br>话说回来那个叫尤万西贝尔的精灵。到底想要做什么?",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不知道。不过他说的话似乎是事实。<br>那时候他正在骗萝丝琳德。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9295_05.ogg}<br>就算背叛精灵又背叛使徒也想做的事到底是什么?真让人在意。<br>嗯，不过知道了萝丝琳德和佩达会面的地方也算不错了。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

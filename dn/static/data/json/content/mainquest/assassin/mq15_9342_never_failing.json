@@ -1,0 +1,158 @@
+{
+  "qkname": "不变的东西",
+  "data": [
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "你也在搜集治疗原住民的药吗？<br>西戴尔让我从冒险家那里接收材料，制作成药物。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "除了西戴尔的药之外，我刚好想制作一种营养剂。<br>你来得正好。有时间的话，你能帮帮我吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>当然。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "老师的健康很让人担心。<br>……察提的事情也一样。我为什么那么弱呢？",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "佩奥里斯塔的事情应该由我来做个了断。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "到古代武器库的西边去吧。",
+      "answer": "",
+      "image": "qw_56.png"
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "你到<FONT color=#a82424>古代武器库的西边</FONT>去，帮我搜集一些<FONT color=#a94407>潮湿的石粉</FONT>。<br>去那里搜索一下，应该就能得到吧？",
+      "answer": "",
+      "image": "qw_56.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "老师……老师……！",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>发……发生什么事了？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(现在到底是什么时候？<br>现在就算再怎么确认时间，时间也在不断地发生扭曲。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "老师……受伤了。被卡拉翰……<br>呜呜……为了和卡拉翰做个了断，我偷了魔法书，独自来到了这里……",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "老师来救我的时候，被卡拉翰……打伤了……呜呜呜……<br>都是因为我！都是因为我，老师才会变成这样的……呜呜……老师！！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>镇……镇静一点。应该先回到草屋去。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "老师……呜，呜呜……要是老师再也睁不开眼睛的话……我该怎么办呢？<br>呜呜……老师，对不起……老师……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(要是卡拉秋死了的话……好不容易才找到的那块石板呢？解读呢？！)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "……我送老师回去。<br>她是因为我而受伤的，我一定会尽我的全力，让老师好起来！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(塔玛拉需要的药材也搜集到了，我也最好回到草屋那边去。)</FONT>",
+      "answer": "",
+      "image": "qw_karakule_house.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "老师的健康很让人担心。<br>……察提的事情也一样。我为什么那么弱呢？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "什么都没变。你自己还是那个样子。<br>好了，回到卡拉秋的草屋去吧。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "干嘛又哭丧着一张脸啊？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……咦？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "啧啧……看什么呢？你在看我是不是死了吗？<br>啧啧啧……你手上拿着的好像是药材，好像是塔玛拉让你去搜集的吧？",
+      "answer": "",
+      "image": "qn_npc_soceresstamara.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "刚才你拿来的石板我还在看，你先去见见塔玛拉。",
+      "answer": "",
+      "image": "qn_npc_soceresstamara.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(到底是怎么回事啊……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "\n嗯？等等～我现在非常忙……<br>\n你能过一会儿再来吗？",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳咳……眼睛看不清楚。不知道是因为生病，还是因为年纪大了。<br>咳咳……你在磨蹭什么呢？我不是让你去找<FONT color=#a82424>塔玛拉</FONT>吗？",
+      "answer": "",
+      "image": "qn_npc_soceresstamara.png"
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "啊，你把药材送来啦。<br>给我吧。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "没想到这么快。<br>\n真让人吃惊，呵呵呵。",
+      "answer": ""
+    }
+  ]
+}

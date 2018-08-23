@@ -1,0 +1,221 @@
+{
+  "qkname": "反目成仇",
+  "data": [
+    {
+      "npc": "纹章学者伯恩施坦",
+      "question": "啊啊，你就是提摩西和史蒂夫说的那个兽人啊。我还从没近距离看过兽人，所以想再观察一下呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这，这是行为很失礼！还是请快点把印章拿去吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "要进入墓……墓穴的话，需要纹章学者制作的红色纹章。 <br>你去见……见过纹章学者伯恩施坦了吗？",
+      "answer": "",
+      "image": "qn_npc_scholar_starshy.png"
+    },
+    {
+      "npc": "休利亚",
+      "question": "我和你没啥好说的。切，一边去。 ",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "你不是说要进入墓穴的话，要去见纹章学者伯恩施坦吗？没时间在这儿和你闲聊了。快去找纹章学者。",
+      "answer": "",
+      "image": "qn_npc_scholar_starshy.png"
+    },
+    {
+      "npc": "纹章学者伯恩施坦",
+      "question": "<FONT color=#7e12d2>（伯恩施坦皱了皱眉，很快又微笑了）</FONT> <br>啊，你带来了红色纹章啊。我原本是不会免费做这种事的。<br>兽人是怎么样的我不清楚，不过在人类世界，报酬可是很重要的。 ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>您的意思是不帮我们做吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者伯恩施坦",
+      "question": "..……因为是要帮箩丝，所以这次就免费帮你们吧。<br><FONT color=#7e12d2>（伯恩施坦把红色纹章放入了奇怪的药水里）</FONT><br>像箩丝那样善良又漂亮的孩子居然被魔物抓走了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>听说有我们的同族在追查那孩子的行踪。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者伯恩施坦",
+      "question": "<FONT color=#7e12d2>（伯恩施坦把药水里的红色纹章取了出来，用细铁丝刻了什么上去）</FONT><br>关于那人的消息我也听说了。兽人究竟为什么要找箩丝……<br>飞艇也坠毁了，村子似乎也变得人心惶惶，镇长真是要头疼了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>您知道飞艇坠落的详细情况吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者伯恩施坦",
+      "question": "这个嘛。事实上，我听说和那个飞艇交易的主要商团有不少的问题。<br>加上船长对飞艇下方改造过的隐藏空间闭口不提……来，红色纹章改造好了。 ",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "找到红……红色纹章了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（拿出红色纹章）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者伯恩施坦",
+      "question": "你们带着这个红色纹章的话， 墓穴 入口的陷阱就不会启动了。",
+      "answer": "",
+      "image": "qw_3.png"
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "那么，我们快……快去墓穴吧。<br>我……我要走了。",
+      "answer": "",
+      "image": "qw_3.png"
+    },
+    {
+      "npc": "休利亚",
+      "question": "切，晚了一步……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你……你……你这个混蛋！！！为什么要让飞艇坠毁！<br>快说，我们的村民都去哪儿了！ </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "ndnpc_Suriya_9574_qu_01.ogg}<br>啊，原来是碍我们事的那个小孩啊。嗯~。你看起来还挺健康的嘛。<br>之前和你同在飞艇上的那些同伴，他们的假肢正在往外流淌黑色的液体。<br>为什么你的却没有呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这……这……在我动手之前，把村民还给我。 <br>原本要和他们一起去的红色商团，那里有给我们治疗的人！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "ndnpc_Suriya_9574_qu_02.ogg}<br>治疗？在红色商团？？看样子你还搞不清楚状况吧，红色商团偷偷把我们兽人买过去，然后当奴隶驱使，是个恶名远扬的商团。你们一到那里，就会被他们当成奴隶对待，更别提接受治疗了！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不！那怎么可能！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚 ",
+      "question": "你居然说要带他们去那种地方，那我更不能把那些人交给你了。 <br>不过我真的很好奇你为什么不痛了。.",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我说了又如何？让你把我们的村民抓去以后随意使唤？？ <br>我可不想告诉你这种人！ </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "ndnpc_Suriya_9574_qu_03.ogg}<br>好吧，你要是真不想说也行。反正只要找到萝丝……也可以通过她得知方法。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你说箩丝知道方法？<br>喂！你要去哪儿！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "没必要在这里和你聊天浪费时间。赶紧滚一边去。<br><FONT color=#7e12d2>（似乎不可能再和休利亚对话了。返回小龙那里吧。）</FONT>",
+      "answer": "",
+      "image": "qn_npc_shaolong.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "嗯？<FONT color=#387206>{user_nick}</FONT>，你就回来啦？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我和休利亚见过面了。</FONT>",
+      "answer": "",
+      "image": "qn_lm_nativeman_b.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "ndnpc_Shaolung_9574_qu_01.ogg}<br>休利亚？哇哈哈哈哈哈。我说得没错吧，只要去找萝丝，就能见到他了！<br>我的判断力！真是了不起啊！<br>很好，休利亚是见到了，那有关萝丝行踪的线索找到了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你是说找而不是追吧……<br>但是箩丝没回来吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "嗯？当然没回来啊。<br>所以说事情还没办好，你就这么屁颠屁颠地回去的话，他们会对你失望的。你以为见过休利亚就行了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（告诉他墓穴里的事情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "ndnpc_Shaolung_9574_qu_02.ogg}<br>咔？既然从墓穴逃出来了，就应该回来才对啊……！<br>那个提摩西好像喜欢萝丝，那小子该不会起了歪心，带着萝丝私奔了吧？！？！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那倒不会。但是……</FONT><br>\n<FONT color=#662500>（转述休利亚的话。） </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "ndnpc_Shaolung_9574_qu_03.ogg}<br>他那样说的？听你这么一说，我感觉那个名叫休利亚的家伙，应该不是什么坏人！<br>咔，咔！别在师父面前摆出那副表情。太……太不礼貌了。<br>那如果说他是个坏人……莫不是逃出来的萝丝又被休利亚给劫持了？？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>也可能是这样的啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，多亏了你，村民里总算对兽人有了一些好感了……在那家伙做出更坏的事情前，我们一起救出箩丝吧。 <br>你去向镇长询问关于箩丝的消息吧！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>为什么要让村民对兽人有好印象？我只关心我的伙伴们……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "ndnpc_Shaolung_9574_qu_04.ogg}<br>只有找到萝丝才能有机会找到休利亚！只有这样才能找到你同村的人，不是吗！<br>你会去的吧？嗯？就算是看在我的面子上！",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知，知道了。总之我先见见镇长吧。</FONT>",
+      "answer": "",
+      "image": "qn_elder_harold.png"
+    }
+  ]
+}

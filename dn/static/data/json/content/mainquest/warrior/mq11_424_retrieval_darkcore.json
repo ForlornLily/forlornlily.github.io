@@ -1,0 +1,95 @@
+{
+  "qkname": "找回黑色核心",
+  "data": [
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（被一种黑暗、邪恶的力量围绕的翅膀碎片。</FONT><br><FONT color=#7e12d2>周围似乎是血迹斑斑）</FONT>"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "总是麻烦你，真过意不去。早晚我会报答你的。<br><FONT color=#7e12d2>（伊格纳西奥慈祥地笑着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "我也很吃惊。为什么会从死亡城市路口感知到邪恶的气息呢……<br>经过调查才知道，原来邪恶的黑暗精灵打算将黑龙折断的翅膀碎片运送到它们自己的城市。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>什么！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "\n别吃惊。不过我也很吃惊。如果我没有使用贤者之眼的话，真不知道会怎样……黑暗精灵是一种邪恶的种族。它们一定是在觊觎黑龙的力量。或者……是打算复活黑龙也说不定。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>必须马上告诉杰兰特。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "不能什么事都依靠他们。<FONT color=#a82424>杰兰特</FONT>还有伤在身，我们应该为他尽一份力量。<br>查看古书之后我发现，借助古代的力量可以<FONT color=#a82424>净化</FONT>黑暗气息。<br>\n ",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "\n我希望你能前往<FONT color=#a82424> 死亡城市路口</FONT>帮我找到黑龙的翅膀。<br>\n那样，我便可以通过净化仪式消除翅膀上的力量。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>嗯，直接拿回来不会很危险吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "虽然很可怕，但希望你鼓起勇气。只拿回一小部分的话是不会有什么问题的。<br>注意只要别碰到黑龙之血，对你这样的勇者，是无论如何都不会有什么影响的。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>好的。我试试看。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "<FONT color=#a82424>死亡城市路口</FONT>是一个非常危险的地方，所以你要格外注意。因为那里由强大的黑暗精灵守护着。我会祈祷你顺利归来的。",
+      "answer": "",
+      "image": "qw_38.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "这危险的气息……！<br>贤者之眼放射出的耀眼光芒，足以令人畏惧。<br>你带回的无疑就是那强大力量的一部分。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "真是无比邪恶的光芒……它是那么的幽暗、渺茫，以至于任何人在注视它的时候都会被魅惑。<br>那可能是无穷之恶，也可能是无穷之美。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "现在，用于净化的<FONT color=#a82424>力量碎片</FONT>已经找到了，应该着手准备净化仪式了。<br><FONT color=#7e12d2>（主教热情地和我握手）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>能帮上忙，我很高兴。</FONT>",
+      "answer": ""
+    }
+  ]
+}

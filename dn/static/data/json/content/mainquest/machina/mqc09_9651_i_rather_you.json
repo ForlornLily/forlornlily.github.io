@@ -1,0 +1,200 @@
+{
+  "qkname": "不是你的错",
+  "data": [
+    {
+      "npc": "小龙",
+      "question": "（……）",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "要是碰了那个东西的话，生命就会有危险！<br>必须阻止<FONT color=#a82424>休利亚</FONT>！",
+      "answer": "",
+      "image": "qn_lm_nativeman_b.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他去哪儿了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "太危险了。你走开！",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（闪闪发光，但是看上去很危险）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（去找西戴尔吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "在<FONT color=#a82424>陨石坠落地中心</FONT>深处。<br>那里很危险，别到里面去！",
+      "answer": "",
+      "image": "qw_63.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "必须阻止<FONT color=#a82424>休利亚</FONT>，别让他做傻事。",
+      "answer": "",
+      "image": "qn_lm_nativeman_b.png"
+    },
+    {
+      "npc": "休利亚",
+      "question": "给我走开！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>危险的人是你！为什么要做这种傻事？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "<FONT color=#7e12d2>（休利亚避开了视线）</FONT> ",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "ndnpc_Suriya_9651_qu_01.ogg}<br>我去了……蓝塔娜的秘密实验室。这次我本是意气洋洋，以为能救得了所有人。<br>可是实验室里一个活人也没有。",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "在蓝塔娜说教授什么的时候，我应该早点发现的……<br>她好像在逃走之后，就杀死了内部的所有人。",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "我应该听你的，到秘密实验室去的……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……全都死了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "……是的。对不起。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我还以为能救他们呢……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "ndnpc_Suriya_9651_qu_02.ogg}<br>真的很抱歉。我……一直以来都太不可一世了。我明知道只有你才能救下村民，可是没有倾听你的想法。",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "我让你相信我，但是我没能救出飞艇上的人……也没能救出在秘密实验室中等待帮助的村民们。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这不是你的错。没能救他们的人是我，不是你！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "ndnpc_Suriya_9651_qu_03.ogg}<br>反正我所做的事已经失败了。既然如此，我愿意用我的生命为代价，救下其他人。<br><FONT color=#7e12d2>（休利亚打算前往陨石坠落地中心的深处）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>别走！喂！！<br>（用力敲了一下休利亚的后脑勺）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "呃……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你说一个人都没救出来？你至少救了我。<br>要不是你的话，我一定被红色商团卖掉了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>但是我却一直没听你的话。在村民们全都死了之后，我才知道真相。<br>真正的失败者是我。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>但是杰兰特……还有你……居然想救我这种傻瓜……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>大家都是因为我而牺牲的，我却一点都不知道感恩，只想自己一个人活下去。<br>因为妈妈让我活下去！她为了救我，牺牲了自己的生命……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>但是妈妈真的希望我这样吗？<br>我想，妈妈和哥哥一定也不希望我像现在这样活着。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他们一定希望我像柯里塔村人一样，过上自由的生活。<br>我到陨石中心去。我要让妈妈看到我堂堂正正的样子。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你留在这里。你还有很多日子要过。<br>我……本来就被陨石污染了。反正也要死。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "啊……不，<FONT color=#387206>{user_nick}</FONT>，别！不……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>反正我已经受到了污染，再次受到污染也没什么关系！<br>（</FONT>向<FONT color=#a82424>陨石坠落地中心</FONT><FONT color=#662500>走去）</FONT>",
+      "answer": "",
+      "image": "qw_63.png"
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（这个闪闪发光，但是看上去很危险的碎片，应该就是陨石中心碎片）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>只是为了这个小小的碎片吗……呃……手臂又……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没关系。我能坚持住……<br>（把碎片交给西戴尔吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，<FONT color=#a82424>休利亚</FONT>已经告诉我了。<br>你到底干了什么！",
+      "answer": "",
+      "image": "qn_lm_nativeman_b.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没关系。反正我……</FONT>",
+      "answer": ""
+    }
+  ]
+}

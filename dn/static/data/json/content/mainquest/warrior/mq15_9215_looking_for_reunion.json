@@ -1,0 +1,218 @@
+{
+  "qkname": "期待重逢",
+  "data": [
+    {
+      "npc": "萝丝",
+      "question": "对不起，我什么忙也没帮上。<br><br>\n※ <FONT color=#7e12d2>可以从神圣天堂王城内部的泰兰斯·特拉玛依那里接受任务。</FONT>",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "看来得重点搜索陨石坠落地附近。<br>搜索的事情我会交给其他神殿骑士，你去见见<FONT color=#a82424>先知</FONT>吧。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>先知吗？</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "也许上次见到贝思柯德后受了刺激，先知的脸色一直不太好。这段时间一直一言不发的，今天她忽然要找你。说是有重要的事情要拜托你。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>她要拜托我什么事？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "嗯，这个她没说。<br>你见到先知就会知道了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "虽然她被称为先知，可还是个年幼的少女。有时她的处境也挺可怜的。如果你能多陪她说说话，说不定心情会好一些。你去王城地下见见萝丝吧。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "你来了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>听说你有事情想拜托我。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "我担心爷爷和莉莉的情况，所以打听了一下普雷利镇那边的消息……爷爷的身体好像还是不太好。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "听说莲花沼泽那边有对爷爷的病很好的药草，我想给他送一点过去。你能帮我搜集一些<FONT color=#a82424>古老的蔓藤</FONT>吗？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>古老的蔓藤？</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "是的，虽然我知道现在不是说这个事情的时候……，可是我实在太担心爷爷了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>在哪里可以找到？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "<FONT color=#7e12d2>(萝丝的脸色好了一些)</FONT><br>听说以前在莲花沼泽那边很容易找到<FONT color=#a82424>古老的蔓藤</FONT>。可是不知什么缘故，最近几乎都快消失了。所以现在只能从<FONT color=#a82424>陨石坠落地中心</FONT>的魔物身上才能找到。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "请你去<FONT color=#a82424>陨石坠落地中心</FONT>搜集三捆<FONT color=#a82424>古老的蔓藤</FONT>。有了那个，爷爷的身体也会好很多。",
+      "answer": "",
+      "image": "qw_63.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "真的非常感谢你。等做好这个人偶，我要把它跟古老的蔓藤一起送到普雷利镇去。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>人偶？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "这是给莉莉的礼物。<br>\n因为我不在，妹妹估计会很辛苦。<br>\n<FONT color=#7e12d2>(萝丝的眼里泛起了泪花)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "虽然我很想立刻回到普雷利镇去……，可是受了特拉玛依的恩惠，我得知恩图报。而且还有很多人需要我的力量。<br>直到我的力量渐渐消失，成为一无是处的人为止……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>虽然你失去了力量，可是你还能做很多。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "是吗？<br>我常常觉得我跟其他人不一样。<br>被黑骑士利用的时候，我想过，如果我是平凡的女孩子，该有多好。因为太憎恨那样的处境，我还曾想把自己藏入梦境里。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "可是，遇见特拉玛依以后，我认识到了自己的软弱。<br>特拉玛依对我说，我的力量能帮助许许多多受苦受难的人们。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "我不想再逃避了。<br>可很巧的是，自从我不再厌恶这股力量，它反而逐渐减弱了。<br><FONT color=#7e12d2>(萝丝露出悲伤的笑容)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "嗯……<br>等到这股力量逐渐减弱，最后真的消失的时候，我还能回到普雷利镇去吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>如果你愿意，现在就可以回去，不是吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "现在还很危险，只要我还拥有这股力量，就会有人对它虎视眈眈。如果我现在回到普雷利镇，想谋害我的人说不定会让镇子陷入危险之中。<br>所以……除非那些人消失，或者……",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "如果我的力量完全消失，我成为一个普通的女孩子的话，我会回去的。<br><FONT color=#7e12d2>(萝丝的眼中落下了泪珠)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你没事吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "对不起，让你见到我这个样子……现在我只是……有些疲倦才会这样，你别担心。<br><FONT color=#7e12d2>(萝丝把眼泪擦干)</FONT><br>哭一哭心情会好一些。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "要是打听到什么消息，我会告诉你的。现在……我想一个人呆一会儿。<br><FONT color=#7e12d2>(现在最好让萝丝一个人静一会儿。去跟特拉玛依对话。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "特拉玛依",
+      "question": "虽然她被称为具有古代人的力量的先知……毕竟还只是个年幼的少女。<br>\n年纪轻轻的，还能那么坚强地忍耐，真是令人欣慰。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>与以前相比，好像变强了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "特拉玛依",
+      "question": "人就是这样的…… 不管碰到什么艰难的考验，最终总会找到一个解决的方法。<br>直到先知她自己整理好心情，暂时随她去吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我觉得这样做比较好。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "特拉玛依",
+      "question": "好了，先知休息的这段时间，我们也该自己做点努力，是吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>向西戴尔求助怎么样？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "特拉玛依",
+      "question": "好像是个好办法。<br>神殿骑士团对那地方不太熟悉，佩奥里斯塔的人很了解莲花沼泽，请他们帮助比较好。<br>那么，你去见<FONT color=#a82424>西戴尔</FONT>，向他求助吧。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

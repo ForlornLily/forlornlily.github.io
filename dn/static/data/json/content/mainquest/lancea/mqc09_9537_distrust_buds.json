@@ -1,0 +1,147 @@
+{
+  "qkname": "猜疑的萌芽",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "………………",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "……继贝思柯德之后……现在连凯伊哥哥也说先知是<FONT color=#a82424>假冒的</FONT>……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>大家为什么都不愿意放过那个柔弱善良的少女呢？<br>对了，有个</FONT><FONT color=#662500>奇怪的精灵说了什么想要犯罪的人、被自己的罪束缚的人什么的……<br>应该和现在的事情没什么关系吧？</FONT>",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "想犯罪的人和被自己的罪束缚的人……？<br>这是什么意思，姐姐？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（把</FONT><FONT color=#662500>尤万西贝尔说的话）</FONT>告诉埃提亚",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9537_qu_01.ogg}<br>……想犯罪的人和被自己的罪束缚的人……都无法正确地看到真相……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不管怎样，我要直接去找特拉玛依！<br>我要去问问特拉玛依是不是真的是使徒，还有先知到底是不是假冒的！</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "啊啊，姐姐！！这真是个可怕的想法！<br><FONT color=#7e12d2>（埃提亚抓着</FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#7e12d2>的袖子）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "以前不也因为使徒什么的贸然行动，结果出了问题嘛……<br>而且，凯伊哥哥的话也有一定的道理。 <br>即使是神殿骑士团，也不能完全相信……",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "<FONT color=#a82424>特拉玛依</FONT>不是隐遁了很长时间，最近才露面吗？最糟糕的情况，就是他不是特拉玛依本人，而是假冒的。<br><FONT color=#a82424>先知</FONT>也是从梦中苏醒之后就没有亲自展现过奇迹。而且预言这种东西完全可以视情况随便说。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……但是，如果开始怀疑的话，也可以说贝思柯德也中间掉包了，凯伊也中间掉包了……<br>不就没完没了了吗？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "总之，姐姐最好再去见见<FONT color=#a82424>凯伊</FONT>哥哥。<br>现在不知道哥哥去哪里了，放一只传令蓝鸟吧。<br>约定的地方就定为<FONT color=#a82424>被蚕食的神殿废墟</FONT>吧。",
+      "answer": "",
+      "image": "qw_62.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "如果<FONT color=#a82424>凯伊</FONT>哥哥在附近的话，就可以见到他。<br>那么，姐姐你快去<FONT color=#a82424>被蚕食的神殿废墟</FONT>吧。",
+      "answer": "",
+      "image": "qw_62.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "……虽然不知道你为什么叫我来，但你不是说让我拿出证据吗，<FONT color=#387206>{user_nick}</FONT>？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>难道你带证据来了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "我拿不出特拉玛依或先知是假冒的证据……但是<br><FONT color=#2b2723>我</FONT><FONT color=#a82424>追随的</FONT><FONT color=#a82424>人</FONT>找到了<FONT color=#2b2723>巴尔纳的位置。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你追随的人？有这样的人吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "……我不能告诉你<FONT color=#a82424>他</FONT>的身份。<br>但是他是钢铁兄弟团的第2号人物！<br>他是巴尔纳最信任的人，所以你可以完全信任他！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那现在该怎么办</FONT><FONT color=#662500>呢？<br>如果特拉玛依和先知真的是龙之追随者一伙的话……巴尔纳</FONT><FONT color=#662500>该怎么办呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "特拉玛依和先知现在很快就会去找<FONT color=#a82424>黑骑士</FONT>。<br>而且，他们肯定是觊觎<FONT color=#2b2723>黑骑士的</FONT> <FONT color=#a82424>龙之宝玉</FONT>。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>莫非……不会的！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "……一切很快就会发生。<br>巴尔纳似乎在追黑骑士，所以可以在巴尔纳周围找到黑骑士。<br>你要时刻注意，阻止他们抢走<FONT color=#a82424>龙之宝玉</FONT>，<FONT color=#387206>{user_nick}</FONT>，你明白了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……明白了。<br>（脑中一片混乱。还是再回去找</FONT><FONT color=#662500> 埃提亚</FONT><FONT color=#662500>吧）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "我……还有其他事情要处理，我先走了。 <br>不如你也回去看看<FONT color=#a82424>埃提亚</FONT>吧？",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐快来。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "你见到凯伊哥哥了吗？",
+      "answer": ""
+    }
+  ]
+}

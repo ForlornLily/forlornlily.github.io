@@ -1,0 +1,86 @@
+{
+  "qkname": "祝福之石",
+  "data": [
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "利用这个净化装置说不定还可以让早已荒废的<FONT color=#a82424>死亡森林</FONT>重新恢复生机。",
+      "answer": "",
+      "image": "qp_puri_facility.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "据说在古代人的知识当中，有一种可以解除物质毒性的净化装置。<br>这个文件中就记录了那个净化装置的有关内容。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "根据文件内容，那个净化装置就在祈祷者安息处。而且为了启动装置，还需要<FONT color=#a82424>纯白之球</FONT>和<FONT color=#a82424>净化装置钥匙</FONT>。纯白之球保管在<FONT color=#a82424>圣域中心</FONT>的最深处。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "拿到<FONT color=#a82424>纯白之球</FONT>后，还要得到<FONT color=#a82424>净化装置钥匙</FONT>。那把钥匙就在净化装置的守护者狮蝎克鲁鲁手上。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "<FONT color=#a82424>净化装置钥匙</FONT>需要前往祈祷者安息处才能得到，所以最好还是<FONT color=#a82424>先拿到纯白之球</FONT>。那么你先前往<FONT color=#a82424>圣域中心</FONT>最深处，拿到纯白之球吧。",
+      "answer": "",
+      "image": "qw_25.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "在你去往<FONT color=#a82424>圣域中心</FONT>的这段时间，我会再仔细研究一下文件。",
+      "answer": "",
+      "image": "qw_25.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "在你去往<FONT color=#a82424>圣域中心</FONT>的这段时间，我会再仔细研究一下文件。",
+      "answer": "",
+      "image": "qw_25.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "你回来啦。拿到<FONT color=#a82424>纯白之球</FONT>了吗？让我看看。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "啊……我居然亲眼看到了纯白之球，太感激你了。<br>真是太美了。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>埃雷娜想要夺走纯白之球来着。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "你说那个埃雷娜精灵死了？她一定是为了净化倾倒在自己身上的污染物质，想要得到纯白之球。但却因为自己制造的污染物质中毒死了。真是报应不爽。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "\n<FONT color=#7e12d2>（高级魔法师缇娜皱着眉头陷入短暂的沉思。重新和她对话吧）</FONT>",
+      "answer": ""
+    }
+  ]
+}

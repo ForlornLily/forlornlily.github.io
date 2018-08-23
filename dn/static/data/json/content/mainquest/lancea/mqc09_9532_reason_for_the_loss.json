@@ -1,0 +1,140 @@
+{
+  "qkname": "丧失力量的原因",
+  "data": [
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "贝思柯德……<br>不知道他在耍什么花招……",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "不能让贝思柯德就这么跑掉。<br>请尽快到<FONT color=#a82424>恶灵阴影</FONT>去。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "不能让贝思柯德就这么跑掉。<br>你赶快去<FONT color=#a82424>恶灵阴影</FONT>吧。",
+      "answer": "",
+      "image": "qw_61.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "贝思柯德……<br>抛弃了人类的样子之后获得的力量，就是那种东西吗……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德怎么了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "到底让他给跑了……<br>单凭我们的力量看来很难拿到<FONT color=#a82424>杰兰特的剑</FONT>。该不该向佩奥里斯塔魔法师团求援呢……呵呵，我这老头子真是丢脸丢到家了……",
+      "answer": "",
+      "image": "qp_geraint_sword.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……</FONT><FONT color=#662500>贝思柯德好像不愿意交出杰兰特的剑……我们好像是要硬抢一样，所以他很不高兴吧。<br>从贝思柯德的角度来说，他也希望珍藏凝聚着杰兰特的回忆的</FONT><FONT color=#662500>物品啊……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "真不知道你脑袋里装着什么乱七八糟的……啊，没什么，嗯嗯……<br>不管怎么说，贝思柯德不是你想象的那种人。<br>而且，我们现在非常需要<FONT color=#a94407>杰兰特的剑</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（直接说我们很需要的话，贝思柯德就算稍微抱怨一下，最后也一定会借给我们的……唉……算了……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "先回到<FONT color=#a82424>神圣天堂</FONT>去吧。<br>应该去看看先知有没有获得什么新的启示。",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>先知现在在哪里啊？</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "她在<FONT color=#a82424>王城地下</FONT>。<br>那是杰兰特生前呆过的地方，你应该能很容易找到。你去见见先知吧。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "虽然我再次派人去打听贝思柯德的行踪，可是还没有什么消息。<br>你去见见<FONT color=#a82424>先知</FONT>，看她有没有什么新的启示。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "啊，是<FONT color=#387206>{user_nick}</FONT>啊……<br><FONT color=#7e12d2>（萝丝的脸色很苍白）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>特拉玛依让我来打听一下贝思柯德的行踪，所以我过来了。<br>你看起来有点不舒服，没事吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "现在我什么都看不到感觉不到了。<br>不能帮你寻找黑骑士，对不起。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你要不就是像贝思柯德说的，力量消失了……要不就是假先知吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "真是直率的人啊，<FONT color=#387206>{user_nick}</FONT>……<br><FONT color=#7e12d2>（萝丝看着</FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#7e12d2>黑漆漆的眼珠，苦涩地笑着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我觉得贝思柯德虽然做过一点点坏事，但他不会说谎话。<br>可是，先知也没理由说谎啊……唔……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "事实上……与以前相比，我很少做带有预示的梦了。<br>而且，在梦中见到的景象也变得很模糊。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "也许……正像黑骑士所说，我已经丧失了力量……<br><FONT color=#7e12d2>（萝丝叹了口气）</FONT><br>以前，我很不喜欢自己有这样的能力……<br>可是突然想到这股力量正在消失，又有些不舍。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "等到这股力量完全消失，我成为一个普通女孩的话，还能回到<FONT color=#a82424>普雷利镇</FONT>像以前一样生活吗？<br><FONT color=#7e12d2>（萝丝擦了擦眼泪）</FONT><br>如果能那样，失去力量也不是什么坏事……<br>……对不起，让你看见我这个样子……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，别、别哭了，先知！<br>结果不是没有人说谎嘛！<br>那就没什么不好的事情……没什么好哭的！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "是吗……？如果没有说谎的话，那就没什么不好的事情……？<br>谢谢你安慰我……<br><FONT color=#7e12d2>（萝丝留下一句意味深长的话，然后闭紧了嘴）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（嗯……原来先知也是平凡的少女啊……我会一直相信先知的！）</FONT>",
+      "answer": ""
+    }
+  ]
+}

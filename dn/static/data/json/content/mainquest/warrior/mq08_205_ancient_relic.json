@@ -1,0 +1,180 @@
+{
+  "qkname": "古代人的遗物",
+  "data": [
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "<FONT color=#a82424>纹章学者贝利</FONT>好像学识很渊博。 <br>去找贝利先生，最好能从他那获得一些帮助。",
+      "answer": "",
+      "image": "qn_npc_scholar_baily.png"
+    },
+    {
+      "npc": "纹章学者贝利",
+      "question": "这次原来是参加过黑骑士追击战的<FONT color=#387206>{user_class} {user_nick}</FONT>啊，<br>你的身体怎么样了？我看你脸色不是很好啊……",
+      "answer": "（询问顺从吊坠的事情）"
+    },
+    {
+      "npc": "纹章学者贝利",
+      "question": "<FONT color=#a82424>顺从吊坠</FONT>从前是牧师威廉的东西。你去问问他的弟子高级牧师杰梅因，应该能获得一些信息。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "纹章学者贝利",
+      "question": "<FONT color=#a82424>顺从吊坠</FONT>嘛……黑骑士好像对<FONT color=#a82424>古代人的遗物</FONT>很感兴趣啊。",
+      "answer": "（询问古代人的遗物的情况）",
+      "image": "qw_16.png"
+    },
+    {
+      "npc": "纹章学者贝利",
+      "question": "古代人的遗物是曾经侍奉女神的古代人所留下的遗产。<br>据说古代人在女神的恩宠下，掌握了有关<FONT color=#a82424>纹章</FONT>和<FONT color=#a82424>宝玉</FONT>的大量知识。不过后来，因为某些原因，他们只留下了遗物和遗迹，便从这世上销声匿迹了。",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "<FONT color=#a82424>纹章学者贝利</FONT>的学识非常渊博。<br>你可以向他寻求些建议。",
+      "answer": "",
+      "image": "qn_npc_scholar_baily.png"
+    },
+    {
+      "npc": "纹章学者贝利",
+      "question": "你去问问牧师威廉的弟子<FONT color=#a82424>高级牧师杰梅因</FONT>，应该能获得一些信息。",
+      "answer": "",
+      "image": "qn_npc_cl_master_germain.png"
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "冒险家，你好！<br>一想到<FONT color=#a82424>先知</FONT>被黑骑士劫走，正在承受无尽的痛苦，我的心就如刀绞一般。<br>现在必须尽快救出先知，要不然就糟了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>请问顺从吊坠在您这里吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "顺从吊坠……那曾是我老师<FONT color=#a82424>高级牧师威廉</FONT>的东西……",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>威廉先生现在在哪儿呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "老师他……很久以前，他在<FONT color=#a82424>死亡森林</FONT>，参加了一场与怪物们的抗战， 就在那场战斗中，他追随女神的召唤，英勇殉教了。",
+      "answer": "",
+      "image": "qw_17.png"
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "当时，由于怪物们施放的剧毒气息，导致大地荒芜，人类无法靠近，结果连老师的尸身也没能找寻回来。有几个人说他的尸身中了毒，变成了凶恶的食尸鬼……",
+      "answer": "",
+      "image": "qw_17.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>那么，我亲自去一趟死亡森林找找看。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "没能将我老师的遗骸找回来，是我自那时起一直耿耿于怀的事。<br>如果可以的话，你能帮我把老师的遗骸带回来吗？",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "<FONT color=#7e12d2>高级牧师杰梅因脸上的表情透露着无尽的悲伤。</FONT><br><br><FONT color=#7e12d2>※只有达到12级以上，才可继续。</FONT>"
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "老师的遗物<FONT color=#a82424>顺从吊坠</FONT>应该就在<FONT color=#a82424>死亡森林</FONT>的某个地方。",
+      "answer": "",
+      "image": "qw_17.png"
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "找到<FONT color=#a82424>顺从吊坠</FONT>吗？",
+      "answer": "（讲述死亡森林里发生的事情）",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>找到了。不过，顺从吊坠是挂在一个食尸鬼的脖子上的。</FONT><br><FONT color=#662500>我先把它带回来了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "什么……？你说什么？<br><FONT color=#a82424>食尸鬼波尔德尼斯</FONT>的脖子上挂着<FONT color=#a82424>顺从吊坠</FONT>？<br>那样的亡灵怎么可能戴着顺从吊坠！怎么回事……？",
+      "answer": "",
+      "image": "qm_ghoulblue.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>它当时还试图保住顺从吊坠不被我抢走……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "啊啊……怎么会……<br><FONT color=#7e12d2>（杰梅因哽咽了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "呜呜呜……怎么可能成了徘徊在这世上的亡灵。老师……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你是说那个蓝色的食尸鬼就是威廉先生？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "否则的话，食尸鬼之辈怎么可能将神圣的<FONT color=#a82424>顺从吊坠</FONT>戴在脖子上……<br>一定是由于老师生前的信仰根深蒂固，所以即便成为了亡灵，也没有产生对神圣之物的抗拒。",
+      "answer": "",
+      "image": "qm_ghoulblue.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>原来如此……很抱歉。我连这都不知道……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "没关系，威廉老师现在一定已经得到了安息，并侍奉在女神左右了。<br>威廉老师，请走好……",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "现在，更重要的是一定要找出害了老师的元凶。虽然，有时也会出现由于对世上存有怨恨或者留恋的人死后徘徊在这世上的亡灵，但在侍奉女神的神职人员中，从未有过这种事情发生。",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "一定有什么狂人魔法师或者堕落怪物之类的家伙操纵着这件事。<br>我一定要查出事情的元凶，让他为这样的恶行付出应有的代价。<br><FONT color=#7e12d2>（杰梅因的目光中流露着恳切之情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者贝利",
+      "question": "你去问问牧师威廉的弟子<FONTcolor=#a82424>高级牧师杰梅因</FONT>，应该能获得一些信息。",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "现在，更重要的是一定要找出害了老师的元凶。虽然，有时也会出现由于对世上存有怨恨或者留恋的人死后徘徊在这世上的亡灵，但在侍奉女神的神职人员中，从未有过这种事情发生。",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师杰梅因",
+      "question": "一定有什么狂人魔法师或者堕落怪物之类的家伙操纵着这件事。<br>我一定要查出事情的元凶，让他为这样的恶行付出应有的代价。<br><FONT color=#7e12d2>（杰梅因的目光中流露着恳切之情）</FONT>",
+      "answer": ""
+    }
+  ]
+}

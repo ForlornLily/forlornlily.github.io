@@ -1,0 +1,76 @@
+{
+  "qkname": "散落的线索",
+  "data": [
+    {
+      "npc": "自卫团长史蒂夫",
+      "question": "我们自卫团的一名团员在听说了<FONT color=#a82424>萝丝</FONT>的消息之后前往了<FONT color=#a82424>阴影森林山麓</FONT>，请冒险家你与他会合吧。",
+      "answer": "",
+      "image": "qw_1.png"
+    },
+    {
+      "npc": "自卫团长史蒂夫",
+      "question": "你去<FONT color=#a82424>阴影森林山麓</FONT>会看到一位名叫<FONT color=#a82424>卫兵提摩西</FONT>的自卫团团员的。",
+      "answer": "",
+      "image": "qn_guard_timose.png"
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "啊……详细的情况过会儿见面再说吧，先从<FONT color=#a82424>地图碎片</FONT>开始找起，<br>我们分头寻找应……应该会快很多。",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "你，你先走吧。我再仔，仔细找找各个角落……<br>\n消灭这附近的怪物……一，一定可以找，找到地，地图碎片……的……",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "地图碎片都找、找到了吗？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "是……是吗？辛苦你了！<br>让我来拼拼看……<br><FONT color=#7e12d2>（提摩西拼好了地图）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "这，这里是……？！",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "这，这里是……<FONT color=#a82424>古代神殿遗迹</FONT>。那，那么危险的地方……箩，萝丝竟然在那里……",
+      "answer": "",
+      "image": "qw_2.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那是什么地方？</FONT>",
+      "answer": "",
+      "image": "qw_2.png"
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "一个危，危，危险的地方……所以我，我要先，先前往那里。<br>\n我找不到萝丝，就不回来了！<br>你回到村，村里转……转告<FONT color=#a82424>卫兵史蒂夫</FONT>吧。",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "不……不用担心我。<br>不，不过……你回到村子后，别，别耽搁必须立刻飞……飞奔到古代神殿遗迹来！<br>\n知道了吗？！",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "那……那就拜托了。赶紧回村子通知<FONT color=#a82424>史蒂夫</FONT>，然后立刻过来！<br>箩……<FONT color=#a82424>萝丝</FONT>现在很危险……",
+      "answer": ""
+    }
+  ]
+}

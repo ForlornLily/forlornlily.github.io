@@ -1,0 +1,197 @@
+{
+  "qkname": "复活",
+  "data": [
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#7e12d2>（泰兰斯·特拉玛依露出沉痛的表情）</FONT><br>终究……还是没能为巴尔纳做什么事……",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "\n我得动员神殿骑士们去为巴尔纳收尸了。为了让沉睡的他不再受到打扰，我会把他安葬在修道院的深处。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "应该专门调查一下打倒巴尔纳的人到底是谁。<br>你去找贝思柯德，打听一下他对这个人有没有什么线索。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>（贝思柯德脸色苍白）</FONT><br>你这讨厌的家伙……又有什么事？",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我有事情要问你。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……….<br><FONT color=#7e12d2>(贝思柯德不耐烦地用手撑着额头)</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "\n<FONT color=#7e12d2>(说明被蚕食的神殿废墟的情况)</FONT><br>看来他见过<FONT color=#a82424>兰伯特</FONT>了。<br>他可是不常露面的人呐……不过，巴尔纳对他来说是个很特别的人，所以我能理解他为什么会亲自出马。",
+      "answer": "",
+      "image": "qn_npc_warrior_lambert.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>父亲他究竟想做什么呢……？</FONT>",
+      "answer": "",
+      "image": "qn_npc_warrior_lambert.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我怎么知道你父亲要做什么啊？",
+      "answer": "",
+      "image": "qn_npc_warrior_lambert.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "兰伯特是个重视荣誉的人。<br>他以 <FONT color=#a82424>使徒</FONT>的身份跟随着那个男人也是出于这个原因吧。",
+      "answer": "",
+      "image": "qn_npc_warrior_lambert.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……？你说我父亲是……使徒？</FONT>",
+      "answer": "",
+      "image": "qn_npc_warrior_lambert.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我还以为你都已经知道了呢……？<br>我不知道你记忆中的<FONT color=#a82424>兰伯特</FONT>是什么样子，但他真的是我见过的人当中最冷酷无情的人。<br>他是那种为了名誉，不惜割断血肉之情的人。",
+      "answer": "",
+      "image": "qn_npc_warrior_lambert.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这不可能！</FONT>",
+      "answer": "",
+      "image": "qn_npc_warrior_lambert.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "即便你否认也没用。<br>不要对你老爸抱着无谓的希望了，这样才能…唔。<br><FONT color=#7e12d2>（贝思柯德捂着胸口）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "\n<FONT color=#7e12d2>(说明被蚕食的神殿废墟的情况)</FONT><br>看来他见过<FONT color=#a82424>兰伯特</FONT>了。<br>他可是不常露面的人呐……不过，巴尔纳对他来说是个很特别的人，所以我能理解他为什么会亲自出马。",
+      "answer": "",
+      "image": "qn_npc_warrior_lambert.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#2b2723>兰伯特……？他是谁？</FONT>",
+      "answer": "",
+      "image": "qn_npc_warrior_lambert.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "他是巴尔纳最后一个弟子。",
+      "answer": "",
+      "image": "qn_npc_warrior_lambert.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他是巴尔纳的弟子？</FONT>",
+      "answer": "",
+      "image": "qn_npc_warrior_lambert.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "是。尽管他是巴尔纳的弟子，但是却走上了和巴尔纳截然不同的道路。<br>兰伯特是个重视荣誉的人。<br>他以 <FONT color=#a82424>使徒</FONT>的身份跟随着那个男人也是因为这个理由。",
+      "answer": "",
+      "image": "qn_npc_warrior_lambert.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>使徒……？你说他是个使徒？</FONT>",
+      "answer": "",
+      "image": "qn_npc_warrior_lambert.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "是。尽管他是巴尔纳的弟子，但是却走上了和巴尔纳截然不同的道路。<br>兰伯特是个重视荣誉的人。<br>他以 <FONT color=#a82424>使徒</FONT>的身份跟随着那个男人也是因为这个理由。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个男人？你说的那个男人是谁？</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "还以为你至少能猜到一些，不过你比我想的还要愚蠢……他在所有使徒中也是最冷酷无情的人。<br>他是那种为了名誉，不惜割断血肉之情的……唔。<br><FONT color=#7e12d2>(贝思柯德捂住了胸口)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "咳额……<br><FONT color=#7e12d2>（贝思柯德呻吟着，显得很痛苦。回去告诉特拉玛依）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你说贝思柯德的状态更加恶化了？<br>嗯，看来后遗症比想象中的严重啊……",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#662500>没有什么办法吗……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "自从他遗失了龙之宝玉之后，身体就急速老化。现在看来，他可能撑不了多久了……想要救他的话，必须要有不亚于龙之宝玉力量的强大的生命之力才行。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#662500>不亚于龙的生命之力……有这种力量吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "有倒是有……<br>它拥有着无限强大的生命能量……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那是什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "那就是……<br>世上所有精灵的母亲，森林和风之精灵的故乡。<br>它拥有阿尔特里亚最强大的生命之力。<br>那就是<FONT color=#a82424>生命之树</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>生命之树……</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你该做好去<FONT color=#a82424>阿努阿兰德</FONT>的准备了。<br>内尔文……不是，去和<FONT color=#a82424>纳尔希亚</FONT>女王见面，请求她的帮助吧。",
+      "answer": "",
+      "image": "qn_archer_nerwin_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": "",
+      "image": "qn_archer_nerwin_silhouette.png"
+    }
+  ]
+}

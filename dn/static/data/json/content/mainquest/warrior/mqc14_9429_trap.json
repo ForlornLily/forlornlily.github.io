@@ -1,0 +1,277 @@
+{
+  "qkname": "圈套",
+  "data": [
+    {
+      "npc": "精灵警卫兵希特里德",
+      "question": "<FONT color=#387206>{user_nick}</FONT>！你在执行任务吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的，现在我得去迷雾遗址。我有事情要告诉阿尔杰塔。</FONT>",
+      "answer": "",
+      "image": "qw_90.png"
+    },
+    {
+      "npc": "精灵警卫兵希特里德",
+      "question": "是这样啊……精灵王因为火烧而感到痛苦的症状似乎也消失了。我会向他禀告你的离去的，你尽管放心走吧！<br><FONT color=#7e12d2>（希特里德朝我嫣然一笑。快到迷雾遗址去吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（抓紧时间，快到迷雾遗址去，把露娜莉娅的事告诉阿尔杰塔）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9429_qu_01.ogg}<br>……来了。是你啊。没关系，一切都会好起来的。如今一切，一切都要结束了……佩达会打开巨石碑之门的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>要是巨石碑之门开启，一切都要完蛋！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9429_qu_02.ogg}<br>怎么会。我正是为此而诞生的……还有……也许你不知道……我每次打开巨石碑之门时，都不会发生任何事情，只有他会死掉。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你别撒谎！你和佩达是一伙的，明明就和他一样，想毁灭世界！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9429_qu_03.ogg}<br>毁灭世界？不不……我的期望……就是他可以平平安安地活着。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>虽不知道你口中的他是谁，但只要他在这个世界上，就不可能在巨石碑之门开启后依然安然无恙！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……<FONT color=#7e12d2>（露娜莉娅暂时沉默了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃，露娜莉娅……露娜莉娅，现在你说的这些话都是错的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9429_qu_01.ogg}<br>……来了。是你啊。没关系，一切都会好起来的。如今一切，一切都要结束了……佩达会打开巨石碑之门的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>要是巨石碑之门开启，一切就都完了。露娜莉娅，求求你清醒点。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "怎么会。我正是为此而诞生的……还有……也许你不知道……我每次打开巨石碑之门时……都不会发生你说的那种事情。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不会发生那种事情？那么，其他人都在对我撒谎吗？而且你和佩达是一伙的！你不知道他的目的是什么吗？他正企图毁灭世界啊！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9429_qu_04.ogg}<br>毁灭世界？不不……我所期望的……不可能……会那样。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅，求求你停手吧。我……没想到你去巨石碑是为了打开巨石碑之门。你别去开那扇门了，就跟我在一起，好吗？一定有其他办法，不需要你非得打开巨石碑之门的……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……<FONT color=#7e12d2>（露娜莉娅暂时沉默了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>算我拜托你了，露娜莉娅……现在还不晚，只要你改变主意，大家会原谅你的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……我不需要大家的原谅。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……撒谎。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9429_qu_05.ogg}<br>……你撒谎……绝对不是……那不可能，你什么都不知道。不管是对他，还是对我，你什么都不知道……不知道啊……",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……你撒谎……我，我已经打败银龙了。她和金龙一起逃往了炙风地狱。<br>所以，如今也没有你干涉的余地了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？！？！你打败了阿尔杰塔？！！？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "银龙再怎么厉害，也只是独自战斗，不可能战胜两条混沌龙。而且，只要我多次扭转时空，就没有任何人能打败我……！区区银龙，根本不是我的对手。所以，我绝没有说假话。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（她这逻辑还真混乱。但可以确定的是，阿尔杰塔有危险）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（还有，露娜莉娅是敌人……这点也很明确）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（就算我的攻击对露娜莉娅无效，也无论如何得阻止她）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅，你错了！<br>（走近露娜莉娅）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……！<FONT color=#7e12d2>（露娜莉娅瞬间大惊）</FONT><br>……！！！你，怎么会有那个……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃？什么？<br>……！（我怀中卡汉拉给的那个古代的碎片正在发出光芒。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>难道这个……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9429_qu_06.ogg}<br>……求求你，不要阻碍我。<br><FONT color=#7e12d2>（露娜莉娅开始后退）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "不管是任何生灵，对我来说都没有意义。<br>我是与之毫无关联的生命体……什么都不能影响我。<br>我只是为了我生存的理由……而存在的。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "而且……我已经打败了银龙……她和金龙一起逃往了炙风地狱。<br>现在说什么都晚了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？！你把阿尔杰塔？？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "银龙再怎么厉害，也只是独自战斗，不可能战胜两条混沌龙。而且，只要我多次扭转时空，就没有任何人能打败我……！就算是你也一样……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你说的是宝玉吗？可露娜莉娅，你不是说你没法……随心所欲地扭转时空吗……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……托你的福，暂时可以做到了。你别担心，今后发生的事情全都由我自己承担，你没有任何责任，也没有任何错误。就算发生了什么灾难，大家怨我就是。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这叫什么话？我不允许你这么说。<br>（走近露娜莉娅）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……！<FONT color=#7e12d2>（露娜莉娅瞬间大惊）</FONT><br>……！！！你，怎么会有那个……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哦……你怎么了？<br>……！（我怀中卡汉拉给的古代的咒术石正在发出光芒。）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>难道这个……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9429_qu_07.ogg}<br>……求求你，不要阻碍我。<br>拜托你了。快回去。忘了我，忘了这一切，……走吧。如果你一再地阻碍我……我真的……会对你……。<br><FONT color=#7e12d2>（露娜莉娅开始后退）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（露娜莉娅渐渐消失了……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……？！虽不清楚发生了什么事，但可以肯定的是，她确实害怕这块咒术石。可这是为什么呢？为什么……？<br>……露娜莉娅她……到底是个什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>现在没时间胡思乱想。威胁生命之树的火焰已经熄灭，我得赶快去找阿尔杰塔。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（千万不要发生什么事啊……赶紧前往炙风地狱吧）</FONT>",
+      "answer": "",
+      "image": "qw_93.png"
+    }
+  ]
+}

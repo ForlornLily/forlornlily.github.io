@@ -1,0 +1,170 @@
+{
+  "qkname": "请求支援",
+  "data": [
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "就目前的情况来看，派遣王城精锐士兵似乎是最好的选择。",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "目前勇敢的神圣天堂的士兵们为了抵挡黑暗矿山的怪物都非常尽心尽责。<br><FONT color=#7e12d2>（与主教伊格纳西奥对话吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "我刚刚回城。<br>现在需要处理的事情已经堆积成山了，如果没什么要紧事的话，你以后再来吧。<br><FONT color=#7e12d2>（请和主教伊格纳西奥对话吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "精锐士兵现在跟随<FONT color=#a94407>道格拉斯将军</FONT>到<FONT color=#a82424>黑暗矿山</FONT>那里去了。你去告诉道格拉斯将军目前的情况，并让他返回吧。",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？？黑骑士说不定什么时候就会走……好不容易才知道黑骑士的位置，我们为什么不立刻出发呢？王城内没有士兵了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "啧啧啧... 什么会走....<br>\n神殿骑士团被派到了魔法山脊和凯德拉关卡之后，现在还没回来。就算回来了，重新整顿也需要时间，暂时发挥不了太大的作用。魔法师也不配合，所以依靠魔法师是不可能的事情….",
+      "answer": "",
+      "image": "qn_npc_royal_magician_kalaen.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "没有公爵的许可，近卫队是不敢擅自行动的。为了小国王的安危、应对叛乱，公爵是不会随意派遣近卫队的。因此，调动王城的精锐士兵是目前的最佳选择。",
+      "answer": "",
+      "image": "qn_npc_duke_stwart.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>虽然我不太清楚……但我现在只要前往黑暗矿山，见见道格拉斯将军就行了吧？</FONT>",
+      "answer": "",
+      "image": "qw_27.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "是的。我比较担心的是，你能否将目前这危急的情况准确地转告给道格拉斯将军。<br>嗯，我给你写封信带过去吧。 ",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……切，我可以直接告诉将军的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你不要忘记他的名字。我在信封上写了<FONT color=#a94407>道格拉斯将军</FONT>，如果你在到达<FONT color=#a82424>黑暗矿山</FONT>前，忘记了他的名字，就看看这封信吧。<br>你说是尤斯提亚家族的后人，我原本还对你抱有期望……啧啧……",
+      "answer": "",
+      "image": "qw_27.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "iontalk}<br>你带着这封信，去找<FONT color=#a82424>黑暗矿山</FONT>的<FONT color=#a94407>道格拉斯将军</FONT>吧。<br>他是个忠心耿耿的人，一定会理解国家的危机的。",
+      "answer": "",
+      "image": "qw_27.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "iontalk}<br>嗯？你是谁？<br>你看起来像个富家小姐，这里很危险，你快回去吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我叫{user_class} {user_nick}。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "好像第一次听到这个名字……，你找我有什么事吗？<br>你也看见了，我们正在进行一场重要的作战。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我们必须找到绑架先知的黑骑士。<br>我需要你的帮助。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "先知？我之前从未听说过，但……如果你想找人，可以到村庄中的侦探事务所看看。<br>很抱歉，我们王城精锐军不做这种事情。你还是回去吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不……不是这样的。黑骑士很危险，先知……我从凯德拉追到了这里。<br>主教伊格纳西奥也说需要将军和精锐士兵的帮助。</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "你说主教？王城发生了什么事情吗？<br><FONT color=#7e12d2>（道格拉斯将军现在才有些兴趣）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不是一直在说嘛，王城现在很危险！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "……跟你说话太费力了。主教有没有其他话让你转告我？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……给你。（最终拿出了皱皱巴巴的信）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "你有书信，干嘛不早拿出来。给我看看。<br><FONT color=#7e12d2>（急忙阅读书信）</FONT><br>嗯，贤者预言和先知……在我离开的这段期间，发生了这么大的事情啊。",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "黑暗矿山是后方补给的战略要地。如果这里被怪物完全占领的话，那就麻烦了。不过，营救先知的事情也迫在眉睫，这里的防卫工作就暂时交给冒险家公会吧。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "眼睁睁地放走占领矿山的<FONT color=#a94407>炸弹专家诺姆哈克</FONT>是很可惜，但没办法，只能等下次了……<br>好了，我们回城吧。等我把驻扎在矿山附近的兵力召集之后就返回。",
+      "answer": "",
+      "image": "qm_orc_gray.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "iontalk}<br>那么，我们回<FONT color=#a82424>王城</FONT>再见吧。",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "这里的防卫工作就交给冒险家公会，我们先将兵力撤回。<br>我会尽快返回王城的，你先回去吧。我们到<FONT color=#a82424>王城</FONT>再见吧。",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "哦哦，是你啊。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "道格拉斯将军刚刚回城了。",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    }
+  ]
+}

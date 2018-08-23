@@ -1,0 +1,249 @@
+{
+  "qkname": "先知的能力",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "姐姐？杰兰特怎么说？黑龙有可能还活着吗？",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他说不太清楚。所以我又去见了道格拉斯将军和主教伊格纳西奥……<br>他们只顾说自己的事情。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（将他们所说的话详细地转告埃提亚）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "嗯？不过卡拉安的意思是说，有办法唤醒<FONT color=#a82424>先知</FONT>？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "先知……<FONT color=#7e12d2>（凯伊陷入了沉思。先去见见埃提亚，和她对话吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "如果先知醒来，应该能向她询问父亲的事情吧？<br>因为先知能知过去和未来。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "如果先知醒来，要问她些什么呢？？嗯~~姐姐！姐姐你也想一想。嗯？<br><br><FONT color=#7e12d2>*到达Lv 32以后可进行下一阶段的任务</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？我还以为先知只是徒有其名，然后经常被绑架呢……原来这么了不起啊。</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐，难道，你不记得先知的预言了吗？<br>我是说记忆在宝珠和法杖上的先知预言。这不是你告诉我的嘛。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？额…啊….是这样吗？你这么一说，我就想起来了。埃提亚。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "先知就相当于这乱世的灯火。所以我们才救先知。<br>如果先知醒来，会给我们带来很大帮助。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "必须要唤醒先知才行……不过，你得先见见<FONT color=#a82424>凯伊</FONT>哥哥。你不在的期间，我收到了凯伊哥哥的联络，他说想见你一面。",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了，我这就去找他。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "凯伊哥哥说他在<FONT color=#a82424>孤岛中心</FONT>等你。<br>你快去见见他，然后回来寻找唤醒先知的方法吧。",
+      "answer": "",
+      "image": "qw_33.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐，凯伊哥哥说他在<FONT color=#a82424>孤岛中心</FONT>等你。<br>在你回来之前，我会在村子里搜集情报，看看有没有唤醒先知的方法。你要多加小心啊，姐姐。",
+      "answer": "",
+      "image": "qw_33.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "你来啦？听说黑龙消失了？？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么啊。你找我来，就是为了问我这个？<br>我还有急事！真麻烦。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "喂，这件事对我来说也很重要。这关乎了黑龙和先知。<br>我的事情你一点都不关心，太可耻，可耻！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……（内心觉得有些抱歉呢？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>所以，你想问我什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "黑龙的事情也很重要，但当务之急是先知的问题，听说先知被那个<FONT color=#a82424>金龙</FONT>带走了？<br>听说跟金龙在一起的那个女的十分疼爱你。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>疼爱？传闻都是假的。她每天只知道对我发火……哪来的疼爱。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "可是她允许你进入先知所在的<FONT color=#a94407>巢穴</FONT>啊？这可不是传闻，是我调查之后发现的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯。我来这之前，还在杰兰特建造的巢穴中见过先知。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "其他人都无法进入巢穴，只有你能进入。你这个笨蛋。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯。不对，阿尔杰塔也能自由出入巢穴。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "……好好，只有你和阿尔杰塔。<br>原来你真的能进入巢穴啊。你挺厉害的嘛？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>厉害什么，你又想嘲笑我？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "……唉，跟你说不通。<br>总之，那你能进入巢穴，趁着金龙睡着的时候，把<FONT color=#a82424>先知</FONT>带出来吗？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰兰特的眼睛受伤了，正在休息，但我为什么要那么做？那里非常安全。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "因为钢铁兄弟团也需要先知。<br>详细的情况我不能告诉你，但如果继续这样下去…… 先知会落入王城的那些家伙手中。我们只有这一次机会。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那就等杰兰特恢复之后，我再让他带着先知一起出来吧，不行吗？<br>居然让我偷偷把先知带出来，这么做好像不太好，凯伊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "不能那么做。我帮了你那么多忙，你连这点忙都不帮我？<br>自从你的旅途开始之后，你改变了好多。你知道吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>当然改变啦！我也长大了，唉嘿！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "我不是那个意思。不过你还是那么笨，这点倒是没有改变啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？你又说我笨！<br>我原本还在考虑要不要帮你……现在绝对不行。我不会那么做的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我还要告诉埃提亚，你想让我帮你做坏事！哼，坏蛋凯伊！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "喂！不是那样的！比起青梅竹马的我，你觉得那个帅气的金龙更重要，对不对？<br>我也生气了！你看我以后还帮不帮你！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（跟凯伊吵架了。还是回去找埃提亚吧。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "凯伊哥哥说什么？他是不是找到了跟父亲有关的其他线索？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>凯伊那家伙，是个坏蛋！（怒气无法消散）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "怎么了？你说清楚。究竟发生了什么事情？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（转述与凯伊的对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "嗯。钢铁兄弟团也在寻找先知？<br>真是奇怪。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "虽然这是凯伊哥哥的委托，但幸好姐姐你拒绝了。<br>因为只有先知醒来，我们才能找到父亲。现在先知还是待在比较安全的地方为好。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "你先去<FONT color=#a82424>卡拉安</FONT>那里看看吧。说不定她已经找到了唤醒先知的办法。",
+      "answer": "",
+      "image": "qn_npc_royal_magician_kalaen.png"
+    }
+  ]
+}

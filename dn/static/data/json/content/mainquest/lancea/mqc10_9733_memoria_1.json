@@ -1,0 +1,227 @@
+{
+  "qkname": "记忆1",
+  "data": [
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "据说有人发现了<FONT color=#a82424>沙漠龙</FONT>的巢穴。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "不过，发现巢穴的地区距离神圣天堂很远。目前也没什么异常，虽然我怀疑这和你目前的消失有关。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，啊哈哈。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "算了，不过关于沙漠龙的巢穴<FONT color=#a82424>黑暗女神官</FONT>似乎有话要和你说。",
+      "answer": "",
+      "image": "qn_darklair_castia.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>黑暗女神官？</FONT>",
+      "answer": "",
+      "image": "qn_darklair_castia.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "是啊，她说一定要让你去找她。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "关于沙漠龙，我们知道的并不多。<br>因为作为混沌龙的碎片，它并不经常出现，似乎只是很有名气。",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "希望你能好好跟随我。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你还是不要太勉强了，你还有很多要做的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "你好，<FONT color=#387206>{user_nick}</FONT>大人。我等候多时了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你有什么事吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "沙漠龙的名字是<FONT color=#a82424>扎卡德</FONT>。你已经知道了吧？<br>但是，很多人并不知道，她还有<FONT color=#a82424>另一个名字</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "在很久以前……<br>古代人在接近了沙漠龙后，知道自己无法对付沙漠龙， 在泰努玛拉附近把它关起来之后……<br>沙漠龙没有死，但是在 <FONT color=#a82424>几十年前金龙将还是宝玉状态的她封印起来之前，</FONT> 她都没有出现过。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "纯血统龙怎么会毫无理由地被关那么长时间呢？<br>虽然被关着，但是怎么会在数十年前金龙找到那个地方的时候，一直都是宝玉的形态呢？<br>人类都不清楚这些故事。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>因为大家对龙都不了解嘛。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "是啊。对于已经不能算人类的我来说，曾经听到了各种各样的传闻……<br>这样的故事在人类世界不过是已经被遗忘的历史吧。<br><FONT color=#7e12d2>（摩卡露出了悲伤的笑容）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "根据传闻，沙漠龙扎卡德曾经使用<FONT color=#a82424>另一个名字</FONT>，和人类有过接触。<br>……你说不定能够探寻到她的记忆吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（探寻记忆……？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "是的，扎卡德的巢穴被打开时，她过去的记忆创造了叫<FONT color=#a82424>记忆</FONT>的门。如果打开那扇门……<br>就能看到过去被遗忘的记忆，全看你有没有兴趣去探寻了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我会考虑一下的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "第一扇门，在现在叫<FONT color=#a82424>伊戴尔基地</FONT>的地方。",
+      "answer": "",
+      "image": "qw_71.png"
+    },
+    {
+      "npc": "黑暗女神官摩卡",
+      "question": "记忆之门混合了过去和现在。希望你能不被门所迷惑。",
+      "answer": "",
+      "image": "qw_71.png"
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "ndnpc_Casius_qu_4277_01.ogg}<br>很快就要到达<FONT color=#a82424>沙漠龙巢穴</FONT>了。<br>加快脚步！",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "ndnpc_Casius_qu_4277_02.ogg}<br><FONT color=#a82424>阿依夏</FONT>……我从没想过要让她经受这样的痛苦。<br><FONT color=#7e12d2>（卡西乌斯摇摇头，似乎很难过）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "ndnpc_Casius_qu_4277_03.ogg}<br>嗯？你不知道<FONT color=#a82424>阿依夏</FONT>吗？<br>她是我忠诚的伙伴，是为我们的王国打下基础，在战场上征战的重要……<br><FONT color=#7e12d2>（卡西乌斯的话被打断了。他望向了飞船外面。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "ndnpc_Casius_qu_4277_04.ogg}<br>大家各就各位！<br>不要慌张，沉着应战！"
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "打得好。<br>总之，我们似乎先度过了一关。",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "ndnpc_Casius_qu_4277_05.ogg}<br>……我有种不好的预感。<br>我的直觉告诉我，要是不赶紧阻止我的士兵……<br>可能会发生无法挽回的错事。",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "ndnpc_Casius_qu_4277_06.ogg}<br>希望没事，这样就好了……<br><FONT color=#7e12d2>（骑士王卡西乌斯正忧郁地望着什么）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "受伤的精锐士兵",
+      "question": "呃……<br><FONT color=#7e12d2>（表情很痛苦，似乎受了重伤）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "受伤的精锐士兵",
+      "question": "国王陛下……<br><FONT color=#7e12d2>（士兵看向了骑士王卡西乌斯）</FONT><br>陛下……您来了啊！咳……将，将军的话是正确的……",
+      "answer": ""
+    },
+    {
+      "npc": "受伤的精锐士兵",
+      "question": "将军大人和宰相大人一直感到非常担心。<br>百姓们要是知道陛下和龙联手，一定会造反的。",
+      "answer": ""
+    },
+    {
+      "npc": "受伤的精锐士兵",
+      "question": "国王陛下，那女人……我看见那女人了。<br>那女人是个怪物。怪物……不，她是个魔物！",
+      "answer": ""
+    },
+    {
+      "npc": "受伤的精锐士兵",
+      "question": "国王陛下……请你一定要杀死那个魔物……咳……<br><FONT color=#7e12d2>（精锐士兵带着被痛苦折磨殆尽的表情，闭上了眼睛）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "阿依夏……<br><FONT color=#7e12d2>（骑士王卡西乌斯脸上写满了担忧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "ndnpc_Casius_qu_4278_06.ogg}<br>看来阿依夏以为我是来带兵消灭她的啊。<br>也是……看到这个样子，她也只能这么想了。<br><FONT color=#7e12d2>（卡西乌斯环顾四周，苦笑了一下）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "ndnpc_Casius_qu_4278_07.ogg}<br>我觉得自己长时间以来都把她当做同甘共苦的同伴。<br>但似乎我并没有给她足够的信心。",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "ndnpc_Casius_qu_4278_08.ogg}<br>我很同情我那些死去的士兵们……但她的愤怒更让我感到难过，我该怎么办？",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "ndnpc_Casius_qu_4278_09.ogg}<br>……你能再相信我这个愚蠢的王一次，跟我来吗？<br>我想见阿依夏。<br>等我见到阿依夏，和她好好说明，肯定就能解除误会的。",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "ndnpc_Casius_qu_4278_10.ogg}<br>我不能就这样失去她。<br><FONT color=#7e12d2>（卡西乌斯咬住了嘴唇）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "骑士王卡西乌斯",
+      "question": "阿依夏，你就不能相信我吗？<br>我对你……<br><br><FONT color=#7e12d2>（听到了卡西乌斯低沉的声音）</FONT>",
+      "answer": ""
+    }
+  ]
+}

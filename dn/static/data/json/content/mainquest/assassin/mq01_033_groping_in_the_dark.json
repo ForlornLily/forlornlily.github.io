@@ -1,0 +1,302 @@
+{
+  "qkname": "暗中摸索",
+  "data": [
+    {
+      "npc": "村长海洛德",
+      "question": "啊，你见到那个姑娘了吗？<br>现在好像完全康复了。太好了。",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "嗯？你手上的东西……<br>\n<FONT color=#7e12d2>(海洛德看到在古代神殿遗址获得的东西之后，眯起了眼睛)</FONT><br>这个是……！",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "这是…… 红色印章。<br>\n是魔物的纹章碎片。我问过纹章学者，据说这是<FONT color=#a82424>牛头怪翁拉克</FONT>的纹章。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "有冒险家发现了剩余的部分，他们追着牛头怪翁拉克到<FONT color=#a82424>墓穴</FONT>去了，但是已经过去了很久……<br>到现在都没有消息。",
+      "answer": "",
+      "image": "qw_3.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "唉……不知道萝丝怎么样了……<br>\n<FONT color=#7e12d2>(海洛德擦了擦眼角)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "冒险家。你能搜集到印章碎片，看来你的实力真的很强。<br>\n虽然我已经拜托了其他冒险家，不过能多一份力量总是好的。你能帮我去寻找孙女吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是那个被兽人劫持的孙女吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "原，原来如此。<br><FONT color=#7e12d2>(海洛德垂下了头，好像很失望)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(我现在连自己所处的情况都不清楚。<br>到危险的地方去寻找被劫持的女孩，好像不适合我这样的人去做。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "好吧，我也不能勉为其难……<br>\n如果你要到<FONT color=#a82424>墓穴</FONT>附近去，希望你能帮我找找看。",
+      "answer": "",
+      "image": "qw_3.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": "",
+      "image": "qw_3.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……所以呢？现在你想去哪儿？",
+      "answer": ""
+    },
+    {
+      "npc": "红发少女",
+      "question": "\n哎呀！你怎么在这种地方？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……所以呢？现在你想去哪儿？",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "再见。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(现在最要紧的是到狂风森林去，和那个叫露娜莉娅的女人想想接下去该怎么办。<br>被劫持的女孩……虽然很可怜，但有其他冒险家在找她。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……所以呢？现在你想去哪儿？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "嗯？你接受了村长的委托？<br>嗯，原来如此。<br>\n他的孙女被人劫持啦。所以呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>名字好像叫萝丝。<br>那个女孩好像被劫持到了墓穴中，你能追踪到她的痕迹吗？<br>虽然我拒绝了……</FONT>",
+      "answer": "",
+      "image": "qw_3.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n原来如此。<br>\n你拒绝啦。<br>\n……所以呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎么说呢？我有种奇怪的感觉……</FONT><br>\n<FONT color=#662500>当然，我不会战斗，不过我体内的那个家伙不是会战斗吗？</FONT><br>\n",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "所以呢？<br><FONT color=#7e12d2>(露娜莉娅用毫无感情的眼神盯着我)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>所以我想……去看看……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "啊，是吗？<br>去看看。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>去……去了之后如果不行，就逃走。先去看看再说！<br>我真的只是去看看！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "是吗？原来只是去看看啊。<br>\n所以呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你欠我一个人请，总不好意思坐视不管吧。<br>……如果遇到什么问题，你就穿越时空，带我逃走。</FONT><br>\n",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n我？……我还没办法运用自如。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(那你到底会什么啊……？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你要到墓穴去，对吧？<br>再见。",
+      "answer": "",
+      "image": "qw_3.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你也要一起去，你也去。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "<FONT color=#7e12d2>(突然有个陌生的少女出现。</FONT><br>\n<FONT color=#7e12d2>少女看到{user_nick}之后，一脸吃惊的表情)</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "红发少女",
+      "question": "嗯？你怎么会在这里？<br><FONT color=#7e12d2>(少女一脸吃惊的表情)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这句话应该由我来说才对……<br>向你这样的小孩子来这么危险的地方干什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "我叫<FONT color=#a82424>萝丝</FONT>。<br>如果没有魔物的印章，就无法解开入口处的陷阱，所以没有我的话，村里人是没办法到这里来的。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "不知道怎么回事，只要和我在一起，陷阱就会自动解除，所以可以很容易地进来。<br><FONT color=#7e12d2>(萝丝笑了笑)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？等等，你说你叫萝丝？<br>你是普雷利镇村长被劫持的孙女？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "\n嗯？劫持？不知道你到底在说些什么……<br>\n喂，你没事吧？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "啊，对不起。<br>\n我好像又<FONT color=#a82424>穿越时间</FONT>了。<br>\n",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "你是……？<br><FONT color=#7e12d2>(萝丝睁大眼睛盯着露娜莉娅)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "我感觉到了……某种奇怪的气息。<br>黑色的火焰……各种生物……我这是在做白日梦吗？<br><FONT color=#7e12d2>(萝丝皱起了眉头)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你在说什么啊？<br>喂，虽然不太清楚是怎么回事，不过我们最好快点离开这里……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "在昨晚的梦里，我看到了一只跟<FONT color=#a82424>黑色的大鸟</FONT>一样的东西。那只鸟张开翅膀的时候，我……<br>\n<FONT color=#7e12d2>(萝丝的声音变得模糊起来。周围开始扭曲，就像掺入了杂音一样)</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "<FONT color=#7e12d2>(没办法听清楚声音了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "嗯……<br>\n我稍微穿越了一点时间。<br>好像没有太大的误差。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>原来是这样，露娜莉娅。</FONT><br>\n<FONT color=#662500>我知道你是在胡乱穿越时间，你能不能想办法给我发信号呢？</FONT><br>\n",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>基本上来说，改变的只有时间。<br>周围的东西没有变化。</FONT><br>\n<FONT color=#662500>我根本不知道穿越了时间。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "啊，我明白你的意思了。<br>好的。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "穿越时间的时候可以听到的东西……你是说某种特殊的声音吗？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "如果你需要，我可以给你发信号。<br>.……也可能不发。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……我怎么会和这种奇怪的女人扯上关系的……)</FONT><br>\n",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(总之我没有重新见到萝丝，见到的只是她过去的样子罢了……</FONT><br>\n<FONT color=#662500>要回去向村长海洛德 报告吗？)</FONT><br>\n",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "要回去啦。<br>回到普雷利镇。",
+      "answer": "",
+      "image": "qw_prairietown.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "哦，冒险家！<br>不久前有其他冒险家回来，说萝丝从墓穴中逃了出来。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "但是有点奇怪。<br>\n<FONT color=#7e12d2>(海洛德歪了歪脑袋)</FONT>",
+      "answer": "",
+      "image": "qw_3.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "真是奇怪。<br>\n如果她真的逃出来了的话，现在应该已经回来了才对。情况真是让人摸不着头脑。",
+      "answer": ""
+    }
+  ]
+}

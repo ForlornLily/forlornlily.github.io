@@ -1,0 +1,117 @@
+{
+  "qkname": "命运的少女",
+  "data": [
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "<FONT color=#a82424>提摩西</FONT>的尸身……由我们来处理，<br>既然守护了自己喜欢的少女……这家伙应该也死而无憾了……",
+      "answer": ""
+    },
+    {
+      "npc": "自卫团长史蒂夫",
+      "question": "你觉得之后应该怎么办呢？",
+      "answer": "我会去追踪怪物，把萝丝救回来。"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "你愿意去吗？<br>根据报告，劫持萝丝的 <FONT color=#a82424>红色鹰身人情妇</FONT>是从遥远的 <FONT color=#a82424>水晶谷</FONT>方向飞来的。",
+      "answer": "",
+      "image": "qw_cristalstream.png"
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "要想穿过水晶谷，就必须穿过寨子，所以……<br>要有通行证。<br>我会给你 <FONT color=#a82424>水晶谷通行证</FONT>，你带着它前往那里吧。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "我对冒险家给予的帮助表示衷心的感谢。<br>出发之前，你最好去见一下 <FONT color=#a82424>村长海洛德</FONT>。<br>我……该准备提摩西的葬礼了。",
+      "answer": "",
+      "image": "qn_elder_harold.png"
+    },
+    {
+      "npc": "自卫团长史蒂夫",
+      "question": "<FONT color=#a82424>水晶谷</FONT>是怪物们聚集的地方，他们对 <FONT color=#a82424>凯德拉关卡</FONT>虎视眈眈。听说他们和附近的怪物不同，行动很有组织，所以非常危险。",
+      "answer": "",
+      "image": "qw_cristalstream.png"
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "先去霜风森林周边和我们自卫团长一起训练之后再出发怎么样？<br><FONT color=#7e12d2>（必须达到9级以上才能继续进行）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，<FONT color=#a82424>自卫团长史蒂夫</FONT>正在等你。咳咳咳咳……",
+      "answer": "",
+      "image": "qn_guard_steave.png"
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "出发之前，你最好去见一下<FONT color=#a82424>村长海洛德</FONT>。",
+      "answer": "",
+      "image": "qn_elder_harold.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "你来啦……<FONT color=#a82424>萝丝</FONT>和<FONT color=#a82424>提摩西</FONT>咳咳咳咳……<br>提摩西为了萝丝而牺牲了，这所有的一切都是因为我的一念之差而起，我的心情很沉重。",
+      "answer": "",
+      "image": "qn_guard_timose.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "是啊。这所有的一切都是因为我的贪心……<br>\n<FONT color=#7e12d2>（海洛德长叹一口气）</FONT>",
+      "answer": "",
+      "image": "qn_guard_timose.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "<FONT color=#a82424>萝丝</FONT>是个不寻常的孩子……<br>\n因为她具有很久都未曾出现过的<FONT color=#a94407>读梦者</FONT>的能力……",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "<FONT color=#a82424>读梦者</FONT>，根据传说，是指具有一种能够看到别人梦境的能力的人。<br>\n据说这种能力达到最高境界的人甚至可以看到<FONT color=#a94407>女神阿尔泰亚</FONT>的梦境。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "\n那孩子也被称为先知……也许就是因此，怪物们才把萝丝劫持的。<br>\n一定是早就知道她的特别之处了。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "现在只能是想想了。我曾多么希望她能平凡地长大呀……<br>\n看来我的愿望太奢侈了。咳咳咳咳……",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "早知如此，还不如接受 <FONT color=#a82424>神圣天堂王城</FONT>或者 <FONT color=#a82424>特拉玛依教团</FONT>的保护，虽然会被利用，但至少生命不会受到怪物的威胁……",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "你能为一个未曾谋面的孩子出这么大的力……让我非常感谢。咳咳咳咳……<br>\n为了报答<FONT color=#387206>{user_nick} </FONT>你，我们村子和自卫团已经准备了礼物……<br>\n希望你能为我们带来帮助。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "请一定要救出萝丝。<br>拜托了……",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "qkname": "魔兽涌来",
+  "data": [
+    {
+      "npc": "诺尔佩",
+      "question": "嗯……果然不出我所料。这也可以理解。但正如<FONT color=#387206>{user_nick}</FONT>所说，梅尔卡被纳入查尔德的领地并不是解决问题的根本办法。",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "海兰德尔那边十分可疑。",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "<FONT color=#7e12d2>(莉卡一动不动地站着。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝勒尼卡",
+      "question": "\n我还是不敢相信自己的眼睛。不敢相信你回来了……",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "既然贝勒尼卡大人已经接受反女神派的提议了，那我也会全力支援。之所以把查尔德作为守城对象，是因为拉达梅斯人经验太丰富了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>有什么需要我来做吗？请尽管吩咐吧！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "……啊，这么看来<FONT color=#a82424>莉卡</FONT>还在卡伊伦岛进行遗物调查。查尔德海兰德尔一旦知道梅尔卡不再是中立国，一定会有所行动。",
+      "answer": "",
+      "image": "qn_salica.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "眼下情况危急，最好赶快把这件事通知<FONT color=#a82424>莉</FONT><FONT color=#a82424>卡</FONT>，让她来梅尔卡的心脏帮忙。",
+      "answer": "",
+      "image": "qn_salica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了，我快去快回。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "夏利卡",
+      "question": "最后还是回来了……",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "<FONT color=#a82424>莉卡</FONT>应该正在<FONT color=#086171>卡伊伦海岸</FONT>调查。一路小心。",
+      "answer": "",
+      "image": "qw_125.png"
+    },
+    {
+      "npc": "莉卡",
+      "question": "<FONT color=#7e12d2>(莉卡一动不动地站着)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>莉卡！原来你在这。卡伊伦岛早晚会有危险，你还是快跟我回梅尔卡的心脏吧！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "……<br><FONT color=#7e12d2>(莉卡依然一动不动)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……？莉卡？你还好吧？莉卡！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡的声音",
+      "question": "嗯？<FONT color=#387206>{user_nick}</FONT>，为什么突然来找我？",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡?",
+      "question": "<FONT color=#7e12d2>(又出现一个莉卡！跟新出现的莉卡说句话吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……？！？？？两个莉卡？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "ndnpc_Salica_9806_qu_01.ogg}<br>哈哈哈哈，你也上当了吧？刚刚那是伪装成我的全息。这是诺尔佩帮我制作的，很棒吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>吓我一跳……！难怪一动不动……不过全息是怎么回事……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "最近氛围有些不对劲，为了以防万一，我特意带来做诱饵。<br>可能是因为最近卡伊伦岛出现了新的查尔德。看似跟海兰德尔并不是敌对关系，但具体是什么关系，我也不清楚。",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "是一个长相美丽的女性查尔德，虽然对海兰德尔十分恭敬，但貌似并不是其手下……说不定是从南边来的查尔德。据格里高利所说，南部地区有一位司令官，虽然力量不够雄厚，但手下有许多貌美机灵的查尔德。",
+      "answer": "",
+      "image": "qn_kasmina.png"
+    },
+    {
+      "npc": "莉卡",
+      "question": "据说严重威胁拉达梅斯的查尔德玛蒙也是那个司令官的手下。嗯……看来司令官之间也是互助互利的关系。总之目前卡伊伦岛就是这种情况。你打听到了什么？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我认为这件事似乎跟梅尔卡心脏发生的事有关。目前梅尔卡已经变成了查尔德的猎场……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "<FONT color=#7e12d2>(莉卡扬起眉毛)</FONT>梅尔卡市国怎么了？你跟我说仔细点。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(告知莉卡有关梅尔卡解除中立宣言的消息以及贝勒尼卡的对策)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "<FONT color=#7e12d2>(莉卡顿时一脸凝重)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>虽然不知道莉卡你发生了什么事，但现在卡伊伦岛很危险。不如你跟我一起返回梅尔卡市国商量下一步对策吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "<FONT color=#7e12d2>(莉卡苦恼半晌，最后点点头)</FONT><br>……好，不能再耽搁了。<br>我们走吧。出发前往<FONT color=#a82424>梅尔卡的心脏</FONT>。",
+      "answer": "",
+      "image": "qw_merca_heart.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……？莉卡怎么在这……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝勒尼卡",
+      "question": "<FONT color=#7e12d2>(莉卡和贝勒尼卡并肩站在一起)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(气氛有些微妙……)你们俩个……难道认识？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "ndnpc_Salica_9806_qu_02.ogg}<br>是我来晚了，贝勒尼卡！虽然早就听说了这里的消息，但亲自回来一看，感觉却有些不同。这期间梅尔卡的心脏一点都没变。",
+      "answer": ""
+    },
+    {
+      "npc": "贝勒尼卡",
+      "question": "ndnpc_Vernicka_9806_qu_01.ogg}<br>……这只是表面。抱歉，没能在夏利卡大人回来之前守住梅尔卡市国……我很惭愧……",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "ndnpc_Salica_9806_qu_03.ogg}<br>别这么说，我丢下这里不闻不问，岂不是罪过更大。是我回来得太迟了。要不是你，这里早就沦陷了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……？？？等等……！难道莉卡……贝勒尼卡大人所说的“她”就是……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝勒尼卡",
+      "question": "<FONT color=#7e12d2>(贝勒尼卡连忙制止)</FONT>你小点声……！",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "哈哈哈，我还是第一次看见贝勒尼卡如此惊慌！看来我猜对了。",
+      "answer": ""
+    },
+    {
+      "npc": "贝勒尼卡",
+      "question": "ndnpc_Vernicka_9806_qu_02.ogg}<br>……这位是前梅尔卡市国首长的千金，现任梅尔卡的首长夏利卡大人。我不过是夏利卡大人的代理人。",
+      "answer": ""
+    },
+    {
+      "npc": "夏利卡",
+      "question": "ndnpc_Salica_9806_qu_04.ogg}<br>这只是贝勒尼卡个人的想法，我只是市国首长的女儿罢了。希望你能如常对待我。<br>贝勒尼卡，你也够了。不是说好父亲不在我们就以平辈相称吗？",
+      "answer": ""
+    },
+    {
+      "npc": "贝勒尼卡",
+      "question": "那时候已经跟您说过了，您是我的救命恩人，基本的礼仪还是要遵守的，夏利卡大人。所以……",
+      "answer": ""
+    },
+    {
+      "npc": "夏利卡",
+      "question": "我之所以帮你，让你担任市国首长，全是因为贝勒尼卡你确实值得我这么做。贝勒尼卡，你和我是平等的。并不是主仆关系，所以把“您”字去掉吧。",
+      "answer": ""
+    },
+    {
+      "npc": "贝勒尼卡",
+      "question": "ndnpc_Vernicka_9806_qu_03.ogg}<br><FONT color=#7e12d2>(贝勒尼卡没有回答，而是一边摇头一边叹气)</FONT>您的性格还是没变。不，你还是老样子……夏利卡。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个……我有点搞蒙了……慢着，那夏利卡为什么一直在梅尔卡外面旅行呢？原来市国首长一职不是应由夏利卡接手吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务完成",
+      "answer": ""
+    },
+    {
+      "npc": "夏利卡",
+      "question": "嗯，我正打算说这件事。",
+      "answer": ""
+    }
+  ]
+}

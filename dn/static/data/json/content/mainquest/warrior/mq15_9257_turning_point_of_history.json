@@ -1,0 +1,394 @@
+{
+  "qkname": "历史的转折点",
+  "data": [
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "嗯？什么？<br>\n<FONT color=#7e12d2>（述说期间发生的事情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "有什么事吗？",
+      "answer": "",
+      "image": "qm_jasmin_black.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>百合花被消灭了。</FONT>",
+      "answer": "",
+      "image": "qm_jasmin_black.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "……什么……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个……（娓娓道来）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": ".……啊？是真的吗！？你说真的吗？你是说百合花他们原本在泰尔罗萨入口的<FONT color=#a82424>百合花远征基地</FONT>那里，你和柯梅里纳用尽全力将他们消灭了？！！？",
+      "answer": "",
+      "image": "qw_81.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（看来她好像很难相信）是的。</FONT>",
+      "answer": "",
+      "image": "qw_81.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "……不对不对！拥有踏平一座城市力量的百合花怎么会那么不堪一击？ ",
+      "answer": "",
+      "image": "qm_jasmin_black.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是真的啦，还有这个。（拿出宝玉）</FONT>",
+      "answer": "",
+      "image": "qm_jasmin_black.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "啊，天哪！这是巨龙宝玉？<br>那么，是真的……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我早就说过了嘛。（把柯梅里纳说的话告诉她）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "哈哈，手上拿着这么确凿的证据，也没理由不相信你了。太了不起了，<FONT color=#387206>{user_nick}</FONT>。居然连百合花都能消灭掉……",
+      "answer": "",
+      "image": "qm_jasmin_black.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "这件事由我来向上头报告吧。在大家都人心惶惶的时候，这件事情的结束终于可以让大家安心了。还有你那块宝玉……你打算怎么用？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也觉得很苦恼。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "……我建议你呢，去见见特拉玛依。<br>尽管我很讨厌牧师，但他毕竟参加过黑龙之战，<br>对宝玉应该了解的很多。",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（听上去的确如此）</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "贝思柯德……他的状态怎么会变成这样……<br><FONT color=#7e12d2>（可以在神圣天堂的高级魔法师斯泰拉那里领取任务。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "额……<br><FONT color=#7e12d2>（看上去很痛苦）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "唉……怎么会发生这种事情……<br><FONT color=#7e12d2>（可以在神圣天堂的高级魔法师斯泰拉那里领取任务。）</FONT>",
+      "answer": "",
+      "image": "qn_npc_soceressstella.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "你真是时不时就给我制造点惊喜啊。<br>虽然这件事不会广为流传，<br>但你确实立下了很大功劳，这点不会改变。辛苦了。<br><FONT color=#7e12d2>（请去找王城的特拉玛依）</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "啊，是你啊！我正好要找你呢……<br><FONT color=#7e12d2>（特拉玛依脸色苍白）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>出了什么事吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "……不要惊讶，好好听我说吧……贝思柯德的老化速度要比想象中还要快。这样下去不知道他还能撑多久……最长可能也就几天吧。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你说什么？</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "他的状态突然变得很糟糕，我连采取措施的时间都没有。尽管我怀疑他是不是又遭到了攻击，但正如你所了解的贝思柯德一样……那家伙是绝对不会老老实实说出真相的。<FONT color=#7e12d2>（特拉玛依轻轻地叹了一口气）</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你毕竟也算是贝思柯德的熟人。<br>……趁还来得及，去见他一下吧。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "……尽管我也算不上是和他关系多么好的同僚，但终归是同僚，除了安慰他，我什么都做不了……我觉得好无能为力。你快去见见他吧……<br><FONT color=#7e12d2>（请去王城地下寻找贝思柯德）</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "额啊……<br><FONT color=#7e12d2>（贝思柯德露出了十分痛苦的表情。旁边柯梅里纳的表情也十分焦急）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>柯梅里纳？你怎么会在这里……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "小鬼，你和那个小家伙认识吗……？她老是在我身边说些废话，我听得都烦死了……唉。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "你，你的状态怎么变得这么差啊……？历史上可没这么说啊！到底发生了什么事？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(历史上没有？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "烦死了……<br>额……不用你们管。这不关你们的事。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>（柯梅里纳十分惊讶）</FONT><br>怎，怎么办呢……如果不采取什么措施的话，再这样下去，贝思柯德……<br>那个，<FONT color=#387206>{user_nick}</FONT>，如果你现在还带着宝玉的话……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>柯梅里纳……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "如果继续这样下去的话……我们就会失去守卫未来的唯一英雄……真是太可怕了……尽管我也知道历史可能会有所改变，但真不敢想象会发生这般变化……所以我只好厚着脸皮……拜托你……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……（还是……当务之急是拯救贝思柯德）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "从刚才开始就不得安宁。<br>我的命和你们有什么关系？和你们一点关系都没有。赶紧滚！",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "有关系！",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "什么……？<br>\n<FONT color=#7e12d2>（柯梅里纳开始说起有关未来和未来英雄的事情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "哈哈哈……你说我是未来唯一的英雄？<br>哈哈哈！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这件事并不可笑！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#387206>{user_nick}</FONT>……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>柯梅里纳到现在费了多大的劲！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "别白费心思了。未来的那个家伙和我不是一个人！<br>我丝毫没有再次成为英雄的想法。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "贝思柯德……拜托了。我已经回不去未来了。<br>……如果连现在的贝思柯德都守护不了的话，我……担心连仅存的希望也会化为泡影。未来的消亡……将无人能够阻止……",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "......<br>\n<FONT color=#7e12d2>（他的表情难以捉摸）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……那你别后悔。<br>如果我重拾力量的话……<br>不一定会站着你们这一边。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "我没问题。只要贝思柯德你能活下去……<br>我相信你。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#2b2723>柯梅里纳……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "…………",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……这个债……我一定会还。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>（把古代龙的宝玉放到了贝思柯德的面前。</FONT><br><FONT color=#7e12d2>宝玉开始发出灿烂的光）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "啊……怎么会这样？<br><FONT color=#7e12d2>（脸色苍白，和贝思柯德对话）</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#7e12d2>（把古代龙的宝玉放到了贝思柯德的面前。</FONT><FONT color=#2b2723><br></FONT><FONT color=#7e12d2>宝玉开始发出灿烂的光）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "好温暖的光。但是，这种感觉…… </FONT><br>\n<FONT color=#7e12d2>（贝思柯德看上去比之前平静了很多）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……太，太好了……贝思柯德……呜，呜呜呜，抽泣……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>柯梅里纳……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "吵死了……快滚出去。 ",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "呵，呵……抽泣……<FONT color=#387206>{user_nick}</FONT>，太感谢你了……<br>我们在百合花远征基地见面吧……我还有话要对你说……  ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了，我们在那里见吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……呜呼。<br><FONT color=#7e12d2>（看上去状态比刚才好多了。先去找王城的泰兰斯·特拉玛依，告诉他贝思柯德已经恢复的消息吧） </FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "嗯……他怎么样了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，那个……他恢复了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "什么？？？昨天看他都还快死的样子？这究竟是怎么回事？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……（这个要怎么说明呢）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "尽，尽管历史被修改了……呃，<br>太显眼好像不太好，<br>我们在百合花远征基地见吧。<br><FONT color=#7e12d2>（请去找王城的泰兰斯·特拉玛依）</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "不，不对啊。贝思柯德那家伙肯定不会老老实实告诉你真相的……我得亲自去看看。对了，<FONT color=#a82424>高级魔法师斯泰拉</FONT>好像正在找你，去看看吧。",
+      "answer": "",
+      "image": "qn_npc_soceressstella.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "好吧，事情怎么样了？",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "\n<FONT color=#7e12d2>（述说期间发生的事情）</FONT><br>嗯……在柯梅里纳的判断下，将宝玉给了某个人？柯梅里纳来自未来，且她是个善良的孩子……她肯定不会交给胡作非为的人吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（希望如此）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "对了，我让你来的原因不是别的，是想让你去做个调查。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>调查？</FONT>",
+      "answer": ""
+    }
+  ]
+}

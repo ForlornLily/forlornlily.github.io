@@ -1,0 +1,189 @@
+{
+  "qkname": "断绝后顾之忧的方法",
+  "data": [
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_06.ogg}<br>那就别去管萨芬特拉，反正它最终还是会复活的。<br>你只要留意先知就行。",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "真是～王城里的人也没什么两样。<br>唠唠叨叨，贪图小利，没见过这么抠的。"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我发誓要守护神圣天堂。<br>\n如果按你所说，萨芬特拉真的复活，那这里就危险了。<br>如果发现有不好的苗头，我会采取措施的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那让我帮助你吧！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你？……即便你帮助我，我也不能告诉你通往<FONT color=#a82424>巨石碑</FONT>的路。<br>我绝不能那么做，即使我信任你，与你感情很深。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我只是想帮助你，不行吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "不是那样的。<FONT color=#7e12d2>（杰兰特陷入了沉默，他似乎很困惑）<br></FONT>……如果你所说属实，我们必须要尽快阻止萨芬特拉复活。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "起初，萨芬特拉是通过古代人的实验被制作出来的生命体。<br>如果主教真的想让它复活，他肯定会想办法获得<FONT color=#a82424>古代人的卷轴</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>古代人的卷轴？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "没错。因此，你先前往<FONT color=#a82424>枯叶森林爆炸地区</FONT>，找出古代人的卷轴。<br>那卷轴说不定在最为强大的魔物手中。",
+      "answer": "",
+      "image": "qw_41.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_08.ogg}<br>你就不要管萨芬特拉了，它最终还是会复活的。<br>你只要管好先知就行了，知道了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "郁闷~ 王城里的人也没什么特别的嘛。<br>烦人，我还以为能大捞一把，没想到也这么吝啬！",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你去<FONT color=#a82424>枯叶森林爆炸地区</FONT>寻找古代人的卷轴吧。<br>那卷轴说不定在最为强大的魔物手中。",
+      "answer": "",
+      "image": "qw_41.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "啊~ 这不是<FONT color=#387206>{user_nick}</FONT>小姐嘛~<br>你怎么会在这里啊？啊！！！我知道啦！！<br>\n……是不是这附近有什么值钱的东西？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不，不是那样的……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "嗯？你是来寻找<FONT color=#a82424>古代人的卷轴</FONT>的？！<br>为什么，你也是受主教之托来寻找卷轴的？<br>嘿嘿~ 如果你问我买，我可以高价……哦不，低价！！卖给你。怎么样？",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不打算买。</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "……不买？<FONT color=#7e12d2>（安杰利卡明显很失望）<br></FONT>切，那几个奖励不值几个钱，我真的要去领取吗？<br>唉~ 都当了主教了，怎么还这么小气啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不能相信主教。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "他说要净化神圣天堂，因此正在搜集这卷轴。<br>你说<FONT color=#a82424>主教</FONT>很可疑？<br>嗯~ 我也不太相信牧师，但……<br>想法积极点不是更好吗？或者，你说这话有根据吗？",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他打算复活萨芬特拉。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "所以~ 你有没有证据啊~<br>我当然想相信你，但如果想让我放弃我的财路，必须要给我证据啊。<br>我也是以我的名誉在做事。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个……虽然目前还没有，但……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "你看吧。我已经搜集到了受托收集的物品，为什么因为你毫无根据的一句话，我就放弃奖赏呢？<br>当然，我知道你拥有一个很神奇的机器。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰兰特也说要注意主教。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "这个……嗯。这个挺让人费心的。呃呃嗯~<br>那个~ 但实际上，<FONT color=#a82424>古代人的卷轴</FONT>不在我的手中！<br><FONT color=#7e12d2>（安杰利卡的样子似乎很抱歉）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "刚刚我和<FONT color=#a82424>伊桑</FONT>还有<FONT color=#a82424>西恩</FONT>……总之，我们大家是一起来的~<br>嘿嘿嘿，那些家伙已经先将卷轴拿走了。<br>现在大概已经交给<FONT color=#a82424>主教</FONT>了吧~",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎么会这样……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "我立刻回去打听下。你不要太过担心，不会有事的~<br>做这种事情对主教有什么好处？<br>所以你也快回去吧，快~",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……如果连古代人的卷轴也落入了他的手中，说不定正如你所说，他想复活萨芬特拉。我会留意主教的。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_02.ogg}<br>还有这样的事情？原来如此。<br>果然，所有的事情都按照记录上所记载的方向在发展！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我们该怎么办？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "我不是说了嘛？你不要管萨芬特拉的事情。<br>反正冒险家们会成功击退它的。<br>因此，你只要管好<FONT color=#a82424>先知</FONT>就行了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

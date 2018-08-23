@@ -1,0 +1,192 @@
+{
+  "qkname": "蓝发少年",
+  "data": [
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "<FONT color=#7e12d2>（贝勒尼卡陷入了沉思）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "如果格雷尔真的在那里过过饮食起居的生活，一定有人为他提供食物和衣服。也肯能是格雷尔偷的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>查尔德也需要持续吃东西吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9739_qu_01.ogg}<br>如果是普通的查尔德，即使不吃东西，也不会感到很难受或危及到生命。但格雷尔是突变，作为人类时的记忆更强，所以更加难以忍受饥饿。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，就像是没吃过的东西就从来都不想吃，而吃过的东西就会非常想吃一样。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9739_qu_02.ogg}<br>实际上，也是会有非常执着于人类食物的查尔德，由此可以推测，突变对于食欲的记忆会更强。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "总之，只要调查出格雷尔获得衣服和食物的途径，就有办法追踪到他现在的位置。",
+      "answer": ""
+    },
+    {
+      "npc": "可疑装置",
+      "question": "<FONT color=#7e12d2>（有一个不知用途，却可以感觉到奇怪气息的装置）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "调查官安瑟",
+      "question": "……………………",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "你去见见<FONT color=#a82424>艾普尔</FONT>吧。我最近正在训练他搜集情报，所以他可能会知道些什么……万一他不知道，可能就会有些麻烦了。哈哈。",
+      "answer": "",
+      "image": "qn_april.png"
+    },
+    {
+      "npc": "商人艾普尔",
+      "question": "你有什么事吗？<br><FONT color=#7e12d2>（转达贝勒尼卡的话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "商人艾普尔",
+      "question": "……你说贝勒尼卡大人让我去搜集情报？如果我不知道的话就会有麻烦？",
+      "answer": ""
+    },
+    {
+      "npc": "商人艾普尔",
+      "question": "我只想做个平凡的历史爱好者而已，不知怎么搞的竟然被贝勒尼卡大人发现，而且还在被安排接受间谍培训……？",
+      "answer": ""
+    },
+    {
+      "npc": "商人艾普尔",
+      "question": "我不知道为什么会变得麻烦，不过对于这件事，我幸好做了一些调查。",
+      "answer": ""
+    },
+    {
+      "npc": "商人艾普尔",
+      "question": "为了在特里亚死后管理<FONT color=#a82424>特里亚的领地</FONT>，<FONT color=#a82424>神圣艾达特帝国</FONT>向那里投入了新的兵力。但包括这些兵力在内，在留在<FONT color=#a82424>激战之荒地</FONT> 地区的驻军当中发生了盗窃事件。",
+      "answer": ""
+    },
+    {
+      "npc": "商人艾普尔",
+      "question": "听说在阻止那个疑似盗贼的人过程中，出现了 人员伤亡，还有人说在角落里出现了新的查尔德。",
+      "answer": ""
+    },
+    {
+      "npc": "商人艾普尔",
+      "question": "听说为了调查这次的事件，还派遣了一名下级查尔德作为调查官，前往扭曲的区域调查<FONT color=#a82424>逆行常胜地</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（调查官追赶的少年会是格雷尔吗？如果是中央派来的查尔德一定没见过我，所以应该不会有危险，不如去亲自见一见吧？） </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>（前往</FONT><FONT color=#a82424>逆行常胜地</FONT><FONT color=#662500>去见见调查官吧）</FONT>",
+      "answer": "",
+      "image": "qw_111.png"
+    },
+    {
+      "npc": "可疑装置",
+      "question": "<FONT color=#7e12d2>（有一个不知用途，却可以感觉到奇怪气息的装置）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（这装置不是和在扭曲的泉水见到的一样吗？到底是什么呢？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "可疑装置",
+      "question": "<FONT color=#7e12d2>（现在似乎没办法了解更多了，还是观察一下周围吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "调查官安瑟",
+      "question": "只有得到许可的人才能进入扭曲的区域。你是谁呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，我奉贝勒尼卡之命正在调查最近发生的盗窃事件。我听说盗贼好像到这里来了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "调查官安瑟",
+      "question": "<FONT color=#7e12d2>（调查官查看贝勒尼卡给的凭证）</FONT> 嗯，应该和我正在调查的盗贼是同一个人。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你能告诉我一下那人的衣着相貌吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "调查官安瑟",
+      "question": "一个",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（啊……这个人原来是</FONT><FONT color=#a82424>查尔德</FONT><FONT color=#662500>。竟然把像我这样的普通人当成虫子）<br>还是先来完成贝勒尼卡吩咐的事吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "调查官安瑟",
+      "question": "哼。那个蓝色毒蛇至少已经到了畜生的级别，那我就破个例，把你要找那人的衣着相貌告诉你吧。",
+      "answer": ""
+    },
+    {
+      "npc": "调查官安瑟",
+      "question": "他是个<FONT color=#a82424>蓝发少年</FONT>。而且既然把我这个查尔德派了来，说明他很有可能是新产生的查尔德。",
+      "answer": ""
+    },
+    {
+      "npc": "调查官安瑟",
+      "question": "如果你非要参与进来，那纯粹是飞蛾扑火。",
+      "answer": ""
+    },
+    {
+      "npc": "调查官安瑟",
+      "question": "总之那个盗贼不在这里，我打算去别的地方找找了。你小子就不要白费力了，还是回到那条蓝色毒蛇那里，该干嘛干嘛去吧。",
+      "answer": ""
+    },
+    {
+      "npc": "调查官安瑟",
+      "question": "<FONT color=#7e12d2>（面带漠不关心的表情，看样子是不想继续交谈了。</FONT>回到<FONT color=#a82424>贝勒尼卡</FONT><FONT color=#7e12d2>那里吧）</FONT>",
+      "answer": "",
+      "image": "qn_vernicka.png"
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "……你说查尔德调查官似乎在追踪可能是<FONT color=#a82424>格雷尔</FONT>的<FONT color=#a82424>蓝发少年</FONT>？这事可麻烦了。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "不过至少我们可以知道格雷尔现在不在<FONT color=#a82424>逆行常胜地</FONT>。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "作为藏身处，还是扭曲的区域比较合适，也就是会把最开始发现的<FONT color=#a82424>扭曲的泉水</FONT>当做根据地喽。",
+      "answer": ""
+    }
+  ]
+}

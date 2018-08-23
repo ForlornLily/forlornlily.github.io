@@ -1,0 +1,214 @@
+{
+  "qkname": "一个篮子里的鸡蛋",
+  "data": [
+    {
+      "npc": "将军道格拉斯",
+      "question": "我收到了报告，说金发剑客追踪黑骑士，进入了黑暗领地守备队据点。<br>我们掌握的情报还不够，没办法派遣大规模部队到那里去。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "不过在冒险家公会的协助下，我们获得了一部分内部地图。我们已经派出了侦察队，应该很快就能进入内部。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(当时正在赫尔马岱港口和魔法师安杰利卡对话。</FONT><br>\n<FONT color=#662500>要先说完话，然后再过来吗？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "希望能尽快救出先知，让大家都过上幸福的生活！哈哈！！",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你要和那边的魔法师说话，对吧？<br>明白了。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n加油～！<br>\n我会在后面看着你的～呵呵呵～",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "我接到的委托，是到<FONT color=#a82424>江下游废墟</FONT>去。<br>去那里寻找某样东西。<br>\n贵族小姐在这种非常时期提出这种无聊的委托，虽然有点看不顺眼，不过……",
+      "answer": "",
+      "image": "qw_32.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "嗯？寻找什么东西？呵呵呵呵～这件事由我安杰利卡来负责。<br>你只要帮我消灭<FONT color=#a82424>{monster913}</FONT>就行了。",
+      "answer": "",
+      "image": "qw_32.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n好了，我们快到<FONT color=#a82424>江下游废墟</FONT>去吧。<br>\n你在前面开路～",
+      "answer": "",
+      "image": "qw_32.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "唉～谢谢你，委托终于顺利完成了。<br>只要回去报告就行了，呵呵呵～",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "不知道伊桑那家伙接受了什么委托，到哪里去了，连个鬼影子都见不到。<br>真实的……他说被逐出了教团，没想到还甘愿被<FONT color=#a82424>教团</FONT>使唤。",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "所以我才看不惯那些牧师！<br>\n可能是因为一出生就是公子哥，脑袋转不过弯来，真是无药可救。<br><FONT color=#7e12d2>(安杰利卡在那里唠唠叨叨)</FONT>",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "……不过看在他陪我从魔法山脊一路来到这里的份上，我就宽宏大量地原谅他了。<br>在这个世界上，必须互相帮助才能活下去。不是吗？这也算是缘分。",
+      "answer": "",
+      "image": "qw_manaridge.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(缘分……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "其他冒险家也一样。嗯……好不容易大家为了同一个目的聚集在一起，要是大家能分享情报，互相鼓励，那该多好。<br>既可以减少受伤的概率，同时也让自己有个依靠。你也是因为这个，才和<FONT color=#a82424>那个姑娘</FONT>在一起的吗？",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "就是那个一直和你在一起的姑娘……虽然我不知道她的名字。<br><FONT color=#7e12d2>(安杰利卡耸了耸肩)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "她不是你的<FONT color=#a82424>同伴</FONT>吗？应该好好待她。<br>不过总是两个人在一起太累了，需要的话，我可以让她加入进来。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "我不是说马上就得那样做。我们的首要任务是追踪<FONT color=#a82424>黑骑士</FONT>。先回去看看情况再说吧～<br>我和其他冒险家们约好在<FONT color=#a82424>黑山山角</FONT>见面。你也一起去吗？",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "啊，我还有同伴……",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "啊，没错，你还有那个姑娘，对吧？<br>你要到<FONT color=#a82424>赫尔马岱港口</FONT>去，回到那个姑娘的身边～真是个本分的男人，呵呵呵。<br>\n那么下次再见吧～",
+      "answer": "",
+      "image": "qw_hermalteport.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "\n嗯？<FONT color=#a82424>赫尔马岱港口</FONT>的事情结束了吗？<br>\n在我看来，好像还没结束。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n错了！你搞错说话对象了！<br>\n不是我，你应该去和那个和你同行的姑娘说话吧？",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "追踪黑骑士？<br>嗯……明白了。那你一个人去吧。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "和我？<br><FONT color=#387206>{user_nick}</FONT>，我说过了……和其他人一起的时候如果穿越了时间，会让你很为难的。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "如果你担心离开之后我会消失，那就尽管放心好了。<br>这个世界上没有比你与我更接近的人类。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是的……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "同伴？<br>……你和我？<br><FONT color=#7e12d2>(露娜莉娅一脸迷茫)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "搭档？嗯……是吗？你和我是因为目的相同，所以才会在一起，不是吗？<br>因为我们共同拥有别人难以理解的秘密。<br>\n只是因为这个而已。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我一直一个人生活。<br>……在超出你想象的漫长岁月中。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "所以不要用你的标准来判断。<br>\n不要担心。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不过，我想了想……怎么说呢……</FONT><br>\n<FONT color=#662500>露娜莉娅，你也不是自己喜欢才这样的，不是吗？你和我都一样，都是身不由己。/FONT><br>\n<FONT color=#662500>我们的境遇是相同的……所以……嗯……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你是想说……我们是<FONT color=#a82424>同类</FONT>吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，没错，差不多吧。<br>我和你就像是一个篮子里的鸡蛋。所以……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "所以你想让我<FONT color=#a82424>一起去</FONT>……<br>是吗？<br>\n明白了。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我们要到<FONT color=#a82424>黑山山角</FONT>去，对吧？<br>你在前面带路吧。",
+      "answer": "",
+      "image": "qw_skirtofblackmountain.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "在出发之前，还有一件事。如果你在神圣天堂还有别的事，就先去一趟。<br>\n我有一种感觉，我们可能没办法那么快回来。<br>\n……不过我的感觉也许是错的。",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "嗯？<FONT color=#387206>{user_nick}</FONT>！<br>看来魔法师安杰利卡说的没错，你也来啦！",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "将军道格拉斯把精锐士兵派了过去。其他冒险家也出发了。我刚打算过去呢。<br><FONT color=#387206>{user_nick}</FONT>，你也快点吧！",
+      "answer": ""
+    }
+  ]
+}

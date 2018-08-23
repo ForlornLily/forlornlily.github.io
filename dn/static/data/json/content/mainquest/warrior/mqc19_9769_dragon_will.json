@@ -1,0 +1,131 @@
+{
+  "qkname": "龙之意",
+  "data": [
+    {
+      "npc": "艾瑞斯",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，卢比纳特比你想象的更强。",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "拉达梅斯没事。这好像有点奇怪……",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "艾瑞斯不能详细解释到底发生了什么事。不过全息诺尔佩可以为你进行详细说明。",
+      "answer": "",
+      "image": "qn_hologram.png"
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，请稍等一下。为什么拉达梅斯没出什么事……我也不太清楚。<br>我正在等待管理保护膜装置的机械兵的消息。",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "<FONT color=#7e12d2>（过了一会儿，诺尔佩前面出现了复杂的文字，然后消失了）</FONT> <br>原来如此……<FONT color=#387206>{user_nick}</FONT>，卢比纳特确实来到了拉达梅斯附近。但不知道那时的卢比纳特是否是清醒的。",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "ndnpc_Hologram_Nophee_9769_qu_01.ogg}<br>不过，可以确定的是，他在保护膜前面扭转了方向。<br>卢比纳特……一定知道。如果他来到拉达梅斯，一定会对拉达梅斯的人造成生命威胁……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>为了保护所有人……那么，卢比纳特往哪里去了呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "<FONT color=#a82424>红色荒地。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格里高利见到卢比纳特的地方也是在红色荒地。他为什么总是去那边呢……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "因为那里有我们建造的安全屋。啊，之前为什么没有多留意<FONT color=#a82424> 红色荒地</FONT>呢？卢比纳特一定是在潜意识中想到有安全屋的地方去，<FONT color=#2b2723>所以才会到那里去的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "\n城堡盗贼团团长可爱吗？诺尔佩可爱吗？",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "我失算了。<FONT color=#387206>{user_nick}</FONT>，在查尔德们把卢比纳特带走之前，我们必须先找到卢比纳特。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "巫女……艾达特帝国的巫女竟然会亲自过来。真是没想到。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>刚才那个女人是</FONT><FONT color=#7e12d2>维斯提内的巫女</FONT><FONT color=#662500>吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "是的，可能是知道了卢比纳特在什么地方，所以亲自过来了。<FONT color=#387206>{user_nick}</FONT>，我必须尽快回到<FONT color=#a82424>拉达梅斯</FONT>去了解一下情况。",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你为什么那么悲伤呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>艾瑞斯！！维斯提内的巫女把卢比纳特带走了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "ndnpc_Iris_9769_qu_01.ogg}<br>没错。是<FONT color=#a94407>皮媞亚</FONT>带走的。她应该是听了卢比哥哥的故事之后感到好奇，所以就过来了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我没能保护好卢比纳特。卢比纳特……卢比纳特直到最后都努力想保持理性…… </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，没关系。现在……还没关系。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>？？没关系？那是什么意思？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "艾瑞斯有东西要给你看。在这里艾瑞斯找不到可以走的路。我们在<FONT color=#a82424>拉达梅斯</FONT>见吧。",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "至于诺尔佩那边，艾瑞斯以后会告诉他的。所以别担心。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你认为卢比哥哥的心崩溃了吗？<br><br><FONT color=#7e12d2>※在组队状态下无法执行的任务。</FONT>",
+      "answer": "",
+      "image": "qn_npc_rubinat.png"
+    }
+  ]
+}

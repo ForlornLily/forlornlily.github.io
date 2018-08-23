@@ -1,0 +1,70 @@
+{
+  "qkname": "失踪的少女Ⅰ",
+  "data": [
+    {
+      "npc": "村长海洛德",
+      "question": "哦哦，让我感激不尽的<FONT color=#387206>{user_class} </FONT>……",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "是救回莉莉的年轻人啊。真是太谢谢你了。<br>真不知道该如何报答你的大恩大德……咳咳咳……",
+      "answer": "",
+      "image": "qn_lily.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>发生什么事了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "初次见面不知道该不该说这些话...<br>其实..最近村民失踪的奇怪的事情经常发生.",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "所以我已经禁止村民外出了，可是孙女们已经在村外发生了不测。<br>\n多亏了年轻人你，莉莉才能化险为夷，可是<FONT color=#a82424>萝丝</FONT>已经被怪物抓走了，这该如何是好……",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "冒险家你在救莉莉的时候捡到的这个……<br>\n<FONT color=#a82424>萝丝的吊坠</FONT>……我嘱咐过她一定要一直把它戴在身上……<br>呜呜……箩……萝丝……",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "虽然卫兵史蒂夫已经率人去寻找萝丝了……可是似乎没那么容易。<br>咳咳咳……不过还是有成果的。他们发现萝丝好像被带到阴影森林山麓的方向了。",
+      "answer": "",
+      "image": "qn_guard_steave.png"
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "为了找到被劫持的萝丝，每个自卫团员都很卖力。<br>一定能有消息的……",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "冒险家，拜托你了。<br>为了我这个老头子和那个孩子，请再帮忙找找萝丝吧？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "哦……善良的人啊！<br>真是太感谢你了。请一定要找到萝丝呀……",
+      "answer": "",
+      "image": "qn_rose.png"
+    }
+  ]
+}

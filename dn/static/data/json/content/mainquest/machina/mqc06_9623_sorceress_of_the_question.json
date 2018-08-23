@@ -1,0 +1,189 @@
+{
+  "qkname": "可疑的魔法师",
+  "data": [
+    {
+      "npc": "小龙",
+      "question": "<FONT color=#387206>{user_nick}</FONT>！原来你在这儿啊。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "好吧，从哪里开始呢。<br><FONT color=#a82424>卡拉秋</FONT>一定会说是我背叛了<FONT color=#a82424>佩奥里斯塔</FONT>。<br>不过，事实并非如此。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "恰恰相反，是佩奥里斯塔辜负了我，每一代佩奥里斯塔的继承人都是女人，这是因为女人在秘传魔法上都有着卓越的才能。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个，我对你们的对话不感兴趣，请赶快把治疗方法告诉我吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "没想到你还挺心急的嘛。<br>我刚刚所说的，只不过是我伟大的冒险故事的开端。嗯，治疗的方法很简单。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "使用三种药材制作成治疗药，就能中和他们体内的毒素。第一种药材就是<FONT color=#a82424>丛林水芹</FONT>。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那剩下的两样呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "嗯，剩下的两种药材我已经想好了，但为了慎重起见，我还需要再确认一下。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>该不会是要使用原住民的血吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "原住民的血？啊啊，看来你是在说虚假净化。哈哈哈，伟大的我是不会做那种事的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那你知道有什么药物可以治疗我的手臂吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "嗯哈哈哈哈哈哈哈，这是由于坠落在附近的陨石造成的吗？和龙的血液一起，现在一共有三种力量在你的体内发生作用，虽然现在看起来还无大碍，但日后会怎么样，我就不敢保证了。怎么样？我伟大的力量！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你一眼就看出来这是由于陨石造成的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "伟大的我无所不知。虽然这种症状并不常见，但对于你的手臂，我可以好好研究下。",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "你最近因为卡拉秋那边的事，好像挺忙的！曾经的卡拉秋是个大美女。50多年前可是我的理想型呢！<br>\n<FONT color=#7e12d2>（前往利物沃特码头吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "可疑的魔法师",
+      "question": "教授所说的丛林水芹生长的地域应该就是这里吧……<FONT color=#7e12d2>（蓝塔娜晃了晃头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "现在得先净化察提族人的毒。<br><FONT color=#a82424>丛林水芹</FONT>可以从<FONT color=#a82424>利物沃特村庄废墟</FONT>搜集到。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "可疑的魔法师",
+      "question": "嘎啊啊啊啊啊啊啊，你的手臂……莫非！？！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊……你是！！<br>我记起你来了。你就是救了我们，还为我们治疗的那个人，对吧？？我正在找你呢！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "可疑的魔法师",
+      "question": "哎呀？<br><FONT color=#7e12d2>（原本想要匆忙离开的魔法师停住了脚步）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>留在研究室的人都还好吗？听说……和我一起离开的人全都死了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "可疑的魔法师",
+      "question": "ndnpc_Lantana_9523_qu_01.ogg}<br>研究室？啊，你是说教授的实验室吧。其他的人在教授和我蓝塔娜的指导下都很安全。<br>呼，莫非你也是乘坐在那艘飞艇上的兽人？他们的病情最严重，能活到现在已经很不容易了。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师蓝塔娜",
+      "question": "我也听说飞艇坠落了。红色商团方面说，原住民没有到达，所以不能支付费用，为此教授可是为难了好长一段时间呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？费用？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师蓝塔娜",
+      "question": "哈哈哈哈，我是说治疗费用。不过你手臂上的污染竟然没有扩散到整个身体，很不寻常啊。<br>发生什么事了吗？<FONT color=#7e12d2>（魔法师蓝塔娜拿出一本笔记）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（把这段时间发生的事情告诉了对方）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师蓝塔娜",
+      "question": "ndnpc_Lantana_9523_qu_02.ogg}<br><FONT color=#7e12d2>（蓝塔娜记录完兽娘说的内容后叹了口气。)</FONT><br>你说的这种拳法真是太有趣了。而且谢谢你告诉我有人在打我们实验室的主意。这事如果被教授知道了，他一定会很担心的……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也可以前往实验室吗？我还想再见见村庄里的人。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师蓝塔娜",
+      "question": "ndnpc_Lantana_9523_qu_03.ogg}<br>让那些在打实验室主意的人把你带走，是很危险的。教授和我会努力治好其他人的，你不必担心。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师蓝塔娜",
+      "question": "我今天出来目的也是为了采集用于治疗他们的丛林水芹。这段时间，我可能会一直需要采集丛林水芹。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我想把今天见到你的事告诉师父！他一定会非常高兴的！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师蓝塔娜",
+      "question": "ndnpc_Lantana_9523_qu_04.ogg}<br><FONT color=#7e12d2>（蓝塔娜眨巴眨巴眼睛）</FONT>你可以告诉他，也欢迎他来找我。能够抑制陨石力量的拳法……应该很有价值。相信教授也一定会喜欢的。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师蓝塔娜",
+      "question": "我现在得去为教授搜集黑灰蘑菇了。如果你想再见到我，就到<FONT color=#a82424>古代武器库的东边</FONT>来吧。<br><FONT color=#7e12d2>（先去告诉小龙自己见到蓝塔娜的事吧）</FONT>",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "你最近怎么一直在忙卡拉秋和西戴尔的事？<br>师父我呢，这段时间为了见到莫林遇到过的魔法师，可以说是想尽了一切办法。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个魔法师……我已经见到了。</FONT>",
+      "answer": ""
+    }
+  ]
+}

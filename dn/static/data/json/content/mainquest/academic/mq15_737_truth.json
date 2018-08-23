@@ -1,0 +1,187 @@
+{
+  "qkname": "靠近真相",
+  "data": [
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "还有，<FONT color=#387206>{user_nick}</FONT>。<FONT color=#a82424>安杰利卡</FONT>让我转告你去她那一趟。<br>\n<br>※ <FONT color=#7e12d2>需要在学徒站台那里接受任务才能继续进行。</FONT>",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>网络不稳定。</FONT><br>▷ <FONT color=#7e12d2>重新设置Mission Object。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>Mission Object.</FONT><br>▷ <FONT color=#7e12d2>请和卡拉秋·佩奥里斯塔对话吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "还有，<FONT color=#387206>{user_nick}</FONT>。<FONT color=#a82424>安杰利卡</FONT>让你去找她。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃……安杰利卡吗……？（我不怎么想见到她啊……）</FONT>",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "嗯，她让你去<FONT color=#a82424>古代武器库的东边</FONT>。<br>安杰利卡，那孩子天资聪慧，如果她肯付出自己天资一半程度的努力，说不定她就是下一代佩奥里斯塔的继承者……啧啧。",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "什么啊，你又来啦？<br>你刚刚怎么不打招呼就走了！<br><br>※ <FONT color=#7e12d2>请和卡拉秋·佩奥里斯塔对话。</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "安杰利卡那个混世魔王说想要见见你。<br>她让你去<FONT color=#a82424>古代武器库的东边</FONT>，你去见见她吧。",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "<FONT color=#387206>{user_nick}</FONT>！你为什么这么晚才来？！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡拉秋跟我说了之后，我就立刻赶过来了。你找我有什么事情？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "我只是有些烦心，也没有人陪我说话，所以就喊你来了。<br>不知道<FONT color=#a82424>伊桑</FONT>那家伙从哪里听说了什么，表情一直那么臭，我都不敢跟他说话。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……你是因为无聊才喊我来的？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "话是没错。<br>唉，卡拉秋总是在烦我！<br>她让我跟西戴尔一起接受教育啊什么的……唉，西戴尔那家伙的年纪比我小很多，让我跟那个小家伙一起上课，这像话吗？",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "搞什么啊，你那副表情？难道我说错话了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "哼~！我以为跟你谈谈，我会开心点，没想到越说越生气！<br>哎咦！<br><FONT color=#7e12d2>（安杰利卡抢走了旧通讯器）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！你干什么啊？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "直到你认可我说的话没错之前，我是不会还给你的。<br>不过，这个……好像跟之前那个看上去不太一样啊？<br>难道这是按照复古风重新设计的？<br><FONT color=#7e12d2>（安杰利卡随意按着通信机上的按键，警报声响了）</FONT>",
+      "answer": "（安杰利卡抢走通讯器）"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "噢？那东西好像坏了！肯定是因为你不爱惜，它才会出故障的吧？<br>我可什么都没做。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你刚刚明明乱按了一通！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "XD-24的记录",
+      "question": "<FONT color=#7e12d2>（通讯器画面上出现了文字）</FONT><br><FONT color=#086171>你所知道的一切都是虚构的。如果想知道事实，那就来找我。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "什么啊，还好端端的？切……<br>不过，<FONT color=#387206>{user_nick}</FONT>。你知道这是什么吗？<br>这是我在古代图书馆捡到的，但我不知道它的用处。<br><FONT color=#7e12d2>（安杰利卡拿出了某样东西）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>噢……？这是内存币……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "嗯？你知道这东西啊？这是什么啊？很贵吗？<br>我不知道这东西的用处，就低价卖给了<FONT color=#a82424>洛西塔</FONT>……这东西很贵吗？！",
+      "answer": "",
+      "image": "qn_npc_lucita.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是的，这东西没什么用处。所以，你就把它给我吧。</FONT>",
+      "answer": "",
+      "image": "qn_npc_lucita.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "什么……？不要！这个肯定很贵吧？对吧？！<br>\n<FONT color=#7e12d2>（从安杰利卡那里将内存币抢了过来）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "什……什么？！<FONT color=#387206>{user_nick}</FONT>，快交出来！呀~！<br><FONT color=#7e12d2>（连接通讯器，读取内存币）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "XD-04的记录",
+      "question": "<FONT color=#086171>机器因故障而迫降。幸好与预计达到的年代相差并不远。</FONT><br><FONT color=#086171>先知即将诞生。找到先知后，立刻寻找返回的方法。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "XD-04的记录",
+      "question": "<FONT color=#086171>未能成功将先知弄到手。</FONT><br><FONT color=#086171>不能就此放弃任务，移动到凯德拉关卡。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#387206>（这个肯定是多次来到这里的调查员的记录……调查员的任务不是测试天启的性能，而是找到萝丝。姐姐为什么要对我说谎呢……？难道有很多调查员都来到了这个地方吗……我得去找洛西塔，确认下剩余的内存币）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "<FONT color=#387206>{user_nick}</FONT>~！快把我的东西交出来？！！<br><br>※ <FONT color=#7e12d2>必须完成所有的2次转职任务，才能进行下一阶段的主线任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>（这是以前的调查员遗留的记录。和她的事情已经告一段落，没必要继续调查内存币了）</FONT><br><br>※ <FONT color=#7e12d2>已完成2次转职任务。请去找西戴尔，进行主线任务吧。</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "<FONT color=#387206>{user_nick}</FONT>~！快把我的东西交出来？！！<br><br>※ <FONT color=#7e12d2>完成1次转职任务后，才能进行2次转职任务和主线任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "<FONT color=#387206>{user_nick}</FONT>~！快把我的东西交出来？！！<br>※ <FONT color=#7e12d2>角色等级达到44级以上后，可进行2次转职任务。必须完成转职任务，才能进行下一阶段的任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "<FONT color=#387206>{user_nick}</FONT>~！快把我的东西交出来？！！<br>※ <FONT color=#7e12d2>正在执行的任务过多，无法领取2次转职任务。请在任务栏中留出空格后，再去莲花沼泽的学者站台，领取2次转职任务吧。</FONT>",
+      "answer": ""
+    }
+  ]
+}

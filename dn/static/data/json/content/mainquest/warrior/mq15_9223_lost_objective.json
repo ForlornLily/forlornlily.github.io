@@ -1,0 +1,190 @@
+{
+  "qkname": "失去光芒的目标 ",
+  "data": [
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "使徒的目标是贝思柯德的宝玉……。<br>他应该是得手之后，便立刻离开的。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "等我给贝思柯德配好药之后，我随后就去。<br>你先到<FONT color=#a82424>受到蚕食的神殿废墟</FONT>去，阻止巴尔纳，不要让他离开那里。",
+      "answer": "",
+      "image": "qw_62.png"
+    },
+    {
+      "npc": "兰伯特",
+      "question": "真让我失望，巴尔纳……<br>这就是我追求了好久的人的模样吗……",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "真让我失望，巴尔纳……<br>这就是我追求了好久的人的模样吗……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>父亲……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，好久不见了。<br>没想到这么早就和你见面了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这是怎么回事？巴尔纳怎么会……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "呵呵……<br>这段时间没有偷懒不修炼吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>父亲，究竟……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "你没有忘记我给你说过的话吧？<br>你会成为超越巴尔纳的英雄。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你的确这么说过。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "巴尔纳是我的老师，也是我的对手。<br>我是从他那里学习的武艺，但是由于志向不合，便离开了他。<br>但是，我是巴尔纳的弟子这一名号，却要跟我一辈子。",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "我不愿意你也生活在巴尔纳的阴影下。<br>我希望你能超越巴尔纳，不断证明自己的能力。",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "变得强大吧，不择手段的变强大吧。<br>必须要强大得超越巴尔纳。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我到底为什么要变得强大呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "为了你自己。<br>也为了所有你守护着的人。<br>还有……为了你没用的父亲……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>父亲……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "<FONT color=#7e12d2>(兰伯特拍着你的肩膀)<br></FONT>好了，到了该说再见的时候了。<br>希望你以后能比现在更努力的修炼。<br>我相信你能够坚持下去的。",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "真让我失望，巴尔纳……<br>这就是我追求了好久的人的模样吗……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你就是……上次见过的……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "啊……你就是上次见过的那个小姑娘啊。<br>我对你早就有所耳闻了，嗯，听说你最近很活跃啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你来这里有什么事吗？巴尔纳怎么会……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "嗯……这算是个人的私事吧。<br>反正今后我们还会见面的，现在先分手吧。",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "真让我失望，巴尔纳……<br>这就是我追求了好久的人的模样吗……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你是谁？ 巴尔纳怎么会……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "你就是 <FONT color=#387206>{user_nick}</FONT>吧。<br>我对你早就有所耳闻了，听说你最近很活跃啊。",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "\n尽管我们好不容易才见面，但今天就到这里吧。<br>\n期待与你的下次见面。",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "你看上去好脸熟，<br>你居然能活到现在，看来你的命也是够硬的啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>使徒兰伯特！看我今天怎么收拾你！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "不要再进行无谓的反抗了。<br>你还不是能够提起我的兴趣的对象。",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "<FONT color=#7e12d2>(兰伯特转过头去，望着巴尔纳。回去找特拉玛依)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "嗯……？你现在应该刚出发才对啊，怎么这么快回来了？<br>\n难道，巴尔纳又消失了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是这样的……（说明情况）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#7e12d2>（泰兰斯·特拉玛依露出沉痛的表情）</FONT><br>终究……还是没能为巴尔纳做什么事……",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "但是，到底是谁打倒的巴尔纳呢……？<br>你对那个人还有印象吗？",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "好吧……我得动员神殿骑士们去为巴尔纳收尸了。<br>为了让沉睡的他不再受到打扰，我会把他安葬在修道院的深处。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "qkname": "未完成的使命",
+  "data": [
+    {
+      "npc": "卡汉拉的灵魂",
+      "question": "><FONT color=#387206>{user_nick}</FONT>, 你没事了啊，<br>感谢女神…",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>老师！到底发生了什么事？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "\n<FONT color=#7e12d2>(村长海洛德的脸上满是担忧的气色)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉的灵魂",
+      "question": "我们族人的村庄被龙之追随者们发现了。<br>\n也许他们就是在追踪命运之星时偶然发现我们的吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这究竟是……</FONT><br>\n<FONT color=#662500>龙之追随者们为什么会袭击我们村庄呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉的灵魂",
+      "question": "<FONT color=#7e12d2>(卡汉拉的灵魂的眼神里充满了怜悯之情)</FONT><br>现在说这件事有点为时过早。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉的灵魂",
+      "question": "可怜的<FONT color=#387206>{user_nick}</FONT>，现在你就是我们族人当中唯一的幸存者了。<br>只有你才能完成我们的使命。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉的灵魂",
+      "question": "你先到命运之星出现过的<FONT color=#a82424>普雷利镇</FONT>去吧。<br>找出那里的先知，并守护她。",
+      "answer": "",
+      "image": "qw_prairietown.png"
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "我…我要到这里面去…<br><FONT color=#7e12d2>(※要完成与普雷利镇村长海洛德的对话)</FONT>",
+      "answer": "",
+      "image": "qn_elder_harold.png"
+    },
+    {
+      "npc": "卡汉拉的灵魂",
+      "question": "我在这里感觉到了熟悉的气息。",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "你看上去好面生，既然是客人，我理应好好招待，但现在实在是没有功夫…咳咳。",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "前几天，我的孙女被兽人绑架了。<br>有很多冒险家现在都在忙着去寻找她的下落，可到现在都没有消息。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>您有没有见过一颗奇妙的星星？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "奇…奇妙的星星？<br><FONT color=#a94407>先知之星</FONT>是不存在的。啊，这…<br><FONT color=#7e12d2>(村长海洛德好像在后悔说了不该说的)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（我可没说过关于先知的事情啊？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "\n总，总之很抱歉。<br>\n好不容易来了位客人，我都没能好好招待…<br>\n<FONT color=#7e12d2>(村长海洛德有点惊慌失措，肯定在隐瞒着什么)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "嗯？！你想帮我找回孙女？<br>\n天啊天啊……<br>\n我看你也挺忙的，不用这么麻烦了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我在不久前，也失去了家人。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "<FONT color=#7e12d2>(村长海洛德的脸上浮出安心与怜悯的表情)</FONT><br>世上果然还有温情在啊。<br>愿女神的祝福与你同在。我的孙女<FONT color=#a82424>萝丝</FONT>是在<FONT color=#a82424>阴影森林山麓</FONT>失踪的",
+      "answer": "",
+      "image": "qw_1.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "<FONT color=#a82424>阴影森林山麓</FONT>那里有为了寻找萝丝而去的<FONT color=#a82424>卫兵提摩西</FONT>。<br>说不定那个年轻人查到了什么。",
+      "answer": "",
+      "image": "qn_guard_timose.png"
+    },
+    {
+      "question": "<FONT color=#7e12d2>（</FONT>按下<FONT color=#387206>[H]</FONT><FONT color=#7e12d2>键，就会弹出操作向导窗口。</FONT><br>按下<FONT color=#387206>[Ctrl]</FONT><FONT color=#7e12d2>键，便会显示鼠标指针。</FONT><br><FONT color=#7e12d2>再按一次的话，则会恢复原来的界面）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "你… 你是什么人。<br>\n啊哈，是村长拜托你来…来的？原，原来如此。",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "我，我在寻找萝丝。<br>萝丝是村…村长的孙…孙女。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>哦哦，你找她就因为这个原因？</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "<FONT color=#7e12d2>(卫兵提摩西的脸变红了)</FONT><br>箩…萝丝是唯…唯一没有欺负……我的人。",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "这，这里很危险……女孩子不应该只身到这里来。<br>回…回去吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>不用担心。</FONT><br>\n<FONT color=#662500>我会照顾好自己的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "你…是冒险家？<br><FONT color=#7e12d2>(卫兵提摩西很开心)</FONT><br>我…一直在找萝丝，可找不到线…线索。<br>\n请…帮助我…寻找萝丝吧。",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "太…太好了。<br>我就查看这附近…你…你就查看那里面吧。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉的灵魂",
+      "question": "这里还残留着熟悉的气息。<br>不过<FONT color=#a94407>先知</FONT>好像已经被转移到其他地方去了。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "卡汉拉的灵魂",
+      "question": "龙之追随者们发现了我们<FONT color=#a94407>隐遁者村庄</FONT>。<br>\n也许是他们在追随先知的命运之星时发现我们的吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>看来失踪的村长孙女就是先知啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉的灵魂",
+      "question": "<FONT color=#7e12d2>(卡汉拉的灵魂好像露出了微笑) </FONT><br>你果然聪明，这样我也就放心了。<br>我恐怕不久就要离开这个世界了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>老师，我有一个疑问。</FONT><br>\n<FONT color=#662500>为什么要寻找先知呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉的灵魂",
+      "question": "是的，那是因为一个古老的约定。<br>而且，你也有充分的理由要寻找先知。<br>个中原因…对，等你找到了她，就会知道了。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉的灵魂",
+      "question": "你年纪还小，想到龙之追随者，自然会很愤怒。<br>\n你甚至连我的死都无法接受……<br>\n<FONT color=#7e12d2>(卡汉拉目光柔和地望向这里)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉的灵魂",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，不要轻举妄动。<br>现在以你自己一个人的力量，是不能对抗龙之追随者的。<br>现在最重要的就是完成使命。只要你能完成使命，那我们就可以永远活在你的身体里了。",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉的灵魂",
+      "question": "我聪明的徒弟，现在回到那个<FONT color=#a82424>普雷利镇</FONT>去吧。<br>那里会有一个人，可以把你和先知的缘分连接起来的。",
+      "answer": "",
+      "image": "qw_prairietown.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "<FONT color=#7e12d2>(村长看上去很失望)</FONT><br>……看你一个人回来，肯定还没找到我的孙女吧。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "…萝丝，可怜的小家伙。<br>\n她会不会正在某个地方独自哭泣……",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "mqc08_9523_amplitude_of_sorrow",
+    "name": "悲伤加深",
+    "qid": "9523",
+    "nextid": "9524",
+    "chapter": "8"
+  },
+  {
+    "id": "mqc08_9524_meet_the_prophet",
+    "name": "与先知会面",
+    "qid": "9524",
+    "nextid": "9525",
+    "chapter": "8"
+  },
+  {
+    "id": "mqc08_9525_corrupted_ruins",
+    "name": "损毁的遗迹",
+    "qid": "9525",
+    "nextid": "9526",
+    "chapter": "8"
+  },
+  {
+    "id": "mqc08_9526_mystery_swordman",
+    "name": "奇怪的剑士",
+    "qid": "9526",
+    "nextid": "9527",
+    "chapter": "8"
+  },
+  {
+    "id": "mqc08_9527_prophetic_omen",
+    "name": "预言的征兆",
+    "qid": "9527",
+    "nextid": "9528",
+    "chapter": "8"
+  },
+  {
+    "id": "mqc08_9528_traces_of_comrades",
+    "name": "战友的痕迹",
+    "qid": "9528",
+    "nextid": "9529",
+    "chapter": "8"
+  },
+  {
+    "id": "mqc08_9529_purification_failed",
+    "name": "失败的净化",
+    "qid": "9529",
+    "nextid": "9730",
+    "chapter": "8"
+  },
+  {
+    "id": "mqc08_9730_his_trace",
+    "name": "他的足迹，败北",
+    "qid": "9730",
+    "nextid": "9731",
+    "chapter": "8"
+  },
+  {
+    "id": "mqc08_9731_gain_power",
+    "name": "他手上掌控的力量",
+    "qid": "9731",
+    "nextid": "9732",
+    "chapter": "8"
+  },
+  {
+    "id": "mqc08_9732_otherside_of_hell",
+    "name": "地狱的那一头",
+    "qid": "9732",
+    "nextid": "",
+    "chapter": "8"
+  }
+]

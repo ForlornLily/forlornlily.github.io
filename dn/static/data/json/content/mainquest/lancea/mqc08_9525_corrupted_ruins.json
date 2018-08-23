@@ -1,0 +1,106 @@
+{
+  "qkname": "损毁的遗迹",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "<FONT color=#7e12d2>（埃提亚好像呆呆地睁着眼睛打瞌睡？！！跟她打招呼她也是呆呆地望着，仔细一看她好像在说梦话。她好像很累了，就让她休息，赶紧去</FONT><FONT color=#a82424>古代宝物仓库</FONT><FONT color=#7e12d2>看看吧）</FONT>",
+      "answer": "",
+      "image": "qw_57.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "那么，我们有机会再见吧……<br>一直以来折磨着我的这个力量……希望多少能帮到大家……",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "<FONT color=#7e12d2>（赶紧去</FONT><FONT color=#a82424>古代宝物仓库</FONT><FONT color=#7e12d2>确认古代人的遗物是否完好无恙）</FONT>",
+      "answer": "",
+      "image": "qw_57.png"
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（地面上分散着很多散发出一股奇异气息的碎石）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（碎块上雕刻着古代的纹样。好像是不久之前被破坏掉的）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你要去古代宝物仓库？好吧，那我们有机会再见吧。",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "你要去古代宝物仓库？不要做太危险的事情，事情完成后还要随时和埃提亚联络。知道吗？",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（卡拉翰好像达成了他的目的，然后消失了。先去找埃提亚，等待凯伊和特拉玛依的联络吧）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "快过来，姐姐。<br>我正好奇先知跟你说了什么呢。 ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（把遇到凯伊和</FONT><FONT color=#662500>特拉玛依、萝丝的事情以及卡拉翰破坏了遗迹的事情告诉埃提亚）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "果然……卡拉翰趁魔法师们忙于卡拉秋葬礼的时候，去破坏了遗迹。<br>但是，如果现在不去阻止他的话，<FONT color=#a82424>绿龙</FONT>就会复活了，姐姐。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真卑鄙！ <br>害死了卡拉秋还不够……真是个坏家伙！ </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "<FONT color=#a82424>西戴尔</FONT>正忙着葬礼的事情，必须把卡拉翰的恶行告诉他。<br>魔法师们如果不联合起来的话，是很难阻止卡拉翰的……毕竟西戴尔是下一任佩奥里斯塔的团长。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了！<br>我这就去找西戴尔，把卡拉翰的事情告诉他！</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐果然很可靠，嘻嘻嘻……<br>那你快去快回吧。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "欢迎你，<FONT color=#387206>{user_nick}</FONT>。<br>听说你向高级魔法师们传达了老师的讣告？非常感谢……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没什么，我只是做了我</FONT><FONT color=#662500>力所能及的事情……嘿嘿……<br>对了！现在不是说这个的时候！卡拉翰破坏了古代人宝物仓库的遗迹！</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "什么？卡拉翰已经破坏了遗物？！<br>我们还是晚了一步……这下可糟了……<br>……不过……你是怎么知道遗迹的事情的呢，<FONT color=#387206>{user_nick}</FONT>？",
+      "answer": ""
+    }
+  ]
+}

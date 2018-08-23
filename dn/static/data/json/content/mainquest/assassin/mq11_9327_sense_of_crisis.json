@@ -1,0 +1,141 @@
+{
+  "qkname": "危机感",
+  "data": [
+    {
+      "npc": "精锐士兵克林德",
+      "question": "萨芬特拉竟然出现了……真让人担心。<br>神圣天堂不会有事吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（现在必须集中精力调查从我体内分离出去的幻象带走露娜莉娅的事情。<br>到无名暴君之墓那边去看看吧。）</FONT><br><br><FONT color=#7e12d2>（* 组队状态下无法执行该任务）</FONT>",
+      "answer": "",
+      "image": "qw_44.png"
+    },
+    {
+      "npc": "暗影喵",
+      "question": "那个和你长得一模一样的家伙往无名暴君之墓那边跑掉了喵！<br>快点追过去吧喵！！<br><br><FONT color=#7e12d2>（* 组队状态下无法进行该任务）</FONT>",
+      "answer": "",
+      "image": "qw_44.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（不能操之过急。先冷静下吧。）</FONT><br>\n <br>\n<br>\n<FONT color=#7e12d2>（* 无名暴君之墓在黑山山角）</FONT><br><FONT color=#7e12d2>（* 组队状态下无法进行该任务）</FONT>",
+      "answer": "",
+      "image": "qw_44.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（不能抛弃同伴，独自前去。结束正在做的事情吧）</FONT><br>\n <br>\n<br>\n<FONT color=#7e12d2>（* 无名暴君之墓在黑山山角）</FONT><br><FONT color=#7e12d2>（* 组队状态下无法进行该任务）</FONT>",
+      "answer": "",
+      "image": "qw_44.png"
+    },
+    {
+      "question": " <br>\n<FONT color=#7e12d2>(她好像没办法说话)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "\n……",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "ndnpc_Illusion_qu_9327_01.ogg}<br>真是愚蠢。最终就像是将时间折叠了起来一样。<br>我的过去。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "ndnpc_Illusion_qu_9327_02.ogg}<br>你为什么不先担心你自己呢？<br>没想到能以这种方式重新获得身体。真是世事难料啊。",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "ndnpc_Illusion_qu_9327_03.ogg}<br>你也是这么想的吗，过去的<FONT color=#387206>{user_nick}</FONT>？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_qu_9327_01.ogg}<br>……<br><FONT color=#387206>{user_nick}</FONT>，快走！",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "ndnpc_Illusion_qu_9327_04.ogg}<br>……你尽管试试看！",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……你不是幻象，是真的<FONT color=#387206>{user_nick}</FONT>吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>到底是怎么回事？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "从赫尔马岱港口出来的时候，<FONT color=#a82424>幻象</FONT>突然出现了。<br>之前他都是在你体内操纵你……<br>\n这次却<FONT color=#a82424>分离</FONT>了出来。不知道是什么原因。",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "为了不把其他人卷进去，我试着穿越时间。<br>\n但是我不知道有没有成功。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "从你体内分离出来的幻象带着我来到了这里。<br>后来你就出现了……<br>\n之后的事情你也知道了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>到底是为什么……？</FONT><br>\n<FONT color=#662500>幻象不是在我体内吗？<br>为什么他会分离出来，获得了实体？</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "不知道。<br>也许是为了控制住他而使用的剧毒的副作用。<br>\n……也许不是。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……这样下去的话，幻象会怎么样呢？</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我也不知道。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "暂时他好像回到你体内了。<br>也许。",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅，我们快离开这里吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>应该到赫尔马岱港口去，看看冒险家们还在不在那里。</FONT>",
+      "answer": ""
+    }
+  ]
+}

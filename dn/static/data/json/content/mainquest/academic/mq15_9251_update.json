@@ -1,0 +1,107 @@
+{
+  "qkname": "实施更新",
+  "data": [
+    {
+      "npc": "学者站台",
+      "question": "- <FONT color=#a82424>ERROR</FONT><br>- <FONT color=#7e12d2>检测出致命错误。</FONT><br>- <FONT color=#7e12d2>系统无法正常启动。</FONT><br>- <FONT color=#7e12d2>服务相关问题请直接咨询客服中心。</FONT><FONT color=#7e12d2><br></FONT><FONT color=#086171>- Bellin Corporation. 客服中心   1588 - xxxx（24小时运营）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃……？怎么会这样？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "<FONT color=#7e12d2>（学者站台无法启动。</FONT><br><FONT color=#7e12d2>该怎么办？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "<FONT color=#7e12d2>（学者站台迸发出强烈的火焰！</FONT><br><FONT color=#7e12d2>但是，也没有任何效果）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "<FONT color=#7e12d2>（随着轰鸣之声，学者站台燃起了尘烟。</FONT><br><FONT color=#7e12d2>但是，也没有任何效果）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "<FONT color=#7e12d2>（被摄魂怪光束击中的学者站台产生了超负荷！</FONT><br><FONT color=#7e12d2>系统重新启动）</FONT><br>- <FONT color=#a82424>系统无法启动。</FONT><br>- <FONT color=#086171>需要更新为最新版本。</FONT>",
+      "answer": "（连接XD-28的通信器）"
+    },
+    {
+      "npc": "学者站台",
+      "question": "- <FONT color=#a82424>更新设备。</FONT><br>- <FONT color=#086171>请注意，更新过程中站台不得断电。</FONT><br>- ...<br>- ...<br>- ...",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "- <FONT color=#a82424>系统已经更新为最新版本。</FONT><br><FONT color=#7e12d2>（XD-28的通讯器出现了隐藏项目！）</FONT><br><br>- <FONT color=#086171>鸬鹚（隐藏文件夹）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "鸬鹚文件夹",
+      "question": "- <FONT color=#086171>阿尔特里亚生态研究报告.txt</FONT> （1,210,898KB）<br>- <FONT color=#086171>SOS 数学讲义.avi</FONT> （420,7258KB）<br>- <FONT color=#086171>柏林一言难尽的真实.mkv</FONT> （699,547KB）<br>- <FONT color=#086171>瓦尔基里项目.ppt</FONT> （5,823KB）<br><FONT color=#7e12d2>（先确认哪一项呢?）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "- <FONT color=#a82424>无法打开该文件。</FONT><br>- <FONT color=#7e12d2>文件损坏，或者扩展名错误。</FONT><br>- <FONT color=#7e12d2>相关服务问题请直接咨询客服中心。</FONT><FONT color=#7e12d2><br></FONT><FONT color=#086171>- Bellin Corporation. 客服中心 1588 - xxxx（24小时运营）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "<FONT color=#7e12d2>（连接紧急出动 SOS队的数学讲义）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "<FONT color=#7e12d2>（连接与柏林公司相关的无数非议疑惑、贪污腐败、阴谋论的记录影像）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "<FONT color=#7e12d2>（记录了百合花的侵略计划）</FONT><br>第1阶段. <FONT color=#a82424>项目：荒漠风暴</FONT><br>- <FONT color=#086171>利用K博士的研究资料使沙漠龙觉醒。</FONT><br>第2阶段. <FONT color=#a82424>瓦尔基里项目</FONT><br>- <FONT color=#086171>利用K博士制作的龙之宝玉批量生产瓦尔基里军队。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>瓦尔基里……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>（K博士生产的龙。</FONT><br><FONT color=#7e12d2>日志当中肯定是有相关内容的。</FONT><br><FONT color=#7e12d2>不过却没有想到会利用宝玉来生产……到底是……?）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（找一找其他办法吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（找一找其他办法吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "<FONT color=#662500>（要亲自确认一下才是。<br>百合花，我绝不会让你的诡计顺利得逞的！）</FONT><br><br>* <FONT color=#7e12d2>请移动至泰尔罗萨市区。</FONT>",
+      "answer": "",
+      "image": "qw_73.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（百合花劫持的那个小孩子肯定是……<br>...<br>...<br>小鸟... 没错，肯定是黛西！）</FONT>",
+      "answer": "",
+      "image": "qn_npc_daisy.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

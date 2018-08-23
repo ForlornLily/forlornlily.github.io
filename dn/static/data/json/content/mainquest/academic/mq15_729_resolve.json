@@ -1,0 +1,119 @@
+{
+  "qkname": "解答自己的好奇",
+  "data": [
+    {
+      "npc": "学者站台",
+      "question": "……请快点行动。做好准备……<br><FONT color=#7e12d2>（视频中的百合花忙碌地奔走着，然后确认了下屏幕）</FONT><br>……嗯？是<FONT color=#387206>{user_nick}</FONT>吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，姐姐，是我。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_02.ogg}<br>好久不见。<br>嗯，这段时间没发生什么事情吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，会议有结果了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "啊啊……目前还没有结论。<br>我正对在那之后的历史进行了整理，搜集先知和巨石碑的情报，但目前还没发现合适的时机。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这样啊……姐姐，数据中有没有卡拉翰这个人的记录啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "卡拉翰……？这个名字我好像听过……你等一下。<br><FONT color=#7e12d2>（百合花查阅着数据）</FONT><br>啊，找到了。<FONT color=#a82424>卡拉翰·佩奥里斯塔</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>佩奥里斯塔…?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "这上面说，卡拉翰是100多年前，作为男性继承佩奥里斯塔的天才秘传术士。不过，他在佩奥里斯塔魔法师团内部引起了一些问题，他离开魔法师团后，便无人知道他的行踪了。50年后，他又重新出现在了莲花沼泽。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>佩奥里斯塔，那他和卡拉秋是什么关系？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "记录上说，他是<FONT color=#a82424>卡拉秋</FONT>的<FONT color=#a82424>亲哥哥</FONT>。<br>卡拉翰的记录被从佩奥里斯塔中去除了，因此他的相关记录并不多。<br>不过，你为什么要询问卡拉翰的事情？<br>难道，卡拉翰出现在了莲花沼泽？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，我还有一个疑问。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "你说说看。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这个地方好像有个跟我类似的人。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "类似的人……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（说明事情原委）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "那个人与你相似的程度到了易混淆的地步？<br>那个人在盯着你……？<br><FONT color=#7e12d2>（百合花扶正了眼镜）</FONT><br>这个……嗯……难道那个人是曾被派去的<FONT color=#a82424>调查员</FONT>之一？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>调查员？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "嗯。公司方面为了测试天启的性能，掌握时间旅行的问题，曾经派调查员去过那里。<br>我想，他可能是联络中断的调查员之一……",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "总之，我们这边会尽量找出那个人。<br>那个人也可能会对你造成威胁，目前你还是尽量避开那个人吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_08.ogg}<br>想到你肩负了如此重任，我时常感到很惭愧。<br>就算你很累、很孤独，也要尽量忍耐啊。",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "qkname": "误会",
+  "data": [
+    {
+      "npc": "小龙",
+      "question": "哇咔咔咔，看吧。我说什么了！独臂拳法。是不是很厉害啊？？？ <br>我是独臂，所以才能学习这个拳法，我要为此感谢神明啊！",
+      "answer": ""
+    },
+    {
+      "npc": "自卫团长史蒂夫",
+      "question": "兽人为什么会在狂风森林附近转悠？<br>在这种所有村民都人心惶惶之时，你可别打坏主意。",
+      "answer": ""
+    },
+    {
+      "npc": "自卫团长提摩西",
+      "question": "箩丝……要找到箩丝。箩丝……",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "你怎么会来这儿？ 你问我怎么会在这儿呢？弟子可不能随便搀和师父的事情！昂！<br>我回村子里去了，到村子里再说吧！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……独臂拳法，对像我一样痛苦的村民们也会有效吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "ndnpc_Shaolung_9573_qu_01.ogg}<br>他们也是独臂吗？这套拳法只有独臂的人才能学习……<br>那你先把你同村的人带来吧！我先教教他们再说！<br>对了，在此之前，你找到他们了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没找到。但是…… （把飞艇雕塑给小龙看）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "ndnpc_Shaolung_9573_qu_02.ogg}<br>咔，这是什么？？啊，是飞艇碎片？这么说可以确定飞艇是坠落在阴影森林山麓了？？<br>但但在那儿你却没能找到你的同伴……<br>不会是躲到某个安全的地方了？",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "ndnpc_Shaolung_9573_qu_03.ogg}<br>对了，听说自卫团从飞艇上救回来一些人。<br>现在正闹哄哄地议论着，不知是把他们安全送往目的地还是送到神圣天堂去，也许自卫团团长知道你那些同伴到哪儿去了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那得问问自卫团长了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "ndnpc_Shaolung_9573_qu_04.ogg}<br>咔……嗬……你要直接去找自卫团团长……？？这……这么做好像有点危险……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>为什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "ndnpc_Shaolung_9573_qu_05.ogg}<br>你连通行证都没有，能行吗？<br>我劝你还是放弃这个念头……自卫团……自卫团团长可是非常严格的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>现在可是万分紧急的时候啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "ndnpc_Shaolung_9573_qu_06.ogg}<br>看来你真是不怕死啊！好吧，既然你认定了，我也不拦着你。<br>也许这次就是咱们的永别了，那就提前道个别吧。",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "自卫团长史蒂夫会来村里的。如果见到他，别提起我的事儿。昂！",
+      "answer": ""
+    },
+    {
+      "npc": "自卫团长史蒂夫 ",
+      "question": "嗯？你是……虽然抱歉，不过能请出示一下普雷利镇的通行证吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？为什么突然要这样？ </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "自卫团长史蒂夫 ",
+      "question": "没有通行证吗？<br>没有通行证的话，就得把你视为绑架消失的箩丝的嫌疑人了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>又是这样……我连箩丝长什么样都不知道啊？ </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "自卫团长史蒂夫 ",
+      "question": "请不要说谎！我听说有兽人在四处打听箩丝下落。<br>铁匠道林也那么说。 <FONT color=#387206>{user_nick}</FONT>突然出现在村子里，在寻找什么东西！ <br>在我对你使用武力之前，快点交代箩丝现在在哪里。",
+      "answer": ""
+    },
+    {
+      "npc": "自卫团长史蒂夫 ",
+      "question": "兽人来到普雷利镇的话，应该有特殊理由的通行证吧？<br>你……穿着打扮也很奇怪，要是不从实招来的话，就得让你去莲花沼泽尝点苦头了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（糟糕了。先逃跑，去向小龙寻求帮助吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "哼！你平安归来了啊。遇到自卫团长了吗？？他是个难以沟通又十分挑剔的家伙吧？<br>我这个厚脸皮跟这个村子里的人几乎都有交情，就只有那个自卫团长还是那么顽固啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他把我看成是绑架箩丝的犯人了！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "ndnpc_Shaolung_9573_qu_07.ogg}<br>这怎么会？？咔……<br>莫非……莫非他们知道了我拿着的这张通行证是假的？！？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没有，比起那个来，听说有兽人在寻找箩丝。<br>因为我是兽人……仅仅因为这个就在怀疑我。真是讨厌！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "ndnpc_Shaolung_9573_qu_08.ogg}<br>啊哈，原来是这样。那就没啥可担心的了。反正咱们也没劫持萝丝嘛？<br>自卫团的人又不是闲着没事做，抓无辜的人干什么？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>现在他们就是打算要抓我啊？<br>（向小龙指出那些正在嘀咕着看向这边的自卫团员）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "ndnpc_Shaolung_9573_qu_09.ogg}<br>什么？？？被逮捕之后就要接受审问……那我的通行证就会露馅……！<br>绝对不行。你先前往<FONT color=#a82424>狂风森林</FONT>避一避吧。等我想出对策之后再联系你！",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "先去<FONT color=#a82424>狂风森林</FONT>躲着！ <br>我来看看这究竟是怎么回事！ ",
+      "answer": "",
+      "image": "qw_windforest.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（相比这个人来说，自卫团长史蒂夫跑到这里来的事儿更让人在意。 <br>和自卫团长史蒂夫对话。）<br></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "自卫团长史蒂夫",
+      "question": "给我站住！居然逃到了这里…… <br>如果你是无辜的话，为什么要逃跑？？？现在请赶快交代箩丝的下落！ ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你，你怎么来到这里的？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "自卫团长史蒂夫",
+      "question": "在村里自卫团无所不在！特别是像你这么显眼的兽人到哪里，我都会收到通报的。 <br>绑架箩丝的罪犯，快交代箩丝的下落！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不是绑架犯！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "等……等下，团长。那个人不是坏……坏人。<br>我在阴影森林山麓陷入危机时，是他救了我……是我的救命恩人……<br>箩丝是被兽……兽人带走了。",
+      "answer": ""
+    },
+    {
+      "npc": "自卫团长史蒂夫",
+      "question": "提摩西……你没事啊！但是你在说什么啊？<br>箩丝被兽人带走了？ ",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "现……现在……现在不是抓无辜的人来审问的时候。<br>有那种时间的话，还不如赶快找到箩丝…… 箩丝。 <br>萝……箩丝被带……带到了墓穴里。",
+      "answer": ""
+    },
+    {
+      "npc": "自卫团长史蒂夫",
+      "question": "<FONT color=#7e12d2>（自卫团史蒂夫用怀疑的眼神打量后说）</FONT><br>就算是那样，这来意不明的兽人……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>拜托。你们先把我放在一边，赶紧去那个叫墓穴还是什么的地方吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "我……我，没办法进……进去。魔物们有标……标记，所以能……能通过，我没……没有标记。",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "红……红色印章。为了取……取得印章，我曾追着魔物们去过古代神殿遗址。<br>但……但是连一个碎片都没找到。",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "要是没找到红……红色印章的话没……没办发进入墓穴。<br>纹……纹章学者是那么说的。<br>要救，救出箩丝才行。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那么我能就此告辞吗？<br>那个什么纹章，请好好找找吧。我就先……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "<FONT color=#7e12d2>（卫兵提摩西抓住了 </FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#7e12d2>的手臂。）</FONT> 那……那……帮个忙！帮我们找到红……红色纹章！<br>找到红……红色纹章拿给纹章学者的话……<br>就能进入墓穴了！ ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也很忙！这里不是还有你的伙伴，自卫团的人嘛！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "自卫团长史蒂夫",
+      "question": "……说实话我们现在人手不足。要保护飞艇上剩下的难民，还得送到神圣天堂…… <br>我为之前的误会向你道歉。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<SPAN style=\"WHITE-SPACE normal; WORD-SPACING 0px; TEXT-TRANSFORM none; FLOAT none; COLOR rgb(68,68,68); TEXT-ALIGN left; FONT 12px/18px 돋움, Dotum, AppleGothic, sans-serif; DISPLAY inline !important; LETTER-SPACING normal; BACKGROUND-COLOR rgb(254,254,254); TEXT-INDENT 0px; -webkit-text-stroke-width 0px\"><FONT color=#662500>什么啊！突然就道歉的话……让人不知所措啊。</FONT></SPAN><br><FONT color=#662500>但是我要做的事也很多，不想去救连长什么样都不知道的人。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "必须要救箩丝……箩……箩丝！ 即使在现在这个时候，箩丝……！ <br>要找到红色纹章，把它交给纹章学者！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，真麻烦……好像要是我拒绝的话，你就要这么缠着我，我会帮忙的。</FONT><br><FONT color=#662500>只要找到红色纹章就行了吧？ </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "自卫团长史蒂夫",
+      "question": "那我就相信你会帮忙找到红色纹章，并把它交给纹章学者。<br>在 <FONT color=#a82424>古代神殿遗址</FONT>就能找到红色纹章。 ",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "红……红色纹章在 <FONT color=#a82424>古代神殿遗址</FONT>。"
+    },
+    {
+      "npc": "小龙",
+      "question": "<FONT color=#387206>{user_nick}</FONT>！我听说了你要来这里的消息了。 <br>我正要告诉你，我已经知道他们为什么要把你当做绑架箩丝的罪犯了！<br>原来他们听说在村子里有正在四处打听箩丝的下落的人。",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "普雷利镇的人都应该见过兽人吧？<br>自卫团听说有人打听箩丝下落的消息，他们就擅自把第一次见到的你当成了犯人啊。 <br>现在不用担心了！我已经用我卓越的口才确认了那个兽人的衣着相貌，知道了他和你长得完全不一样。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>人类真是没有眼力见啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "昂昂，人类就是那样！而且那个兽人！是男的~！和你性别就不一样。<br>身体健壮，有着豹子的耳朵……脸上和全身都有红色的纹身还是花纹什么的，但是你是女的，而且没有那样的纹身吧？昂昂昂。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>红色纹身？是他！让飞艇坠毁的兽人也有红色的纹身！ <br>难道……休利亚，是那家伙吗？？ </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "什么？休利亚?？<FONT color=#7e12d2>（小龙一下子跳了起来）</FONT> <br>真的是他吗？那么为什么要追着箩丝呢？？<br>总之你把原委告诉自卫团的话，就能洗清嫌疑了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我已经见过自卫团了。多亏在阴影森林遇到了提摩西，他误以为是我救了他……帮了大忙。<br>虽然解开了我是绑架箩丝犯人的误会，但是却要我去找什么红色纹章。真是麻烦……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "卫兵提摩西？啊，那个……口吃却又善良的朋友？？他为什么要找<FONT color=#a82424>红色纹章</FONT>呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他说要找箩丝的话，需要这个。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "箩丝？嗯……<FONT color=#387206>{user_nick}</FONT>。在我看来，你的仇人休利亚正在打听箩丝的下落，对吧？<br>那么要找箩丝的话，休利亚不会来见箩丝吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "找不到仇人的话，仇人就会来找你。这就是武道的战术之一啊！ <br>你就帮助提摩西找一下箩丝吧！那么，你要把红色纹章交给纹章学者？<br>别在这儿磨蹭了，快回普雷利镇吧。",
+      "answer": "",
+      "image": "qn_npc_scholar_starshy.png"
+    },
+    {
+      "npc": "纹章学者伯恩施坦",
+      "question": "啊啊，你就是提摩西和史蒂夫说的那个兽人啊。我还从没近距离看过兽人，所以想再观察一下呢。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这，这是失礼的行为！还是请快点把印章拿去吧。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "你已经和纹章学者见过面了吗？",
+      "answer": "",
+      "image": "qn_npc_scholar_starshy.png"
+    }
+  ]
+}

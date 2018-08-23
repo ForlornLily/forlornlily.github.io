@@ -1,0 +1,147 @@
+{
+  "qkname": "有谁在注视着",
+  "data": [
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>网络不稳定。</FONT><br>▷ <FONT color=#7e12d2>重新设置Mission Object。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>Mission Object.</FONT><br>▷ <FONT color=#7e12d2>请移动到利物沃特村庄废墟，与西恩见面吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "那我现在就按照约定前往利物沃特村庄废墟，向那个男人询问情报！<br><FONT color=#7e12d2>（跟随西恩到利物沃特村庄废墟吧）</FONT>",
+      "answer": "",
+      "image": "qw_51.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "\n啊，是<FONT color=#387206>{user_nick}</FONT>啊……<br>\n<FONT color=#7e12d2>（西恩表情为难地站着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你获得察提爷爷的情报了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "那个……由于察提突然出现，我没能获得任何情报。<br>那个男人肯定有什么诡计。也可能是我多虑了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他们俩去了哪里？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "他们往<FONT color=#a82424>利物沃特码头</FONT>方向去了。但是……<br><FONT color=#7e12d2>（西恩环顾四周）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "从刚刚开始，我就觉得似乎有人在盯着我们……<br><FONT color=#387206>{user_nick}</FONT>，你有没有察觉到那视线？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，我跟你的感觉一样。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "究竟是谁……？难道是……<FONT color=#a82424>兽人金</FONT>？！<br>呃呃……这烦人的家伙！<br>难道他追到了莲花沼泽？！<br><FONT color=#7e12d2>（西恩瑟瑟发抖）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "啊啊，你们发现我了？<br>也对，比起这周围的风景，我实在是太耀眼了。呼呼……",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "察提和那个奇怪的男人往利物沃特码头方向去了。<br>话说这<FONT color=#a82424>咄咄逼人的视线</FONT>……<br>肯定是<FONT color=#a82424>兽人金</FONT>！",
+      "answer": "",
+      "image": "qm_orc_oneeye.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>Mission Object.</FONT><br>▷ <FONT color=#7e12d2>请到利物沃特码头，见见察提和奇怪的男人吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "嗯……？这个味道是……？咳咳。<br><FONT color=#7e12d2>（察提回过头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "搞什么啊？你！你从什么时候开始待在那里的？<br>你刚刚也在偷窥我们，现在又打算偷窥？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你在说……什么啊？我刚刚才到啊……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "不要骗我！<br>我知道你一直悄悄地跟在我们后面！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（难道察提也察觉到了我们在利物沃特村庄废墟感受到的视线？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "啧啧……原来你在偷窥我耀眼的美啊。<br>好了，你现在尽情看吧。<br>不过，今天的我特别耀眼，你最好看我不要超过3秒。<br>不然可能会被我的光芒刺瞎双眼！哈哈哈！",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "卡拉翰…… 你又要搞什么鬼？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（卡拉翰……？这个名字好熟……？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "西戴尔，你怎么这么对卡拉翰说话？<br><FONT color=#7e12d2>（察提的口气变得很柔和）</FONT><br>卡拉翰，你为我准备的礼物……是什么啊？<br>难道你有爷爷的消息……？",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "呵呵，你猜得真准。<br>我听说<FONT color=#a82424>古代武器库的东边</FONT>那里有个龙之追随者的隐藏据点。<br>他们就将其他的部族族人藏在了那里。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "你到底和龙之追随者有什么关系，怎么连这些都知道？",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "西戴尔，你有完没完了？<br>谢谢你，卡拉翰。我现在立刻去<FONT color=#a82424>古代武器库的东边</FONT>察看下。<br>西戴尔，我下次再看你要给我的东西。抱歉~",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick",
+      "question": "<FONT color=#7e12d2>（在利物沃特村庄废墟察觉到的视线及卡拉翰这个名字让我放心不下。链接学者站台，和姐姐商议下吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    }
+  ]
+}

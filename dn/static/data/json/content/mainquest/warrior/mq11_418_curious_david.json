@@ -1,0 +1,239 @@
+{
+  "qkname": "充满好奇的年龄",
+  "data": [
+    {
+      "npc": "戴维",
+      "question": "你回到<FONT color=#a82424>王城</FONT>去向那个叫<FONT color=#a82424>主教</FONT>还是什么的家伙报告了吗？<br>我们约好的地方不是这里吗？我去打听了一下航班的时间。<br>\n<FONT color=#7e12d2>（和神圣天堂的主教伊格纳西奥对话就可以开始任务）</FONT>"
+    },
+    {
+      "npc": "戴维",
+      "question": "怎么这么慢？你不是说要去<FONT color=#a82424>王城</FONT>向那个叫<FONT color=#a82424>主教</FONT>还是什么的家伙报告的吗？<br>还不快去！<br>\n<FONT color=#7e12d2>（和神圣天堂的主教伊格纳西奥对话就可以开始任务）</FONT>"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你又来见<FONT color=#a82424>古代人的后裔</FONT>吗？<br>只要有我在，就没人可以动她。相信我。<br>\n<FONT color=#7e12d2>（和神圣天堂的主教伊格纳西奥对话就可以开始任务）</FONT>"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "\n你弄丢的那个<FONT color=#a82424>吊坠</FONT>幸好是让我给捡到了，这要是落入他人之手，我们大家的处境可都会变得很困难的。",
+      "answer": "是。（果然想不起来已经弄丢了）"
+    },
+    {
+      "npc": "戴维",
+      "question": "你回到<FONT color=#a82424>王城</FONT>去向<FONT color=#a82424>主教</FONT>报告了吗？<br>我们约好的地方不是<FONT color=#a82424>黑山山角</FONT>吗？我去打听了一下航班的时间。",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "怎么这么慢？你不是说要去<FONT color=#a82424>王城</FONT>向<FONT color=#a82424>主教</FONT>报告吗？<br>还不快去！",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你又来见<FONT color=#a82424>古代人的后裔</FONT>吗？<br>只要我在，就没人可以动她。相信我。",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "辛苦你了。<br>我要去向<FONT color=#a82424>神圣天堂</FONT>的兵站确认，然后把之前留下来的事情处理掉。你先退下，好好休息一下。",
+      "answer": "我知道了。"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你现在想去哪里啊？<br><FONT color=#a82424>金龙</FONT>好像不愿意和外人见面……<br>\n你有别的事情要做吗？",
+      "answer": "我跟别人约好了，要到黑山山角去。",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "<FONT color=#a82424>黑山山角</FONT>？<br>唉，你总是这么忙。真是个深受大家信任的人啊。<br>\n<FONT color=#7e12d2>（请到黑山山角去和戴维见面）</FONT>",
+      "image": "qn_slave_david.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你要去<FONT color=#a82424>黑山山角</FONT>见谁呢？<br>那个人一定在等你，你快去吧。<br>\n<FONT color=#7e12d2>（请到黑山山角去和戴维见面）</FONT>",
+      "image": "qn_slave_david.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "你终于来啦？我等得眼珠子都要掉出来了！<br>\n啊～要是再晚一点，我就要走了！！<br><FONT color=#7e12d2>（戴维气势汹汹地嚷嚷）</FONT>",
+      "answer": "让别人帮忙的人是你，不是我。",
+      "image": "qn_slave_david.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "ionStand01}<br>帮……我让你帮我了吗！！你搞错了！<br>我只不过是赐予你为<FONT color=#a82424>阿尔杰塔</FONT>服务的机会罢了～明白了吧！",
+      "answer": "（倒真会说……）",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "总之！！希望你能怀着一颗愉快的心协助我。<br><FONT color=#a82424>阿尔杰塔</FONT>让我做完事情之后来这里等你，不是我完不成事情才在这里等你的。 ",
+      "answer": "……你在说什么啊？算了，到底是什么事情？",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "是去<FONT color=#a82424>黑暗大君主之塔</FONT>搜集几个<FONT color=#a82424>黑暗之核碎片</FONT>。<br>阿尔杰塔说只要消灭塔里的怪物，就可以得到。",
+      "answer": "黑暗之核……？知道了。",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "哈哈哈。别偷懒，快去吧。<br>我在这里等你～！",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "好了！快到<FONT color=#a82424>黑暗大君主之塔</FONT>去吧。<br>\n消灭怪物，搜集<FONT color=#a82424>黑暗之核碎片</FONT>。哈哈哈。",
+      "image": "qw_40.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "哦～<FONT color=#a82424>果核碎片</FONT>全部搜集到啦。<br>\n没想到手脚还挺麻利的嘛？呵……<br>\n当然，对于我<FONT color=#a82424>戴维</FONT>大人来说，这算不了什么。哈哈哈。",
+      "answer": "这下可以了吧？再见。",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "ionStand01}<br>等，等等！等一等！性子怎么这么急啊？<br>\n看你年纪轻轻，啧啧。<br>必须把黑暗之核碎片交给<FONT color=#a82424>杰兰特</FONT>大人才行。",
+      "answer": "杰兰特？",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "没错！！阿尔杰塔是这么说的。<FONT color=#a82424>搜集黑暗之核碎片，交给杰兰特！！</FONT><br>我马上要去追赶阿尔杰塔大人，你帮我把它送过去吧。",
+      "answer": "好吧，再见。",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "啊！！你去的时候，顺便帮我问问他。<br>50年前，杰兰特大人是<FONT color=#a82424>六位英雄</FONT>的首领，对吧？我听阿尔杰塔大人说过。",
+      "answer": "好像是的。",
+      "image": "qn_six_heroes_silhouette.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "我很想知道……我的美丽而坚强的女神<FONT color=#a82424>阿尔杰塔</FONT>大人怎么不在六位英雄里面。<br>\n你也想知道吧？一定很想知道吧？",
+      "answer": "嗯……这个嘛？",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "干嘛？磨磨蹭蹭的。你不想知道吗？啧啧……<br>\n青春年少的时候本来就有很多问题！<br>……为了正直充满好奇的年龄的我！！<br>\n你去问问他！！",
+      "answer": "……我去问问看。",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "很好，很好。你快去见见<FONT color=#a82424>杰兰特</FONT>大人吧。<br>得到答案之后，再到<FONT color=#a82424>赫尔马岱港口</FONT>去找我。我会在那里等船，哈。",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "你还没去见<FONT color=#a82424>杰兰特</FONT> 大人吗？<br>我马上要去<FONT color=#a82424>赫尔马岱港口</FONT>，你快去问问，然后到那边去找我。知道了吗？",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "我让你把东西给<FONT color=#a82424>杰兰特</FONT>大人送过去，你怎么还在这里啊？<br>我比巨人更迅速地来到了这里，你怎么跟兽人一样迟钝啊！哈哈哈。",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我感到了微弱的黑龙的气息。<br>你身上带着<FONT color=#a82424>黑色核心碎屑</FONT>吗？",
+      "answer": "是阿尔杰塔让我送来的。",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "这是为了让我疗伤用的。<br>知道了。那对你来说很危险，你尽量别往身上带。",
+      "answer": "好的，我有一个问题。"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "问题……？什么？",
+      "answer": "（讲述戴维的问题）"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "\n你是想知道50年前的事情啊。<br>\n当时为了消灭<FONT color=#a82424>黑龙</FONT>，有五个势力联合在了一起。<br>\n<FONT color=#7e12d2>（杰兰特淡淡地说）</FONT>",
+      "answer": "（继续）",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "\n精灵<FONT color=#a82424>内尔文</FONT>的银色新月弓手团。<br>\n战士<FONT color=#a82424>巴尔纳</FONT>的佣兵联盟。<br>\n牧师<FONT color=#a82424>特拉玛依</FONT>率领的神殿骑士团。<br>\n魔法师<FONT color=#a82424>卡拉秋</FONT>率领的佩奥里斯塔魔法师团。",
+      "answer": "（继续）",
+      "image": "qn_six_heroes_silhouette.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "\n以及……<br>\n<FONT color=#a82424>贝思柯德</FONT>率领的卡西乌斯王国骑士团。",
+      "answer": "（继续）",
+      "image": "qn_six_heroes_silhouette.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "首领则由我担任，阿尔杰塔为了侦察<FONT color=#a82424>红色军队</FONT>的动向而独自行动。<br>\n之后，她为了对付攻击后备队的<FONT color=#a82424>黑暗精灵</FONT>，没能参加先遣队的行动。",
+      "answer": "黑暗精灵埃雷娜吗？",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "是的。阿尔杰塔面对的是<FONT color=#a82424>埃雷娜</FONT>率领的怪物军队，她最终消灭了他们。<br>\n……打倒黑龙之后，人类把率领各个势力的人的名字合在一起，称为六位英雄。",
+      "answer": "（继续）",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "所以并没有留下关于独自行动的<FONT color=#a82424>阿尔杰塔</FONT>的记录。因为事实上除了被称为英雄的几个人之外，几乎没有人知道她的存在。",
+      "answer": "是吗？",
+      "image": "qn_six_heroes_silhouette.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "执着于名誉和记录的只有人类。<br>\n因为他们的生命很短暂，所以希望自己的名字能够长久地流传下去。<br>这些事情对我和<FONT color=#a82424>阿尔杰塔</FONT>来说没有任何意义。",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "还有其他问题吗？<br><FONT color=#7e12d2>（必须回到赫尔马岱港口的戴维那里去）</FONT>",
+      "image": "qn_slave_david.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "ionStand01}<br>来的正好！！我算准了你会在这个时候过来！哈哈哈。<br>见到<FONT color=#a82424>杰兰特</FONT>大人了吗？",
+      "answer": "嗯。",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "<FONT color=#7e12d2>美丽</FONT><FONT color=#a94407>可爱</FONT><FONT color=#382000> </FONT><FONT color=#086171>完美</FONT>的<FONT color=#a82424>我的阿尔杰塔</FONT>，为什么就不能以英雄的名义流芳百世呢！原因你知道了吗？快告诉我！",
+      "answer": "（转述杰兰特的话）",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "ionStand01}<br><FONT color=#7e12d2>（听了之后，戴维的眼中闪着泪光）</FONT><br>\n果然不愧是我的<FONT color=#a82424>阿尔杰塔</FONT>大人～！！人类的名誉对你来说就像是遮羞布一样，没有任何价值！<br>\n哦～真是深奥而又高尚的世界观！哦～",
+      "answer": "（满嘴厥词，唾沫都喷了出来）",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "愚昧无知的人一说到龙，就以为是怪物的头目，害怕得瑟瑟发抖。但我和他们不一样。<br>看看<FONT color=#a82424>阿尔杰塔</FONT>大人！！龙一定是阿尔泰亚女神的分身！是高贵的存在！！",
+      "answer": "咦，你怎么知道阿尔杰塔是龙啊？",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "连这都不知道的话，那不是傻瓜吗？哈，听了你可别吃惊。<br>是我勇敢的！<br>……直接去问了<FONT color=#a82424>阿尔杰塔</FONT>大人。哈哈哈。",
+      "answer": "（只要问问看就会说出来的吗……）",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": "<FONT color=#a94407>（获得奖励）</FONT>"
+    }
+  ]
+}

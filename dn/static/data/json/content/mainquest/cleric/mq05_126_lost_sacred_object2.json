@@ -1,0 +1,48 @@
+{
+  "qkname": "被抢的物品Ⅱ",
+  "data": [
+    {
+      "npc": "牧师托马斯",
+      "question": "虽然我们也有自己的任务，但现在这件事才是最紧急的，那可是受到突袭的护送团弄丢的物品啊……",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "\n你先去<FONT color=#a82424>霜风峡谷</FONT>打听一下<FONT color=#a82424>雷昂纳多</FONT>那个老头子被抢了什么东西。<br>\n有一个派出去的神殿骑士发现了这样东西，给带回来了。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>这，这是……！</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "看来你也看出来了。<br>\n是啊。这是牧师们使用的<FONT color=#a82424>圣珠</FONT>。<br>\n说是从霜风峡谷的怪物们之间发现的。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "……没想到会在这种地方发现线索。<br>虽然不知道<FONT color=#a82424>雷昂纳多</FONT>那老头子带回来的是什么<FONT color=#a82424>东西</FONT>，但只要持续追踪那件<FONT color=#a82424>东西</FONT>，我们的目标也许就能自然而然地实现了。",
+      "answer": "",
+      "image": "qn_cl_leonardo.png"
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "我们追踪的异教徒们似乎已经和怪物们狼狈为奸了……<br>若不是异教徒，又怎么可能会在怪物们的巢穴发现 <FONT color=#a82424>牧师的圣珠</FONT>呢？",
+      "answer": "",
+      "image": "qn_dragonsycophant.png"
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "不管怎样，先把它拿给你师兄杰克看看吧，希望你们二人能进一步调查。<br>相信<FONT color=#a82424>霜风峡谷</FONT>的那些怪物，对你来说不过是小菜一碟。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

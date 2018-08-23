@@ -1,0 +1,65 @@
+{
+  "qkname": "英雄的影子",
+  "data": [
+    {
+      "npc": "高级战士佩德罗",
+      "question": "你在<FONT color=#a82424>女王庭院</FONT>看到的人绝对不会是<FONT color=#a82424>兰伯特</FONT>。<br>尽管我也是只听父亲说过而已，但衣着外貌还是有所不同。",
+      "answer": ""
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "还是亲自确认下比较好啊。<br>呐，和我一起去<FONT color=#a82424>女王庭院</FONT>看看吧。<br>我佩德罗倒要看看不明身份的剑士到底是谁！",
+      "answer": "",
+      "image": "qw_68.png"
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "那…那位难道是…？",
+      "answer": ""
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "那…那位难道是…？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你认识吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "那个人……<br>是<FONT color=#a82424>战士巴尔纳</FONT>！",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>巴尔纳…六大英雄…？</FONT>",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "没错！<br>虽然没有亲眼见过，但和父亲描述的样子非常相似！ 我敢肯定！<br>哇……传说中的英雄 <FONT color=#a82424>巴尔纳</FONT>竟然会在莲花沼泽！！",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "那个方向应该是去… <FONT color=#a82424>盲目溪谷</FONT>的。<br>好了，我们先回村庄吧。<br>回去冷静后，再好好思考下。",
+      "answer": "",
+      "image": "qw_67.png"
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "我仔细思考了一下<FONT color=#a82424>巴尔纳</FONT>来到莲花沼泽的原因。<br>他和卡拉秋的关系很好，难道是因为听说了卡拉秋去世的传闻才来的吗？",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

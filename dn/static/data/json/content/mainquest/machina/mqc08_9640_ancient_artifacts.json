@@ -1,0 +1,120 @@
+{
+  "qkname": "古代遗物",
+  "data": [
+    {
+      "npc": "西戴尔",
+      "question": "为了变成完整的龙，卡拉翰正在四处搜集古代人的遗物。<br>一定要阻止他才行。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#7e12d2>（西戴尔低头看了看自己紧握的拳头）</FONT><br>……有时候我会觉得自己的心情并不是适度的愤怒，而是掺杂了私人感情的憎恶。<br>老师一直告诫我，要摒弃这种私人的怨恨。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "老师一定是担心我会重蹈卡拉翰的覆辙。<br>我也很担心。要是我也变成了卡拉翰那样的人，该怎么办呢？如果我的心因为渴望得到强大力量的欲望而变了的话，我也许会毁掉佩奥里斯塔之名。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "真的吗？<br>……也是，现在不是想这些的时候。在事情真实发生之前，都只不过是可能性罢了。<br>我会一生都努力警醒的。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "是我的自信不够吗？<br>好吧，老师也说她相信我。我一定要对她的信任交出一份满意的答卷。<br>……我一定会鼓起勇气，继续努力的。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "每次都要很感谢你，<FONT color=#387206>{user_nick}</FONT>。<br>多亏了你，我才能鼓起勇气。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我，一定要打倒卡拉翰。<br>所以我也要替察提报仇，我要证明我和他是不一样的人。<br>我要证明，我和他不一样。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "是说卡拉翰会到<FONT color=#a82424>古代宝物仓库</FONT>来的，对吧？<br>不知道情报是否准确，最好去确认一下。",
+      "answer": "",
+      "image": "qw_57.png"
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（只剩下什么东西破碎后的痕迹）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你替我去<FONT color=#a82424>古代宝物仓库</FONT>确认一下吧。<br>希望古代人的遗物还安然无恙。",
+      "answer": "",
+      "image": "qw_57.png"
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（地面上散落着很多散发出奇异气息的碎石）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（碎片上镌刻着古代纹样，<br>看来这是刚刚才被打破的）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（看来卡拉翰已经完成目的，消失不见了。<br>回去向西戴尔报告）</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "怎么！卡拉翰已经去过了吗？<br>看来我们晚了一步……这下可糟了。<br><FONT color=#7e12d2>（西戴尔叹了口气）</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我听刚刚出去侦察的魔法师说，<FONT color=#a82424>卡拉翰</FONT>的力量越来越强大，而且因为他开始触碰那些古代人的遗物以及原住民封印的图腾，所以出现了越来越多不祥的事情。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不祥的事情？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "嗯，开始出现了怪物变强的地区，<br>而且本来就埋藏了很多图腾的<FONT color=#a82424>伊斯拉土著民村落</FONT>和<FONT color=#a82424>古代宝物仓库</FONT>比以前变得更加危险了。",
+      "answer": "",
+      "image": "qw_57.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "这下可糟了。在魔法师们的会议上，必须讨论一下这件事。<br>为了控制住突然出现的强大魔物，必须派遣魔法师过去才行。<br>首先……必须完成<FONT color=#a82424>老师的葬礼</FONT>。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "……只能在这种混乱的情况下送走佩奥里斯塔的支柱，真是件悲伤的事情。<br><FONT color=#7e12d2>（西戴尔仰望着天空）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "她的遗志会一直留在我的心中……我永远不会忘记，一定会为此而努力。<br>希望老师能够宽恕一切。",
+      "answer": ""
+    }
+  ]
+}

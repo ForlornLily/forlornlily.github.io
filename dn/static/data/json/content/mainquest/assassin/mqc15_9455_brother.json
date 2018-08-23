@@ -1,0 +1,198 @@
+{
+  "qkname": "兄弟",
+  "data": [
+    {
+      "npc": "精灵长老",
+      "question": "你来啦。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "我已经都听黑骑士说了。你是要前往<FONT color=#a82424>祈祷之心</FONT>吧……<br>请千万保重身体。",
+      "answer": "",
+      "image": "qw_97.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你应该知道<FONT color=#a82424>祈祷之心</FONT>的位置吧？<br>可以通过熔岩江入口前往那里。<br><FONT color=#7e12d2>(贝思柯德的表情看上去好像很不相信我。前往祈祷之心吧)</FONT>",
+      "answer": "",
+      "image": "qw_97.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……该不会是将这个空壳子封印石复原了吧。<br>\n<FONT color=#7e12d2>(眉头紧锁地看着阿尔杰塔)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "怎么回事，你这不是来了吗！你到底是怎么回事？<br>当时怎么会逃跑的！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我没有逃跑！我也被黑暗席卷了，所以根本不知道怎么回事……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GeraintKid_9455_qu_01.ogg}<br><FONT color=#7e12d2>(杰兰特的眼神中透露着怀疑)</FONT><br>你明明逃跑过一次，怎么又来了，真是个奇怪的家伙。<br>人类不是一旦逃跑就不会再回来的吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你怎么能那么说。我为了回到这里，不知道费了多大劲呢。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你吗？<FONT color=#7e12d2>(杰兰特面露惊奇)</FONT><br>哼……怎么可能。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我现在不就在这儿吗。为什么摆在眼前的事实你都不肯相信呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "哼，现在更要紧的是阿尔杰塔已经身受重伤了……<br><FONT color=#7e12d2>(杰兰特好像不想再多说什么了。和阿尔杰塔对话吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9455_qu_01.ogg}<br>哈，你终于来了，小鬼。我还以为你早被恶梦吞噬得连骨头渣子都不剩了，没想到你这小身板还挺能扛。<br>而且还带来了那家伙。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "ndnpc_Velskud_9455_qu_01.ogg}<br>谁来解释一下这是怎么回事？",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9455_qu_02.ogg}<br>哼。你不是吃了古代龙的宝玉了吗，怎么一点没变化？还是那副令人厌恶的嘴脸。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "ndnpc_Velskud_9455_qu_02.ogg}<br>少对别人指手画脚的，是你干的事太蠢。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GeraintKid_9455_qu_02.ogg}<br>他是贝思柯德？他身上不是有我们的宝玉吗？这么说他是我们的兄弟？",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9455_qu_03.ogg}<br>别说了，我身上都起鸡皮疙瘩了！<br>他就是个小偷。还有旁边那个一脸白痴相的家伙是他的同谋……",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "ndnpc_Velskud_9455_qu_03.ogg}<br>你找碴找够了没有！巨石碑之门竟然大开着，<br>这是怎么回事？阿尔杰塔，那门中的恶梦都怎么处理了？",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9455_qu_04.ogg}<br>你也会担心这个？看样子你这人真是晚熟得很啊。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9455_qu_05.ogg}<br>我重获力量后，区区恶梦算得了什么。我打碎了古代人建造的封印石，<br>现在我的力量已经要赶上当年的古代龙了。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9455_qu_06.ogg}<br>……所以，我把恶梦全吞掉了。趁着那从谜之大陆泄露出来的黑暗和那该死的恶梦还没伤害到那蠢小鬼以及这个世界，我先将其一口吞掉了。没味道也就算了，搞得我心情也恶心像吞了只苍蝇。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？？？吞掉了，那是什么意思……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9455_qu_07.ogg}<br><FONT color=#7e12d2>(阿尔杰塔面带嘲笑的神情)</FONT><br>当年混沌龙是怎么咽下这些难吃的恶梦和黑暗的？<br>吃下去后感觉骨头里都冒出丝丝锥心的寒气。我长这么大还从没觉得这么难受过。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9455_qu_08.ogg}<br>值得庆幸的是，在我堕落之前，好歹修理了人间一大害。那可恶的佩达……这下子休想嚣张了。<br>我从他体内抢走了黑龙宝玉，把他抽了个半死……<br><FONT color=#7e12d2>(阿尔杰塔搓着双手。微微闪现出黑黢黢的光芒。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_npc_pether.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "ndnpc_Velskud_9455_qu_04.ogg}<br>……原来是因为这样，他才变弱了啊。",
+      "answer": "",
+      "image": "qn_npc_npc_pether.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9455_qu_09.ogg}<br>你又见到他了？而且还没取了他狗命？<br>切，靠着你身上那块不完整的宝玉，我还能期待什么好结果。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9455_qu_10.ogg}<br>唉……现在说什么都没意义了。我正在渐渐地变成谜之大陆的生灵……",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "ndnpc_Velskud_9455_qu_05.ogg}<br>……！！",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9455_qu_11.ogg}<br>呵呵。反正都是要离开的，我干脆就带着这块已经堕落得无药可救的宝玉一起走吧。<br>横竖我将要消失，把危险因素全部清除也算是做件好事……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>阿尔杰塔……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9455_qu_12.ogg}<br>呵呵，白痴小鬼，我是不是该对你刮目相看了？<br>这手握武器的模样已经完全看不出当年在凯德拉关卡遇到的那个小菜鸟的影子了。<br>你在这短短的时间内变强了许多啊。而且看上去还非常完好……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>阿尔杰塔，阿尔杰塔……你还好吗？</FONT><br>\n<FONT color=#662500>你现在应该没事了吧？既然你都已经战胜佩达了，应该没事了吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9455_qu_13.ogg}<br><FONT color=#7e12d2>(阿尔杰塔把视线转向这里)</FONT><br>我将渐渐堕落。谜之大陆的毒会蚕食我的身体，渗入我的宝玉，最后我的宝玉也会像黑龙宝玉一样完全堕落，变成一块破石头。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9455_qu_14.ogg}<br>在此之前……杀了我吧。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GeraintKid_9455_qu_03.ogg}<br>……什么！！这是什么话！！<br><br><FONT color=#7e12d2>*所有队员处于同一阶段时，只有在没有其他任务的情况下，才可进行该任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "怎，怎么可以……<br>\n阿尔杰塔……阿尔杰塔……",
+      "answer": ""
+    },
+    {
+      "question": "任务完成",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "怎么可以就这样消失了……！！",
+      "answer": ""
+    }
+  ]
+}

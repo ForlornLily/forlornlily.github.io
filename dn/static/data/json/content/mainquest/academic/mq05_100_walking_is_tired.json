@@ -1,0 +1,136 @@
+{
+  "qkname": "疲于奔波",
+  "data": [
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n嗯？你刚刚不是离开魔法山脊了吗，怎么又回来了？",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "我亲自到这里是为给我的傻弟子提供些有用的物品，但为什么她像做错了事似的，飞快地逃跑了呢？",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "什么？<br>我的傻弟子抢了你的东西……？",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>没错！如果没有那东西，我就没法和姐姐联络了。</FONT><br>\n<FONT color=#662500>我必须要找回那东西。</FONT>",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "哎哟喂，我的头啊……终于还是闯祸了。<br>那个惹祸精，真是没东西抢了，居然去抢人家小朋友的东西……<br>\n早知如此，还不如让我……",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "咳咳……没什么。<br>总之，安杰利卡按照贤者的启示，去<FONT color=#a82424>凯德拉关卡</FONT>解救先知了。所以，你到凯德拉关卡应该能看到我那个傻徒弟。",
+      "answer": "",
+      "image": "qw_cataractgateway.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "我好像之前没有见过你啊。很抱歉，你来这里是为何事？",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n唉！说不定<FONT color=#a82424>老师</FONT>会跟过来教训我呢！<br>\n那，小孩~我走啦~ 再见~",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n唉，详细的情况到<FONT color=#a82424>融解森林</FONT>再说吧。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "如果想获得凯德拉关卡的冒险家公会的帮助，需要有东西证明自己的身份。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "你拿着这<FONT color=#a82424>通行证</FONT>，去找凯德拉关卡的<FONT color=#a82424>侦察兵福古斯</FONT>吧。<br>他会帮你寻找安杰利卡的。",
+      "answer": "",
+      "image": "qn_ranger_fugus.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "我好像之前没有见过你啊。<br>很抱歉，你能出示证明自己身份的物品吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>这是通行证。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "恩……？魔法山脊明明联系我说派来的人是两位的啊……？<br><FONT color=#7e12d2>（福古斯歪着脑袋）</FONT><br>总之，你来得正好，我是凯德拉关卡冒险家公会的侦察兵福古斯。",
+      "answer": "",
+      "image": "qn_ranger_fugus.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "啊，那个魔法师，我当然记得啦。<br>她刚刚来过这里，她说她按照<FONT color=#a82424>冒险家公会会长戴卡德</FONT>的指示，要去解救<FONT color=#a82424>某位少女</FONT>。",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>应该是为解救被困在叹息峡谷的先知吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "你怎么知道……？<br><FONT color=#7e12d2>（福古斯很吃惊）</FONT><br>果然，从魔法山脊派来的人都不简单。看到你的外表，我还以为你只是普通的小孩，真是失礼。",
+      "answer": "",
+      "image": "qn_ranger_fugus.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "正如你所说，先知目前被关在<FONT color=#a82424>叹息峡谷</FONT>。<br>不过，由于结界，目前无人能进入峡谷。",
+      "answer": "",
+      "image": "qw_14.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "如果想获得凯德拉关卡的冒险家公会的帮助，需要有东西证明自己的身份。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "你拿着这<FONT color=#a82424>通行证</FONT>，去找凯德拉关卡的<FONT color=#a82424>侦察兵福古斯</FONT>吧。<br>他会帮你寻找安杰利卡的。",
+      "answer": "",
+      "image": "qn_ranger_fugus.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "如果想获得凯德拉关卡的冒险家公会的帮助，需要有东西证明自己的身份。<br>\n不过，以你现在的水平，似乎有些勉强。请继续提高自己的实力，然后再来村庄找我吧。<br><br>\n<FONT color=#7e12d2>※角色的等级必须达到9级以上，才能继续进行下一阶段。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n你真是个听话的孩子。如果安杰利卡也像你这么听话，那该多好啊。<br>\n好的，我要遵守约定。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "如果想获得凯德拉关卡的冒险家公会的帮助，需要有东西证明自己的身份。<br>\n不过，以你现在的水平，似乎有些勉强。请继续提高自己的实力，然后再来<FONT color=#a82424>村庄</FONT>找我吧。<br><br>\n <br>\n<FONT color=#7e12d2>※角色的等级必须达到9级以上，才能继续进行下一阶段。</FONT>",
+      "answer": ""
+    }
+  ]
+}

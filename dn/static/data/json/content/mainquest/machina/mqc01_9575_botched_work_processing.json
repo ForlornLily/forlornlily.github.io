@@ -1,0 +1,143 @@
+{
+  "qkname": "轻率的处理",
+  "data": [
+    {
+      "npc": "小龙",
+      "question": "找到箩丝也就能找到休利亚！这样才能找到你的村民们！<br>你会帮忙的吧？嗯？看在我的面子上也得帮这个忙吧？ ",
+      "answer": "",
+      "image": "qn_elder_harold.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知，知道了。总之我先见见镇长吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "你的选择是对的！对了！不能让镇长发现我伪造的通行证……别忘了小心行事！<br><FONT color=#7e12d2>（去见镇长吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "你在好好找箩丝吗？别忘了找到箩丝就能见到休利亚！",
+      "answer": ""
+    },
+    {
+      "npc": "自卫团长史蒂夫",
+      "question": "镇长希望能见见 <FONT color=#387206>{user_nick}</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "镇长海洛德",
+      "question": "你叫<FONT color=#387206>{user_nick}</FONT>啊。我听说你帮助了自卫团，还帮助找到了我的孙女箩丝的行踪。 <br>我还以为兽人都野蛮又自大呢……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哼，那是偏见！我只是（讲述了在墓穴里发生的事情） </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "镇长海洛德",
+      "question": "你说什……什么？既然她从墓穴逃了出来的话，就应该回来啊……！<br>难道在回这里的路上发生了什么意外……啊啊…… ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没有别的什么线索了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "镇长海洛德",
+      "question": "<FONT color=#7e12d2>（镇长海洛德摇了摇头）</FONT> <br>我虽然不太清楚……我从史蒂夫那里听说，阴影森林中心的魔物们的行为有些异常。 <br>有许多魔物涌向那里，像是在找什么……啊，也许是箩丝…… ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>魔物们在找箩丝？为什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "镇长海洛德",
+      "question": "那……那就不知道了。<FONT color=#7e12d2>（镇长海洛德避开了视线）</FONT><br>虽然很抱歉，但你能去阴影森林的中心找找看吗？<br>就算是一点点线索，我也不想放过啊…… ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>哼，虽然不想搀和到别人的事里去，但是因为是师父拜托的，我就照做吧。 </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "镇长海洛德",
+      "question": "请一定要找到我的孙女箩丝。 <br><FONT color=#7e12d2>（去阴影森林的中心吧）</FONT>",
+      "answer": "",
+      "image": "qw_4.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "嗯？ <FONT color=#387206>{user_nick}</FONT>？？<FONT color=#7e12d2>（小龙吓了一跳）</FONT> 我来晚了啊！<br>我看到有着红色翅膀的魔物们出现了，然后箩丝和提摩西逃走了。<br>我要是稍微早到一点，就能把那些魔物打个落花流水！ ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你怎么会来这里？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "ndnpc_Shaolung_9575_qu_01.ogg}<br>我！是我。我是来帮忙救出萝丝的。如果我能把萝丝救出来，普雷利镇的村长就会为我发放真正的通行证。咔咔！",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "\n但是魔物带走了 箩丝，你去问问自卫团长史蒂夫有没有其它消息。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>从现在开始您要和我一起找吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "ndnpc_Shaolung_9575_qu_02.ogg}<br>不，我打算从现在开始为你在村子里打听一下关于休利亚的消息。<br>别忘了，虽然我们寻找萝丝有多个理由……但最终都是为了寻找休利亚！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我们……？好吧，先去见见自卫团长吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "哈哈哈。<br>你成了弟子之后变得更加勤奋了啊！返回村庄见见自卫团长吧。",
+      "answer": "",
+      "image": "qn_guard_steave.png"
+    },
+    {
+      "npc": "自卫团长史蒂夫",
+      "question": "我还正想去找 <FONT color=#387206>{user_nick}</FONT> 呢。<br>有一个士兵说见到提摩西和箩丝跑去<FONT color=#a82424>古代神殿发掘场</FONT> 的方向了。虽然追了上去，但是魔物的数量实在太多了，不得不放弃了追踪。",
+      "answer": ""
+    },
+    {
+      "npc": "自卫团长史蒂夫",
+      "question": "我们打算组成搜查队，去那个地方进行调查。但是光凭我们的力量是不够的。<br>虽然抱歉，但你能去 <FONT color=#a82424>古代神殿发掘场</FONT>进行搜查吗？",
+      "answer": "",
+      "image": "qw_5.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的。但是，作为交换，你要给我真正的通行证。 </FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "自卫团长史蒂夫",
+      "question": "……通行证吗？ <FONT color=#7e12d2>（自卫团长史蒂夫表情暗了下来）</FONT><br>原来你的目的是这个。果然兽人……<br>但是，可以。只要找到箩丝，我就给你通行证。 ",
+      "answer": ""
+    }
+  ]
+}

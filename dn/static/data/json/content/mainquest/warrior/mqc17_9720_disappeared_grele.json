@@ -1,0 +1,133 @@
+{
+  "qkname": "消失的格雷尔",
+  "data": [
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "啊，对了。这么说来<FONT color=#a82424>伊贝尔寄来了信</FONT>啊……？",
+      "answer": "",
+      "image": "qn_hiver.png"
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "<FONT color=#7e12d2>（贝勒尼卡翻了半天，从沙发的靠枕下面拿出了伊贝尔的信）</FONT><br>为了不留下证据，你就在这里读，然后立马烧掉吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（在读信之前似乎还有要处理的事情，好好想想吧）<br><br></FONT><FONT color=#7e12d2>*87级以后才可执行此任务</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔的信",
+      "question": "<FONT color=#086171>你的身体还好吗，</FONT> <FONT color=#387206>{user_nick}</FONT><FONT color=#086171>大人?</FONT><br><FONT color=#086171>在这里，反女神派的人们对我很友善，我过得很好。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔的信",
+      "question": "<FONT color=#086171>训练虽然很辛苦，但是每天都过得很充实。</FONT><br><FONT color=#086171>（省略）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔的信",
+      "question": "<FONT color=#086171>其实，我写这封信给</FONT> <FONT color=#387206>{user_nick}</FONT><FONT color=#086171>大人，是因为不久之前，我收到了</FONT><FONT color=#a82424>格雷尔</FONT><FONT color=#086171>失踪的消息。格雷尔要是出了什么事，我就真的活不下去了……我真的很想立刻去找格雷尔，但是无论如何，从这里到梅尔卡都要花一定的时间。</FONT>",
+      "answer": "",
+      "image": "qn_grele.png"
+    },
+    {
+      "npc": "伊贝尔的信",
+      "question": "<FONT color=#086171>再次这样拜托您真的很抱歉，</FONT> <FONT color=#387206>{user_nick}</FONT><FONT color=#086171>大人能不能去我们以前的家，看看格雷尔是不是回去了呢？我也会尽快回去的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（格雷尔失踪了……究竟是怎么回事？快去</FONT><FONT color=#a82424>伊贝尔的家</FONT><FONT color=#662500>看看吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>谢谢你把这封信交给我，贝勒尼卡大人。回头见！<br>（把点燃的信交给了贝勒尼卡）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "邻家男孩",
+      "question": "\n啊，真是无聊。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "……我的手套都被熏黑了……<br><FONT color=#7e12d2>（贝勒尼卡皱着眉头，喃喃自语，快逃吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "邻家男孩",
+      "question": "你现在是在问我知不知道在那个被火烧没了的家里生活过的<FONT color=#a82424>格雷尔</FONT>？",
+      "answer": ""
+    },
+    {
+      "npc": "邻家男孩",
+      "question": "哼，你这是要打听消息的样子吗？什么都没有，就让我这么告诉你？",
+      "answer": ""
+    },
+    {
+      "npc": "邻家男孩",
+      "question": "啊，你是要找格雷尔？我最近在这附近可没看到过格雷尔啊！<br><FONT color=#7e12d2>（变得非常机灵）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "邻家男孩",
+      "question": "……这是什么新型的拷问吗？要不然就是测试抗魔力？我最近在这附近没见过格雷尔……呜呜……<br><FONT color=#7e12d2>（像是乞求原谅一样哭了起来，变得异常可怜）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "邻家男孩",
+      "question": "呃，我最近在这附近可没见过格雷尔……<br><FONT color=#7e12d2>（变得非常温顺）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "邻家男孩",
+      "question": "这么说来，虽然没见过格雷尔，但是最近在那个家里出现了一个奇怪的男人，还发生了袭击邻居的事件。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>奇怪的男人？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "邻家男孩",
+      "question": "没错，格雷尔的家被烧就是因为藏了<FONT color=#a82424>逃亡的查尔德</FONT>，人们都说，那个逃亡的查尔德似乎又回来了……他们说，他这是在向告发他的邻居们报仇呢。",
+      "answer": ""
+    },
+    {
+      "npc": "邻家男孩",
+      "question": "因为袭击事件，格雷尔家的邻居们全都搬走了，从那之后不管是他们的邻居还是格雷尔一家，都再也没出现过。",
+      "answer": ""
+    },
+    {
+      "npc": "邻家男孩",
+      "question": "逃亡的查尔德在袭击后就马上消失了……似乎是去了<FONT color=#a82424>破裂的金石峡谷</FONT>。",
+      "answer": "",
+      "image": "qw_107.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（逃亡的查尔德去了 </FONT><FONT color=#662500>破裂的金石峡谷</FONT><FONT color=#662500> ……最好把这件事告诉</FONT><FONT color=#a82424>贝勒尼卡</FONT><FONT color=#662500>大人）</FONT>",
+      "answer": "",
+      "image": "qn_vernicka.png"
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "好，你又为什么来了？停战协定正在进行签订，特里亚那边都知道你长什么样了，你就不要到处晃悠了行吗？",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（告诉贝勒尼卡有关逃亡的查尔德的事情）</FONT>",
+      "answer": ""
+    }
+  ]
+}

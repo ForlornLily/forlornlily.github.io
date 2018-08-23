@@ -1,0 +1,153 @@
+{
+  "qkname": "预言的征兆",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "奇怪的人？你又看到了像卡拉翰一样的人吗？<br><FONT color=#7e12d2>（不知不觉卡拉翰成了奇怪的人的代名词……）</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "不明身份的剑士……究竟是谁呢？<br>是这个村子的人吗？如果是这个村子的人的话，<FONT color=#a82424>高级战士</FONT><FONT color=#2b2723></FONT><FONT color=#a82424>佩德罗</FONT>一定会认识的……",
+      "answer": "",
+      "image": "qn_npc_lotus_warriorfedro.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>埃提亚 你是怎么认识佩德罗的？</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_warriorfedro.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐你不在的时候，你以为我在做什么呢？<br>我也有自己的社交活动啊，嘻嘻嘻……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哇——！不愧是我妹妹！<br>和周围人的关系都很不错呢！<br>再说了，我妹妹这么可爱，怎么会有人不喜欢呢。嘿嘿！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐才更可爱呢……<br>不管怎样，如果那个剑士是佩德罗认识的人的话那还好，如果是使徒或坏人的话，那就危险了。<br>最好打听清楚他是谁。",
+      "answer": "",
+      "image": "qn_npc_lotus_warriorfedro.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "啊，对了！佩德罗上次借给我的<FONT color=#2b2723>《妹妹的诱惑》</FONT><FONT color=#2b2723>这本书……你能替我告诉他虽然很谢谢他，但这本书不是很符合我的兴趣吗？ 那么你快去吧，姐姐~！</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_warriorfedro.png"
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "嗯？你知道有关<FONT color=#a82424>不明身份的剑士</FONT>的事情吗？",
+      "answer": "",
+      "image": "qn_npc_death_knight.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的……他看起来很强……身上有黑暗的感觉！！好像充满了力量！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "……这样说起来……嗯……我想不起来有这样的人……<br>……但是，如果是如此强大的剑士的话，一定有人认识他。",
+      "answer": ""
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "我要去调查一下。<br>对了，埃提亚不喜欢我送她的书吗……下次要不要借她<FONT color=#2b2723>《我妹妹完全有可能这么可爱》</FONT>这本书呢……",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……嗯。看来佩德罗也不知道。啊，对了！凯伊说过让我送完胸针之后再去找他！得赶紧去</FONT><FONT color=#a82424>女王庭院</FONT><FONT color=#662500>看看！）</FONT>",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "嗯？你还没走吗？<br>不明身份的剑士我会去调查的，你放心走吧。",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "噢……你来了……？<br><FONT color=#7e12d2>（</FONT><FONT color=#7e12d2>站在特拉玛依和萝丝旁边的凯伊似乎看起来很僵硬）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>咦？怎么不是你一个人~？<br>（凑到凯伊耳边小声说道）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "啊，不知道。他们说有事情所以跟过来的。<br><FONT color=#7e12d2>（凯伊压低声音说道）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊……特拉玛依和先知在的话，总感觉好像要说什么严肃重大的事情……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我也是，<FONT color=#387206>{user_nick}</FONT>。你也不可小瞧我啊，呵呵呵……",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "啊！特拉玛依听到你说的话了。<br>我不管，你自己闯的祸自己收拾！",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "<FONT color=#7e12d2>（凯伊不停地戳着我的肋骨）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#7e12d2>（特拉玛依露出慈祥的笑容）</FONT><br>我来这里，是因为先知的指引。 ",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "什、什么，特拉玛依的意思是……自己也不是很想来吗？！！总觉得有点可怕…… 这个慈祥的笑容太可怕了！<br><FONT color=#7e12d2>（凯伊小声嘀咕道）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>等、等等，我来收拾！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那、那个，特拉玛依！<br>我在来这里的路上，看到了一个奇怪的人！<br>（向特拉玛依解释不明身份的剑士的事情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "……莫非……他是……！！<br><FONT color=#7e12d2>（特拉玛依一脸难以置信的表情，瞬间僵住了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "……绿龙已经复活了，现在轮到死者苏醒了……",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃啊啊……你说的太可怕了……呜呜……</FONT>",
+      "answer": ""
+    }
+  ]
+}

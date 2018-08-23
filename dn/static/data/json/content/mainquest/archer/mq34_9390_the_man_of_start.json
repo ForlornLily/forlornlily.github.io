@@ -1,0 +1,289 @@
+{
+  "qkname": "揭开帷幕者",
+  "data": [
+    {
+      "npc": "王城近卫军劳尔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你好。你来得正好。<br>我刚收到消息说阿努阿兰德的精灵长老正在找你。",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "你来了啊。我正在等你。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>精灵长老……？我知道了。</FONT><br>\n <br>\n<FONT color=#7e12d2>（请去阿努阿兰德关卡寻找精灵长老）</FONT>",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "question": "精灵长老",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "当然，我很理解<FONT color=#387206>{user_nick}</FONT>你想做点什么的心理。<br>但是，巨石碑是一个非常危险的空间。<br>仅仅是那里的东西……就会让所有的生命体都会失去自我而发疯。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>但是，阿尔杰塔已经去那里了。</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "……你在担心银龙吗？龙远远超越了我们的想象。只有龙可以在巨石碑坚守住自我。我们并没有什么能为巨石碑做的。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_ElfElder_9390_qu_02.ogg}<br>我知道，你是经历过无数试炼的冒险者。但是，我不能让你追随那条龙去巨石碑送死……这是我的结论。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可是，我不能坐视不理。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "我明白你的决心。我也并不是希望你什么都不做。因为我们有我们自己应该做的事。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>应该做的事……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "巨石碑的入口分明就在这附近。而且现在生命之树的力量越来越弱，正是邪恶的敌人觊觎巨石碑的最佳时机。<br>\n所以，我想请你去附近巡查一番。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "虽然阿努阿兰德的新的王已经即位，但是，他若想完全吸收生命之树、恢复力量，还需要一段时间。在此期间，一定会有人试图接近巨石碑。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "我不想再借助龙或其他外界存在的力量来阻止他们。你认为仅凭这个任务还无法体现你的价值吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（虽然长老的话有道理，但明知道敌人入侵却不能跟敌人战斗……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "那可以拜托你去巡查吗？<br>虽然我也知道你也是外界人……但通过特里亚纳的话和秘密会议的事情，我认为你是一个值得信赖的人。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "我知道你在秘密会议时期的伤口还没有完全痊愈。<br>但现在我们人手不足，所以我才对你提出这么过分的请求。<br>你可以接受吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>当然。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "谢谢你。首先我想请你巡查的地方是<FONT color=#a82424>寂夜沼泽</FONT>。现在那里是一个非常危险的地方……",
+      "answer": "",
+      "image": "qw_87.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>寂夜沼泽？</FONT><br><FONT color=#662500>（这名字真奇怪）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_ElfElder_9390_qu_03.ogg}<br>是的。那里曾经是一个非常美丽的地方，但现在因为污染而面目全非，变成了一片沼泽。<FONT color=#7e12d2>（长老轻轻皱了皱眉）</FONT><FONT color=#662500> </FONT>麻烦你去那里巡查吧。",
+      "answer": "",
+      "image": "qw_87.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "……那就拜托你了。是<FONT color=#a82424>寂夜沼泽</FONT>。<br>寂夜沼泽可以通过<FONT color=#a82424>黛月森林入口</FONT>过去。",
+      "answer": "",
+      "image": "qw_87.png"
+    },
+    {
+      "npc": "???",
+      "question": "ndnpc_Iona_9390_qu_01.ogg}<br>嗯……嗯……？咦……？<br>这，这个人……？<br><FONT color=#7e12d2>（好像很吃惊的样子。从长相来看，还是个少年。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>喂，这里很危险。你最好赶快出去吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>喂，这里很危险。你最好赶快出去……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "ndnpc_Iona_9390_qu_02.ogg}<br>呃，呃呃呃……呃，呃呃……？ 嗬……呼呼？这明明是……<br>……但是……对第一次见面的人可以做这种事吗？<br><FONT color=#7e12d2>（在犹豫着什么）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不要紧吧?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你没事吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "ndnpc_Iona_9390_qu_03.ogg}<br>失失失失，失，失礼了啊啊啊啊！！！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（少年突然向这边跑了过来……<br>抽了抽鼻子闻着味道……！</FONT><br><FONT color=#662500>从风吹的方向来看，好像在闻我的味道……！？！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "ndnpc_Iona_9390_qu_04.ogg}<br>对，没错……是，是的！杰兰特的味道，没错……噢噢噢……<br>那，那么，你和杰，杰兰特……是朋友吗？没……没错吧？<br>不是现在那个小矮子……是以前那个大大的杰兰特！",
+      "answer": "",
+      "image": "qn_npc_geraint_twoeyes.png"
+    },
+    {
+      "npc": "????",
+      "question": "噢、呀……是真的！！杰兰特！！杰兰特的味道！！！ 我真的发现了！<br>\n怎、怎么会发生这种事！！太好了，太了不起了！！发、发现了……那么，你一定是 <FONT color=#387206>{user_nick}</FONT>吧！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>咦？你怎么知道我的名字？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "????",
+      "question": "……嗯……知，知道！我是听阿尔杰塔说的……呃，所、所以……",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>听阿尔杰塔说的？你到底是谁……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "????",
+      "question": "我，我是白龙……混沌龙……艾奥纳！是艾奥纳。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？什么？你说什么？白龙？！？！？！混沌龙？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "哦、哦，呃、呃、嗯……是的……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>白龙为什么会出现在这里……？</FONT><br><FONT color=#662500>不对，等等！如果是混沌龙的话，那不是来破坏阿努阿兰德的敌人嘛！！<br></FONT><FONT color=#662500>（举起武器）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9390_qu_06.ogg}<br>……呃，呃啊啊啊！我错错错，错了！！<br>我真，真的什么都不会做的……至少到现在为止什么都没做……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么都没做……吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9390_qu_07.ogg}<br>……别，别那么凶地看着我……是真的！我真的什么都没做。真的，真的。是真的啊……之前什么都没做，以后也会继续……不，以后……<FONT color=#7e12d2>（满口胡言乱语）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（可以相信他吗……？？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "那、那个……我……好害怕啊……<br>应该早告诉我嘛，杰兰特的朋友……好可……可怕……呜呜……<br><FONT color=#7e12d2>（艾奥纳就快哭了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "你以后来<FONT color=#a82424>银色新月修炼场</FONT>的话……能……和我聊聊吗……？<br>……我、我已经说了……我一直在找你。一、一定要来啊，人类……",
+      "answer": "",
+      "image": "qw_88.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（我感觉我好像做了什么坏事一样）</FONT><br><FONT color=#662500>知道了，我会去的。</FONT><br><FONT color=#662500>你真的什么都不会做，对吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（这么个小家伙，竟然是龙？呃，不能对他不敬啊……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ionHorrified}<br>……嗯、嗯……是真的！真的！我们拉钩？<br>我还是第一次和龙之外的生物拉钩呢。<br>但、但是，我希望你现在快离、离开。因为我还是好怕你啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（好像不是很危险的龙，那么我先走吧。</FONT><br><FONT color=#662500>先向精灵长老报告后，再去那个叫做银色新月修炼场的地方吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "你回来了啊。情况怎么样？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（讲述了寂夜沼泽的情况）</FONT>",
+      "answer": "",
+      "image": "qw_87.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "嗯，比想象的更严重啊……<FONT color=#7e12d2>（精灵长老的脸色暗了下来）</FONT><br>我接下来要拜托<FONT color=#387206>{user_nick}</FONT>你巡查的地方情况也很不好……森林怎么会变成这个样子了呢……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这次是哪里呢？</FONT>",
+      "answer": ""
+    }
+  ]
+}

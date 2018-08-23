@@ -1,0 +1,149 @@
+{
+  "qkname": "卡拉翰的制作方法",
+  "data": [
+    {
+      "npc": "卡拉翰",
+      "question": "由我卡拉翰亲手制作的药，那可等同于是包治百病的药啊，哈哈哈~！<br>\n<FONT color=#7e12d2>（可以从卡拉秋的草屋的西戴尔那里获得并进行任务）</FONT>",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "察提",
+      "question": "\n卡拉翰会制作出可以治疗我们部族族人的药。<br>\n<FONT color=#7e12d2>（可以从卡拉秋的草屋的西戴尔那里获得并进行任务）</FONT>",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "\n去利物沃特码头和<FONT color=#a82424>卡拉翰</FONT>见个面吧。<br>\n ",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "那个男人……到底在打什么算盘……？<br><FONT color=#a82424>察提</FONT>一定要没事才行啊……",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "察提",
+      "question": "卡拉翰会告诉我怎么去治疗我们部族的族人的！",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "好吧，从哪里开始呢。<br><FONT color=#a82424>卡拉秋</FONT>一定会说是我背叛了<FONT color=#a82424>佩奥里斯塔</FONT>。<br>不过，事实并非如此。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "恰恰相反，是佩奥里斯塔辜负了我，每一代佩奥里斯塔的继承人都是女人，这是因为女人在秘传魔法上都有着卓越的才能。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "可我却不同。我是个集马里安和帕雷利娜之后所有秘传魔法的魔力和才能于一身的天才。哈哈……当然我也成为了佩奥里斯塔的<FONT color=#a82424>正统继承人</FONT>。<br>\n<FONT color=#7e12d2>（卡拉翰继续大言不惭地自吹自擂）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "成为佩奥里斯塔的继承人之后，为了获得更高层次的魔力，我进行了各种零碎的实验。这个嘛，大体上实验不都是这样嘛，必然会需要一些小小的牺牲。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "但是，佩奥里斯塔却认为那些小小的牺牲是个大问题，将我逐出门户，她们都是一帮胆小鬼，明知有捷径可走，却害怕走上那条捷径，所以才将我赶了出去。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "就算被逐出了门户，我也依然没有停止对秘传魔法的研究。你也知道，我的<FONT color=#a82424>妹妹</FONT>已经变成了一个满脸皱纹的<FONT color=#a82424>老太婆</FONT>，可是我还保持着年轻，这可都是我的实力所在。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "连<FONT color=#a82424>卡拉秋</FONT>都达不到的秘传魔法的最高境界，最终由我实现了。所以，比起卡拉秋，我的治疗方法应该会更加有效吧？",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不管怎样，请把治疗方法告诉我。</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "没想到你还挺心急的嘛。<br>我刚刚所说的，只不过是我伟大的冒险故事的开端。嗯，治疗的方法很简单。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "使用三种药材制作成治疗药，就能中和他们体内的毒素。药材就是<FONT color=#a82424>黑灰蘑菇</FONT>、<FONT color=#a82424>腐败的沼泽苔藓</FONT>还有<FONT color=#a82424>丛林水芹</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>它们可以从哪里找到呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "<FONT color=#a82424>黑灰蘑菇</FONT>主要生长在阴影的废墟地带。<br>你可以从<FONT color=#a82424>古代武器库的东边</FONT>那里找到。",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那其他的呢？</FONT>",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "<FONT color=#a82424>腐败的沼泽苔藓</FONT>可以从<FONT color=#a82424>古代图书馆</FONT>找到，还有<FONT color=#a82424>丛林水芹</FONT>可以从<FONT color=#a82424>利物沃特村庄废墟</FONT>找到。",
+      "answer": "",
+      "image": "qw_51.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "我看你好像已经集齐了材料。<br>只要把材料给我，我就能在<FONT color=#a82424>3秒</FONT>内制作出药来。",
+      "answer": "（递上材料）",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "大概会花上<FONT color=#a82424>1.5秒</FONT>的时间哦，呵呵……<br>来，现在你就去把这个治疗剂交给原住民吧，<FONT color=#a82424>察提</FONT>应该知道原住民在哪儿。",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "察提",
+      "question": "ionTalk2}<br><FONT color=#a82424>卡拉翰</FONT>真了不起！<br>一眨眼的工夫就把药制好了~。<br>不过……你可以帮我个忙吗？",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>要我帮什么忙？</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "察提",
+      "question": "我会将药拿给我们部族的族人的。麻烦你去帮我看看<FONT color=#a82424>西戴尔</FONT>吧，他好像因为我很伤心的样子……",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "qkname": "寻找答案之人",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（告诉贝勒尼卡有关逃亡的查尔德的事情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "切，在这种时候居然跑出这么只苍蝇来，麻烦死了。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "以后出什么事就糟了，你去寻找那家伙的下落吧。如果他穿过了峡谷，去了其他领地，那就别追了。知道了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（逃亡的查尔德为什么会出现在格雷尔的家？真的是为了报仇而来吗？格雷尔是不是被他带走了呢？现在还不清楚格雷尔的下落，还是先按照贝勒尼卡大人所说，追查查尔德吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "里皮乌斯",
+      "question": "从<FONT color=#a82424>毁坏的世界</FONT>来的旅行者啊……我等你很久了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好，知道了。我现在就去</FONT><FONT color=#a82424>破裂的金石峡谷</FONT><FONT color=#662500>。</FONT>",
+      "answer": "",
+      "image": "qw_107.png"
+    },
+    {
+      "npc": "里皮乌斯",
+      "question": "从<FONT color=#a82424>毁坏的世界</FONT>来的旅行者啊……我等你很久了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>难，难道你是</FONT><FONT color=#a82424>里皮乌斯</FONT><FONT color=#662500>？你怎么会在这里？你也是从</FONT><FONT color=#a82424>阿尔特里亚原型的复制品</FONT><FONT color=#662500>吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "里皮乌斯",
+      "question": "哈哈……我是你认识的那个里皮乌斯，同时也不是。我既属于阿尔特里亚，但同时也属于迷之大陆。或者，两个世界全都不属于。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（啊……又开始了……我无法理解里皮乌斯所说的话……里皮乌斯原本就有点特别，在这里也会出现啊）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哦……？你……总感觉是我很熟悉的精灵啊……？我们在哪里见过吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "里皮乌斯",
+      "question": "没错，其实我是从阿尔特里亚来到这里的。我们可能在哪里见过，也可能没有见过……我不停地走，曾经迷失于众多道路，现在终于要找到失去的记忆了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（唉？从阿尔特里亚以实体就这么过来了？奇怪了。即使从阿尔特里亚可以通过次元缝隙过来，但是阿尔特里亚的存在，在这里就像是幻影一样，是不能有实体的啊？他也不像我拥有宝玉……？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（先不管这些，问问他有没有看到格雷尔或者逃亡的查尔德吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "里皮乌斯",
+      "question": "蓝头发的少年和逃跑的查尔德……我好像是看见一个逃跑的查尔德，但他只有一个人啊。",
+      "answer": ""
+    },
+    {
+      "npc": "里皮乌斯",
+      "question": "而且，他似乎在找什么人。虽然不知道他的目的是什么，但是他还是穿过峡谷，去了其他地方。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（看来格雷尔不是被逃亡的查尔德带走了。以防万一，问问他有没有见过卢比纳特和杰兰特吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "里皮乌斯",
+      "question": "嗯……你是问我，有没有见过金发的看上去很拽的小鬼，还有红发红眼睛的……比小鬼看上去还要拽好几倍的男人？",
+      "answer": ""
+    },
+    {
+      "npc": "里皮乌斯",
+      "question": "<FONT color=#7e12d2>（里皮乌斯静静地笑了）</FONT><br>这个嘛……这么有趣的生命体组合（?），我似乎见过又似乎没见过……不过，不用太担心，旅行者啊。",
+      "answer": ""
+    },
+    {
+      "npc": "里皮乌斯",
+      "question": "他们还安全地活着。但是，这个世界的毒对他们很不好。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（哦？这不是说了和</FONT><FONT color=#a82424>艾瑞斯</FONT><FONT color=#662500>一样的话吗？卢比纳特和杰兰特还活着。但是，这个世界的毒是有害的！）</FONT>",
+      "answer": "",
+      "image": "qn_iris.png"
+    },
+    {
+      "npc": "里皮乌斯",
+      "question": "再这么下去，<FONT color=#a82424>红发的青年</FONT>会暂时被毒气所伤。 <FONT color=#a82424>金发少年</FONT>虽然会想办法……但是他们走得太远了，因此反而会被困住……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你见过卢比纳特和杰兰特吗？和艾瑞斯也见过面？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "里皮乌斯",
+      "question": "<FONT color=#7e12d2>（里皮乌斯静静地笑了）</FONT><br>我虽然找到了答案，但也不过是个旅行者而已。旅行者们在旅行的途中，转着转着就会见面，然后又会分开。",
+      "answer": ""
+    },
+    {
+      "npc": "里皮乌斯",
+      "question": "所以，等到时机成熟，他们和你就会在同一条路上相遇了。在那之前，我们只要在各自的路上继续走下去就行……….",
+      "answer": ""
+    },
+    {
+      "npc": "里皮乌斯",
+      "question": "<FONT color=#7e12d2>（里皮乌斯似乎不想再继续对话了。还是回去找</FONT><FONT color=#a82424>贝勒尼卡</FONT><FONT color=#7e12d2>吧）</FONT>",
+      "answer": "",
+      "image": "qn_vernicka.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（向贝勒尼卡报告逃亡的查尔德似乎已经越过峡谷，前往其他的领地了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "是吗，太好了。既然他去了其他的领地，那就是别人的事情了。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "啊，对了。<FONT color=#a82424>伊贝尔</FONT>又给你寄了 <FONT color=#a82424>信</FONT>。",
+      "answer": "",
+      "image": "qn_hiver.png"
+    }
+  ]
+}

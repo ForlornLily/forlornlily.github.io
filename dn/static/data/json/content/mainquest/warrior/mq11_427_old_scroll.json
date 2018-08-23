@@ -1,0 +1,122 @@
+{
+  "qkname": "古代人的卷轴",
+  "data": [
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "辛苦你了。<br>\n既然魂和纹章都已经具备了，现在应该准备仪式了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的。拜托您了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "祭坛已经设好，仪式也顺利开始了。<br>虽然暂时没什么大问题……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>您在担心什么吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "实不相瞒……要想举行大规模的仪式，还需要一种可以控制巨大力量的<FONT color=#a82424>卷轴</FONT>。我的卷轴是古代人为了传授给人类而经过修改的卷轴，要想举行大规模仪式，它的不足之处还有很多。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……原来如此。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "所以现在需要<FONT color=#a82424>古代人的卷轴</FONT>。如果是古代人在进行重要仪式时所使用的卷轴，应该就能控制海怪的强大力量。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那要在哪里找到呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "在<FONT color=#a82424>枯叶森林爆炸地区</FONT>。那里由于古代人的一次实验失去了所有的生命变得一片荒芜。所以，据说在那里留有一张可以控制巨大力量的卷轴。",
+      "answer": "",
+      "image": "qw_41.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那样的话，不是一件危险的物品吗？</FONT>",
+      "answer": "",
+      "image": "qw_41.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "这要看是谁用在什么地方了。不要忘了，力量只不过是一种工具而已。只要有着为神圣天堂的安危着想的忠心，即使是强大的力量也一定能够驾驭的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>您说得很有道理。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "那张卷轴就在<FONT color=#a82424>枯叶森林爆炸地区</FONT>，被那里最强大的怪物之一带在身上，你去好好找找吧。拜托你了。",
+      "answer": "",
+      "image": "qw_41.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "那张卷轴就在<FONT color=#a82424>枯叶森林爆炸地区</FONT>，被那里最强大的怪物之一带在身上，你去好好找找吧。拜托你了。",
+      "answer": "",
+      "image": "qw_41.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "亲爱的朋友，神圣天堂忠实的守护者<FONT color=#387206>{user_nick}</FONT>！<br>你找到<FONT color=#a82424>古代人的卷轴</FONT>了吗？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（怎么称呼好像变得越来越宏伟了……）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "<FONT color=#7e12d2>（主教接过了古代人的卷轴）</FONT><br>真了不起！！我甚至都找不到用什么词来称赞你了。噢噢……神怎么没早点把你派到我的身边来呢。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "祭坛一设好，就要举行剩下的仪式了，你就先下去休息吧。这段时间忙坏你了，现在可以去街上转转，难得放松一下。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的。那就拜托您了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "呵呵。不必担心，下去吧。这都多亏了你。<br>我见到的冒险家之中，没有一个人像你这么能干。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "相信我吧！<br>不过，看样子<FONT color=#a82424>杰兰特</FONT>还没有完全恢复，你多操些心吧。<br>\n<FONT color=#7e12d2>（主教像个吃饱了的老狐狸一样笑着）</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

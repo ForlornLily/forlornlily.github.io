@@ -1,0 +1,237 @@
+{
+  "qkname": "时代的召唤",
+  "data": [
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "\n拿着，这是暗影喵寄给我的信。<br><FONT color=#7e12d2>(从斯泰拉那里接过了信)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵的信",
+      "question": "徒弟……你得感谢我这个老师！！看到信之后，立即过来找我喵。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "真是个奇怪的朋友。还有那个研究资料，其他人怎么找都找不到。有人说可能被谁先拿走了。你……你听到过什么消息吗？",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "唉，真气人！难，难道被鬼魂拿走了吗……你快去找那个什么暗影喵吧。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "我已经厌倦了这样的命运。<br>像这样死了又死，我还要看多久啊……",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "哈……我的梦想什么时候才能实现呢？<br><FONT color=#7e12d2>(请到神圣天堂去寻找暗影喵)</FONT>",
+      "answer": "",
+      "image": "qn_npc_shadow_meow.png"
+    },
+    {
+      "npc": "暗影喵",
+      "question": "喵喵！徒弟，一直没有你的消息喵。但是师父我一向感觉敏锐，不得不过来给你一个忠告喵。你看看这个喵！这张纸上画着的应该是你和你的女朋友吧喵？",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(画着长着白色长头发的少女和我的形象)……确实是的。不过这是什么？</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "暗影喵",
+      "question": "呵呵呵，这是一个梳着两条辫子，戴着眼镜的女孩拿着的纸喵。她拿着这个东西在一个瓦罐前面自言自语喵。所以我把那个女孩说的话记下来了喵。<FONT color=#7e12d2>(暗影喵把纸交给了我) </FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_normal.png"
+    },
+    {
+      "npc": "暗影喵的便条",
+      "question": "<FONT color=#086171>本结论是以我搜集到的XD系列的证言为基础而得出的。<br>我认为，有人在历史记录中被遗漏了。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_normal.png"
+    },
+    {
+      "npc": "暗影喵的便条",
+      "question": "<FONT color=#086171>从那个人的事迹来看，应该和有记载的6位英雄不相上下，但却完全没有记录。<br>据说有的时期，他就像是</FONT><FONT color=#a82424>[从这个世界中消失了一样]</FONT><FONT color=#086171>，完全没有留下任何痕迹。<br>在任何地方都无法找到与他有关的资料。身份不明。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_normal.png"
+    },
+    {
+      "npc": "暗影喵的便条",
+      "question": "<FONT color=#086171>只有唯一的一次记录，提到了他身边的某个少女。<br>据说那个少女感觉不像是人类。<br>我认为必须对他们进行研究，所以才会提交此报告。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_normal.png"
+    },
+    {
+      "npc": "暗影喵的便条",
+      "question": "<FONT color=#387206>(另一个声音)</FONT><br><FONT color=#387206>嗯……我们没有在他那个时代生活过，所以不知道为什么没有留下有关他的记录。但是根据你的报告，我不觉得有进行调查的价值。对我们来说，最重要的是执行最终计划。这种小事并不会妨碍我们。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_shadow.png"
+    },
+    {
+      "npc": "暗影喵的便条",
+      "question": "<FONT color=#086171>(原来的声音)<br>明白了。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_normal.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(从时代之类的话来看，会是和柯梅里纳一样来自未来的某个人吗？她好像看到了我，并向未来的某人进行了报告。但是未来的某人好像认为我和露娜莉娅并不重要……)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(不过……柯梅里纳也说过，提交这份报告的少女也说。未来没有关于我的资料？ </FONT><FONT color=#662500>我真的没有留在历史中吗？为什么……？？)</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "暗影喵",
+      "question": "怎么样喵？是不是很有帮助喵？",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "呵呵，我很高兴喵。徒弟，现在你要去哪儿呢喵？<br>要去找你的女朋友吗喵？",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>(一副茫然无措的表情)<br></FONT><FONT color=#387206>{user_nick}</FONT>……你来晚了一点……啊，大，大事不好了……",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "据说<FONT color=#a82424>荒漠风暴</FONT>……成功了……<br>被XD-29抢先了一步……！",
+      "answer": "",
+      "image": "qn_npc_academic_normal.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你说什么！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……其他英雄先过来了……我下意识地请他们帮忙，让他们和我一起战斗……但是他们说要向王城报告……这是很正常的事情……但是……这样会把这个时代的太多人卷进来……我很担心……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>为了守护这个时代而战，借助这个时代的力量，不是很正常吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "但是改变太多历史的话…… 那就糟了。我也不知道会发生什么事……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……不知道会发生什么事也是正常的……你又不是算卦的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "嗯？但，但是……那样的话，要寻找对策或解决方法，不得花费很多时间吗？我是从未来来的，不想想未来的道路会怎样的话……<FONT color=#387206>{user_nick}</FONT>，你之前不是也是这样做的吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不，我完全不知道未来。我不知道会发生什么事，只是专心解决眼前遇到的事情，然后来到了这里。我分不清和我同行的到底是过去还是未来。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "那样做太鲁莽了……必须知道会变成什么样……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不过不是说什么事情都不做，就会有更好的未来。并不是害怕改变，就什么都不会改变。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>(用吃惊的眼神看着我)</FONT><FONT color=#2b2723>…</FONT>你说的好像是对的……不过，让我担心的是……改变这个时代的未来的人是我……如果我失败了……我……不能不负责任。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……首先……<FONT color=#387206>{user_nick}</FONT>，你说得对。虽然我们没能阻止这次的计划，但我会努力寻找方法，去帮助其他人的。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "好的，我要到<FONT color=#a82424>狂人研究所</FONT>去寻找资料了。<FONT color=#387206>{user_nick}</FONT>，如果有什么事的话，请到那里去找我。对了，你能把这件事告诉斯泰拉吗？",
+      "answer": "",
+      "image": "qw_70.png"
+    },
+    {
+      "npc": "暗影喵",
+      "question": "嗯？<FONT color=#a82424>泰努阿尔神殿</FONT>喵？要去那种危险的地方喵……<br>知道了喵。路上小心喵。<br><FONT color=#7e12d2>(请到泰努阿尔神殿去找学者柯梅里纳)</FONT>",
+      "answer": "",
+      "image": "qw_72.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "来啦！！你也听说了吗？？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "未来人！！那个少女不是鬼，而是未来人～而且她是站在我们这一边的。我就知道是这样。怎么可能是鬼？呵呵呵呵～安杰利卡那家伙总算打听到了有用的东西。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>(斯泰拉也知道了啊)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "克隆体的入侵，还有与之对抗的另一个少女克隆体……！真是让人心潮澎湃！！现在不是说这些的时候！让我们忘了过去，去揭开未来人的秘密吧。怎么样！！你也赞成吗？？",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "呵呵呵～必须先向宫廷报告。卡拉安一定会非常吃惊的～<br>啊，对了，那个暗影喵好像又在找你，你快去看看吧～<br><FONT color=#7e12d2>（斯泰拉嘴里哼着歌）</FONT>",
+      "answer": "",
+      "image": "qn_npc_shadow_meow.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "以后也许要让你帮着搜集有关未来人的资料，到时一定要过来找我！<br><br>* <FONT color=#7e12d2>（请去找暗影喵）</FONT>",
+      "answer": "",
+      "image": "qn_npc_shadow_meow.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "话说那个未来人！！那个少女不是鬼，而是未来人~ 而且她是站在我们这一边的。我就知道是这样。怎么可能是鬼？呵呵呵呵～安杰利卡那家伙总算打听到了有用的东西。",
+      "answer": "",
+      "image": "qn_npc_shadow_meow.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "那就拜托你了。<br>\n<FONT color=#7e12d2>(请到神圣天堂去向高级魔法师斯泰拉报告)</FONT>",
+      "answer": "",
+      "image": "qn_npc_soceressstella.png"
+    }
+  ]
+}

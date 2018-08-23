@@ -1,0 +1,216 @@
+{
+  "qkname": "不在这里的女人",
+  "data": [
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "光是把黑龙的翅膀碎片带在身上，好像没什么意义。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "看来最好还是去拜托那个人，虽然可能会有点困难。<br>如果这是缘分的话，我想你一定可以见到<FONT color=#a82424>那个人</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "在漫长的时间里守护着黑暗边界的女神官中，看到过最深的黑暗，却仍然没有失去自我的那个人。<br>可以说是我的前辈。<FONT color=#a82424>黑暗女神官埃克莱尔</FONT> ……！她也许可以帮助你。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "好的，我把这个借给你。<br>这是黑暗女神官指南针。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "沿着指南针指示的方向走，应该就能追踪到她的痕迹。<br>当然，如果女神的意志允许你见到她的话。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "???",
+      "question": "真的没有吗……？不在这附近吗……<br><FONT color=#7e12d2>(有个陌生的魔法师在四处张望)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我没什么话可说。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "现在指南针指示的方向是<FONT color=#a82424>沉没的货船</FONT>那边。<br>请到那边去看看。愿女神的黑暗可以驱赶走你的黑暗。",
+      "answer": "",
+      "image": "qw_46.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你应该和那个魔法师谈谈。<br>而不是我。",
+      "answer": "",
+      "image": "qn_npc_karakule.png"
+    },
+    {
+      "npc": "???",
+      "question": "真的没有吗……？耳环那种东西应该没有人会捡走啊？<br>\n唉……<br><FONT color=#7e12d2>(陌生的魔法师在四处张望)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "???",
+      "question": "咦，你是……？！<br>\n<FONT color=#7e12d2>(陌生的魔法师眯起眼睛，看着我)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "嗯～<FONT color=#387206>{user_nick}</FONT>？你<FONT color=#a82424>现在</FONT>果然好像不认识我了。<br>我得自我介绍一下吗？我是<FONT color=#a82424>卡拉秋·佩奥里斯塔</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(嗯？那个卡拉秋？英雄卡拉秋？<br>怎么回事？又穿越时间了吗？)</FONT>",
+      "answer": "",
+      "image": "qn_npc_karakule.png"
+    },
+    {
+      "npc": "卡拉秋",
+      "question": "哎呀～干嘛这么吃惊？<br>呵呵呵呵，真好玩。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你认识我吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋",
+      "question": "这个吗～你说呢～？呵呵呵呵。<br>有事情想跟我说的人应该是你吧？快说吧。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "他有事想跟你商量。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋",
+      "question": "好的，我听着呢。<br>是什么呢？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，快说。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>又推给我吗……<br>说出来真的没关系吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "那个<FONT color=#a82424>指南针指示的地方</FONT>，不就是这里吗？<br>也许就应该和这个人商量。<br>\n……不过也许又不是。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>也许是吧。<br>(既然是六位英雄之一，说不定知道些什么……)</FONT>",
+      "answer": "",
+      "image": "qn_six_heroes_silhouette.png"
+    },
+    {
+      "npc": "卡拉秋",
+      "question": "你想说的是<FONT color=#a82424>穿越时间的力量</FONT>，或者<FONT color=#a82424>你体内的另一个人</FONT>，不是吗？<br>拥有那么伟大的力量，却还是这么痛苦，这可不太好。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "你是怎么……？！",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋",
+      "question": "你认为我是怎么知道的呢？呵呵呵。<br>再听听也挺有意思的。<br>有个稍微奇特一点的魔法师听到的话，说不定会把你当作<FONT color=#a82424>研究材料</FONT>～",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我可不要。<br>要是用作那种用途的话，就把<FONT color=#387206>{user_nick}</FONT>一个人带走吧。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋",
+      "question": "呵呵呵，不用紧张。佩奥里斯塔引以为豪的秘传魔法是不会靠折磨别人获得力量的。<br>嗯～但是很抱歉，我也不知道控制那种力量的方法。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋",
+      "question": "这件事很有意思，以后有时间的话，我会研究一下。如果你们真的可以穿越时间，那应该可以去找完成了研究的我 啊。去找那个完成了所有工作，成为了美丽英雄的未来的我。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我没办法随意穿越。就算穿越到了未来，也没有意义。<br>只是在时间上面再覆盖上一层时间罢了，无法纠正问题，也没办法再经历一次。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋",
+      "question": "那就麻烦了。也就是说，就算现在努力生活，也有可能等不到光明的未来，而是回到过去，是吧？<br>要是做了让自己后悔的事，然后又回到了做错事的那个时期，那就真的麻烦了。<br>人生又不能再活一次……",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋",
+      "question": "不管怎样，等我打败<FONT color=#a82424>黑龙卡拉斯</FONT>之后，我会研究一下你们的问题。<br><FONT color=#a82424>人类如何驯化自己体内的魔物</FONT>～～诸如此类的东西。呵呵呵呵。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你认识黑暗女神官埃克莱尔吗？<br>听说她也许可以帮助我们。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋",
+      "question": "嗯～～～我还是头一次听到。女神官？女神官？<br><FONT color=#a82424>黑暗女神官</FONT>……嗯～我不知道。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "没有任何成果。<br>\n<FONT color=#7e12d2>{user_nick}</FONT>，这算是白辛苦了一趟吗？",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋",
+      "question": "哼！长得挺可爱的，怎么说话跟<FONT color=#a82424>阿尔杰塔</FONT>一样刻薄……啊，对了！<br>喂，如果你能穿越时间的话，就不能作出预言之类的吗？未来我怎么样了……<br>\n啊！等等！喂！！！<br><FONT color=#7e12d2>(卡拉秋的声音渐渐远去)</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "卡拉秋",
+      "question": "真的能穿越时间吗？<br>真神奇……？！<br><FONT color=#7e12d2>(卡拉秋的形象逐渐变得模糊起来)</FONT>",
+      "answer": "",
+      "image": "qn_npc_karakule.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你看到的是过去的她。<br>现在又回到了现在……我们要找的东西好像不在这里。",
+      "answer": "",
+      "image": "qn_npc_karakule.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "那个指南针又在转动。<br>这次指向的地方是……",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "question": " <br>\n<FONT color=#7e12d2>(露娜莉娅看着指南针的指针)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    }
+  ]
+}

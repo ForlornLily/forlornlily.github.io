@@ -1,0 +1,139 @@
+{
+  "qkname": "再见面的少女",
+  "data": [
+    {
+      "npc": "西戴尔",
+      "question": "突然现身的不明身份的剑士是 <FONT color=#a82424>巴尔纳</FONT>…。<br>而且他已经去世了…到底发生了什么事？",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "特拉玛依的到来让我的心好踏实。<br>呐，赶紧去<FONT color=#a82424>利物沃特码头</FONT>，与等在那里的客人见面吧。<br>特拉玛依说你认识那些人的。",
+      "answer": "",
+      "image": "qw_liverwortferry.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "快到<FONT color=#a82424>利物沃特码头</FONT>去吧。<br>到了那里，你就知道我为什么说有办法了。<br>女神慈悲的呵护永远与我们同在。",
+      "answer": "",
+      "image": "qw_liverwortferry.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "巴尔纳…请务必让他得到安息….",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "…我们以前见过吧？<br>好像在梦里见过似的，记不清了，但你的脸很熟悉。<br><FONT color=#7e12d2>（萝丝用温柔的眼神看着你）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>萝丝……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "是你把我从睡梦中叫醒的吧。<br>我正在不停的逃亡之中…，突然听到了<FONT color=#387206>{user_nick}</FONT>你的声音。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎么回事…？你是…</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "尽管说起来惭愧，我曾经被龙之追随者们抓走了，但偶然的机会，被<FONT color=#a82424>特拉玛依</FONT>救了出来。他说不能放弃，并一直悉心照顾着我。",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（和记录的不一样….难道，历史被更改了？）</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "你一直在为了拯救素不相识的我而努力吧。<br>真的很感谢你。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你现在没事了吗？这是怎么回事？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "尽管说起来惭愧，我曾经被龙之追随者们抓走了，但偶然的机会，被特拉玛依救了出来。他说不能放弃，并一直悉心照顾着我。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真是太幸运了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "我好想帮助救过我的特拉玛依，还有<FONT color=#387206>{user_nick}</FONT>您。这段时间以来你们为我吃了这么多苦…哪怕是能给你们一丁点回报，我也会努力的。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "我是看到女神梦境的人…<br>阿尔特里亚就是在女神的梦境中形成的世界。<br>通过这种力量，我就能知道巴尔纳现在的情况和所在的位置。<br><FONT color=#7e12d2>（萝丝像在祈祷一样，闭上了眼睛）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "巴尔纳现在……<br>正在\n<FONT color=#a82424>盲目溪谷</FONT> 附近。<br>由于女神的噩梦正在世界上扩散，我看不清太多的东西。趁现在还不算太晚，必须抓紧时间。",
+      "answer": "",
+      "image": "qw_67.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那么，我现在就去盲目溪谷。</FONT>",
+      "answer": "",
+      "image": "qw_67.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "拜托你了。<br>我会和特拉玛依一起去<FONT color=#a82424>盲目溪谷</FONT>的。<br>希望那个可怜的人能早日得到安息….",
+      "answer": "",
+      "image": "qw_67.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#a82424>你是说盲目溪谷</FONT>吗？<br>好吧，既然先知这么说，那肯定没错了。<br>那，赶紧去找巴尔纳吧。",
+      "answer": "",
+      "image": "qw_67.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "特拉玛依和那个…叫做先知的少女一起去了<FONT color=#a82424>盲目溪谷</FONT>吗？<br>我要向塔玛拉转告消息，听取他的意见。<br>再见了。",
+      "answer": "",
+      "image": "qw_67.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "怎么会……<br><FONT color=#7e12d2>（特拉玛依咬紧嘴唇）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>特拉玛依….</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你先回去卡拉秋的草屋，我会告诉你下一步怎么做的。<br>既然巴尔纳已经没了，就不应该在这里再看到他了….<br><FONT color=#7e12d2>（特拉玛依离开了）</FONT>",
+      "answer": ""
+    }
+  ]
+}

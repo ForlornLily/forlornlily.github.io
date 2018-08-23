@@ -1,0 +1,117 @@
+{
+  "qkname": "受痛苦的新月森林",
+  "data": [
+    {
+      "npc": "阿尔杰塔",
+      "question": "果然…那些家伙也来这儿了吗。<br>你不会是让叫龙之追随者还是什么玩意儿的东西跟在尾巴后面吧? ",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9266_01.ogg}<br>话说回来相当棘手啊。<br> <FONT color=#a82424>他</FONT>还没有完全恢复力量啊....",
+      "answer": "",
+      "image": "qn_npc_geraint_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>…他?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "嗯，跟你无关。<br>比起那个，对龙之追随者正在散布的毒讲讲吧。",
+      "answer": "(说明毒的色和香)"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9266_02.ogg}<br>这跟埃雷娜用的差不多嘛? 他们做的事真的连鹰身人的毛孔程度的创意力都没有呢?<br>还有你也是!",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "和人类村庄不同，那种毒对精灵之森是起不了什么大作用的。<br>这种程度就算是你也知道吧?",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "不过现在的内尔文光是维持森林就很吃力嘛。",
+      "answer": "",
+      "image": "qn_archer_nerwin_silhouette.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "那你应该把搬运毒物的家伙抓过来，或者把毒带给我吧。<br>这么笨呢!",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>带着毒先逃跑了啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "所以我说你没有创意力啊。<br>笨手笨脚的家伙们肯定在途中漏下一些毒吧?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>(看起来不像啊...)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9266_03.ogg}<br>不相信吗? <br>反正你!给我重新去<FONT color=#a82424>沙尘之海</FONT>找到龙之追随者漏掉的毒并带回来。知道了吧?",
+      "answer": "",
+      "image": "qw_76.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我只是叫你把龙之追随者在<FONT color=#a82424>沙尘之海</FONT>漏掉的毒带回一些，干吗这么扭扭捏捏的?",
+      "answer": "",
+      "image": "qw_76.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "看吧。我就说能找到吧?<br>很危险快给我看看。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这个很危险吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "这种毒能瞬杀掉人类呢。无语吧?<br><FONT color=#7e12d2>(阿尔杰塔用手沾了些毒，开始尝)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不要紧吧?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9266_05.ogg}<br>你还在担心我吗? 果然是学习能力不足吗?<br>嗯…呸! 比起埃雷娜的毒要浓啊。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "这种程度的话可能真的有点危险了。<br>首先，你去告诉阿努阿兰德的<FONT color=#a82424>其他精灵们</FONT>关于毒的存在吧。",
+      "answer": "",
+      "image": "qn_npc_azelia.png"
+    },
+    {
+      "npc": "任务奖励",
+      "question": "ndnpc_AN_Argenta_qu_9266_06.ogg}",
+      "answer": ""
+    }
+  ]
+}

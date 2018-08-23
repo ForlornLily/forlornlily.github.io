@@ -1,0 +1,295 @@
+{
+  "qkname": "某个结局",
+  "data": [
+    {
+      "npc": "精灵长老",
+      "question": "我正在等你。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "你没什么发现吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……一无所获。虽然见到了一个使徒，但他没和佩达在一起。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "是吗。<br>这可难办了。我们该从哪里开始着手搜索呢……",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "啊，不如你去见见那位黑骑士，和他联手怎么样？黑骑士现在在痛哭墙。我听说他拥有古代龙的力量，相信应该能帮上忙。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "他在<FONT color=#a82424>痛哭墙</FONT>。拜托你了。",
+      "answer": "",
+      "image": "qw_95.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这是怎么回事？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你刚才已经亲眼看到了，还来问我？\n难道你就只保留个完整无损的身躯，脑袋却已经失去思考能力了？",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "现在没时间闲聊。<br>据那个堕落的先知说，你之所以会在这里，很可能意味着巨石碑结界被削弱了。这样说来佩达和阿尔杰塔可能也会露面。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "可奇怪的是，我在这么近的距离条件下也无法感知到他们的气息……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不好意思，你能不能说得明白点……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……<FONT color=#7e12d2>（贝思柯德很不耐烦地皱起了眉头。似乎把已到嘴边的脏话又咽了回去）</FONT><br>你、杰兰特、阿尔杰塔、佩达，还有个不知是啥的家伙，巨石碑之门开启的一瞬间，该处的所有物体都被卷进了黑暗之中。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "想必是那门中的女神之噩梦倾泻出来了。你们被卷进去之后，巨石碑之门周围的一切就被强力的结界所包围，谁也无法进入。虽说幸好噩梦没有泄露出来，但也没法靠近，不知道里面到底发生了什么事情。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你既然会从里面被弹出来，说明结界可能已经解除……奇怪的是，我完全察觉不到他们俩的气息。是因为有其他的阻碍吗。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你有没有什么头绪？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……（阿尔杰塔和杰兰特还没回来？还有佩达也是……嗯……果然不出我所料……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅……这很可能是因为露娜莉娅。</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "露娜莉娅？！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的。据说她是维斯提内女神的分身……可以穿越时间……她浑身雪白，个子高高的，头发很长……（简单地描述了一下露娜莉娅）</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "维斯提内的碎片？！你说露娜莉娅是维斯提内的碎片？<br>哈，哈哈哈哈……！有意思！这下子情况就说得通了！",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德？你认识露娜莉娅？</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "她是过去某个做过使徒的家伙身边的女人。哼，现在我差不多能想明白为什么他和露娜莉娅会遭到追踪了。",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "好。那我们去找找吧。既然这里找不到，你就去<FONT color=#a82424>监视者之塔</FONT>看看。我去女神之瞳找。",
+      "answer": "",
+      "image": "qw_94.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "露娜莉娅？！你说的是你以前常带在身边的那个女人？<br>这是怎么回事！！你这家伙是不是干了什么坏事！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你问我我问谁啊！！露娜莉娅是维斯提内的分身，还和佩达是一伙的事，我完全不知情！我原本想保护露娜莉娅不受佩达的伤害！可如果他们两个勾结，我为她做的那些事又成了什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "她总是那样。那女人……把所有责任都推到你身上，然后自己一贯保持不知情的态度，只是冷眼旁观着所有悲剧。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……！？幻象？",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "这次也一样……",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "我说过了。你就是我，我就是你！你现在这么痛苦都是你咎由自取。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>闭嘴！我不想看到你……！之前你自作主张地消失！现在凭什么来对我说三道四！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "我消失？那只是因为我渐渐失去了呆在外面的理由，所以你就看不见我了。<br>\n但我始终都在你体内。你我终究是同一人。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>闭嘴……！我不想听！你别说了！我不是你……！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……我都看不下去了。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>（贝思柯德砰！的一声，用剑柄敲了我的头。由于力道太重，我顿时被敲得眼冒金星）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>疼死了！你干什么！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "现实表明你这家伙脑袋没聪明到会和露娜莉娅一起搞什么阴谋，你到<FONT color=#a82424>监视者之塔</FONT>去吧。我要去女神之瞳。",
+      "answer": "",
+      "image": "qw_94.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哼……知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……哦，话说回来，贝思柯德你怎么知道阿尔杰塔和杰兰特的气息呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>（贝思柯德一副无语的表情）</FONT><br>你害我欠了人情，居然还不记得？死小鬼！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我做什么……啊，对哦。我把古代龙的宝玉给你了……<br>哦？靠那宝玉可以探知他们的气息吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>（贝思柯德的脸上逐渐泛起杀气。好像再一次强忍下了口中的话。）</FONT><br>\n我还以为你多少该懂事了些，没想到依然是个小毛孩。现在我没时间回答你那无聊的问题！",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "呼……你探索完了，就到熔岩江入口来。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃？为什么？不是该先向长老报告吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>（贝思柯德似乎真发火了）</FONT>你是杰兰特吗！不一一说明你就听不懂？还要我一词一句地跟你解释吗！眼下那个长老离巨石碑远得很，离巨石碑较近的是我们！没时间磨蹭，现在只有我们可以去搞清楚情况！",
+      "answer": "",
+      "image": "qn_gereint_twoeyes.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊……我，可是……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "快走，看见你就烦！白痴一个！<br>\n<FONT color=#7e12d2>（贝思柯德似乎不想再开口了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（看样子他被我问烦了……到监视者之塔去吧。</FONT><br>\n<FONT color=#662500>哎，虽说我至今为止见过露娜莉娅很多次，却不清楚她的实力高低，这块碎片现在也不发光了……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（贝思柯德……一段时间没见，他好像变得更暴躁了……会不会是我的错觉呢）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（他该不会真的生气了吧？这样不好唉。可我也是第一次像这样在时间里来回穿梭，感觉脑袋里好混乱）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（不过……贝思柯德现在能感知到阿尔杰塔和杰兰特的气息，说明他真的在使用古代龙的力量了）</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（嗯？说到这事，我怎么察觉不到……？复制的宝玉和真正的宝玉果然是有差异的吗……？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（哎，我不该胡思乱想的！眼下要做的事都堆成山了！未来世界还不一定会灭亡，我即使不是龙，守护这个世界以及这其中的所有生命的任务对我来说也是最重要的。之前我不都下定决心了嘛）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（总之，到</FONT><FONT color=#a82424>监视者之塔</FONT><FONT color=#662500>去……就行了吧？）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>（贝思柯德轻轻叹了口气）</FONT>你傻啦吧唧地在那里嘀咕什么……<br>真那么不明白，就再来问我吧。你天生愚钝，也怪不得别人……<br><br><FONT color=#7e12d2>（贝思柯德看上去心事重重。稍后再和他对话吧）</FONT>",
+      "answer": ""
+    }
+  ]
+}

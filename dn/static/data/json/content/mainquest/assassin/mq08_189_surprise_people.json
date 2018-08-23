@@ -1,0 +1,243 @@
+{
+  "qkname": "意外的人物",
+  "data": [
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "ionRefusal}<br>是你啊。这段时间你去哪儿了？<br>好久没见到你，我还以为你在忙别的事情呢。",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "我们到森林圣域去追踪黑骑士，但是除了冒险家们，就连银发女剑客也不是那家伙的对手。<br>银发女剑客也受了伤，而那个号称是先知的少女还在黑骑士的手上……",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "嗯？银发女剑客是谁？<br>这个嘛……她是个不知道是敌是友的神秘人物。<br>具体的情况我也不太清楚，只知道她是在黑骑士出现之后开始活动的冒险家。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "现在我们会从她手上获取各种情报，所以可以视作是合作关系。<br>她也在追踪黑骑士的过程中受了伤。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "她说必须尽快和<FONT color=#a82424>神圣天堂</FONT>取得联系。但是你也知道，现在<FONT color=#a82424>飞艇</FONT>坏掉了。<br>必须尽快修好，才能把这里的情况告诉神圣天堂那边。",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那其他人……</FONT>",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "大家都到<FONT color=#a82424>死亡森林</FONT>去搜集修理飞艇的零件去了。",
+      "answer": "",
+      "image": "qw_17.png"
+    },
+    {
+      "npc": "???",
+      "question": "……让开。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……你在干嘛？<br>你不是要去见冒险家公会会长戴卡德的吗？",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……你在干嘛？<br>你不是要去见冒险家公会会长戴卡德的吗？",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "真是麻烦。<br>如果不能修好被黑骑士破坏掉的飞艇，就没办法到神圣天堂去。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(死亡森林……<br>看来又得穿越时间了。去和露娜莉娅谈谈吧。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你和我又穿越了时间。<br>嗯……果然是这样。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你的感想可真短。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我说过了，我就是这样的人。<br>那不是我能控制的。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我只是在走路，是时间自己抛下我，发生了扭曲。<br>或者流逝，或者回到从前。就是这个样子。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "和我同行的你，也免不了受到我的力量的影响。<br>不喜欢的话，你可以把我留在这里，一个人走。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>把你一个人留在这里好像更危险。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我怎么样都没关系。<br>\n因为你说必须回去，必须回到什么地方去，所以我也跟你一起走。只是这样而已。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "怎么做是你的自由。<br>如果你要我等你，我就等你。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不能丢下你一个人。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……我只是按照你的意愿，跟着你罢了。<br>你要到<FONT color=#a82424>死亡森林</FONT>去，对吧？<br>我明白了。",
+      "answer": "",
+      "image": "qw_17.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "那个男人，好像认识你。<br>……你的人气还挺旺的嘛。<br><FONT color=#7e12d2>(露娜莉娅指着一个披着黑衣服的陌生男人说)</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "???",
+      "question": "……<br>\n<FONT color=#7e12d2>(披着黑衣服的陌生男人看着{user_nick}方向)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "真是出人意料。",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "……加上出人意料的对话，嗯。<br><FONT color=#7e12d2>(陌生男人喃喃自语道)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "从神圣天堂来的<FONT color=#a82424>飞艇</FONT>上没有有用的东西。<br>好像只是召唤了<FONT color=#a82424>过去的亡灵</FONT>。我要失陪了，呵呵呵……",
+      "answer": ""
+    },
+    {
+      "question": " <br>\n<FONT color=#7e12d2>(黑衣男人突然消失了)</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "是的，我们穿越了时间。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "刚才又穿越了。<br>我不是说过了吗？<br>\n对我来说，这样的事情就是日常生活，没有办法。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我是来到飞艇坠落当时了吗……？</FONT>",
+      "answer": "",
+      "image": "qw_airship.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "可能是的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他好像认识我。</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n那个黑衣男人？",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的。<br>真郁闷。大家为什么只顾着说话？！</FONT><br>\n<FONT color=#662500>回答我！！！我是谁！！！是怎么认识的！</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "那是不可能的。<br>\n接下去你想怎么办呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>应该先回凯德拉关卡去。</FONT>",
+      "answer": "",
+      "image": "qw_cataractgateway.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "回到凯德拉关卡去？<br>嗯……你想去见冒险家公会会长戴卡德啊。知道了。",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "哦，你好。<br>刚好有冒险家们来问有没有你的消息。<br>\n他们说好久没看见你，不知道你过得怎么样。",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "虽然搜集到了飞艇零件，但好像没那么容易修好。<br>他们说好像又出了什么问题，全都走了……嗯？<br>\n你这是在干什么？",
+      "answer": "现在是什么时候？",
+      "image": "qp_airship_part .png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "什么？！现在是什么时候？这叫什么问题？<br>你……是不是脑袋受伤了？<br>\n你，你没事吧？",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "我还以为你和其他冒险家一样，到死亡森林去搜集飞艇零件了呢……<br>不是吗？",
+      "answer": "",
+      "image": "qw_17.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "<FONT color=#7e12d2>(戴卡德一脸担心地看着我)</FONT>",
+      "answer": ""
+    }
+  ]
+}

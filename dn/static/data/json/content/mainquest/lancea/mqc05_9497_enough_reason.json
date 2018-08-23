@@ -1,0 +1,227 @@
+{
+  "qkname": "她的理由",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "你还没有见到柯梅里纳啊？<br>那，嗯……黑山山角的<FONT color=#a82424>贝思柯德</FONT>会不会知道柯梅里纳在哪里呢？",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这样啊！埃提亚，你果然很聪明！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "嘿嘿嘿，哪里啊~！<br>贝思柯德在黑山山角的事情还是姐姐你告诉我的啊。啊！说不定他们会在一起呢。你快去看看吧，姐姐！",
+      "answer": "",
+      "image": "qw_skirtofblackmountain.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "啊！<FONT color=#387206>{user_nick}</FONT>。没想到在这里又见到你了。嘿嘿。<br>不过，我现在要找某样东西，所以有点忙……我先告辞了。",
+      "answer": ""
+    },
+    {
+      "npc": "王城近卫兵劳尔",
+      "question": "原来是<FONT color=#387206>{user_nick}</FONT>啊！你现在被禁止出入王城了，你知道吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不是来玩的……我要见见柯梅里纳。<br>她好像经常待在这里，所以……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "她说要找什么东西，去了<FONT color=#a82424>遗忘时间废墟</FONT>，你也快滚吧。<br>你和柯梅里纳都好烦，希望以后不用见到你们了。",
+      "answer": "",
+      "image": "qw_47.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>又生气了…唉。很抱歉打扰你了……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "她说要找什么东西，去了<FONT color=#a82424>遗忘时间废墟</FONT>，你也快滚吧。<br>你和柯梅里纳都好烦，希望以后不用见到你们了。<br><FONT color=#7e12d2>（贝思柯德生气了。还是不要再跟他说话了）</FONT>",
+      "answer": "",
+      "image": "qw_47.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "啊！<FONT color=#387206>{user_nick}</FONT>。没想到在这里又见到你了。我们经常碰面，这是不是一种缘分啊？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嘿嘿嘿，我也希望是那样。<br>但不是的，我是问过贝思柯德，才知道你在这里的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "你去见过贝思柯德啊。<br>我还担心我不能时常陪他，他会无聊呢，他见到你是不是很高兴？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他让我别再去了....</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "噢噢？请不要这么伤心。他……他对我也是这样。<br>虽然他嘴上这么说，但他的心地很善良。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>柯梅里纳，你为什么要帮助贝思柯德？</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "嗯…他是未来的……该怎么说呢。因为以后他将成为一位很重要的人！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>原来如此~。我的父亲经常对我这么说。我好像能够理解。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……嗯，虽然性质有些不同。<FONT color=#7e12d2>（柯梅里纳皱着眉头说道）</FONT><br>不过，你找我有什么事情吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！对了。你之前说伊格纳西奥主教是使徒。<br>你为什么这么说啊？</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "嗯？我……我就那样知道的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>就那样知道的？柯梅里纳，你只要看到一个人，就知道他是好人还是坏人啊！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "呃呃呃……<FONT color=#7e12d2>（柯梅里纳皱着眉头）</FONT> 呃，跟你说的很类似。<br>不过，你不会真的去找主教了吧？",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我去找过他。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "呃啊啊！！！真的吗？？那么…他…他怎么说？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我问伊格纳西奥主教，他是不是使徒，结果他说不是的。<br>所以，我来问问你说他是使徒的原因。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "哈哈哈啊，你问一个罪犯“你是不是犯人？”，他肯定不会回答说“没错！”吧。<br>你肯定被赶出王城了吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哇！你是怎么知道的？虽然不能说是被赶出来……但士兵们冲向我，真是太可怕了。哎嘿。<br>但是我现在终于得知你那么说的理由了，因为你见到伊格纳西奥主教就知道他是使徒！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>（柯梅里纳静静地听着，眼泪汪汪地望了我很久）</FONT><br>呃呃…啊啊……<FONT color=#387206>{user_nick}</FONT>，你为什么这么可爱？<br>我简直不能对你坐视不管。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>柯梅里纳，可爱的是你。你比我年纪小很多，怎么能对我说可爱啊！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "不是的！<FONT color=#387206>{user_nick}</FONT>，该怎么说呢.....你的思维很可爱！<br>既单纯又直率！！",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "伊格纳西奥主教是坏人。但是，到了王城之外，你最好不要提起这件事。<br>因为其他人是不会相信的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>但是，我必须要让其他人知道主教是坏人。<br>（我真的很不理解，为什么不能告诉大家他是坏人）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "嗯……我们干脆去说服其他帮助伊格纳西奥主教的冒险家怎么样？<br>虽然我不知道伊格纳西奥主教打算做什么，但肯定不是好事。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你说得对！我要去神圣天堂，去找其他冒险家。<br>谢谢你，柯梅里纳~！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "王城近卫兵劳尔",
+      "question": "原来是<FONT color=#387206>{user_nick}</FONT>啊。<br>……你怎么又来了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我在找从凯德拉关卡来的其他冒险家。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "王城近卫兵劳尔",
+      "question": "你好像总是在找人。你究竟打算做什么，为此我表示很担心。<br>看你这么可爱，就像我的妹妹，我就跟你直说吧。最近有很多关于你的不好的传闻。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>关于我的传闻？我没做什么坏事啊！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "王城近卫兵劳尔",
+      "question": "你不是四处向人们询问什么龙之追随者、使徒什么的嘛，还污蔑主教，说他是坏人。不是吗？<br>即便你没有什么恶意，但你那么做就是不对的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>说坏人很坏并没有什么错吧！</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "王城近卫兵劳尔",
+      "question": "唉，如果你再这样，我就不告诉你其他冒险家去了哪里！<br>人吧，偶尔还是需要勇于承认错误的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>.......</FONT>",
+      "answer": ""
+    }
+  ]
+}

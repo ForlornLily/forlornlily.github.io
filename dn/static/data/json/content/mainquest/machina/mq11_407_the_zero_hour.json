@@ -1,0 +1,182 @@
+{
+  "qkname": "决战前夜",
+  "data": [
+    {
+      "npc": "阿尔杰塔",
+      "question": "人类真是一点都不值得信任，光是会碍事，杰兰特这小子……那小子即便如此还是站在人类那一方。<br><FONT color=#7e12d2>（和神圣天堂的主教伊格纳西奥对话就可以开始任务）</FONT>"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你说出兵？<br>我必须去说服各个大臣，得出确切的结论。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "别担心。大家都很清楚黑龙有多可怕。所以，你赶快去阿尔杰塔那里，完成<FONT color=#a82424>古代祭司长的符文</FONT>吧。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是，那么我就去一趟阿尔杰塔那里了！</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "这段时间，我会完成出兵准备的。<br>所以，你不必担心我们的支援，快去快回吧。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "什么？你要带着人类士兵们前往？嗯，你即使带去也不见得有什么帮助……<br>不是累赘就不错了。",
+      "answer": "",
+      "image": "qn_npc_elite_soilder.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>会有帮助的。</FONT>",
+      "answer": "",
+      "image": "qn_npc_elite_soilder.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "随你怎么想……不管怎样，好吧。<br>反正我已经联系<FONT color=#a82424>杰兰特</FONT>了。",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个……古代祭司长的符文怎么样了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我正想和你说呢。你还真是心急……<FONT color=#a82424>古代祭司长的符文</FONT>，已经差不多完成了。所以你赶快再去一个地方。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>去哪里？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#a82424>江下游……</FONT><FONT color=#2b2723>好吧，你去一趟</FONT><FONT color=#a82424>江下游废墟</FONT>，教训一下那里的头领。是不是小菜一碟？我这段时间对你进行的强有力磨练，不是让你在这种小事上拖拖拉拉的。时间紧迫。",
+      "answer": "",
+      "image": "qw_32.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>江下游废墟……？有必要吗？</FONT>",
+      "answer": "",
+      "image": "qw_32.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "当然了。你什么时候见过我让你做无用的事了？<br>因为我需要<FONT color=#a82424>蓝鳞叙拉克的纹章</FONT>，你快去快回吧。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我让你去<FONT color=#a82424>江下游废墟</FONT>，怎么还在那儿磨蹭？又不是什么耗费时间的事……<br>快去快回。我已经准备好了。",
+      "answer": "",
+      "image": "qw_32.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "出兵准备正在顺利进行着。<br>你不必担心，前往<FONT color=#a82424>阿尔杰塔</FONT>那里吧。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "不错嘛。<br>\n不愧是我的奴隶出身啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（不知是称赞还是辱骂……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "喏，收下这个<FONT color=#a82424>古代祭司长的月牙</FONT>。考虑到你的资质，我专门做成了便于你使用的形状。记得要感激我，也就只有我才这样对你。",
+      "answer": "（接收古代祭司长的月牙）",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "怎么会，就算再笨也不至于把它丢了吧？不放心的话你就绑在哪里。<br>那么，我要去<FONT color=#a82424>黑暗大君主的练兵场</FONT>和<FONT color=#a82424>杰兰特</FONT>会合了，随便你带不带人来。",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是！！我会尽快赶过去的！！</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "好的，尽快吧。<br>我是不会等你的。",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我在<FONT color=#a82424>黑暗大君主的练兵场</FONT>和<FONT color=#a82424>杰兰特</FONT>会合之后，就会去和黑龙决斗，你带人前往那里吧。我绝对不会等你的。",
+      "answer": "",
+      "image": "qw_36.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "iontalk}<br>古代祭司长的月牙已经完成了吗?",
+      "answer": "（显示古代祭司长的月牙）"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "噢噢！用这个就可以突破<FONT color=#a82424>黑</FONT><FONT color=#a82424>龙</FONT>的<FONT color=#a82424>巢穴</FONT>啦。王城中正在决定动员军队救回先知。<FONT color=#a82424>道格拉斯</FONT>将军也痛快地组织了精锐兵。",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>看来现在可以出发了。</FONT>",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "还有……为了防止贵重的古代祭司长的符文丢失，还事先特别将王城骑士团的装备发给你。<br><FONT color=#7e12d2>（将古代祭司长的符文镶嵌在了装备之上）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>谢谢。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "那么在出发前，我也贡献我的微薄之力，请先得到我的祝福吧。",
+      "answer": "（下跪）"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "神圣天堂亲爱的朋友，忠实的理解者，<FONT color=#382000>{user_class} {user_nick}</FONT>，我作为教团的代理人，将女神的祝福赐予你。你一定要为救出先知以及守护神圣天堂的和平与安宁做出贡献。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "神圣天堂亲爱的朋友，忠实的理解者，<FONT color=#382000>{user_class} {user_nick}</FONT>，我作为教团的代理人，将女神的祝福赐予你。你一定要为救出先知以及守护神圣天堂的和平与安宁做出贡献。",
+      "answer": ""
+    }
+  ]
+}

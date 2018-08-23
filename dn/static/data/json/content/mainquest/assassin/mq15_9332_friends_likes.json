@@ -1,0 +1,142 @@
+{
+  "qkname": "朋友喜欢的东西",
+  "data": [
+    {
+      "npc": "西戴尔",
+      "question": "请帮我的朋友搜集一些丛林蕨菜。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "那是一种可以在利物沃特村庄废墟找到的野菜。<br>在路边应该就能找到……如果你是冒险家，这点小事可以说是小菜一碟！",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "拜托你了。<br>请你帮我去搜集一些生长在<FONT color=#a82424>利物沃特村庄废墟</FONT>中的丛林蕨菜。",
+      "answer": "",
+      "image": "qw_51.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "那是一种可以在<FONT color=#a82424>利物沃特村庄废墟</FONT>找到的野菜。<br>在路边应该就能找到……如果你是冒险家，这点小事可以说是小菜一碟！",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "拜托你了。<br>请你帮我去搜集一些生长在利物沃特村庄废墟中的<FONT color=#a82424> 丛林蕨菜</FONT>。",
+      "answer": "",
+      "image": "qw_51.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你在干嘛？<br>不是要到<FONT color=#a82424>利物沃特村庄废墟</FONT>去吗？",
+      "answer": "",
+      "image": "qw_51.png"
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "嗯？利物沃特村庄废墟？<br>那个地方……必须从那个门出去才能到达。那是个危险的地方。请一定要小心。",
+      "answer": "",
+      "image": "qw_51.png"
+    },
+    {
+      "question": "<FONT color=#7e12d2>(有一种看上去像普通的草的植物生长在那里)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(这就是丛林蕨菜吗？)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(找到了丛林蕨菜，把它交给西戴尔吧。<br>回到卡拉秋的草屋去，应该就能见到她了吧？)</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "啊，你回来啦？<br>我要的丛林蕨……呵呵，没错，就是这个。<br><FONT color=#7e12d2>(西戴尔一脸尴尬地看着卡拉秋的眼神)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "嗯，那个……<br><FONT color=#7e12d2>(西戴尔压低嗓门说道)</FONT><br>我朋友的名字叫<FONT color=#a82424>察提</FONT>，它刚刚袭击了这里。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>袭击？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "嘘%！！！小，小声点！<br>唉，她平时是个温顺、善良、可爱的孩子。不是这个样子的……<br>嗯，一定是有什么误会。肯定是这样。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "总之，察提攻击了老师，然后逃走了。不知道她有没有受伤。<br>她的个子本来就小……",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋",
+      "question": "我都听得见，西戴尔！<br>你想都别想去找个那放肆的臭丫头！<br><FONT color=#7e12d2>（卡拉秋用生气的声音喊道）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "哎呀！被听到了！<br><FONT color=#7e12d2>(西戴尔蜷缩起身子)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "是！我知道了！老师，我不去找她。<br><FONT color=#7e12d2>(西戴尔再次压低声音)</FONT><br>唉，现在我出去的话，一定会被老师臭骂一顿。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "不好意思，你能帮我去看看察提有没有事，并把丛林蕨菜送给她吗？<br>拜托你了。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "谢谢。察提好像跑到村子那边去了。<br>她和<FONT color=#a82424>商人洛西塔</FONT>很亲近，你可以去见见她。<br>\n她一定知道察提的下落。",
+      "answer": "",
+      "image": "qn_npc_lucita.png"
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "嗯？！察提姐姐吗？<br>我……不知道。干嘛要问这个……？<br><FONT color=#7e12d2>(看洛西塔的脸色，是想要在隐瞒什么)</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>西戴尔让我把丛林蕨菜送给她。</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "哈，原来是这样。<br><FONT color=#7e12d2>(洛西塔松了一口气)</FONT><br>刚才有几个冒险家来问察提姐姐的下落，我很担心。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "西戴尔要送她东西吗～！<br>\n呵呵呵，他们的关系真好。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    }
+  ]
+}

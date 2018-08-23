@@ -1,0 +1,306 @@
+{
+  "qkname": "功率不够",
+  "data": [
+    {
+      "npc": "阿尔杰塔",
+      "question": "你为什么在这里瞎转悠？<br>小孩。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "事情并没有想象中的那么简单。<br>我的无能让我觉得很无奈。",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "什么啊？因为这该死的飞艇，我已经晕头转向了！所以不要烦我，快走开！",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_01.ogg}<br>现在你无法用通讯器及时查看数据，我先告诉你我目前掌握的信息。<br>你仔细听好，然后随机应变吧。记住哦。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的，姐姐。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "我来整理下，由于贝思柯德破坏了飞艇，因此目前没办法前往神圣天堂……那样的话，飞艇被修理好的时间……嗯……<br><FONT color=#7e12d2>（百合花正检索数据）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "没想好耗费了这么长的时间。况且，又有了新的问题……<br><FONT color=#a82424>埃雷娜</FONT>散播的污染物质将凯德拉……嗯？<br>等等，<FONT color=#a82424>埃雷娜</FONT>……？如果是<FONT color=#a82424>埃雷娜</FONT>的话……",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>埃雷娜？噢，难道……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "嗯，没错。你见过黑暗精灵女王<FONT color=#a82424>泰雷珠</FONT>，应该也记得埃雷娜这个名字吧？<br>根据记录，黑暗精灵埃雷娜很快就会出现，并让凯德拉关卡陷入危险。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>埃雷娜……我还真想见见她呢。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "\n<FONT color=#387206>{user_nick}</FONT>，埃雷娜并不像泰雷珠那么善良。<br>\n她是<FONT color=#a82424>红龙</FONT>的手下，同时也是我们必须面对的敌人，请记住。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我知道了。不过，埃雷娜现在在哪里？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "记录上并没有写出埃雷娜的准确位置，所以我也不知道。<br>你只要跟着伊桑或安杰利卡，肯定会遇到她的，耐心等待吧。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_07.ogg}<br>话说，如果能尽快移动到神圣天堂就好了。<br>贝思柯德应该已经带着先知到达神圣天堂了……<br><FONT color=#387206>{user_nick}</FONT>，你去<FONT color=#a82424>飞艇工程师休伯特</FONT>那里确认下飞艇目前的状况，看看你没有能帮忙的地方，怎么样？",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你为什么在这里瞎转悠？",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "所有的事情都没有想象中的那么简单。<br>我的无能让我觉得很无奈。",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "什么？！<br>因为这该死的飞艇，我已经晕头转向了，所以不要烦我，快走开！",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br>▷ <FONT color=#7e12d2>请去找飞艇工程师休伯特，向他确认飞艇目前的状态吧。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "噢，小姑娘你又来啦？<br>你来得正好！我现在刚修好<FONT color=#a82424>阿尔巴特罗</FONT>号，准备进行试飞呢！",
+      "answer": "",
+      "image": "qw_airship.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>噢？真的吗？这么快……？（好像太快了……？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "好了，那大家往后退，嘿嘿。<br>阿尔巴特罗号~<br>起飞~！！",
+      "answer": "",
+      "image": "qw_airship.png"
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "呃啊，该死！！这究竟是怎么回事？！<br>引擎居然爆炸了，到底是哪里出错了！！<br>哪里呢？究竟错在哪里？<br><FONT color=#7e12d2>（休伯特抱住头，并用力摇晃着脑袋）</FONT>",
+      "answer": "",
+      "image": "qn_npc_engineer_hubert.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我能看看吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "嗯？你这小姑娘能懂什么……呃……<br>\n不过，让你看看也没什么损失，你尽情看吧。<br>\n<FONT color=#7e12d2>（察看飞艇的休伯特不停挠头）</FONT><br>\n呃……问题究竟出在哪里……？",
+      "answer": "",
+      "image": "qn_npc_engineer_hubert.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>问题出在动力输出上。没有动力源，只靠引擎的转动来提供动力，引擎自然会过热啦。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "什么？是真的吗……？我看看…… <br>噢……？悬浮装置的能量已经耗尽……<br>呃，这装置是神圣天堂的，凯德拉剩余的燃料并不适合这装置……<br>\n<FONT color=#7e12d2>（休伯特呼了口气）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "看来我得想其他办法为悬浮装置提供能量了。<br>小姑娘，看来想让飞艇飞起来还需要再耗费几天的时间。抱歉让你失望了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n那个，其他的冒险家都去了哪里？",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "……嗯？其他的冒险家？这个么……<br><FONT color=#7e12d2>（休伯特侧歪着脑袋）<br></FONT>好像说要去见什么人……",
+      "answer": "",
+      "image": "qw_grayruin.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "飞艇再次坠毁？唉……<br>那你去凯德拉关卡见见<FONT color=#a82424>阿尔杰塔</FONT>吧？<br>说不定会有其他情报。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你为什么会来这里？<br>不会又要跟我胡言乱语，说什么未来啊什么的吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n飞艇已经坠毁，现在无法前往神圣天堂了。<br>\n还有，现在埃雷娜……",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "什么？<FONT color=#a82424>埃雷娜</FONT>？……那个讨厌的黑暗精灵又出现了……？",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "虽然你的话不能百分之百相信，但我还是有点在意的。<br>当然，只是非常非常~少的那么一点点。<br>如果<FONT color=#a82424>埃雷娜</FONT>出现，肯定会发生很麻烦的事情。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>她会在凯德拉散播污染物质。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "污染物质？她的风格还真是没有改变……哼。<br>虽然事有蹊跷，但我亲自去太麻烦了，还是吩咐那些小鬼去吧。顺便看看他们是不是有用的<FONT color=#a82424>奴隶</FONT>，嘿嘿嘿。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>奴，奴隶？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#a82424>安杰利卡</FONT>和<FONT color=#a82424>伊桑</FONT>这两个家伙现在被我派去了<FONT color=#a82424>沉睡者神殿</FONT>！<br>因为飞艇的燃料不足，我让他们去那里为飞艇补充能量了。<br>如果你有时间，就去那里帮他们喊过来。",
+      "answer": "",
+      "image": "qw_16.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你刚刚说是沉睡者神殿？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "没错，啊~嘴巴好疼！<br>我现在是伤者，你不要再我跟絮絮叨叨的了，快去<FONT color=#a82424>沉睡者神殿</FONT>吧。<br>替我转告他们俩，主人在喊他们，让他们最好快点跑回来。",
+      "answer": "",
+      "image": "qw_16.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你快去<FONT color=#a82424>沉睡者神殿</FONT>！<br>安杰利卡和<FONT color=#a82424>伊桑</FONT>就在那个地方，你转告他们，让他们办完事情后来找我。",
+      "answer": "",
+      "image": "qw_16.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br><FONT color=#7e12d2>▷ 请前往沉睡者神殿。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "咳……这不是<FONT color=#387206>{user_nick}</FONT>小姐嘛。<br><FONT color=#7e12d2>（伊桑的脸色不太好。看来他好像是受伤了）<br></FONT>你为什么会来到这个地方？",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>是阿尔杰塔让我来的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "原来如此。<FONT color=#a82424>阿尔杰塔</FONT>……<br>但是很遗憾，你好像来晚了一步。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>发生了什么事情吗？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "我们在为悬浮装置补充能量时，刚巧碰到了将巨大的食人魔当做手下使唤的黑暗精灵。<br>是个<FONT color=#a82424>穿着红衣服的黑暗精灵</FONT>哦。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>她是黑暗精灵埃雷娜！</FONT>",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "我不知道她的名字。<br>\n不过，那个黑暗精灵把<FONT color=#a82424>安杰利卡</FONT>小姐……带走了。<br><FONT color=#a82424>悬浮装置</FONT>也被那个巨大的食人魔抢走了……我被他们打晕了。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我们得将这件事告诉阿尔杰塔。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "嗯，没错。让你看到了我这幅德行，我真的很羞愧。<br>我应该保护安杰利卡小姐的……<br>那，我这就去见<FONT color=#a82424>阿尔杰塔</FONT>。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我刚刚听说了。<br>\n悬浮装置被大块头的食人魔抢走了, 安杰利卡也被带走了。<br>啧啧……这些没用的家伙……",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "伊桑那家伙正绞尽脑汁思考安杰利卡和其他奴隶一起被带到了什么地方。<br>你觉得有什么可疑的地方吗？",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>这个么……</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

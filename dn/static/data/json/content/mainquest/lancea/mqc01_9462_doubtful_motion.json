@@ -1,0 +1,247 @@
+{
+  "qkname": "可疑的行动",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "啊！那么，寻找法杖的事进展得怎么样了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>当然有收获~！只要是人，就一定会留下什么痕迹的，不是吗！？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "真的？不愧是姐姐！真了不起！<br>所以，循着线索找出是谁干的了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那倒还没有。虽然确实找到了一样东西，但完全不知道是什么……<br>有点像手镯，又有点像发带。</FONT><br><FONT color=#7e12d2>（把从霜风峡谷捡到的东西拿给埃提亚看）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐。这不是……圣珠吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>圣珠？</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "嗯，就是牧师们带在身上的圣珠啊。你真没见过？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！我想起来了！我记得好像在书里见过！<br>那么这个，应该是护送法杖的人掉落的喽……而不是什么线索。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "这个嘛？我觉得……<FONT color=#7e12d2>（埃提亚思考片刻之后继续说道）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你觉得？？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "既然你说这圣珠是在树丛里捡到的，那么应该不是护送它的人掉落的。<br>而且如果是罪犯掉落的，那他一定会十分惊慌，并打算再找回来的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>如果是罪犯……为什么会打算再找回来呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "因为这将成为他暴露身份的证据啊。姐姐你真了不起。居然一下子就找到了线索！<br>那么，姐姐你再返回<FONT color=#a82424>融解森林</FONT>吧，观察一下有没有牧师回来寻找圣珠。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>观察？那么然后呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "然后当然是跟踪他啦！悄悄跟在他后面，看看他都会做些什么，就能判断出他是不是罪犯了。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "我现在有很要紧的事要办，不能和你对话了。告辞。",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "你不是……<br>送来假秘传之球的那个旅行者吗？你找我有什么事吗？<br><FONT color=#7e12d2>（高级牧师雷昂纳多的目光中充满了警戒心）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "必须尽快找到法杖的线索，洗清姐姐正在承受的罪名才行……<br><FONT color=#7e12d2>（埃提亚面露担忧的神色）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "原来是从刚才就一直在找我的人啊。<br>你找我有什么事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>莫非……你觉察出来了？</FONT><br>\n<FONT color=#662500>（啊！那目光中充满忧愁，并能够保持完美的45度视线……真是个帅气的男人！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "你的脚步那么欢快，我怎么可能觉察不到。<br>我刚刚因为有要紧的事要办，所以才没能先和你说话，希望你能理解。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>话说回来！刚才那件东西……莫非是秘传之球？？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "看来你是来寻找秘传之球的。看你的打扮应该不是魔法师，那么你找它是为了什么呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我，是为了证明自己的清白。找到偷走贤者法杖的人……<br>我在法杖丢失的地方找到了一颗牧师的圣珠，所以我猜想打算把它找回去的人会不会是你。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！抱，抱歉。我不该怀疑你的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "那样的话，你应该去霜风峡谷，不是吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！真的，的确如此！<br>那么，就不是你喽。太好了~</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "任何人都会有失误的时候。<br>女神都会理解的。不过，你脸色很差……哪里不舒服吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不，不……不是的。我没事。<br>（不知为什么脸颊好像一下子变得滚烫）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "你说你找到了丢失圣珠的人？<br>\n你关于偷走贤者法杖之人的推测似乎是对的。应该就是那个被称为是龙之追随者的集团所为。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "像你这样一个冒冒失失的小姑娘怎么看都不像是龙之追随者，所以不会有人怀疑你的。<br>那你就不必担心了，赶紧离开这个危险的地方吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>龙之追随者！！那帮家伙竟敢，对侍奉神圣女神的集团下手？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "我虽看得出你是个富人家的小姐……却没想到你连那些家伙都知道。<br><FONT color=#7e12d2>（牧师伊桑再次用他那不可思议的表情望着我）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "真是一帮可恶的家伙。<br>竟然会崇拜将大陆置于灭亡境地的龙，必须把这一邪恶的势力铲除才行！",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "是啊，我也绝对不会饶恕他们的。<br><FONT color=#7e12d2>（牧师伊桑表情阴沉地回答道）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是吧！我就知道我和伊桑你的想法是一样的！！<br>所以，为了正义，我们绝对不能对此事袖手旁观。我希望能在找回法杖和秘传之球的事情上贡献自己的一份力量。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "魔法师和牧师都已经全体出动了。<br>正在旅行中的小姐你的帮助就……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我一定！要帮忙！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我一定！要帮忙！！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "……地上很凉。别躺在那儿，那就按照你自己的想法去做吧。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "呼~那么，现在返回魔法山脊吧。<br>要想帮助找回法杖的话，最好去问问<FONT color=#387206>高级牧师雷昂纳多</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "看来你是打算证明你的清白了。<br>我可听说你把那个高傲的魔法师气得大呼小叫的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>虽然证明自己的清白很重要！但对我来说更重要的是一定要惩戒一下那帮邪恶的家伙。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "你是不是属于那帮邪恶的家伙，很快就会见分晓的。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

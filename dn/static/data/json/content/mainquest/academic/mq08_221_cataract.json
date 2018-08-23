@@ -1,0 +1,64 @@
+{
+  "qkname": "到达凯德拉关卡",
+  "data": [
+    {
+      "npc": "侦察兵福古斯",
+      "question": "先知现在被关在<FONT color=#a82424>叹息峡谷</FONT>。<br>不过，由于峡谷的结界，目前无人能进入峡谷。",
+      "answer": "",
+      "image": "qw_14.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "结界可以通过<FONT color=#a82424>袭击者巢穴</FONT>的<FONT color=#a82424>黑暗精灵暗杀者莉迪亚</FONT>的竖琴来解除。<br>安杰利卡为得到竖琴，前往了袭击者巢穴。",
+      "answer": "",
+      "image": "qm_darkelfgray.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>袭击者巢穴……我知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "黑暗精灵身手敏捷，是一种非常强大的怪物。<br>虽然黑暗精灵的舞蹈非常的魅惑动人，但那其中含有剧毒，你一定要小心。",
+      "image": "qm_darkelfgray.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "安杰利卡为得到竖琴，前往了<FONT color=#a82424>袭击者巢穴</FONT>。<br>黑暗精灵是非常敏捷且强大的魔物。请注意不要被黑暗精灵绚烂的舞蹈所吸引。",
+      "answer": "",
+      "image": "qw_13.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "\n你得到竖琴啦？<br>\n我认为你只是个小孩子，没想到你这么了不起。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我可不是小孩子。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "哈哈，小姑娘们总这么说话。不过，你似乎没有见到安杰利卡啊？",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>嗯，我晚了一步。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "原来如此。安杰利卡搜集到的竖琴的弦断掉了，她出发去修理竖琴了。",
+      "answer": ""
+    }
+  ]
+}

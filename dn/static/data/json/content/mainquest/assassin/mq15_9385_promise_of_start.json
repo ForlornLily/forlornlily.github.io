@@ -1,0 +1,142 @@
+{
+  "qkname": "开始的约定",
+  "data": [
+    {
+      "npc": "暗影喵",
+      "question": "呼～我好像想起来了喵。阿勒努特峡谷附近的古代寺院的话……",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "啊，想起来了喵。一定是……埋葬那个英雄和英雄的追随者的寺院喵。",
+      "answer": "那个英雄是谁？"
+    },
+    {
+      "npc": "暗影喵",
+      "question": "嗯，我也不知道是谁喵。不过听说为了守护死去的英雄，追随者们曾经发誓守护那里喵。那个叫柯梅里纳的姑娘为什么要到那种危险的地方去啊喵？",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……没关系，没关系。<FONT color=#387206>{user_nick}</FONT>，有你在，就一定可以做到……<br><FONT color=#7e12d2>(在神圣天堂的暗影喵那里可以接受任务</FONT><FONT color=#7e12d2>)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "不过到了现在，可能没有什么危险了喵。不过我这个做老师的还是很担心徒弟喵。路上小心点喵……<br><FONT color=#7e12d2>(请到泰尔罗萨市区的被占领的古代寺院去)</FONT>",
+      "answer": "",
+      "image": "qw_75.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "这，这个……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=6#662500>柯梅里纳，这是怎么回事？刚才……百合花……把黛西的宝玉！</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "是的，百合花从一开始就想得到黛西的宝玉……！<br>如果说黛西是我们的原型……那现在这个时期我和我的姐妹们应该还没诞生。宝玉应该还很完整，一定拥有强大的力量……但不知道为什么只把宝玉拿走……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没有光用宝玉就能做到的事情吗？比如说变成龙之类？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>(摇了摇头</FONT><FONT color=#7e12d2>)</FONT>有太多不确定的因素了。之前也没有人验证过……就算把宝玉拿走，能够确定的事情就是可以用来制造我们这样的克隆体……啊！",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "这个可以确定。而且之前制造出了我们，百合花一定可以制造出更强的克隆体。不知道又会有多少姐妹被制造出来，然后死去……<FONT color=#7e12d2>(柯梅里纳带着悲伤的表情望着百合花</FONT><FONT color=#7e12d2>消失的方向)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……嗯？啊，什么问题？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道黛西体内有宝玉……那是什么龙的宝玉呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……不知道。但是有必要调查一下。<br>如果是文献中有记载的龙，也许能知道它的弱点。<br>调查的任务就交给我吧。我会用未来的技术仔细进行调查的！",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "我要先对这里进行仔细的调查。<br>这是为了抢走宝玉而特地选择的地方，一定能找到和宝玉有关的资料。<br><FONT color=#387206>{user_nick}</FONT>，请别担心！<br><FONT color=#7e12d2>(柯梅里纳好像下定了决心。回到神圣天堂去</FONT><FONT color=#7e12d2>告诉暗影喵吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_shadow_meow.png"
+    },
+    {
+      "npc": "暗影喵",
+      "question": "啊啊啊！你来啦喵！！我又找到了一份惊人的资料喵。那里是埋葬巴尔纳的古代寺院喵。原来好像是更大的寺院的一部分喵。",
+      "answer": "",
+      "image": "qw_75.png"
+    },
+    {
+      "npc": "暗影喵",
+      "question": "呵呵，古代那里曾经有一个非常大的寺院喵。那里有古代人的研究设施喵。虽然不知道具体是什么研究设施，但他们曾经在那里进行过有关女神的力量的研究。研究规模很大，设施也很巨大喵。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……(这么说，那个叫百合花的女人有可能使用了那里的古代人的研究设施)</FONT><br><FONT color=#662500>但是那里好像没看见什么巨大的研究设施啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "呵呵，不能小看古代人的技术喵。和表面上看上去的不同，据说那个寺院本身可以改变魔力的流动喵。所以就能使用更多的女神的力量喵。",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "你为什么这么关心那个叫柯梅里纳的姑娘啊喵？她好像不是普通人喵。你以前的那个女朋友怎么样了喵？",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>她不是我女朋友。还有，柯梅里纳遇到了一些情况，所以我正在帮助她。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "嗯～<FONT color=#7e12d2>(用求爱的眼神看着我</FONT><FONT color=#7e12d2>)</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "T color=#662500><br>(那个孩子正在和自己所处的时代战斗。<br>不管那个孩子拥有多强的力量，都不可能一个人应对)</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(我没有在任何一个时代好好待过，</FONT><br><FONT color=#662500>就像那个孩子说的一样，我好像不会给历史造成太大的影响……</FONT><br><FONT color=#662500>所以比起其他人，我可以给她更多的帮助)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……但是真是奇怪。我为什么没有在历史中留下痕迹呢？我也见到了6大英雄，帮助过其他冒险家。幻象甚至是使徒，这些事情难道不应该在历史中留下记录吗？)</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    }
+  ]
+}

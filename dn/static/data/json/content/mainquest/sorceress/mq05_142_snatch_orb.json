@@ -1,0 +1,121 @@
+{
+  "qkname": "被盗的宝珠",
+  "data": [
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n唉，必须再调查一下那个拿走秘传之球的家伙。",
+      "answer": "",
+      "image": "qn_cl_leonardo.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "你去见见<FONT color=#a82424>雷昂纳多老头</FONT>吧。<br>\n不管怎样偷走秘传之球的应该是个牧师，所以跟那个老头开诚布公的话，应该会有帮助的。",
+      "answer": "",
+      "image": "qn_cl_leonardo.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "...还有告诉你个秘密。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "我是一直相信你的。<br>\n到现在为止，一直。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "好，赶紧去<FONT color=#a82424>雷昂纳多</FONT>老头那里，揭发那个可疑牧师的真实面目！<br>\n所有的一切就都交给你了。",
+      "image": "qn_cl_leonardo.png"
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "<FONT color=#a82424>秘传之球</FONT>被盗的事我已经听说了。<br>\n要我帮你什么？",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "其实，我们一直都在支持你。<br>\n所以你赶快去见见雷昂纳多老头吧！",
+      "answer": "",
+      "image": "qn_cl_leonardo.png"
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "<FONT color=#a82424>秘传之球</FONT>被盗的事我已经听说了。<br>\n要我帮你什么？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>实不相瞒，我怀疑一个牧师。</FONT><br>\n<FONT color=#662500>从辛西亚手中接过秘传之球的牧师中……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "上次收到的牧师圣珠，经过调查之后发现确实是我们教团的东西。<br>\n好吧，<FONT color=#a82424>你怀疑的牧师</FONT>是谁呢？ ",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "没错，和我想的一样。当初缩减马车的护卫兵，以及袭击抢夺贤者法杖的事，都是<FONT color=#a82424>赛德瑞</FONT>在搞鬼。我们教团也在缉拿赛德瑞呢。",
+      "answer": "",
+      "image": "qn_npc_cl_fallen_cedric.png"
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "<FONT color=#a82424>杰克</FONT>...如此看来，他也不见踪影了呢。虽然一直注意他的举动，但是在没有确凿证据之前，还不能对他怎么样呢。",
+      "answer": "那么... 就是...",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "啊?！ 我...我是元凶?你看侦探小说看迷糊了吧。这可是个真实的游戏，就别无理取闹了。",
+      "answer": "那么... 就是..."
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>您知道他跑到哪儿去了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "你稍等一会儿。<br>\n<FONT color=#7e12d2>（雷昂纳多看着传令员递上来的文书）<br></FONT>是<FONT color=#a82424>霜风森林</FONT>！说是有人目睹了一个戴着面具的男子去了那里。你赶快行动吧。 ",
+      "answer": "",
+      "image": "qm_dragonsycophant.png"
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "难不成牧师中藏有叛徒。<br>\n你赶快前往<FONT color=#a82424>霜风森林</FONT>吧。",
+      "answer": "",
+      "image": "qw_10.png"
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "虽然现在还不知道戴面具的是不是赛德瑞，但可以确认的是确实是有人进入了霜风森林。快到<FONT color=#a82424>霜风森林</FONT>去追他啊！",
+      "answer": "",
+      "image": "qw_10.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "<FONT color=#a82424>霜风森林</FONT>... 得赶紧过去。",
+      "answer": "",
+      "image": "qw_10.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "哦? <FONT color=#a82424>秘传之球</FONT>找到了吗?",
+      "answer": "",
+      "image": "qs_22.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "让他跑掉了？<br>\n该死~先去你老师<FONT color=#a82424>高级魔法师辛西亚</FONT>那里，把这个消息告诉她吧。",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    }
+  ]
+}

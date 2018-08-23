@@ -1,0 +1,138 @@
+{
+  "qkname": "再见面的格雷尔",
+  "data": [
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "作为藏身处，还是扭曲的区域比较合适，也就是会把最开始发现的<FONT color=#a82424>扭曲的泉水</FONT>当做根据地喽。",
+      "answer": "",
+      "image": "qw_110.png"
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "好吧，那你再去一趟<FONT color=#a82424>扭曲的泉水</FONT>找一找<FONT color=#a82424>格雷尔</FONT>吧。如果扭曲的泉水是他的根据地，就算他会暂时离开，最终还是会返回那里的。",
+      "answer": "",
+      "image": "qw_110.png"
+    },
+    {
+      "npc": "格雷尔",
+      "question": "好烦啊，烦死了。看我不把你们统统杀死！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>别冲动，格雷尔！你不认识我了吗？是我呀，我，{user_nick}！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "어……<FONT color=#387206>{user_nick}</FONT>……？<br><FONT color=#7e12d2>（格雷尔眉头紧锁，和我四目相对）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "ndnpc_Grele_9740_qu_01.ogg}<br>你怎么会在这里……？<br>我，我一直在找姐姐……我现在只有姐姐一个亲人了……我在这个装置中感觉到姐姐的气息后便一直在进行调查……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>原来是在寻找</FONT><FONT color=#a82424>伊贝尔</FONT><FONT color=#662500>的尸体啊。</FONT>",
+      "answer": "",
+      "image": "qn_hiver.png"
+    },
+    {
+      "npc": "格雷尔",
+      "question": "ndnpc_Grele_9740_qu_02.ogg}<br>……尸体？嗬，你在说什么呢？姐姐还活着！她没有死！",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "虽然我的身体确实发生了奇怪的变化，偶尔还会特别头疼，一定是因为这样，<FONT color=#a82424>我才吞下了几块宝玉</FONT>，每当那个时候我的头都会很疼，可我全都挺过来了。因为……因为姐姐还活着！因为我一定要找到姐姐！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格雷尔，对不起，伊贝尔确实已经死了，而且已经被埋葬。怎么可能复活呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "ndnpc_Grele_9740_qu_03.ogg}<br>哈哈哈哈哈！<FONT color=#387206>{user_nick}</FONT>你还真是个傻瓜！！你还真是个笨蛋！你以为被埋葬了，灵魂就会跟着消亡吗？并不是这样的…只要<FONT color=#a82424>种子</FONT>不被破坏，还有意识就……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你这是什么意思，格雷尔？你，是不是知道些什么？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "……<FONT color=#7e12d2>（格雷尔突然变得安静下来）</FONT><br><FONT color=#387206>{user_nick}</FONT>，虽然我很想相信你，但我也清晰地记得<FONT color=#a82424>你来自阿尔特里亚</FONT>。所以如果我把真相告诉你，我们将很有可能成为敌人。",
+      "answer": ""
+    },
+    {
+      "npc": "调查官安瑟",
+      "question": "……………………",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（可能成为敌人？这到底是什么意思？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "调查官安瑟",
+      "question": "我不是不让你到处乱逛吗，你怎么会在这里？<br><FONT color=#7e12d2>（安瑟的脸色看起来有些焦急）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（他该不会是来找格雷尔的吧？好危险！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>安瑟你来这儿做什么呢？如果你是来这儿追踪盗贼的，我可没发现……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "调查官安瑟",
+      "question": "那是因为你只是一只实力退化的虫子，所以才没能发现，我可是寻着那家伙的蓝色头发追踪过来的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（莫非他已经看到格雷尔了。怎么办，要不要再拖延一下时间）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "调查官安瑟",
+      "question": "好了。我没工夫和你在这儿废话。",
+      "answer": ""
+    },
+    {
+      "npc": "调查官安瑟",
+      "question": "<FONT color=#7e12d2>（安瑟转过身去迅速消失了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "调查官去追踪格雷尔了？！",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "照你所说，格雷尔在杀死特里亚后又吞下了几块宝玉，所以对付那样一个低级查尔德调查官应该不成问题。可一旦关于格雷尔的传闻愈演愈烈可就麻烦了。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "而且<FONT color=#a82424>伊贝尔</FONT>……看来那孩子最终还是变成查尔德了。虽然在她的尸体消失时，我就已经猜测出几分了……",
+      "answer": "",
+      "image": "qn_hiver.png"
+    }
+  ]
+}

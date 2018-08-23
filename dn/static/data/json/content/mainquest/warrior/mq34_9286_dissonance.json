@@ -1,0 +1,254 @@
+{
+  "qkname": "不协和音",
+  "data": [
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "难道阿洁丽雅出什么事了吗?<br>如果是黄金草原，以她的实力早就通关两回了。",
+      "answer": "",
+      "image": "qn_npc_azelia.png"
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "<FONT color=#7e12d2>(阿洁丽雅似乎很忙。与精灵警卫兵巴夏对话吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_basha.png"
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "这里就交给我。<br>我们在<FONT color=#a82424>阿努阿兰德关卡</FONT>交流探索结果吧。",
+      "answer": "",
+      "image": "qw_anuarendelgateway.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "不见阿洁丽雅大人呢。<br>去向那边的<FONT color=#387206>警卫兵</FONT>问问阿洁丽雅大人是否有来过吧?",
+      "answer": "",
+      "image": "qn_npc_basha.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "是想跟我说<FONT color=#a82424>阿努阿兰德</FONT>旅行故事吗?<br><FONT color=#7e12d2>(现在还没什么东西好说。回到阿努阿兰德关卡看看吧)</FONT>",
+      "answer": "",
+      "image": "qw_anuarendelgateway.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "你…你去了阿努阿兰德这件事早就听说了。女王长…长什么样也能告诉朕吗?<br>不…不是! 不是因为好奇。和精灵的交流…交流不是已经断了嘛...",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没见到。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "不是精…精灵就不见....就，就因为那种理由吗? 真是傲…慢的种族啊。",
+      "answer": ""
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "为了帮助<FONT color=#a82424>阿努阿兰德</FONT>危机而来？真是自我主义者们啊。<br>在黑龙之战时也是，感觉像是要发展两国关系似的，又回到森林窝里蹲吗不是。",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "精灵? 我一步也不想接近那个种族的村庄!<br>比起天生的身材什么什么的精灵，还是我们魔法师们的身材维持得更好吧?<br><FONT color=#7e12d2>(卡拉安用多角度扭动着身体)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "修理因为黑龙而坍塌的王城也投入了很多兵力。<br>帮助精灵们的村庄吗? 是啊，感觉够呛。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "阿洁丽雅是女王选举会议的女王候补中的一人，我有义务保护她。<br>不行了。我得去找找她。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我去找找吧?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我去找找吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "是吗? 呼~ 太好了。<br>我虽然在此做守护大家的工作，但也没什么人会入侵..<br><FONT color=#a82424>黄金草原</FONT>的魔物比较多，心里还是有点怕怕的。谢谢你替我去!",
+      "answer": "",
+      "image": "qw_78.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(得跟特里亚纳说要出发了)</FONT>",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "啊?还没有出发吗？不会是又叫我去吧?<br><FONT color=#7e12d2>(得跟特里亚纳说要出发了)</FONT>",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "可能是和我们错过了，所以我重新去消失的满月沙漠吧。 <br><FONT color=#387206>{user_nick}</FONT>大人就去<FONT color=#a82424>黄金草原</FONT>确认吧。<br><FONT color=#7e12d2>(去黄金草原找找阿洁丽雅吧)</FONT>",
+      "answer": "",
+      "image": "qw_78.png"
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "啊啊.... 真是太好了。 是<FONT color=#387206>{user_nick}</FONT>大人啊。 ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>受伤了啊!不要紧吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊! 受伤了啊…没关系吧.</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "ndnpc_AN_Archer Agelia_qu_9268_02.ogg}<br>伤口不深。只是因为中毒暂时动不了而已。<br>比起那个…快点吧。把他们.... <br><FONT color=#7e12d2>(阿洁丽雅指着门的对面)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "ndnpc_AN_Archer Agelia_qu_9268_01.ogg}<br>是他们。是你说的那 <FONT color=#a82424>龙之追随者</FONT>们。",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "他们…得去追龙之追随者们吧?<br>我见到他们进到里边了。请快点。<br><FONT color=#7e12d2>(在黄金草原寻找龙之追随者们的痕迹吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "他们……得去追龙之追随者们吧?<br>我见到他们向着<FONT color=#a82424>黄金草原</FONT>去了。请快点。<br><FONT color=#7e12d2>(在黄金草原寻找龙之追随者们的痕迹吧)</FONT>",
+      "answer": "",
+      "image": "qw_78.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "阿洁丽雅大人追着的人们怎么样了?<br><FONT color=#7e12d2>(在黄金草原追踪龙之追随者们的痕迹吧)</FONT>",
+      "answer": "",
+      "image": "qw_78.png"
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "回来了吗，想着是不是连<FONT color=#387206>{user_nick}</FONT>大人也遭了他们的毒手而担心着....",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>太迟了。<br>我到的时候他们已经开始逃跑了，追不上了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，迟了一步。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "我明明该等着你的....<br>竟然轻率地跟踪他们，被他们发现让他们跑了。",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "就凭目前聚集在阿努阿兰德的人很难对抗他们。<br>需要向和特里亚纳大人一样，出门在外的同族们求救啊。<br><FONT color=#7e12d2>(特里亚纳对阿洁丽雅的话点头同意)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那么，我去神圣天堂看看吧。<br>向住在王城的</FONT> <FONT color=#662500>特拉玛依大人求救，肯定会帮助我们的。</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>住在王城的</FONT><FONT color=#662500>特拉玛依大人肯定会帮我们驱逐他们的。<br>我去神圣天堂看看吧。</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "不想借助人类的力量。<br>这是新月森林，以及阿努阿兰德的事。想用我们自己的力量解决。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么啊?不是正在借助我的力量嘛。 <br>担心这个世界的心情我们和你们一样。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我们跟他们也有债要讨。<br>而且担心这个世界的心情我们和精灵们没两样。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "ndnpc_AN_Archer Agelia_qu_9286_01.ogg}<br>但是人类都是野蛮的。他们插手的话不知道会对森林产生什么样的影响。<br>特里亚纳大人不这么认为吗?",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "不好说。冒险中我感觉到的是他们是各种各样的。知道了也有像<FONT color=#387206>{user_nick}</FONT>大人一样的善良的人。<br>我想交给<FONT color=#387206>{user_nick}</FONT>大人的判断。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不愧是特里亚纳~。真没有白白一起去冒险啊?<br>那我去王城见一见特拉玛依吧!</FONT><br><FONT color=#7e12d2>(阿洁丽雅似乎觉得有点不妥)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是吧? 那我去趟王城吧。</FONT><br>\n<FONT color=#7e12d2>(阿洁丽雅似乎觉得有点不妥)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "ndnpc_AN_Archer Triana_qu_9286_01.ogg}<br>嗯。我得去和伊西莉安大人商量怎么通知外面世界的人。<br>请替我向在<FONT color=#a82424>神圣天堂王城</FONT>的<FONT color=#a82424>特拉玛依</FONT>大人问好吧。",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "ndnpc_AN_Archer Agelia_qu_9268_03.ogg}<br>他们怎么样了呢? 啊…失手了吗。",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "</FONT>去<FONT color=#a82424>神圣天堂王城</FONT><FONT size=2 face=Arial>了吗?我不觉得他们会帮忙!<br><FONT color=#7e12d2>(阿洁丽雅似乎觉得有点不妥)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "ndnpc_AN_Archer Triana_qu_9286_01.ogg}<br>还没向<FONT color=#a82424>神圣天堂</FONT>出发吗?<br><FONT color=#a82424>特拉玛依</FONT>大人肯定也对这里的消息感到好奇的。",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "在阿努阿兰德不知道使徒们又在打什么鬼主意。<br>虽然还不清楚，但似乎不能因为是王城外面的事就撒手不管。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "而且如果帮了这次的事情，也许能和精灵们培养信赖也说不定....<br>真是绝好的机会不是吗。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

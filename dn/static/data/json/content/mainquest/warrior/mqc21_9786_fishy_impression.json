@@ -1,0 +1,199 @@
+{
+  "qkname": "可疑的人迹",
+  "data": [
+    {
+      "npc": "诺尔佩",
+      "question": "嗯……难道是帝国间谍？<br>这可就奇怪了。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "帝国只知道反女神派的存在，对于<FONT color=#387206>{user_nick}</FONT>大人和<br>杰兰特大人并不认识。充其量只听说过格雷尔大人。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "说不定是顶级查尔德，普通的间谍根本无法知晓格雷尔大人的存在。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "况且即使有所察觉，帝国间谍只要搜集到梅尔卡和反女神派私下联手的证据就够了<br>为什么非要尾随到卡伊伦岛内部呢？谁都知道，仅凭间谍的实力，根本不是格雷尔大人的对手。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真是一团乱……<br>照诺尔佩所说，尾随我们的有可能并不是帝国的间谍？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "ndnpc_Nophee_9786_qu_01.ogg}<br>有以下几种可能。<br>第一是跟卡伊伦岛的主人海兰德尔相识，第二是贝勒尼卡大人派来的密探，第三是排除前面的疑虑，那人就是帝国的间谍，第四是完全超乎意料的人物。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>第四个倒是完全没有想到。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "ndnpc_Nophee_9786_qu_02.ogg}<br>也不完全没可能。<br>重要的是，再这样下去，我们根本无法继续调查，那也意味着必须放弃寻找治愈之杯的线索。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你有什么办法吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "如今敌暗我明，我们不如将计就计，把他引出来。 <FONT color=#387206>{user_nick}</FONT>大人先不要惊动他，最好把他引入最危险、险峻的地形之中。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "我们这边人数众多很容易就能脱身，等那家伙被地形和怪物困住，自然就现身。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>原来如此！不愧是诺尔佩！到时候干掉那家伙，我们就能继续调查了吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "我认为，目前被盗墓团大举占领的旧街最为合适。<br>赶快前往<FONT color=#a82424>旧街</FONT>吧。",
+      "image": "qw_128.png"
+    },
+    {
+      "npc": "格雷尔",
+      "question": "<FONT color=#7e12d2>（格雷尔压低声音说道。）</FONT><br>这次作战名是叫“引君入瓮”吧？我懂了。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "这次果然又跟来了。<br>看来诺尔佩说的没错，好像并不是帝国的间谍。因为他懂得利用这里的地形地貌，巧妙隐藏自己的位置。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "一定先前来过这里，不然就是对这了如指掌。<br>否则怎么连我都没能及早察觉那家伙的踪迹。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "换做卢比纳特，可能早就找到了……<br><FONT color=#7e12d2>（格雷尔没好气地说道。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……<br><FONT color=#7e12d2>（杰兰特脸色铁黑，却又无力反驳……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊……如果那家伙对这里了如指掌，那岂不是很危险？<br>本想把他引入困局之中……但如果早就被他看穿了……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "那他根本就不会跟进来。<br>即使那家伙没上钩，我们再想别的办法，至少目前他一直跟着我们。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "先把那家伙引入旧街的深处再说。",
+      "answer": ""
+    },
+    {
+      "npc": "药草",
+      "question": "\n<FONT color=#7e12d2>（尾随者全无踪影，只留下了药草。）</FONT>",
+      "answer": "拾取药草。"
+    },
+    {
+      "npc": "药草",
+      "question": "\n<FONT color=#7e12d2>（拾起药草。和赶快杰兰特对话吧。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你还好吧？刚刚好像被守卫者的树根刺伤了……",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GereintKid_9786_qu_01.ogg}<br>可恶，大意了！没想到趁我们跟守卫者战斗的时候，那家伙竟然逃跑了！<br>他一定知道小路！可恶！",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你没事吧？刚刚搏斗的时候，你好像被守卫者的树根刺伤了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没、没事……就是有点晕……哈哈。（脸色有点苍白。）<br>这是在那家伙消失的地方发现的<br>（把捡到的药草递给 杰兰特。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你是说是尾随者留下的？<br>看起来像是药草……可如果贸然吃下，很有可能身中剧毒。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "龙族连药草和毒草都分不清吗？",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你以为龙族是药草鉴别师啊？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>拜托你们别吵了。啊……我的头……（感觉越来越晕了。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "眼下<FONT color=#387206>{user_nick}</FONT>的状态不好，不如先返回梅尔卡吧。<br>我回去打听一下这药草的来历，你去告诉诺尔佩尾随者逃跑的事后，就暂时休息吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "抱歉，如果我当时努力战斗就不会……",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我前往梅尔卡打听药草来历期间，你把有关尾随者逃跑的事去报告给诺尔佩。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "你来了，<FONT color=#387206>{user_nick}</FONT>大人，你脸色似乎不太好……<br>作战顺利结束了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没有，让他跑掉了。<br>不过那家伙消失的地方留下一些类似药草的东西。杰兰特去调查那药草的来历了。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "留下了一些类似药草的东西……<br>莫非<FONT color=#387206>{user_nick}</FONT>大人中毒了？",
+      "answer": ""
+    }
+  ]
+}

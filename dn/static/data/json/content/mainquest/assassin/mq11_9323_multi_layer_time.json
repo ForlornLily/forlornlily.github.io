@@ -1,0 +1,110 @@
+{
+  "qkname": "多重时间",
+  "data": [
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "黑暗女神官指南针有帮助吗？<br>啊，指针还在移动。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "指向的地方是……遗失的时间废墟。<br>你们愿意到那边去看看吗？",
+      "answer": "",
+      "image": "qw_47.png"
+    },
+    {
+      "npc": "黑暗女神官埃克莱尔",
+      "question": "这是将黑暗引向更深黑暗的那种现象吗？<br>还是黑暗向往光明的心呢？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "那个指南针现在指向的地方是<FONT color=#a82424>遗失的时间废墟</FONT>方向。<br>应该到那里去。",
+      "answer": "",
+      "image": "qw_47.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我没什么话可说。",
+      "answer": ""
+    },
+    {
+      "question": "<br><FONT color=#7e12d2>(有个陌生的少女站在那里，看着远方。</FONT><br>\n<FONT color=#7e12d2>可以隐约听到说话的声音。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "陌生的少女",
+      "question": "为了……你和我的约定。<br>我必须要找到那个东西。你所说的“石头”……",
+      "answer": ""
+    },
+    {
+      "npc": "陌生的少女",
+      "question": "……我能为正在崩溃的世界所作的事……<br>\n<FONT color=#7e12d2>(自言自语的声音听不太清楚)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(这是未来？还是过去？</FONT><br>\n<FONT color=#662500>……是什么时候的景象呢？</FONT><br>\n<FONT color=#662500>这个人到底是谁？)</FONT>",
+      "answer": ""
+    },
+    {
+      "question": " <br>\n<FONT color=#7e12d2>(少女的形象消失了。<br>好像又穿越了时间。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(指南针好像指向更远的地方。</FONT><br>\n<FONT color=#662500>到前面去看看吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "question": " <br>\n<FONT color=#7e12d2>(有个外表神秘的女性静静地避开了视线)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官埃克莱尔",
+      "question": "这是将黑暗引向更深黑暗的那种现象吗？<br>还是黑暗向往光明的心呢？",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官埃克莱尔",
+      "question": "……露娜莉娅。<br>好久不见。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你认识我吗？<br>那这里的你，应该是见过我之后的你。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官埃克莱尔",
+      "question": "我只知道不是普通的人类。<br>但我不知道……你到底是什么人。过去不知道，现在也不知道。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我就像是这个世界的剧毒。<br>足以杀死这个世界的剧毒。<br>\n……也许。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官埃克莱尔",
+      "question": "这个世界的剧毒……<br>\n<FONT color=#7e12d2>(埃克莱尔静静地闭上眼睛)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官埃克莱尔",
+      "question": "……你说纯白之球的碎片还是能够在一定时间内控制住那种力量，对吧？<br>\n我想到了一个办法。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官埃克莱尔",
+      "question": "以毒攻毒的方法。用黑暗遏制黑暗的方法。<br>\n两位应该是为了这个，才会到这里来的，对吧？",
+      "answer": ""
+    }
+  ]
+}

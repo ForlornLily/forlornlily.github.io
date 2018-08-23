@@ -1,0 +1,181 @@
+{
+  "qkname": "龙的回归",
+  "data": [
+    {
+      "npc": "阿尔杰塔",
+      "question": "是吗?如果不是重要的内容就绝不轻易放过你。<br><FONT color=#7e12d2>(阿尔杰塔打磨着拳头俯视着我)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "讨厌的感觉…很近。<br><FONT color=#7e12d2>(金发的剑士皱着眉头自言自语)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "说说看吧。是什么?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>萝丝琳德把红龙…王叫佩达所以... 嗯。就，就是这么回事。</FONT>",
+      "answer": "干脆道歉认错吧"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "在说什么呢。是古代语吗?说绝不放过你就被吓到…啧啧。<br><FONT color=#7e12d2>(阿尔杰塔的脸似乎松了一些)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "可是，你说<FONT color=#a82424>佩达</FONT>吗?<br>似乎是以前建立了人类王国的家伙的名字啊。但人类不可能活这么久吧...<br>是个相当憧憬名誉啦荣光啦之类的垃圾的人呢?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个就不知道了，不过按萝丝琳德所说，他马上就会来这儿。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "ndnpc_AN_Gereint Young_qu_9289_01.ogg}<br>那正好。不用特意去找他。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>从之前开始就有点在意了，你到底是谁总是掺和进来呢?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "杰兰特。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9289_02.ogg}<br>我不是说过是杰兰特了吗？干嘛总是要我重复两遍？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是用那时的宝玉复活的吗?</FONT><br>\n<FONT color=#662500>没想到能这样重新见到...</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "真是又吵又麻烦的人类。<br><FONT color=#7e12d2>(杰兰特似乎对{user_nick}提不起兴趣)<br></FONT>阿尔杰塔。于是，把遗物放哪儿了?",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#a82424>黄金草原。</FONT>",
+      "answer": "",
+      "image": "qw_78.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "原来是这样。所以那边方向总是传出臭臭的坏气息。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_AN_Gereint Young_qu_9289_02.ogg}<br>能对付龙的只有龙。你不要掺和进来!人类。<br><FONT color=#7e12d2>(杰兰特转过身迅速消失)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(黄金草原吗?得跟上去看看)</FONT>",
+      "answer": "",
+      "image": "qw_78.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃…嗯.. 我再去查查吧!</FONT><br><FONT color=#7e12d2>(65Lv以后才能进行这个任务)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "要去<FONT color=#a82424>黄金草原</FONT>吗?别去碍手碍脚的，静静地待着吧?",
+      "answer": "",
+      "image": "qw_78.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "总是觉得黄金草原处有不好的气息，那就是红色的吗?<br><FONT color=#7e12d2>(金发的剑士皱着眉头自言自语)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "红龙....<br><FONT color=#7e12d2>(杰兰特皱着眉头自言自语)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "把到手的使徒放在那儿了? 回去把伊格纳西奥弄到手的遗物抢过来吧!<br>\n<FONT color=#7e12d2>(重新去黄金草原吧)</FONT>",
+      "image": "qw_78.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9289_03.ogg}<br>怎么才来?那些家伙们跑掉有一段时间了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>为了去追伊格纳西奥。</FONT><br><FONT color=#662500>不过似乎一惊离开了黄金草原。遗物也带走了....</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "当然是这样了。怎么一个都做不好呢?<br>使徒也跑了，遗物也没能回收。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我明明跟杰兰特说龙之追随者也要抓住，<br>那家伙只对红龙感兴趣，于是全让他们跑了。啊~真上火!",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "红龙似乎也让它跑了。<br>杰兰特虽然去追了。但看起来已经追不到。",
+      "answer": "",
+      "image": "qn_npc_geraint_kid.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>但是我看了杰兰特战斗的场景。<br>好像有点……太过激了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9289_04.ogg}<br>他和以前的杰兰特不一样。我们是以宝玉自身的纯粹力量所诞生的存在..<br>新诞生的他不可能有以前的记忆或感情留下。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>以前的杰兰特大人很亲切很好，但这个人虽然长得像却完全是另一个人。</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "所以说你不用只想着以前的那家伙。<br>说不定连你也扔掉哦?",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>过去的他看上去更像人类……</FONT><br>\n<FONT color=#662500>虽然外形很像，但感觉就像是完全变了个人一样。</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    }
+  ]
+}

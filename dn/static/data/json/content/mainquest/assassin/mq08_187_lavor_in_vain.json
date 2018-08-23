@@ -1,0 +1,182 @@
+{
+  "qkname": "白跑一趟",
+  "data": [
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "是的，我和侦察兵福古斯一起在附近搜索的时候，偶然听到了这个旋律。<br>那应该是黑暗精灵们用于打开结界的旋律。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "ndQuest_Harp_01.wav}<br>请铭记在心。<br>希望你能在<FONT color=#a82424>叹息峡谷</FONT>得偿所愿。",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "那你现在要前往<FONT color=#a82424>水晶谷</FONT>吗？<br>\n<FONT color=#a82424>西恩</FONT>跟我关系不错，你替我向他问声好。",
+      "answer": "",
+      "image": "qw_cristalstream.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你在干嘛？",
+      "answer": ""
+    },
+    {
+      "question": "<FONT color=#7e12d2>(什么都没有)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "啊，你在寻找其他冒险家？<br><FONT color=#387206>{user_nick}</FONT>，他们听说你来到了这里，都在<FONT color=#a82424>水晶谷</FONT>等着你呢。",
+      "answer": "",
+      "image": "qw_cristalstream.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "\n竖琴已经修好了啊？！这真是太好了。<br>那现在应该可以好好利用黑暗精灵<FONT color=#a82424>护送命令书</FONT>上面记载的内容了吧。<br><FONT color=#7e12d2>（战士西恩似乎松了口气）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>护送命令书？</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "是在<FONT color=#a82424>黑暗精灵</FONT>身上发现的，哈哈。<br>我看了一下内容，黑暗精灵好像打算从红色鹰身人手上接过萝丝，负责护送。",
+      "answer": "",
+      "image": "qm_darkelfgray.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "我已经向<FONT color=#a82424>冒险家公会会长戴卡德</FONT>报告过了，他说希望能利用这个先下手为强。 <br>这次一定可以从鹰身人手上救出那个少女。",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "我们计划在<FONT color=#a82424>叹息峡谷</FONT>中，在黑暗精灵带走少女之前，先把萝丝救出来。<br>对吧？西恩。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "嗯！！好的！<br>\n那我们不要拖延了，快出发吧！",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "你好像还有事要做啊？<br>\n如果去得太晚，就很难知道黑暗精灵会将萝丝带到哪里了……那你尽快跟上来吧！",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "演奏竖琴不是件易事，但我相信你会做得很好的。<br>你按照<FONT color=#a82424>叹息峡谷</FONT>内部传来的音律演奏竖琴，就能解除结界了。",
+      "answer": "",
+      "image": "qw_14.png"
+    },
+    {
+      "npc": "峡谷的结界",
+      "question": "<FONT color=#7e12d2>（演奏竖琴解除结界）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "我们必须赶在黑暗精灵之前，在<FONT color=#a82424>叹息峡谷</FONT>救出萝丝！",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……我们往前走吧。",
+      "answer": ""
+    },
+    {
+      "npc": "峡谷的结界",
+      "question": "<FONT color=#7e12d2>(现在什么也没有了。</FONT><br><FONT color=#7e12d2>结界好像已经解除了)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……有什么事吗？<br>干嘛不往前走？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>来这里的时候，露娜莉娅，<br>你是不是穿越了好几次时间？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "也许……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>也许……你怎么能这么说！<br>你总是这个样子，让我怎么办啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "不知道。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不知道？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "因为我就是这个样子。<br>今后还会是这个样子。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "所以呢？你想干什么？<br>回去吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>既然到了这里，就继续往前走吧。<br>即使找不到那个先知，说不定也能见到鹰身人情妇。</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……好吧。<br>那就继续往前走吧。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "往前走。",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "你回来啦。<br>魔法山脊来的其他冒险家已经告诉我了，很遗憾没能救出先知。",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "啊，你不知道吗？<br>除了从普雷利镇来的冒险家之外，还有魔法山脊派来的冒险家。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "他们是魔法师安杰利卡和牧师伊桑，你应该没有见过他们。<br>详细的情况，你可以去<FONT color=#a82424>冒险家公会会长戴卡德</FONT> 那里了解一下。",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    }
+  ]
+}

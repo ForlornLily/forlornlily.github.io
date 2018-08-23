@@ -1,0 +1,102 @@
+{
+  "qkname": "选择",
+  "data": [
+    {
+      "npc": "埃提亚·尤斯提亚",
+      "question": "见到姐姐了吗？",
+      "answer": "",
+      "image": "qn_npc_lencea.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "休利亚把<FONT color=#a82424>陨石中心碎片</FONT>和<FONT color=#a82424>净化装置</FONT>抢走了。<br>不知道他到底想干什么。<FONT color=#387206>{user_nick}</FONT>，你最好去看一看。",
+      "answer": "",
+      "image": "qn_lm_nativeman_b.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你……难道，呃……刺激到了休利亚？</FONT>",
+      "answer": "",
+      "image": "qn_lm_nativeman_b.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "绝对没有。我什么都没说。是休利亚自己的决定。<br>不过我同意他的想法。",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "这就是净化装置啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>呃，嗯。</FONT><br>\n<FONT color=#662500>（到卡拉秋的草屋去吧）</FONT>",
+      "answer": "",
+      "image": "qw_karakule_house.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "休利亚到<FONT color=#a82424>受到蚕食的神殿废墟</FONT>那边去了！",
+      "answer": "",
+      "image": "qw_62.png"
+    },
+    {
+      "npc": "休利亚",
+      "question": "……我一直在回想你跟我说过的话。你总是问我，为什么会觉得这样的耳朵和尾巴不好。",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "ndnpc_Suriya_9654_qu_01.ogg}<br>虽然我嘴上说并不在意……但事实上我一直都想摆脱它。<br>可是你却以你自己的耳朵和尾巴而自豪。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>别说这些奇怪的话……呃……把净化装置关掉。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "ndnpc_Suriya_9654_qu_02.ogg}<br>是的，都是些奇怪的话。<br>最奇怪的是，一想到你要死去，我就接受不了。",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "<FONT color=#a82424>西戴尔</FONT>真是位能干的魔法师。<br>好像痊愈了。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你到底干了什么？</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "这样也好。",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "你快回到<FONT color=#a82424>西戴尔</FONT>那里去。我……要离开莲花沼泽了。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "你安然回来啦！我就知道休利亚一定会做出正确的选择。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>休利亚呢……？真的走了吗？<br>你们这些傻瓜。你是，休利亚也是！！</FONT>",
+      "answer": ""
+    }
+  ]
+}

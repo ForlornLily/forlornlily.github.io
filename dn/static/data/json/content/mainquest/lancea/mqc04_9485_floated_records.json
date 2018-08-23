@@ -1,0 +1,140 @@
+{
+  "qkname": "漂来的记录",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "实际上…… <FONT color=#a94407>凯伊</FONT>哥哥好像找到了什么。我收到了他的联络，他要与你见一面。",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真的吗？在哪里见面？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "他让你尽快赶到<FONT color=#a82424>江下游淹没地</FONT>……但姐姐你回来得太晚了。<br>凯伊哥哥还在那里吗？",
+      "answer": "",
+      "image": "qw_34.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>凯伊那家伙肯定会等在那里的。你不要担心。 </FONT>",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "你怎么现在才来？你知道我等了多久吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我收到消息之后，立刻就赶来了。我又不是有好几个分身，你和埃提亚怎么都埋怨我……<br>你找我有什么事？你找到什么了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "我四处询问，你们父亲消失那天周围有没有发生什么奇怪的事情。但是……你看看这个。",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "那天晚上，有人看到有条小船从你们领地旁的江边经过。<br>我们的故乡位于上游，我在想某处会不会有船经过的痕迹，我在搜查时发现了这个箱子。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这箱子……钥匙口雕刻着我们家族的象征。这是父亲的东西！<br>那父亲乘坐的是这条船？？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "我也是这样想。你们的父亲好像藏身到了这个地方，但我对这附近进行了搜查，除了箱子之外，没有其他发现。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>谢谢你，凯伊。我要把箱子带走，和埃提亚一起查看。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "什么？？我……我也想知道箱子里装的是什么。<br>为了让你最先看到，我一直都没有打开箱子……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那是因为你没有钥匙吧。以后我会告诉你的，我想和埃提亚一起打开。<br>如果你有什么新发现，记得联系我。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "我继续往下游走，看看有没有其他线索，你去见过埃提亚之后，就去那里找我。<br><FONT color=#7e12d2>（凯伊似乎觉得有些惋惜，但还是将箱子带到埃提亚那里吧）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "我继续往下游走，看看有没有其他线索，你去见过埃提亚之后，就去那里找我。<br><FONT color=#7e12d2>（凯伊似乎觉得有些惋惜，但还是将箱子带到埃提亚那里吧）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "你这么快就回来啦？那个箱子是什么？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这箱子是凯伊发现的。或许……（转述与凯伊的对话）</FONT>",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>埃提亚，你也有钥匙吧？只有我们家族的人才拥有的钥匙。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "<FONT color=#2b2723>原来如此！姐姐，你真的好聪明。我们快打开箱子吧。<br></FONT><FONT color=#7e12d2>（埃提亚从口袋中拿出钥匙，打开了箱子）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "这是什么？好像都是些文件。这是，信……？？<br><FONT color=#7e12d2>（埃提亚快速阅读信的内容）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "收信人不祥的信件1",
+      "question": "<FONT color=#086171>我觉得很不安。如果传达宝珠是为了那个目的，你为什么将这么重要的事情交给我的女儿们呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "收信人不祥的信件2",
+      "question": "<FONT color=#086171>……连中央分部都不知道宝珠的事情。我已经很久没收到你的回信了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "收信人不祥的信件3",
+      "question": "<FONT color=#086171>如果你确实收到书信，我就派一个孩子跟你联络。我要去魔法山脊帮助我的女儿了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐！这是……",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "这是父亲写给某人的信件。应该说，他想把信寄出去，结果却没能成功。<br>这封信上的日期距离现在已经很久了，负责送信的家伙没有按照父亲的吩咐办事。",
+      "answer": ""
+    }
+  ]
+}

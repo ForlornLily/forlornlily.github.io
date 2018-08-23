@@ -1,0 +1,176 @@
+{
+  "qkname": "女王的危机",
+  "data": [
+    {
+      "npc": "精灵长老",
+      "question": "不久前魔物袭击了这里。是趁着守护这里的龙消失吧。<br>虽然阻止他们进入生命之树，但这就是代价。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "佩达拉.... 不是只有用龙之力而已啊。你被夺走的黑色之力也是。没发现吗？",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "ndnpc_AN_Elf_Guard_Basha_qu_9280_01.ogg}<br>哦哦 <FONT color=#387206>{user_nick}</FONT>！！来救我了是吗！！<br><FONT color=#7e12d2>(巴夏在这... 阿努阿兰德关卡发生什么事情了吗？)</FONT>",
+      "answer": "",
+      "image": "qw_anuarendelgateway.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "还是丢失目标了.. 这都怨你。你！",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "没能阻挡失去同伴的巴夏 冲向那个沙漠。",
+      "answer": "",
+      "image": "qn_npc_basha.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>巴夏的话，偶尔交谈过。<br>记得是挺胆小的警卫兵... 他去哪了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "巴夏说不能干等着被奇袭... 胆小的孩子得多生气，才会那样啊。<br><FONT color=#7e12d2>(长老用可怜的视线注视着沙漠)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>要我去找她回来吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "哎... 魔物们这么多的话，这里也会危险了。<br>您要帮忙，真是太感谢了。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9297_02.ogg}<br>在失去巴夏之前，去 <FONT color=#a82424>沙尘之海</FONT>帮助那孩子吧。",
+      "answer": "",
+      "image": "qw_76.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9297_02.ogg}<br>在失去巴夏之前，回到 <FONT color=#a82424>沙尘之海</FONT>去帮帮那孩子吧。",
+      "answer": "",
+      "image": "qw_76.png"
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "ndnpc_AN_Elf_Guard_Basha_qu_9280_01.ogg}<br>哦哦 <FONT color=#387206>{user_nick}</FONT>！！ 是来帮我的吧！<br><FONT color=#7e12d2>(巴夏脸上浸满眼泪)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>恩 还好吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你没事吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "我... 真是太可怕了。 其实我不是那么出众的骑士，所以才去当的警卫兵....<br>跟我一起训练的同伴们都死去了... 呜呜...",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "还好 <FONT color=#387206>那些人</FONT>来了，要不就出大事了。<br><FONT color=#7e12d2>(巴夏指着阿尔杰特和杰兰特)</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "还好 <FONT color=#387206>那些人</FONT>来了，要不就出大事了。<br><FONT color=#7e12d2>(巴夏指着阿尔杰特和杰兰特)</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9297_01.ogg}<br>你怎么回事啊？<br>叫你守护生命之树，怎么跑这来了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>追赶佩达怎么样了？啊。是帮助了陷入危机的巴夏了吗。</FONT>",
+      "answer": "",
+      "image": "qn_npc_basha.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "路过的精灵？在这附近失去了佩达的行踪而已。<br>果然一开始，就不能带你这么慢的人过来。正好尤万西贝尔给的情报时机也很正确。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "ndnpc_AN_Elf_Guard_Basha_qu_9297_01.ogg}<br>尤万西贝尔？ <br>对于同族不知道我该不该这么说，那位能信得过吗？",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "也是。说佩达在这的是他。<br>不过是感觉到红龙的气息才追过来的，并不是信得过他才来这里的，怎么了？",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "他好像在指挥这里的魔物们。 <br>不知道是不是看错了，不过给魔物们下达命令后跑向生命之树方向了。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9297_02.ogg}<br>什么？利用生命之树？？<br><FONT color=#7e12d2>(阿尔杰塔一脸惊讶的表情)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>等一下。那么 尤万西贝尔是故意告诉我们有关红龙的情况的吗？<br>为了把阿尔杰塔和我从生命之树分开....</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9297_03.ogg}<br>我说怎么觉得怪怪的，竟然被精灵给耍了。<br>得回<FONT color=#a82424>生命之树</FONT>了。",
+      "answer": "",
+      "image": "qw_anuarendelgateway.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9297_03.ogg}<br>我说怎么觉得怪怪的，竟然被精灵给耍了。<br>得回<FONT color=#a82424>生命之树</FONT>了。",
+      "answer": "",
+      "image": "qw_anuarendelgateway.png"
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "还是担心 <FONT color=#a82424>生命之树</FONT>。<br>比起阻止魔物，追赶尤万西贝尔的行踪更为重要。",
+      "answer": "",
+      "image": "qw_anuarendelgateway.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9280_04.ogg}<br>大… 大事。果然尤万西贝尔... 他…！<br><FONT color=#7e12d2>(精灵长老貌似受了重伤。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>尤万西贝尔来这了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "虽然我想阻挡，但是力不从心。<br>那人已经闯到女王的玉座了。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

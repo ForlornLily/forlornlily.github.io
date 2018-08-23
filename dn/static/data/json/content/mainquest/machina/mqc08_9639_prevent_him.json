@@ -1,0 +1,123 @@
+{
+  "qkname": "为了阻止他",
+  "data": [
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#7e12d2>（西戴尔的表情稍微明朗了一些）</FONT><br>听说从龙之追随者手中逃出来的派顿部族的人聚在一起逃到什么地方去了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我去应该会比你更快些吧？他们都在哪呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我听说他们躲在<FONT color=#a82424>伊斯拉土著民村落</FONT>了。<br>如果你能替我去一趟，我就放心了。就算不考虑察提的事，我曾经也答应过要追踪卡拉翰的下落。",
+      "answer": "",
+      "image": "qw_58.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>别担心。</FONT>",
+      "answer": "",
+      "image": "qw_58.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "一定要尽快找出他的下落才行。<br>虽然魔法师们也正在帮忙，但由于老师去世，现在的传达系统变得比较混乱。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "原住民塔伦",
+      "question": "嗯？我好像以前没见过你。<br>我在这儿等魔法师呢。<br>……听说是个有着一头柔软金发的文静少年。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>说的是西戴尔吧。他正在忙着准备卡拉秋的葬礼，来不了了。</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "原住民塔伦",
+      "question": "啊……这么说，莫非你就是<FONT color=#387206>{user_nick}</FONT>……？<br>我听察提说她见过柯里塔村庄的人。",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的，我就是。我也是西戴尔的朋友。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "原住民塔伦",
+      "question": "原来如此，既然你是我们的同胞，自然要比魔法师更可信。<br>我们部族一直守护的封印被解除后，我们便开始不停地寻找卡拉翰的下落。<br><FONT color=#a82424>绿龙宝玉</FONT>已经落在他的手里了。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "原住民塔伦",
+      "question": "不过他好像还没能变成完整的龙。不过，他为了聚集可以变成龙的力量，正在走遍各个古代人的遗迹，搜集古代人的遗物。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哎呀，一定要阻止他才行。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "原住民塔伦",
+      "question": "是的，如果不能尽快阻止他，等他变成绿龙之后，一定会带来巨大的灾难。<br>你去把这件事告诉那个名叫<FONT color=#a82424>西戴尔</FONT>的魔法师吧。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的，就交给我吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "原住民塔伦",
+      "question": "麻烦你赶紧，<br>根据我们的判断，卡拉翰接下来盯上的宝物在<FONT color=#a82424>古代宝物仓库</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "原住民塔伦",
+      "question": "那就麻烦你了，<br>得赶紧阻止<FONT color=#a82424>卡拉翰</FONT>才行。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "啊！你回来了啊，<FONT color=#387206>{user_nick}</FONT>。<br>那个原住民是怎么说的？",
+      "answer": "",
+      "image": "qn_lm_nativeman_a.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（转达原住民的话）</FONT>",
+      "answer": "",
+      "image": "qn_lm_nativeman_a.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "是这样啊，卡拉翰他……<br><FONT color=#7e12d2>（西戴尔一脸严肃的表情）</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "为了继承老师的遗志，还有……就算是为了察提。<br>为了阻止更多的牺牲，我一定要阻止他才行。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    }
+  ]
+}

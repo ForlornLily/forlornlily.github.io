@@ -1,0 +1,115 @@
+{
+  "qkname": "过错重演",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "哥哥……凯伊哥哥究竟为什么……<br><FONT color=#7e12d2>（埃提亚的表情变扭曲了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我们生活的现在会变成什么样呢？<br>如果</FONT><FONT color=#a82424>荒漠风暴</FONT><FONT color=#662500>成功的话，未来人就会入侵吗？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "<FONT color=#a82424>荒漠风暴</FONT>作战计划中，好像基地部队中只有一部分会入侵，所以在他们设置其他目标之前，我们还有一段准备时间。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "比起这个，凯伊哥哥究竟怎么样了？<br>他平安无恙吗……？<br><FONT color=#7e12d2>（埃提亚的脸色黯淡下去了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你没事吧，埃提亚？你的脸色好差啊！！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐……对不起，能不能让我自己待一会儿……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，我知道了。那</FONT><FONT color=#662500>我就去泰尔罗萨市区散散步吧！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "对不起姐姐……可我的头好晕……让我自己待一会就好了……",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "<FONT color=#387206>{user_nick}</FONT>……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……！！！凯伊，你怎么在这里？！！<br>你怎么好意思出现在我面前啊？！真是厚脸皮！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9551_qu_01.ogg}<br>也许你觉得我是在辩解……但我错了……<br>我也不想这样……<br><FONT color=#7e12d2>（凯伊绝望地摇着头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你也不想这样但你还是这样做了！你知道埃提亚有多伤心吗？！光凭这一点我也得教训你！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "我……没有守护好泰努阿尔神殿……还有<FONT color=#a82424>黛西</FONT>……<br>我为什么没想到她告诉我的全是谎言呢……",
+      "answer": "",
+      "image": "qn_npc_daisy.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>喂喂，你忘了我们家埃提亚吗，怎么把别的女孩的名字挂在嘴上……嗯？<br>那个女孩？</FONT><FONT color=#662500>她不是百合花吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "是的……百合花……不，最初是从<FONT color=#a82424>那个人</FONT>开始的……但是……<br><FONT color=#7e12d2>（凯伊像突然想到什么似的，露出焦躁的表情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "敌人很快就要出现了，<FONT color=#387206>{user_nick}</FONT>！！<br>对不起！我得走了！",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "非常抱歉！！但我不能继续待在这里了！",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "……你回来了，姐姐……<br><FONT color=#7e12d2>（埃提亚看起来很疲惫）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个……你听我说……（把遇到凯伊的事情告诉埃提亚）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "凯伊哥哥究竟想折磨人到什么时候啊？ <br>姐姐，你去抓着他的头发……咳咳……不，就算把他打晕也要把他拖回来……",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "不能让他再做傻事了，凯伊哥哥……不要在意别人的眼光，快回来吧……",
+      "answer": ""
+    }
+  ]
+}

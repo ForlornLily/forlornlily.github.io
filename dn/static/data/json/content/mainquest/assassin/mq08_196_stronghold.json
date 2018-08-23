@@ -1,0 +1,147 @@
+{
+  "qkname": "根据地",
+  "data": [
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "在神殿礼拜堂中有什么收获吗？",
+      "answer": "",
+      "image": "qw_19.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "听说战士西恩和其他冒险家正在<FONT color=#a82424>灰色废墟</FONT>那边等你。<br>你快去看看吧。",
+      "answer": "",
+      "image": "qw_cristalstream.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "<FONT color=#387206>{user_nick}</FONT>！没有时间了，你先到<FONT color=#a82424>灰色废墟</FONT> 那边去吧。<br>其他冒险家都分头去搜集情报了。",
+      "answer": "",
+      "image": "qw_cristalstream.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "嗯……你和在神殿礼拜堂见过的冒险家约定在<FONT color=#a82424>灰色废墟</FONT>见面？<br>\n就是那个叫战士西恩的人啊，我知道了。",
+      "answer": "",
+      "image": "qw_cristalstream.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "我的能力太弱，这让我感到很无力。<br>身为女神的仆人，却没能帮上更多的忙，真是惭愧。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "你好。我想我们以后应该会经常见面。<br>这也是特雷西亚的一部分。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "嗯……<FONT color=#387206>{user_nick}</FONT>你是说……<br>有人会在<FONT color=#a82424>凯德拉关卡投毒</FONT>，是吧？",
+      "answer": "",
+      "image": "qw_cataractgateway.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "不好意思，那种推测很难让人相信。<br>有别的什么证据吗？<br>比如说，看到有人接到了埃雷娜的指令之类的……",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "需要确认的话……<br>去问问到过佩奥里斯塔魔法研究所的安杰利卡，应该可以进一步确认。",
+      "answer": "",
+      "image": "qw_21.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "还有，我在墓穴集会场看到了埃雷娜的集会，那里到处都是布洛怪。<br>我想那些布洛怪一定已经成为了埃雷娜的手下。",
+      "answer": "",
+      "image": "qw_20.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你能确认一下布洛怪们在为埃雷娜提供什么协助吗？<br>如果她真的如你所说，想要投毒……<br>\n这件事情也许会交给布洛怪负责。",
+      "answer": "",
+      "image": "qm_broo_white.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "布洛怪会研究和使用与魔法师类似的魔法。<br>但是好像和毒药没什么关系。",
+      "answer": "",
+      "image": "qm_broo_white.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "说不定布洛怪们会利用魔法物品引起什么问题。<br><FONT color=#387206>{user_nick}</FONT>，你好像正在追踪埃雷娜，我觉得你应该去那里确认一下。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "嗯……这段时间我们会和安杰利卡会合，到佩奥里斯塔魔法研究所那边去。<br>如果她真的打算投毒，那就必须尽快阻止她。",
+      "answer": "",
+      "image": "qw_21.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "必须查明毒药会通过什么途径运输才行。<br>好了，现在开始行动吧？！",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "好了，我们去搜索并确认一下。<br>\n<FONT color=#387206>{user_nick}</FONT>，请你到<FONT color=#a82424>寂静修道院正殿</FONT>去消灭布洛怪。<br>埃雷娜很可能也在那里。",
+      "answer": "",
+      "image": "qw_22.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "这次要到<FONT color=#a82424>寂静修道院正殿</FONT>去啊。<br>明白了。",
+      "answer": "",
+      "image": "qw_22.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "上次的那些冒险家们到<FONT color=#a82424>灰色废墟</FONT>那里去了。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "回来啦？<br>我们在佩奥里斯塔魔法研究所中发现了<FONT color=#a82424>埃雷娜的指令书</FONT>。",
+      "answer": "",
+      "image": "qw_21.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>指令书？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "是的，佩奥里斯塔魔法研究所是毒蜘蛛的巢穴。<br>\n<FONT color=#a82424>女王蜘蛛拉兰</FONT>是个很难对付的对手。<br>埃雷娜好像正在利用它们搜集<FONT color=#a82424>有毒物质</FONT>。",
+      "answer": "",
+      "image": "qm_queen_spider.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "埃雷娜向自己的手下下达了命令，<FONT color=#a82424>计划搜集有毒物质，污染凯德拉关卡</FONT>。<br>你说得没错。",
+      "answer": "",
+      "image": "qw_cataractgateway.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "魔法师安杰利卡去向冒险家公会会长戴卡德报告了。<br>冒险家公会必须全体动员起来，才能阻止他们。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "为了凯德拉关卡，必须尽快行动。",
+      "answer": ""
+    }
+  ]
+}

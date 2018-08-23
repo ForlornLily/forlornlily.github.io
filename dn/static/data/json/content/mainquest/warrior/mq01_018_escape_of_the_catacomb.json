@@ -1,0 +1,101 @@
+{
+  "qkname": "逃出墓穴",
+  "data": [
+    {
+      "npc": "村长海洛德",
+      "question": "再稍等一会儿，我就能为你合成一枚<FONT color=#a82424>红色印章</FONT>了。",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "你要前往墓穴？<FONT color=#a82424>牛头怪</FONT><FONT color=#a82424>翁拉克</FONT>可不是个等闲之辈。<br>\n你在前往<FONT color=#a82424>墓穴</FONT>之前，请再来找我一趟吧。",
+      "answer": "",
+      "image": "qn_npc_scholar_baily.png"
+    },
+    {
+      "npc": "纹章学者伯恩施坦",
+      "question": "陷阱并不足以为惧，可是听说<FONT color=#a82424>墓穴</FONT>里的<FONT color=#a82424>牛头怪</FONT><FONT color=#a82424>翁拉克</FONT>可是个十分厉害的角色。<br>\n你去见见卫兵史蒂夫，应该会有帮助的吧？",
+      "answer": "",
+      "image": "qm_minotauros_bison.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "\n听说现在的问题不是陷阱，而是墓穴中那个非常可怕的家伙。",
+      "answer": "",
+      "image": "qm_minotauros_bison.png"
+    },
+    {
+      "npc": "自卫团长史蒂夫",
+      "question": "你来啦？谢谢你在<FONT color=#a82424>古代神殿遗迹</FONT>给予我们的帮助。多亏了你，那些失踪的人才能安全回到村里。",
+      "answer": "",
+      "image": "qw_2.png"
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "……我刚接到报告说萝丝被<FONT color=#a82424>墓穴</FONT>里的<FONT color=#a82424>牛头怪</FONT><FONT color=#a82424>翁拉克</FONT>劫持了。<br>\n嗯，看来这次真是遇到厉害的对手了……<FONT color=#a82424>翁拉克</FONT>……",
+      "answer": "",
+      "image": "qm_minotauros_bison.png"
+    },
+    {
+      "npc": "自卫团长史蒂夫",
+      "question": "对付<FONT color=#a82424>牛头怪翁拉克</FONT>的时候，只能使用可以阻止它的行动的强力技能。或预判它的动作并快速闪避。一定要时刻留意<FONT color=#a82424>牛头怪</FONT><FONT color=#a82424>翁拉克</FONT>的突进攻击和突然的旋转攻击。",
+      "answer": "",
+      "image": "qm_minotauros_bison.png"
+    },
+    {
+      "npc": "自卫团长史蒂夫",
+      "question": "……嗯……刚开始……以为只是偶然……但从现在的情况来看……他们一开始就在打<FONT color=#a82424>萝丝</FONT>的主意……呼……首先必须把<FONT color=#a82424>萝丝</FONT>救出来，必须要快。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "\n出发前，你最好去见见<FONT color=#a82424>卫兵史蒂夫</FONT>获取一些建议。<br>愿女神的庇护与你同在。",
+      "answer": "",
+      "image": "qn_guard_steave.png"
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "请赶快前往<FONT color=#a82424>墓穴</FONT>吧。<br>\n我们的自卫团员们也会紧随其后的。",
+      "answer": "",
+      "image": "qw_3.png"
+    },
+    {
+      "npc": "自卫团长史蒂夫",
+      "question": "辛苦你了。你竟然能打倒<FONT color=#a82424>墓穴</FONT>的<FONT color=#a82424>牛头怪</FONT><FONT color=#a82424>翁拉克</FONT>……你的实力真是让人惊叹。",
+      "answer": "",
+      "image": "qw_3.png"
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "可是萝丝和提摩西还是没有回到村子……<br>他们没和冒险家你一起回来吗？到底出了什么事？",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "你说<FONT color=#a82424>提摩西</FONT>带着<FONT color=#a82424>萝丝</FONT>在墓穴的<FONT color=#a82424>牛头怪</FONT><FONT color=#a82424>翁拉克</FONT>不注意时逃跑了……？<br>\n可是为什么没有返回村子呢……？",
+      "answer": "",
+      "image": "qn_guard_timose.png"
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "莫非……真担心他们没能脱离<FONT color=#a82424>墓穴</FONT>啊。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "不祥的预感。<br>\n我必须派自卫团员前去调查<FONT color=#a82424>墓穴</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "<FONT color=#a82424>卫兵史蒂夫</FONT>应该在等你。",
+      "answer": "",
+      "image": "qn_guard_steave.png"
+    }
+  ]
+}

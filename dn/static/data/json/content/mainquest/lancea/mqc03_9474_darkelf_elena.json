@@ -1,0 +1,84 @@
+{
+  "qkname": "黑暗精灵埃雷娜",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "姐，姐姐？？",
+      "answer": ""
+    },
+    {
+      "npc": "悬浮装置",
+      "question": "<FONT color=#7e12d2>（悬浮装置充能完成）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "悬浮装置怎么样了？<br><FONT color=#7e12d2>（阿尔杰塔的心情好像不太好，先去找埃提亚吧）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "这是怎么回事？我让你去询问开往神圣天堂的飞艇的出发时间，你怎么现在才回来，还满身都是伤……<br>究竟发生了什么事情？你快说啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呜呜呜……埃…埃…埃提亚…呜呜呃呜呜</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐~。不要哭。<br>到底发生了什么事情……嗯？",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "你说<FONT color=#a82424>小精灵</FONT>？果然就如书上所记载的那样。黑暗精灵真是太坏了！<br>居然敢这样对姐姐！",
+      "answer": "",
+      "image": "qm_hopgoblingreen.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯嗯……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "不过，姐姐，如果没有那悬浮装置，我们就无法前往神圣天堂了吗？<br>我们不能就这样傻傻地待着…. 去问问阿尔杰塔应该怎么办吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>但是，阿尔杰塔肯定会生气的。她好可怕…呜呜.. 呜呜……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐… 没关系的。你能做到！<br>找回悬浮装置，让飞艇飞起来吧！",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "快去告诉阿尔杰塔实情，向她询问找回悬浮装置的方法吧！<br>我相信姐姐你一定能做到的！",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "天啊？你怎么看起来比我还狼狈啊……？<br>究竟发生了什么事情？",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "悬浮装置被大块头的食人魔吞掉了，你还被之前从未见过的黑暗精灵威胁了？<br>了不起，真是了不起… 啧啧….",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

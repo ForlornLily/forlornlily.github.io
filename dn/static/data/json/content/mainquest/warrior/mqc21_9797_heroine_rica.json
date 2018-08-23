@@ -1,0 +1,303 @@
+{
+  "qkname": "女汉子莉卡",
+  "data": [
+    {
+      "npc": "诺尔佩",
+      "question": "好多了。下一次调查应该可以和格雷尔一起进行。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>太好了……那贝勒尼卡那边的情况如何？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "依然中断了反女神派的一切支援。<br>这次贝勒尼卡似乎铁了心了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>果然……现在还是老样子……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "不过你问这个做什么？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>莉卡让我来梅尔卡确认一下所以才来的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "莉卡……？由于好奇格雷尔和梅尔卡的状态所以让<FONT color=#387206>{user_nick}</FONT>大人你过来这件事有很多疑点……<br>如果是我认识的那个莉卡的话，应该是想要打听其他的事情才派<FONT color=#387206>{user_nick}</FONT>大人你来梅尔卡的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可是她别的什么都没说，真的只让我问这两件事来的啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "虽然不太清楚究竟是怎么回事，但既然已经问到她所说的事了，那你最好去见一见莉卡。应该能打听到些什么。她是说自己在 <FONT color=#a82424>卡伊伦海岸</FONT>吧？",
+      "answer": "",
+      "image": "qw_125.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>按照莉卡所说，我跟诺尔佩打听到格雷尔和梅尔卡的情况了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格雷尔情况大有好转，马上就能回归调查了，<br>贝勒尼卡目前依旧中断反女神派的所有支援。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "<FONT color=#7e12d2>（莉卡似乎对</FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#7e12d2>所说的情报毫不关心，一直盯着某个地方。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>莉卡？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "我的猜想果然没错。为了证实我的猜测，我让<FONT color=#387206>{user_nick}</FONT>前往梅尔卡<br>一直跟踪我们的东西在<FONT color=#387206>{user_nick}</FONT>走后也不见了。你再次出现后那些东西又跟上来了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？跟踪我的东西？我走后他们就消失了……只有我自己离开了啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "准确地说不是你自己，不是有个带你到这来的第3个人吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>带我来这的人……他只是个梅尔卡的普通渔夫啊……<br>他为什么要跟踪我们？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我也听到了那个动静，难道不是对卡伊伦岛充满幻想的渔夫想要得到宝物所以才跟着我们的吗？",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "如果真是这样的话他大可直接要租船费啊，为什么要偷偷地跟着我们呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>莉卡说的也有道理。<br>如果跟踪我们的人真的是渔夫的话，我回梅尔卡的时候要用船，所以他只能和我一起离开。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "我们为什么要在这猜来猜去的啊？<br>那边那个藏起来的家伙！你要是不赶紧出来我就把你像虫子一样捏烂！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格里高利！你这么说他该跑了！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "ndnpc_Salica_9797_qu_01.ogg}<br>从他们至今为止的行动来看，他们不知道回去的路。<br>必须要我们中的某个人回去他们才会跟着我们行动。因此这些家伙可以说完全没有退路。",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "ndnpc_Salica_9797_qu_02.ogg}<br>我答应你，如果立刻出来的话可以饶你一命。",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "\n那个叫莉卡的女人是个说一不二的性格……说真的……<FONT color=#7e12d2>（格里高利脸红了。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "\n怎么这么晚才回来？",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "他出现了。",
+      "answer": ""
+    },
+    {
+      "npc": "尾随而来的渔夫",
+      "question": "该死……被你们发现了。你们果然和贝勒尼卡大人说的一样，都不是什么普通人。的确值得他老人家怀疑。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝勒尼卡大人……难道你是！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "尾随而来的渔夫",
+      "question": "没错，我是伪装成普通渔夫来帮助你们的贝勒尼卡大人的密探。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝勒尼卡怎么会派密探跟踪我们呢？他怀疑我们哪一点？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "所以说我不乐意相信人类。杀了这些不是友军的小喽啰岂不是一了百了。",
+      "answer": ""
+    },
+    {
+      "npc": "尾随而来的渔夫",
+      "question": "我没有必要在这里把他老人家的意图和盘托出。<br>我只是遵从他的旨意而已。我的任务虽然失败了，但只要他老人家乐意，他还会再派人来的。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "查尔德或者是帝国的敌人也有很多，贝勒尼卡究竟怀疑我们什么才派密探跟踪我们的啊？",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "肯定是因为我……<br>在得知我的真实身份之前贝勒尼卡是不会恢复对反女神派的支援的。",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "ndnpc_Salica_9797_qu_03.ogg}<br>喂，密探。<br>我们会把你安全送回去，帮我给贝勒尼卡带个话。",
+      "answer": ""
+    },
+    {
+      "npc": "尾随而来的渔夫",
+      "question": "<FONT color=#7e12d2>（被莉卡的气势所震惊的密探不由地咽了口唾沫。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "ndnpc_Salica_9797_qu_04.ogg}<br>不要试图去阻止风。因为你只是在刺穿虚无而已……",
+      "answer": ""
+    },
+    {
+      "npc": "尾随而来的渔夫",
+      "question": "……把这句话转达给他就可以了？",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "嗯。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "\n那个渔夫不是你带来的吗？",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "\n身后跟了个烦人的累赘我肯定会留一手啊。"
+    },
+    {
+      "npc": "尾随而来的渔夫",
+      "question": "好的。我会把这句话转告给他的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>刚刚你让密探转达的那句话是什么意思啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "就是字面上的意思，已经开始吹拂的变化之风无论怎么阻止都没用，不管用什么都无法把风关起来。<br>如果他和我想象的一样聪明的话，肯定能懂我的意思。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你是在指责贝勒尼卡为了保护格雷尔而把他关起来这件事吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "有这层意思，也可以解释成另外一个意思。<br>听这句话的人不同，所理解的意思也不同。尤其对他来说……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好隐晦的一句话。莉卡你可真是个有着层层神秘面纱的人。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "不用想得那么复杂。现在你眼前的我只不过是一个为了寻找遗物四处奔走的冒险心极强的学者而已。",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "现在不用再担心贝勒尼卡了。回到梅尔卡去看看吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？真的吗？听了密探转达给贝勒尼卡的话后，他改变心意了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "\n那个渔夫不是你带来的吗？",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "\n身后跟了个烦人的累赘我肯定会留一手啊。",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "如果好奇的话就回梅尔卡问问<FONT color=#a82424>诺尔佩</FONT>吧。<br>我也想知道他究竟会不会按我想的做。",
+      "answer": "",
+      "image": "qn_nophee.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "你来得正好。<FONT color=#387206>{user_nick}</FONT>大人！<br>贝勒尼卡正好联系我了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>联系你做什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "他说要恢复之前中断的对反女神派的一切支援。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "真是没法理解人类。"
+    },
+    {
+      "npc": "格里高利",
+      "question": "就那么让他走了？至少也得卸他一条胳膊吧！"
+    }
+  ]
+}

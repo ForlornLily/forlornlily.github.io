@@ -1,0 +1,322 @@
+{
+  "qkname": "过去的遗骸",
+  "data": [
+    {
+      "npc": "格雷尔",
+      "question": "我知道你会帮我的……对吧，<FONT color=#387206>{user_nick}</FONT>？",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "可能……好吧，应该是这样。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "姐姐好像到<FONT color=#a82424>梅尔卡的心脏</FONT>来了。听说有人见到过一名<FONT color=#a82424>蓝发少女</FONT>。",
+      "answer": "",
+      "image": "qn_hiver.png"
+    },
+    {
+      "npc": "格雷尔",
+      "question": "ndnpc_Grele_9744_qu_01.ogg}<br>姐姐一定是来找我的。可能是因为在舅舅家或者别的地方都没找到我，所以就到这儿来了！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊啊……格雷尔……<br>（格雷尔到现在还在做梦。虽然有些残忍，但我必须把真相告诉他）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格雷尔，你听我说。你之前调查的那件装置，是伊贝尔为了杀害你而设置的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "ndnpc_Grele_9744_qu_02.ogg}<br>你骗人。我已经靠近过那装置很多次了，现在不是还好好的？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那只不过时因为你的力量比伊贝尔的咒术力强大而已！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "ndnpc_Grele_9744_qu_03.ogg}<br>我比姐姐还强大？那我真的可以守护姐姐了？！<br><FONT color=#7e12d2>（格雷尔开心地笑了起来）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是的！即使伊贝尔不杀死你，你也可能会把伊贝尔杀死的！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "哈哈哈哈哈哈哈……你在说什么呢，<FONT color=#387206>{user_nick}</FONT>？我？我怎么可能会杀死姐姐？<br>哈哈哈哈哈哈哈哈……",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "<FONT color=#7e12d2>（格雷尔的笑声突然止住了）</FONT><br>可是……",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "我一切都记得这么清楚，为什么姐姐就记不起我来了呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那是因为你很特别，因为你是</FONT><FONT color=#a82424>突变</FONT><FONT color=#662500>。而伊贝尔不是！是查尔德的本能使她想要杀害自己的所有亲人！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "可是如果姐姐真的已经忘记了一切，那应该也不会记得要杀了'我'这样一个人啊……？",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "就算是查尔德的本能驱使她这样做，姐姐的记忆当中也一定有我的存在……所以她才能记得我是她的家人！",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "<FONT color=#7e12d2>（贝勒尼卡正在认真思考着什么。还是晚一点再来吧。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "头好痛啊……姐姐……我的头好痛啊……",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "我……一定要找到姐姐……姐姐……姐姐一定还记得我……对吧……？",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "<FONT color=#7e12d2>（向贝勒尼卡讲述了伊贝尔为了杀死格雷尔而设置了咒术装置，以及格雷尔并不在乎，还要继续寻找伊贝尔的事）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "真够笨的。你去了这一趟一点作用也没起到。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊……格雷尔说的有些话让我想了很多。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝勒尼卡你不是也说过嘛？</FONT><FONT color=#a82424>是否能够通过自身的意志保持人类的自我，还是被查尔德完全吞噬了自我</FONT><FONT color=#662500>，</FONT><FONT color=#662500>这一点是区分突变和查尔德的标准。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可是，格雷尔说</FONT><FONT color=#a82424>'在姐姐的记忆当中一定还留有关于自己的信息，所以才会打算杀死自己'</FONT><FONT color=#662500>。那么是否伊贝尔也能成为突变呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9744_qu_01.ogg}<br>没错，查尔德自我是在本来的自我这片土壤上发芽成长起来的，所以作为土壤的个人自我是不会完全消失的。反女神派也曾有过这样的想法，并一度对突变进行了研究。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9744_qu_02.ogg}<br>可是过了这么久，也只有<FONT color=#a82424>'格雷尔'</FONT>一个人成为了突变，只诞生了他一个而已。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "而且格雷尔是在最初还未分化的阶段便战胜了查尔德自我。而伊贝尔已经完全变成了查尔德，不知道这样是否还能够觉醒？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你的意思是这种概率极其低喽。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "不过，如果格雷尔坚信伊贝尔可以变回以前的伊贝尔，我们也可以通过告诉他这种方法的方式来接近他。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这么看来，伊贝尔应该是有意将格雷尔引到扭曲的区域的，可是为什么又不在格雷尔面前出现呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "这个……应该是因为格雷尔的力量远远超过了伊贝尔，所以使得伊贝尔的咒术装置无法发挥作用吧？也许伊贝尔已经发现了，所以知道格雷尔也成为了查尔德。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "也就是说伊贝尔放弃杀死格雷尔了！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那么伊贝尔之所以会出现在梅尔卡……<br>啊！舅舅！ </FONT><FONT color=#a82424>伊贝尔的舅舅</FONT><FONT color=#662500>怎么样了！</FONT>",
+      "answer": "",
+      "image": "qn_npc_pilothank.png"
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "……啧。听说他把伊贝尔埋葬后就走上了经商的道路。如果伊贝尔苏醒之后碰巧他在家里，估计马上就会被杀害的。不过不久前他回到<FONT color=#a82424>苍翠的风之平原</FONT>还向我询问过关于伊贝尔尸体的事。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "是啊……如果说伊贝尔一定要杀死什么人的话，她的<FONT color=#a82424>舅舅</FONT>是肯定不会幸免的。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "如果格雷尔和我们想的一样，他应该会去找他的舅舅。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "你赶快到<FONT color=#a82424>苍翠的风之平原</FONT>去。不论如何都要阻止格雷尔和伊贝尔见面！",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "我绝不能饶恕他……把我卖给特里亚，还让姐姐送了性命……！！！！",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "我……我明明不是这么想的……！！<br><FONT color=#7e12d2>（格雷尔看起来十分混乱）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你醒醒啊，格雷尔！这到底是怎么回事？你为什么……为什么要杀死舅舅？！！</FONT>",
+      "answer": "",
+      "image": "qn_npc_pilothank.png"
+    },
+    {
+      "npc": "格雷尔",
+      "question": "ndnpc_Grele_9744_qu_04.ogg}<br>不知道，我也不知道！我只是很烦躁，但这样不也挺好的嘛！<br>像这种虫子一样的东西！我把这种劣等的生物给…………！！",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "ndnpc_Grele_9744_qu_05.ogg}<br>啊，不，不是这样的！我，我没有想要杀死舅舅！我只是……我……！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格雷尔，格雷尔！你听我说！没错，这也不是你想看到的，对吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "没错，是的！虽然我很讨厌舅舅，但并没有想要杀死他啊……可不知为什么，好像有<FONT color=#a82424>另一个人</FONT>……不，那明明也是我，不停地在我心中……让我把他杀死……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是啊，格雷尔。所以你绝不能和你的姐姐见面。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "为什么……？你为什么这样说……？<br>我……你认为我是个坏孩子？我……因为我杀了人……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格雷尔。查尔德的本能会让你最先杀死你在作为人类时最为亲密的家人。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "先杀死家人……额……也就是说……我已经没有别的家人了，所以才把舅舅杀死……呃……我明白……可是……和我最亲密的人明明是姐姐……所以，我一直在寻找姐姐其实是为了杀死她……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是这样的，格雷尔。你是特殊的</FONT><FONT color=#a82424>突变</FONT><FONT color=#662500>，而且你也说过你可以为了姐姐去死，不是吗？只是你是有史以来的第一个突变，所以我们也不太清楚。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你在见到姐姐会显露那种本性呢？是想要守护姐姐的人类自我更强，还是想要杀死姐姐的查尔德自我更强呢。 </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "没错……我在杀死舅舅之前还在和平时一样跟他说话。我说'我会杀死姐姐？哈？哈哈哈，你不要再说了，那根本就不可能！'……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>而且如果你要为了姐姐去死，查尔德的本能可能会为了守护自己的肉体而暴走的，虽然这只是一种可能。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>所以你绝不能和你的姐姐见面。和我一起走吧，格雷尔。我们一起想办法挽救伊贝尔，嗯？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "ndnpc_Grele_9744_qu_06.ogg}<br>我，我不知道……我，我到底是什么？我原本以为我变成了查尔德……可又说我是<FONT color=#a82424>突变</FONT>？啊，是不是说我还有可能成为查尔德？不知道，我不知道，姐姐……！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你现在会有些混乱的，格雷尔。可是你也知道，现在和伊贝尔见面，是非常危险的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你也可以不马上做出决定，但至少你应该先离开这里，避开和伊贝尔见面。拜托你了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "呃……嗯……我……我……我会考虑的……所以给我一点时间……我……我要考虑一下…… 嗯……？",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "……格雷尔还是杀死了自己的亲人。看来突变的自我还是很不稳定的。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9744_qu_03.ogg}<br>不过幸好他杀的是一个该死的人。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哎呀……世界上没有什么人是该死的……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "你作为<FONT color=#a82424>阿尔特里亚人</FONT>，可能心里不会特别难受，所以你才没有马上把格雷尔带回来？我突然有些怀疑你那<br>\n<FONT color=#a82424>阿尔特里亚的善良</FONT>是不是本来就是愚蠢的同义词。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "\n……嗯？那个……？",
+      "answer": ""
+    }
+  ]
+}

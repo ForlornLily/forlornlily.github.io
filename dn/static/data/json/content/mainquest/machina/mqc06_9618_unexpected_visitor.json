@@ -1,0 +1,255 @@
+{
+  "qkname": "意外访客",
+  "data": [
+    {
+      "npc": "小龙",
+      "question": "你见过卡拉秋了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#a82424>值得信赖的人</FONT>……到底她说的是谁呢。<br>虽然我和<FONT color=#a82424>察提</FONT>的关系挺好，但是我以前完全就不知道还有这号人啊……",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "不行，太费脑筋了，我还是亲自去见见察提吧。<br>啊，对了，光顾着说察提的事，差点忘了。<br><FONT color=#a82424>老师</FONT>她好像有话要跟你说。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你老师？</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "嗯，她好像有话要说。<br>那我就去见察提了。估计这时候她应该在古代图书馆。<br>不过要对老师……保密哦。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳咳……看来我的身体状况是越来越糟糕了……得赶紧了……",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "<FONT color=#7e12d2>……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "…….<br><FONT color=#7e12d2>（盯着卡拉秋）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（去找西戴尔吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "你去和老师聊聊吧。<br>我要去见察提了。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳咳…… 还有这种事。<br><FONT color=#7e12d2>（卡拉秋正在和休利亚对话。和休利亚对话吧）</FONT>",
+      "answer": "",
+      "image": "qn_lm_nativeman_b.png"
+    },
+    {
+      "npc": "休利亚",
+      "question": "我正在打听这件事。<br>也许还有办法，我还没放弃希望。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>休利亚？？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "哎呀，我得先走了。<br><FONT color=#7e12d2>（休利亚匆匆离开了草屋）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "<FONT color=#7e12d2>（休利亚离开了草屋。和卡拉秋对话吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "竟然在别人谈话时闯进来。你和察提一样不懂礼貌。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那家伙为什么会在这里？您和他是什么关系？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳咳……. 他偶尔会来问我些问题，是我的客人，你不能无礼。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（居然说休利亚是客人？这个女人……看来真像察提所说是个妖婆啊！）<br>那他要去哪儿呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "别好奇那么多，我也不知道。<br>你这是从哪来呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我从利物沃特村庄废墟来。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "看来是西戴尔那小子让你去看那丫头的吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（老妖婆还挺聪明）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "哼，真搞不懂那小子怎么就对那个原住民丫头那么着迷呢，不过这次倒是帮上了点忙。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>帮上忙……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "最近原住民和异地居民之间的关系非常紧张。你耳朵好使的话，肯定也有所耳闻，据说有原住民失踪不见了。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳咳…… 虽然原住民失踪本身就是个很大的问题，但是他们认为这事情背后的主谋是这个地方的异地居民和我。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>察提说她是听一个可靠的人说的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "可靠的人？这么说来，那个丫头说的可靠的家伙肯定在到处诓骗原住民，虽然我不知道那个人是谁，但是既然他诬陷我们佩奥里斯塔，就该付出应有的代价……咳咳咳咳……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（看来要想知道察提说的是否正确，最好还是深入了解一下卡拉秋所做的事）<br>我愿意帮忙。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "西戴尔和那个丫头的关系不错，你就通过西戴尔接近那丫头，这样就能查出提供情报的人是谁了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的，我知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "既然你已经听我说完了，就不要傻站在这儿了，赶紧去追上<FONT color=#a82424>西戴尔</FONT>吧。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哼，请别催我，我这就去！</FONT>"
+    },
+    {
+      "npc": "察提",
+      "question": "<FONT color=#387206>{user_nick}</FONT> 怎么了？我刚刚正在和西戴尔说话。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>正好。那个老太婆让我来说服跟西戴尔见面的你。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "什么？竟然想要利用我和西戴尔的友情，这个老太婆！<br>真不知道西戴尔怎么会跟随这样的老师！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也认为卡拉秋很可疑！我刚才还看到她和眼睁睁看着我们村庄人死去的休利亚在说话！<br>劫持原住民使他们染上病的……真的会是卡拉秋吗？那个老太婆的目的是什么呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "休利亚？我好像在哪听过这个名字…….<br>他不是洛西塔的哥哥嘛？洛西塔的哥哥做错什么了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（向对方讲述和休利亚之间发生的事）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "什么？洛西塔的哥哥居然是那种人？？可怜的洛西塔……她那么想念的哥哥，竟然是恶党！<br>和这种人走得那么近，看来那个老太婆果然是个妖婆！",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "怎么办？如果村庄里的人遭遇不测该怎么办呢？？",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "我得赶快去搜查一下利物沃特村庄废墟附近。那个可靠的人说在那发现了很多人移动的痕迹。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可是那个老妖婆为什么要劫持你们村庄的人呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "那人说她是想从我的族长爷爷口中得到什么情报。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这也是你所谓的可靠的人跟你讲的吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "嗯，要不是有他帮忙，我早就和村庄的人一起被带走了。总之，我现在要去搜索利物沃特村庄废墟周围了。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我来帮你吧！</FONT>",
+      "answer": ""
+    }
+  ]
+}

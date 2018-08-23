@@ -1,0 +1,266 @@
+{
+  "qkname": "这是最后的希望",
+  "data": [
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_08.ogg}<br>不能忘记你应该做的事情。<br>我们的义务……大家对你的期待。"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……不管是那时还是现在，把世界的命运推到一个少女头上。<br>真无聊。"
+    },
+    {
+      "npc": "萝丝",
+      "question": "……不……不要……<br><FONT color=#7e12d2>（好像无法从沉睡中摆脱出来，发出了低低的呻吟声）</FONT>"
+    },
+    {
+      "npc": "萝丝",
+      "question": "……<br><FONT color=#7e12d2>（没有任何反应）</FONT>"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_08.ogg}<br>你到<FONT color=#a82424>王城地下秘密区域</FONT>好好看守着<FONT color=#a82424>先知</FONT>。<br>如果能唤醒她，那就更好了，反正巢穴说不定什么时候就会被解除。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_06.ogg}<br>一切即将真相大白。你快去<FONT color=#a82424>王城地下秘密区域</FONT>见见<FONT color=#a82424>先知</FONT>吧。<br><br>※ <FONT color=#7e12d2>组队状态下无法进行该任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……哼，无论是那时还是现在，都将一切责任硬塞给<FONT color=#a82424>一名少女</FONT>。<br>真是没意思。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "……现在，厌… 倦….了！<br><FONT color=#7e12d2>（似乎没能摆脱梦境，传来微弱的呻吟声）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_MR_Jasmin_sp_05.ogg}<br>不要忘记你该做的事情。<br>我们的义务……还有，你是我们所有的希望。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "……<br><FONT color=#7e12d2>（没有任何反应）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "……不，不要！<br><FONT color=#7e12d2>（传来微弱的声音。她似乎拒绝醒过来）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你有你应做的义务，为什么拒绝醒过来？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "NT><FONT color=#7e12d2><br>\n</FONT><FONT color=#662500>（回想发生的事情）</FONT><FONT color=#7e12d2><br>\n</FONT><FONT color=#662500>因为我也有我的义务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "……不，不要！<br><FONT color=#7e12d2>（传来微弱的声音。她似乎拒绝醒过来）</FONT><br><br>※ <FONT color=#7e12d2>组队状态下无法进行该任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_Jasmin_qu396_01.ogg}<br>你准备得还顺利吧，<FONT color=#387206>{user_nick}</FONT>？我亲爱的妹妹。<br>我刚刚收到报告，<FONT color=#a82424>时空穿越装置</FONT>的第28次测试刚刚成功了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，挺顺利的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_Jasmin_qu396_02.ogg}<br>居然要把年幼的你独自送到过去……<br>作为姐姐，我很想替你前去，但经过多方试验，结论是你更适合进行时空穿越，所以我也很无奈。<br>\n<FONT color=#7e12d2>（百合花叹了口气）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "多年前，因为某些错误，<FONT color=#a82424>凯文爷爷</FONT>穿越后就没有再回来。但现在我们对当时的错误进行了修正，应该没问题的。预计会发生的问题已经全部解决了。<br>你到了那边只要好好完成任务就行了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我会努力的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_Jasmin_qu396_03.ogg}<br>嗯，我当然相信你啦。<br>不仅是我，还有柏林公司的所有技术员，以及这世界上幸存的所有人……<br>你是所有人的希望，你千万不要忘记。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我会时刻牢记的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "……仅仅阻止<FONT color=#a82424>巨石碑</FONT>暴走是不够的。<br>如果回到过去，改变历史的话，我们的世界就会被抛弃。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你是说平行的世界？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_Jasmin_qu396_04.ogg}<br>嗯，如果你改变历史，只会生成<FONT color=#a82424>另一个世界</FONT>。与我们属于<FONT color=#a82424>不同分支的未来</FONT>。<br>那么，我和你现在所处的世界就会像现在这样<FONT color=#a82424>崩溃</FONT>。<br>……剩下的时间不多了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我一定会拯救我们的世界</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "<FONT color=#a82424>先知</FONT>应该能接近巨石碑，成功<FONT color=#a82424>复制女神的梦</FONT>。<br>虽然阿尔切林加已经逐渐变得模糊，但如果能复制并原封不动地转移到其他地方……",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_Jasmin_qu396_05.ogg}<br>不要忘记，你是我们最后的希望。<br>只要你能将<FONT color=#a82424>先知</FONT>带到<FONT color=#a82424>巨石碑</FONT>那里，创造出我们的新世界。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_Jasmin_qu396_05.ogg}<br>不要忘记。<br>你是我们最后的希望。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你要出发了？<br>你最终还是决定要走啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，呼……不知道我能否成功。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……哼，居然将所有责任硬塞给一个少女。<br>真没意思。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你是在说先知吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "也对，人类总是这样。无论是精灵还是人类，所有的生物都一样。<br>让一个人肩负所有的责任之后，其他人只知道哀求，只会在一旁观看。<br>肆意依赖，肆意埋怨……",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "如今古代龙的后裔已经全部消失，仍然存活在这疯狂世界的<FONT color=#a82424>龙</FONT>只有我和他。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>多亏了贝思柯德的守护，我们才能安心很多……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我只是代替那些将责任推给我之后就死去的傻瓜， 做适当的支撑而已。<br>……我也没能成功守护这个世界。<br>我现在也命不久矣。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>在我回来之前……你一定要等我。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "就算你成功完成了任务，这个世界也无法避免崩溃这个事实。<br>我是为这个即将崩溃的世界而生的龙。<br>我理应作为<FONT color=#a82424>过去的影子</FONT>，与这个世界一起消失。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "即使你回到过去，并成功利用先知和巨石碑创造了新世界，生活在那个地方的也不应该是我这个老骨头，而应该是充满希望的新生命。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>就算这样，你也要等我。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>（外面传来骚乱声）</FONT><br><FONT color=#a82424>迷之大陆</FONT>的废物们似乎闯进来了。<br>我先出去看看。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……再见。<br>居然让如此弱小的你肩负所有的责任，你就忘记这个世界，前往新世界吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我一定会回来的！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "说到底还是个爱哭的孩子。<FONT color=#387206>{user_nick}</FONT>……<br>好不容易过来和我道别。",
+      "answer": "（回想结束）"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（结束回忆）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "这个世界让我很失望。<br>无论是过去，还是现在。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "……我不想，醒过来。<br><FONT color=#7e12d2>（传来细小的呢喃声）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "……<br><FONT color=#7e12d2>（没有任何反应）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你为什么要放弃自己的义务？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "……不，要。现在… 我还不想…醒… 过来….<br><FONT color=#7e12d2>（继续沉睡，没有睁开眼）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你不是先知嘛！快点起来！！</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

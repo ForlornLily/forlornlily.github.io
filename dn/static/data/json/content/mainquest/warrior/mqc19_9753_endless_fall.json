@@ -1,0 +1,182 @@
+{
+  "qkname": "无止境的堕落",
+  "data": [
+    {
+      "npc": "全息诺尔佩",
+      "question": "你这不是找来了吗？<FONT color=#7e12d2>（诺尔佩微笑了）</FONT> ",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "…………………………. <br><FONT color=#7e12d2>（杰兰特闷闷不乐地看着地面）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>原来你是预料到我会见到那个人，所以派我去了那里啊。他给我的药瓶是什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "这是用白树根做的，能够抑制卢比纳特大人堕落的药品。在<FONT color=#387206>{user_nick}</FONT>大人进行其他事情的时候，研究团已经完成了抑制剂。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>在拉达梅斯外面，还有能够制作出这种抑制剂的人？那为什么不亲自来给，而是通过那小孩来给？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "ndnpc_Hologram_Nophee_9753_qu_01.ogg}<br>你果然是这么想的。<FONT color=#387206>{user_nick}</FONT>，反女神派当中，很多人都不愿意暴露自己的真实身份。亲人不在拉达梅斯而是留在他乡的人就更是如此了。",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "我们各自的希望和任务不同。有的人喜欢出头，但是有的人就喜欢安静地行动。",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "现在没时间可浪费了。请你快点把抑制剂交给卢比纳特大人吧。 <br>\n <br>\n<FONT color=#7e12d2>（前往卢比纳特所在的迷雾中的黑色湖泊吧）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "………………………… <br><FONT color=#7e12d2>（杰兰特闷闷不乐地盯着地面）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰兰特大人！你看起来很不开心啊，出了什么事吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GereintKid_9753_qu_01.ogg}<br>有事？能有什么事？在我这么安全的巢穴里能有什么事？？完全，完全不会有问题的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……好吧。卢比纳特在哪里？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "…………不知道。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "那种坏蛋红龙去哪儿了我怎么知道！我不知道！完全不懂别人的心情！我一直为他着想，结果他一直说我的巢穴洞太逗了。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GereintKid_9753_qu_02.ogg}<br>没办法。这里不是阿尔特里亚，而是迷之大陆！！！我不能看出到底是维斯提内还是女巫，如此坚固的巢穴要怎么应对那复杂的咒语呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卢比纳特大人真的那么说了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "奇怪，真是太奇怪了。他有时候特别亲切，而有时候有把我当做冤家一样。那种时候我真的不想管卢比纳特了……但是我应该要守护卢比纳特啊。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我在建造巢穴前和他约好了，卢比纳特不管说什么我都会原谅……他都不知道我忍的多辛苦，居然今天又不知道躲到哪儿去了！我实在不知道卢比纳特藏到哪里去了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我得向诺尔佩大人转达卢比纳特大人的状态。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GereintKid_9753_qu_03.ogg}<br>不行！卢比纳特说最好不要说。因为只会引发无用的担心……<br>你也不相信我吗？认为我不能独自解决……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰兰特大人，请不要打算独自撑所所有辛苦的事情！我也是杰兰特大人的朋友啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我感觉你似乎很信不过我啊…",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是那样的。这是给卢比纳特大人的药。诺尔佩大人说吃下这个，卢比纳特大人就会好转很多。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "药……？吃下这个卢比纳特真的就能好一些吗？<br><FONT color=#7e12d2>（杰兰特看着药瓶，想了很久。）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "就如<FONT color=#387206>{user_nick}</FONT>所说，独自解决不是什么好方法。<br>我们各自能够做的事情不一样……我会接受帮助的。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "如果卢比纳特出现，我一定会让他吃下的。<br><br><FONT color=#7e12d2>（将药瓶给了杰兰特，回去拉达梅斯找诺尔佩吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "你把药给他了吗？卢比纳特大人的状态如何？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（转告卢比纳特的情况）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "看来卢比纳特大人的状态确实不好。 <FONT color=#387206>{user_nick}</FONT>，卢比纳特大人一直在通过<FONT color=#7e12d2>理性的力量</FONT>来控制堕落的自己的力量。",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "ndnpc_Hologram_Nophee_9753_qu_02.ogg}<br>按照杰兰特的说法，卢比纳特似乎正在逐渐失去理性。<br>也就是说，他的理性力量已经无法阻止堕落的进行了。",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "卢比纳特大人一直很担心自己会完全失去理性。他和我为了应对那个时候，做了几个准备方案……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那要怎么做？诺尔佩大人，你为什么不说话了？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "抱歉，我在思考失去理性后，卢比纳特大人会怎么做，忘记了 <FONT color=#387206>{user_nick}</FONT>还在这里。",
+      "answer": ""
+    }
+  ]
+}

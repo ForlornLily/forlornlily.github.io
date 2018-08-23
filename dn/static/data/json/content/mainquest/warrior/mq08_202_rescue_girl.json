@@ -1,0 +1,151 @@
+{
+  "qkname": "救出少女",
+  "data": [
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（没有看到什么特别的地方）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "凯德拉关卡对我来说是一个既有喜悦又有悲伤的地方……和他相遇时的幸福，与他分别时的悲伤……<br>那里充满了我们之间的回忆。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "黑暗正在降临……<br><FONT color=#7e12d2>（萝丝木然地说着莫名其妙的话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "刚好我在追踪红色鹰身人的时候，艾德琳也在旁边，所以她应该也听到了它们的演奏。你跟她学会黑暗精灵的竖琴演奏后，就马上前往<FONT color=#a82424>叹息峡谷</FONT>吧。",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "嗯……<FONT color=#a82424>叹息峡谷</FONT>是非常危险的地区，我应该跟你一起去才行……<br>不过<FONT color=#387206>{user_nick}</FONT>，真不好意思，<FONT color=#a82424>冒险家公会</FONT>下达了紧急待命的命令，所以我不能离开。",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "听说公会正在缉拿的人最近出现在了凯德拉附近。那人就是一身黑色盔甲和黑色披风的<FONT color=#a82424>黑骑士</FONT>，目前冒险家公会的大部分兵力都在追查他的下落。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>……知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "<FONT color=#382000>{user_nick}</FONT>，请你先去<FONT color=#a82424>艾德琳</FONT>那里修好竖琴，然后前往叹息峡谷。我们将这边的事情处理完后就去和你会合。",
+      "answer": "",
+      "image": "qn_npc_archer_adellin.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "黑暗正在降临……<br><FONT color=#7e12d2>（萝丝木然地说着莫名其妙的话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "凯德拉关卡对我来说是一个既有喜悦又有悲伤的地方……和他相遇时的幸福，与他分别时的悲伤……<br>那里充满了我们之间的回忆。",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（没有看到什么特别的地方）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "<FONT color=#008000>{user_nick}</FONT>，你必须先去艾德琳那里修好竖琴。请前往凯德拉关卡见见艾德琳。",
+      "answer": "",
+      "image": "qn_npc_archer_adellin.png"
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "好久没看到竖琴了。前段时间和福古斯一起巡查的时候好像还听到了竖琴的声音……啊，抱歉。你来找我有什么事吗？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "你手里的竖琴……这么看来，我也好久没有演奏过竖琴了呢。当然，我会帮你修好的，只是需要一些时间。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "你手里的竖琴……这么看来，我也好久没有演奏过竖琴了呢。当然，我会帮你修好的。正好我这里留有琴弦，只要稍微修理一下应该就可以了。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "能告诉我你想用这把竖琴来做什么吗？",
+      "answer": "（把事情从头到尾说明一遍）",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "ndQuest_Harp_01.wav}<br>啊，那个旋律我可以为你演奏。福古斯的演奏很不像话，所以我会把我听到的旋律演奏给你听的。<br><FONT color=#7e12d2>（艾德琳微微闭上眼睛，演奏起了竖琴）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "看来这个旋律就是打开<FONT color=#a82424>叹息峡谷</FONT>中结界的钥匙。现在你可以出发了。",
+      "answer": "",
+      "image": "qw_14.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>您可以帮我修好竖琴的断弦吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "虽然演奏竖琴并不容易，但我相信你能做好。如果在<FONT color=#a82424> 叹息峡谷内</FONT>演奏刚才的竖琴旋律，结界应该就会打开。",
+      "answer": "",
+      "image": "qw_14.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "少女被关在<FONT color=#a82424>叹息峡谷</FONT>。请你带着魔法竖琴前往那里，将<FONT color=#a82424>红色鹰身人情妇</FONT>引出来，然后从怪物手中救出少女吧。<FONT color=#a82424>红色鹰身人情妇</FONT>不同于普通的鹰身人，它会散发出一种极不寻常的氛围，所以请务必小心。",
+      "answer": "",
+      "image": "qm_harpyred.png"
+    },
+    {
+      "npc": "峡谷的结界",
+      "question": "<FONT color=#7e12d2>（演奏竖琴解除结界）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "事情怎么样了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n黑骑士出现了，少女被他……",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "你是说黑骑士出现在叹息峡谷，把少女抢走了？",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的……</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

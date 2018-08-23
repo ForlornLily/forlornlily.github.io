@@ -1,0 +1,101 @@
+{
+  "qkname": "红色印章Ⅱ",
+  "data": [
+    {
+      "npc": "村长海洛德",
+      "question": "只把<FONT color=#a82424>萝丝带走了？</FONT>咳咳咳咳，难道？不会的。啊，怎么会这样，这可糟了。怪物们要把萝丝……咳咳咳咳。",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "你……你找到萝丝了……？咳咳……<br><FONT color=#7e12d2>（必须完成红色印章Ⅰ任务后才可以执行）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "其他村民也都一个个从怪物的魔爪中救出来了，所以也一定能救出萝丝的。<br>我相信一定会的。不知为什么，我心中生出了一股希望。",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "\n可是你说萝丝好像被送往了墓穴？也就是说萝丝在<FONT color=#a82424>墓穴</FONT>……？<br>墓穴可是由那个以凶恶著称的<FONT color=#a82424>牛头怪 </FONT><FONT color=#a82424>翁拉克</FONT>守护着啊。咳咳咳咳……但愿能平安无事……",
+      "answer": "",
+      "image": "qm_minotauros_bison.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我去救回萝丝。</FONT>",
+      "answer": "",
+      "image": "qm_minotauros_bison.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "谢谢你……<FONT color=#a82424>牛头怪</FONT><FONT color=#a82424>翁拉克</FONT>所在的<FONT color=#a82424>墓穴，</FONT>被怪物们在入口处设置了威力强大的<FONT color=#a82424>陷阱</FONT>。<br>\n听说那陷阱极其危险……",
+      "answer": "",
+      "image": "qw_3.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "你去向<FONT color=#a82424>纹章学者伯恩施坦</FONT>询问如何解除陷阱吧。",
+      "answer": "",
+      "image": "qn_npc_scholar_starshy.png"
+    },
+    {
+      "npc": "纹章学者伯恩施坦",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，村长好像在找你。",
+      "answer": "",
+      "image": "qn_elder_harold.png"
+    },
+    {
+      "npc": "纹章学者伯恩施坦",
+      "question": "据我推测，<FONT color=#a82424>红色印章</FONT><FONT color=#2b2723>就是怪物们通过陷阱时使用的东西，我正在对其进行研究。要是在以前，有萝丝的帮助可以轻松从发掘场找到，可现在，只能直接从怪物身上搜集了……</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "纹章学者伯恩施坦",
+      "question": "将它们搜集起来合在一起的话，就可以解除怪物们的陷阱了。<br>\n村长那里应该有几个萝丝之前搜集回来的。",
+      "answer": "",
+      "image": "qn_elder_harold.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "\n纹章学者伯恩施坦说他和我们萝丝一起前往发掘场的话，就会很神奇地准确找到遗物，总是对她称赞不已。",
+      "answer": "",
+      "image": "qn_npc_scholar_starshy.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "比如说，萝丝一走到遗物附近，就会出现微弱的光芒……或者微微的颤动。虽然我一直希望我们萝丝能过着平凡的日子……但她还是……<br><FONT color=#7e12d2>（海洛德表情凝重地摇着头）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "\n纹章学者伯恩施坦曾经给过我几个红色印章碎片。<br>\n他说那是他带着萝丝去寻找遗物的过程中找到的，也许以后会用到。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "\n他说如果从凶恶的巨人那里搜集到其余部分的话，就可以解除墓穴的陷阱，不过……<br>\n竟然被冒险家你带来了，这也是缘分呀。",
+      "answer": "",
+      "image": "qm_trollblue.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "\n好吧，我这就为你合成红色印章。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "\n萝丝……你到底在哪里呀？<br>\n<FONT color=#7e12d2>（海洛德的眼角湿润了）</FONT>",
+      "answer": ""
+    }
+  ]
+}

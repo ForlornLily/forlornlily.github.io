@@ -1,0 +1,269 @@
+{
+  "qkname": "秘传之球Ⅰ",
+  "data": [
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "哼，你不是新手牧师吗？",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "必须确认一下<FONT color=#a82424>秘传之球</FONT>是否安全。要是连秘传之球也被抢走，异教徒的胃口就会更大，始祖留下的遗物可能会全被偷走……你去见见<FONT color=#a82424>高级魔法师辛西亚</FONT>，询问一下<FONT color=#a82424>秘传之球</FONT>的位置。",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "在那之前，为了能展现出你与<FONT color=#a82424>神殿骑士团</FONT>名号相符的实力，你最好勤加修炼技能。<br>让我看看……",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "和我说话，或者按下[ <FONT color=#7e12d2>K</FONT> ]键，便会显示你可以学到的技能。<br>确认你现在可以学到的技能，并考虑一下你以后要学什么吧。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "尽管现在可以学到的技能不多，<br>但是随着等级的提升，可以学到更丰富的技能，所以不要过于心急。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "有什么事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我来是想询问一下有关秘传之球的事。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "你为什么要问<FONT color=#a82424>秘传之球</FONT>的事情？<br>是因为愚蠢的牧师们的<FONT color=#a82424>贤者之杖</FONT>被怪物抢走了吗？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "啧啧……虽然我早就知道他们很愚蠢，但没想到他们能把傻瓜的形象表现得如此完美。呵呵～",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "<FONT color=#a82424>秘传之球</FONT>正在由孩子们安全地送往魔法山脊，不用你们操心。你们先找着丢失的<FONT color=#a82424>贤者之杖</FONT>再说吧。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>龙之追随者介入了这件事。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "……？！<FONT color=#a82424>龙之追随者</FONT>……？要是有那些背叛人类的人插手的话，光靠我们的孩子们可能会有点危险……<br>切……真麻烦。<FONT color=#a82424>龙之追随者</FONT>……",
+      "answer": "",
+      "image": "qn_dragonsycophant.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我们愿意帮忙。</FONT>",
+      "answer": "",
+      "image": "qn_dragonsycophant.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "呃……没想到会接受牧师的帮助……<br>不过既然号称<FONT color=#a82424>神殿骑士团</FONT>，希望你拥有和名号相符的能力。秘传之球就在<FONT color=#a82424>帕雷利娜安息处</FONT>。",
+      "answer": "",
+      "image": "qw_8.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（帕雷利娜安息处？</FONT><br><FONT color=#662500>好像听说我师兄杰克前往那里了……</FONT><br><FONT color=#662500>前往融解森林向杰克说明情况吧。）</FONT>",
+      "answer": "",
+      "image": "qw_8.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "<FONT color=#387206>{user_nick}</FONT>？你到这里来干什么？<br>这里很危险，你快回去。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师尤利娅",
+      "question": "啊……<br>\n得赶紧回到<FONT color=#a82424>魔法山脊</FONT>才行……",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "你在想什么？<br>\n通过<FONT color=#a82424>融解森林</FONT>可以到达帕雷利娜安息处，立刻前往那里吧。",
+      "answer": "",
+      "image": "qw_8.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（先去融解森林向杰克说明情况，听听他的建议吧。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "<FONT color=#a82424>帕雷利娜安息处</FONT>？那个地方，不就是我的师兄杰克去执行任务的地方嘛。<br>\n嗯，可能他看到过什么。",
+      "answer": "",
+      "image": "qw_8.png"
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "先去<FONT color=#a82424>融解森林</FONT>见见<FONT color=#a82424>杰克</FONT>怎么样？<br>说不定他已经顺利找回秘传之球了。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "亲爱的<FONT color=#387206>{user_nick}</FONT>？<br>有什么事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "尽管现在可以学到的技能不多，<br>\n但是随着等级的提升，可以学到更丰富的技能，所以不要过于心急。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "另外，达到<FONT color=#a82424>15级</FONT>时，还可以通过<FONT color=#a82424>转职</FONT>学习更细分和特殊的技能。虽然现在说转职还为时过早，但是以你的实力很快会成为出色的神殿骑士团的。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "亲爱的<FONT color=#387206>{user_nick}</FONT>？<br>有什么事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "\n<FONT color=#7e12d2>（将辛西亚的话转达之后，杰克便慎重地点着头）</FONT><br>\n啊，原来如此。秘传之球在那儿……",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "我追踪龙之追随者一直到了帕雷利娜安息处。<br>到那儿一看，已经有很多魔法师倒下了。",
+      "answer": "",
+      "image": "qn_dragonsycophant.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "\n我正打算报告这些倒下的魔法师的状况往回走呢，在我看来，<FONT color=#a82424>封印之房</FONT>的大门并没有打开过的迹象，秘传之球应该还很安全……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>那么赶快向辛西亚报告……！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "你去见见<FONT color=#a82424>杰克</FONT>吧。<br>他为了执行任务已经前往帕雷利娜安息处了。<br>\n也许现在已经到达融解森林了。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "<FONT color=#7e12d2>（听到消息的辛西亚暴跳如雷）</FONT><br>我……我们的人居然全都倒下了……！！该死的<FONT color=#a82424>龙之追随者</FONT>！",
+      "answer": "",
+      "image": "qn_dragonsycophant.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "\n不，不需要了。<br>\n辛西娅那里我会好好说明的，你要自己去也无所谓啦…",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "打开<FONT color=#a82424>封印之房</FONT>的钥匙在那些受伤的魔法师手上。<br>\n那位尤丽娅也是其中一员。<br>\n<FONT color=#7e12d2>（杰克指着附近的一名魔法师）</FONT><br>幸好<FONT color=#a82424>龙之追随者</FONT><FONT color=#2b2723>还没发现钥匙。</FONT>",
+      "answer": "",
+      "image": "qn_npc_fallensoceress.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "\n尤丽娅很固执地说无法协助牧师，你既然是得到辛西亚的允许来的，应该好说一些。",
+      "answer": "",
+      "image": "qn_npc_fallensoceress.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "\n尤丽娅很固执地说无法协助牧师，你既然是得到辛西亚的允许来的，应该好说一些。",
+      "answer": "",
+      "image": "qw_blizzardplain.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "去问问你师兄，我们受伤的弟子在哪儿。<br>他们手上有打开封印之房的钥匙。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师尤丽娅",
+      "question": "啊……得赶紧回到<FONT color=#a82424>魔法山脊</FONT>才行……<br><FONT color=#7e12d2>（魔法师尤丽娅投射出戒备的目光）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "\n尤丽娅，<br>\n可以将你在帕雷利娜安息处所目睹的情况转告给我兄弟吗？<br>\n而且他是征求了辛西亚的同意才来的，所以请把钥匙借给他吧。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师尤丽娅",
+      "question": "你看上去和杰克一样，也是个<FONT color=#a82424>牧师</FONT>……<br>你说老师请你帮忙找回秘传之球？",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师尤丽娅",
+      "question": "啊……既然老师这么决定，就只能如此了。<br>\n在帕雷利娜安息处受伤的姐妹还没恢复。<br>只有我勉强可以行走，才来到这里。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>在那里出了什么事吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师尤丽娅",
+      "question": "当我们为了找回秘传之球来到帕雷利娜安息处时……<br>\n一个面戴<FONT color=#a82424>红色面具</FONT>的家伙带着<FONT color=#a82424>牛头怪</FONT>袭击了我们。<br>呃……幸好他应该没能进入<FONT color=#a82424>封印之房</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "\n那个前来冒犯的家伙应该就是龙之追随者。<br>\n女神教团的异教徒……一群邪恶的叛逆者。<br>\n<FONT color=#7e12d2>（杰克严肃地说着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师尤利娅",
+      "question": "啊，那个人就是<FONT color=#a82424>龙之追随者</FONT>啊……！嗯……<FONT color=#7e12d2>（尤利娅因愤怒而颤抖着）<br></FONT>打开封印之房需要<FONT color=#a82424>红色契约</FONT>和 <FONT color=#a82424>蓝色誓言</FONT>这两把钥匙。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "魔法师尤丽娅",
+      "question": "<FONT color=#7e12d2>（尤丽娅拿出了两把钥匙）</FONT><br>\n给，我把它们交给你，请务必要将<FONT color=#a82424>秘传之球</FONT>安全转移到魔法山脊。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "魔法师尤丽娅",
+      "question": "<FONT color=#7e12d2>（尤丽娅拿出了两把钥匙）</FONT><br>\n给，我把它们交给你，请务必要将<FONT color=#a82424>秘传之球</FONT>安全转移到魔法山脊。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师尤丽娅",
+      "question": "还有，你要当心<FONT color=#a82424>帕雷利娜安息处</FONT>的<FONT color=#a82424>巨人朱克洛克</FONT>。<br>\n其他的倒没什么，只是<FONT color=#a82424>巨人朱克洛克</FONT>将身体滚成球形冲撞而来的攻击杀伤力极大。没有迎面回击的可能，只能向旁闪躲。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "\n这个对手虽然比较棘手，但只要掌握好时机应该可以对付。<br>\n你知道快速按两次方向键，或者按住方向键的同时按[ <FONT color=#a82424>Shift</FONT> ]键，可以使用<FONT color=#a82424>冲锋</FONT>的吧？<br>当它将身体滚成球形冲撞而来时，你要及时闪避，然后伺机进攻。",
+      "answer": ""
+    }
+  ]
+}

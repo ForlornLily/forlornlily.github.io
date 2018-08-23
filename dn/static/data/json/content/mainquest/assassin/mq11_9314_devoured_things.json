@@ -1,0 +1,233 @@
+{
+  "qkname": "想要吞噬的东西",
+  "data": [
+    {
+      "npc": "将军道格拉斯",
+      "question": "我在忙着处理战争的余波和重整军队，一点余力都没有。有时间的话，希望你能来帮帮我。<br><FONT color=#7e12d2>(道格拉斯忙着四处奔走)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "啊，是你啊？",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "为了唤醒先知，冒险家们好像全都到什么地方去了……<br>你没去吗？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>先知……是说那个少女吗？<br>有办法让她醒来吗？</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "不太清楚。他们说魔法师的……嗯，好像是……佩奥里斯塔的药什么的。<br>宫廷魔法师卡拉安好像有什么办法。",
+      "answer": "",
+      "image": "qn_npc_royal_magician_kalaen.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "我看你好像很忙的样子。偶尔过来跟我打个招呼。说不定有什么事情需要你帮忙。<br>\n <br>\n<FONT color=#7e12d2>(* 必须达到32级以上，才能执行下一阶段)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我没别的话好说了。<br>要到王城去看看吗？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我没什么好跟你说的了。<br>就算说了也没用……说了你也不知道。<br>我也不知道……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……好吧，我不问了。</FONT><br>\n<FONT color=#662500>我会一直等着，等到你愿意回答我的那一天。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(再谈下去好像也没用了。<br>在这里也没能找到黑龙的痕迹，先回到王城去吧。)</FONT>",
+      "answer": "",
+      "image": "qw_sainthaven_inside.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我不知道。就算知道，我也没办法说。",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "呵呵呵呵～我果然很了不起～<br>不是吗？将军道格拉斯根本无法和我相提并论！",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "虽然<FONT color=#a82424>宫廷魔法师卡拉安</FONT>一直表现得不太愿意合作，但她其实也在为王国操心。<br>嗯……应该是这样吧！",
+      "answer": "",
+      "image": "qn_npc_royal_magician_kalaen.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "你来这里干什么？<br>……喂，我又没让你走！<br>\n真是个不懂得察言观色的家伙，哼。",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "啊～是可以唤醒先知的佩奥里斯塔的药吗？<br>哎呀～消息已经传出去了吗？呵呵呵呵～",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "你这人～！真是的，干嘛用那种怀疑的眼神看着我？虽然外表长得挺……嗯哼！<br>\n还像那么回事，但没想到是徒有其表，哼哼。<br>总之重要的不是这个，而是我知道唤醒先知的方法！这是最重要的！",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "呵呵呵呵，你觉得我像是个没点手段就胡乱吹牛的人吗？<br>虽然我已经派其他冒险家过去了，不过我可以破！例！给你一个机会，让你见识见识佩奥里斯塔的惊人能力。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(先知也许可以解开我的一些疑惑。<br>在普雷利镇见到过去的萝丝的死后，她好像知道些什么。)</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(感觉值得一试。)</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "你在听吗？嗯？喂？！<br>还不快到<FONT color=#a82424>孤岛中心</FONT>去搜集梦幻草？在那里发什么呆呢？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "在<FONT color=#a82424>孤岛中心</FONT>消灭强大的魔物，就能获得梦幻草。<br>\n因为它会在魔物的肚子里发酵。<br>呵呵呵，我要让你见识一下佩奥里斯塔的伟大力量！",
+      "answer": "",
+      "image": "qw_33.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ionStand1}<br><FONT color=#a82424>他</FONT>出现了。<br>只是很短的时间。",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他？<br></FONT><FONT color=#662500>……我体内的幻象？</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "是的，他现在好像真的想要吞噬你了。<br>外变成内，内变成外的日子……那一天也许正在靠近。",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他想夺走我的身体吗……果然……</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我之前不是已经告诉你了吗？<br>哎呀，你可真是辛苦了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>又像是在说别人的事情一样。<br>……不过这确实是别人的事情。<br>虽然这件事和你没关系，不过对我来说却很严重，露娜莉娅。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我不认为和我没关系。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "虽然我没有可以回去的地方，但你有。<br>如果可以的话，我希望你能回到原来，不再像现在这样徘徊。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "不过这也许是不可能的。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n总之，现在我们回去吧？<br>\n梦幻草已经到手了。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "回去找王城的<FONT color=#a82424>宫廷魔法师卡拉安</FONT>……<br>明白了。",
+      "answer": "",
+      "image": "qn_npc_royal_magician_kalaen.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "哎呀，还挺能干的嘛？让人刮目相看。<br>我还以为是个手无缚鸡之力的书呆子呢～",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "好的～我要用梦幻草来制作梦粉了。<br>你知道梦粉是什么吗？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "呵呵呵呵，我来告诉你吧。好好听着。<br>梦粉是可以进入沉睡的人的梦境的魔法粉末。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "一直沉睡肯定是沉睡者精神上出了问题，因此直接进入沉睡者梦中去询问最为快捷。<br>也很方便。",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "啊～吵死了！！你知道进入梦境是多么了不起的事情吗？嗯？<br>没几个人能做到！！",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "只要进入梦境，把她唤醒不就行了！直接唤醒！！<br>真是的～小孩子们真是什么都不懂！",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "这是我特意为你制作的，你应该觉得荣幸！<br><FONT color=#7e12d2>（卡拉安将各种调料撒在梦幻草上）<br></FONT>虽然闻起来很香，但你可不能吃哦，知道了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(闻那个味道，就知道是绝对不能吃的东西……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "好的，做好了。<br><FONT color=#7e12d2>(她把散发出刺鼻气味的草稍微磨了一下，拿了一点给我)</FONT><br>拿走吧。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

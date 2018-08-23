@@ -1,0 +1,223 @@
+{
+  "qkname": "非常细微的误差",
+  "data": [
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "别挡着我。<br>\n我正在思考有关凯德拉关卡的各种问题，别来妨碍我。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "你现在不是要去<FONT color=#a82424>水晶谷</FONT>吗？<br>看你好像很忙的样子。快去吧。",
+      "answer": "",
+      "image": "qw_cristalstream.png"
+    },
+    {
+      "npc": "陌生的学者",
+      "question": "柏林公司柏林搜索系统，全速启动。<br>检查完成。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你在干嘛？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你希望我能尽可能地控制住自己的能力，别让不受控制的穿越发生，对吧？<br>此外，你还想阻止幻象完全吞噬你的意识。<br>明白了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可以做到吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我听说……利用拥有非常<FONT color=#a82424>强大力量的古代圣物</FONT>， 应该可以做到。<br>让巨大的力量和其他巨大的力量发生冲突，两种力量就会全部平静下来。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "不过我不能确定。<br>这些只不过是临时的<FONT color=#a82424>控制手段</FONT>。<br>\n仅此而已。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>必须做点什么！什么都不做，就什么都不会改变。<br>那么，拥有巨大力量的圣物到底是什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n不知道。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>…….</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ionStand1}<br><FONT color=#7e12d2>(露娜莉娅歪了歪脑袋)</FONT><br>过去……或者遥远的将来……说不定有知道情报的人出现。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你又在说什么啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你知道<FONT color=#a82424>佩奥里斯塔魔法研究所</FONT>吗？<br>在那里也许能找到可以回答这个问题的人。<br>也许。",
+      "answer": "",
+      "image": "qw_21.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n那边有个陌生人……<br>\n他好像可以帮助你。也许。",
+      "answer": ""
+    },
+    {
+      "npc": "陌生的学者",
+      "question": "数据库中不存在的人物。认知编号，请求确认。<br>XD-02，正在启动。<br>危险性最低。防御系统解除。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我们是来咨询问题的。<br>\n是时间把我们带到了这里，你应该知道答案。<br>\n也许。",
+      "answer": ""
+    },
+    {
+      "npc": "陌生的学者",
+      "question": "……<br><FONT color=#7e12d2>(陌生的少女用充满警惕的眼神看着我们)</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_normal.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "从你们的表情来看……好像是在寻找解除诅咒的方法。<br>你们知道如何控制自己无法承受的力量吗？",
+      "answer": ""
+    },
+    {
+      "npc": "陌生的学者",
+      "question": "诅咒，净化。输入关键词。<br><FONT color=#7e12d2>(陌生的少女对着一台小巧的装置，开始操作)</FONT><br>凯德拉关卡，认知范围确认，使用关键词搜索结果……",
+      "answer": ""
+    },
+    {
+      "npc": "陌生的学者",
+      "question": "显示结果值。<br><FONT color=#7e12d2>(可以听到机械运转的声音)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "数据再生装置",
+      "question": "<FONT color=#7e12d2>凯德拉关卡的魔物抗战发生10年前，在魔法师卡拉秋的命令下，高级魔法师们经过调查，确认了古代人的净化装置是真实存在的，并进行了重建。</FONT>",
+      "answer": "",
+      "image": "qn_npc_karakule_silhouette.png"
+    },
+    {
+      "npc": "数据再生装置",
+      "question": "<FONT color=#7e12d2>古代人的目的是为凯德拉关卡周围的森林注入生命力。<br>要想启动，需要纯白之球和净化装置钥匙……</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "啊，就是那个。<br>纯白之球。<br><FONT color=#7e12d2>(露娜莉娅回头看着{user_nick})</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "有了纯白之球的话，我就能在一定程度上控制<FONT color=#a82424>穿越时间</FONT>了。<br>也许。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "陌生的学者",
+      "question": "信息就是这些。<br>对你们有帮助吗？我先退下了。",
+      "answer": ""
+    },
+    {
+      "question": " <br>\n<FONT color=#7e12d2>(陌生的少女关掉了机械装置。</FONT><br>\n<FONT color=#7e12d2>上面刻着XD-02几个小字，在那里闪着光)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "陌生的学者",
+      "question": "……要是<FONT color=#a82424>姐姐</FONT>生气了，那该怎么办呢？<br>\n我让你别乱说话的……<br><FONT color=#7e12d2>(少女小声嘀咕道)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "好像又穿越了时间。<br>\n也许。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "虽然稍微有一点误差，但是我认为我们顺利返回到了现在。<br>……虽然我不太清楚是哪个现在。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>喂……</FONT><br>\n<FONT color=#662500>我们回到正确的时间了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "不管怎样，总算找到了线索。<br>纯白之球。<br>\n",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "它和<FONT color=#a82424>高级魔法师</FONT>们调查并重建的净化装置有关。<br>所以要想知道纯白之球，就必须去问问凯德拉关卡的高级魔法师。<br>也许。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我们回到<FONT color=#a82424>凯德拉关卡</FONT>，去寻找高级魔法师吧。<br>快点。",
+      "answer": "",
+      "image": "qn_npc_soceresstiana.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "虽然稍微有一点误差，但是我认为我们顺利返回到了现在。<br>……虽然我不太清楚是哪个现在。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你要去找凯德拉关卡的高级魔法师，对吧？<br>明白了。",
+      "answer": "",
+      "image": "qn_npc_soceresstiana.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "嗯，最近有好几个冒险家提到了你。见到你很高兴。<br>找我有什么事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>有个问题想问你。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "好吧，快问吧。<br>……嗯？什么？纯白之……什么？<br><FONT color=#7e12d2>(听到名字之后，缇娜歪了歪脑袋)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "我好像在哪里听说过……好像又不是……<br>\n我真的不太清楚。<br>那是什么东西？",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(是不是回到错误的时间了呢？<br>也许时间又发生了扭曲……</FONT>",
+      "answer": ""
+    }
+  ]
+}

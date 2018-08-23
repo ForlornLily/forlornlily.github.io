@@ -1,0 +1,217 @@
+{
+  "qkname": "凯伊的不满",
+  "data": [
+    {
+      "npc": "萝丝",
+      "question": "…………<br><FONT color=#7e12d2>（萝丝看起来没有话要说了。最好回神圣天堂找</FONT><FONT color=#7e12d2>埃提亚）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "…………<br><FONT color=#7e12d2>（萝丝看起来没有话要说了。最好回神圣天堂找</FONT><FONT color=#a82424>埃提亚</FONT><FONT color=#7e12d2>）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐来找我的时间间隔好像越来越长了……<br>雏鸟就是这样离开妈妈的鸟巢的吧……<br><FONT color=#7e12d2>（埃提亚露出苦涩的表情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>对不起， 埃提亚！我的事情太多了。<br>特别是……最有冲击性的是</FONT><FONT color=#662500>先知</FONT><FONT color=#662500>的力量正在消失！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "真的吗？<br>究竟是怎么回事？<br><FONT color=#7e12d2>（告诉埃提亚这段时间发生的事情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我之前以为先知是多么伟大而遥不可及的人……其实……她也想做一个平凡的少女啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "是啊，我一开始就觉得不能只指望预言之类的东西。<br>如果一切都是注定的，不能改变的话，生活本身又有什么意义呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……这个我不太明白，不过想要从</FONT><FONT color=#662500>贝思柯德</FONT><FONT color=#662500>那里夺剑这件事，我也心里觉得有点怪怪的。</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "这样的话，不如你去<FONT color=#a82424>西戴尔</FONT>那里问问他有没有净化<FONT color=#a82424>巴尔纳</FONT>的方法怎么样？<br>最初通过先知净化的建议好像也是西戴尔提出的，也许这次他会告诉你其他的方法？",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了！我这就去问问西戴尔有没有别的办法！</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "好的。另外，贝思柯德看到先知后说她是假的……这件事也很令人在意……<br><FONT color=#7e12d2>（埃提亚陷入沉思。</FONT><FONT color=#7e12d2>去找西戴尔吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "欢迎，<FONT color=#387206>{user_nick}</FONT>。<br><FONT color=#a82424>巴尔纳</FONT>现在怎么样了？",
+      "answer": "",
+      "image": "qn_warrior_barnak.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>先知想要净化巴尔纳，可是失败了……后来想把贝思柯德手上的</FONT><FONT color=#a94407>杰兰特的剑</FONT><FONT color=#662500>抢过来，用剑来净化……<br>（告诉西戴尔迄今为止发生的事情）</FONT>",
+      "answer": "",
+      "image": "qp_geraint_sword.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "嗯……原来如此。<br>如果有比追击<FONT color=#a82424>贝思柯德</FONT>更好的办法的话，我也觉得最好还是用别的办法。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "首先我要继续调查一下净化的方法。<br>而且我也要寻找巴尔纳的痕迹，暂时还是听从<FONT color=#a82424>特拉玛依</FONT>的指示吧，<FONT color=#387206>{user_nick}</FONT>。",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，我知道了！<br>……不过，刚才你有没有听到外面有动静，西戴尔？<br>是谁来了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "嗯……所以，根据神圣天堂的传说，很久以前古代人之间发生战争时，为了净化被抓走的堕落的古代人们……自言自语……<br><FONT color=#7e12d2>（西戴尔好像立刻开始着手调查了。先离开吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（好像听到外面有动静……？是谁呢？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "……你的事情都忙完了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哎……哎呀！吓死我了？！<br>你阴沉地站在这里做什么，凯伊？！<br>不过话说回来，我们好久没见了呢。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "这……还不是因为你和特拉玛依完全把我甩开了！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……我们哪有甩开你啊？<br>你没有和特拉玛依联络吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "才不是这个问题！<br>找到<FONT color=#a82424>先知</FONT>、唤醒她的人明明都是我，最后都变成<FONT color=#387206>{user_nick}</FONT>你做的事情得到了认可……<br>你去王宫和特拉玛依还有先知一起做事，我却得一直藏在背后……",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哦，嗯……可是我也没有享受到什么英雄般的待遇啊？！<br>凯伊 ，你是个男人，怎么这么小心眼啊？<br>（啊、哎呀，我没想说这种话来着……） </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "很好，反正你和埃提亚都觉得我一无是处，是路边随处可见的垃圾！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……路边有你这么大体积的垃圾？啊，这么说来贝思柯德也常常说我是垃圾……？ 和这个是一样的吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9533_qu_01.ogg}<br><FONT color=#7e12d2>（凯伊的脸扭曲了）</FONT><br>今天实在不想再听你的无恶意但也毫无思想的话了！<br><FONT color=#387206>{user_nick}</FONT>，你曾经有真正为<FONT color=#2b2723>兄弟</FONT>的事情烦恼过吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……你、你怎么说这么过分的话……？！<br>我最近也有在思考啊！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "……跟你说了也是白说，真是白费口舌……<br><FONT color=#7e12d2>（凯伊闭上了嘴）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（有某个人的脚印。大小和形状与</FONT><FONT color=#7e12d2>凯伊的鞋一致。凯伊似乎经过了这里）</FONT>",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（又发现了看起来像凯伊的脚印。继续沿着凯伊的痕迹寻找吧）</FONT>",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（这里好像是尽头了，脚印突然在前面断掉了。但是，这里却没有看到凯伊的影子）</FONT>",
+      "answer": "",
+      "image": "qn_kaye.pngqn_kaye.dds"
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（更仔细地观察，发现了某些异常之处。凯伊的脚印旁边还有一个脚印）</FONT>",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（嗯……？这个脚印比凯伊的脚大多了……好像是成年人的……这像是跟父亲一样</FONT><FONT color=#a82424>块头很大的人</FONT><FONT color=#662500>的脚印……）<br></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "可疑的脚印",
+      "question": "<FONT color=#7e12d2>（凯伊是遇到了谁吗。先回去和埃提亚讨论一下吧）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "可疑的脚印",
+      "question": "<FONT color=#7e12d2>（看不出其他的特别之处了。回神圣天堂找</FONT><FONT color=#7e12d2>埃提亚吧）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "你来了，姐姐。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "辛苦了。",
+      "answer": ""
+    }
+  ]
+}

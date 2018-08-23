@@ -1,0 +1,87 @@
+{
+  "qkname": "虚假情报",
+  "data": [
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "小龙的弟子 <FONT color=#387206>{user_nick}</FONT>，你为何而来？ <br>有任何关于黑骑士或者银发女剑客情报的话，我们随时都欢迎。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我看到布洛怪群正在向着融解森林聚集。布洛怪群……似乎和埃雷娜有关联。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "那是……真的吗？<br>这么说来，叫夏洛特的冒险家说看到了埃雷娜把这附近的魔物都聚集起来，发表演说的现场。<br>据说在那些魔物里也有布洛怪……",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "嗯，这可不能放任不管。我们必须想出对策。<br>总之，谢谢你的情报。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（虽然是预料之中，但是冒险家公会长没有寻求我的帮助。<br>是压根不需要我的帮助吗？那好吧，这次就让你们因为这个假情报白忙活一场吧。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "龙之追随者",
+      "question": "…. <br><FONT color=#7e12d2>（龙之追随者避开了视线）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "我们的假情报你好好地转述给那些凯德拉关卡的家伙了吧？吼吼吼吼。",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "但是现在你要去哪里呢？是要去<FONT color=#a82424>神殿礼拜堂</FONT>吗？<br>小龙最近很担心你，你别让他太担心了啊。",
+      "answer": "",
+      "image": "qw_19.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你就是埃雷娜说的那什么王的传令兵？？<br>来，这是埃雷娜的信。</FONT>",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "龙之追随者",
+      "question": "<FONT color=#7e12d2>（龙之追随者疑惑地看了一眼，接着查看信件）</FONT><br>确实是埃雷娜大人的信。这是……从王那里下达的指令书。<br>请你交给埃雷娜。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你拜托我也可以吗？这可能会落入公会会长的手里哦。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "龙之追随者",
+      "question": "<FONT color=#7e12d2>（龙之追随者没有回答，静静地离开了）</FONT> ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>就这么走了呢。嗯，先去灰色废墟把消息告诉埃雷娜吧？</FONT>",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "我正在等你呢。多亏了你，阿尔杰塔和人类才能都被骗了！ <br>吼吼吼吼，他们居然就像笨蛋一样全都跑去了融解森林！",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "那么，你见到传令兵了吗？",
+      "answer": ""
+    }
+  ]
+}

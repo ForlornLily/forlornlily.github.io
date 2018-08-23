@@ -1,0 +1,82 @@
+{
+  "qkname": "这是前进了一小步",
+  "data": [
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "你已经搜集到了<FONT color=#a82424>符文碎片</FONT>，那我现在就来试着制作古代祭司长的符文吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（说明制造方法）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "嗯……<FONT color=#7e12d2>（斯塔西陷入了沉默）<br></FONT>如果按照资料制作古代祭司长的符文，应该不需要耗费多少时间。",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "不过，根据资料记载，还需要一样物品。<br>我还不清楚它的具体作用，好像是将碎片变成古代祭司长的符文时用来固定的装置。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是什么物品啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "是<FONT color=#a82424>下游沉没地</FONT>的强大魔物<FONT color=#a82424>{monster951}</FONT>的纹章。<br>你能去帮我搜集吗？",
+      "answer": "",
+      "image": "qw_34.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的。</FONT>",
+      "answer": "",
+      "image": "qw_34.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "那你快去<FONT color=#a82424>下游沉没地</FONT>搜集女族长鲁兹卡的纹章吧。<br>我会做好准备，等待你回来。",
+      "answer": "",
+      "image": "qw_34.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "噢，你回来啦！！<br>你看起来只是个小孩子，没想到实力如此惊人。佩服。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（呼~又把我当做小孩子）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "连小孩子都这么努力，我们大人怎么能落后呢。<br>我也要尽我所能为国家做贡献！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>古代祭司长的符文呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "当然完成啦。好了，快把女族长鲁兹卡的纹章给我吧。<br>以防丢失，我来将其组合起来。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，给你。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

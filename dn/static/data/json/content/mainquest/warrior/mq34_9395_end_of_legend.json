@@ -1,0 +1,335 @@
+{
+  "qkname": "彼日的呼喊，彼日的记忆",
+  "data": [
+    {
+      "npc": "白龙艾奥纳",
+      "question": "你会去王城找特拉玛依问黑龙之战最后的情况吧？<br>我在这里等你……呃，嗯，对不起。",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "你会去王城找特拉玛依问黑龙之战最后的情况吧？<br>我在这里等你……呃，嗯，对不起。",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个嘛……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "是让我、我去王城吗……？<br><FONT color=#7e12d2>（艾奥纳开始瑟瑟发抖）</FONT><br>我……我在这里等你。我不敢去王城。和人、人类……要怎么……说那么多话……",
+      "answer": ""
+    },
+    {
+      "npc": "流浪精灵莉亚纳",
+      "question": "哎呀，真是个麻烦的龙啊。那么，<FONT color=#387206>{user_nick}</FONT>，你去听完回来讲给他听就好了嘛。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（果然又是这样……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "流浪精灵莉亚纳",
+      "question": "快去快回。特拉玛依现在也年纪大了，不要太折磨他了。<br>现在没我的事了吧？那么以后有缘再见吧。",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9395_qu_01.ogg}<br>呃，嗯……拜托了。我就在<FONT color=#a82424>黛月森林入口</FONT>。<br><br><FONT color=#7e12d2>（请去神圣天堂王城找泰兰斯·特拉玛依）<br><br></FONT><FONT color=#7e12d2>*组队状态下无法进行任务</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "流浪精灵莉亚纳",
+      "question": "好像太笨了，话都说不好呢~<br>不过，真是一个可爱又神奇的龙。<br><FONT color=#7e12d2>（莉亚纳用深邃的目光看着艾奥纳）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "我、虽然已经习惯了和你相处，但是，我害怕……人类……人类很多的地方……<br>拜托了。<br><FONT color=#7e12d2>（请去神圣天堂王城找泰兰斯·特拉玛依）</FONT><br><br><FONT color=#7e12d2>*组队状态下无法进行任务</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "ndnpc_Terramai_9390_qu_01.ogg}<br>噢，是<FONT color=#387206>{user_nick}</FONT>啊。你有什么事吗？<br>最近有可怕的传言说红龙出现了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我就是因为这件事有些问题想请教您。<br>我想详细了解关于黑龙之战最后发生的事情。</FONT>",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "那时候的事情啊……<br>嗯，类似的事情将会再次发生，讲给你听也不是一件坏事。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我也不能袖手旁观。<br>如果你有什么特别的事情，等你下次一个人的时候再来吧。<br><br><FONT color=#7e12d2>*组队状态下无法进行任务</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你想知道当时的事情吧？该从哪说起呢……<br>\n<FONT color=#7e12d2>（特拉玛依在回忆当时的事）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#7e12d2>（特拉玛依开始讲述当时的事）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "\n现在闲杂人等太多了。<br>\n此事不宜声张，等你下次一个人的时候再来吧。<br><br><FONT color=#7e12d2>*组队状态下无法进行任务</FONT>"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "ndnpc_Terramai_9390_qu_02.ogg}<br>是的，最后是这样的。<br>当时情况非常混乱，根本无法抵挡黑暗精灵的袭击。<br>……够叫人寒心的吧？所有人都在称颂胜利的荣耀的那一天，留给我们的却是背叛的伤痛。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>特拉玛依大人……（果然……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "反正这次没有龙在我们这一边，应该不会发生这样的事情。<br>而且，是不是真的有红龙，他与过去的黑龙相比又拥有多强的力量，这些都还不确定……",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "……虽然一切都是女神大人的意思，但现在全是一片混乱。那时也是一样。现在大家都死了，只有我还活着。虽然我认为这个事实也是有意义的，我也很感谢女神大人的恩惠，但要阻止这场混乱，我毕竟还是力不从心了。呵呵……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>特拉玛依大人，您对于黑龙之战的时候，与杰兰特站在同一战线战斗而感到后悔了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#7e12d2>（特拉玛依轻轻微笑起来）</FONT>听了英雄们是怎么分开的故事之后，可能会这么认为。<br>\n但是，你，当时的六大英雄你已经全都见过了。而且也都看到了他们的结局……那么，你应该知道我们对那件事拥有怎样的回忆。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "但是……就算黑龙之战只给我们留下了伤痛，但我们之中，没有一个人因为参加了这次大战而后悔。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……！！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "只是，没有看明白真相这件事成了我们心中的伤痛。就算我再次回到那个时候，我还是会做同样的选择。这样，我才能遇到出色的同伴，保护同胞们。 ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>….</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "女神大人总是给予我们可以克服伤痛的试炼。不过，是否要克服试炼，取决于我们的选择。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "ndnpc_Terramai_9390_qu_03.ogg}<br>看来，这次要做出选择的是你了。希望你做出不会让你后悔的选择。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是！谢谢您告诉我这么多。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是！身为女神的侍从，我绝不会忘记您的教诲。</FONT><br><FONT color=#662500>谢谢您告诉我这么多。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "……呵呵，不用这么客气。<br>你让我把这些事情又回忆了一遍，我该感谢你才对呢。<br><FONT color=#7e12d2>（请去黛月森林入口找白龙艾奥纳）</FONT>",
+      "answer": "",
+      "image": "qn_npc_white_dragon.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#7e12d2>（特拉玛依露出慈祥的微笑）</FONT><br>愿女神的庇护能够伴随同是身为女神侍从的你。<br>你让我把这些事情又回忆了一遍，我该感谢你才对呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（恭敬地行礼后离开。 </FONT><FONT color=#662500>现在去黛月森林入口找白龙艾奥纳吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_white_dragon.png"
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9395_qu_02.ogg}<br>你回，回来啦……怎么样？怎么样？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（把泰兰斯·特拉玛依说的故事讲了一遍。艾奥纳带着严肃的表情听着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9395_qu_03.ogg}<br>原来如此。而且，那个叫特拉玛依的人类是这样想的啊……<br>嗯……杰兰特一定也很难受。其他人类英雄们应该也很难受。",
+      "answer": "",
+      "image": "qn_npc_geraint_twoeyes.png"
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9395_qu_04.ogg}<br>我没想到黑龙之战是这么重大的事情。我之前以为，身为龙的杰兰特和人类在一起时，扮演主战角色的是他，可事实并非如此。原来人类也在努力战斗，一点也不比杰兰特逊色。这也是无数人类齐心协力的结果。",
+      "answer": "",
+      "image": "qn_six_heroes_silhouette.png"
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "你问联合许多人类的力量好不好的时候，我还吓了一跳呢。原来你没有想过只凭我们两个啊。……那个叫莉亚纳的精灵也说联合的力量越多越好吧。",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "和这个世界上许许多多的人们同心协力，才是真正的联合力量吧。<br>\n杰兰特也是因为这个原因，所以才和大家一起战斗吧。<br>\n虽然不知道他为何不从一开始就告诉大家他是龙……",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9395_qu_06.ogg}<br>那么，<FONT color=#387206>{user_nick}</FONT>你现在要去拜托其他人跟你一起战斗吗……？<br>其实我很害怕。但是，如果<FONT color=#387206>{user_nick}</FONT>你认为那是正确的，我就听你的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（真是沉重的问题啊）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（为了打倒觊觎巨石碑的红龙，要去向其他人请求援助吗……？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（我有这个资格吗？他们会相信我吗？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（如果问我能不能做到像50年前那样的事情的话，我很难回答……我只是无法对眼前的事情坐视不理，所以一直在努力奔走。然后就走到了现在。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（或许现在是……必须做出决定的时候了？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（其实我也不知道……在未来，我并不是英雄。虽然可能是古代龙的碎片，但历史中也没有我这样的存在……但是，我无法眼睁睁看着眼前的悲剧发生，这也是事实）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（而且，最重要的是，我不想再看到有人在我眼前死去……现在是该做出决定的时候了吗？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（我只是跟随露娜莉娅过来而已……后来，只是做好眼前的事情。坦率地讲，我都还没搞清楚自己正在走的是一条什么样的道路。我现在该从哪里、该怎么做才算走在正确的路上呢？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（只希望露娜莉娅所在的世界不要毁灭……是的，这就是我的决定。）</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（而且……我不想让用生命保护我的杰兰特的心血白费……这就是我的意志，我的决定。）</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我会把这个情况告诉所有人。由于红龙正觊觎巨石碑，我去拜托他们和我并肩战斗。<br>艾奥纳，也请你帮助我。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "<FONT color=#7e12d2>（眼睛睁得大大地望着我）</FONT><br>……！！！真的吗……！！？你真了不起！<FONT color=#387206>{user_nick}</FONT>，你太了不起……！知道了，我会帮你的！ 那么，我就去多找一些像<FONT color=#387206>{user_nick} </FONT>你这样的冒险家吧。而且，那些冒险家们还可以说服其他人，这样我们就真的能联合很多人的力量了！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。那么，说服其他冒险家的任务就交给你了。 </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "ndnpc_Iona_9395_qu_07.ogg}<br>对了，那你要去找谁呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我要去卡西乌斯王那里。这段时间我们亲近了很多，他应该会好好听我说的。</FONT>",
+      "answer": "",
+      "image": "qn_npc_king_casius.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我想去问问精灵长老。说服精灵长老联合精灵的力量非常重要。</FONT>",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呵呵，你知道我们佩奥里斯塔的首领西戴尔吗？呵呵，过了这么久，也该回去见见他了。</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>当然是我们牧师们的教皇。我要去拜见特拉玛依大人。</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……所以（……等等，我应该去找谁呢？我在这个世界上最亲近的人……是谁呢？哦……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……先去王城找找看吧。</FONT>",
+      "answer": "",
+      "image": "qw_sainthaven_inside.png"
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "白龙艾奥纳",
+      "question": "嗯！那么拜托你了。<br>嗯，我会记住<FONT color=#387206>{user_nick}</FONT>去的地方的。而且，说不定也能帮上其他冒险家的忙。<br>你待会再跟我说话吧，看看我记得对不对！<br><FONT color=#7e12d2>（稍后请和艾奥纳对话）</FONT>",
+      "answer": ""
+    }
+  ]
+}

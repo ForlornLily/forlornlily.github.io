@@ -1,0 +1,174 @@
+{
+  "qkname": "巢穴的显现",
+  "data": [
+    {
+      "npc": "将军道格拉斯",
+      "question": "是你啊？我们完成了准备，不久前已经出发了。<br>我收到了其他冒险家的联系，说他们已经先去了。<br>\n这次一定要找到先知！",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "你也快到<FONT color=#a82424>黑暗领地守备队据点</FONT>去吧。",
+      "answer": "",
+      "image": "qw_43.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n……要到<FONT color=#a82424>黑暗领地守备队据点</FONT>去，对吧？<br>明白了。我会跟着你。",
+      "answer": "",
+      "image": "qw_43.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "向着黑暗领地守备队据点，出发！！<br><FONT color=#7e12d2>(战士西恩伸出手臂，摆出帅气的姿势)</FONT>",
+      "answer": "",
+      "image": "qw_43.png"
+    },
+    {
+      "npc": "金发剑客",
+      "question": "……晚了一步。<br><FONT color=#7e12d2>(他好像不想再说话了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "<FONT color=#a82424>杰兰特</FONT>说晚了一步。<br>差一点点就碰到了，真让人难受。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊……你是第一次见到<FONT color=#a82424>杰兰特</FONT>吗？那边那个金发剑客就是杰兰特。<br>他……好像是<FONT color=#a82424>阿尔杰塔</FONT>的朋友。<br>\n他的超强实力，你应该已经知道了吧？",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "还是让黑骑士给逃走了。<br>\n他好像带着先知，躲到了领地的深处。<br><FONT color=#387206>{user_nick}</FONT>，不久前那股强大的力量，相信你一定也感觉到了。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "据杰兰特说，内部已经形成了巢穴。<br>所以没办法接近了。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "我也不太明白。<br>但是杰兰特不愿意再解释了……<br>\n真不知道该怎么办。",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "我想先回到<FONT color=#a82424>黑山山角</FONT>去，商量一下以后的事情。",
+      "answer": "",
+      "image": "qw_skirtofblackmountain.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "巢穴……到底是什么东西？<br>必须尽快回到<FONT color=#a82424>黑山山角</FONT>去。",
+      "answer": "",
+      "image": "qw_skirtofblackmountain.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "要先去和那个冒险家谈谈吗？",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "\n嗯……听说他们正在黑山山角商量对策。<br>\n你也去看看吧。",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "阿尔杰塔向我解释了什么是巢穴。<br>她说巢穴是<FONT color=#a82424>拥有压倒性力量的人为了保护自己的领域而设置的结界</FONT>。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "其内部是创造巢穴的人的势力范围，<FONT color=#a82424>对主人之外的其他人具有很强的抗拒力</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "……也就是说，要想进入巢穴内部，必须<FONT color=#a82424>使用特殊的力量和工具，或者杀死巢穴的主人，解除结界</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "据阿尔杰塔说，那个巢穴……是<FONT color=#a82424>黑龙</FONT>的巢穴。<br>她说黑龙一定重新复活了。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>复活了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "是的，<FONT color=#a82424>50年前六位英雄</FONT>好不容易打败了的黑龙，如今又重新复活了……<br>要是这个消息传出去，整个王国都会发生动摇。我们最好暂时保守这个秘密。",
+      "answer": "",
+      "image": "qn_six_heroes_silhouette.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "嗯？！哈……你连六位英雄都不知道吗？！<br>啊哦～他们可是非常有名的人物。嗯，应该从哪里开始说起呢～<br><FONT color=#7e12d2>(西恩挠了挠头)</FONT>",
+      "answer": "",
+      "image": "qn_six_heroes_silhouette.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "<FONT color=#a82424>黑龙卡拉斯</FONT>是曾经被贤者打成重伤，但之后还是时不时地出现，对世界构成威胁的无恶不作的龙。整个世界都笼罩在邪恶的黑龙卡拉斯的恐怖之中。<br>50年前……",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "为了对抗邪恶的黑龙卡拉斯，整个大陆的六位英雄团结在了一起<br>屠龙者的首领——金发剑客<FONT color=#a82424>杰兰特</FONT>……和阿尔杰塔的朋友是同一个名字。<br>因为他非常有名，所以后来很多人都起了相同的名字。",
+      "answer": "",
+      "image": "qn_npc_geraint_silhouette.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "还有王国最高骑士<FONT color=#a82424>贝思柯德</FONT>、佣兵队长<FONT color=#a82424>巴尔纳</FONT>、<br>率领银色新月弓手团从阿努阿兰德过来的精灵公主<FONT color=#a82424>内尔文</FONT> 。",
+      "answer": "",
+      "image": "qn_archer_nerwin_silhouette.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "曾经是神殿骑士团的首领，现在成为了特拉玛依教团教皇的<FONT color=#a82424>泰兰斯·特拉玛依</FONT>，以及佩奥里斯塔的后裔<FONT color=#a82424>卡拉秋·佩奥里斯塔</FONT>。他们六位就是那时的代表。",
+      "answer": "",
+      "image": "qn_npc_karakule_silhouette.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "他们六人齐心协力，打倒了黑龙卡拉斯，让世界恢复了和平。<br>没想到黑龙的巢穴会再次出现……<br><FONT color=#7e12d2>(西恩的表情阴沉了下来)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "但是阿尔杰塔说有<FONT color=#a82424>50年前在黑龙之战中使用过的方法</FONT>，并把秘方告诉了我。<br>她说只要有那个东西，也许就能进入巢穴内部。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个东西？什么东西？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "是叫做古代祭司长的符文的纹章。",
+      "answer": ""
+    }
+  ]
+}

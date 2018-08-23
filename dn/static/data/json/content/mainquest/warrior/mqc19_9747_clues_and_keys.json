@@ -1,0 +1,255 @@
+{
+  "qkname": "线索与钥匙",
+  "data": [
+    {
+      "npc": "看门人佩尔森",
+      "question": "很高兴见到你。",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "…………………",
+      "answer": ""
+    },
+    {
+      "npc": "警卫兵曹纳丹",
+      "question": "呃……那……",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "我现在很忙，你可以别来烦我吗？",
+      "answer": ""
+    },
+    {
+      "npc": "看门人佩尔森",
+      "question": "这里是南部领地，也是<FONT color=#387206> </FONT><FONT color=#a94407>拉达梅斯</FONT>的临时首都。我很荣幸能担任这里的看门人，我叫佩尔森。 ",
+      "answer": ""
+    },
+    {
+      "npc": "看门人佩尔森",
+      "question": "为了不被复仇军团发现，我们在安保上花了很多心思。<br>因此手续是非常重要的。抱歉，你能给我下<FONT color=#086171>波普大人的介绍信</FONT>吗？ ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>在这里。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "看门人佩尔森",
+      "question": "<FONT color=#7e12d2>（佩尔森仔细查看了介绍信）</FONT> 看来你确实是个正义的人。<br><FONT color=#387206>{user_nick}</FONT>，请允许我来给你指路。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，既然你已经祈祷了，那就不用请求允许了，啊哈哈……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "看门人佩尔森",
+      "question": "谢谢你允许我成为一个善良的看门人。<FONT color=#a94407>诺尔佩</FONT>大人在中央广场。他正在等待<FONT color=#387206>{user_nick}</FONT>，请你快去吧。",
+      "answer": "",
+      "image": "qn_hologram.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>在中央广场只有全息图像啊？</FONT>",
+      "answer": "",
+      "image": "qn_hologram.png"
+    },
+    {
+      "npc": "看门人佩尔森",
+      "question": "那就是<FONT color=#a94407>诺尔佩大人的全息图像</FONT>。",
+      "answer": "",
+      "image": "qn_hologram.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不能见到真正的诺尔佩大人吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "看门人佩尔森",
+      "question": "你这是在计较见到的不是真正的诺尔佩大人吗？我……天啊…………啊，诺尔佩大人，请原谅我内心涌上来的愤怒。<FONT color=#086171>拉达梅斯</FONT>如果没有诺尔佩大人就难以存在。在一无所有的荒地里，<FONT color=#a94407>诺尔佩大人</FONT>和<FONT color=#7e12d2>诺尔佩大人的师傅阿卡戴米亚大人</FONT>建造了这里。",
+      "answer": ""
+    },
+    {
+      "npc": "看门人佩尔森",
+      "question": "因此最重要的就是诺尔佩大人的安全。拉达梅斯的人谁都不想知道诺尔佩大人的实体。因为即使是全息图像，和我们对话的是诺尔佩大人就可以了。",
+      "answer": ""
+    },
+    {
+      "npc": "看门人佩尔森",
+      "question": "我们认为比起是不是真正的诺尔佩大人，重要的是我们能不能进行对话。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>看来是我无礼了。我去见中央广场的诺尔佩大人吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "看门人佩尔森",
+      "question": "我期待<FONT color=#387206>{user_nick}</FONT>大人的活跃表现。我以后也会为成为善良的守门人而不断努力的。",
+      "answer": "",
+      "image": "qw_hologram.png"
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "你能安全到达，真是太好了。我们必须比神圣艾达特帝国先找到 <FONT color=#086171>卢比纳特大人</FONT>，因此现在对于我们来说，一点点时间都非常重要。",
+      "answer": "",
+      "image": "qn_npc_rubinat.png"
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "{soundnpc_Hologram_Nophee_9747_qu_01.ogg}卢比纳特原本决定和我们南部领地拉达梅斯汇合的。如果是在原来，可以利用金石峡谷的秘密入口，但由于受到特里亚的追踪，他决定通过<FONT color=#a82424>布卡努斯沼泽地带</FONT>来到这里。",
+      "answer": "",
+      "image": "qw_117.png "
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "在<FONT color=#a82424>布卡努斯沼泽地带</FONT>，为了防止复仇军团入侵拉达梅斯，我们设置了各种<FONT color=#7e12d2>人工陷阱</FONT>。就算有向导，在那里也很难行动。但是对于卢比纳特大人应该不是什么大问题……",
+      "answer": "",
+      "image": "qw_117.png "
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卢比纳特大人在布卡努斯沼泽地带吗？</FONT>",
+      "answer": "",
+      "image": "qw_117.png "
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "我不确定。在<FONT color=#a82424>布卡努斯沼泽地带</FONT>最后见到卢比纳特大人的警卫兵兄弟说他受了重伤，无法来到拉达梅斯。警卫兵兄弟说关于卢比纳特的下落，如果不是<FONT color=#387206>{user_nick}</FONT>，那就不能说。",
+      "answer": "",
+      "image": "qw_117.png "
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>那我去布卡努斯沼泽地带看看吧。</FONT>",
+      "answer": "",
+      "image": "qw_117.png "
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "<FONT color=#a82424>布卡努斯沼泽地带</FONT>通过<FONT color=#7e12d2>联络人的秘密通道装置</FONT>就能前往，那里很危险，请你听从向导的话。",
+      "answer": "",
+      "image": "qw_117.png "
+    },
+    {
+      "npc": "拉达梅斯警卫兵曹纳丹",
+      "question": "你是……卢比纳特大人说的<FONT color=#387206>{user_nick}</FONT>啊。我正在等你。咳……在我咽气前还能见到你，真是太好了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>请不要说这么软弱的话！请和我一起回到</FONT><FONT color=#a82424>拉达梅斯</FONT><FONT color=#662500>吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "拉达梅斯警卫兵曹纳丹",
+      "question": "嗯……没事。如果和我这个伤者一起去<FONT color=#086171>布卡努斯沼泽地带</FONT>，那就太危险了。就算是熟练的向导，只要一放松警惕也会掉进陷阱里。",
+      "answer": ""
+    },
+    {
+      "npc": "拉达梅斯警卫兵曹纳丹",
+      "question": "比我更重要的是卢比纳特大人的行踪。在分开的时候，我给杰兰特大人了一个<FONT color=#7e12d2>箱子</FONT><FONT color=#086171> </FONT>。我们约好在那里留下关于下个地点的线索。",
+      "answer": ""
+    },
+    {
+      "npc": "拉达梅斯警卫兵曹纳丹",
+      "question": "那个箱子是我的朋友给我的，有着特别的装置，没有<FONT color=#7e12d2>钥匙</NT>的人是无法打开箱子的。这是为了阻止复仇军团看到线索的方法。所以……我想拜托你。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "拉达梅斯警卫兵曹纳丹",
+      "question": "<FONT color=#387206>{user_nick}</FONT>！你去见卢比纳特大人和杰兰特大人的时候……请你一个人去。你不能和其他人一起。",
+      "answer": ""
+    },
+    {
+      "npc": "拉达梅斯警卫兵曹纳丹",
+      "question": "我知道你会觉得我说的很奇怪。但是……请你按我说的去做。这都是为了<FONT color=#086171>卢比纳特大人</FONT>。",
+      "answer": "",
+      "image": "qn_npc_rubinat.png"
+    },
+    {
+      "npc": "拉达梅斯警卫兵曹纳丹",
+      "question": "请你答应我。在你答应我之前……我无法告诉你<FONT color=#7e12d2>箱子的位置</FONT>。",
+      "answer": "",
+      "image": "qn_npc_rubinat.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>如果是为了卢比纳特大人，那我就答应你。</FONT>",
+      "answer": "",
+      "image": "qn_npc_rubinat.png"
+    },
+    {
+      "npc": "拉达梅斯警卫兵曹纳丹",
+      "question": "谢谢。卢比纳特大人和杰兰特大人带着箱子，去了<FONT color=#086171>红色荒地</FONT> 。 <br><FONT color=#7e12d2>箱子的钥匙</FONT>在 <FONT color=#a82424>拉达梅斯的魔法师安娜</FONT>那里。你带着这个手绢，她就会给你钥匙。",
+      "answer": "",
+      "image": "qn_soceressanna.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我一定会来带你回去的，请你不要放弃，等着我！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "拉达梅斯警卫兵曹纳丹",
+      "question": "<FONT color=#7e12d2>（曹纳丹没有回答，默默地笑了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "哎呦，累死了。现在不是分发面包的时间，你就先回去吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个……刚才那首歌你是怎么知道的？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "这首歌？这是我<FONT color=#086171> 好朋友</FONT>创作的歌。是不是很忧郁？但是我很喜欢这首歌，所以常常播放并且跟着唱。",
+      "answer": "",
+      "image": "qn_hiver_shadow.png"
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "ndnpc_Anna_9747_qu_01.ogg}<br>虽然他从世上消失了……但至少我想要记住他，所以走到哪里都会带着这个重现装置。不过，你怎么会唱这首歌呢？？",
+      "answer": "",
+      "image": "qn_hiver_shadow.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也曾经是伊贝尔的朋友。</FONT>",
+      "answer": "",
+      "image": "qn_hiver.png "
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "……好吧。原来你是伊贝尔的朋友啊。伊贝尔直到最后也在为了守护弟弟妹妹而努力。我现在仍然无法接受伊贝尔的死亡。卢比纳特大人下落不明，和女神派对立果然不是件简单的事情。",
+      "answer": "",
+      "image": "qn_hiver.png "
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>关于卢比纳特大人的行踪，我有话要告诉您。<br>（说明和曹纳丹的事情，展示</FONT><FONT color=#7e12d2>手帕</FONT><FONT color=#662500>） </FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安娜",
+      "question": "曹纳丹……他受了重伤？ ",
+      "answer": ""
+    }
+  ]
+}

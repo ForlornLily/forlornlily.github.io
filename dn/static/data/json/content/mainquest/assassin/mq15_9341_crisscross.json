@@ -1,0 +1,277 @@
+{
+  "qkname": "交织的时间",
+  "data": [
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "最近发生了很多事情，我有点担心老师的安危。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "你要到<FONT color=#a82424>利物沃特码头</FONT>那边去吗？<br>多亏了冒险家们，我终于可以放心一点了。西戴尔年纪还小，希望你能多帮帮他。",
+      "answer": "",
+      "image": "qw_liverwortferry.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "要到利物沃特码头去啊。",
+      "answer": "",
+      "image": "qw_liverwortferry.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……不管过去还是未来，对我而言没有任何意义。<br>我之前应该说过了。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "佩奥里斯塔之名是个累赘的东西……咳咳咳咳。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……不管过去还是未来，对我而言没有任何意义。<br>我之前应该说过了。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "嗯？<br><FONT color=#7e12d2>(年轻时节的卡拉秋看着{user_nick})</FONT><br>我好像从没见过你……你是谁？",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你见过我吗？<br>我好像是头一次见到你。<br>\n……看你不像是魔法师，找我有什么事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "……问我认不认识你？<br>不认识。嗯～奇怪的人……<br>\n像你这种奇怪的家伙，用火烤着吃应该味道不错，呵呵呵呵呵～",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(这个时候好像是卡拉秋见到我之前。<br>……这是我和卡拉秋的第一次见面吗？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(回想起来……在神圣天堂遇到过去的卡拉秋的时候，她好像已经认识我的样子。<br>原来是因为之前见过面啊。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_karakule.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你的表情为什么那么复杂？<br>嗯～我卡拉秋也许可以帮你，说给我听听吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(那个时候，卡拉秋已经知道了穿越时间的事情，现在告诉她应该也没关系。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "……什么？穿越时间？<br>\n嗯……<br><FONT color=#7e12d2>(卡拉秋伸过头，用怀疑的眼神看着{user_nick}的眼睛)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你是想让我相信这种话吗？<br>真是的……不过就算你说的是真的吧。反正又不花钱～我相信你。<br>\n所以需要拥有强大力量的工具？嗯～",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "嗯……对了，你知道<FONT color=#a82424>古代武器库的东边</FONT>吗？<br>我看到那里的某个地方好像有光透出来。<br>\n小时候我跟着哥哥过去玩，后来迷了路，就是那个时候看见的。",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "后来我问妈妈……不，我问母亲，她说那里应该有<FONT color=#a82424>供奉着神圣力量的圣地</FONT>。<br>听说那个圣地由这一地区的原住民们秘密地守护着。<br>\n虽然不知道那是什么，但你要找的地方是不是就是那里呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>原住民们的圣地……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "是的，一般那种地方都会有珍贵的宝物或者凶恶的魔物，诸如此类的东西。<br>\n运气好的话，可以得到宝物。运气不好的话，可能会被魔物踩死，呵呵呵呵～",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这种事情告诉我没关系吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "嗯？你不是希望我回答你吗？怎么了？<br>反正你好像之前就认识我，这就是你从未来过来的意义，不是吗？<br>\n……如果你说的是真的的话。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "至少在未来好像没有造成大的问题。<br>这样就行了。世界上没有永远的秘密。<br>\n知识应该由继承它的人负责。把一切都藏起来并不是值得提倡。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "不管是什么力量，都取决于使用它的人的力量和心。<br>如果你是个好人，就算被恶毒的怪物吞下去，也绝对不会让你变得更坏。请相信这一点。<br><FONT color=#7e12d2>(卡拉秋带着顽皮的笑容挤了挤眼睛)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "好了～我要先失陪了。<br>突然有<FONT color=#a82424>精灵</FONT>在附近出现，最近情况好像有点不太对。<br>必须告诉母亲才行。",
+      "answer": "",
+      "image": "qn_archer_nerwin_silhouette.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "祝你一路顺风。<br>\n呵呵呵呵～",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(原住民们的圣地……<br>要到古代武器库的东边去看看吗？)</FONT>",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "要到古代武器库的东边去吗？<br>……真的能找到……原住民们的圣地吗？",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "穿越时间的现象好像还在继续发生。<br>请注意。当然，就算注意也无法阻止事件的发生。",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "好像又看到了过去的景象。<br>……现在又是什么时候呢？真是一团糟。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我之前说过，时间就像是面包上的黄油……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>面包上的黄油？<br>对其他人来说好像是流动的东西，但是在这里却凝聚在一起，来回转动，就像池塘一样。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……可以那么说。<br>我在这里发现了这个。有用的东西好像只有这个。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#a82424>卡拉秋</FONT>是不是可以给你一些建议呢？<br>关于这个奇怪的东西。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "回到<FONT color=#a82424>卡拉秋的草屋</FONT>去见见她吧。<br>希望我们移动到了恰当的时间带……不过即使不是，我也没办法。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>别说得那么可怕。我听起来可不像是玩笑。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "嗯？我没开玩笑。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "让我解读那块石板？<br>嗯……好像是古老的文字。对我来说也没那么简单。咳咳咳咳……",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "这个奇怪的东西你们是从哪里得到的？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "那个……",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "……算了，反正跟我没关系。<br><FONT color=#7e12d2>(卡拉秋把石板放在膝盖上)</FONT><br>具体的虽然不太清楚，但上面写的内容好像跟用来阻止混乱的工具有关。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "照着某个东西，阻止混乱的工具……<br>我还不知道是什么东西。咳咳……咳咳咳咳。<br><FONT color=#7e12d2>(卡拉秋不停地咳嗽着，表情很痛苦)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "别为我担心。有空的话，我能请你帮个忙吗？<br>西戴尔说要去搜集治疗原住民的药，但是光靠他的力量可能有点够呛。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "他说把制造方法交给了<FONT color=#a82424>高级魔法师塔玛拉</FONT>， 你去了解一下情况，然后帮帮他。<br>我会再看看这块石板。咳咳……咳咳咳咳……",
+      "answer": "",
+      "image": "qn_npc_soceresstamara.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "……人类为什么如此无力呢？<br><FONT color=#7e12d2>(卡拉秋小声嘟哝道)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你在干嘛？还不快到高级魔法师塔玛拉那里去。",
+      "answer": "",
+      "image": "qn_npc_soceresstamara.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "要去找高级魔法师塔玛拉，对吧？<br>明白了。",
+      "answer": "",
+      "image": "qn_npc_soceresstamara.png"
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "<FONT color=#387206>{user_nick}，</FONT>你也在搜集治疗原住民的药吗？<br>西戴尔让我从冒险家那里接收材料，制作成药物。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也是来了解情况的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "是吗？原来不是和其他冒险家一起的啊。<br>嗯，知道了。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "我想请你帮个忙……",
+      "answer": ""
+    }
+  ]
+}

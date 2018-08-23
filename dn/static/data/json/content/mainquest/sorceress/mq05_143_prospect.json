@@ -1,0 +1,111 @@
+{
+  "qkname": "早知如此啊。",
+  "data": [
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "哦? <FONT color=#a82424>秘传之球</FONT>找到了吗?",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "霜风森林深处...那里肯定是通往<FONT color=#a82424>马里安殿堂</FONT>的门吧。",
+      "answer": "",
+      "image": "qw_11.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我一定将他抓回来。请派我去吧。</FONT>",
+      "answer": "",
+      "image": "qw_11.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "总之小心为妙。",
+      "answer": "",
+      "image": "qw_11.png"
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "<FONT color=#a82424>马里安殿堂</FONT>……快点！这次一定要抓住他。",
+      "answer": "",
+      "image": "qw_11.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "咳咳，没想到是这样结束的……",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "快点。如果错过了这次机会，也许再也无法找到秘传之球了。",
+      "answer": "",
+      "image": "qw_11.png"
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "<FONT color=#a82424>马里安殿堂</FONT>……快点！这次一定要抓住他。",
+      "answer": "",
+      "image": "qw_11.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "呼噜，没想到就这样完了...<br>你...终究是你啊。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "原来这里就是我梦想的终点啊。<br>竟然被我一度轻视的年轻魔法师……你……呃……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>这所有的一切都是你设计的吗？！</FONT><br>\n<FONT color=#662500>怎，怎么可以做这种事！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "\n咳咳……龙的追随者的势力比你想象的还要……更加强大。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "即便是跟你说我们的理想 ……你也……不会明白的……<br>\n弱者的 ……心情……",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "善与恶就像……硬币的两面……。 最后的振翅……奋力……<br><br><FONT color=#7e12d2>（杰克的声音越来越小）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "\n…………<br><FONT color=#7e12d2>（杰克的气息越来越微弱。他的目光像是望向远方，变得渺茫而浑浊。过不一会，他所有生命的迹象便彻底沉默了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "哦，情况如何?",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "怎么会……也就是说杰克和赛德瑞一样也是内奸。<br>莫非杰克早知道……",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "哦，这不就是贤者法杖吗? <br>\n赶紧还给我吧！",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "什么？所以……那个叫杰克什么的牧师是龙之追随者？！<br>\n天啊。<FONT color=#a82424>雷昂纳多老头</FONT>现在该无话可说了吧？",
+      "answer": "",
+      "image": "qn_cl_leonardo.png"
+    }
+  ]
+}

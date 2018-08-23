@@ -1,0 +1,276 @@
+{
+  "qkname": "奇谋妙计",
+  "data": [
+    {
+      "npc": "诺尔佩",
+      "question": "<FONT color=#7e12d2>(诺尔佩迅速完成了小全息装置和万能钥匙的制作)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "夏利卡",
+      "question": "这可是个机会。",
+      "answer": ""
+    },
+    {
+      "npc": "贝勒尼卡",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "我能抵挡那些家伙……",
+      "answer": ""
+    },
+    {
+      "npc": "贝勒尼卡",
+      "question": "唉……我担心他们日后会打击报复。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "<FONT color=#7e12d2>(诺尔佩迅速完成了小全息装置和万能钥匙的制作)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "好，完成了。请把这些交给夏利卡吧。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "另外……如果事情按照夏利卡的意思发展，最好让她在前往幻影森林时带上<FONT color=#a82424>格雷尔</FONT>。<br>海兰德尔目前受制于司令官杰德，而<FONT color=#a82424>格雷尔</FONT>大人正好深受杰德的器重。",
+      "answer": "",
+      "image": "qn_child_grele.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "如果海兰德尔看到格雷尔也在，一定不敢冒然行动……除非他暗地耍花招。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>诺尔佩也认为海兰德尔早就挖好了陷阱吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "是的。我赞同贝勒尼卡大人的看法。我感觉夏利卡太操之过急了。不过……决定权并不在我手上。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "为了以防万一，你还是跟格雷尔大人说明一下情况吧。请<FONT color=#387206>{user_nick}</FONT>把东西转交给<FONT color=#a82424>夏利卡</FONT>大人。",
+      "answer": "",
+      "image": "qn_salica.png"
+    },
+    {
+      "npc": "夏利卡",
+      "question": "啊，你来了？正巧我们协商完了。<FONT color=#7e12d2>(夏利卡十分自然地伸出手)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……？……啊！原来是让我把东西给她！悄悄把东西递出)<br>你们决定怎么做？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝勒尼卡",
+      "question": "ndnpc_Vernicka_9812_qu_01.ogg}<br>……按照夏利卡所说，我们决定接受协定。条件是开放卡伊伦岛中心。",
+      "answer": ""
+    },
+    {
+      "npc": "贝勒尼卡",
+      "question": "ndnpc_Vernicka_9812_qu_02.ogg}<br>可是夏利卡，你为什么非要跟我去幻影森林呢。万一发生什么意外，我们两个之中必须有一个回来保护梅尔卡。",
+      "answer": ""
+    },
+    {
+      "npc": "夏利卡",
+      "question": "ndnpc_Salica_9812_qu_01.ogg}<br>我知道。这你尽管放心吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>刚刚我跟诺尔佩聊到……不，是诺尔佩大人联络我。他说如果打算接受协定，最好带格雷尔一同前去。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "夏利卡",
+      "question": "好想法。反正带人类警卫兵去也派不上什么用场。<br><FONT color=#387206>{user_nick}</FONT>，你也一起去吧。毕竟你对卡伊伦岛比较熟悉，战斗实力也很出众，到时候一定能帮上忙。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好，那我也一起去。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝勒尼卡",
+      "question": "<FONT color=#7e12d2>(贝勒尼卡还是一脸勉强，只是不情愿地点点头)</FONT><br>那我和格雷尔一起前往幻影森林，你也速速赶来吧。",
+      "answer": ""
+    },
+    {
+      "npc": "夏利卡",
+      "question": "ndnpc_Salica_9812_qu_02.ogg}<br><FONT color=#7e12d2>(贝勒尼卡起身准备期间，夏利卡突然侧身耳语道)</FONT><br>……有件事拜托你，<FONT color=#387206>{user_nick}</FONT>。等到了幻影森林，无论发生任何事你都不要惊慌。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……？怎么突然……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "夏利卡",
+      "question": "<FONT color=#7e12d2>(夏利卡只是笑笑，就开始跟贝勒尼卡准备出发了)</FONT><br><br>※请前往幻影森林。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……！这……！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "查尔德海兰德尔",
+      "question": "ndnpc_Hirendel_9812_qu_01.ogg}<br>哈，你们竟然自己送上门了。这可省了我不少力气。<br>下等人果然是下等人，这么明显的陷阱竟然看不出来。",
+      "answer": ""
+    },
+    {
+      "npc": "贝勒尼卡",
+      "question": "……可恶，果然是陷阱……！",
+      "answer": ""
+    },
+    {
+      "npc": "查尔德海兰德尔",
+      "question": "我怎么可能跟你们和解？这下你们首领在我手上，看你们还不乖乖就范。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "<FONT color=#7e12d2>(格雷尔怒火中烧，恨不得立刻冲过去杀了查尔德海兰德尔)</FONT><br>先放了贝勒尼卡！否则我就让你命丧当场！",
+      "answer": ""
+    },
+    {
+      "npc": "查尔德海兰德尔",
+      "question": "别太冲动哦，否则你们的市国首长可就要脑袋搬家喽。",
+      "answer": ""
+    },
+    {
+      "npc": "夏利卡",
+      "question": "ndnpc_Salica_9812_qu_03.ogg}<br>等一下！海兰德尔。你的目的不就是占领梅尔卡嘛。倒不如换我做人质如何？",
+      "answer": ""
+    },
+    {
+      "npc": "查尔德海兰德尔",
+      "question": "ndnpc_Hirendel_9812_qu_02.ogg}<br>你算哪根葱，竟敢在我面前口出狂言。",
+      "answer": ""
+    },
+    {
+      "npc": "夏利卡",
+      "question": "ndnpc_Salica_9812_qu_04.ogg}<br>……我叫夏利卡，是前任市国首长的女儿，也是梅尔卡真正的统治者。贝勒尼卡不过是我的代理人罢了。<br>怎么样，相信我这个正牌市国首长更合你胃口吧？",
+      "answer": ""
+    },
+    {
+      "npc": "夏利卡",
+      "question": "我愿意乖乖跟你走。<br><FONT color=#387206>{user_nick}</FONT>，我不会有事的，你稳住格雷尔。",
+      "answer": ""
+    },
+    {
+      "npc": "贝勒尼卡",
+      "question": "ndnpc_Vernicka_9812_qu_03.ogg}<br>不可以，夏利卡……！",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "本以为、本以为这次能帮上大家，可结果还是……！",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "干什么拦着我！我跟海兰德尔打起来，不见得会输……！",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "我、我……真是没用。我、我……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……冷静点，格雷尔。你并没做错什么。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "怎么不是我的错！我明明实力在海兰德尔之上，可只能眼睁睁看着他带走夏利卡……！",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "<FONT color=#7e12d2>(格雷尔的眼泪似乎快要夺眶而出。先扶住贝勒尼卡吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝勒尼卡",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝勒尼卡大人，你还好吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝勒尼卡",
+      "question": "……我早料到会这样。明明知道会是这个结果，还是没能说服她。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这不是贝勒尼卡大人的错。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝勒尼卡",
+      "question": "现在评判孰是孰非还有什么意义？！就算不是我的错，事情会有任何改变吗！",
+      "answer": ""
+    },
+    {
+      "npc": "贝勒尼卡",
+      "question": "……唉，先返回梅尔卡的心脏吧。你带上格雷尔，我、我……先回去了……",
+      "answer": ""
+    },
+    {
+      "npc": "贝勒尼卡",
+      "question": "<FONT color=#7e12d2>(贝勒尼卡看起来疲惫不堪。先带他们俩个返回梅尔卡的心脏吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，事情怎么样了？你看起脸色不太好，难道……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(告知幻影森林发生的事件经过)</FONT>",
+      "answer": "",
+      "image": "qn_hirendel.png"
+    },
+    {
+      "question": "任务完成",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "……这下可糟了。当初夏利卡说要跟过去……我就觉得奇怪。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>海兰德尔到底在哪？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>海兰德尔到底在哪？</FONT>"
+    }
+  ]
+}

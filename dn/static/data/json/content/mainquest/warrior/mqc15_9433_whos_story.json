@@ -1,0 +1,294 @@
+{
+  "qkname": "某个冒险家的故事",
+  "data": [
+    {
+      "npc": "卡汉拉",
+      "question": "命运在指引你。现在你正往痛哭墙去啊。",
+      "answer": "",
+      "image": "qw_95.png"
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "不管是已发生的事，还是未发生的事，命运是很奇妙的。<br><FONT color=#7e12d2>（通过熔岩江入口前往痛哭墙）</FONT>",
+      "answer": "",
+      "image": "qw_95.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这里是痛哭墙？<br>嗯……一个人也没有呃，难道是我来早了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，那边有人来了。是佩达吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（痛哭墙也在熔岩江入口吗？出发吧）</FONT>",
+      "answer": "",
+      "image": "qw_95.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……哦？！！？？！</FONT><br><FONT color=#662500>那不是露娜莉娅吗！？！？！？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "呵呵。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（露娜莉娅出现了……？！？！能和她交谈吗？先试试吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "谜之少年",
+      "question": "唔~就快要结束了吗~<br><FONT color=#7e12d2>（请和露娜莉娅对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9433_qu_01.ogg}<br>哎，等等我～！！呼，你走那么快干嘛呀……用不着那么着急！",
+      "answer": ""
+    },
+    {
+      "npc": "谜之少年",
+      "question": "嘿嘿，再走一段路就到达我们的目的地了，我能不激动嘛。<br>我们的冒险眼看就要结束了，不是吗？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9433_qu_02.ogg}<br>嗯，这话是没错。<br>这世界上没有任何人可以阻碍我们！<br>所以……我想多跟你相处一会儿……<FONT color=#7e12d2>（露娜莉娅似乎有点害羞，说话吞吞吐吐的）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "谜之少年",
+      "question": "瞧你这话说的。就算我们的冒险结束了，我也绝对不会抛弃你的。<br>没有露娜莉娅你在我身边，我在这世界上还有什么意思？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……哎呀，这些话，你怎么能毫不掩饰地……难道……<br><FONT color=#7e12d2>（露娜莉娅脸红了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "谜之少年",
+      "question": "嗯？怎么了？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "没，没什么。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（？！？！？！？！！？</FONT><FONT color=#662500>脑子里好混乱。看那女孩的长相分明是露娜莉娅，可这风格完全不像啊！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哎，不好意思~你们能听见我说话吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（两人没有反应。看样子他们果然是过去的幻影……可要说是过去的话，这与我所知的现实差异实在太大了。是不是我出现幻觉了呃？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（还有，那个冒险家是谁？会不会是露娜莉娅口中的那个“他”……？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（这少年虽给我一丝熟悉感，可面容却很陌生。他到底是谁呢？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（还有那个冒险家……肯定没错的，那是我之前见过的“我”……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（这是怎么回事？……我……没见过露娜莉娅有那样一面）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（我没有那样的记忆……那个冒险家是身处另一个时间段的我……我不知道也理所当然……露娜莉娅，露娜莉娅她到底遭遇了什么事？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（先听听他们说什么吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "谜之少年",
+      "question": "呼-这路途好遥远啊。我没想到通往巨石碑的旅途这么辛苦。<br>当然，因为我很强大，所以才能一路走到这里，不是吗？露娜莉娅，我很了不起吧？<br>哈，我怎么想都觉得自己太帅了……正因此女孩子们才总是很喜欢黏着我吗。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9433_qu_03.ogg}<br><FONT color=#7e12d2>（露娜莉娅笑了）</FONT>大家都觉得你很特别吧～。刚开始的时候，我就这么想。",
+      "answer": ""
+    },
+    {
+      "npc": "谜之少年",
+      "question": "<FONT color=#7e12d2>（似乎恼火了）</FONT>才不是呢！像我这样的长相，可称得上是超级美男。<br>露娜莉娅，你是因为整天看见我，所以眼光变高了！<br>只要我愿意，征服凯德拉所有的女孩子都不在话下！",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9433_qu_06.ogg}<br><FONT color=#7e12d2>（露娜莉娅觉得很无语，正强忍着不要爆出笑声）</FONT><br>哎，少骗人！",
+      "answer": ""
+    },
+    {
+      "npc": "谜之少年",
+      "question": "我说的是真的！哈，我这样出色的容貌加上这优秀的实力……相信总有一天全世界会拜倒在我的魅力之下！<br>我是因为不能放弃这次冒险，才跟你一起闯荡的。<br>快走吧，露娜莉娅。巨石碑之门近在眼前了。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9433_qu_05.ogg}<br>嗯。<FONT color=#7e12d2>（露娜莉娅露出微笑）</FONT><br>真幸运让我遇到你。旅行……嗯，你所说的冒险真的很有趣。",
+      "answer": ""
+    },
+    {
+      "npc": "谜之少年",
+      "question": "你怎么了，说得我怪难为情的。<br><FONT color=#7e12d2>（少年嘴角也绽开个笑容）</FONT><br>等这次冒险结束，我们还得常常见面的。你老这么说，我都不好意思见你了。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9433_qu_04.ogg}<br>唔，呵呵呵……啊哈哈，怎么会！<br><FONT color=#7e12d2>（露娜莉娅露出了笑容，她的笑容真美啊）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>！！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（两个少年男女的面容渐渐消失了……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（那真的是我认识的那个露娜莉娅吗？这是怎么回事？！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（虽然我也听说过一个人可以有多种面貌，可那根本不是多种面貌的问题，完全是另一个人啊……到底怎么搞的……难道是双胞胎？不对，名字是一样的呃？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（话说回来，她身边的少年是谁？虽是初见……却有点眼熟。神圣天堂士兵中有过那样的人吗？还是说在其他地方见过……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（要是真有个性格这么特别的冒险家，该早出名了，可我一点没听说过他呃……？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（这是怎么回事嘛……？露娜莉娅……？这性格……不是我所认识的露娜莉娅啊……不对，那女孩是露娜莉娅吗……？那真的是她吗……？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……好混乱，想得脑袋都疼了，感觉思绪乱成了一锅粥。那少年明明是我，可我却没有一点记忆。虽是发生过多次的事情，却反而把我弄得更糊涂。他是哪个过去时段的我呢？露娜莉娅到底见过我多少次？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……好难过……觉得心疼。露娜莉娅，她为什么一点也没跟我说过这些事……？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（也许……如果我对她更温柔些，就像那个“我”一样，温柔地对待她，今天的我们会不会不一样……？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（不不，因为露娜莉娅已经变了，所以就算那样也没用……？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（不明白，什么也想不明白了，露娜莉娅……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……不管了，现在佩达好像不在这里。还是快点出去吧。</FONT><br><FONT color=#662500>出去见到梅里恩戴尔或卡汉拉的话，得问问她们佩达去哪里了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>？！怎么回事？<br>你没见到佩达吗？佩达刚来过这里……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>梅里恩戴尔？！你说佩达来过这里？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "佩达他现在往巨石碑之门所在的<FONT color=#a82424>祈祷之心</FONT>去了。<br>听说敌人在那里。我冒昧问一句，<FONT color=#387206>{user_nick}</FONT>你不是我们的敌人吧？",
+      "answer": "",
+      "image": "qw_97.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>当然不是。我想守护这个世界。<br>既然敌人在祈祷之心，我也到那边去吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手梅里恩戴尔",
+      "question": "好的！我会很快追上你们的。",
+      "answer": ""
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（虽不知刚才是怎么和佩达错过的，总之快到祈祷之心去吧）</FONT>",
+      "answer": "",
+      "image": "qw_97.png"
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "<FONT color=#7e12d2>（卡汉拉正注视着梅里恩戴尔，但梅里恩戴尔似乎没发现她）</FONT>",
+      "answer": ""
+    }
+  ]
+}

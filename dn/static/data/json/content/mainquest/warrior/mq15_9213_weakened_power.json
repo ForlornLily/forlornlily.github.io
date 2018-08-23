@@ -1,0 +1,152 @@
+{
+  "qkname": "逐渐消失的力量 ",
+  "data": [
+    {
+      "npc": "萝丝",
+      "question": "我在梦里见到了巴尔纳。<br>请你把这件事告诉特拉玛依。<br>※ <FONT color=#7e12d2>可以从神圣天堂王城内部的泰兰斯·特拉玛依那里接受任务。</FONT>",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "\n如你所说，与巴尔纳在一起的那个人很有可能就是操控巴尔纳的龙之追随者。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "\n要是抓住那个龙之追随者，没有杰兰特的剑也能净化巴尔纳。你赶紧向<FONT color=#a82424>陨石坠落地边界地区</FONT>移动。",
+      "answer": "",
+      "image": "qw_60.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "请快点到<FONT color=#a82424>陨石坠落地边界地区</FONT>去。<br>特拉玛依和我随后就去。",
+      "answer": "",
+      "image": "qw_60.png"
+    },
+    {
+      "npc": "로제",
+      "question": "他……那个人是……黑骑士……<br><FONT color=#7e12d2>(萝丝的脸色十分苍白)</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#a82424>古代人</FONT>……？<br>明明是被伊格纳西奥带走的啊，怎么会这样？<br>她怎么会跟你在一起？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "\n<FONT color=#7e12d2>(说明来龙去脉)</FONT><br>她原来跟龙之追随者在一起，然后特拉玛依救了她……？<br>哼，真是荒唐……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你为什么说荒唐……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "那人好不容易才把心心念念的古代人的后裔弄到手，怎么可能那么轻易就被你们抢走……<br><FONT color=#7e12d2>(贝思柯德仔细打量着萝丝)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "果然不出我所料……<br><FONT color=#7e12d2>(贝思柯德从萝丝身上收回了视线)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我感觉不到古代人的力量。<br>这个孩子要不就是已经丧失了古代人的力量，要不就是个假冒的古代人的后裔。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不可能的，她明明就在发挥着先知的能力。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "那样的话，就很可能是个假冒的。<br>她的身体无法承载古代人的力量，却说了谎。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>(贝思柯德说完，就消失了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "……….<br><FONT color=#7e12d2>(萝丝的脸色十分苍白)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德的话是什么意思？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "我们先回<FONT color=#a82424>神圣天堂</FONT>去吧……<br>回去我都告诉你……",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "事实上……与以前相比，我很少做带有预示的梦了。<br>而且，在梦中见到的景象也变得很模糊。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "也许……正像黑骑士所说，我已经丧失了力量……<br><FONT color=#7e12d2>(萝丝叹了口气)</FONT><br>以前，我很不喜欢自己有这样的能力……<br>可是突然想到这股力量正在消失，又有些不舍。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "等到这股力量完全消失，我成为一个普通女孩的话，还能回到普雷利镇，像以前一样生活吗？<br><FONT color=#7e12d2>(萝丝擦了擦眼泪)</FONT><br>如果能那样，失去力量也不是什么坏事……<br>……对不起，让你看见我这个样子……",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "现在我什么都看不到感觉不到了。<br>不能帮你寻找黑骑士，对不起。<br><FONT color=#7e12d2>(与泰兰斯·特拉玛依对话)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "先知的情况怎么样？<br>\n<FONT color=#7e12d2>(说出萝丝的情况)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "先知的力量在减弱，真遗憾……<br>嗯，希望这只是暂时的……<br>现在我们还有很多事情需要她的帮助。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>现在该怎么办呢。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我打算再放出……不，动员更多的神殿骑士去寻找贝思柯德和巴尔纳。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你帮我搜索一下<FONT color=#a82424>陨石坠落地中心</FONT>附近。<br>那个地区很危险，如果不是你这样经过历练的人，估计会很辛苦。",
+      "answer": "",
+      "image": "qw_63.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": "",
+      "image": "qw_63.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

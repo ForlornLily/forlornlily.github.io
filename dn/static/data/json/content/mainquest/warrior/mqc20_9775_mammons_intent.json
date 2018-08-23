@@ -1,0 +1,251 @@
+{
+  "qkname": "玛蒙的目的",
+  "data": [
+    {
+      "npc": "诺尔佩",
+      "question": "这两个都已经出了故障。<br>\n从烧焦的味道来看，应该是电路刚才被魔法烧焦了……",
+      "answer": ""
+    },
+    {
+      "npc": "可疑装置",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "…",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "……难道是设计为在扭曲的区域以外的地方就会出故障吗？<br>如果是能感知次元的扭曲的魔法……<br><FONT color=#387206>{user_nick}</FONT>，你确定在忏悔室和沙沼这些装置是能正常启动的吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没错，我看到装置启动了。我确认了好几次……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "那看来这个装置就是设计为出了扭曲的区域就会出故障。<br>为什么呢？拉达梅斯的技术和不明用途的技术，还有查尔德玛蒙……",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，上次你说的事情还是没确认吗？<br>\n我现在需要更多的线索啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……虽然那肯定和</FONT><FONT color=#086171>伊贝尔</FONT><FONT color=#662500>设置的装置一样，但和</FONT><FONT color=#a82424>查尔德玛蒙</FONT><FONT color=#662500>有关……</FONT><br><FONT color=#662500>不能再隐瞒了。告诉诺尔佩应该会有帮助的)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>其实上次在梅尔卡……</FONT><br>\n<FONT color=#7e12d2>(将在扭曲的泉水和逆行常胜地发生</FONT><FONT color=#7e12d2> 的事情告诉了他)</FONT>",
+      "answer": "",
+      "image": "qn_child_hiver.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "……你说这和<FONT color=#086171>伊贝尔</FONT>为了杀死格雷尔而设置的装置一样？",
+      "answer": "",
+      "image": "qn_child_hiver.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>但是，那时没有这样的自爆装置。而且</FONT><FONT color=#a82424>玛蒙</FONT><FONT color=#662500>和</FONT><FONT color=#086171>伊贝尔</FONT><FONT color=#662500>也不可能有联系啊。</FONT><br>\n<FONT color=#662500>伊贝尔还在遥远的冰海啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "ndnpc_Nophee_9775_qu_01.ogg}<br>我也觉得伊贝尔和玛蒙不会有直接解除。玛蒙如果发现了伊贝尔，肯定就会抢夺她的宝玉。但是这个装置肯定和那时的事情有某种关联。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "<FONT color=#7e12d2>(诺尔佩操纵着手中的全息装置)</FONT><br>我会再次确认伊贝尔的行踪。还要向玛蒙的领地内部派遣密探。<br>当时除了<FONT color=#387206>{user_nick}</FONT>你和<FONT color=#086171>伊贝尔</FONT>，还有别人看到这个装置吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500></FONT><FONT color=#a82424>格雷尔</FONT><FONT color=#662500>看到了，还有</FONT><FONT color=#a82424>魔法师约尔</FONT><FONT color=#662500>大人……约尔大人是</FONT><FONT color=#a82424>贝勒尼卡</FONT><FONT color=#662500>大人介绍来帮助调查装置的人。此外还有 </FONT><FONT color=#a82424>查尔德调查官</FONT><FONT color=#662500>吧……但是那个调查官已经被格雷尔杀死了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "魔法师和查尔德调查官……情报太不足了。<br>现在能知道的只有这个装置也许拥有和上次伊贝尔的装置相似的功能。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "师父说过<FONT color=#086171>“线索不够的时候，就要先从已经确定的事情开始寻找下个线索”</FONT>。<br>我会从红色荒地把<FONT color=#a82424>格里高利</FONT>叫来。格里高利是查尔德，应该可以从那个装置上感觉到什么。",
+      "answer": "",
+      "image": "qn_grugiru.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "<FONT color=#387206>{user_nick}</FONT>请先去<FONT color=#a82424> 贫瘠沙沼</FONT>吧。忏悔室既然有两个装置，那在沙沼应该还有一个。我会再搜集一些情报。",
+      "answer": "",
+      "image": "qw_120.png"
+    },
+    {
+      "npc": "可疑装置",
+      "question": "<FONT color=#7e12d2>(在角落又发现了可疑装置)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(嗯……总觉得有些不同，是我的错觉吗？</FONT><br>\n<FONT color=#662500>不祥的气息似乎比上次更强了……</FONT><FONT color=#662500>在</FONT><FONT color=#086171>格里高利</FONT><FONT color=#662500>来之前，先不要动了吧)</FONT>",
+      "answer": "",
+      "image": "qn_grugiru.png"
+    },
+    {
+      "npc": "可疑装置",
+      "question": "<FONT color=#7e12d2>(可疑装置里一直传来不祥的气息</FONT><FONT color=#7e12d2>)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "呃，真不知道还要在这个烦人的地方走多久……<br><FONT color=#7e12d2>(格里高利对阿尔克指手画脚)</FONT> 如果你这家伙好好带路，那我们一下就能找到了！<br>你这精灵！！",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "<FONT color=#387206>{user_nick}</FONT>。我照诺尔佩大人的吩咐，带来了格里高利大人。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "<FONT color=#7e12d2>(阿尔克后面的格里高利点了点头)</FONT><br>我走得太慢了。抱歉啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格里高利，你言重了。而且也没那么晚。</FONT><br><FONT color=#662500>你过来看看这个</FONT><FONT color=#a82424>装置</FONT><FONT color=#662500>。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "这里到底是什么地方啊，这么冷飕飕的？该死，我实在不想待在这里……！<br>装置指的是什么，这个？",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "………？！哎哎哎？！？！？啊啊！<br><FONT color=#7e12d2>(格里高利非常惊慌)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>？怎么了？这个装置里面有什么吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "你这小臭虫，没感觉到吗？这里面那家伙的气息……<FONT color=#a82424>格雷尔</FONT>的气息很强啊……！！",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "刚才感觉到的阴森气息就是这个………！靠近了就一下子感觉到了……真，真可怕，比第一次看到玛蒙大人的时候更可怕啊……！这是什么啊？！！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格里高利，淡定。这只是个装置，你冷静点，慢慢说。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "如果是你，你在这玩意面前还能冷静吗？呼-吸-呼-吸 <br>\n<FONT color=#7e12d2>(格里高利尝试深呼吸)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "…… 这个装置里散发出了 <FONT color=#a82424>格雷尔</FONT>的气息。我很弱，所以在远处的时候只是感觉到阴森森的，如果是其他的查尔德，估计在踏上这周围的沙地的时候就知道这是查尔德的气息了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(不是伊贝尔而是格雷尔的气息……？)</FONT><br>\n<FONT color=#662500>有这么强吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格里高利",
+      "question": "是啊！强到我都快喘不过气了啊……所以你快点把那玩意弄掉……！<br>\n我现在完全是提心吊胆的啊！！<br><FONT color=#7e12d2>(格里高利躁动不安。看来难以再问出什么了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，格里高利大人我会再带他回到红色荒地的。<FONT color=#387206>{user_nick}</FONT>就把这个交给诺尔佩大人……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了。我会马上交给</FONT><FONT color=#086171>诺尔佩</FONT><FONT color=#662500>，请别担心。格里高利就拜托你了。</FONT>",
+      "answer": "",
+      "image": "qn_nophee.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "啊，<FONT color=#387206>{user_nick}</FONT>。我正在分析你之前拿来的装置。<br>\n虽然有的地方被烧焦了，有的地方很粗劣，花了点功夫……",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "总之，这些应该由就是<FONT color=#387206>{user_nick}</FONT>你说的<FONT color=#086171>伊贝尔的装置</FONT><FONT color=#2b2723>改造的装置。</FONT><FONT color=#2b2723>以拉达梅斯的放大器为基础，拥有将增大的力量和咒术一起散播的功能。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "我本来以为这和伊贝尔的装置相同，只是增加了增幅功能。但是保存增幅力量的源头的核心部分有点奇怪。似乎是改动了很多次设计，有无数的痕迹。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "\n我觉得似乎是本来想设计为机械能自己产生力量，但失败了，所以才临时放入了<FONT color=#a82424>旧布片</FONT>。格里高利有什么发现吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这里是在沙沼的另一个装置。而且……</FONT><br><FONT color=#7e12d2>(说明了沙沼里发生的事情和格里高利说的话)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "……这个装置放大的是<FONT color=#a82424>格雷尔的气息</FONT>？<br>而且强大到格里高利都害怕……?",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "只是一个布片就有格雷尔的气息……请等下。<br><FONT color=#7e12d2>(诺尔佩急忙开始分解从沙沼新拿回的装置)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "ndnpc_Nophee_9775_qu_02.ogg}<br>这个……<FONT color=#086171>蓝色的线</FONT>……<br>不，是格雷尔的头发………？！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>？！那个装置里有</FONT><FONT color=#086171>格雷尔的头发</FONT><FONT color=#662500>？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "ndnpc_Nophee_9775_qu_03.ogg}<br><FONT color=#7e12d2>(诺尔佩自言自语)</FONT> 查尔德的力量是不可能凭空产生的。那么在故障的装置里的<FONT color=#a82424>布片</FONT>可能就是<FONT color=#a82424>格雷尔的衣服</FONT>，所以不能正常地放大力量。但是 <FONT color=#086171>头发</FONT>本身就是身体的一部分，所以……",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "而且这个装置的本来目的是<FONT color=#a82424>屠杀</FONT>……难道……所以<FONT color=#086171> 伊贝尔</FONT>……！",
+      "answer": "",
+      "image": "qn_child_hiver.png"
+    }
+  ]
+}

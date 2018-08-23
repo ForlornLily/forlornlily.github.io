@@ -1,0 +1,95 @@
+{
+  "qkname": "寻找凯伊",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "凯伊哥哥出现后又消失了……？<br>……他究竟想玩捉迷藏玩到什么时候啊……<br><FONT color=#7e12d2>（埃提亚咬紧了嘴唇）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐，快告诉我究竟发生了什么事吧！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>噢</FONT><FONT color=#662500>……柯梅里纳</FONT><FONT color=#662500>说的话太复杂了，我没办法完整复述……<br>（把情况告诉埃提亚）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9549_qu_01.ogg}<br><FONT color=#a82424>柯梅里纳</FONT>是克隆体……未来人想要侵略现在的世界……<br>简直就跟科幻小说一样嘛……<br><FONT color=#7e12d2>（埃提亚愣住了）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "但是，如果这些都是事实的话，说不定凯伊哥哥被卷入未来人的侵略事件了……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>难道……不会吧……？！！<br>柯梅里纳调查的地方总是能看到……而且查不出凯伊的幕后黑手是谁……这……一定是偶、偶然吧！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "<FONT color=#7e12d2>（埃提亚陷入沉思）</FONT><br>……如果凯伊哥哥操作了向其他地方发送信号的机器的话……",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "那么，去配对的另一个机器那里，应该就能再见到凯伊哥哥吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这么说来，柯梅里纳说过，为了继续调查配对的机器，她要去</FONT><FONT color=#662500>伊戴尔基地</FONT><FONT color=#662500>。</FONT>",
+      "answer": "",
+      "image": "qw_71.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "那么，姐姐最好也去<FONT color=#a82424>伊戴尔基地</FONT>调查一下。<br>那里好像很危险，姐姐要小心喔。",
+      "answer": "",
+      "image": "qw_71.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "希望这场折磨人的捉迷藏快点结束……<br><FONT color=#7e12d2>（埃提亚紧紧握着凯伊送的胸针）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（看到了貌似是凯伊的脚印。但是没有看到凯伊的影子，他好像已经离开了）</FONT> ",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（地上有一本摊开的书。</FONT><FONT color=#7e12d2>虽然不知道是什么，但还是拿回去给埃提亚看看吧）</FONT> ",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（没看到其他可疑的东西了。回去找</FONT><FONT color=#7e12d2>埃提亚吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐，你找到凯伊哥哥了吗？<br><FONT color=#7e12d2>（埃提亚看起来很焦躁）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "<FONT color=#7e12d2>（把没发现凯伊的事情告诉埃提亚，并把书交给她）</FONT>",
+      "answer": ""
+    }
+  ]
+}

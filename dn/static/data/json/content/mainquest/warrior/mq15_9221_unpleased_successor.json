@@ -1,0 +1,68 @@
+{
+  "qkname": "不受欢迎的接班人 ",
+  "data": [
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "现在连真实之镜也弄到手了，拯救巴尔纳的准备工作已经完成了。来，快和先知一起出发吧。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你到王城地下去请先知过来吧。<br>是时候去拯救陷入痛苦中的巴尔纳了。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，是你啊。<br>你好。那个东西是……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，这个就是那个叫做真实之镜的东西。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "<FONT color=#a82424>真实之镜</FONT>……？<br>\n<FONT color=#7e12d2>(说明关于真实之镜的事情)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "这就是特拉玛依委托的东西啊，看上去真神秘呢。<br><FONT color=#7e12d2>(萝丝看了一眼镜子就转过脸去了)</FONT><br>对了，我刚才找到巴尔纳所在的位置了。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他在哪里？</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "他就在<FONT color=#a82424>陨石坠落地中心</FONT>。<br>他现在好像正和黑骑士对峙着，我们要抓紧时间。<br>我和特拉玛依会跟在你后面的， <FONT color=#387206>{user_nick}</FONT>先出发到陨石坠落地中心去吧。",
+      "answer": "",
+      "image": "qw_63.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "怎么会这样……<br>到底是怎么回事……？<br>先知……先知为什么……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>特拉玛依，贝思柯德现在很危险！</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#7e12d2>(泰兰斯咬紧了嘴唇)</FONT><br>我要把贝思柯德…转移到王城去治疗。<br>你也到神圣天堂的王城来吧。",
+      "answer": ""
+    }
+  ]
+}

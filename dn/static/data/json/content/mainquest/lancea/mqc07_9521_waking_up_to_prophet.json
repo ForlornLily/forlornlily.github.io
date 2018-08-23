@@ -1,0 +1,193 @@
+{
+  "qkname": "苏醒的先知",
+  "data": [
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "希望卡拉秋还有西戴尔不要太勉强才好……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>但是……卡拉秋和卡拉翰直接交手了！<br>（将卡拉秋和西戴尔的事情告诉塔玛拉）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "什么？卡拉秋身体不适？<br>而且西戴尔……西戴尔……不……他是个聪明的孩子，很快就能醒悟过来的……<br>用这种方法是挽回不了任何东西的……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡拉秋被卡拉翰打伤，好像受伤很重……虽然她总说自己没事，但她让我来你这里拿药。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "好的，我很快就能把药给你……卡拉秋为什么亲自出马呢……？<br>果然，她认为要想打倒卡拉翰，只能自己使出<FONT color=#a82424>决战魔法</FONT>才行吗……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>决战魔法？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "是的，佩奥里斯塔的决战魔法……但是，她竟然被卡拉翰打伤了……这样一来，最后只能指望西戴尔了……<br><FONT color=#7e12d2>（塔玛拉递过来一个小药瓶）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡拉秋说很担心西戴尔会不会变得跟卡拉翰一样……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "是啊……要担心的地方很多……但是，我们只能相信西戴尔了。<br><FONT color=#387206>{user_nick}</FONT>，你也有为你担心的人吧？<br>所以，不要太勉强自己。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>为我担心的人……<br>是的！我应该去找埃提亚，让她放心，不要太担心我！</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "嗯，是个好想法。但是，不要忘了把药交给卡拉秋。<br>知道吗？",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.dd"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐……你怎么这么晚才来……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>对不起， 埃提亚！我也不想让你担心的……这段时间发生太多事情了！<br></FONT><FONT color=#662500>（将遇到贝思柯德的事情以及卡拉秋和西戴尔的事情告诉埃提亚）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "原来如此……这次又知道了很多新消息啊。 <br>但是，比起这个，我更希望姐姐你多来看我。<br>我很早之前就已经收到<FONT color=#a82424>特拉玛依</FONT>的消息，等姐姐等了好久呢……",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃啊啊……对不起，对不起，埃提亚。我怎么可能忘记你呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9521_qu_01.ogg}<br>是吗？可我不知怎么的，觉得姐姐你好像渐渐变了，让我心里有点失落呢。虽说你结识了各种各样的人，又经历了许多事情，会发生变化也是理所当然的……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯。别担心，我永远是我们家可爱的埃提亚的姐姐。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "<FONT color=#7e12d2>（埃提亚笑得和花一样美）</FONT><br>嗯！啊，对了，姐姐你正要去给卡拉秋送药吧？<br>你最好赶紧去<FONT color=#a82424>古代图书馆</FONT>见见<FONT color=#a82424>特拉玛依</FONT>。",
+      "answer": "",
+      "image": "qw_52.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "他好像有什么好消息要告诉你。是不是和<FONT color=#a82424>先知</FONT>有关呢？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "快来。<br>我来是想告诉你，应该很快就可以把<FONT color=#a82424>先知</FONT>带过来了。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真的吗？唤醒先知成功了吗？！<br>……可是……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你的脸色为什么这么差？发生什么事了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个……这里情况很不好……<br>卡拉翰最终还是杀死了察提，把</FONT><FONT color=#662500>绿龙宝玉取出来抢走了……卡拉秋和卡拉翰战斗，结果受了很重的伤……<br>（将这段时间发生的事情告诉特拉玛依）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "卡拉翰最后还是拿到了<FONT color=#a82424>绿龙宝玉</FONT>啊……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>特拉玛依！</FONT><FONT color=#662500>卡拉秋伤得很重！<br>所以，特拉玛依能不能和我一起去阻止卡拉翰呢？</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "……我也很想和你一起……但是，如果我亲自去阻止卡拉翰，被其他人看到的话就糟了。<br>以我现在的立场，还不方便露面。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这……！！<br>（凯伊说过特拉玛依会帮我的，可是……好失望啊……这样说来，感觉贝思柯德反而比较好呢！！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#a94407>凯伊</FONT>会先把<FONT color=#a94407>先知</FONT>带到这里，你直接去见她的话，应该可以听到很多故事。<br>好了，我以后会再通过埃提亚联络你的。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "……对不起，希望你能理解我。<br><FONT color=#7e12d2>（特拉玛依露出苦涩的微笑。现在最好赶紧去找卡拉秋）</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（好像耽误了很多时间，赶快把药交给卡拉秋吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳咳咳……你来得真是快啊……<br><FONT color=#7e12d2>（卡拉秋好像很无奈……但不知为何她慈祥地笑着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>对不起，卡拉秋！您身体好点了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳……我这把老骨头难道看上去没事吗……？<br>我看……还是时候到了啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>时候到了？这是什么意思……？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "<FONT color=#a82424>佩奥里斯塔</FONT>这个沉重的负担我背负了太长的时间。<br>现在也到了该卸下这份重担的时候了，咳咳咳咳……<br>西戴尔，你靠近点……",
+      "answer": ""
+    }
+  ]
+}

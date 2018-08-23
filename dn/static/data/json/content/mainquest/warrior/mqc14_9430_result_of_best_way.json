@@ -1,0 +1,450 @@
+{
+  "qkname": "结局",
+  "data": [
+    {
+      "npc": "精灵警卫兵希特里德",
+      "question": "<FONT color=#387206>{user_nick}</FONT>！你在执行任务吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯。阿尔杰塔好像去了炙风地狱。我得快点赶过去。</FONT>",
+      "answer": "",
+      "image": "qw_93.png"
+    },
+    {
+      "npc": "精灵警卫兵希特里德",
+      "question": "是这样啊！那你快点去吧。要是发生什么事，我会尽力赶去巨石碑的。<br>所以，<FONT color=#387206>{user_nick}</FONT>你快去帮助阿尔杰塔吧。<br><br><FONT color=#7e12d2>*组队状态下无法进行任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（赶紧到炙风地狱去吧）</FONT><br>\n <br>\n<FONT color=#7e12d2>*组队状态下无法进行任务。</FONT>",
+      "answer": "",
+      "image": "qw_93.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你死哪儿去了！怎么这么晚才来！<br><FONT color=#7e12d2>（杰兰特正气喘吁吁的）</FONT><br><br><FONT color=#7e12d2>*组队状态下无法进行任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "呼哧……呼哧……说真的，她是个什么东西啊！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>阿尔杰塔！你受伤了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9430_qu_01.ogg}<br>\n你这可恶的小鬼，怎么现在才来！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>对不起……因为佩达在生命之树那里出现了……我忙着扑灭蔓延到生命之树的火焰时，在那里遇到了露娜莉娅……我已经尽快赶来了……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "什么！你，你知道露娜莉娅的事？<br>现在说有什么用！你来得太晚了啊！",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "这么说，你明知道露娜莉娅的事，却还是更看重生命之树和精灵们的安危，所以先去灭火了才来。<br>切……<FONT color=#7e12d2>（阿尔杰塔皱起眉头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>对不起……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……哼。<br><FONT color=#7e12d2>（阿尔杰塔狠敲了一下我的头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你道什么歉？又不是做了什么该死的事，你该不会以为露娜莉娅那家伙把我怎么样了吧？我看起来有那么弱吗？",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#7e12d2>（阿尔杰塔整理了一下衣服）</FONT><br>\n哼，也不知道你在哪里听说了什么小道消息，跑来大惊小怪的。我也知道那个露娜莉娅！我刚刚才想起来她是谁。可她怎么会一直活到现在呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃……你知道她？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "虽不知道她怎么会拥有那样讨人嫌的能力，但总之我知道她是谁。<br>\n气死我了！应该事先跟踪她的。现在我们跑来这里，她就更方便在外面捣乱。真是太气人了。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "现在我明白佩达那家伙为什么敢这么嚣张了。<br>时间穿越能力……要怎么才能防备她的这种能力呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！阿尔杰塔，我带来个有用的东西。</FONT><br>\n<FONT color=#662500>给！（递过古代的咒术石）用这个或许可以阻止露娜莉娅。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "\n<FONT color=#7e12d2>（阿尔杰塔似乎很吃惊）</FONT><br>\n……！！你，你从哪里弄到这个的？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是卡汉拉给我的。还有……（详细地复述了卡汉拉的话，以及与露娜莉娅的会面）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "\n你说是个名叫卡汉拉的古代人给你的？唔，唉……<FONT color=#7e12d2>（阿尔杰塔愣愣地看着我）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>为什么这么说？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "\n没办法，接下来你得一直跟着我了。<br>\n你带着那块咒术石，跟我一起到巨石碑之门所在地点去吧。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "啊？！阿尔杰塔，你什么意思？那块咒术石很重要的话，我们自己带着去不行吗！<br>\n为什么要带个人类去？那家伙肯定会碍手碍脚的。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我这么做自有我的道理。我们不能长时间接触那块咒术石。<br>\n以后我会跟你解释，你先走吧。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "切……<br><FONT color=#7e12d2>（杰兰特不情愿地先离开了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……我们也走吧。<br>\n你跟紧点，别走散了。<br>\n<FONT color=#7e12d2>（请前往炙风地狱深处）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9430_qu_03.ogg}<br>现在，从这里可以去往巨石碑之门。<br>你把咒术石给我，就回去吧。你已经最大程度地帮到我的忙了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊？可你不是不能碰这个石块吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "有什么不能碰的。<br>我只是不想碰它罢了，这石块很诡异。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（这和刚才说的完全不一样啊）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……哈，你这是很不相信我的表情嘛。真麻烦。<br>我不方便跟你解释，总之是有原因的。所以，你快把那咒术石给我。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "什么？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……我也是来这里参加战斗的……我想帮助你。</FONT><FONT color=\"#662500\"><br>我知道我的实力比你弱，但我想我总能帮上点什么，才一路跟你到这里。<br>既然来了，我就不会逃跑。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "谁叫你逃跑了？这叫战略性撤退。你能做的都已经做到了。<br>你来找我，帮我做了这么多事情。要是谁再敢说你什么，就是他没良心。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9430_qu_04.ogg}<br>你可以回去了。你认真帮我跑腿的事，我会在其他人面前多多美言的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……你说你会在其他人面前夸赞我？你怎么从刚才开始就一直在撒谎呢？</FONT><FONT color=\"#662500\"><br>阿尔杰塔，我只是想帮你。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9430_qu_05.ogg}<br>……别固执！接下来的战斗还不知道会怎么样。你不要趟这趟浑水。你打不过佩达的。他挥挥手就能杀死你。你不明白拥有两块宝玉的龙会有多么厉害吗？",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9430_qu_06.ogg}<br>……从前也有些家伙信心满满地说要和我们一起奋战到最后，说只要大家携手，就没有办不成的事……都是些傻话。你该知道他们最后都没有好下场吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……你说的是六大英雄们？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……没错，就是那几个莽撞的人类和精灵。<br>如果你也了解他们，该有些感悟！<br>那些傻子，光懂得说些豪言，日子却过得那么凄惨。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9430_qu_07.ogg}<br>与其一辈子都痛苦地生活在可怕力量的威慑下，不如现在趁早逃离。<br>谁也不会笑你是胆小鬼的……",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9430_qu_08.ogg}<br>你的所作所为已经足够称得上是人类口中的英雄了。<br>就凭这些，你已经可以在你们崇尚的荣誉光环下度过余生。<br>不会受伤，健健康康地过着富裕的生活。这样……不就够了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……不，我不这么认为。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "什么？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……特拉玛依也曾经说过，虽然最后的结局很不幸，但他绝不后悔参加黑龙之战。就算再次回到当初，他还是会做同样的选择。</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……我也一样。如果现在我逃跑了，将来一辈子都会活在悔恨中。</FONT><FONT color=#662500><br>因为我没能帮到你。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……特拉玛依那老狐狸，不管是年轻时还是年老时，都只会给人找麻烦啊。<br><FONT color=#7e12d2>（阿尔杰塔的脸上充满杀气）</FONT>",
+      "answer": "",
+      "image": "qn_cleric_teramai.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我不知道你受过那老狐狸什么花言巧语哄骗，<br>但你至今为止不都是为着成为英雄这一目标而奋斗的吗？你真打算为这次战斗赌上性命？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……不管是成为英雄，还是那种顶着荣誉光环的生活，我都憧憬过。那确实是我的目标。</FONT><br><FONT color=#662500>但是，我认为无论是作为英雄，还是你的同伴，都不该临阵脱逃。</FONT></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "啊哈！你自称是我的同伴？别说笑了。我从没把你当做同伴。<br>趁我还跟你客气，赶紧回去！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我们一路并肩战斗过，所以是同伴。就算阿尔杰塔你不认可我，我也要跟你走。我……认识你这段时间以来，清清楚楚地见到了你为守护这个世界付出了多少努力。</FONT></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我觉得你非常强，非常了不起。自然地，我也不希望你受伤。<br>身为这个世界上的一份子，我理应为像你这样努力守护世界的人……不，是龙，贡献自己的力量！</FONT></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "哈……你这小鬼真是不听话。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "在凯德拉关卡第一次见面时，我没想到你会这么死皮赖脸地跟着我……真是个爱管闲事的家伙。结识你真是个失误。我身边怎么净是这种白痴人类和龙唉。真郁闷。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我是女神的奴仆，是守护这个世界的阿尔泰亚女神的奴仆。你要守护这个世界，我帮助你是理所当然的！</FONT><FONT color=\"#662500\"> </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>老实说，我对这个世界并没有太多的感情。反而是有更多怒气。当初我被父母抛弃时，几乎恨不得想毁灭世界！</FONT></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可意外的是，我发现世界上还有许多有趣的事情。再说了，我活到现在也欠了许多人情，不想逃避。是我自己想要守护这个世界，你凭什么对我指手画脚？我是主动要帮助你的，你也照自己想法去做吧。</FONT></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我身为扎根在巨石碑处的生命之树的子女，绝不能对此事袖手旁观！<br>我一定要帮助你，我相信这也是我的特雷西亚。</FONT></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……不管是成为英雄，还是那种顶着荣誉光环的生活，我都憧憬过。我确实想成为英雄。但是，我的名字不会留在历史长河中。我所认识的英雄们，都在各自走着英雄的道路，尽全力做好自己的职责。</FONT></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……而且，我也是龙！是继承了古代龙宝玉碎片的龙。<br>因此，我也肩负着守护这个世界上众多生灵的使命。</FONT></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>请允许我跟你一起战斗吧，阿尔杰塔。我也获得了龙之宝玉的力量！<br>我想以龙的身份，完成这个世界赋予我的使命。</FONT></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……你是龙？古代龙的？<FONT color=#7e12d2>（阿尔杰塔盯着我看了好半天）</FONT>我的天，你身上的碎片实在太小，我根本就没发现啊！真无语了……就凭那点宝玉碎片，凭那不及我万分之一的力量，你就敢自称是龙？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……我认为力量并不是最重要的。我要坚守我的使命。要是你再阻拦我……就算你是阿尔杰塔，我也会生气的！</FONT></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "要生气你就生吧。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#7e12d2>（完全充耳不闻）</FONT>从宝玉中诞生的家伙怎么全都这副模样？一个是白痴，再来一个还是白痴。囧死，就算重新诞生，也还是白痴……看来古代龙那家伙是条蠢得没救的龙。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "不过好在我是头脑正常的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……英雄……不，那种事我不在乎。我只想阻止露娜莉娅。</FONT></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "什么？难道你认识那女的？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>说来话长，我……事实上，我不是生活在这个时代的人，而是来自过去的……是露娜莉娅把我带到了这里。因为露娜莉娅无法控制自己的能力，所以导致时空总发生混乱。</FONT></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>即使如此，我仍然……和露娜莉娅一起，时常为其他冒险家们提供帮助。我们为守护世界的秩序贡献了自己的力量。</FONT></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……所以，我不愿意……相信露娜莉娅她企图毁灭世界……这其中肯定有什么误会。无论如何，我一定会阻止她的。</FONT></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我晕，你这家伙真是一点不可靠啊。你一直跟着露娜莉娅东奔西跑，那你是个什么东西啊？确实是人类吗？",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#7e12d2>（啪！-毫不犹豫的一击狠狠打中了我英俊的脸！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "现在什么情况，你还有心思开玩笑？总之我知道了，这么说你可以阻止露娜莉娅。虽说我对你这家伙没什么好感，但你作为个人类……愿意为朋友的错误负责的态度挺值得表扬。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……我丑话说在前头，接下来会发生什么事很难说。<br>佩达可能会现身攻击我们，露娜莉娅那丫头也可能会出现……",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……我也可能释放自己的力量。<br>到时候如果我认为速战速决更好，我就会打碎封印石，完全释放出我的力量。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那样做没关系吗？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……那封印石是靠注入我的力量来维持运作的。<br>\n只要我重新注入力量，它就会恢复原样。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……而且，那巨石碑之门也不是谁都能轻易开启的。<br>\n当然，如果在这过程中你敢捣乱，我会杀了你。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9430_qu_09.ogg}<br>\n……你的命你自己保重。<br>我可没闲工夫救你。你自己想办法活下去，哪儿来回哪儿去！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是！</FONT></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……！！！你是……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡汉拉？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>老师？！</FONT></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "完成任务",
+      "question": "NT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡汉拉",
+      "question": "……",
+      "answer": ""
+    }
+  ]
+}

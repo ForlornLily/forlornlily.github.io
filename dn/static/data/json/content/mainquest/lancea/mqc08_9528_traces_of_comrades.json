@@ -1,0 +1,188 @@
+{
+  "qkname": "战友的痕迹",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "你去见了<FONT color=#a82424>佩德罗</FONT>吗，姐姐？",
+      "answer": "",
+      "image": "qn_npc_lotus_warriorfedro.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个……我见了佩德罗之后又去见了凯伊……先知说了很可怕的话……我不知不觉就跑出来了……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "哎呀，姐姐真是的！先知正在说重要的事情，怎么能就这样跑开呢！ <br>不是吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃、嗯……我也不知道我为什么会这样……嘿嘿<br>（最好回到</FONT><FONT color=#a82424>女王庭院</FONT><FONT color=#662500>）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你看到的那个奇怪的人，你能详细说一下他的衣着相貌吗？",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#7e12d2>（倾听</FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#7e12d2>的说明）<br></FONT>……这……这不可能……<br>不知道怎么回事，我感觉你说的那个剑士很像我的老朋友<FONT color=#a82424>巴尔纳</FONT>……",
+      "answer": "",
+      "image": "qn_warrior_barnak.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊？！巴尔纳不是创建钢铁兄弟团的六大英雄之一吗？<br>而且……他不是已经去世了吗……？！！呃啊啊啊~？</FONT>",
+      "answer": "",
+      "image": "qn_warrior_barnak.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "是的。巴尔纳已经去世了……<br>难道就像先知的预言一样，绿龙刚复活，死者就苏醒了吗……",
+      "answer": "",
+      "image": "qn_warrior_barnak.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃啊啊啊~！！好恐怖……好可怕——！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "你给我安静点，<FONT color=#387206>{user_nick}</FONT>。<br><FONT color=#7e12d2>（凯伊悄悄地捂住了</FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#7e12d2>的嘴）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "……希望是我误会了……但是，我总是有种不祥的预感。<br>必须追上他，确认下他究竟是不是巴尔纳。 </FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#2b2723>，你看到的那个不明身份的剑士消失的方向是哪边?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……快把手拿开，凯伊。<br>……我不是非常确定，但他好像是往</FONT><FONT color=#662500>盲目溪谷</FONT><FONT color=#662500>去了……</FONT>",
+      "answer": "",
+      "image": "qw_67.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（最好回女王庭院</FONT><FONT color=#662500>听听特拉玛依要说什么）</FONT>",
+      "answer": "",
+      "image": "qw_68.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "好，那我们一起去<FONT color=#a82424>盲目溪谷</FONT>看看吧。<br>还是亲眼确认最可靠……",
+      "answer": "",
+      "image": "qw_67.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "啊……怎么可能，那个人莫非是……？",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "啊……怎么可能，那个人莫非是……？",
+      "answer": "",
+      "image": "qn_npc_death_knight.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>果然是巴尔纳吗？！<br>啊，等等！您不是说巴尔纳已经死了吗……？那么这是幽灵？！！ <br>不，难道是僵尸~~？！！</FONT>",
+      "answer": "",
+      "image": "qn_warrior_barnak.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "……怎么会有这种可怕的事情……<br>究竟是谁唤醒了已经去世的人，让他在人世徘徊？<br>可悲的是，他死后也不能安息，究竟是谁在利用他呢？",
+      "answer": "",
+      "image": "qn_warrior_barnak.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我必须阻止他被继续利用，以免造成更大的悲剧……<br>之前我一直卑鄙地躲在后方，我真后悔……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>最珍贵的战友……看来特拉玛依真的和巴尔纳关系很亲密呢！<br>男人之间的炽热友情！真是令人感动！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#a82424>巴尔纳</FONT>在50年前对抗<FONT color=#a82424>黑龙卡拉斯</FONT>的时候在最前线战斗。<br>在队伍后方支援的我平安无事，但<FONT color=#a82424>内尔文</FONT>、<FONT color=#a82424>卡拉秋</FONT>还有<FONT color=#a82424>巴尔纳</FONT>全都被<FONT color=#a82424>黑龙的血</FONT>污染了。",
+      "answer": "",
+      "image": "qn_warrior_barnak.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（啊……黑龙的血……听说我也被污染了……啊……我不会有事的吧？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "</FONT><FONT color=#a82424>内尔文</FONT><FONT color=#2b2723>回到了精灵的故乡</FONT><FONT color=#a82424>阿努阿兰德</FONT><FONT color=#2b2723>，</FONT><FONT color=#a82424>卡拉秋</FONT><FONT color=#2b2723>在</FONT><FONT color=#a82424>莲花沼泽</FONT><FONT color=#2b2723>休养，寻找治疗的方法。  </FONT><FONT color=#a82424>巴尔纳</FONT><FONT color=#2b2723>则去了</FONT><FONT color=#a82424>泰努玛拉</FONT><FONT color=#2b2723>。<br>他也在寻找着治疗的方法。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "不幸的是，他最终殒命与此。<br>得到他的身体快坚持不住的消息后，我立刻赶去了泰努玛拉，但差之毫厘，他最终还是去了女神阿尔泰亚的世界……<br><FONT color=#7e12d2>（特拉玛依抚摸着女神的纹章）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我收拾了他的遗体，为他举办了葬礼后就留在那里。<br>大家都非常地痛苦，我却独自一人占着教皇的位置还厚脸皮地活着，真的好难过。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "虽然我不知道是谁，因为什么理由而想利用巴尔纳……<br>我不能对这辈子最好的朋友袖手旁观。<br>必须尽快让他安息。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "他为了世人倾尽了毕生的精力，最后却独自死去……不能让他再一次做出这样的牺牲了。一定要……拯救他。<br>首先我们应该去问问<FONT color=#a82424>魔法师</FONT>们，关于迷惑巴尔纳的魔法。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个，我去问问西戴尔就行了！<br>西戴尔非常聪明，而且是</FONT><FONT color=#662500>卡拉秋认可的佩奥里斯塔的下一任团长喔！</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "很好……如果是卡拉秋认可的弟子，那告诉他我的身份和巴尔纳事情也没关系……<br>凯伊和先知暂时在这里等等吧。<br><FONT color=#2b2723>我去见见</FONT>那个叫<FONT color=#a82424>西戴尔</FONT>的孩子。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "是<FONT color=#387206>{user_nick}</FONT>啊！欢迎欢迎！<br>……不过，你旁边的人是谁……？<br><FONT color=#7e12d2>（西戴尔惊讶地看着这边）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "幸会，西戴尔·佩奥里斯塔。<br>鄙人是担任女神教团首领的泰兰斯·特拉玛依。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "啊……您是和老师一起战斗过的<FONT color=#a82424>六大英雄</FONT>之一的……特拉玛依！",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "这里……现在卡拉秋已经不在了……真是百感交集啊。",
+      "answer": ""
+    }
+  ]
+}

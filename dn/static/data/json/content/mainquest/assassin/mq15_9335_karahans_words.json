@@ -1,0 +1,160 @@
+{
+  "qkname": "卡拉翰的话",
+  "data": [
+    {
+      "npc": "商人洛西塔",
+      "question": "我正在等你呢。<br>战士西恩说等<FONT color=#387206>{user_nick}</FONT> 你过来之后，让我告诉你。",
+      "answer": ""
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "西恩说找到了察提姐姐……<FONT color=#387206>{user_nick}</FONT>，他让你到<FONT color=#a82424>龙之追随者据点</FONT>去。<br>察提姐姐好像追踪父亲的痕迹，往那边去了。",
+      "answer": "",
+      "image": "qw_54.png"
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "大家都到那边去了。<br>这件事非常着急。好了……嗯，我说清楚了吧……？<br><FONT color=#7e12d2>(洛西塔一脸害怕地看着我)</FONT>",
+      "answer": "",
+      "image": "qw_54.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "要到<FONT color=#a82424>龙之追随者据点</FONT>去吗？<br>嗯……辛苦你了。",
+      "answer": "",
+      "image": "qw_54.png"
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "呵呵，不要轻易被我迷住。<br>否则你的心也许会裂开。<br><FONT color=#7e12d2>(奇怪的人，说的话也奇奇怪怪的)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你是……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……你就是察提所说的“可靠的人”那？</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "嗯？你这家伙，你是忘了我这位耀眼迷人的美男的大名了吗？<br>愚蠢的家伙……看来你的记忆力就像被火光迷住了眼睛的虫子一样。<br>\n呵呵呵呵……！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……他在说什么啊？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "就算你忘记了我的名字，我的美丽也能穿越过去和未来！<br>只要看我3秒以上，你也会成为我的奴隶。<br><FONT color=#7e12d2>(奇怪的男人继续说着奇怪的话)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的男人",
+      "question": "我那耀眼的名字，叫做<FONT color=#a94407>卡拉翰！<br></FONT>哎呀哎呀～你一定已经两腿发抖了吧？啧啧～愚蠢的羊羔～",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "谈论过去那些鸡毛蒜皮的事情，有违我的美学，我就省略了。<br>在我这足以引发厄尔尼诺现象的美貌面前，一切都失去了意义！啊哈哈哈哈哈～",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……卡拉翰为什么会在这里？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "先把你那狂热的崇拜放在一边吧。<br>\n因为今天我就像沙漠中的风暴一样奔走忙碌。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你来这里干什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "呵呵呵……在我耀眼的美貌面前忘记礼节了吗？<br>\n看你坐立不安的样子，就像是落入陷阱的兔子一样。<br>啊～让我们长话短说。因为我可是很忙的～",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "不管你是愿意和那些<FONT color=#a82424>喜欢白费力气的冒险家小毛孩</FONT>腻在一起，还是和那些愚蠢的原住民一起拿生命开玩笑……<br>不管是哪一边，最终都会再次见到我卡拉翰。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "不过我想问你一个问题。<br>那个时候，你说<FONT color=#a82424>穿越了一次时间</FONT>，对吧？这次又是什么呢？",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "又穿越了一次时间吗？<br>你想证明这可笑的谵语吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……！<br>你是怎么知道这些的？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "不要想让我来证明，也不要问问题。<br>由我来提问。你只要回答就行。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>喂……喂！！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "呵呵，看来你是被我的魔力迷住，迈不开脚步，对吧？<br>\n我可以理解，<FONT color=#a82424>过去的崇拜者</FONT>。<br>我们很快会再见面的！啊哈哈哈哈～",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "呵呵，看来你是被我的魔力迷住，迈不开脚步，对吧？<br>\n我可以理解，过去的崇拜者。<br>我们很快会再见面的！啊哈哈哈哈～",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "又见到了奇怪的人？<br>嗯～你好像和奇怪的人很有缘分。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "还是先回到村里去吧。<br>去见见莲花沼泽的那个……<FONT color=#a82424>戴着耳朵的女孩</FONT>，也许可以知道些什么。也许不行。",
+      "answer": "",
+      "image": "qn_npc_lucita.png"
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "咦？怎么又回来了？<br>没见到察提姐姐吗？<br><FONT color=#7e12d2>(洛西塔歪了歪脑袋)</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这段时间你有没有听到其他消息？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "其他消息？嗯……<br>让我想想……",
+      "answer": ""
+    }
+  ]
+}

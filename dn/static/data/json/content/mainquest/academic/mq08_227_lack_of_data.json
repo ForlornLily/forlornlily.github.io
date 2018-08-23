@@ -1,0 +1,209 @@
+{
+  "qkname": "数据不足",
+  "data": [
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "没想到为了凯德拉关卡，小姑娘你居然如此努力，我真的很感动……呜呜……<br>真的很感动，感动！！",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "什么啊？因为这该死的飞艇，我已经晕头转向了！<br>\n所以，不要来烦我，走开！",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花{soundnpc_CG_Jasmin_sp_03.ogg}",
+      "question": "\n你目前所在的地方与这里的时间相差50年的时间，所以有很多事情并不像你想象的那样。<br><FONT color=#a82424>贝思柯德</FONT>与现在不同也是理所当然的，这也没办法。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那我该怎么办？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "我一时半会儿也想不出对策。<br>首先你还是盯着安杰利卡和伊桑这两个人为好。只要盯着他们，肯定会与贝思柯德再次相见的。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "除了盯住这两个人之外，未来六大英雄中的其他两位很快也会出现的，在他们出现之前，你要好好留意凯德拉关卡。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的，我明白了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_06.ogg}<br>安杰利卡和伊桑会与冒险家公会一起行动，所以<FONT color=#a82424>冒险家公会会长戴卡德</FONT>应该知道这两个人的行踪。你去见见戴卡德，询问安杰利卡和伊桑会的行踪吧。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "没想到为了凯德拉关卡，小姑娘你居然如此努力，我真的很感动……呜呜……<br>真的很感动，感动！！",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "什么啊？因为这该死的<FONT color=#a82424>飞艇</FONT>，我已经晕头转向了！<br>所以，不要来烦我，走开！！",
+      "answer": "",
+      "image": "qw_airship.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br>▷ <FONT color=#7e12d2>请向冒险家公会会长戴卡德询问安杰利卡和伊桑会的行踪吧。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "你问我有没有见到<FONT color=#a82424>安杰利卡</FONT>？<br>啊……我想起来了，她和伊桑好像受到了<FONT color=#a82424>银发女剑客</FONT>的委托吧？<br>说是要去<FONT color=#a82424>神圣天堂</FONT>。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>嗯？！不会已经出发了吧？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "放心吧，小姑娘，他们还没出发呢，应该说是，无法出发才对！<br>都怪<FONT color=#a82424>黑骑士</FONT>，飞艇已经散架了！<br>我想短期内应该无法使用飞艇了。",
+      "answer": "",
+      "image": "qw_airship.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>呼……原来如此。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "你可以向<FONT color=#a82424>飞艇工程师休伯特</FONT>了解更详细的情况。<br>反正他们俩去了休伯特那里，你也去那里看看吧。",
+      "answer": "",
+      "image": "qn_npc_engineer_hubert.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "你去见见<FONT color=#a82424>飞艇工程师休伯特</FONT>吧。<br>安杰利卡和伊桑应该也去了那里。",
+      "answer": "",
+      "image": "qn_npc_engineer_hubert.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br><FONT color=#7e12d2>▷ 请去见见飞艇工程师休伯特吧。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "你看到那边分布的精锐士兵了吗？我真是……<br>他们说是来帮助凯德拉，结果面对<FONT color=#a82424>黑骑士</FONT>也是束手无策。<br>真是无语啊。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>那个，你有没有见到魔法师安杰利卡？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "啊，你是说那个魔法师和牧师？那两个人说要赶往<FONT color=#a82424>神圣天堂</FONT>，并表示愿意帮我修飞艇。<br>不过，我已经拜托其他人帮忙了。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>其他人？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "没错，我已经拜托看起来十分可靠的<FONT color=#a82424>战士</FONT>和美丽的<FONT color=#a82424>弓箭手</FONT>冒险家帮忙了。<br>他们帮我搜集各处散落的零件，现在飞艇很快就能修好了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>那安杰利卡去了什么地方？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "这个我也不知道。只见她匆匆忙忙地离开了……<br>我总不能去了解每位凯德拉关卡冒险家的去向吧？",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>这，这样啊，这可怎么办……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "如果事情已经办完了，那就请你离开吧。我要忙着修理飞艇啦。<br><FONT color=#7e12d2>（首先返回学者站台向姐姐报告吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_01.ogg}<br>战士和弓箭手冒险家正帮忙修理飞艇……？<br>嗯……难道，他们是未来的六大英雄成员？",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>啊！说不定是这样呢！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "<FONT color=#a82424>血光疾风之破坏者战士西恩</FONT>和<FONT color=#a82424>银色新月之灵魂弓箭手特里亚纳</FONT>。<br>他们肯定是记录中的六大英雄成员。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "……那个，我有一个坏消息。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>什么坏消息？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "数据传送刚刚已经结束了……<br>但辅助存储器的容量比我想象的还要小，连基本数据都无法容纳。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>那……那以后改如何查看材料……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "没办法啦。虽然这么做有些不便，但以后如果你有需要的情报，只能链接学者站台进行确认……",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>怎么会这样……</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

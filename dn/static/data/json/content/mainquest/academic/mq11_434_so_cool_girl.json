@@ -1,0 +1,257 @@
+{
+  "qkname": "冷静下来",
+  "data": [
+    {
+      "npc": "阿尔杰塔",
+      "question": "干嘛？你待在这里干什么？<br>别来妨碍我，去做你的事。"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "要是能救出先知，让大家过上幸福的生活，那该多好！哈哈！"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_02.ogg}<br>嗯…… 根据记录记载，杰兰特最终找回了先知，并留在神圣天堂守护先知……现在该怎么做呢？目前你能做的事情是……",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "<FONT color=#7e12d2>（百合花暂时陷入沉思）</FONT><br>对了，跟你一起到神圣天堂的阿尔杰塔目前在哪里？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也不清楚。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "根据记录，与喜欢单打独斗的杰兰特不同，<FONT color=#a82424>阿尔杰塔</FONT>会与其他冒险们一起行动。因此，想要找到阿尔杰塔并不难。实际上，记录中并没有过多记载杰兰特和贝思柯德的行踪。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，我知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "你先到<FONT color=#a82424>黑山山角</FONT>那里，寻找与你一起来的冒险家们，或者<FONT color=#a82424>与阿尔杰塔相关的人</FONT>。<br>你见到杰兰特或贝思柯德之后，尽量说服他们，但……就算无法说服他们，你也什么太着急。我们还有很多时间……",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "就算你现在什么都不做，<FONT color=#a82424>杰兰特</FONT>也会救下先知的。<br>在杰兰特救回先知之前，或许你还是老老实实地待着更好。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>经常与杰兰特见面，会对我们日后的计划有所帮助的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "嗯，我都没想到这点。<br>如果想接近先知，还是与杰兰特互相熟悉比较好。<br>真不愧是我的妹妹，真是聪明伶俐。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哈哈……这不算什么啦……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_07.ogg}<br>嗯，那你快前往<FONT color=#a82424>黑山山角</FONT>吧。<br>希望事情能顺利解决。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "哼，你现在好像不该出现在这里吧？<br>不要妨碍我，忙你自己的去吧。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "希望能快点救出先知，所有人都能过上幸福的生活！哈哈！<br>加油吧~！",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（没什么特别的）</FONT>"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br>▷ <FONT color=#7e12d2>请到黑山山角打探阿尔杰塔的行踪。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "嗯？你说<FONT color=#a82424>阿尔杰塔</FONT>？<br><FONT color=#387206>{user_nick}</FONT>，你也是曾是阿尔杰塔的奴隶吗？嘿嘿。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>奴隶？（突然说什么……）</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊……！难，难道不是的……<br>其他几位冒险家和我有过相同的命运。<br>现在<FONT color=#a82424>戴维</FONT>好像成了阿尔杰塔的奴隶。<br><FONT color=#7e12d2>（西恩挠了挠头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "话说，<FONT color=#387206>{user_nick}</FONT>你目前在做什么？<br>如果你无事可做，就跟我们一起帮<FONT color=#a82424>主教伊格纳西奥</FONT>做事吧？目前积极想救出先知的人，只有王城中的主教了。<br>\n<FONT color=#7e12d2>（西恩叹了口气）</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "其他贵族，还有宫廷魔法师都在找各种借口推脱，躲开这件事！<br>现在必须抓紧分分秒秒救出萝丝……不，救出先知才行啊。唉……",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……（就算向主教说明，他肯定也不会相信的……）</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "<FONT color=#a82424>主教伊格纳西奥</FONT>的内心与他的外表截然不同，他是位非常仁慈的人。<br>现在为国家担忧的人只有主教了！<br>他还为我们提供情报，在各方面照顾我们，因此我们的事情才能继续进行下去。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃……你最好不过于信任他。</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "你凭什么这么说……？<br><FONT color=#7e12d2>（西恩的表情非常顽固）</FONT><br>我相信<FONT color=#387206>{user_nick}</FONT>你不会像其他贵族那样找各种借口临阵脱逃的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（嗯……现在无论说什么他都不会相信的）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊，时间已经不早了。<br>你说你有话要对阿尔杰塔说？",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "哼，杰兰特这家伙……我分明感受到了他的气息，但他藏到哪里去了呢？<br>难不成让他逃了？<br><FONT color=#7e12d2>（阿尔杰塔深情严肃）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "嗯？……你为什么在这里瞎转悠？<br>如果你又要说巨石碑这种越分的话，我是不会理你的。<br>你走吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你是不是在寻找贝思柯德的行踪？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#a82424>贝思柯德</FONT>……？你什么时候成为那种无名鼠辈的手下了？<br>你们好像挺亲近的啊。<br><FONT color=#7e12d2>（阿尔杰塔冷嘈热讽）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是那样的……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我到达这里时，那<FONT color=#a82424>黢黑的家伙</FONT>已经消失不见了。<br>剩下的只有那家伙的气味而已。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他会去什么地方呢？</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "不好说，现在他在这里的事情已经办完了，应该回自己老巢了吧。<br>他已经掌握了古代人的力量，肯定会回到自己的领地的。<br>必须在他回去前，将他消灭才行……切。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他的根据地是黑暗大君主领地？</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你明明知道，干嘛还是问我啊？真是烦人。<br>……但凭你现在的实力，去那里无疑是送死。<br>不过，你死不死与我无关，我只是先给你提个醒。",
+      "answer": "",
+      "image": "qw_28.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哦。（但我还是要去看看……）</FONT>",
+      "answer": "",
+      "image": "qw_28.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "杰兰特……有没有追上他啊？<br>真是磨蹭死了……！<br><FONT color=#7e12d2>（请用通讯器向百合花报告）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "<FONT color=#a82424>黑暗大君主的领地</FONT>……那可糟糕了。<br>我要去见见出去侦察的伊桑、安杰利卡还有特里亚纳，跟他们好好谈谈。",
+      "answer": "",
+      "image": "qw_28.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_03.ogg}<br><FONT color=#a82424>黑暗大君主的领地</FONT>……？<br>他果然带着先知进入了那里啊？<br>当时的他希望利用先知的力量，使自己变得完整。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>现在怎么办？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "我们无法阻止贝思柯德的行为。<br>如果他站在我们这一边，并为我们提供帮助，那将对我们非常有利，但就目前的状况来看，这是不可能的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我想去那里看一下。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "你的想法是好的，但你自己去太危险了。<br>若是你因为这种无谓的事情拖延了时间，说不定会错过重要时刻，不是吗？<br>嗯……你还是找人帮助你吧。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>找人帮忙？</FONT>",
+      "answer": ""
+    }
+  ]
+}

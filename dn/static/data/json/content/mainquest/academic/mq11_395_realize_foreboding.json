@@ -1,0 +1,266 @@
+{
+  "qkname": "不好的预感全中",
+  "data": [
+    {
+      "npc": "杰兰特",
+      "question": "这里有的只是沉睡的少女和非人类的存在。<br>你应该去充满活力的外界，那里才更适合你。",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "受伤的精锐士兵",
+      "question": "呃……呃……<br>\n<FONT color=#7e12d2>（似乎受了很重的伤，连话都说不连贯了）</FONT>"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "先知……还没醒来吗……？<br>是因为我的品德不够吗……？应该……不是吧……？",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "为了神圣天堂，我要更加努力！！"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_03.ogg}<br>现在你不要管萨芬特拉的事情了。<br>反正冒险家们会成功击退它的。你只要管好<FONT color=#a82424>先知</FONT>就行了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_08.ogg}<br>你到<FONT color=#a82424>国王卡西乌斯</FONT>那里观察下动向吧。我到现在仍然想不通，杰兰特为什么会解除巢穴、笑声匿迹，先知又去了什么地方。",
+      "answer": ""
+    },
+    {
+      "npc": "受伤的精锐士兵",
+      "question": "呃……咳呃……！！<br><FONT color=#7e12d2>（受了重伤，很难继续说下去）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "这里有的只是沉睡的少女和非人类的存在。<br>你应该去充满活力的外界，那里才更适合你。",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "呜呜……勇敢地<FONT color=#387206>{user_nick}</FONT>，在这样的时刻，朕……<br>朕…… 该如何是好？<br><FONT color=#7e12d2>（独自不安地颤抖着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>发生了什么事情？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "情况十分紧急。<br>据说<FONT color=#a82424>侦察兵</FONT>受到了袭击，但他们抛下伤员，选择了紧急撤退。<br>这可怎么办……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是谁发起的袭击？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "居然已经派士兵前去查看了……<br>我感觉很不安。",
+      "answer": "",
+      "image": "qn_npc_elite_soilder.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我去查看下吧？</FONT>",
+      "answer": "",
+      "image": "qn_npc_elite_soilder.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "噢噢，你愿意帮忙？真是勇敢的少女，<FONT color=#387206>{user_nick}</FONT>……<br>你让我觉得很安心。<br><FONT color=#7e12d2>（卡西乌斯很开心）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我应该去哪里查看？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "为了守护神圣天堂，我要继续努力！<br>希望<FONT color=#387206>{user_nick}</FONT>也能和我一起守护这里。",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "仍有伤员未能撤退的地方是<FONT color=#a82424>船长达兰特的根据地</FONT>。<br>希望你能揭露那邪恶魔物的真实身份。",
+      "answer": "",
+      "image": "qw_39.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……萨芬特拉真的复活了吗？<br>真是令人费解，他为什么做出这种毫无意义的行为……？",
+      "answer": ""
+    },
+    {
+      "npc": "受伤的精锐士兵",
+      "question": "呃……呃呃……！怪……怪兽……！巨大的怪兽…<br>往，往那个方向……咳……！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不要紧吧?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "受伤的精锐士兵",
+      "question": "咳咳……我没… 没事… 快将这个消息带到王城…！！<br>巨大的… 海怪… 出现了… 快…<br>如果不，不快点的话… 就糟糕了！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>海，海怪？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "受伤的精锐士兵",
+      "question": "邪，邪恶的… <FONT color=#a82424>萨芬特拉</FONT>… 萨芬特拉出现啦！<br>快，通知<FONT color=#a82424>王城</FONT>…拜托… 了…！！",
+      "answer": "",
+      "image": "qn_npc_king_casius.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": "",
+      "image": "qn_npc_king_casius.png"
+    },
+    {
+      "npc": "受伤的精锐士兵",
+      "question": "谢谢… 你… 咳咳咳….呃！！<br><FONT color=#7e12d2>（精锐士兵很难继续说话了。</FONT><br>\n<FONT color=#7e12d2>快向王城报告这件事吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_king_casius.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "什么？<FONT color=#a82424>萨芬特拉</FONT>居然重新出现了……！<br>这魔物不是在50多年前被<FONT color=#a82424>六大英雄</FONT>消灭了吗，这是怎么回事？<br>难，难道因为朕……是个没能力的国王……？呜呜。",
+      "answer": "",
+      "image": "qn_six_heroes_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>请冷静些。</FONT>",
+      "answer": "",
+      "image": "qn_six_heroes_silhouette.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "我，我知道了。我要快点和将军及叔父商议对策。<br>感谢你告诉我这个消息，勇敢的少女！",
+      "answer": "",
+      "image": "qn_npc_duke_stwart.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（现在该怎么办？）</FONT>",
+      "answer": "",
+      "image": "qn_npc_duke_stwart.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "你听说了吗？萨芬特拉出现了！<br>为了神圣天堂，我要挺身而出！！",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "我打算与杰兰特一起去消灭萨芬特拉。<br><FONT color=#387206>{user_nick}</FONT>，你要一起去吗？",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "question": "<FONT color=#7e12d2>（请去向黑山山角的贝思柯德报告，并商议对策）</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_06.ogg}<br>萨芬特拉出现了？<FONT color=#a82424>贝思柯德</FONT>呢……？你去见过他了吗？<br>按照我们的记录，先知即将消失，我们必须在先知消失前动手！",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "萨芬特拉……<br>当时为了防止它复活，我们已经将它封印，没想到还会发生这样的事情。<br>\n<FONT color=#7e12d2>（杰兰特叹息着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我已经发誓要守护神圣天堂，我必须要去消灭萨芬特拉。<br>我打算与<FONT color=#a82424>战士西恩</FONT>一起前往目击到那魔怪的场所。",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我来守护先知。</FONT>",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "即便我离开这里去与魔物进行战斗，巢穴也不会被解除。<br>但如果你想守护先知，那这里就拜托你了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "那，我现在就出发。<br><FONT color=#7e12d2>（请链接学者站台，向姐姐报告情况）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_04.ogg}<br>果然，萨芬特拉还是出现了。<br>但<FONT color=#a82424>杰兰特</FONT>和其他冒险家会成功组织它的，你没必要担心。知道了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我决定留下。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "做得好。如果想带走<FONT color=#a82424>先知</FONT>，现在是个好机会。<br>虽然没能打探到<FONT color=#a82424>巨石碑</FONT>的位置，但如果先知醒来，一切就解决了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>她应该知道巨石碑的位置吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "嗯，所以你到<FONT color=#a82424>王城地下秘密区域</FONT>好好看守着先知。<br>如果能唤醒她，那就更好了，反正巢穴说不定什么时候就会被解除。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>巢穴究竟为何会被解除呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "这个么……说不定<FONT color=#a82424>杰兰特</FONT>被人类吓到，所以消灭萨芬特拉后就离开了。<br>或者发生了其他问题，要突然移动巢穴……<br><FONT color=#7e12d2>（百合花歪着脑袋）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这只是推测啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

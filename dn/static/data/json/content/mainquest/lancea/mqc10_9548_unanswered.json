@@ -1,0 +1,223 @@
+{
+  "qkname": "没有回答",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "欢迎回来，姐姐。<br>那具尸体……还在那里吗？",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "<FONT color=#7e12d2>（听着</FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#7e12d2>的话）<br></FONT>……啊，<FONT color=#a82424>柯梅里纳</FONT>还活着啊……",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "<FONT color=#a82424>柯梅里纳</FONT>姐妹的尸体虽然很令人在意，但姐姐现在最好尽快到最后一次看到<FONT color=#a82424>凯伊</FONT>哥哥的地方去。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "怎么这么让人操心啊，凯伊哥哥……<br>等你回来……一定要狠狠揍你一顿……",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "啊……你……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯?！这不是柯梅里纳吗？<br>莫非……你跟踪我？是吗？呵呵呵……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "不是的。我只是因为正在找的资料好像在这里，所以才过来的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……哎呀，需要这么认真地否认嘛……！！嘿嘿。 <br>不过，看你这么努力地到处调查，一定是很重要的事情吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……<FONT color=#7e12d2>（柯梅里纳的脸色黯淡下来）</FONT><br>这些事情都是因我而起。<br>所以，我想让一切都回归原位……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>噢……嗯……虽然我不是很清楚，但是不是和你双胞胎姐妹的死有关呢？<br>那真是很重要的事呢！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>（稍稍犹豫后开了口）</FONT><br>这说来话长。你听说过<FONT color=#a82424>克隆</FONT>吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>克隆？？？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "是的。所谓克隆，就是<FONT color=#a82424>复制人</FONT>，简单来说是以同卵双生的原理为基础……<br>假设基本上以同一个人的遗传基因为基础，利用脱氧颗糖核酸的转录过程……@！??&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;%",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……对了，我吃了午饭吗，还是没吃呢……<br>（本能地开始神游了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "通过端粒的干涉……吧啦吧啦……将抑制基因的变异最小化吧啦吧啦；*^* 决定外形的<FONT color=#2b2723> （）（）（）</FONT>培养液的浓度……吧啦吧啦……为了增强体细胞，这里最重要的是Nacl的浓度……吧啦吧啦……你在听我说吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……？啊，你说完了吗？ <br>（傻笑着）<br>那么，结论是什么？<br></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "这个……我考虑到过去的技术水平，尽量简单地解释了呢……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没关系！反正其他人的话我也听不太懂！嘿嘿！<br></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……这么悲伤的话题，竟然如此开朗地说出来……以<FONT color=#387206>{user_nick}</FONT>的水平，非常简单地说明的话，你看到的那具尸体和我都是克隆体，所以我们身体的所有构成成分都是相同的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>噢！所以你们就是双胞胎嘛，对吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "我花了这么长时间给你解释克隆和双胞胎的区别……算了，简单跟你说吧。<br>我们都是来自 <FONT color=#a82424>50年以后的未来</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真的吗？好厉害！好酷啊！！<br>（眼睛闪闪发亮）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……我还是第一次遇到有人毫不怀疑地接受我的说法，反而让我有点惊慌……<br>总之本来我们都是为了拯救世界而来……但是，现在除了我之外的克隆体都是敌人。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "他们企图侵略<FONT color=#7e12d2>并毁灭现在的世界，让未来的人们移居到这里</FONT>。<br>基地的部队中部分人计划前往<FONT color=#a82424>泰努阿尔神殿</FONT>执行<FONT color=#a82424>荒漠风暴</FONT>作战计划。<br>我为了阻止这个计划，正在这一带进行调查。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（泰努阿尔不也是钢铁兄弟团的圣地吗？它的准确位置被埋藏在历史中，几乎没有人知道那个地方……虽然不能确定……但如果柯梅里纳的话是事实的话，那不是要出大事了吗？！！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的，柯梅里纳！<br>反正我也要去找凯伊，就顺便帮帮你吧！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "真的吗，<FONT color=#387206>{user_nick}</FONT>！<br>你不仅相信我的话，还愿意帮助我……真是太感谢了！",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "那么，<FONT color=#387206>{user_nick}</FONT>，请你去<FONT color=#a82424>狂人研究所一带</FONT>调查一下。<br>如果发现什么异常的地方，麻烦你再告诉我，谢谢。",
+      "answer": "",
+      "image": "qw_70.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "那么，我们调查结束后再见吧。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "这个机器……在运转吗？<br><FONT color=#7e12d2>（结束搜索的柯梅里纳出现了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，柯梅里纳，你来啦！<br>刚才我朋友在摸这个机器，你知道这是做什么的吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "这个……嗯……嗯……<FONT color=#7e12d2>（柯梅里纳结结巴巴地说着）</FONT><br>我知道这是什么，但很难简单地向你解释……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那就这样吧！<br>我来提问，你来回答，怎么样？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "…………在我可以说的范围内，我会尽力回答你的问题。<br><FONT color=#7e12d2>（不知为何表情很悲伤）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那么，这个机器上浮在这里的标志是什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "这是往其他地方发送信号的装置。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>信号？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "是的。这个地区的机器都是配对的，启动这个机器的话，这里的数据信号就会被传送到另一个地方。根据是单纯地传递信号，还是传送情报，将情报转换为电子信号的形态，转换后的信号……<FONT color=#7e12d2>（全是</FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#7e12d2>听不懂的话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>噢……都好复杂啊。<br>总之，如果我找到的机器能对柯梅里纳有帮助就好了！<br>我要先去把看到凯伊的事情告诉埃提亚。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "谢谢你。为了继续调查和这个机器配对的机器，我得去<FONT color=#a82424>伊戴尔基地</FONT>看看。",
+      "answer": "",
+      "image": "qw_71.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "凯伊哥哥出现后又消失了……？",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "……他究竟想玩捉迷藏玩到什么时候啊……<br><FONT color=#7e12d2>（埃提亚咬紧了嘴唇）</FONT>",
+      "answer": ""
+    }
+  ]
+}

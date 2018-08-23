@@ -1,0 +1,130 @@
+{
+  "qkname": "岌岌可危的情况",
+  "data": [
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br><FONT color=#7e12d2>▷去王城和将军道格拉斯对话。</FONT>",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……<br><FONT color=#7e12d2>（贝思柯德包裹着伤口，闭着眼睛）</FONT>",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……<br><FONT color=#7e12d2>（贝思柯德包裹着伤口，闭着眼睛）</FONT>",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "事情的进展如何？你找到贝思柯德的所在地了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "呼……总之，由于战争的影响，黑山山角的污染加重，为此我很担心。<br><FONT color=#7e12d2>（请前往枯竭的玛丽莎泉，寻找坠落的黑龙的痕迹）</FONT>",
+      "answer": "",
+      "image": "qw_35.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_05.ogg}<br>啊，从地势上来看，你认为<FONT color=#a82424>枯竭的玛丽莎泉</FONT>那里或许会留有黑龙的痕迹啊？<br>想法不错，你去那里确认下吧！",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……<br><FONT color=#7e12d2>（贝思柯德包裹着伤口，闭着眼睛）</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……呼。<br><FONT color=#7e12d2>（贝思柯德闭着眼，他的伤口已经包裹好）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……是你这个家伙啊。<br>哼，我故意隐匿了自己的行踪，没想到被你这个小鬼发现了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你的身体还好吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……看见我没死，你觉得很可惜？<br>由于金龙未发挥所有的实力，所以你也看到啦，我安然无恙。",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不是那么想的……</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "不过我还是受伤了。<br>短期内，我无法再变成龙的模样了。<br><FONT color=#7e12d2>（贝思柯德的身体看起来很不适）</FONT>",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我们先离开这里吧。</FONT>",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "呼……总之，由于战争的影响，黑山山角的污染加重，为此我很担心。<br><FONT color=#7e12d2>（请前往枯竭的玛丽莎泉，寻找坠落的黑龙的痕迹）</FONT>",
+      "answer": "",
+      "image": "qw_35.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……。<br>我打算前往<FONT color=#a82424>黑山山角</FONT>方向。<br><FONT color=#7e12d2>※必须要找到黑山山角的隐藏的洞穴。</FONT>",
+      "answer": "",
+      "image": "qw_skirtofblackmountain.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "哼……真是个奇怪的小鬼。<br>你为什么一直追踪我？<FONT color=#a82424>那些古代龙</FONT>追踪者就已经够我烦的了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>古代龙？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "杰兰特和阿尔杰塔。那些令人费解的<FONT color=#a82424>龙</FONT>。<br>比起他们，我只是平凡的人类。<br>……只要想要报仇，就热血沸腾的普通人。",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……你离开吧。等到我自己能行动时，我就离开。<br><FONT color=#7e12d2>（贝思柯德闭上双眼，似乎不想再继续对话）</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（去向姐姐报告吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

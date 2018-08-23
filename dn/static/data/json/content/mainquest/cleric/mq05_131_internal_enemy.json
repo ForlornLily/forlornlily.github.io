@@ -1,0 +1,104 @@
+{
+  "qkname": "内部的敌人",
+  "data": [
+    {
+      "npc": "牧师托马斯",
+      "question": "秘传之球找到了！哈哈！<br>真是辛苦你了。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "秘传之球由我交给<FONT color=#a82424>辛西亚</FONT>。<br>\n虽然找回了秘传之球，很可惜没能活捉<FONT color=#a82424>龙之追随者</FONT>。",
+      "answer": "",
+      "image": "qn_dragonsycophant.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "<FONT color=#7e12d2>（牧师杰克在出神地想着什么）</FONT>",
+      "answer": "",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "\n你应该是值得相信的。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "本应该通过那家伙追问出 <FONT color=#a82424>贤者法杖</FONT>的下落的……<br>\n就没有什么痕迹留下来吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>很遗憾，什么都没有发现。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "\n你师兄已经跟过去了，说不定会发现什么。<br>\n听听杰克怎么说吧？",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "你愿意去吗？<br>\n前往融解森林去见见<FONT color=#a82424>杰克 </FONT>。",
+      "answer": "",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "听说秘传之球已经找到了。<br>你这家伙，还真了不起。<br>对了，听<FONT color=#a82424>赛德瑞</FONT>说你在找我，有什么事吗？",
+      "answer": "",
+      "image": "qn_npc_cl_fallen_cedric.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "\n嗯？你想在<FONT color=#a82424>寂静修道院回廊</FONT><FONT color=#2b2723>找找有没有留下痕迹？</FONT><br>你好像没有去的必要了。<br>\n很遗憾，我没有再发现任何龙之追随者的痕迹。",
+      "answer": "",
+      "image": "qn_dragonsycophant.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "不过最好还是确认一下。<br>\n我会下令重新调查一遍<FONT color=#a82424>寂静修道院回廊</FONT>的。<br>你先到<FONT color=#a82424>托马斯</FONT> 团长……嗯？",
+      "answer": "",
+      "image": "qn_dragonsycophant.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "\n那不是魔法师塔拉吗？<br>\n看来是出什么事了。<br>\n<FONT color=#7e12d2>（杰克指着塔拉的方向）</FONT>",
+      "answer": "",
+      "image": "qn_soceresstara.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "\n最好问问<FONT color=#a82424>魔法师塔拉</FONT>出了什么事。",
+      "answer": "",
+      "image": "qn_soceresstara.png"
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "该死……那帮<FONT color=#a82424>龙之追随者</FONT>……呃！！<br>\n现在魔法师塔拉正在追踪那帮家伙的痕迹。<br>\n她去了融解森林，你也一起去吧。",
+      "answer": "",
+      "image": "qn_soceresstara.png"
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "\n大，大事不好了！<br>\n那帮可恶的龙之追随者躲到村子里，把秘传之球偷走了。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "\n跟着印在雪地上的脚印一路走来，看到一直延续到那边<FONT color=#a82424>霜风峡谷入口</FONT>附近，一定是跑到那边去了。<br>\n不过……好像不是霜风峡谷。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "\n说不定是跑到<FONT color=#a82424>霜风森林</FONT>里面去了呢？<br>\n<FONT color=#7e12d2>（塔拉留心观察着四周）</FONT>",
+      "answer": ""
+    }
+  ]
+}

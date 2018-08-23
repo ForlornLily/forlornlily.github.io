@@ -1,0 +1,121 @@
+{
+  "qkname": "偶然的契机",
+  "data": [
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "这次一定……就是这一次……！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>有什么事吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "啊，是你啊。<br>实际上，几天前我得到了一条十分有用的情报！",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "这次那个叫什么K博士的人不是把事情闹得沸沸扬扬嘛？<br>听说由于这个原因，那个老头之前居住的<FONT color=#a82424>奇迹祭坛保护区</FONT>的开发限制被解除了。",
+      "answer": "",
+      "image": "qw_69.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "如果限制解除，开始开发……那全国的房地产开发商都会涌到这里……<br>所以我们要抢先下手，然后再抛售！",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "不过传闻只是传闻，所以最好亲眼去看看，判断一下那块地的价值。<br>都说要摸着石头过河，不是吗？",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "所以，你赶紧去看一下那块地。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "我可是很忙的。<br>我又不像首都神圣天堂的魔法师那么无聊。<br>\n呵呵～那就拜托你了。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "快去吧。<br><FONT color=#a82424>奇迹祭坛保护区</FONT>可以通过利物沃特码头到达。",
+      "answer": "",
+      "image": "qw_69.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这……难道是学者柯梅里纳！？怎么回事？<br>没有呼吸……难道是死了吗……？</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>咦，等等……好像和柯梅里纳有点不同……嗯，不是过去见过的……那……那个家伙吗？<br>脸长得太像，搞不清到底是不是。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_normal.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……具体不知道是谁，去告诉斯泰拉发现了一具身份不明的尸体吧。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(这里到底发生了什么事？为什么会有尸体……最好找个人问一下。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "嗯，怎么样？<br><FONT color=#7e12d2>（斯泰拉满怀期待的问道）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "……… 你说什么？",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "尸体？",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "………。<br><FONT color=#7e12d2>（斯泰拉的表情变得很难看）</FONT>",
+      "answer": "",
+      "image": "qn_npc_soceressstella.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "不吉利……。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "魔力悄悄的告诉了我……<br>那块地不吉利！",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "呜呼，不行。<br>就算再贪图钱财，也不能卷入这种毫无意义的事情中。<br>那块地还是就那么放着吧。<br><FONT color=#7e12d2>（斯泰拉叹了口气。看上去还留有眷恋。）</FONT>",
+      "answer": "",
+      "image": "qn_npc_soceressstella.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "NT><FONT color=#662500><br>(总之先回到斯泰拉那里去吧……)</FONT>",
+      "answer": "",
+      "image": "qn_npc_soceressstella.png"
+    }
+  ]
+}

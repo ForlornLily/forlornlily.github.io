@@ -1,0 +1,130 @@
+{
+  "qkname": "无法阻挡",
+  "data": [
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "……你是什么人？<br>\n快滚开，人类！",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "从<FONT color=#a82424>埃雷娜</FONT>的命令书上来看，她打算在凯德拉关卡散播毒性物质。<br>嗯……看来我得动员其他的冒险家公会成员才行。没想到事态如此严重。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "ionRefusal}<br>实际上，在你去找特里亚纳期间，<FONT color=#a82424>伊桑</FONT>和<FONT color=#a82424>安杰利卡</FONT>发现了污染物质被转移的地方。",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "他们俩与其他冒险家公会成员一同前往了<FONT color=#a82424>不归之路</FONT>附近进行巡查，我收到报告，他们在那里发现了类似埃雷娜的红衣黑暗精灵。",
+      "answer": "",
+      "image": "qw_23.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>埃雷娜出现在那个地方……？确定吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "实际上我收到报告时，还没有确认那个人就是埃雷娜。<br>但通过查看你带来的命令书，现在这件事已毋庸置疑。<br><FONT color=#a82424>不归之路</FONT>不仅距离凯德拉关卡十分近，而且那里是块高地，非常适合散播污染物质。",
+      "answer": "",
+      "image": "qw_23.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "安杰利卡知道具体的场所，但她不知去了那里，一直不出现。嗯嗯……<br>\n你要不要在这里等一会儿？<br>\n <br>\n<FONT color=#7e12d2>* 达到20级以后才能进行下一阶段的任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "……你是什么人？<br>快滚开，人类小孩。",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "\n看来我得抓紧派冒险家前往<FONT color=#a82424>不归之路</FONT>。<br>\n事情紧急，要不你先前往那里吧？<br>\n就算你不能阻止埃雷娜也没关系，你只要尽量拖延时间就行了。",
+      "answer": "",
+      "image": "qw_23.png"
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "胡言乱语的小鬼。<br>你又想来烦我啦？<br>我不会放过你第二次。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>不要再做坏事了，埃雷娜。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "ionStand2}<br>你又想胡说些什么？<br>既然你能说出泰雷珠的名字，应该对我们黑暗精灵有些了解吧？与<FONT color=#a82424>故作高尚优雅的精灵</FONT>不同，我们黑暗精灵生活得非常悲惨！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>但就算你欺负人类，黑暗精灵的处境也不会有任何改变！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "哼！我要向人类<FONT color=#a82424>报仇</FONT>，然后去找到<FONT color=#a82424>先知</FONT>。<br>这是我唯一的目标。你不要妨碍我，快滚开！",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "……不要烦我。<br>人类。",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "你来啦。<br>我已经从<FONT color=#a82424>伊桑</FONT>那里听说了。",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>很抱歉。我虽然见到了埃雷娜，但没能阻止她……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "\n这不怪你，你无须自责。<br>\n虽然她播撒了部分污染物质，但<FONT color=#a82424>埃雷娜</FONT>也没有什么好下场。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>嗯……？你说埃雷娜没有好下场……？</FONT>",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "ionRefusal}<br>\n看来你没有见到<FONT color=#a82424>埃雷娜</FONT>临死时的模样啊？<br>\n根据伊桑的报告，埃雷娜在散播污染物质时，部分污染污染飞向了埃雷娜自己。最终，埃雷娜全身被污染物质覆盖，伴随着她的悲鸣声，她落入了悬崖。<br>\n ",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>啊……（埃雷娜……最终……）</FONT>",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "\n我们没有找到埃雷娜的尸体，所以还不能确认此事，但她被污染物质包围，还落入了悬崖，不可能安然无恙的。<br>\n呼……话说，该怎么处理那些污染物质呢，真是让人为难。<br>\n凯德拉再次陷入了危机之中……<br><FONT color=#7e12d2>（戴卡德叹了口气）</FONT>",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

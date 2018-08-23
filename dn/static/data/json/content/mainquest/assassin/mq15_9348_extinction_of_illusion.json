@@ -1,0 +1,141 @@
+{
+  "qkname": "幻象的消失",
+  "data": [
+    {
+      "npc": "暗影喵",
+      "question": "喵？你又变回善良的徒弟了吗喵？！！<br>欢迎你喵！欢迎！欢迎喵！欢！喵！……嗯？奇怪喵？",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "你到龙之追随者据点来有什么事吗喵？<br>不管是什么事情，希望你能打起精神喵。加油喵！",
+      "answer": "",
+      "image": "qw_54.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "那个男人往<FONT color=#a82424>龙之追随者据点</FONT> 那边跑去了。<br>应该是那边。",
+      "answer": "",
+      "image": "qw_54.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(幻象一定是从我体内分离出来了。<br>他跑到那里去，一定是因为露娜莉娅在那里。)</FONT>",
+      "answer": "",
+      "image": "qw_54.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你的选择就是你的命运。",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "愚蠢的家伙。",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "我说过好几遍了。我就是你。<br>我是未来的你。经过了挣扎和徘徊，才终于明白属于自己的道路的，更加完善的你。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>完不完善不是由你来决定的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "那个女人是在骗你，我已经说过了。<br>我警告过你好几次。",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "我也被骗了。<br>当我明白应该放手的时候，一切全都消失在了时间的河流之中。<br>当我知道必须放手的时候，我才明白一开始就不应该抓住。",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "就像那个女人说的那样，我们无法让时间回归。<br>……我们？我刚才说我们了吗？就像兄弟一样。就像一棵树上长出的几根愚蠢的树脂一样。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不知道你在说什么。<br>露娜莉娅为什么要骗我？带着她出现在我面前的人不是你吗！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "呵呵呵……你已经成功地把我完全清除了，相信你很快就会知道。<br>那一天终究会到来，你放不开手的那一天……",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "喂，露娜莉娅。<br>你从一开始就选择错了。一开始就抓错了东西。<br>我放不开你，你也……被骗了……",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "你是在……欺骗你自己……！<br>露娜莉娅……！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……幻象？！</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "<FONT color=#7e12d2>(幻象的形象变得透明，完全地消失在了{user_nick}的体内。<br>再也听不见他的说话声了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "这次……是谁呢？<br>幻象？还是……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>还是？<br>我是我，露娜莉娅。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "…….<br>是的，你是你。你的选择就是你的命运。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#387206>{user_nick}，</FONT>真的是你啊。<br><FONT color=#7e12d2>(露娜莉娅微笑了一下)</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "现在你只能继续活下去。<br>因为你就是你，不是任何人，站在这里的就是你自己。",
+      "answer": ""
+    }
+  ]
+}

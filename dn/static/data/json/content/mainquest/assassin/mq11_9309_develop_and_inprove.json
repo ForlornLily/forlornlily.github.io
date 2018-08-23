@@ -1,0 +1,103 @@
+{
+  "qkname": "开发和改善",
+  "data": [
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "我会按照上面的记录，试着制作古代祭司长的符文。<br>把符文碎片给我吧。",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "嗯……<FONT color=#7e12d2>(斯塔西聚精会神地看着)</FONT><br>不过要想用这个碎片组合成古代祭司长的符文，还需要一样东西。你带来了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "还需要下游淹没地的强大怪物<FONT color=#a82424>{monster951}</FONT>的纹章。<br>虽然不知道具体的作用，但听说它可以让制作好的古代祭司长的符文变形，并固定在什么地方。最好按照古代的方法去做。",
+      "answer": "",
+      "image": "qw_34.png"
+    },
+    {
+      "npc": "暗影喵",
+      "question": "我的徒弟，过得还好吗喵？<br>如果想学什么东西，就来找我喵！",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "好了，你快到<FONT color=#a82424>下游淹没地</FONT>去搜集女妖族长鲁兹卡的纹章。<br>我会事先做好准备，在这里等着你。",
+      "answer": "",
+      "image": "qw_34.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "古代祭司长的符文差不多完成了。<br>请把东西给我，我来把它固定下来。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>固定？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "啊～现在的形态不适合带在身上。<br>必须把它注入到方便携带的东西中才行。",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "好了，暂时处理好了。<br>现在你带着这个纹章，去想想有没有更好的办法吧。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "你……<br>\n<FONT color=#7e12d2>(斯塔西上下打量了我一下)</FONT><br>我在附近看见了和你穿着一样衣服的人，他是不是可以帮你呢？",
+      "answer": "",
+      "image": "qn_npc_shadow_meow.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(嗯……？是说去找暗影喵吗？<br>虽然不太乐意，但最好还是去看看。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_shadow_meow.png"
+    },
+    {
+      "npc": "暗影喵",
+      "question": "咦！！！徒弟终于来找师父帮忙了吗喵？！<br>我这个做师父的，激动得眼泪都要流下来了喵……喵喵……！<br><FONT color=#7e12d2>(暗影喵用胖乎乎的爪子擦了擦眼角)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "你来找我的目的，我大概知道了喵。<br>把那个纹章给我看看喵！",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "暗影喵",
+      "question": "喵喵喵～呼噜噜呼噜噜～喵喵～<br><FONT color=#7e12d2>(暗影喵看了一眼纹章)<br></FONT>啊哈！知道了喵。只要这样镶上去就行了喵。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "暗影喵",
+      "question": "希望你能好好使用喵！工具的效果全都由使用者决定喵。<br>因为工具的力量永远无法超越使用者的力量喵。",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "看到徒弟成长得这么快，我感到很欣慰喵。我这个老师会在这里努力地吃鲣鱼脯，希望徒弟你继续努力喵。你不是还有事情要做吗喵？",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(啊，对了，战士西恩现在在哪儿呢？<br>是到黑龙巢穴去追踪黑骑士了吗？)</FONT>",
+      "answer": "",
+      "image": "qw_36.png"
+    }
+  ]
+}

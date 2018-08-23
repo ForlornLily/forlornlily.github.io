@@ -1,0 +1,160 @@
+{
+  "qkname": "负伤的埃雷娜 ",
+  "data": [
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "<FONT color=#387206>{user_nick}</FONT>！！！我好像看到你的师父去了灰色废墟啊？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>所以呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "所以说……难道他不是去见你的吗？<br><FONT color=#7e12d2（去灰色废墟吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_shaolong.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "夏洛特把埃雷娜的小精灵设备全都破坏掉了。哈哈哈哈<br><FONT color=#387206>{user_nick}</FONT>，正确的做法就是这样。<br>你不要被埃雷娜的话所迷惑，像夏洛特一样帮帮阿尔杰塔大人吧。 ",
+      "answer": "",
+      "image": "qn_npc_lencea.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（本来打算用小精灵装置把小妖精恢复原状的！……） <br>夏洛特那笨蛋在哪儿？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "夏洛特",
+      "question": "嗬嗬……我把所有的东西都毁了……嗬嗬……",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "呃……呃……<br><FONT color=#7e12d2>（似乎受了很重的伤，无法动弹）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "\n你为什么会在这里？你不应该在<FONT color=#a82424>灰色废墟</FONT>吗？<br>"
+    },
+    {
+      "npc": "小龙",
+      "question": "昂，似乎在<FONT color=#a82424>不归之路</FONT>上，还没回来啊。<br>你见过了夏洛特吗？嗯，你要小心，不要让阿尔杰塔大人听到关于龙之追随者的事情。 ",
+      "answer": "",
+      "image": "qw_23.png"
+    },
+    {
+      "npc": "夏洛特",
+      "question": "呵呵……<FONT color=#387206>{user_nick}</FONT>？呜哇哇哇哇<br><FONT color=#7e12d2>（被夏洛特一把抱住了）</FONT> ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你干……干嘛这样！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "夏洛特",
+      "question": "据阿尔杰塔大人所说，小精灵制造装置都能毁掉的……<br>但是……但是……呜呜呜呜",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你别哭了，好好解释一下！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "夏洛特",
+      "question": "埃雷娜自己制造出来的毒涌了出来，打倒了埃雷娜倒是好事……但是……嗬……然后一不小心……毒就扩散了…… <br>嗬嗬……凯德拉关卡完蛋了！就因为夏洛特我都要完蛋了！",
+      "answer": ""
+    },
+    {
+      "npc": "夏洛特",
+      "question": "我……我是为了正义为战的！！！怎么会变成这样……呜呜呜呜。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>别哭了！</FONT><br>\n<FONT color=#662500>我都说了不想看你哭哭啼啼的样子！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "夏洛特",
+      "question": "呜……呜……呜<FONT color=#7e12d2>（夏洛特像是为了不再哭，把嘴堵上了）</FONT><br><FONT color=#387206>{user_nick}</FONT> 没……没错。有时间哭的话，还不如为了正义而行动。<br>埃……埃提亚很聪明，说不定会知道净化毒的方法！问问埃提亚…… ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>说不定能行。因为你妹妹很聪明嘛。<br>但是埃雷娜怎么样了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "\n搜集凯德拉关卡情报的事就交给我来做吧！你做好你的事就行。怎么样？我是很可靠的！"
+    },
+    {
+      "npc": "夏洛特",
+      "question": "不知道埃雷娜是不是因为毒的原因意识不清，掉下了悬崖。掉落到不归之路不会死吗？哧溜……<br>我去找找净化的方法。 <FONT color=#7e12d2>（夏洛特抽噎着去了凯德拉关卡）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "呃呃……<FONT color=#387206>{user_nick}</FONT>……别过来！要是靠近的话……你，你也会被污染的……",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "ndnpc_Ellena_9586_qu_01.ogg}<br>你是想给我用我送你的那种药吗……咳咳！没，没用的。<br>那种药只对你……咳……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那么现在怎么办！ </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "ndnpc_Ellena_9586_qu_02.ogg}<br>呃……额……再做什么努力都是无谓的挣扎，我只能是……等死了。咳！<br>呃……呼，我，我的毒，实在……实在是太强了……就连我这个黑暗精灵也抵抗不了。<br>身为剧毒女王的我，呵呵……是不是很可笑呢？",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "ndnpc_Ellena_9586_qu_03.ogg}<br>我死……死去之时，就是宣告佩达交给我的任务失败之时。<br>呵呵，谢……谢谢你……陪我度过了生命的最后一刻。 ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你死了我的手臂怎么办！你不是说要救我们村的村民嘛。<br>对了！ 夏洛特说要去找净化的方法。<br>说不定……也有可以救你的方法！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗精灵埃雷娜",
+      "question": "净化方法……？ ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我一定会治好你的，所以在这等着。 <br>我要在夏洛特找到前行动才行……先问问小龙知不知道什么线索……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，出大事了！夏洛特和埃雷娜打了一架，结果现在凯德拉关卡要被污染了。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "我们现在也在这里，不能什么都不做啊！",
+      "answer": ""
+    }
+  ]
+}

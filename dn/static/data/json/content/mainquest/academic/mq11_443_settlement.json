@@ -1,0 +1,368 @@
+{
+  "qkname": "告一段落",
+  "data": [
+    {
+      "npc": "国王卡西乌斯",
+      "question": "你救出了先知，立下了大功。朕……朕非常吃惊。但是先知……原来只是个农村少女。真让人失望。不来向朕行礼，光顾着睡觉，真让人失望……哼。",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "因为先知闹成这个样子，不就是个光顾着睡觉的女孩吗？因为这点小事就闹成这样？哼……连路都走不了的先知，又有什么用？",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "那个据说是先知的女孩子，还在睡觉吗？真是个懒虫……呵呵。<br>\n我就知道会这样！我就知道嘴上说得好听，其实没什么用处！"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "我听说了，先知……怎么没带到这里来？<br>\n什么？在杰兰特手上？<br><FONT color=#7e12d2>（应该到王城秘密地区去见见杰兰特）</FONT>",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "如果你仔细听了杰兰特的话，就应该知道怎么做。<br>为什么又来问我？",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "杰兰特……<br>\n那个笨蛋……！",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……我想说的都已经说完了。<br><FONT color=#7e12d2>（伤势好像很重，表情很痛苦）</FONT>"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……<br><FONT color=#7e12d2>（杰兰特闭上了眼睛，静静地陷入了沉思）</FONT>"
+    },
+    {
+      "npc": "萝丝",
+      "question": "……<br><FONT color=#7e12d2>（好像什么都没听到。手没办法碰到她）</FONT>"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "出人意料的事情太多了，我都快忙不过来了。<br>\n呼……"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "嗯……我听说我们好不容易救出的先知始终沉睡不醒。<br>\n到底问题出在哪里？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也不清楚。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "我们已经尽了全力，如何处理先知的问题就交给国王吧。<br>\n总之，辛苦你了。<br><FONT color=#7e12d2>（必须前往王城地下秘密区域，去见杰兰特）</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "快去<FONT color=#a82424>神圣天堂的王城地下</FONT>。<br>你将这个带在身上，就能顺利通过了。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这是什么啊？</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "这是约定之证据。只要拥有这个，就能进入地下秘密区域了。<br>只要我的肉体不消失，这个也不会消失的。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你要是好好听过<FONT color=#a82424>杰兰特</FONT>说的话，就应该知道你该做什么了啊？<br>干吗还要来问我？",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "你救出了先知，立下了大功。朕……朕非常吃惊。但是先知……原来只是个农村少女。真让人失望。不来向朕行礼，光顾着睡觉，真让人失望……哼。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "那个闹得沸沸扬扬的先知，原来是个只知道睡觉的小女孩？为什么要为一个小女孩闹成这样？！<br>哼…… 自己都无法行走的先知，能有什么用。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "听说被称为先知的小女孩，只知道睡觉？懒鬼……<br>呼，我就知道会是这样！我早就知道那个什么先知没有用处了！",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "我收到了消息。为什么没将……先知带到这个地方？<br>什么？！先知在杰兰特那里？<br><FONT color=#7e12d2>（必须前往王城地下秘密区域，去见杰兰特）</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "…….<br><FONT color=#7e12d2>（好像睡着了。手无法触碰她）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "最近发生了太多意想不到的事情，我都快忙死了。哎……<br>啊，你和<FONT color=#a82424>杰兰特</FONT>谈过了吗？",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……杰兰特那家伙，总是做些没意义的事情！<br><FONT color=#7e12d2>（阿尔杰塔嘟囔着，望向杰兰特。）</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "古代人的后裔目前就在我的<FONT color=#a82424>巢穴</FONT>中央。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你将这边变成巢穴了啊。</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "没错。巢穴的中央是圣域。除了巢穴主人之外，其他人都无法靠近那里。<br>如果想保护古代人的后裔，这么做是做好的选择了。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（居然为了先知，如此煞费苦心）</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我的伤势还没有完全恢复，我准备暂时待在这个地方。<br>不过，<FONT color=#a82424>阿尔杰塔</FONT>好像打算离开。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "如果想完全破坏巢穴，就必须要消灭巢穴主人。<br>就算结界减弱，并有入侵者出现，我也有力量阻止他们，你尽管放心吧。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "嗯……<br>但<FONT color=#a82424>阿尔杰塔</FONT>要去什么地方呢？",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "杰兰特这家伙，总做这些没用的事情。<br>自讨苦吃的方法还真多啊？<br>\n<FONT color=#7e12d2>（阿尔杰塔嘟囔着）</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "那个傻瓜，自己也受伤了，还要在这里守护那个古代人的后裔。<br>只要吃了古代人，他的伤势应该能立刻复原。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不能吃！（干脆交给我好了）</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "不吃不吃。我认为直接吃了先知比较好，但那家伙还是选择守护先知。我也无话可说了。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（但你的表情还是那么柔和）</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "那家伙从什么时候开始随便相信别人了。<br>除了杰兰特之外，我不相信任何人。<br>之前有一次，我们几乎都要完成的事情却被信任给毁了。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你是指100年……不，50年前的那件事？</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "嗯，那时我和杰兰特为了消灭<FONT color=#a82424>黑龙卡拉斯</FONT>，来到了这神圣天堂。当时我认为只要有我们俩就足够了，但杰兰特却不这么认为。<br>所以我们召集了同伴。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你是指六大英雄？</FONT>",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "管他什么六大英雄还是十大英雄！除了那几个家伙之外，他们还带来了一大帮人，足有数百名。<br>什么魔法师团、弓箭手团。啊，烦死了。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "当时，我们几乎压制了黑龙。当黑龙的宝玉暴露在世人面前时，我和杰兰特想毁掉宝玉。不过，贝思柯德却将宝玉抢走了。",
+      "answer": "",
+      "image": "qn_knight_velskud_silhouette.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "贝思柯德带着宝玉消失了。起初他参与战斗的目的就是抢走宝玉。<br>我们勉强击退了黑龙，但我们的损失也很惨重。我和杰兰特都受伤了，只能隐藏了自己的行踪。<br>\n<FONT color=#7e12d2>（阿尔杰塔皱着眉）</FONT>",
+      "answer": "",
+      "image": "qn_knight_velskud_silhouette.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "呃……总之，我没心情玩这种守护者游戏了。<br>现在我在这里也无事可做。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你要去哪里？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我要去见<FONT color=#a82424>卡拉秋</FONT>。<br>虽然我也受伤了，但我必须想办法帮助杰兰特恢复。",
+      "answer": "",
+      "image": "qn_npc_karakule_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（六大英雄中的卡拉秋？）</FONT>",
+      "answer": "",
+      "image": "qn_npc_karakule_silhouette.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "总之，我要前往莲花沼泽。烦人的小鬼，你就和<FONT color=#a82424>其他小孩</FONT>好好玩吧。<br>再见。<br><FONT color=#7e12d2>（阿尔杰塔头也不会地走掉了）</FONT>",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "总之，我要前往莲花沼泽。烦人的小鬼，你就和<FONT color=#a82424>其他小孩</FONT>好好玩吧。\n再见。<br><FONT color=#7e12d2>（阿尔杰塔头也不会地走掉了）</FONT>",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "杰兰特居然是金龙……最近发生了太多大事，我已经晕头转向了。<FONT color=#a82424>伊桑</FONT>和<FONT color=#a82424>安杰利卡</FONT>也是那样。<FONT color=#a82424>特里亚纳</FONT>……嗯，我不太清楚精灵的心情。<br>\n<FONT color=#7e12d2>（西恩闹着头）</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "不过，<FONT color=#387206>{user_nick}</FONT>，你真是冷静，这让我着实有些吃惊。<br>说实话，我吓得差点晕过去。<br>当时金龙突然出现在我的眼前，啊！！！呃啊！",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>因为我来自未来。</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊！你好像之前跟我那么说过……啊，那样的话……<br><FONT color=#7e12d2>（西恩小心翼翼地走过来）<br></FONT><FONT color=#387206>{user_nick}</FONT> ，你是不是知道未来发生的所有事情？我的未来是什么样的？你知道吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我并不知道所有的事情。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "真是可惜。<FONT color=#7e12d2>（西恩好像有些失望）<br></FONT>……不过，黑龙卡拉斯不是在50年前被巴尔纳和其他英雄消灭了吗？",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "那这次出现的黑龙究竟是怎么回事啊？我刚刚好像听到阿尔杰塔说，<FONT color=#a82424>黑骑士</FONT>带着黑龙的宝玉逃跑了。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个……（向他说明自己所知道的情况）</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "嗯~？！也就是说……黑骑士打算利用古代人的后裔…… <FONT color=#a82424>萝丝</FONT>的力量，变成<FONT color=#a82424>完整的黑龙</FONT>？呃……虽然他拥有黑龙的宝玉，但他的身体本是人类的身体，所以需要古代人的力量……！！",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "呃……如你所见，萝丝只是个平凡且柔弱的少女。黑骑士居然绑架了那种少女，使其精疲力竭，还有比这更邪恶的事情吗？黑骑士为什么会变成这样。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他不是坏人！！</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊，吓我一跳！你干嘛喊那么大声？<br><FONT color=#387206>{user_nick}</FONT>，你不是为了打算消灭黑骑士，才跟着我们到战场来的吗？",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是的，我想救先知……</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "嗯~ 为了<FONT color=#a82424>救出先知——萝丝</FONT>！！我们的目的是一样的，不是吗？<FONT color=#7e12d2> （西恩爽朗地笑着）</FONT><br>嘿嘿，我们都是正义的人。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "<FONT color=#662500>（不是那样的……）</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

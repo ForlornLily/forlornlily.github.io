@@ -1,0 +1,240 @@
+{
+  "qkname": "俊美男子",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>果然如此……诺尔佩真的没猜错……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "嗯？诺尔佩说了什么？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他说虽然不敢肯定，但那人应该不是敌人。<br>如果这药草一旦被确认是解毒草，那我们大可放心继续调查。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "嗯……被人尾随确实让人忌讳，但只要不是敌人，当然没必要继续浪费时间。<br>知道了。好，那先吃了这解毒草吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哎，你让我直接吃了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "别耍小孩子脾气！<br>直接嚼了吧！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃呃……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（昏沉的脑袋清醒了不少。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "好！那继续寻找治愈之杯的线索吧！",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我们继续前往卡伊伦岛的<FONT color=#a82424>幻影森林</FONT>吧！",
+      "answer": "",
+      "image": "qw_127.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "格雷尔那家伙好像有点不对劲？",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "呼哧……呼哧……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格雷尔？你还好吧？刚刚呼吸就很急促……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "没、没事！我很好！可能是战斗累了，所以有些气喘吁吁。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "所以说带着小孩子就是操心……<br>格雷尔，不要为了配合我们而逞强。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（不会是诺尔佩的药失效了吧？格雷尔的状态有些不好……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "他都说没事了，如果继续追问，这小子会伤自尊的。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "我没事，咱们快出发吧。",
+      "answer": ""
+    },
+    {
+      "npc": "神秘女人",
+      "question": "刚刚真的很危险。<br>方才那家伙就是海岛的主人海兰德尔。",
+      "answer": ""
+    },
+    {
+      "npc": "神秘女人",
+      "question": "如果我晚来一步，你们就变成那家伙宠物的晚餐了。<br>幸亏出现了拥有强大气息的查尔德，我才能出手相救。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（女人连珠炮似的说了一大堆，一头雾水的</FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#662500>结巴地问道。）<br>那个……你是哪位……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "神秘女人",
+      "question": "ndnpc_Salica_9788_qu_01.ogg}<br>我？嗯……先前跟着你们的就是我啊。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "啊！！！！你就是那个！！！！！",
+      "answer": ""
+    },
+    {
+      "npc": "神秘女人",
+      "question": "<FONT color=#7e12d2>（女人看了看杰兰特和格雷尔，对玩家说道。）</FONT><br>一个精力爆棚，一个死气沉沉？你带着这两个小鬼一定累坏了吧？ ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哈哈……还好……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你说谁是小鬼？！！",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "我不是小鬼……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可你为什么帮我们？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "神秘女人",
+      "question": "ndnpc_Salica_9788_qu_02.ogg}<br>非得有什么理由吗？不过是互帮互助罢了。<br>我保护你们，是为了看看你们到底有多强。两个小鬼，加上一个冒险家，没想到这个组合竟这么强大？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（一条龙，一个查尔德，一个拥有龙族宝玉的人类，没必要定义这么严格吧……？) </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "神秘女人",
+      "question": "ndnpc_Salica_9788_qu_03.ogg}<br>在你们到底海岛之前，我已经瞒着海兰德尔的耳目，在这里调查好久了。<br>说不定，我比你们更了解这座海岛呢？",
+      "answer": ""
+    },
+    {
+      "npc": "神秘女人",
+      "question": "虽然不知道你们来岛的目的，但想必一定需要知情人的帮助，没错吧？<br>如果需要的话，就来废弃码头找我吧。我会在那等你们。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "这个姐姐真是来无影去无踪……",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "那女人什么来头！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>她是真相想帮我们吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你到现在还没搞明白？那女人尾随我们，是想看看我们到底是草包还是英雄。她一定藏着什鬼主意。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰兰特你想歪了吧？<br>怎么说她也救过我们啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "哼……你别傻乎乎被人家利用了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>还是想去跟诺尔佩商量一下吧。<br>现在很有可能会再撞见海兰德尔……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "神秘女人",
+      "question": "如果需要我帮助的话，就来废弃码头找我吧。我会在那等你们。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我觉得还是不要轻易听信陌生人类的话。尤其是女人！",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "如果我刚刚在海兰德尔面前使出全力，大家就不会遭遇危险……",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "<FONT color=#387206>{user_nick}</FONT>大人，我一直在等你。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（把卡伊伦岛发生的事告诉他。）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "尾随<FONT color=#387206>{user_nick}</FONT>大人一行的原来是个女人。<br>嗯…… 调查卡伊伦岛的女人……",
+      "answer": ""
+    }
+  ]
+}

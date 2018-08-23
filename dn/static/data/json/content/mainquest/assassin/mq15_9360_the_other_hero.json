@@ -1,0 +1,76 @@
+{
+  "qkname": "另一位英雄",
+  "data": [
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "能找到这里来，是因为想把这件事做个了结。<br>\n<FONT color=#7e12d2>（带着看陌生人的冷淡表情看着西戴尔）</FONT>",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "果然……贝思柯德说巴尔纳的状态很奇怪……？<br>我们刚才还在谈论巴尔纳的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我听那位来找我的人说过了。<br><FONT color=#387206>{user_nick}</FONT>，你也过来打个招呼吧。<br><FONT color=#7e12d2>（西戴尔对陌生男子打了个招呼）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "见到你很高兴， <FONT color=#387206>{user_nick}</FONT>。<br>我是女神教团的首领<FONT color=#a82424>泰兰斯·特拉玛依</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>泰兰斯·特拉玛依？<br>六位英雄中的……？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "什么英雄不英雄的，都是玩笑话。<br><FONT color=#7e12d2>(泰兰斯·特拉玛依摆了摆手)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "就像你知道的那样……<br>\n我的老战友巴尔纳正在附近徘徊。<br>准确地说，他是从泰努玛拉来到这里的。",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他到这里来到底是为了什么？</FONT>",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "其实，巴尔纳……<br>已经去世了。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "可悲的是，他就算死了也不得安息，像现在一样被恶势力利用着。<br>我是为了防止他被更加邪恶的势力利用，才跟在他后面的。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "具体的情况，我们稍后再谈。<br><FONT color=#387206>{user_nick}</FONT>，现在我们必须尽快找到他。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>必须先知道他在什么地方才行。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "对此是有解决方法的。<br>慈悲的女神是不会让你遇上没有解决办法的难题的。<br><FONT color=#7e12d2>（阴沉的特拉玛依脸上露出了一丝微笑）</FONT>",
+      "answer": ""
+    }
+  ]
+}

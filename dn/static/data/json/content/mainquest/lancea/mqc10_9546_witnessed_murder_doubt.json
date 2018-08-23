@@ -1,0 +1,83 @@
+{
+  "qkname": "目击杀人事件",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "<FONT color=#7e12d2>（埃提亚的表情看起来非常忧郁）</FONT><br><FONT color=#2b2723>究竟</FONT><FONT color=#a82424> 凯伊</FONT>哥哥去哪里了呢……？<br>啊，感觉好累啊……",
+      "answer": "",
+      "image": "qn_kaye.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9546_qu_01.ogg}<br>最近……<br>我好想回家休息……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……我也不知道该相信什么了……<br>我也没资格说让你加油，埃提亚，对不起……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "那么，姐姐不如你去散下步再回来吧？<br>对不起姐姐，我想自己待一会儿…… <br>姐姐也去转换一下心情吧……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，好主意！<br></FONT><FONT color=#662500>那么……嗯……那我就去奇迹祭坛保护区走走吧！</FONT>",
+      "answer": "",
+      "image": "qw_69.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "是啊……走一走心情应该会变好吧……<br>我也要休息一下……",
+      "answer": ""
+    },
+    {
+      "npc": "可疑的尸体",
+      "question": "<FONT color=#7e12d2>（发现一具已经断气的尸体。好像刚死没多久）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（噢……这具尸体莫非是……</FONT><FONT color=#a82424>柯梅里纳</FONT><FONT color=#662500>？！！</FONT><FONT color=#a82424>凯伊</FONT><FONT color=#662500>杀死了</FONT><FONT color=#a82424>柯梅里纳</FONT><FONT color=#662500>~~？！！）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（啊啊……太可怕了……最好赶紧回去告诉</FONT><FONT color=#a82424>埃提亚</FONT><FONT color=#662500>……）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "……这么快就回来了啊，姐姐？<br>不过，你的脸色好苍白……发生了什么事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>凯伊……凯伊他开始杀人了！！怎么办！！<br>呃啊，这下完了，凯伊变成杀人狂了。我去</FONT><FONT color=#a82424>奇迹祭坛</FONT><FONT color=#662500>的时候，凯伊出现了但很快逃走了，正好</FONT><FONT color=#a82424>柯梅里纳</FONT><FONT color=#662500>的尸体就躺在那里……现在凯伊要被抓走了……嘤嘤……我们家埃提亚下半辈子得去监狱照顾丈夫了……凯伊得去吃牢饭了，可是凯伊那么挑食，该怎么办啊……（然后就开始说外星语了……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9546_qu_02.ogg}<br>……不、不可能，姐姐……<br>你亲眼看到凯伊哥哥攻击她吗……？<br><FONT color=#7e12d2>（埃提亚的声音微微颤抖着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "<FONT color=#a82424>柯梅里纳</FONT>被凯伊哥哥……他怎么可能做这种事！",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "是的……一定是姐姐看错了……",
+      "answer": ""
+    }
+  ]
+}

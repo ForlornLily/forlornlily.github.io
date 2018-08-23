@@ -1,0 +1,418 @@
+{
+  "qkname": "可疑的谣言",
+  "data": [
+    {
+      "npc": "西戴尔",
+      "question": "那个……初次见面就要麻烦你这种事情真不好意思。<br><FONT color=#7e12d2>（西戴尔支支吾吾地开了口）</FONT><br>其实我有一样东西要交给我的朋友…….",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>要转交的东西？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "那个……初次见面就要麻烦你这种事情真不好意思。<br><FONT color=#7e12d2>（西戴尔支支吾吾地开了口）<br></FONT>其实我有样东西要交给我的朋友……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>要转交的东西？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我的朋友非常喜欢用<FONT color=#a82424>丛林蕨菜</FONT>制作的料理，所以今天我原本是打算在回来的路上找点丛林蕨菜的，但是因为老师她叫我，我得赶紧回去，所以……",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是想让我替你去找丛林蕨菜吗？</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "是啊，很不好意思，可以麻烦你帮这个忙吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>需要在哪儿寻找呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "那东西应该会长在<FONT color=#a82424>利物沃特码头</FONT>周围比较潮湿的地方。<br>只要摘来一捆就好，我会非常感激你的。",
+      "answer": "",
+      "image": "qw_liverwortferry.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我的朋友非常喜欢用<FONT color=#a82424>丛林蕨菜</FONT>制作的料理，所以今天我原本是打算在回来的路上找点丛林蕨菜的，但是因为老师她叫我，我得赶紧回去，所以……",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是想让我替你去找丛林蕨菜吗？</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "是啊，很不好意思，可以麻烦你帮这个忙吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>需要在哪儿寻找呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "那东西应该会长在<FONT color=#a82424>利物沃特码头</FONT>周围比较潮湿的地方。<br>只要摘来一捆就好，我会非常感激你的。",
+      "answer": "",
+      "image": "qw_liverwortferry.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "我的朋友非常喜欢用<FONT color=#a82424>丛林蕨菜</FONT>制作的料理，所以今天我原本是打算在回来的路上找点丛林蕨菜的，但是因为老师她叫我，我得赶紧回去，所以……",
+      "answer": "",
+      "image": "300379"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是想让我替你去找丛林蕨菜吗？</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "是啊，很不好意思，可以麻烦你帮这个忙吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>需要在哪儿寻找呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "这种丛林蕨菜好像生长在利物沃特码头附近的潮湿地带。<br>你只要采集一捆就行了。",
+      "answer": "",
+      "image": "qw_liverwortferry.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "啊！抱歉。<br>我还以为你要打我呢。",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手洁娜",
+      "question": "这段时间双方之间一直吵个没完。<br>再这样下去万一打起来的话，我该帮哪一方好呢？",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师约翰",
+      "question": "我已经感觉到原住民和北方人之间剑拔弩张的气息了。",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "我现在很忙。",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（似乎什么都没有）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "谢谢你。我现在就回老师的草屋去。<br><FONT color=#7e12d2>（去利物沃特码头周边寻找丛林蕨菜）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "谢谢你。我现在就回老师的草屋去。<br><FONT color=#7e12d2>（去利物沃特码头周边寻找丛林蕨菜）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "谢谢你。我现在就回老师的草屋去。<br><FONT color=#7e12d2>（去利物沃特码头周边寻找丛林蕨菜）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "丛林蕨菜",
+      "question": "<FONT color=#7e12d2>（有丛林蕨菜）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "丛林蕨菜",
+      "question": "<FONT color=#7e12d2>（获得了丛林蕨菜，回到西戴尔那里）</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#7e12d2>（西戴尔为难地看着卡拉秋的眼色）</FONT><br>啊，你回来了啊？<br>我正在制作药呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>发生什么事了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "额，那个……….<br><FONT color=#7e12d2>（西戴尔压低了声音说道）</FONT><br>我有个名叫察提的朋友……是这里的原住民。但是她好像有什么误会，刚刚袭击了这里。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>察提？察提为什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "嘘！原来你也认识察提啊。她本来可不是这么粗鲁的孩子，肯定是有什么误会。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "她冲老师扑了上去，然后就逃跑了，也不知道现在怎么样了。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋",
+      "question": "我都听到了，西戴尔！<br>那个放肆的丫头，你趁早断了去找她的念头。<br><FONT color=#7e12d2>（卡拉秋怒气冲冲地喊道，西戴尔被吓得身体蜷缩成一团）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "是！我知道了！<br><FONT color=#7e12d2>（西戴尔再次压低嗓音说道）</FONT><br>哎哟，现在我要是出去，肯定会被老师狠狠教训一顿的。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "你能不能替我去看看察提怎么样了，再帮我把丛林蕨菜交给她，可以吗？拜托你了。",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。我再问问察提到底是因为什么。</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "谢谢。<FONT color=#a82424>察提</FONT>她好像跑去村庄的方向了，你去向村里的人打听一下她的去向。<br><FONT color=#a82424>商人洛西塔</FONT>和察提关系很好，问问她应该就能知道了。",
+      "answer": "",
+      "image": "qn_npc_lucita.png"
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（这里原本是有丛林蕨菜的，现在空无一物了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "欢迎光临。<br>想买点什么呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我在找一个名叫察提的女孩。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "你是察提姐姐的朋友吗？我也不知道她在哪里，最近一直都没看到她的影子。<br>不过很奇怪。从<FONT color=#387206>{user_nick}</FONT>你身上散发出一种不属于这附近的其他气味。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那是因为我不久前去过神圣天堂。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "你是从北部来的吗？那么……你有没有听到关于我哥哥的消息呢？<br>我哥哥叫<FONT color=#a82424>休利亚</FONT>。我们从小就分开了，听说他在北部。",
+      "answer": "",
+      "image": "qn_lm_nativeman_b.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>休利亚？！ 你，跟那家伙认识？他到底在哪儿呢！</FONT>",
+      "answer": "",
+      "image": "qn_lm_nativeman_b.png"
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "啊，很抱歉，<FONT color=#387206>{user_nick}</FONT>。你和我哥哥之间发生什么事了吗？<br>自从我们小时候分开之后，他就再没联系我了……难道哥哥他做了什么坏事？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……不，没什么。<br>（看样子她和休利亚没什么关系。如果知道自己分开已久的哥哥是那种人，一定会很伤心的吧？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "察提姐姐的消息，说不定高级<FONT color=#a82424>牧师约翰哥哥</FONT>知道。你去向他打听一下吧。<br><FONT color=#7e12d2>（看来洛西塔不知道察提的下落。去问问高级牧师约翰吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_yohan.png"
+    },
+    {
+      "npc": "高级牧师约翰",
+      "question": "你的意思是说你在寻找<FONT color=#a82424>察提</FONT>？<br>莫非她闯了什么祸？嗯……",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>算不上是闯祸……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师约翰",
+      "question": "是这样啊，但是，很可惜，我最近也没见到察提。<br>对了！你最好去问问<FONT color=#a82424>高级弓箭手洁娜</FONT>。她在回来的路上见到过察提，还替她向我问好了呢。",
+      "answer": "",
+      "image": "qn_npc_lotus_archerzenya.png"
+    },
+    {
+      "npc": "高级牧师约翰",
+      "question": "你最好去问问高级弓箭手洁娜。<br>她在回来的路上见到过察提，还替她向我问好了呢。<br><FONT color=#7e12d2>（去问问高级弓箭手洁娜）</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_archerzenya.png"
+    },
+    {
+      "npc": "高级弓箭手洁娜",
+      "question": "<FONT color=#a82424>察提</FONT>？那个孩子我刚刚还见过啊，她好像是去<FONT color=#a82424>利物沃特村庄废墟</FONT>了。说是去见西戴尔……<br>她走路看上去一瘸一拐的，好像是哪里受了伤。不过你找察提有什么事吗？",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（说明在卡拉秋的草屋中发生的事）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手洁娜",
+      "question": "最近，由于各种原因，大家的关系似乎越来越紧张了，唉……不管怎样，可能是因为<FONT color=#a82424>察提</FONT>年纪太小，所以很容易受到那些传闻的影响。你想见察提的话，就去<FONT color=#a82424>利物沃特村庄废墟</FONT>看看吧。",
+      "answer": "",
+      "image": "qw_51.png"
+    },
+    {
+      "npc": "高级弓箭手洁娜",
+      "question": "察提说她要去<FONT color=#a82424>利物沃特村庄废墟</FONT>找西戴尔。你要想见她的话，就去古代图书馆看看吧。",
+      "answer": "",
+      "image": "qw_51.png"
+    },
+    {
+      "npc": "察提",
+      "question": "<FONT color=#a82424>西戴尔</FONT>真是……到底在哪里啊！<br>现在这个时候，药草肯定都已经挖好了……",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>察提！是我。给，这是丛林蕨菜。<br>西戴尔让我来看看你的伤势怎么样了。</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "察提",
+      "question": "事的，这么点伤…….<FONT color=#7e12d2>（察提用舌头舔着伤口）</FONT><br>西戴尔也真是的……总是担心这担心那的，哼……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不过，你为什么要袭击卡拉秋呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "哼，那个老太婆指使北方人让我的同族染上了疾病！那个恶毒的魔鬼老太婆！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这是真的？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "她，是北部为了监视我们而派来的间谍！哼，打算让我们所有人都染上病后占领这里！这是我从<FONT color=#a82424>可靠的人</FONT>那里听说的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>也是，连教团原来的主教伊格纳西奥都是龙之追随者。也没办法保证佩奥里斯塔的首领就是好人。</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "察提",
+      "question": "我一直在找爷爷，可是一点消息也没有。而且村子里剩下的人当中，似乎没有人知道如何前往柯里塔村庄。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你帮我问过了啊？现在这事已经不要紧了。因为我师父已经找到了关于实验室的线索。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "如果我得到关于你们村庄的消息，会再联系你的。你去转告<FONT color=#a82424>西戴尔</FONT>，就说我没事，叫他不要担心。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "察提还好吗？<br><FONT color=#7e12d2>（西戴尔满是担心地问道）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（转告察提的情况）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "你说老师指示人让原住民染上了疾病？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>她说是听一个可靠的人说的。</FONT>",
+      "answer": ""
+    }
+  ]
+}

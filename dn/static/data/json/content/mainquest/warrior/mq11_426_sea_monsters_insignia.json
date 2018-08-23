@@ -1,0 +1,108 @@
+{
+  "qkname": "海怪的纹章",
+  "data": [
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "现在，是时候去寻找<FONT color=#a82424>海怪的纹章</FONT>。<br>在那之前，你应该很想了解一下海怪吧？<br>\n<FONT color=#7e12d2>（主教的目光变得真挚起来）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "嗯……我来跟你说明一下那个<FONT color=#a82424>海怪</FONT>。那是一只很久以前，在神圣天堂附近的罗雷莱茵河专横跋扈的怪物。50多年前，在被<FONT color=#a82424>英雄</FONT>们杀死之前，有无数的生命葬送在它的魔爪下。",
+      "answer": "",
+      "image": "qn_six_heroes_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，海怪也是被六大英雄……？</FONT>",
+      "answer": "",
+      "image": "qn_six_heroes_silhouette.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "是啊。那是在前去讨伐黑龙之前的事。<br>英雄们制伏了海怪之后，将它的尸体分成了数块后分别封印起来。那<FONT color=#a82424>力量的根源</FONT>便也深深地沉寂了。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "那怪兽在遭到讨伐之前，便已经将货船击沉了。之后，它便遭到了英雄们的攻击。所以，它的脖子正如你上次所见，留在了<FONT color=#a82424>沉没的货船</FONT>附近，不过它<FONT color=#a82424>力量的根源</FONT>已经被英雄们扔到很远的地方去了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那会在哪儿呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "目前还不能确定准确的位置。我会继续对海怪展开调查的，你就一边修行一边等待吧。<br><FONT color=#7e12d2>（达到36级后才可进行下一阶段）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "我想如果那力量的根源还在的话，应该会在<FONT color=#a82424>江下游废墟</FONT>的方向。很可能是在<FONT color=#a82424>遗忘时间废墟</FONT>。",
+      "answer": "",
+      "image": "qw_47.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "也许和其他怪物一样，<FONT color=#a82424>海怪的纹章</FONT>很有可能会硬化成闪闪发光的宝石形态。<br>你前往<FONT color=#a82424>遗忘时间废墟</FONT>去寻找那枚纹章吧。",
+      "answer": "",
+      "image": "qw_47.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>具体的位置去问问杰兰特怎么样？</FONT>",
+      "answer": "",
+      "image": "qw_47.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "呃呵。你每件事都那么依赖他是不行的。<br>他不是在和<FONT color=#a82424>黑骑士</FONT>战斗的过程中受伤了吗？还没有完全恢复的人……不，应该是<FONT color=#a82424>龙</FONT>，怎么好老去麻烦呢。<br>就让他安静安静吧，别去打扰了。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "如果邪恶的气息被驱散的话，杰兰特也会高兴的。<br>所以，你一定要从<FONT color=#a82424>遗忘时间废墟</FONT>中找到<FONT color=#a82424>海怪的纹章</FONT>呀。",
+      "answer": "",
+      "image": "qw_47.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你前往<FONT color=#a82424>遗忘时间废墟</FONT>去寻找<FONT color=#a82424>海怪的纹章</FONT>吧。<br>很可能就在那里最强大的怪物身上。",
+      "answer": "",
+      "image": "qw_47.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "我正在等你。<br>\n神圣天堂真正的朋友！",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "这神秘的光芒……<br>不愧是强大怪物所具有的生命力。<br>光是看上去就令人毛骨悚然。<br>这种强度的力量一定会带来帮助的。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "\n<FONT color=#7e12d2>（主教用他那满怀感激的目光看着）</FONT><br>看你满怀热情，想必意志十分坚定。值得信赖！！<br>好……既然魂和纹章都已经具备了，现在就来准备仪式吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>好的。拜托您了。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

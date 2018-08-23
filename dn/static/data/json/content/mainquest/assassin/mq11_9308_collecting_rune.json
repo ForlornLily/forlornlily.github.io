@@ -1,0 +1,172 @@
+{
+  "qkname": "搜集符文",
+  "data": [
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "你说什么？让黑骑士给跑了？哎呀……<br>\n这可糟了。",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "你见到到黑山山角去的其他冒险家了吗？<br>必须想想有没有什么对策才行。不是吗？",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n和战士西恩的对话结束了。",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "要想制作古代祭司长的符文，必须搜集<FONT color=#a82424>符文碎片</FONT>，然后进行加工。<br>所以现在大家都去搜集符文碎片了。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "据说符文碎片在<FONT color=#a82424>枯竭的玛丽莎泉</FONT>可以找到。<FONT color=#387206>{user_nick}</FONT>，你也去帮忙吧。",
+      "answer": "",
+      "image": "qw_35.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "在那里搜集到符文碎片之后，请你拿去交给<FONT color=#a82424>纹章学者斯塔西</FONT> 。<br>大家都说好了，搜集到之后就送到那里去。",
+      "answer": "",
+      "image": "qn_npc_scholar_starshy.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(先去把目的地告诉露娜莉娅吧。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "必须尽快找到黑骑士才行……<br>\n<FONT color=#7e12d2>(西恩一脸担忧地收拾着行李)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "巢穴……？<br>原来如此。没能抓住黑骑士。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这次你能穿越时间吗？<br>穿越到他逃走之前。如果能回到不久前的过去……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ionStand1}<br>不行。<br>时间不是由一条路径构成的。<br>说了你也无法理解。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么意思？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "并不只是简单地在唯一的过去和未来之间移动。<br><FONT color=#a82424>时间</FONT>分很多层。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "就像是面包上涂了几层黄油或果酱一样。<br>可以随便抹几层。<br>\n虽然看上去和涂抹之前不太一样，但本质上还是相同的黄油或果酱。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……反正你也无法理解。<br>因为我也不太清楚。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……总之是不行，对吧？</FONT><br>\n<FONT color=#662500>那就只能去搜集符文碎片了。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "哎呀，一定很麻烦吧？<br>辛苦你了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>又说得好像别人的事情一样。<br>露娜莉娅。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "确实不关我的事。<br>严格地来说，我认为也不关你的事。<br>你为什么要追踪 黑骑士呢？",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "因为他认识你？不，准确地说，应该是幻象。<br><FONT color=#a82424>幻象是使徒，可能是未来的你</FONT><br>\n……除了这个，我不知道你还想知道些什么。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>关于幻象，我也不知道。不知道了解了他之后，能不能阻止他吞噬我的意识。<br>不知道能不能把他分离出来。不过一切都有可能，不是吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你是想说……反正没别的线索吗？<br>但是，你想把自己寄托于那种可能性吗？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……明白了。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你要到<FONT color=#a82424>枯竭的玛丽莎泉</FONT>去<FONT color=#a82424>搜集</FONT>符文碎片，对吧？<br>仔细一点，别不小心漏掉了。<br>\n不然又得再辛苦一趟。",
+      "answer": "",
+      "image": "qw_35.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你得去找纹章学者斯塔西。<br>你还记得吧？",
+      "answer": "",
+      "image": "qn_npc_scholar_starshy.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊，符文碎片全部搜集到啦。<br>请你拿去交给FONT color=#a82424> 纹章学者斯塔西</FONT>。",
+      "answer": "",
+      "image": "qn_npc_scholar_starshy.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "嗯？符文碎片？啊哈！你就是……<br>\n<FONT color=#7e12d2>(斯塔西环顾了一下四周，压低嗓门说)</FONT><br>为了救出<FONT color=#a82424>先知</FONT>而聚集在一起的冒险家的一员啊。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "听说黑龙复活了。<br>王城中有很多传言，估计用不了多久就会引起骚乱。",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "...<FONT color=#a82424>50年前</FONT>龙之突袭的时候，我也曾经出过一点绵薄之力。<br>\n所以知道的事情比别人多一点。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "不久前，我获得了当时使用过的古代祭司长的符文的制作方法。我会试着进行制作。",
+      "answer": ""
+    }
+  ]
+}

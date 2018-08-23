@@ -1,0 +1,214 @@
+{
+  "qkname": "疯狂",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（阿尔杰塔让我去火焰峡谷。前往火焰峡谷吧）</FONT>",
+      "answer": "",
+      "image": "qw_92.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（火焰峡谷在火焰山。快走吧）</FONT>",
+      "answer": "",
+      "image": "qw_92.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（火焰峡谷在火焰山）</FONT>",
+      "answer": "",
+      "image": "qw_92.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……那是谁？我以前好像没见过那家伙。<br>明明是个幻觉，可从刚才开始他就一直在讲些莫名其妙的话。<br><FONT color=#7e12d2>（阿尔杰塔手指的地方站着卡拉翰和佩达）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那是卡拉翰！？</FONT><br><FONT color=#662500>他是佩达的使徒之一！我记得他变成绿龙，后来被消灭了啊……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "啥，卡拉翰？你说的是卡拉秋的哥哥？……他也是佩达的部下？<br><FONT color=#7e12d2>（阿尔杰塔显得很惊讶）</FONT><br>啊哈，这下我知道卡拉秋为什么羞于提起她哥哥了。<br>换做是我，也会觉得很丢人。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "嗯？小鬼，你也认识他？<br>你怎么认识那么多奇奇怪怪的人。<br>也对，俗话说物以类聚，人以群分嘛。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "噗哈哈，这有什么好生气的。我的意思是你俩都很幼稚嘛！<br><FONT color=#7e12d2>（阿尔杰塔笑得很开心）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……啊，是吗。<br><FONT color=#7e12d2>（阿尔杰塔板起了脸）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "怎么，你难道喜欢那家伙……？我的天。<br><FONT color=#7e12d2>（阿尔杰塔脸上的表情瞬间变得非常讶异）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师卡拉翰",
+      "question": "\n……",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "算了，这不重要。去听听他们说什么吧。<br>会不会谈到卡拉秋呢……？",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "……<FONT color=#7e12d2>（看来得去听听卡拉翰说什么）</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "魔法师卡拉翰",
+      "question": "啊！神啊，我的美貌大家有目共睹。<br>可却有些无聊之徒嫉妒我的美貌，总是因小事来找我的麻烦……",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师卡拉翰",
+      "question": "ndnpc_Karahan_9423_qu_01.ogg}<br>我的美貌可称得上是惊若天人……征服王亲自来找我也是人之常情。呵呵，你怎么不说话，连你征服王也拜倒在我无与伦比的英雄气概之下了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师卡拉翰",
+      "question": "ndnpc_Karahan_9423_qu_02.ogg}<br>我惊人的美貌，以及与之相称的强大实力都令人感叹！世界正是为我卡拉翰而存在的！<br>唔哈哈哈，征服王，你竟敢命我做你的部下，你是不是因为被我的美貌所迷，导致话都说不清楚了？",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9423_qu_01.ogg}<br>……你这家伙确有许多出人意表之处。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师卡拉翰",
+      "question": "ndnpc_Karahan_9423_qu_03.ogg}<br>哈哈哈！我这么华美耀眼的人，怎么可能受那些低俗观念所限制？征服王，你还是别继续掩饰对我的仰慕了。",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "我才懒得管你在哪里做什么。只希望你别碍我的事，因为你这家伙实在太烦人了。因你的实验而牺牲的那些人吵得我够呛。如果你追随我，就不会有那些小麻烦了。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师卡拉翰",
+      "question": "哈！哈！你话说得挺好听，口气却很高傲嘛。你嫌牺牲者太烦人？这世界上技术的进步免不了需要少数的牺牲者。哈哈，征服王，说到底你还是个纠结于小事的凡人啊。我就让你见识一下我优雅强势的力量……",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ionAttack2}<br><FONT color=#7e12d2>（佩达的一击掠过卡拉翰）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9423_qu_02.ogg}<br>懒得跟你废话。要么当我的部下，要么今天死在这里，这两个你选一个。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师卡拉翰",
+      "question": "ndnpc_Karahan_9423_qu_04.ogg}<br>你竟敢让我卡拉翰屈尊当你的部下？！简直放肆！",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师卡拉翰",
+      "question": "ndnpc_Karahan_9423_qu_07.ogg}<br>我，我输了？我怎么会输！这是怎么回事！",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9423_qu_04.ogg}<br>……你怎么选。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师卡拉翰",
+      "question": "ndnpc_Karahan_9423_qu_08.ogg}<br>哼……都到这份上了你也没砍了我，说明征服王你心中还是不舍得让我这副美貌失色嘛？好，征服王，我跟你联手。能有我这种稀世天才魔法师加入，是你的荣幸。",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "……<FONT color=#7e12d2>（佩达的脸色显得很疲倦）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "佩达那家伙，挑部下真没眼光。<br>换做是我，早一口吞了卡拉翰那家伙。他是不是天才我不清楚，可一个大男人怎么叽叽喳喳个没完？难怪卡拉秋讨厌他。<br><FONT color=#7e12d2>（阿尔杰塔摇摇头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "所以说刚才那场景是怎么回事？我没见过佩达有那样的部下呃。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他在莲花沼泽吞下宝玉，变成绿龙了……</FONT><br>\n<FONT color=#662500>（讲述了事情经过）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "这么说，他吞下绿龙宝玉变成绿龙后，又被魔法师和你们杀死了？嗯。<br>那么宝玉又被重新封印在那里了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也不清楚。消灭绿龙后，我直接去神圣天堂了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9423_qu_01.ogg}<br>你就不能机灵点！<br><FONT color=#7e12d2>（阿尔杰塔发脾气了）</FONT><br><FONT color=#2b2723>虽说这只是我的预感，但那家伙命硬得很。改天有时间你去看看宝玉的情况。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>应该没事的吧，西戴尔在那边啊……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9423_qu_02.ogg}<br>别随便相信人类。除非是你亲眼所见，否则不要相信。预料往往和现实有出入。更何况对方是卡拉秋都羞于提起的那个哥哥，这还需要多说吗？总之你一定要去查探清楚。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（西戴尔是个值得信赖的人……现在的西戴尔变得比以前更稳重了，应该可以和阿尔杰塔谈得来。真希望阿尔杰塔能见见他）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "哈，一天下来看见好多无聊事啊。接下来我们去影子墓穴吧。<br><FONT color=#7e12d2>（阿尔杰塔动身离开了）</FONT>",
+      "answer": "",
+      "image": " qw_91.png"
+    }
+  ]
+}

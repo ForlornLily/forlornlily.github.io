@@ -1,0 +1,225 @@
+{
+  "qkname": "前往岛中心",
+  "data": [
+    {
+      "npc": "诺尔佩",
+      "question": "这下终于能正式调查治愈之杯的线索了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>梅尔卡目前情况如何？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "不太乐观。如果带格里高利一起前往卡伊伦岛就好了……<br>幸亏他是低级查尔德，气息不是很强，我命令他尽量不要外出行动。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>看来他十分畏惧高级查尔德。<br>话说回来……贝勒尼卡大人还好吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "目前还是尽量不要和那边联络。<br>一旦关系暴露，必定会命丧帝国的刀下。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "今早找到治愈之杯的线索，才是唯一的突破口。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。我这就和杰兰特、格雷尔一起前往卡伊伦岛继续调查。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "万事小心。<br>梅尔卡的监控日益森严，帝国的监视网可能已经扩大到卡伊伦岛。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，我们会注意的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "那就拜托你们了。<br>进入岛内后，就会发现海岛紧邻<FONT color=#a82424>幻影森林</FONT>。那祝你们好运。",
+      "answer": "",
+      "image": "qw_127.png"
+    },
+    {
+      "npc": "格雷尔",
+      "question": "我们终于进入岛内了……",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "看样子这里就是卡伊伦岛内的森林。<br>不同于一般的森林，这里的动植物极其诡异？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不同于其他追求高度文明的查尔德，那个叫海兰德尔的查尔德似乎特别崇尚自然生态。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他驱逐所有人类，文明也不复存在，但这恰恰保留了大自然的本来面貌。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "每次见到查尔德都不由感叹，他们简直是怪胎。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "我看到阿尔特里亚的龙族也有这种想法。<br>你们那边的龙族性情奇特。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这话什么意思，格雷尔？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "捉摸不定的卢比纳特，毒舌腹黑的黑龙。<FONT color=#7e12d2>（貌似是在说贝思柯德。）</FONT><br>抱怨连连、一无是处的杰兰特。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "什么？你个变异怪胎说谁一无是处呢？",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "……我没说错啊……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哈哈哈……杰兰特虽然现在虚弱，但以前可是无比强大的金龙。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "真是不敢相信……",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你怎么就不敢相信了？！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你们两个冷静点！（突然警觉地环顾四周。）<br>有没有听见奇怪的声音？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "奇怪的声音？<br>没有啊……",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "嗯，貌似除了我们之外，这里还有其他人在？",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "别担心，敌人一出现，我立刻干掉他们！",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "也许是我听错了，眼下还是继续赶路吧。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "果然……那东西好像还跟着我们。<br>要不是我及时发现，那就糟了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（先发现的人是我好吧……算了，不跟他计较。）<br>难道是艾达特帝国派来的间谍？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GereintKid_9785_qu_01.ogg}<br>这不好说，看他一直不敢现身<br>应该是不想被人知道他的身份。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "那不如我去四周打探一下？",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GereintKid_9785_qu_02.ogg}<br>你别没事瞎捣乱。我们在明处，那家伙在暗处。<br> 如果真跟查尔德有关，那很有可能是圈套。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰兰特简直让人刮目相看啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "连你也把我当做一无是处的孩子？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哈哈……怎么会呢！多亏杰兰特你，才能找到治愈之杯的线索～<br>不过……那家伙该怎么办？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "在他主动现身前，我们继续按计划进行，怎么样？",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "绝不能把这个定时炸弹带在身边。<br>不如辛苦一下，去梅尔卡找诺尔佩商量看看吧。虽然不想承认，但那家伙确实比我们懂得多。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "要返回梅尔卡是吧？<br>那好，我就在梅尔卡港口前面等着。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你把情况告诉诺尔佩，看看他有什么好法子。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "<FONT color=#387206>{user_nick}</FONT>大人，调查有进展吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个……我们好像在卡伊伦岛被人跟踪了。<br>那人一直躲在暗处，我们不敢贸然行动，所以才又回到了梅尔卡。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "嗯……难道是帝国的间谍？<br>这就奇怪了。",
+      "answer": ""
+    }
+  ]
+}

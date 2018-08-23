@@ -1,0 +1,203 @@
+{
+  "qkname": "他的话",
+  "data": [
+    {
+      "npc": "西戴尔",
+      "question": "这件事很奇怪。我得直接去见见察提。<br><FONT color=#7e12d2>(西戴尔看了一眼卡拉秋，自言自语道)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "啊，你好……？<br>\n ",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "请你陪<FONT color=#a82424>老师</FONT>聊聊天。<br>我去见见察提，很快就回来。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "嗯……<br>\n如果你是来找卡拉秋的，应该到利物沃特码头去。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "他这是要到哪里去啊？<br>看来西戴尔一定又去找那个臭丫头了。",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "不知道那小子为什么会被那个原住民臭丫头迷住。<br>对了，那个臭丫头说什么来着？",
+      "answer": "(转述察提的话)",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "从可靠的人那里得知，我真在劫持原住民？<br>哼，不知道那个可靠的人是谁，不过这一定是离间计。 ",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "那个人竟敢侮辱佩奥里斯塔，必须让他付出代价。<br>咳咳咳咳……我已经让安杰利卡和西恩去接近察提了，应该很快就能查明那个人是谁。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你已经知道啦。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "最近原住民和移居民之间的关系正在急剧恶化。原住民们认为失踪事件的幕后黑手是我和这里的移居民，所以对我们抱有怨恨。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "如果不尽快查明真相，说不定会引起更大的事端。<br>所以我不能无所事事地躺在这里。咳咳……",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "卡拉秋的草屋在那边。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "见到卡拉秋·佩奥里斯塔了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "咳咳咳咳……我得休息一下，整理一下要做的事情。<br>如果你想知道详细的故事，可以到<FONT color=#a82424>利物沃特码头</FONT>那边去找<FONT color=#a82424>战士西恩</FONT>。",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "战士西恩不就在那边吗？",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊，<FONT color=#387206>{user_nick}</FONT>，你也见到察提了啊。<br>我也觉得很奇怪，那个可靠的人到底是谁呢……",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "据魔法师安杰利卡说，察提的父亲好像被劫持了。<br>因为他是族长，劫持他好像是为了获得什么情报。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没想到还有这种事。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "安杰利卡说感觉这件事不能插手太深。……和神圣天堂一样，其中的事情很复杂。随便横插一脚的话，也许会搞得很狼狈，呵呵。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "老实说……我也有一种不祥的感觉。<br>正因为如此，我就觉得更加不能对察提的事情袖手旁观。如果 察提所说的那个<FONT color=#a94407>“可靠的人”</FONT>是怀着恶意接近她的，那察提一定会陷入困境。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>说的没错。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "察提好像在按照那个可靠的人提供的情报行动。<br>她好像去见那个人了，我们打算跟过去。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "察提对我们很警惕，所以我们没能听到具体的目的地。<br>没时间了，我们打算分散寻找。你愿意帮帮我们吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>当然没问题。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "谢谢。<FONT color=#387206>{user_nick}</FONT>，请你去确认古代武器库的西边。<br>希望察提能安然无事。我不想再让更多的人受到伤害了，呵呵。<br><FONT color=#7e12d2>(西恩挠了挠头)</FONT>",
+      "answer": "",
+      "image": "qw_56.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "搜索结束之后，请到<FONT color=#a82424>莲花沼泽</FONT>去。<br>因为可能会互相错过，所以我们决定各自向洛西塔报告情况。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "要到古代武器库的西边去啊。<br>明白了。",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "ndnpc_Illusion_qu_9334_01.ogg}<br>呵呵呵……还在挣扎吗？这是毫无意义的。你到底什么时候才会明白呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你怎么会在这里……？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "ndnpc_Illusion_qu_9334_02.ogg}<br>我来告诉你一件事。",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "ndnpc_Illusion_qu_9334_03.ogg}<br>你被 <FONT color=#a82424>那个女人</FONT>骗了。<br>那个女人绝对不是普通人。不管是那时，现在，还是过去。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个……女人？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "ndnpc_Illusion_qu_9334_Add_01.ogg}<br>那个女人。",
+      "answer": ""
+    },
+    {
+      "question": "<FONT color=#7e12d2>(低沉的笑声在脑海中扩散开来)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "啊，你来啦。<br>我正在等你呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>等我？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "<FONT color=#a82424>战士西恩</FONT> 说等<FONT color=#387206> {user_nick}</FONT>你过来之后，让我告诉你。",
+      "answer": ""
+    }
+  ]
+}

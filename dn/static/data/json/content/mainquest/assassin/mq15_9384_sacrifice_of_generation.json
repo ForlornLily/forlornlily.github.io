@@ -1,0 +1,178 @@
+{
+  "qkname": "时代的牺牲者",
+  "data": [
+    {
+      "npc": "暗影喵",
+      "question": "抽泣抽泣，呃啊啊啊喵啊啊啊啊～……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>别哭了……我走了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "喵喵？你去哪儿喵？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>阿勒努特峡谷。 </FONT>",
+      "answer": "",
+      "image": "qw_74.png"
+    },
+    {
+      "npc": "暗影喵",
+      "question": "你，你说什么喵？！！！你疯了吗喵？！！那里是绝对不能去的地方喵！！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>为什么？不就是个峡谷吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "不是的喵！？！那地方埋葬着被50年前死掉的黑龙卡拉斯的剧毒毒死的人们……即使经过了50年，那种剧毒还留在那里喵。据说守护那里的守护者们也饱受剧毒的折磨，最终全都离开了那里喵。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我去去就回来，应该没事。而且柯梅里纳一定到那里去了。我也得尽快过去才行。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "不，我说过不行喵？！你怎么这么鲁莽喵！！！不行喵！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……现在柯梅里纳正在战斗。必须快点过去看看。<br>(不能因为斗嘴而浪费时间了……必须尽快到学者柯梅里纳那里去)</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……为什么……要这样……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(睁大眼睛，怨恨地看着什么人。看上去有点可怕。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "我说了不行喵！！……唉……那你去了之后赶紧回来喵！<br><FONT color=#7e12d2>(暗影喵好像非常担心，但是没办法。到泰尔罗萨入口的阿勒努特峡谷</FONT><FONT color=#7e12d2>去吧)</FONT>",
+      "answer": "",
+      "image": "qw_74.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "XD-30. 百合花到底在古代寺院里干什么啊？她为什么要劫持那个叫黛西的少女呢！",
+      "answer": ""
+    },
+    {
+      "npc": "XD-30",
+      "question": "切，你这个背叛者什么都不知道……真可笑，咳咳。<br>呵呵呵……我就告诉你吧。黛西……不是人类。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "不是人类……？",
+      "answer": ""
+    },
+    {
+      "npc": "XD-30",
+      "question": "你、我……所有的克隆体都是……宝玉的……碎片，这你该知道的吧……？其原型就是……黛西……",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "那是什么意思？",
+      "answer": ""
+    },
+    {
+      "npc": "XD-30",
+      "question": "呵呵……我可不想……告诉你这个……背叛者。不过反正……你也要死了。<br>你就好好想想吧……背叛者和……呵呵……被遗忘的……英雄",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>被遗忘的英雄……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "XD-30",
+      "question": "呵呵呵……就算无谓地挣扎，也无法改变什么……！<br>XD-26，别以为你能逃避自己的命运……哈哈哈……！啊……！<br><FONT color=#7e12d2>(XD-30惨叫了一声，然后死掉了。躺在那里</FONT><FONT color=#7e12d2>一动不动。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……柯梅里纳，这个克隆体……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>(声音轻轻地</FONT><FONT color=#7e12d2>颤抖着)</FONT>是的……是我……姐妹中的一个……还有……百合花好像就在阿勒努特峡谷那边的古代寺院了。现在过去也许已经太晚了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>原来是这样。那就快点……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "不……你先去吧。我要在这里待一会儿。<br><FONT color=#7e12d2>(她呆呆地看着XD-30的尸体。看上去非常</FONT><FONT color=#7e12d2>痛苦)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(睁大眼睛，怨恨地看着什么人。看上去有点可怕。) </FONT>"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "我马上会跟着过去，请别担心……我……再……<br>\n<FONT color=#7e12d2>(好像马上就要哭出来了一样。先回到暗影喵那里去，告诉它自己没事吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_shadow_meow.png"
+    },
+    {
+      "npc": "暗影喵",
+      "question": "没事吗喵？！没事吗喵？！呼呼……还好没有变成怪物喵！",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "呼……虽然不知道是什么原因，但那里的剧毒好像变弱了很多喵。看来守护者没有放弃那片土地喵。太好了喵……<FONT color=#7e12d2>(好像松了一口气</FONT><FONT color=#7e12d2>)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……好了，我要走了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "又要去哪儿喵？？？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>被占领的古代寺院。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "被占领的古代寺院喵……？你是说哪个寺院来着喵？阿勒努特峡谷附近的话喵……<FONT color=#7e12d2>(暗影喵</FONT><FONT color=#7e12d2>挠了挠头)</FONT>",
+      "answer": ""
+    }
+  ]
+}

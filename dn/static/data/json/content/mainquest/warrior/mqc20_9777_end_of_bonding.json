@@ -1,0 +1,358 @@
+{
+  "qkname": "叛徒的下场",
+  "data": [
+    {
+      "npc": "全息诺尔佩",
+      "question": "<FONT color=#7e12d2>(全息停滞了一下，又开始动了)</FONT> 这是真的吗？",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "…",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "…",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "我之前想的太简单了。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "ndnpc_Ark_9777_qu_01.ogg}<br><FONT color=#7e12d2>(阿尔克在全息前深深鞠了一躬)</FONT><br>这是我的一点拙见，请您听了之后再做判断。",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "请说吧。现在情况紧急，不管是什么猜测都好。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "ndnpc_Ark_9777_qu_02.ogg}<br>……虽然这样说有些冒昧，但我相信诺尔佩大人已经有了答案。<br>不过，我已经感觉到了您<FONT color=#086171>想到的那个答案</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……？！诺尔佩大人已经知道玛蒙的背后势力是谁吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "是的。而且那个人 <FONT color=#387206>{user_nick}</FONT> 也知道。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "知道伊贝尔大人和格雷尔大人的关系，查尔德的状态，伊贝尔大人的装置事件……<br>\n拥有制造出如此多的装置的人力物力，同时还拥有能和身为领地主人的查尔德交换情报的地位的人。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "而且伊贝尔死了之后能够获得最多好处的人。就只有<FONT color=#086171>一个人</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "ndnpc_HologramNophee_9777_qu_01.ogg}<br><FONT color=#7e12d2>(全息似乎凝固住了，过了一会儿才开口)</FONT><br>……正如你所说，我也是这么想的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>等下，等下……！</FONT><br><FONT color=#662500>难道，现在你们是在说</FONT><FONT color=#086171> 贝勒尼卡</FONT><FONT color=#662500>大人是这一切的幕后黑手？！</FONT>",
+      "answer": "",
+      "image": "qn_vernicka.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不可能！</FONT><FONT color=#086171>贝勒尼卡</FONT><FONT color=#662500>大人不是在支持反女神派嘛。</FONT><br>\n<FONT color=#662500>他怎么能帮助威胁拉达梅斯的查尔德！</FONT>",
+      "answer": "",
+      "image": "qn_vernicka.png"
+    },
+    {
+      "npc": "阿尔克",
+      "question": "ndnpc_Ark_9777_qu_03.ogg}<br>毒蛇是要做交易的。他只在乎梅尔卡市国和自己的安全，并不是为了反女神派。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>但是至今他都在尽力帮我们啊……！当然贝勒尼卡大人说过要杀死伊贝尔，可是，至今他都在帮我们，我一直那么信任他……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔克",
+      "question": "ndnpc_Ark_9777_qu_04.ogg}<br>这不是阿尔特里亚。<br>诺尔佩大人，你还在相信不是反女神派的人吗？您可不能心软啊。",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "ndnpc_HologramNophee_9777_qu_02.ogg}<br>……是啊。这次是我想的太简单了。阿尔克说的是对的。<br>我也不想怀疑曾经作为我们强大的友军的贝勒尼卡大人。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>诺尔佩……！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "贝勒尼卡大人从我们失去了卢比纳特大人之后，就在反女神派和女神派间权衡。而且如果把伊贝尔交给玛蒙，他就能除去视为麻烦的伊贝尔，同时还能获得女神派的青睐。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那么，那么……贝勒尼卡大人把格雷尔带到梅尔卡，其实也是为了利用他？为了完成那个</FONT><br><FONT color=#a82424>装置</FONT><FONT color=#662500>……为了吸引伊贝尔，所以需要格雷尔吗……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "而且还为了不让格雷尔被玛蒙发现。<br>\n格雷尔是像卢比纳特大人一样对反女神派极其重要的人。",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "贝勒尼卡大人会不断权衡利弊。<br>\n让自己能够在反女神派和女神派两边选择有利的一方…… ",
+      "answer": ""
+    },
+    {
+      "npc": "拉达梅斯警卫兵",
+      "question": "诺尔佩大人！糟糕了！<FONT color=#7e12d2>(警卫兵突然冲了进来)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "<FONT color=#7e12d2>(全息像是没有发生任何事一样，声音平静)</FONT> 出什么事了？",
+      "answer": ""
+    },
+    {
+      "npc": "拉达梅斯警卫兵",
+      "question": "陪着格雷尔大人去梅尔卡的<FONT color=#086171>魔法师安娜大人的助手</FONT>受了重伤后回来了！",
+      "answer": "",
+      "image": "qn_guard_timose.png"
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "该死，请你报告详细情况。",
+      "answer": ""
+    },
+    {
+      "npc": "拉达梅斯警卫兵",
+      "question": "他说<FONT color=#086171>格雷尔</FONT>大人突然把梅尔卡的警卫兵全都打翻，去了 <FONT color=#a82424>扭曲的区域</FONT>。<br>\n这个助手为了告诉我们这个消息先回来了，但在回到拉达梅斯的时候在沼泽被查尔德玛蒙的手下攻击了……！",
+      "answer": "",
+      "image": "qn_guard_timose.png"
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "我知道了。治疗就交给安娜，立刻召集现在空闲的人手，强化拉达梅斯周围的警戒。我会让<FONT color=#387206>{user_nick}</FONT>去寻找格雷尔。",
+      "answer": ""
+    },
+    {
+      "npc": "拉达梅斯警卫兵",
+      "question": "是，我知道了！<FONT color=#7e12d2>(警卫兵急忙跑走了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "<FONT color=#7e12d2>(警卫兵消失后，他立刻叹了口气)</FONT><br>不行，看来格雷尔本能地察觉到了伊贝尔。偏偏是在这时候……",
+      "answer": "",
+      "image": "qn_child_grele.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>诺尔佩，现在还不晚。只要现在找到格雷尔就行！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "……<FONT color=#7e12d2>(全息的声音再次恢复了平静)</FONT><br>我们要尽快行动。绝不能让<FONT color=#a82424>玛蒙</FONT>和<FONT color=#a82424>伊贝尔</FONT>还有<FONT color=#a82424>格雷尔</FONT>出现在同一个地方。<br>\n阿尔克现在马上回去卡特德拉忏悔室。",
+      "answer": "",
+      "image": "qw_119.png"
+    },
+    {
+      "npc": "全息诺尔佩",
+      "question": "而 <FONT color=#387206>{user_nick}</FONT>请去<FONT color=#a82424>贫瘠沙沼</FONT>。请快些……!",
+      "answer": "",
+      "image": "qw_120.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，这边！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>诺尔佩，你来了啊！格雷尔…… </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "刚才我听到那边有巨大的奇怪声音。<br>他们似乎已经打起来了。我们快点过去……！",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "我们快点去发出声音的地方！",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "姐姐……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格雷尔！！</FONT><FONT color=#7e12d2> (扶住格雷尔)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "姐姐，姐...姐……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格雷尔，你醒醒啊！！是我！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "……<FONT color=#387206>{user_nick}</FONT>…………？",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "ndnpc_Grele_9777_qu_01.ogg}<br>我，感受到了姐姐的气息才来的，所以，救了姐姐……姐姐呢……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>伊贝尔逃走了。把你推给了玛蒙……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "ndnpc_Grele_9777_qu_02.ogg}<br>真的吗……？ ……哈，哈哈……太好了……姐姐，没受伤……真是……<br>……咳，咳咳……。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "ndnpc_Grele_9777_qu_03.ogg}<br>……真是太好了……",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "ndnpc_Grele_9777_qu_04.ogg}<br><FONT color=#387206>{user_nick}</FONT>，我明明……觉得只要是为了姐姐，让我去死……都行……<br>如果姐姐愿意，被姐姐杀死，也没关系……",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "ndnpc_Grele_9777_qu_05.ogg}<br>但是现在真成了这样……呜，我……就像是，被姐姐抛弃了一样……！<br>呜呜，好疼……！",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "…好疼………",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格雷尔，不行，快醒醒！！你不能昏过去……！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>诺尔佩，格雷尔刚才似乎被那个查尔德……被</FONT><FONT color=#a82424>玛蒙</FONT><FONT color=#662500>把宝玉全都抢走了。</FONT><br><FONT color=#662500>这么下去格雷尔会消失的……！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "<FONT color=#7e12d2>(诺尔佩看了看格雷尔的状态，从衣服里拿出了什么)</FONT><br><FONT color=#387206>{user_nick}</FONT>，请让开。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>诺尔佩，那是……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "<FONT color=#7e12d2>(格雷尔的身体里似乎有什么在发光)</FONT><br>\n我的师父……<FONT color=#a82424>阿卡戴米亚</FONT><FONT color=#a82424>大人的宝玉</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>师父的宝玉，那不是对诺尔佩非常重要的东西吗。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "……事情变成这样，都是因为我的错误判断。所以我会尽全力弥补。<br>至少这个宝玉能阻止格雷尔的消失。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "格雷尔，这会有点疼，请忍一下。<br>\n<FONT color=#7e12d2>(诺尔佩强行把阿卡戴米亚的宝玉放进了格雷尔的嘴里)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "………！……！<FONT color=#7e12d2>(格雷尔吞下了宝玉，全身都在挣扎)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "……<FONT color=#7e12d2>(查看了格雷尔的脸色)</FONT><br>\n幸好，他已经恢复血色了。但是这只是防止消失的临时措施。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，我们要先带着格雷尔回<FONT color=#086171>拉达梅斯</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "我们回<FONT color=#086171>拉达梅斯</FONT>吧。在那里我们再商量对策。",
+      "answer": "",
+      "image": "qw_refugee.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "\n<FONT color=#7e12d2>(诺尔佩的脸色阴沉)</FONT> 格雷尔大人的治疗我交给了<FONT color=#a82424>魔法师安娜</FONT>大人。<br>但是伤势太严重……再这么下去他连新的宝玉都难以吸收。",
+      "answer": "",
+      "image": "qn_soceressanna.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "不过现在也只能静观其变了。<br>……我真是太愚蠢了。只是嘴上说说的事情，我居然就相信了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不，诺尔佩。这次的事……相信别人不是错的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "不，我随便相信别人，这就是个<FONT color=#a82424>错误</FONT>。<br>\n被感性影响，就算是知道了答案还将它无视了。如果师父看到了肯定要嘲笑我了。<br>\n我应该更冷静的……我果然还远远不够格啊。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(诺尔佩苦笑了一下。现在再安慰他似乎也没什么效果)<br>……格雷尔的治疗，我能帮什么忙吗？</FONT>",
+      "answer": ""
+    }
+  ]
+}

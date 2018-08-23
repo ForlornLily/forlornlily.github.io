@@ -1,0 +1,287 @@
+{
+  "qkname": "可疑的相遇",
+  "data": [
+    {
+      "npc": "阿尔杰塔",
+      "question": "毒有点浓可能会有点危险。得通知阿努阿兰德的精灵们关于毒的存在呢?<br><FONT color=#7e12d2>(与新月森林入口的弓箭手特里亚纳对话吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "你好。<FONT color=#387206> {user_nick}</FONT>。<br>听说使徒出现在阿努阿兰德附近。已经知道了吗?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯。我也是因此而来。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是。我也是因此而来的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "干嘛那么婆婆妈妈的？跟精灵对话有那么难吗？<br>那边，似乎有和你比较要好的精灵啊?<br><FONT color=#7e12d2>(去和阿努阿兰德关卡的弓箭手特里亚纳对话吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "正在好久没回的新月森林散步中。<br>我有话要说，但这里对<FONT color=#387206>{user_nick}</FONT>大人不便，我们回到新月森林入口去吧。<br><FONT color=#7e12d2>(在阿努阿兰德关卡重新和弓箭手特里亚纳对话吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "似乎没什么话能和你说。<br><FONT color=#7e12d2>(尤万西贝尔似乎对我漠不关心)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "嘘。现在对于我们来说是非常重要的时期。请不要喧哗。<br><FONT color=#7e12d2>(在阿努阿兰德关卡与弓箭手特里亚纳对话吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "啊啦? 是第一次见到的冒险家嘛? <br>你，看起来有点可疑哦？在这里做什么？目的是什么？<br><FONT color=#7e12d2>(提问还在继续。与其他人对话吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "啊，是因为担心新月森林陷入危险而赶来的吧。<br>因为我们种族的事情，总是让您帮忙，真是万分感谢。 ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃啊? 我已经见过伊格纳西奥</FONT><FONT color=#662500>了哦?<br>看到他搬运着毒锅就去追他，没想到让他跑了。</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我已经见过伊格纳西奥</FONT><FONT color=#662500>了。<br>看到他搬运着毒锅就去追他，没想到让他逃了。</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "毒?在凯德拉使用的那种毒吗?<br>没关系的。精灵之森受女王的保护，再生能力远远比人类的森林强。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那我听说了。<br>不过阿尔杰塔大人尝了尝之后说可能很危险哦?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>虽然听说了，但阿尔杰塔大人尝了尝之后说可能会很危险的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "ndnpc_AN_Archer Triana_qu_9285_02.ogg}<br>是吗? 阿尔杰塔大人的话应该就是事实了吧。<br><FONT color=#7e12d2>(弓箭手特里亚纳转过身望着阿洁丽雅)</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "阿洁丽雅大人。与<FONT color=#387206>{user_nick}</FONT>大人的对话已经听到了吧?",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "ndnpc_AN_Archer Agelia_qu_9267_02.ogg}<br>有那么恶毒的人们在阿努阿兰德纵横无阻吗!?<br><FONT color=#7e12d2>(阿洁丽雅十分吃惊)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "不能再这样下去了。得先通知长老...<br><FONT color=#7e12d2>(不知道为什么，在闭上嘴思考着)<br></FONT>嗯，不过长老大人现在也似乎非常忙，我们先查探详细情况吧。",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "不是不相信<FONT color=#387206>{user_nick} </FONT>大人的话。<br>我想我们得先弄清楚他们的影响到森林的什么地方了，再去报告。",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "森林很大，所以最好是分头确认吧。<br>我去黄金草原看看吧。\n特里亚纳大人和 <FONT color=#387206>{user_nick}</FONT>大人请去<FONT color=#a82424>消失的满月沙漠</FONT>确认吧。",
+      "answer": "",
+      "image": "qw_77.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "ndnpc_AN_Archer Triana_qu_9285_01.ogg}<br>我在散步的时候遇见了萝丝琳德。看起来像是在找什么东西，所以刚想向游侠大人报告呢。<br><FONT color=#7e12d2>(特里亚纳指着站在旁边的精灵游侠阿洁丽雅)</FONT>",
+      "answer": "",
+      "image": "qn_npc_rosalin.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "快出发吧。<FONT color=#a82424>消失的满月沙漠</FONT>吗....<br>能发现他们吗?",
+      "answer": "",
+      "image": "qw_77.png"
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "不用担心我。我是个能保护自己的森林游侠啊。<br><FONT color=#7e12d2>(向消失的满月沙漠出发吧)</FONT>",
+      "answer": "",
+      "image": "qw_77.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "和精灵们去找什么吧?看你们拉帮结派的真像你们。<br><FONT color=#7e12d2>(前往消失的满月沙漠吧)</FONT>",
+      "image": "qw_77.png"
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "<FONT color=#2b2723>特里亚纳</FONT>大人? 没想到在这见到你。<br><FONT color=#7e12d2>(尤万西贝尔深情地看着特里亚纳的脸)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "ndnpc_AN_Archer Triana_qu_9285_03.ogg}<br>是尤万西贝尔大人啊。来这里有什么事吗?",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "与我宿命相关的事啊。以过去的我放弃掉的心为代价，我自己制造出的宿命。<br>不过见到你，就觉得所有事都不曾存在。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(诶诶? 什…什么啊? 那个男人。连看都不看我一眼...)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "你...<br><FONT color=#7e12d2>(特里亚纳脸稍微变红了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(这么明显地追求特里亚纳啊?</FONT><br>\n<FONT color=#662500> 感觉…不能做他们的电灯泡了?)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "你的<FONT color=#a82424>宿命</FONT>也迟早会来吧。就像对我一样，那宿命也许会很残忍。<br>你会做什么选择呢。像她一样...<br><FONT color=#7e12d2>(尤万西贝尔可惜地看着特里亚纳)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "你的选择如果和我想的不一样，我也许又会后悔也说不定。<br>在这种时候出现，真让我混乱。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "连我自己都不知道我的宿命是什么，尤万西贝尔大人说得好像你知道呢。<br>不过那些都不重要。我在此找着<FONT color=#a82424>龙之追随者痕迹</FONT>呢。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "特里亚纳大人总是更关心别人的事呢。<br>对我来说你的事才是最重要的...",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9285_01.ogg}<br>他们已经经过此地去向森林了。我只能告诉你这个。<br><FONT color=#7e12d2>(尤万西贝尔转过视线)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "那位是....<br><FONT color=#7e12d2>(特里亚纳望着不明正体的精灵男子。去和他对话吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "<FONT color=#7e12d2>(尤万西贝尔似乎在与特里亚纳的对话中受伤了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "ndnpc_AN_Archer Triana_qu_9285_04.ogg}<br>嗯…. 私人对话变长了。对不起。<br>总之知道了他们已经经过这里了，去见见<FONT color=#a82424>阿洁丽雅</FONT>大人吧。",
+      "answer": "",
+      "image": "qn_npc_azelia.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>尤万西贝尔啊... 曾经见过，是个怪怪的精灵，和你很要好吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那位以前和贝思柯德大人一起见过。<br>特里亚纳大人也认识吗?</FONT>",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "不是的。是旅行中帮助过我的同族。<br>稍微有点神出鬼没的倾向，所以我也不太清楚他到底是什么样的人。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>对你好像有意思哦?人气旺盛啊~</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>似乎对你有意思。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "我似乎长得像尤万西贝尔前恋人。不是对我有意思。<br>而且比起这种事，似乎毒物的调查才是优先的。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "ndnpc_AN_Archer Triana_qu_9285_05.ogg}<br>反正知道了他们已经经过这里，回<FONT color=#a82424>阿努阿兰德关卡</FONT>和 <FONT color=#a82424>阿洁丽雅</FONT>大人商议比较好吧。",
+      "answer": "",
+      "image": "qn_npc_azelia.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "阿洁丽雅大人似乎还没回来。<br>因为和那位精灵对话了，所以以为而我们会更慢。<br>去问那边的<FONT color=#a82424>警卫兵</FONT>阿洁丽雅是否来过了吧?",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "在找阿洁丽雅?<br>不是和你们一起去确认什么吗？没遇见吗?",
+      "answer": "",
+      "image": "qn_npc_azelia.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>约好在这儿见面的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>约好在这儿见面的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "难道出什么事了?<br>黄金草原的话，以她的实力早就通关两回了。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "ndnpc_AN_Archer Triana_qu_9285_05.ogg}<br>反正知道了他们已经经过这里，回 <FONT color=#a82424>阿努阿兰德关卡</FONT><FONT color=#2b2723></FONT><FONT color=#a82424> </FONT>找 <FONT color=#a82424>阿洁丽雅</FONT>商议一下会更好。",
+      "answer": "",
+      "image": "qn_npc_azelia.png"
+    }
+  ]
+}

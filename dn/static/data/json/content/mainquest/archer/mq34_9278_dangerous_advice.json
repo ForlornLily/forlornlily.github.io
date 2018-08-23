@@ -1,0 +1,254 @@
+{
+  "qkname": "危险的提议",
+  "data": [
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9278_01.ogg}<br>我也不知道中断女王选举会议是不是明智的决定。<br>虽然守住森林是重要的事情。..",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "警卫兵似乎变忙了。长老似乎也很忙，不去卡看也没关系吗?<br><FONT color=#7e12d2>(去生命之树处的精灵长老处看看吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "警卫兵似乎变忙了。长老似乎也很忙，不去卡看也没关系吗?<br><FONT color=#7e12d2>(去生命之树处的精灵长老处看看吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "精灵长老为女王选举会议似乎有话要对你说哦?<br><FONT color=#7e12d2>(去生命之树的精灵长老处看看吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "中断仪式的话，森林结界也无法再保护<FONT color=#a82424>艾丽迪安</FONT>了。<br>身为下任女王候补的她虽然没可能被轻易击败....<br><FONT color=#7e12d2>(精灵长老叹息着)</FONT>",
+      "answer": "",
+      "image": "qn_npc_elf_elridian.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "趁结界之力还残留，你去<FONT color=#a82424>月食峡谷</FONT>救出<FONT color=#a82424>艾丽迪安</FONT>吧。",
+      "answer": "",
+      "image": "qn_npc_elf_elridian.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。现在就去。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9278_02.ogg}<br>别忘了你是少数拥有资格的孩子。<br>两个人都要平安归来啊....",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "question": "<br><FONT color=#7e12d2>(这时候从后面听到了尤万西贝尔的声音)</FONT>",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9278_01.ogg}<br>真是愚蠢的判断啊。 <br>为了其他人竟然把唯一的女王候补派向危险之处。 ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>尤万西贝尔大人? 被释放了吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "如果我想，随时都能从他们的监视下逃跑。 <FONT color=#387206>{user_nick} </FONT>大人。<br>消灭森林附近出现的魔物的人员不足，警卫兵似乎也去那边了。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "比起无任何理由把我抓起来的事情，我更愤怒于你竟然想一个人把她派到危险地方去....<br>先感谢长老就这么放了我吧。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9278_03.ogg}<br>放了你不是因为信任你。 尤万西贝尔。<br>起码现在发生的这些事没有你在也照样发生着，所以只是觉得监视你的辛劳是无价值的而已。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "不管理由是什么毕竟放了我嘛。<br>是去<FONT color=#a82424>月食峡谷</FONT>吗?我也一起去吧。 ",
+      "answer": "",
+      "image": "qw_80.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我一个人也没关系的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "<FONT color=#387206>{user_nick} </FONT>大人不相信我吗?<br>\n带上我肯定会对搜索有帮助的。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9278_02.ogg}<br>而且就算你不允许我也会跟着你走的。<br>不想提心吊胆地看着你一个人去那种危险的地方。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "\n来，前往月食峡谷吧。",
+      "answer": "",
+      "image": "qw_80.png"
+    },
+    {
+      "npc": "萝丝琳德",
+      "question": "ndnpc_AN_Rozalinde_qu_9278_01.ogg}<br>哈啊....<br><FONT color=#7e12d2>(萝丝琳德忙于观察周围)</FONT>"
+    },
+    {
+      "npc": "萝丝琳德",
+      "question": "好奇怪啊。按照那家伙所说应该在这附近，呃嗯....嗯?<br><FONT color=#7e12d2>(陷入沉思的萝丝琳德以惊慌的表情看着我)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这位，是你杀害的吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝琳德",
+      "question": "ndnpc_AN_Rozalinde_qu_9278_02.ogg}<br>谁知道呢。我不是很想回答你哦? <br>啊~ 正上火呢....",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝琳德",
+      "question": "\n没话跟你这样的小孩子说。<br><FONT color=#7e12d2>(萝丝琳德无言地消失了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "别忘了你是少数拥有资格的孩子。.<br>希望你能从<FONT color=#a82424>月食峡谷</FONT><FONT color=#2b2723>中平安地救出艾利笛安……</FONT>",
+      "answer": "",
+      "image": "qw_80.png"
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9278_03.ogg}<br><FONT color=#a82424>萝丝琳德</FONT>跑了吗。<br>没在别处浪费时间的话，那个精灵也不会死真是太可惜了。",
+      "answer": "",
+      "image": "qn_npc_rosalin.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这里的遗物怎么样了呢?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "就是啊。没有碎掉的痕迹看来还很安全，但也不确定啊。<br>其实他们的目的不是破坏遗物，而是<FONT color=#a82424>利用遗物的力量</FONT>，如果遗物安全说明他们作战失败了吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>利用遗物的力量吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9278_04.ogg}<br>嗯。遗物和生命之树是有连接的。 <br>是使用用从生命之树收到的力量在这森林中布下结界的。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "相反，也能利用遗物向生命之树传达力量。<br>他们的目的不是破坏森林，而是操纵生命之树打开通向<FONT color=#a82424>巨石碑</FONT>之路的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>巨石碑是什么?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "对巨石碑我也不是很清楚。我只知道这是通向女神之梦的类似于媒介之类的东西。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9278_05.ogg}<br>好，你回到生命之树去吧。<br>通向巨石碑的路由女王守护着，你去保护女王和生命之树吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>尤万西贝尔大人不和我一起去吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "现在才对我表示关心吗。<br>\n就凭这个也太高兴了，感觉我们的离别变得更加痛苦。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "不过已经到了我等了很久的时机。<br>\n为了送你真正的自由，现在只能暂时放手了。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9278_06.ogg}<br>不过我再也不会边后悔边看着空空如也的双手。<br>看来要和你告别了。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "很高兴能再次保护你。<br>如果要去<FONT color=#a82424>月食峡谷</FONT>寻找其他候补，我也和你同行吧。",
+      "answer": "",
+      "image": "qw_80.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "那孩子最后前往的地方是<FONT color=#a82424>月食峡谷</FONT>吧。<br>请一定要平安地把那孩子找回来啊....",
+      "answer": "",
+      "image": "qw_80.png"
+    },
+    {
+      "npc": "萝丝琳德",
+      "question": "谁知道呢。我不是很想回答你哦? <br>啊~ 正上火呢....<br><FONT color=#7e12d2>(似乎无法再和萝丝琳德对话下去了)</FONT>"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9278_01.ogg}<br>你! 女王选举会议的候补们不是正在杀害吗，为什么一个人到处晃悠?<br>不是应该安静地受警卫兵们的保护并站在生命之树前吗。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>女王选举会议中断了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "什么?遗物被抢，女王选举会议也被中断，你们精灵到底想怎么救活生命之树啊?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>生命之树还没死呢。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "没区别吧。无法给正在死去的生命之树一些生命力，跟死了有什么区别呢。<br>别问这么仔细好不好?",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "是时候分手了。你先回到<FONT color=#a82424>阿努阿兰德关卡</FONT>去吧。<br>要阻止<FONT color=#a82424>萝丝琳德</FONT>才能实现你的目的。",
+      "answer": ""
+    }
+  ]
+}

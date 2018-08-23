@@ -1,0 +1,191 @@
+{
+  "qkname": "神秘的符咒",
+  "data": [
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "听说埃雷娜被有毒物质污染，之后就消失了。<br>不过喷射出来的毒素还是对凯德拉关卡附近地区造成了威胁。<br>真让人担心。",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "从埃雷娜的指令书来看，她打算在凯德拉关卡散播有毒物质。<br>嗯……从事情的规模来看，必须动员更多冒险家公会成员才行。这是件大事情。",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "还好魔法师们曾经研究过古代人有关净化的知识。<br><FONT color=#a82424>高级魔法师缇娜</FONT>说会在有毒物质在凯德拉关卡扩散开来之前，找到净化的方法。",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "你去见见<FONT color=#a82424>高级魔法师缇娜</FONT>吧。",
+      "answer": "",
+      "image": "qn_npc_soceresstiana.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "凯德拉关卡被投毒的消息在四处流传。<br>戴卡德一定很头疼～",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "没关系！一切都会好起来的！<br>\n大家加油！",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "我听到了宿命的召唤。<br>你没有听到吗？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "无法理解。<br>像你这种人，真是搞不懂。",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "现在只能寄希望于<FONT color=#a82424>高级魔法师缇娜</FONT>寻找的那份资料了……",
+      "answer": "",
+      "image": "qn_npc_soceresstiana.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "我已经听到了消息，说好像有毒素还是污染物质正在凯德拉关卡扩散。<br>所以我正在寻找有帮助的东西……",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "事实上，在魔物战争爆发前10多年，我曾经奉<FONT color=#a82424>英雄魔法师卡拉秋</FONT>之命，对古代人的净化装置进行过调查。<br>\n当时主要由我的老师负责，我只不过是在一旁协助罢了。",
+      "answer": "",
+      "image": "qn_npc_karakule_silhouette.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "但是老师在凯德拉关卡的抗战中突然遭遇不测，之后有关净化装置的研究工作就被迫中断了。<br>后来我也因为忙着做其他事情，没有对老师留下的资料进行整理。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "我得知老师留下的资料就在死亡盆地的某处，所以就连忙派遣冒险家赶往那里。<br>希望他们能顺利找到材料……",
+      "answer": "",
+      "image": "qw_24.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "那些冒险家现在还没回来。<br>不知道有没有遇到什么问题。那里的有毒物质非常危险。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "可以的话，你能帮我跑一趟吗？<br>我很担心材料，也很担心冒险家们的安危。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "需要去的地方是<FONT color=#a82424>死亡盆地</FONT>。<br>那里很危险，一定要注意安全。要是出了什么事，我会于心不安的。",
+      "answer": "",
+      "image": "qw_24.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊！！<br>\n<FONT color=#387206>{user_nick}</FONT>，你怎么过来了？！",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "不，我不是那个意思，我是说你是怎么安然到达这里的。<br>这里很危险，为了避开有毒物质，需要采取必要的措施。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "所……所以我们在来这里之前，从阿尔杰塔那里拿到了叫做符……符咒的东西……<br><FONT color=#7e12d2>(西恩急忙避开了视线，脸涨得通红)</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>符咒？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "符咒，是我给的。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "嗯？！……什么？<br><FONT color=#7e12d2>(西恩睁大了眼睛，轮番看着露娜莉娅和{user_nick}的脸)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "那个……<br>\n我是说……<br><FONT color=#7e12d2>(西恩看了一眼特里亚纳，像是在请求帮助)</FONT>",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "……？西恩，你这是在干什么？<br>既然魔法师的研究资料已经找到了，我们难道不应该快点回到<FONT color=#a82424>高级魔法师缇娜</FONT>那里去吗？",
+      "answer": "",
+      "image": "qn_npc_soceresstiana.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊！！没……没错！<br>\n快，快点回去吧！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(到底发生了什么事？</FONT><br>\n<FONT color=#662500>露娜莉娅的话有什么奇怪的吗？)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "符咒，我只是说有我在，没有关系……<br>我说了什么奇怪的话了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这个嘛……</FONT><br>\n<FONT color=#662500>搞不明白……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "呵呵，总……总之我们快点回到<FONT color=#a82424>高级魔法师缇娜</FONT>那里去吧。<br>有了这个东西，应该就能从危机中拯救凯德拉关卡了。",
+      "answer": "",
+      "image": "qn_npc_soceresstiana.png"
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "我对战士西恩带回来的文件进行了解读。嗯……好像找到了办法。<br>这里写着<FONT color=#a82424>古代人为了给凯德拉关卡周围的森林注入生命力而使用过古代机械装置</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "使用那种净化装置，也许可以让荒凉的死亡森林重新变得和以前一样。<br>凯德拉关卡也能摆脱那个可恶的黑暗精灵散播的有毒物质的困扰了。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "据说在古代人的知识当中，有一种可以解除物质毒性的净化装置。<br>这个文件中就记录了那个净化装置的有关内容。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "要想启动净化装置……啊？！！",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师缇娜",
+      "question": "这里，看这里！<br><FONT color=#7e12d2>(缇娜指着记录的解读本说)</FONT>",
+      "answer": ""
+    }
+  ]
+}

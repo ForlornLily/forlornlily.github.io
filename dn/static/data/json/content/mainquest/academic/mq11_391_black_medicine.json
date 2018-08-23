@@ -1,0 +1,283 @@
+{
+  "qkname": "寻找黑色的治疗药",
+  "data": [
+    {
+      "npc": "???",
+      "question": "（被黑暗邪恶的气息所围绕的翅膀碎片。<br>周围散布着看上去像是血迹的东西）"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……<br><FONT color=#7e12d2>（贝思柯德包裹着伤口，闭着眼睛）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "为了神圣天堂，我要继续努力！！",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_03.ogg}<br>先知好像还在沉睡，金龙的巢穴到底为什么会解除呢？<br>想不明白。资料里也没有记载……真让人担心。",
+      "answer": "我会在旁边看着的。"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_05.ogg}<br>嗯……那你先去位于黑山山角的<FONT color=#a82424>贝思柯德</FONT>那里看看吧？<br>同样是龙……他应该有什么感觉吧。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "为了神圣天堂，我要继续努力！<br>如果你愿意，我们一起做事吧？",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（被黑暗邪恶力量包围的翅膀碎片。<br>周围散落着血迹）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……麻烦的客人来啦。<br><FONT color=#7e12d2>（贝思柯德郁闷地睁开眼）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>没有什么我能帮忙的吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "需要帮忙的事情。<br><FONT color=#7e12d2>（贝思柯德暂时陷入沉思）<br></FONT>……你能帮我做件事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！你在拜托我</FONT><FONT color=#662500>做事啊！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "让你做事你居然这么高兴，真是个奇怪的小鬼啊。<br>任人使唤就那么开心吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>因为这不是命令，而是委托啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "名称是什么并不重要。<br>实则都是被外界的意志所左右。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>嗯……所以你想拜托我做什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "希望你能前往<FONT color=#a82424>黑暗大君主之塔</FONT>，帮我回收我的核心。",
+      "answer": "",
+      "image": "qw_40.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>核心？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "只要找到我被撕碎的<FONT color=#a82424>翅膀</FONT>，把<FONT color=#a82424>碎片</FONT>拿回来就行。<br>……接触一部分应该不会有什么问题。",
+      "answer": "",
+      "image": "qw_40.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "快去<FONT color=#a82424>黑暗大君主之塔</FONT>吧。<br>如果找到我的翅膀碎片，就把碎片带回来。",
+      "answer": "",
+      "image": "qw_40.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br><FONT color=#7e12d2>▷ 请前往黑暗大君主之塔，搜集黑龙的翅膀碎片。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊，<FONT color=#387206>{user_nick}</FONT>你也是来寻找黑龙翅膀碎片的？<br><FONT color=#7e12d2>（战士西恩望着黑龙翅膀的方向）</FONT>",
+      "answer": "",
+      "image": "qw_40.png"
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（由奇怪的组织构成的翅膀碎片。<br>周围散布着看上去像是血迹的东西）</FONT>",
+      "answer": "（小心翼翼地取出一部分）"
+    },
+    {
+      "npc": "黑龙翅膀碎片",
+      "question": "<FONT color=#7e12d2>（小心翼翼地搜集了翅膀碎片，不被血沾染。<br>感受到了一股强大的力量）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "<FONT color=#7e12d2>（环顾四周，发现战士西恩正望向这边。</FONT><br><FONT color=#7e12d2>他似乎有话想说）</FONT><br>\n ",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "我还在想你最近在忙什么，原来你在帮<FONT color=#a82424>主教伊格纳西奥</FONT>做事啊？<br>你是来找黑龙碎片的吧？嘿嘿。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>不是他拜托我来的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "不是的？嗯……<FONT color=#a82424>伊格纳西奥</FONT>对我说必须要净化黑龙的力量，所以我才来搜集碎片的。所以我还以为<FONT color=#387206>{user_nick}</FONT>也跟我一样呢……",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我是受到其他人的委托来搜集碎片的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "原来如此。你要确保那个人不会用这碎片来做坏事哦，知道了吗？<br>当然，<FONT color=#387206>{user_nick}</FONT>应该不会被那样的小把戏欺骗的，嘿嘿。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>请不要协助主教。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "嗯？你为什么突然这么说？<FONT color=#a82424>伊格纳西奥</FONT> 是位非常好的人，他忙碌之余还不忘<FONT color=#a82424>神圣天堂</FONT>的安危，自己出钱激励冒险家们守护这里。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>但他很可疑。主教居然知道净化黑龙的仪式，其他人到现在连正确的答案</FONT><FONT color=#662500>……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "<FONT color=#7e12d2>（西恩的态度很强硬）</FONT> 如果你觉得他让我搜集黑龙的碎片十分可疑，那委托<FONT color=#387206>{user_nick}</FONT>搜集碎片的那个人就不可疑吗？但是，我都没有追问是谁拜托你搜集碎片的，因为我对<FONT color=#387206>{user_nick}</FONT>你十分信任。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>话虽如此……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "好了！长时间携带碎片可能会有危险，<br>那我先回去啦。<FONT color=#387206>{user_nick}</FONT>，你也要注意安全啊，下次再见！！<br><FONT color=#7e12d2>（请回到黑山山角的贝思柯德那里）</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "我先走啦。因为长时间携带黑龙碎片可能会有危险的。<br><FONT color=#7e12d2>（请回到黑山山角的贝思柯德那里）</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#7e12d2>Mission Object.<br></FONT>▷ <FONT color=#7e12d2>请去见见黑山山角的贝思柯德吧。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "没想到你还挺能干的，小孩。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……用先知的力量好不容易才完成的<FONT color=#a82424>黑龙</FONT>身体被毁掉了。<br>我暂时没法变成龙了。慢慢应该能恢复……肉身这东西真是烦人。<br><FONT color=#a82424>古代人的后裔</FONT>还在那个人的身边吗？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰兰特在保护她。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "哼，就知道做些无用之事。<br>他想一辈子待在那里守护古代人的后裔吗？",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……黑色核心的一部分好像落入了谁的手中。<br>虽然不是什么大问题，但是又有愚蠢的人类想得到龙的力量吗？",
+      "answer": "（转述看到的事情）"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "净化…… 伊格纳西奥，那个主教好像有什么诡计。<br>那些愚蠢的冒险家是想要了我的命啊。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>不能阻止他们吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "无知就是罪。轻易被他人的言语所蛊惑，就算事后后悔，也只能怪自己无知。<br>以后无论他们有多愤怒，是选择报仇还是死亡，都与我无关。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>贝思柯德，你在说自己吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……. 烦人的小鬼。<br><FONT color=#7e12d2>（贝思柯德转过头，似乎不想继续对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（去找姐姐吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你最好留意下伊格纳西奥。<br>呃，虽然无论招致什么结果，都是那些愚蠢的冒险家的责任。<br><FONT color=#7e12d2>（请链接神圣天堂的学者站台，向姐姐报告）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_04.ogg}<br><FONT color=#a82424>战士西恩</FONT>也在那里地方，他还说要提取黑龙的核心？<br>这……这件事很可疑啊。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "记录上明确记载，伊格纳西奥就是神圣天堂的<FONT color=#a82424>叛徒</FONT>。<br>这样的人不可能做什么好事吧？<br>他肯定有什么诡计。虽然我现在还不知道他的诡计是什么……",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "\n真是令人担心啊。即便如此，也不能过分干涉这件事。",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "qkname": "摸索方法",
+  "data": [
+    {
+      "npc": "牧师伊桑",
+      "question": "\n这都是我的过失。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "没～没关系！一切都会好起来的！<br>哇哈哈哈！",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_MR_Jasmin_sp_05.ogg}<br>请记住。<br>你是我们的希望。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "我听到了宿命的召唤。<br>你没有听到吗？",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "我甚至动员了因飞艇坠毁，身体还未完全复原的精锐兵……<br>现在凯德拉会变成什么样呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你不要太过担心。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "其他的冒险家也在努力想办法解决这个问题。<br>不知道他们有没有什么好办法。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他们聚集在什么地方？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "他们好像聚集在<FONT color=#a82424>灰色废墟</FONT>商讨这件事。<br>小姑娘，你和那些冒险家好像很亲近，如果你有时间，就去那里看看吧。",
+      "answer": "",
+      "image": "qw_cristalstream.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_MR_Jasmin_sp_05.ogg}<br>你是我们的希望。<br>请记住。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "最近你的声名远扬。<br>大家都在称赞<FONT color=#387206>{user_nick}</FONT>小姐的活跃表现。<br>你真是个了不起的小姑娘。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "天啊，你又来确认我是否平安无事？<br>请不要担心，你也看到了，我是很强大的。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊~！！<FONT color=#387206>{user_nick}</FONT>，你来啦！！！<br>刚好我们正在讨论如何解决凯德拉面临的危机呢！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>有结论了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "<FONT color=#a82424>安杰利卡</FONT>去询问<FONT color=#a82424>高级魔法师缇娜</FONT>了。<br>据说魔法师们之前对净化有些研究。<br>我们打算用魔法师们的方法来净化凯德拉。",
+      "answer": "",
+      "image": "qn_npc_soceresstiana.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我来搜索下数据。</FONT><br>\n<FONT color=#7e12d2>（听到搜索数据，西恩一脸神秘）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "搜索数据库",
+      "question": "\n▶ <FONT color=#086171>没有搜到结果。</FONT><br>\n<FONT color=#2b2723>▷ </FONT><FONT color=#7e12d2>请重新设置类目。</FONT><FONT color=#086171><br></FONT><FONT color=#2b2723>▷ </FONT><FONT color=#7e12d2>请重新设置搜索对象。</FONT><FONT color=#086171><br><FONT color=#2b2723>▷ </FONT><FONT color=#7e12d2>关于服务品质的问题，请联系客服中心。</FONT><FONT color=#7e12d2><br></FONT><FONT color=#086171>※ Bellin Corporation. 客服中心：1588 - xxxx（24小时运营）</FONT></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（去问问姐姐吧？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "<FONT color=#387206>{user_nick}</FONT>已经帮过我们很多次了，这件的事情就由我们自己解决吧。<br>我们一定会找出净化的方法，拯救凯德拉！嘿嘿。<br><FONT color=#7e12d2>（西恩自信满满地说）</FONT>",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "question": "<FONT color=#7e12d2>（没有凯德拉净化材料的相关数据。<br>链接凯德拉关卡的学者站台，询问姐姐净化方法吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_03.ogg}<br>嗯……凯德拉关卡的净化方法？<br>如果利用古代人的研究，说不定可行……<br>无论如何，根据我们的历史记载，凯德拉关卡会被完全净化。<br>\n<FONT color=#7e12d2>（百合花搜索着数据）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "啊，找到啦，嗯……我搜到了<FONT color=#a82424>古代人为了净化凯德拉周围的山林，并为其注入生命力而制造的机械装置</FONT>。<br>或许我们能用这装置净化污染物质。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>那是什么样的装置？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "mqc18_9738_find_the_grele",
+    "name": "寻找格雷尔",
+    "qid": "9738",
+    "nextid": "9739",
+    "chapter": "18"
+  },
+  {
+    "id": "mqc18_9739_blue_hair",
+    "name": "蓝发少年",
+    "qid": "9739",
+    "nextid": "9740",
+    "chapter": "18"
+  },
+  {
+    "id": "mqc18_9740_meet_again_grele",
+    "name": "再见面的格雷尔",
+    "qid": "9740",
+    "nextid": "9741",
+    "chapter": "18"
+  },
+  {
+    "id": "mqc18_9741_child_hiver",
+    "name": "查尔德伊贝尔",
+    "qid": "9741",
+    "nextid": "9742",
+    "chapter": "18"
+  },
+  {
+    "id": "mqc18_9742_proviso_of_hiver1",
+    "name": "伊贝尔留下之物 I",
+    "qid": "9742",
+    "nextid": "9743",
+    "chapter": "18"
+  },
+  {
+    "id": "mqc18_9743_proviso_of_hiver2",
+    "name": "伊贝尔留下之物 II",
+    "qid": "9743",
+    "nextid": "9744",
+    "chapter": "18"
+  },
+  {
+    "id": "mqc18_9744_corpse_of_past",
+    "name": "过去的遗骸",
+    "qid": "9744",
+    "nextid": "9745",
+    "chapter": "18"
+  },
+  {
+    "id": "mqc18_9745_take_care_of_sister",
+    "name": "拜托姐姐",
+    "qid": "9745",
+    "nextid": "",
+    "chapter": "18"
+  }
+]

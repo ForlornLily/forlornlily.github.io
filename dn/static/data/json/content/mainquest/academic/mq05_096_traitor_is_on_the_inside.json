@@ -1,0 +1,217 @@
+{
+  "qkname": "叛徒在内部",
+  "data": [
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n事情真是没完没了。<br>我真是太伤心了！<br>\n<FONT color=#7e12d2>（辛西亚嘟囔着）</FONT>",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n啊，小孩！<br>\n你来得正好！",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "ionTalk2}<br>那个，安杰利卡是找回了秘传之球，但有个黝黑的家伙又将秘传之球偷走了？！！<br>\n如果让我抓到他，我要他吃不了兜着走！我会立刻把他变成青蛙，然后用高跟鞋<FONT color=#a82424>啪</FONT>！！将他碾碎！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，但你为什么找我呢……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "嗯，你去<FONT color=#a82424>融解森林</FONT>见见我的弟子安杰利卡。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "安杰利卡为了追踪小偷，跑到了村子外围，她说想要抓到犯人，必须要获得你的帮助呢？<br>总之，她拜托你立刻去找她。<br>因此，请前往<FONT color=#a82424>融解森林</FONT>，见见<FONT color=#a82424>安杰利卡</FONT>吧。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>噢？我现在还有些事情需要处理啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n事情？什么事情？很急吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我要向姐姐报告现在的状况。</FONT><br>\n<FONT color=#662500>她肯定很担心我。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "好不容易才找到的<FONT color=#a82424>秘传之球</FONT>，这算什么事啊？！<br>\n真是烦死了，真烦！",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "\n▶ Mission Object.<br>▷ <FONT color=#7e12d2>请去找高级魔法师辛西亚，确认下秘传之球的情况吧。</FONT>",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（现在这里的事情已经处理完了。</FONT><br>\n<FONT color=#662500>回去魔法山脊，去见见高级魔法师辛西亚吧）</FONT>",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "那你快点报告，然后再去找她就行了。<br><br>\n※ <FONT color=#7e12d2>链接学者站台，向百合花报告目前的状况吧。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_MR_Jasmin_sp_01.ogg}<br>你来啦，<FONT color=#387206>{user_nick}</FONT>。<br>你了解魔法山脊的情况了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "\n带回村子的秘传之球又被人偷走了？<br>\n如果查询数据，应该能掌握现在的时间了。稍等……<br>\n<FONT color=#7e12d2>（百合花正查询数据）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "\n好的！我已确认完毕。秘传之球很快就会被回收的。<br>\n如果时间能再早一些，我们应该能赶在<FONT color=#a82424>先知</FONT>在普雷利镇被绑架之前，抢先动手的，真是可惜。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>先知现在在哪里？</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "目前应该仍在<FONT color=#a82424>普雷利镇</FONT>附近。不过，稍后应该就会被<FONT color=#a82424>红色鹰身人情妇</FONT>绑架。<br>目的地是叹息峡谷。",
+      "answer": "",
+      "image": "qm_harpyred.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "只是，按照记录，目前仍有些空余时间，我觉得现在立刻出发为时过早。<br>\n所以，你还是先做完适应训练再出发吧。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "不过，你见过他们了吗？",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你说……他们？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "六大英雄啊，在魔法山脊……就是说……<br><FONT color=#a94407>暴走的魔法山脊统治者安杰利卡</FONT>和<FONT color=#a94407>神圣之光的守护者伊桑</FONT>。<br>这两位英雄就是在那里开始正式起步的。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "\n嗯。话说，不久<FONT color=#a82424>伊桑</FONT>就将面临他人生中的困难时期。",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "实际上，偷走秘传之球的人正是伊桑的师兄<FONT color=#a82424>牧师杰克</FONT>。<br>杰克很快就会被伊桑杀死，之后伊桑将会埋怨并想念着杰克，陷入悲伤之中。",
+      "answer": "",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "\n<FONT color=#387206>{user_nick}</FONT>，我想提醒你……你不要干预杰克和伊桑之间的事情。<br>\n如果你改变了历史，说不定我们的任务也会因此失败。",
+      "answer": "",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_MR_Jasmin_sp_08.ogg}<br>请不要忘记，你是我们最后的希望……<br><FONT color=#7e12d2>(与百合花的通讯结束。前往融解森林，去见见魔法师安杰利卡吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "哪个不知天高地厚的家伙，居然敢偷走我的东西！我绝不轻饶他！<br><FONT color=#7e12d2>（安杰利卡暴跳如雷）</FONT>",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "啊，小孩！<br>你怎么现在才来啊！快，快点~ 快用那个神奇的机械帮我找到那个人！",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "<FONT color=#a82424>那个偷走秘传之球的小偷</FONT>！<br>我听说他是个做尽坏事的牧师，我结果早就料到了！这个坏……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你是说杰克？</FONT>",
+      "answer": "",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "……嗯？谁？<br><FONT color=#7e12d2>（安杰利卡眼睛瞪得圆圆的）</FONT><br>你说的杰克，是那个长得很帅的牧师？伊桑那家伙的师兄……？",
+      "answer": "",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "唉~ 你说什么啊？那么帅的人怎么可能是叛徒啊。哈哈哈~叛徒是那个<FONT color=#a82424>蘑菇头牧师</FONT>啦！<br>他好像叫什么<FONT color=#a82424>赛德瑞</FONT>，我第一次见到他时，就觉得他很可疑？！看他的脸就知道他是叛徒了！",
+      "answer": "",
+      "image": "qn_npc_cl_fallen_cedric.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>嗯？赛德瑞吗？但据我所知……</FONT>",
+      "answer": "",
+      "image": "qn_npc_cl_fallen_cedric.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "啊，总之你赶紧找找那个叛徒在哪儿！<br>赶紧啊！！！",
+      "answer": "（搜索数据）"
+    },
+    {
+      "npc": "File No.107  被偷走的宝珠",
+      "question": "<FONT color=#7e12d2>偷到秘传之球的龙之追随者移动到霜风森林……</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "原来他逃去了霜风森林！<br>我知道了！<br><FONT color=#7e12d2>（安杰利卡捋起了袖子）</FONT>",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br>▷ <FONT color=#7e12d2>请到融解森林见见安杰利卡。</FONT>",
+      "answer": ""
+    }
+  ]
+}

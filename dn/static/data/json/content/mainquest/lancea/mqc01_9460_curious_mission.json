@@ -1,0 +1,210 @@
+{
+  "qkname": "奇怪的差事",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "啊额额……<FONT color=#7e12d2>（摔倒的埃提亚揉着自己受伤的地方）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "啊额额……<FONT color=#7e12d2>（摔倒的埃提亚揉着自己受伤的地方）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你还好吗？一看到魔法山脊就在眼前，我有些兴奋过度了啊。<br>居然扔下你就走了……对不起。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "诶……没什么，姐姐。<br>我也是，光顾着看魔法山脊了，根本没想到那些小妖精会出现……啊！<FONT color=#a82424>秘传之球</FONT>！找回秘传之球了吗？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>现在是担心秘传之球的时候吗？让我看看，伤到哪儿没有？？</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "当然得担心<FONT color=#a82424>秘传之球</FONT>啦！这可是父亲第一次把任务交给我们，不是吗？<br>都怪我，才把秘传之球弄丢的！怎么办~~",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么弄丢啊！也不看看你姐姐我是谁？嘿嘿。<br>当当！找回来啦~~~（把秘传之球拿给埃提亚看）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "啊！姐姐。可不能在这种地方把它拿出来啊。<br><FONT color=#7e12d2>（埃提亚连忙用包袱把秘传之球包了起来，又环视了一下四周）</FONT><br>父亲不是说了吗，在把它送到目的地之前，绝对不能让任何人知道我们在护送秘传之球。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，对哦！的确说过~<br>不过，现在只要把秘传之球转交到接收人的手里，任务就完成啦！不就可以回家了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "那倒是。不过我第一次离家这么久感觉还挺有意思的~真可惜。<br>那我们赶紧到魔法山脊去把秘传之球交给<FONT color=#a82424>高级魔法师辛西亚</FONT>后就回家吧，姐姐。<br><FONT color=#7e12d2>（埃提亚微笑着）</FONT>",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道啦！可爱的小家伙~<br>（抚摸了一下埃提亚的头后，决定朝辛西亚的方向去）</FONT>",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "question": "<br><FONT color=#7e12d2>（先扶着埃提亚前往村庄吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "哼，这么可爱的小家伙我可没理由记不住，传闻中不久前来到魔法山脊的小姐就是你吧？<br>和你一起来的那个小姑娘好像在等你，你没找到她吗？用不用我告诉你怎么走？<br><FONT color=#7e12d2>（需要先和埃提亚对话）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "高级魔法师辛西亚就在这附近。<br>个子很高、身材很棒的那位。嗯，就是她。<br><FONT color=#7e12d2>（埃提亚指着高级魔法师辛西亚的方向）</FONT>",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "<FONT color=#7e12d2>（辛西亚看着我不由分说地拿到她面前的包袱，有些吃惊）</FONT><br>这是什么？这包袱？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，连招呼都忘记打了……<br>您好~我是被派来送东西的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "送东西？呵呵呵，看来是有人给我辛西亚送礼物了。<br>你的样子像是位大家闺秀，我的美貌已经传到你们村子了吗？<br><FONT color=#7e12d2>（辛西亚轻扬着嘴角说道，心情似乎不错）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不，这不是礼物。派我来的人说这里的魔法师一定会用到这东西的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "呃，哼！你就不能顺着我的话说吗，还偏要固执地否定我……<br><FONT color=#7e12d2>（高级魔法师辛西亚打开包袱，目光有些发蒙地望着里边的东西）</FONT><br>呃？这个！？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嘿嘿，我就知道您认得它！<br>当当~！这正是由贤者传下来的的秘传之球。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "<FONT color=#7e12d2>（高级魔法师辛西亚一言不发，只是表情漠然地看着我）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>所以，啊！对了！<br>说是当某个什么法杖到达魔法山脊的时候，就会需要这颗秘传之球了，所以我才送过来的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "法杖？你是说<FONT color=#a82424>贤者法杖</FONT>？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>对！贤者法杖。就是这个名字！<br>那么，我到得还算及时吗？</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "你！是怎么知道贤者法杖正在被送往这里的？<br><FONT color=#7e12d2>（辛西亚上下打量着{user_nick}的着装，一边接着说）</FONT><br>看你的样子不像是牧师啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（呃？怎么办。如果我说是从父亲那里得知的，说不定又得说到钢铁兄弟团了……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个……是，是我道听途说来的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "道听途说？就连牧师中都少有人知的秘密，你居然能通过道听途说知道？<br>而且！贤者法杖都已经不见了，我正因这事忙得不可开交，你却拿个<FONT color=#a82424>假的秘传之球</FONT>来？",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "你说是有人派你来的？那你说说看，是谁派你来的？<br>要是不老实交代的话，我就把你当成偷法杖的贼处置！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>法杖！被偷了！！在哪儿？怎么被偷的！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "在霜风峡谷遭到了袭击……哼！？真是个无礼的家伙。我问的问题还没回答，就来反问我！<br>我不是问你是谁派你来送这个假珠子的吗！<br><FONT color=#7e12d2>（高级魔法师辛西亚气呼呼地把秘传之球摔到了地上）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>对于这个问题，我实在是难以奉告……不过您要是认为我有什么歹意的话，那可真是误会了！！<br>（就算大声辩解也似乎难以解除误会。回去找埃提亚吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "喂！你想逃跑吗？还不给我站住！？<br><FONT color=#7e12d2>（快跑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "发生什么事了？我看<FONT color=#387206>辛西亚</FONT>好像生气了吧？<br>秘传之球，没顺利交给她吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>埃提亚……我们该怎么办啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "什么怎么办？到底发生什么事了？？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>她说，父亲得到的秘传之球，是假的……</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "什么？？假的！？",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "qkname": "女王的宝座",
+  "data": [
+    {
+      "npc": "精灵长老",
+      "question": "尤万西贝尔从一开始就是为了进入这里才掺到女王选举会议的。<br>得阻挡他....",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "尤万西贝尔从一开始就是为了进入这里才掺到女王选举会议的。<br>得阻挡他...<br><FONT color=#7e12d2>(组队状态下无法进行该任务)</FONT>"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "<FONT color=#a82424>尤万西贝尔</FONT>已经进到生命之树内部了。<br>女王很危险。快点!",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "得阻止他!!<br><FONT color=#7e12d2>(和尤万西贝尔对话吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": ".......<br><FONT color=#7e12d2>(尤万西贝尔以平静的视线望着{user_nick}处)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>尤万西贝尔大人!</FONT><br>\n<FONT color=#662500>你不能进到这里。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9281_01.ogg}<br>果然…似乎无法避开你啊。<br><FONT color=#7e12d2>(尤万西贝尔的视线似乎晃了晃)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>为什么来到这里的?</FONT><br>\n<FONT color=#662500>我明明暂时相信了你。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "不是跟你说过吗。我也有我的目的。<br>看看那个女王吧。<br>\n被树所束缚，连行动的自由和选择的愉悦都被夺走，只能安静等死的可怜的存在....",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "束缚每一个精灵的宿命锁链从今天开始会彻底消失的。<br>和所有束缚的根源，生命之树一起。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9281_02.ogg}<br>所以别再干涉我的事情了。<br>我绝对不想害…你啊。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9281_03.ogg}<br>这里是?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也不清楚。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "\n…受到萝丝琳德袭击时，我觉得你在保护我。<br>\n这种时候，原谅以那种事沾沾自喜的我吧。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "呃呃....<br><FONT color=#7e12d2>(尤万西贝尔抓着伤口呻吟着)</FONT>"
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "我们似乎被生命之树吸进来了。<br>那里似乎有人在。去看看吧。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "…看起来像是<FONT color=#a82424>女王纳尔希亚</FONT>大人啊。<br>\n是她有话要对我们说吗?"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(强烈的光芒在闪耀着。这光是什么?)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "女王纳尔希亚",
+      "question": "又见面了。我的孩子啊。<br>看到你们似乎陷入危险中，所以先把你们带到这儿来了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这里是哪里呢?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "女王纳尔希亚",
+      "question": "ndnpc_Queen_Narsilia_qu_9281_01.ogg}<br>这里是生命之树的内部... <FONT color=#a82424>女王的祭坛</FONT>。<br>是用光生命力的女王安息之处。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>女王的样子….</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "女王纳尔希亚",
+      "question": "还没有。<br>不过光是用我的意志已经无法治理这又深又静的地方了。 <br>马上，照耀着这里的生命之光也会消失吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这些魔物是什么呢?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "女王纳尔希亚",
+      "question": "受痛苦的女王的记忆和悲伤会引来这些魔物。<br>\n把力气全都用到救你们，现在已经变成了连这种怪物都无法阻挡的身体啊。",
+      "answer": ""
+    },
+    {
+      "npc": "女王纳尔希亚",
+      "question": "ndnpc_Queen_Narsilia_qu_9281_02.ogg}<br>在这棵树下失去生命的精灵女王既不会成为土也不会成为树，就像这样....<br>啊。不行!他们再次....<br><FONT color=#7e12d2>(纳尔希亚的样子变淡，出现了扭曲者)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "女王爱玛莉莉丝",
+      "question": "ndnpc_AN_Queen Amalilis_qu_9281_01.ogg}<br>尤万西贝尔…. 尤万西贝尔….<br>是你回来了吗。<br><FONT color=#7e12d2>(呼唤尤万西贝尔的声音听起来很悲伤)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "赛伦西艾尔… 我的赛伦西艾尔!<br>\n真的是你吗?",
+      "answer": ""
+    },
+    {
+      "npc": "女王爱玛莉莉丝",
+      "question": "是啊。是我，赛伦西艾尔…. 成为女王<FONT color=#a82424>爱玛莉莉丝</FONT>的你的伙伴。<br>我所选择的女王之路，对你来说竟然是要离开我们精灵程度的痛苦。",
+      "answer": ""
+    },
+    {
+      "npc": "女王爱玛莉莉丝",
+      "question": "ndnpc_AN_Queen Amalilis_qu_9281_02.ogg}<br>不过我坚信这就是你的<FONT color=#a82424>特雷西亚</FONT>，尤万西贝尔….<br>我就知道我们迟早能再次相会。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "赛伦西艾尔。没想到能再见到你….<br>\n怎么会有这种事….",
+      "answer": ""
+    },
+    {
+      "npc": "女王爱玛莉莉丝",
+      "question": "尤万西贝尔。还不懂吗?<br>别总是逃避，倾听你自己的特雷西亚吧。<br><FONT color=#7e12d2>(爱玛莉莉丝的视线转向{user_nick})</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "赛伦西艾尔…你在看谁?<br><FONT color=#7e12d2>(尤万西贝尔用吃惊的瞳孔看着{user_nick}处)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(尤万西贝尔大人的特雷西亚?)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "很久以前我就决定好了。<br>为了永远和你在一起，为了给同族自由，我要选择我自己的路。<br>然后…….",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "然后为了给<FONT color=#387206>{user_nick} </FONT>大人，和你不一样的… 道路….<br><FONT color=#7e12d2>(尤万西贝尔的脸色变得越来越白)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "女王爱玛莉莉丝",
+      "question": "\n我一直祈祷着你能获得真正的和平。 尤万西贝尔.<br>\n真正的和平，真正的自由…. 希望你的选择能给你带来幸福。<br>\n现在能看到你该走的路吗? 尤万西贝尔.",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "真正的自由….<br>…我现在才知道这热烈的感情通向何方。<br>\n我的赛伦西艾尔。我的女王啊。",
+      "answer": ""
+    },
+    {
+      "npc": "女王爱玛莉莉丝",
+      "question": "尤万西贝尔似乎终于在看着宿命之路啊。因为你。<br>谢谢你啊。纳尔希亚的孩子啊。<br><FONT color=#7e12d2>(爱玛莉莉丝似乎露出了明亮的微笑)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9281_04.ogg}<br>这一切都是我的特雷西亚…?<br><FONT color=#7e12d2>(弓箭手尤万西贝尔看起来十分混乱)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>尤万西贝尔大人，你...</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "<FONT color=#7e12d2>(静静望着的尤万西贝尔忽然点着头，想抚摸{user_nick}的脸颊)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9281_05.ogg}<br>是啊，宝贵的人。我现在正在死去。<br>不过不需要你担心。<br>通过你，我终于知道了我拒绝过的宿命是什么。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "纳尔希亚的力量用尽之后，就像赛伦西艾尔一样，由你来背负女王的宿命吧。<br>我又要看着重要的人的未来被束缚在树根上。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "不过这次不能那么做。<br>拯救因为我的错误而丢失掉的你的未来，这就是留在赛伦西艾尔身上的我的迷恋和为你的赎罪。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>赎罪?</FONT><br>\n<FONT color=#662500>你想干什么?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "我会成为取代所有精灵的母亲，作为父亲望着你。<br>你的未来….",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>取代母亲的父亲?</FONT><br><FONT color=#662500>你要成为王… 吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9281_06.ogg}<br>为长得像赛伦西艾尔的你准备的着的不是女王之路，而是别的道路啊。<br>去那自由的世界重新走遍无数个道路吧。<br><FONT color=#7e12d2>(弓箭手尤万西贝尔的话刚完，树根就开始缠住他的身体)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "不是放下双手被抢，而是为了你背这个包袱。<br>还给你那天然的一生带给你的无数可能性。<br>这就是我自由的选择。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "我以这个得到了真正的和平。<br>愿你走着的路一直很自由….",
+      "answer": ""
+    },
+    {
+      "npc": "爱玛莉莉丝",
+      "question": "\n我一直祈祷尤万西贝尔能获得真正的和平。<br>\n我的愿望，到现在才实现了。",
+      "answer": ""
+    },
+    {
+      "npc": "爱玛莉莉丝",
+      "question": "\n尤万西贝尔已经知道了他的宿命。<br>真的… 总是这么慢。",
+      "answer": ""
+    },
+    {
+      "npc": "爱玛莉莉丝",
+      "question": "纳尔希亚的孩子啊。再和他对话吧。<br>\n他似乎有话要说。<br><FONT color=#7e12d2>(女王爱玛莉莉丝似乎露出了微笑)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "undnpc_AN_Warrior Sian_qu_9281_01.ogg}<br><FONT color=#387206>{user_nick} </FONT>大人!这是怎么一回事?<br>明明和那个精灵，尤万西贝尔一起消失了....",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这里又是生命之树...?</FONT><br><FONT color=#7e12d2>(坐在女王玉座的纳尔希亚的身影已经消失不见)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>纳尔希亚大人马上就会接受进入永眠的。</FONT><br>\n<FONT color=#662500>然后下一任的女王是，不，应该得称作王吧。<br>尤万西贝尔，那位成了生命之树的下一任王。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "呃..?呃? 那么精灵最初的男性女王…不，王诞生了吗?<br>这是该庆祝的事......吧?<br><FONT color=#7e12d2>(西恩不好意思地笑着)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>萝丝琳德怎么样了?</FONT><br>\n<FONT color=#662500>然后阿尔杰塔大人和杰兰特大人呢...</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "undnpc_AN_Warrior Sian_qu_9281_02.ogg}<br>啊! 对了。稍微变得有点棘手。<br>萝丝琳德找回了先知的力量。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "新女王…不，王诞生了是有点万幸啦，不过生命之树还很不完整吧?<br>听说这种时候说不定能用先知之力打开<FONT color=#a82424>通向巨石碑的通道</FONT>。<br>阿尔杰塔大人和杰兰特大人先去阻止他们了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>到底去哪儿了?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "undnpc_AN_Warrior Sian_qu_9281_03.ogg}<br>\n据说生命之树的起始点。森林的境界中有通向巨石碑的通道。<br>长老说认识路，我们也快点吧!",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "为长得像赛伦西艾尔的你准备的着的不是女王之路，而是别的道路啊。<br>去那自由的世界重新走遍无数个道路吧。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9281_01.ogg}<br>生命之树的起始点。是在找所有精灵们的根部吗?<br><FONT color=#387206>{user_nick} </FONT>大人，你知道那里是什么地方也想要我开口对吧。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "<FONT color=#2b2723>巨石碑，生命之树的起始点…我不知道该不该告诉你。</FONT><br><br><FONT color=#7e12d2>(Chapter 10. 特雷西亚的故事到此为止。请期待下一篇故事!)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "据说生命之树的起始点。森林的境界中有通向巨石碑的通道。<br>长老说认识路，我们也快点吧!",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "qkname": "一句话的约定",
+  "data": [
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "按照埃克莱尔的建议制作好的合成物已经给你了，感觉怎么样？<br>希望对你有帮助。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(现在该干什么呢？</FONT><br>\n<FONT color=#662500>要先到神圣天堂王城去，确认一下现在的情况吗？)</FONT>",
+      "answer": "",
+      "image": "qn_npc_elite_soilder.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "到王城去看看吧。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "竟然会发生这种事……",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "这里有的只是沉睡的少女和非人类的存在。<br>你应该去充满活力的外界，那里才更适合你。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "为了守护神圣天堂，我会继续努力！<br><FONT color=#387206>{user_nick}</FONT>，希望你也能助我们一臂之力。",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "\n<FONT color=#387206>{user_nick}</FONT>！！你来啦！<br>你是听说了魔物的消息之后赶来的吧？",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "据说侦察兵受到了袭击，他们只能留下伤兵，紧急撤退了回来。<br>上次战斗留下的后遗症还没解决，又发生了这种事，整个王城都乱糟糟的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>上次的战斗，你是说黑龙吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "是的，在那之后伤兵们都出现了奇怪的症状，将军和公爵都在积极奔走。<br>现在好不容易安定一些下来了，又遭到了袭击……唉，真让人担心。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(还好好像没穿越太长的时间。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "其他冒险家已经到那边去了。<br><FONT color=#387206>{user_nick}</FONT>，我还以为你也是因为这件事过来的呢。<br>\n不是吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>到底是什么魔物？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "这个还不清楚。士兵们好像慌不择路地逃了回来……<br>能保住性命就算万幸了，没有太多有用的情报。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>看来只能到那里去看看了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "是的，其他冒险家都到<FONT color=#a82424>船长达兰特的根据地</FONT>去了。",
+      "answer": "",
+      "image": "qw_39.png"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "必须尽快查明袭击侦察兵的是什么魔物才行……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(船长达兰特的根据地……？</FONT><br>\n<FONT color=#662500>到那里去看看吧。)</FONT>",
+      "answer": "",
+      "image": "qw_39.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n(船长达兰特的根据地？<br>\n嗯，要去那里啊。",
+      "answer": "",
+      "image": "qw_39.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "竟然会发生这种事……<br><FONT color=#7e12d2>(西恩环顾了一下四周)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>袭击士兵们的到底是什么魔物啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊，你来啦。<br>嗯……虽然我也不是亲眼所见，不过刚才听伤兵说，是个巨大的海怪。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "凶恶的海怪<FONT color=#a82424>萨芬特拉</FONT>。<br>那个伤兵说完这句话之后就昏了过去，其他冒险家已经先出发了。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "我刚想跟着过去。<br>神圣天堂不断有危险的事情发生，真让人担心。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>情况好像真的很严重。<br>我能帮上什么忙吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "嗯？<br><FONT color=#7e12d2>(西恩一脸惊讶地看着我，然后笑了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "{user_nick}，你果然和我很像。<br>也许这么说你会觉得不高兴……<br>\n呵呵，是吧？我也一样，一看到有困难的人就想帮助他们。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "就算没什么能力，我也长着两只手在。我希望能用自己的双手来帮助周围的人。<br>之前也有人说过，说那个女孩子的事情跟我有什么关系……<br>\n不过我还是想帮助她。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "但是既然有人让我帮忙，既然我答应帮忙，<br>既然答应了别人，就不能食言。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "好了，快走吧！到<FONT color=#a82424>王城地下</FONT>去。<br>\n我想这件事最好和杰兰特商量一下。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "我们去找神圣天堂 <FONT color=#a82424>王城地下到杰兰特</FONT>吧。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n要到王城地下去？<br>\n好吧，随你的便。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "据说萨芬特拉出现了，真让人担心。<br>最好去和杰兰特商量一下。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "萨芬特拉？<br>\n我明明已经让它永远沉睡，不可能再复活了啊？<br>竟然会发生这种事。<br><FONT color=#662500>(杰兰特叹了口气)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>沉睡？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "是的，萨芬特拉是过去我和同伴们消灭掉的魔物。<br>我把它的灵魂和纹章分成了碎片，藏在了地下深处。没想到竟然又出现了，真是奇怪。",
+      "answer": "",
+      "image": "qn_six_heroes_silhouette.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "既然我发誓守护神圣天堂，就必须阻止萨芬特拉。<br>我打算和战士西恩一起到魔物出现的地方去。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰兰特，你要亲自去吗？<br>但是……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你是在担心我的安危吗？我没那么弱。<br>还没到要你担心的地步。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "就算我去和魔物战斗，巢穴也不会解除。<br>\n别担心。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "就算我离开这里，巢穴中的古代人的后裔也是安全的。<br>首先应该集中精力，在萨芬特拉恢复力量之前把它消灭掉。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "好的，我马上出发。<br>如果你也想去，就跟着过来。<br>\n……往<FONT color=#a82424>赫尔马岱港口</FONT>方向，出发吧。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "如果你想帮忙的话，就马上到赫尔马岱港口那边去。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(等等……</FONT><br>\n<FONT color=#662500>在这之前，应该先到黑山山角去见见露娜莉娅。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "\n我马上出发。<br>\n你要到那个和你同行的姑娘那里去，对吧？",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "萨芬特拉……？<br>\n嗯，原来是这样。为了击败萨芬特拉，你要跟着他们去，是吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可能是我太多管闲事了，不过……</FONT><br>\n<FONT color=#662500>看到别人有困难，我还是没办法视而不见。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……是的，你就是这样的人。<br>我知道。<br><FONT color=#7e12d2>(露娜莉娅微笑了一下)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你也一起去吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我……<br>是的，我跟你去。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "出发吧。",
+      "answer": ""
+    }
+  ]
+}

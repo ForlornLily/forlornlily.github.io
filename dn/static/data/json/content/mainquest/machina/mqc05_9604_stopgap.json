@@ -1,0 +1,176 @@
+{
+  "qkname": "权宜之计",
+  "data": [
+    {
+      "npc": "杰兰特",
+      "question": "\n<FONT color=#a82424>高级弓箭手伊西莉安</FONT>……曾经是银色新月弓手团的一员，我记得那个聪明的精灵。",
+      "answer": "",
+      "image": "qn_npc_archer_ishilien.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "<FONT color=#a82424>高级弓箭手伊西莉安</FONT>也是参加了50年前战争的勇士。<br>既然是她在帮助士兵，我也可以放心了。",
+      "answer": "",
+      "image": "qn_npc_archer_ishilien.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "<FONT color=#a82424>先知</FONT>平安无事吗？就算<FONT color=#a82424>杰兰特</FONT>再怎么照顾，我没有亲眼见到就还是有些不安。<br>呵呵……人老了，总是瞎操心。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "那场被称为<FONT color=#a82424>灾殃之雨</FONT>的事件。黑龙之血……<br>50年前黑龙之战结束后，同样也出现了无数的受害者。和这次一样。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>完全没有治疗的办法吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "<FONT color=#a82424>先知</FONT>平安无事吗？就算<FONT color=#a82424>杰兰特</FONT>再怎么照顾，我没有亲眼见到就还是有些不安。<br>呵呵……人老了，总是瞎操心。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "<FONT color=#a82424>高级弓箭手伊西莉安</FONT>也是参加了50年前战争的勇士。<br>既然是她在帮助士兵，我也可以放心了。",
+      "answer": "",
+      "image": "qn_npc_archer_ishilien.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "又是因为担心<FONT color=#a82424>古代人的后裔</FONT>才来的吗？<br>这里除了你和阿尔杰塔谁也进不来。相信我。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "现在为止，还没有找到彻底的<FONT color=#a82424>治疗方法</FONT>。<br>如果有的话，<FONT color=#a82424>那个人</FONT>可能就不会接受命运……<br>\n<FONT color=#7e12d2>（伊西莉安的话越来越含糊不清）</FONT>",
+      "answer": "",
+      "image": "qn_archer_nerwin_silhouette.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "抱歉，突然说一些莫名其妙的话，吓到你了吧？<br>不管怎样，包括<FONT color=#a82424>卡拉秋</FONT>在内，很多人都在寻找这种病的治疗方法，可是都没有什么成果。",
+      "answer": "",
+      "image": "qn_npc_karakule_silhouette.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "虽然根治是不可能的，但通过权宜之计，还是可以<FONT color=#a82424>抑制病情</FONT>的。<br>虽然还能坚持多久只能靠每个人的意志力，不过最好还是能用药缓解一下病情。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>是什么药？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "\n是由一种传闻现在无法得到的<FONT color=#a82424>精灵的眼泪</FONT>制成的药。<br>\n不过，<FONT color=#a82424>黑暗大君主之塔</FONT>的那些布洛的身上应该有。<br>\n ",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "你如果能搜集回来的话，我就来制作药剂。<br>配方我已经背下来了。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "iontalk}<br>你前往黑暗大君主之塔，从布洛怪的身上搜集<FONT color=#a82424>精灵的眼泪</FONT>回来吧。虽然水精灵已经消失很久了，但一直研究奇妙魔术的布洛怪身上应该会有一些。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "iontalk}<br>那我就来制作药剂了。<br>药剂一完成我就会送到伤兵治疗所的，你去向<FONT color=#a82424>道格拉斯将军</FONT>报告吧。",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>明白。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "<FONT color=#a82424>黑龙</FONT>洒下的血对大地造成了污染，让所有无辜的生命染上了病，女神的领土再次陷入了混乱。<br>即使是为了切断这一恶性循环的锁链，也一定要找到彻底的治疗方法。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "多亏了你，让我节省了不少时间。<br>药剂一完成我就会送到伤兵治疗所的，你去向<FONT color=#a82424>道格拉斯将军</FONT>报告吧。",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "<FONT color=#a82424>高级弓箭手伊西莉安</FONT>知道那种病的起因吗？",
+      "answer": "",
+      "image": "qn_npc_archer_ishilien.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>她说那是由黑龙之血导致的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "可恶的家伙就算倒下也要给我们的军队以沉重的打击啊。<br>不过幸好有她在降低了我军士兵的得病率。可是现在还没有彻底的治疗方法，只能是暂时缓解病情，是吧？",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>现在……似乎没有其他的方法。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "我道格拉斯，一定会负责照顾好官兵们的。<br>在找到治疗方法之前，是绝对不会放弃的。<br>如果抛下那些受伤的士兵见死不救的话，以后还有谁会为国而战？<br>\n<FONT color=#7e12d2>（道格拉斯将军再次表明了决心）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "你深得伊格纳西奥的信任，常常比较繁忙，还能这样帮助我，真是万分感谢。现在，我这里没什么事了，你尽快回到<FONT color=#a82424>主教伊格纳西奥</FONT>那里吧。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "嗯？你，没有去见<FONT color=#a82424>主教伊格纳西奥</FONT>吗？<br>呵呵。他似乎很器重你，有时间就多去见见他吧。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你已经获得其他人的信任了吗？我觉得你不太懂得如何获取别人的信任，所以我特地向王城的人对你大加称赞，还为你做了各种安排，但我听说你好像拒绝了<FONT color=#a82424>公爵斯图尔特</FONT>？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "NT><FONT color=#662500><br></FONT><FONT color=#662500>是的，因为我没办法进入巢穴。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "啊对了！没错。要想为金龙建造铜像，将其任命为守护者，就必须得询问杰兰特的意见。<br>听说其他人的询问都已经被拒绝了。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我就知道会是这样。</FONT>",
+      "answer": ""
+    }
+  ]
+}

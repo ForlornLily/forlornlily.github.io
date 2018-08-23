@@ -1,0 +1,168 @@
+{
+  "qkname": "重新开始搜索数据",
+  "data": [
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br><FONT color=#7e12d2>▷请到王城搜集情报。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "我要处理的事已经堆积如山了，如果你没有急事，请下次再来找我吧。",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "真是善良的百姓啊。<br>你年纪这么小就如此了得……",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "唉，搞什么啊。皱纹都出来了。<br><FONT color=#7e12d2>（卡拉安将小镜子放在口袋里，挥了挥手，似乎很烦躁）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "我要好好休息下了。<br>我们的<FONT color=#a82424>小国王</FONT>好像有事找你……<br>如果你有时间，就去和他谈谈吧？",
+      "answer": "",
+      "image": "qn_npc_king_casius.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br><FONT color=#7e12d2>▷请到王城搜集情报。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "嗯，是你啊？<br>我要处理的事已经堆积如山了，如果你没有急事，请下次再来找我吧。",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "哇，你来啦。<FONT color=#387206>{user_nick}</FONT>……年幼却勇敢的百姓。<br>你好像正在帮卡拉安做事，事情都处理好了吗？",
+      "answer": "",
+      "image": "qn_npc_royal_magician_kalaen.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>嗯，虽然失败了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "啊……你是指唤醒先知的事情啊。很是遗憾。<br>主教也想尝试喊醒先知，但也失败了……<br>如，如果先知一直不醒来，那该怎么办呢……<br><FONT color=#7e12d2>（卡西乌斯叹了口气）</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "我要担心士兵们的后遗症，还要担心先知……<br>叽里咕噜叽里咕噜，这可糟了……",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你说后遗症？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "<FONT color=#a82424>将军道格拉斯</FONT>刚刚向我报告的。我，我对……疾病之类的事情并不了解……<br>和你一起来的冒险家已经去调查该疾病了，你也去向道格拉斯了解下吧……",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "<FONT color=#a82424>将军道格拉斯</FONT>正为士兵们的后遗症发愁……<br>我也好担心啊，唉。",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "噢。<FONT color=#387206>{user_nick}</FONT>，上次辛苦你了。<br>你年纪轻轻就如此勇敢，你的勇敢激励了很多士兵。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>听说士兵们得了后遗症。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "啊，你是为这件事而来啊。实际上，这次战斗…… 由于<FONT color=#a82424>金龙</FONT>的出现，士兵们之前的努力全部化作了泡影。在这样的情况下，我们对伤者的照顾自然不周。",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "就在此时，很多伤者出现了奇怪的症状，所以我很担心。<br>想要进行有效的治愈，必须得找出该症状的原因才行……但好像没那么简单。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>是什么样的症状啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "高烧不退，一种怪异的东西覆盖了他们的身体。他们的部分身体很快就会发生变异。<br>这种病真是罕见。<br>说不定是什么毒从<FONT color=#a82424>黑暗大君主领地</FONT>转移过来了。",
+      "answer": "",
+      "image": "qw_28.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我去打探一下吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "噢噢！你愿意帮忙？这真是……你不是王城的人，但我经常麻烦你，真是很抱歉。<br><FONT color=#7e12d2>（道格拉斯挠了挠头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我去问问我姐姐。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "嗯？<FONT color=#a82424>姐姐</FONT>？原来你有个姐姐啊！但你的姐姐是做什么的，你为什么要问她？<br>王城中数一数二的学者对此都束手无策。",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "当务之急是治疗那些出现奇怪症状的伤员，无论是向谁询问，只要能解决这件事就行。<br>希望你的<FONT color=#a82424>姐姐</FONT>知道其中的原因。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_04.ogg}<br>嗯？奇怪的后遗症？<br>与<FONT color=#a82424>黑龙</FONT>战斗过的大多数士兵都出现了相同的症状啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你知道其中的原因吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "王城的记录应该还保留了一部分，我来找找看。<br><FONT color=#7e12d2>（百合花搜索着资料）</FONT><br>嗯…… 啊，可能是这个！",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "这种污染被称为<FONT color=#a82424>灾殃之雨</FONT>。<FONT color=#a82424>龙之血</FONT>使泥土和生物发生变异。<br>据说强大的魔物之血会腐蚀其他生命的肉体，甚至是精神。我想原因大概就是这个吧。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那贝思柯德……？</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+[
+  {
+    "id": "mqc14_9410_the_outbreak_of_war",
+    "name": "开战",
+    "qid": "9410",
+    "nextid": "9411",
+    "chapter": "14"
+  },
+  {
+    "id": "mqc14_9411_entrance_of_monolith",
+    "name": "巨石碑的入口",
+    "qid": "9411",
+    "nextid": "9412",
+    "chapter": "14"
+  },
+  {
+    "id": "mqc14_9412_meeting",
+    "name": "会面",
+    "qid": "9412",
+    "nextid": "9413",
+    "chapter": "14"
+  },
+  {
+    "id": "mqc14_9413_imperfect_dragon",
+    "name": "不完整的龙",
+    "qid": "9413",
+    "nextid": "9414",
+    "chapter": "14"
+  },
+  {
+    "id": "mqc14_9414_rage",
+    "name": "愤怒",
+    "qid": "9414",
+    "nextid": "9415",
+    "chapter": "14"
+  },
+  {
+    "id": "mqc14_9415_hate",
+    "name": "憎恶",
+    "qid": "9415",
+    "nextid": "9416",
+    "chapter": "14"
+  },
+  {
+    "id": "mqc14_9416_memory",
+    "name": "记忆",
+    "qid": "9416",
+    "nextid": "9417",
+    "chapter": "14"
+  },
+  {
+    "id": "mqc14_9417_hope",
+    "name": "希望",
+    "qid": "9417",
+    "nextid": "9418",
+    "chapter": "14"
+  },
+  {
+    "id": "mqc14_9418_cry",
+    "name": "呐喊",
+    "qid": "9418",
+    "nextid": "9419",
+    "chapter": "14"
+  },
+  {
+    "id": "mqc14_9419_the_great_decision",
+    "name": "伟大的决心",
+    "qid": "9419",
+    "nextid": "9420",
+    "chapter": "14"
+  },
+  {
+    "id": "mqc14_9420_the_man_of_worry",
+    "name": "担忧者",
+    "qid": "9420",
+    "nextid": "9421",
+    "chapter": "14"
+  },
+  {
+    "id": "mqc14_9421_swallowed_word",
+    "name": "没能说出口的话",
+    "qid": "9421",
+    "nextid": "9422",
+    "chapter": "14"
+  },
+  {
+    "id": "mqc14_9422_desitny",
+    "name": "命运",
+    "qid": "9422",
+    "nextid": "9423",
+    "chapter": "14"
+  },
+  {
+    "id": "mqc14_9423_madness",
+    "name": "疯狂",
+    "qid": "9423",
+    "nextid": "9424",
+    "chapter": "14"
+  },
+  {
+    "id": "mqc14_9424_resentment",
+    "name": "怨恨",
+    "qid": "9424",
+    "nextid": "9425",
+    "chapter": "14"
+  },
+  {
+    "id": "mqc14_9425_power",
+    "name": "力量",
+    "qid": "9425",
+    "nextid": "9426",
+    "chapter": "14"
+  },
+  {
+    "id": "mqc14_9426_the_man_who_open_the_door",
+    "name": "企图开门的人",
+    "qid": "9426",
+    "nextid": "9427",
+    "chapter": "14"
+  },
+  {
+    "id": "mqc14_9427_invasion",
+    "name": "侵略",
+    "qid": "9427",
+    "nextid": "9428",
+    "chapter": "14"
+  },
+  {
+    "id": "mqc14_9428_conflict",
+    "name": "矛盾",
+    "qid": "9428",
+    "nextid": "9429",
+    "chapter": "14"
+  },
+  {
+    "id": "mqc14_9429_trap",
+    "name": "圈套",
+    "qid": "9429",
+    "nextid": "9430",
+    "chapter": "14"
+  },
+  {
+    "id": "mqc14_9430_result_of_best_way",
+    "name": "结局",
+    "qid": "9430",
+    "nextid": "9431",
+    "chapter": "14"
+  }
+]

@@ -1,0 +1,119 @@
+{
+  "qkname": "护卫运送物资",
+  "data": [
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "我正在一边说服国王陛下和其他贵族，一边动员神殿骑士团备战。<br>我知道你现在心情焦急，但请相信我，再稍等些时间。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是，知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "看来……战争马上就要开始了。只要是威胁到神圣天堂的安危，任何家伙都不能让它们活着回去。希望你也这样想。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>当然。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "不过现在可以派出的兵力实在有限，不管怎样，<FONT color=#a82424>王城</FONT>的安危令人堪忧。如果不做好充分准备的话，绝对不行。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "地理上处于孤立位置的这个地方，一旦发生战争就必须考虑打物资战。这样的话就一定要提前做好充分准备。只防御的话，我们将坚持不了多久。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>的确如此。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "所以，我亲自编制的补给部队正从<FONT color=#a82424>江下游淹没地</FONT>往回运送重要的补给物资。然而不幸的是，他们却被怪物们活捉了。<br>\n<FONT color=#7e12d2>（主教面露苦涩的表情）</FONT>",
+      "answer": "",
+      "image": "qw_34.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "那支补给部队是我私自编制的军队，所以如果被其他将领知道的话，肯定会有所不满。说不定就在我忙于应付那些不满的时候，部队的士兵早就死在怪物们的手下了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我能帮上什么忙吗……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "怪物们的动作比我想象的要快。它们就像有人指挥一样，竟然有条不紊地行动。噢，对了，你能解救那些士兵吧……<FONT color=#7e12d2>（迅速转头望向</FONT> <FONT color=#382000>{user_nick}</FONT><FONT color=#7e12d2>的脸）</FONT>",
+      "answer": "",
+      "image": "qn_npc_elite_soilder.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我可以帮忙。</FONT>",
+      "answer": "",
+      "image": "qn_npc_elite_soilder.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "iontalk}<br><FONT color=#7e12d2>（啪！地一拍大腿）</FONT> 很好！我一直都很看好你，不过你今天的表现最为出色。来吧，没有更多的时间了。监禁<FONT color=#a82424>士兵们</FONT>的地点是<FONT color=#a82424>江下游淹没地</FONT>。你前往那里的话就和他们会合了。",
+      "answer": "",
+      "image": "qw_34.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "补给部队请求救助的地点是<FONT color=#a82424>江下游淹没地</FONT>。<br>你现在就前往那里吧。期待你的好消息。",
+      "answer": "",
+      "image": "qw_34.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "iontalk}<br>快，向我报告吧。<br>事情怎么样了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我和补给部队都回来了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "很好，很好。我要任命你为我的直属部下。你还想要别的奖赏的话，我都会尽力满足你的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不，不需要奖赏……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "那么作为主教也不能不顾体面，你就收下这个吧。<br>\n<FONT color=#7e12d2>（主教兴冲冲地一个一个翻找袋子）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你真是难得的人才。以后如果有什么需要我的地方，就和我直说。<br>我会尽力满足你的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>现在更重要的是，王城决定出兵了吗？</FONT>",
+      "answer": ""
+    }
+  ]
+}

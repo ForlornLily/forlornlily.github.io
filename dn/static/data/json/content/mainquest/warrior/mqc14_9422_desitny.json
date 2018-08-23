@@ -1,0 +1,225 @@
+{
+  "qkname": "命运",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（到影子墓穴去吧）</FONT>",
+      "answer": "",
+      "image": "qw_91.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（影子墓穴在火焰山）</FONT>",
+      "answer": "",
+      "image": "n1515_for_memory"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（影子墓穴在火焰山）</FONT>",
+      "answer": "",
+      "image": "n1515_for_memory"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#7e12d2>（阿尔杰塔正在沉思）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>阿尔杰塔……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……是什么呢？奇怪了，我总觉得有点可疑。不仅有奇怪的东西进入了巨石碑，而且似乎有双眼睛在监视我们。到底是怎么回事？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>阿尔杰塔……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……女神？不不，是龙…？<br>不……这不可能的。看样子我该是出现了幻觉。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（话说，我好像也遭遇过奇怪视线的扫视）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……！！！<br>喂，你要紧紧跟着我，一步也不许走开哦！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……！！是大地在震动吗？！？！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "<FONT color=#7e12d2>（无法对话。似乎是幻觉）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "<FONT color=#7e12d2>（无法对话。似乎是幻觉）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>阿尔杰塔，佩达在那边出现了！！</FONT><br><FONT color=#662500>哦……可尤万西贝尔怎么会在那里？！尤万西贝尔不就是现在的佩尔德列斯吗……？？！</FONT>",
+      "answer": "",
+      "image": "qn_npc_npc_pether.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……我也知道！有什么大惊小怪的。你看不明白怎么回事吗？<br>\n（<FONT color=#7e12d2>阿尔杰塔很不耐烦地说）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_Argenta_9422_qu_01.ogg}<br><FONT color=#7e12d2>（阿尔杰塔轻轻地叹了口气）</FONT><br>……小鬼，你看好了。那是幻觉。巨石碑再次开始晃动了，变得非常不稳定。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "过去的幻觉不应该会这么容易显现啊……<br>\n嘁，看来这巨石碑开始胡乱显示东西了，真荒唐。<br>\n<FONT color=#7e12d2>（阿尔杰塔的语气显得非常不耐烦，还是别惹她的好……）</FONT><br>\n ",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……既然碰见了，就听听他们说什么吧。<br><FONT color=#7e12d2>（请和尤万西贝尔对话）</FONT>",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "佩达",
+      "question": "….<FONT color=#7e12d2>（面无表情，却散发出强大的威慑感。去和尤万西贝尔对话吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "我无法原谅一切特雷西亚，一切命运，也无法原谅这个世界。<br>在牺牲个人基础上维持的世界怎能称得上是正确的？<br>我绝对……不能认同。",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "ndnpc_Yuvenciel_9422_qu_01.ogg}<br>我心爱的女人一辈子只知道要顺应命运的安排。<br>但我无比痛恨我们族人一辈子只能坚守特雷西亚的命运。",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "如果当初她做出不一样的选择，我们应该能获得不一样的幸福。<Br>我们的特雷西亚该由我们自己亲手创造。",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "ndnpc_Yuvenciel_9422_qu_02.ogg}<br>我想赋予我的同族们自由的权利。不管是束缚她的一切事物！还是特雷西亚，或女王的位置，我都深深憎恶。我一定要摧毁构筑我族人的所有根源。绝不容许再出现牺牲者。",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9422_qu_01.ogg}<br>你这苦恼还真是狂傲。",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "ndnpc_Yuvenciel_9422_qu_03.ogg}<br>你称这叫狂傲？我只是不能容许无辜的牺牲罢了……。",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "如果没有她，你不是也会不加思索地像你的族人们一样接受特雷西亚的安排吗？<br>\n你的决心仅仅是为着那个女人的，却不是为了你的同族。",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "\n……<FONT color=#7e12d2>（尤万西贝尔露出微妙的笑容）</FONT><br>\n征服王，你真是个可怕的人。你这样了不起的人物为什么要来找我。",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "……我观察过你至今为止的行迹和你的目的，觉得你会是个不错的部下。你不是想毁灭你的世界吗？我也正为着同样的目标而努力。",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "……你是因为什么理由而产生了那个目的，我不会过问。<br>\n如果你要阻碍我，我会不惜杀了你，但若是你成为我的部下，我会给你相应的待遇。<br>\n ",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "呵呵，你觉得我会怎么回答你呢？<br>\n我一个人要对付我所有的同族确实比较吃力，那就只好借助征服王的力量了。",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "不过，在此之前，我也有一个问题。我听说你是人类中最强大的英雄王。<br>\n既然如此，你为什么想毁灭世界？<br>你也失去过什么珍惜之人吗？",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "哈？……我没有什么可以失去的。<br>梦境要摧毁梦境有意义吗？这就像毒蛇咬着自己的尾巴杀死自己一样，是虚妄的。",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9422_qu_02.ogg}<br>你，我，我们都是一个白痴女人的梦……。我要打碎那梦境，成为梦的主人。<br>那女人的梦最终不会实现的。",
+      "answer": ""
+    },
+    {
+      "npc": "尤万西贝尔",
+      "question": "ndnpc_Yuvenciel_9422_qu_04.ogg}<br>……你的思考方式还真是非常人所能及，征服王。<br><FONT color=#7e12d2>（尤万西贝尔静静地凝视着佩达）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "梦境要破坏梦境有意义吗？<br>……哈！这家伙有什么资格说别人狂傲。<br><FONT color=#7e12d2>（阿尔杰塔似乎很不高兴）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哦……说到梦境的话，是指那个神话吗？<br>说这个世界完全是由阿尔泰亚女神的梦组成的神话。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "神话？那是事实啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！？！这是事实？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "嗯，虽不能说完全是事实……但这有什么要紧。<br>\n你认为它是梦，就是梦，你认为它是现实，就是现实。这句话放在哪个世界都是通用的，不是吗？<br>\n别管这事了，接下来到火焰峡谷去吧。",
+      "answer": "",
+      "image": "qw_92.png"
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（阿尔杰塔似乎很不在意这件事。也许是因为无论这个世界是否是一场梦境，她必须尽力守护世界的使命依然不变吧）</FONT>",
+      "answer": ""
+    }
+  ]
+}

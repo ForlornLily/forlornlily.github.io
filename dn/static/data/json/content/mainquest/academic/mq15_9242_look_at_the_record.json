@@ -1,0 +1,69 @@
+{
+  "qkname": "查看记录",
+  "data": [
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>代号XD-27，登入成功。</FONT><br><FONT color=#2b2723>▷ </FONT><FONT color=#086171>Checking Data………….</FONT><br>▷ <FONT color=#7e12d2>Operation Desert storm.</FONT><br>▷ <FONT color=#7e12d2>正在确认详细任务，请稍等。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>荒漠风暴……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br>▷ <FONT color=#7e12d2>安全等级：red factor</FONT><br>▷ <FONT color=#7e12d2>和XD-28一起获得K博士的研究材料。</FONT><br>▷ <FONT color=#7e12d2>进行任务时要注意安全，特别注意保护机密。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>最高安全等级……他们究竟有什么诡计？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（百合花[移居至过去]的计划已经开始了吗……？<br>她觊觎K博士的研究材料……<br>必须要了解研究材料的内容。<br>必须再去调查下奇迹祭坛保护区）</FONT>",
+      "answer": "",
+      "image": "qw_69.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>尽管这不是百合花觊觎的研究材料，但日志上肯定也记录着什么.</FONT><br>\n<FONT color=#662500>（查看K博士的日志）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "K博士的日志",
+      "question": "<FONT color=#7e12d2>经历多年的等待之后……</FONT><br><FONT color=#7e12d2>终于……完成了。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "K博士的日志",
+      "question": "<FONT color=#7e12d2>过去，在从古代人们发现的巨龙宝玉中制造出黑龙后的数百年……不过，从那以后，直到现在，都再也没见过其他巨龙的身影。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "K博士的日志",
+      "question": "<FONT color=#7e12d2>完成这件事本需要聚集无数古代人才行……</FONT><br><FONT color=#7e12d2>但是，我，K博士仅凭一人之力就完成了。</FONT><br><FONT color=#7e12d2>我制作出了……</FONT><br><FONT color=#7e12d2>龙。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "K博士的日志",
+      "question": "<FONT color=#7e12d2>这才是女神的奇迹……</FONT><br><FONT color=#7e12d2>为纪念这庄严而又历史性的瞬间，这里将被称为奇迹的祭坛。</FONT><br><FONT color=#7e12d2>以后我将以现有的研究为基础，在新的研究室中开始本质性的试验。这条只有神才允许走的创造之路，一旦开始后，生与死的界线将变得模糊……</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>这……？<br>（K博士制造出了巨龙……<br>这么说，百合花觊觎的是K博士所制造出的巨龙？）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

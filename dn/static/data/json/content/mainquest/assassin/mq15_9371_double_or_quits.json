@@ -1,0 +1,101 @@
+{
+  "qkname": "胜负手",
+  "data": [
+    {
+      "npc": "西戴尔",
+      "question": "见到战士西恩了吧？",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "他看上去非常着急，说要到<FONT color=#a82424>恶灵阴影</FONT>去寻找什么宝物。",
+      "answer": "",
+      "image": "qw_61.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我让你到<FONT color=#a82424>恶灵阴影</FONT>去找战士西恩。<br>没见到他吗？",
+      "answer": "",
+      "image": "qw_61.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "恶灵阴影！<br>那个宝物可能在<FONT color=#a82424>恶灵阴影</FONT>。快去吧。",
+      "answer": "",
+      "image": "qw_61.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "嗯……应该是在这附近啊？<br>没有吗……？",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊，在找什么？<br>根据莲花沼泽流传下来的传说，在很久以前古代人之间发生战争的时候，善良的古代人为了净化邪恶的古代人而建造了含有女神的力量的遗迹。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "那个东西的名字叫真实之镜。<br>据说看着真实之镜，就能找出自己虚假的形象，然后吸到镜子中去……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……真实之镜？！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "嗯，怎么了？",
+      "answer": "(讲述有关镜子的事情)"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "怎么会这样！<br>啊，哎呀……如果我早说的话，就不用来这里白跑一趟了……对不起。",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "不管怎样，能找到真实之镜就好。<br>我得尽快回去告诉特拉玛依！",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "好了，快回到王城去吧。",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "哦……真实之镜已经到手了吗？这一定是女神的安排。<br><FONT color=#7e12d2>(特拉玛依把圣物拿在手中，仔细地查看)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "……但是镜子在哪里呢？<br><FONT color=#7e12d2>(特拉玛依四下张望)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好像必须戴上异界面具才能看得见。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#7e12d2>(特拉玛依戴上异界面具)</FONT><br>果然……真了不起。原来是这样的！",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "现在救赎巴尔纳的所有准备工作都已经做好了，我们和先知一起出发吧。",
+      "answer": ""
+    }
+  ]
+}

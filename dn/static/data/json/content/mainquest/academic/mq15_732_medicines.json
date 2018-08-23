@@ -1,0 +1,96 @@
+{
+  "qkname": "制作治疗剂",
+  "data": [
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>网络不稳定。</FONT><br>▷ <FONT color=#7e12d2>重新设置Mission Object。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>Mission Object.</FONT><br>▷ <FONT color=#7e12d2>请到利物沃特码头和卡拉翰对话吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "你真是个急性子的小孩啊。<br>我伟大的<FONT color=#a82424>冒险故事</FONT>才刚刚<FONT color=#a82424>开头</FONT>。<br>嗯，治疗方法非常简单。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "但是我现在一点都没有心情做。<br>\n<FONT color=#7e12d2>（达到43级以后才能进行下一阶段的任务）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "用融合三种药材制作而成的治疗剂中和他们的毒素就好了。<br>你去帮我搜集<FONT color=#a82424>黑灰蘑菇</FONT>和<FONT color=#a82424>腐败的沼泽苔藓</FONT>，还有<FONT color=#a82424>丛林水芹</FONT><FONT color=#2b2723>吧</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>要去哪里搜集这些药材啊？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "卡拉翰说他要为我们部族制作治疗剂。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "<FONT color=#a82424>黑灰蘑菇</FONT>可以在<FONT color=#a82424>古代武器库的东边</FONT>找到，<FONT color=#a82424>腐败的沼泽苔藓</FONT>可以在<FONT color=#a82424>古代图书馆</FONT>找到，还有<FONT color=#a82424>丛林水芹</FONT>可以在<FONT color=#a82424>利物沃特村庄废墟</FONT>那里找到。",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>Mission Object.</FONT><br>▷ <FONT color=#7e12d2>请去搜集制作治疗剂所需的材料。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "我看你好像已经集齐了材料。<br>只要把材料给我，我就能在<FONT color=#a82424>3秒</FONT>内制作出药来。",
+      "answer": "（递上材料）",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ <FONT color=#086171>Mission Object.</FONT><br>▷ <FONT color=#7e12d2>请到利物沃特码头，去见见卡拉翰吧。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "大概会花上<FONT color=#a82424>1.5秒</FONT>的时间哦，呵呵……<br>来，现在你就去把这个治疗剂交给原住民吧，<FONT color=#a82424>察提</FONT>应该知道原住民在哪儿。",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "察提",
+      "question": "ionTalk2}<br><FONT color=#a82424>卡拉翰</FONT>真是了不起！<br>一眨眼的工夫，他就把药做好了~。<br>但是……我能拜托你一件事吗？",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么事情？</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "察提",
+      "question": "我想拜托你到<FONT color=#a82424>商人洛西塔</FONT>那里，帮我买份礼物送给西戴尔。<br>西戴尔喜欢学习，你去买个能写字的……<FONT color=#a82424>笔</FONT>吧？我之前在村子里捅了篓子，现在进去不太好……",
+      "answer": "",
+      "image": "qn_npc_lucita.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "<FONT color=#7e12d2>（察提爽朗地笑着）</FONT><br>谢谢你。因为我，西戴尔好像很伤心，希望他能尽快振作起来。",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+[
+  {
+    "id": "mqc06_9503_meet_the_karakule",
+    "name": "与卡拉秋的会面",
+    "qid": "9503",
+    "nextid": "9504",
+    "chapter": "6"
+  },
+  {
+    "id": "mqc06_9504_fairystars_remedy",
+    "name": "佩奥里斯塔的治疗剂",
+    "qid": "9504",
+    "nextid": "9505",
+    "chapter": "6"
+  },
+  {
+    "id": "mqc06_9505_secret_helper",
+    "name": "秘密帮手",
+    "qid": "9505",
+    "nextid": "9506",
+    "chapter": "6"
+  },
+  {
+    "id": "mqc06_9506_sidel_friend",
+    "name": "西戴尔的朋友",
+    "qid": "9506",
+    "nextid": "9507",
+    "chapter": "6"
+  },
+  {
+    "id": "mqc06_9507_reality_of_wonderment",
+    "name": "奇怪事件的真相",
+    "qid": "9507",
+    "nextid": "9508",
+    "chapter": "6"
+  },
+  {
+    "id": "mqc06_9508_catch_ignasio",
+    "name": "抓住伊格纳西奥",
+    "qid": "9508",
+    "nextid": "9509",
+    "chapter": "6"
+  },
+  {
+    "id": "mqc06_9509_regained_the_prophet",
+    "name": "寻回的先知",
+    "qid": "9509",
+    "nextid": "9510",
+    "chapter": "6"
+  },
+  {
+    "id": "mqc06_9510_a_lot_of_work",
+    "name": "要做的事情有很多",
+    "qid": "9510",
+    "nextid": "9511",
+    "chapter": "6"
+  },
+  {
+    "id": "mqc06_9511_weirdo",
+    "name": "奇怪的人",
+    "qid": "9511",
+    "nextid": "9512",
+    "chapter": "6"
+  },
+  {
+    "id": "mqc06_9512_monster_of_dream",
+    "name": "梦中的怪物",
+    "qid": "9512",
+    "nextid": "9513",
+    "chapter": "6"
+  },
+  {
+    "id": "mqc06_9513_purpose_of_karahan",
+    "name": "卡拉翰的目的",
+    "qid": "9513",
+    "nextid": "9514",
+    "chapter": "6"
+  },
+  {
+    "id": "mqc06_9514_birth_of_tragedy",
+    "name": "悲剧的诞生",
+    "qid": "9514",
+    "nextid": "9515",
+    "chapter": "6"
+  },
+  {
+    "id": "mqc06_9515_self_defense_power",
+    "name": "守护自己的力量",
+    "qid": "9515",
+    "nextid": "9516",
+    "chapter": "6"
+  },
+  {
+    "id": "mqc06_9516_true_strength",
+    "name": "真正的强大",
+    "qid": "9516",
+    "nextid": "9517",
+    "chapter": "6"
+  }
+]

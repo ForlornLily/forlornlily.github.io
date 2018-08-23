@@ -1,0 +1,124 @@
+{
+  "qkname": "察提的憎恨",
+  "data": [
+    {
+      "npc": "商人洛西塔",
+      "question": "你想找察提姐姐啊。",
+      "answer": ""
+    },
+    {
+      "npc": "商人洛西塔",
+      "question": "你们好像错过了。<br>察提姐姐到<FONT color=#a82424>古代图书馆</FONT>去找西戴尔了。",
+      "answer": "",
+      "image": "qw_52.png"
+    },
+    {
+      "npc": "察提",
+      "question": "西戴尔真是的……跑到哪里去了？！<br>明明应该在这里采药的……",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "察提",
+      "question": "谁啊，你？！是在跟踪我吗？！<br>\n难道……是那个恶魔老太婆的手下……？！<br><FONT color=#7e12d2>(察提像野猫一样咆哮着)</FONT>",
+      "answer": "(说是西戴尔派来的)"
+    },
+    {
+      "npc": "察提",
+      "question": "哼，你以为你跟我说西戴尔，我就会上当？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>西戴尔让我把丛林蕨菜送给你。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "ionTalk2}<br>丛林蕨菜……？<br><FONT color=#7e12d2>（察提的态度好像稍微缓和了一些）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "ionTalk2}<br>丛林蕨菜……？<br><FONT color=#7e12d2>（察提的态度好像稍微缓和了一些）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>西戴尔担心你会不会受了伤。</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "察提",
+      "question": "没事的，这么点伤……<br><FONT color=#7e12d2>（察提用舌头舔着伤口）</FONT><br>西戴尔也真是的……就是个胆小鬼，哼……",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "察提",
+      "question": "不知道那么善良的人为什么要待在恶魔老太婆身边。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>恶魔老太婆？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "就是那个<FONT color=#a82424>卡拉秋</FONT>，不然还会是谁？<br>那个老魔女劫持了我的家人，把他们变成了怪物！！",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "察提",
+      "question": "这是从可靠的人那里得到的消息！别站在那个老太婆一边！<br>看你好像有点奇怪。难道你是间谍？<br><FONT color=#7e12d2>(察提闻了闻{user_nick}的味道)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "哼，总之！！这是从可靠的人那里得到的情报。<br>如果你站在恶魔老太婆那边，就快回去吧！",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "丛林蕨菜我收下了。<br>你去告诉<FONT color=#a82424>西戴尔</FONT>，说我没事，让他别担心。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "察提没事吧？<br><FONT color=#7e12d2>(西戴尔一脸担心地问道)</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "什么？老师派人让原住民得了病？<br>那不可能。会不会是察提有什么误会呢？",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>说是从可靠的人那里获得的情报……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "可靠的人……到底是谁呢？<br>虽然我和察提关系很亲密，但却从来不知道有那种人……",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "这件事很奇怪。我得直接去见见察提。<br><FONT color=#7e12d2>(西戴尔看了一眼卡拉秋，自言自语道)<br></FONT>要……要跟老师保密吗？",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    }
+  ]
+}

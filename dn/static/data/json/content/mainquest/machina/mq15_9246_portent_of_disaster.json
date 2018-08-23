@@ -1,0 +1,162 @@
+{
+  "qkname": "灾难的前兆",
+  "data": [
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "<FONT color=#7e12d2>（斯泰拉似乎仍在使用传心术）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "NT><FONT color=#387206><br></FONT><FONT color=#7e12d2>（过了一会儿之后，传心术好像结束了）</FONT><br><FONT color=#387206>{user_nick} </FONT><FONT color=#2b2723>！</FONT>你来得正好。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>现在怎么样了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "上次不是说过未来人嘛。就是想进攻当前世界的那群不靠谱的人啊。王城感觉到了事态的严重性，已经决定对泰努玛拉沙漠进行正式的调查。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>这太好了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "不过！到目前为止也未收到任何情报，反倒有一些很奇怪的事情不断的发生。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>奇怪的事情？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "嗯。听说前往沙漠中的泰尔罗萨市区的士兵们失去了音讯。我希望你能前去了解一下。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "你不要说的这么无情啦。我们现在急需帮助。卡拉安甚至在考虑要不要向佩奥里斯塔请求帮助呢，哎……<br>\n<FONT color=#7e12d2>（斯泰拉看起来忧心忡忡）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "道格拉斯将军正全力与魔物们奋战，无法抽调更多的兵力支援我们。公爵即便把自己所有的士兵都调派过来，也没有多少人……况且，这件事情你被牵涉的最多啊？我的第六感说你就是最佳人选。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>(……)我知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "可以通过<FONT color=#a82424>泰尔罗萨入口</FONT>进入<FONT color=#a82424>泰尔罗萨市区</FONT>。那，祝你一路顺风。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#387206>{user_nick}</FONT>？！你怎么会在这里 ……?<br>不好，还是逃跑吧……！",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……我觉得如果我们经常碰面，对我们俩都很危险，所以故意躲着你……<br>但命运可真会捉弄人啊。我们居然会以这种方式见面，而且还看到了这种场面…….<br><FONT color=#7e12d2>（柯梅里纳的表情似乎很难过）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这种场面？（发生什么事情了？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "刚才百合花……也就是说，想入侵当前世界的未来人的队长劫持了名叫黛西的少女。你难道……认识？",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>（摇头）</FONT>我不知道，一点也搞不明白。但是，百合花肯定在有什么诡计，我得赶紧去追她。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我跟你一起去。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>（柯梅里纳神情严肃）</FONT>百合花非常危险，她能轻而易举的歼灭这里的士兵。真不知会陷入什么危险当中，决不能让 <FONT color=#387206>{user_nick}</FONT>深陷其中！",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "既然你这么说……那就按照<FONT color=#387206>{user_nick}</FONT>你的意思来办吧。百合花好像去了<FONT color=#a82424>阿勒努特峡谷</FONT>，我先到那个地方等着你。 ",
+      "answer": "",
+      "image": "qw_74.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了。</FONT>",
+      "answer": "",
+      "image": "qw_74.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>（柯梅里纳神情严肃）</FONT><br>你果然认识她啊……<br>她拥有什么了不起的能力吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是的，我只是把养鸟所需的东西送过去，偶然才认识她的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>（柯梅里纳摆出一脸惊讶的表情）</FONT><br>养鸟？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯。大脚叫它小鸟……好像是只非常脆弱的鸟。(记忆隐约浮现出来)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "那么她与<FONT color=#387206>{user_nick}</FONT>你应该没有什么特殊的……关系吧。<br>我没听说过哪个英雄会和一个少女有亲密的来往……<br>不过百合花为何会带走那种平凡的少女呢……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>柯梅里纳，你有什么想法？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "没想到竟然能和<FONT color=#387206>{user_nick}</FONT>一起同行。<br>要是以往我肯定会很高兴的，但我现在却一点也高兴不起来啊……<br><FONT color=#7e12d2>（柯梅里纳的神情复杂。向神圣天堂的高级魔法师斯泰拉报告吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "<FONT color=#387206>{user_nick}</FONT>！这究竟是怎么回事？<br>\n<FONT color=#7e12d2>（说明事情的来龙去脉）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

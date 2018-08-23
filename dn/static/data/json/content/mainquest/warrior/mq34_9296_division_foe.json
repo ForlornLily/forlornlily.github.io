@@ -1,0 +1,120 @@
+{
+  "qkname": "分裂的敌人",
+  "data": [
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9295_05.ogg}<br>尤万西贝尔就算背叛精灵又背叛使徒也想做的事到底是什么?真让人在意。<br>嗯，不过知道了萝丝琳德和佩达会面的地方也算不错了。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "是啊。有不好的预感。<br><FONT color=#7e12d2>(杰兰特皱着眉头)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "不能在这里磨磨蹭蹭了。得赶紧回到<FONT color=#a82424>阿努阿兰德关卡</FONT>了。",
+      "answer": "",
+      "image": "qw_anuarendelgateway.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "中断女王选举会议究竟是不是明智之举…我也不能确定啊。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#a82424>青铜残月林间路</FONT>吗…虽然无法相信他的话，不过大概是那边吧?<br><FONT color=#7e12d2>(阿尔杰塔望着西边的天空说着)</FONT>",
+      "answer": "",
+      "image": "qw_79.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_AN_Gereint Young_qu_9296_01.ogg}<br>估计是吧。正好觉得越来越接近混沌龙的不愉快的感觉。<br><FONT color=#7e12d2>(杰兰特怒视着天空)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>看来真的是很讨厌混沌龙呢?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "这不是像你们一样的喜欢讨厌的感情。<br>我是为了让他们从世界上消失才诞生的。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "正好女王选举会议也中断了吗?现在才能到处走走了。<br>阿尔杰塔。你会在这里吧?",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9296_01.ogg}<br>不，一起去吧。这是能抓住红龙的绝佳机会吧?<br>只是暂时守住这里的话，精灵们也能做到吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(完全没兴趣听我的意见啊。先跟上去吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "不好说。虽然感觉很不愉快，但还有点远。<br><FONT color=#7e12d2>(杰兰特不相信尤万西贝尔的情报。</FONT><br><FONT color=#7e12d2>69Lv以后才能继续进行)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "干嘛呢?你不去吗?<br><FONT color=#7e12d2>(前往青铜残月林间路吧)</FONT>",
+      "answer": "",
+      "image": "qw_79.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "真是麻烦。跟我来吧。<br><FONT color=#7e12d2>(与杰兰特一起前往青铜残月林间路吧)</FONT>",
+      "answer": "",
+      "image": "qw_79.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9296_02.ogg}<br>你这家伙太慢了跟不上去啊。太慢了!<br>现在开始由我们两个人去。你回到<FONT color=#a82424>生命之树</FONT>那边保护生命之树吧。",
+      "answer": "",
+      "image": "qw_anuarendelgateway.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也要一起去。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "碍。事。啊。<br><FONT color=#7e12d2>(阿尔杰塔和杰兰特迅速向着沙漠消失了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你回到<FONT color=#a82424>生命之树</FONT>吧。因为碍事。<br><FONT color=#7e12d2>(阿尔杰塔和杰兰特迅速向着沙漠消失了)</FONT>",
+      "answer": "",
+      "image": "qw_anuarendelgateway.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9280_01.ogg}<br>作为长老，连守护女王候补，和守护生命之树都无法胜任吗….<br><FONT color=#7e12d2>(精灵长老用阴暗的表情叹息着)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎么回事? 生命之树呢...?? </FONT><FONT color=#662500>警卫兵们呢?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "不久前魔物袭击了这里。是趁着守护这里的龙消失吧。<br>虽然阻止他们进入生命之树，但这就是代价。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

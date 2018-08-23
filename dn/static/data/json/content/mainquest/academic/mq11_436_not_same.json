@@ -1,0 +1,295 @@
+{
+  "qkname": "和想法截然不同",
+  "data": [
+    {
+      "npc": "阿尔杰塔",
+      "question": "你不应该在这儿。<br>别妨碍我，忙你自己的去吧。"
+    },
+    {
+      "npc": "金发剑客",
+      "question": "……<br><FONT color=#7e12d2>（好像正在和阿尔杰塔对话）</FONT>"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你不应该在这儿。<br>别妨碍我，忙你自己的去吧。"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br><FONT color=#7e12d2>▷请到王城去寻找一起去黑暗大君主的领地的人。</FONT>",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "兵力已经准备好了。<br>快出发去救出先知吧。",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "我刚刚才回到这里。<br>你也平安回来啦。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我们得前往黑暗大君主领地。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "嗯，就算是再强大的冒险家，也无法独自面对大规模的魔物。<br>你不要担心，我在返回时，已经下令紧急召集兵力了。",
+      "answer": "",
+      "image": "qn_npc_elite_soilder.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "或许数量没有你想象中的多，但这些都是身经百战的精锐士兵。<br>快前往<FONT color=#a82424>黑暗大君主领地</FONT>吧。",
+      "answer": "",
+      "image": "qw_28.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "目的地是<FONT color=#a82424>黑暗大君主领地</FONT>……之前我们在与黑骑士对峙时，未能成功进入他的根据地深处。趁此机会累积更多的经验，对以后的战斗应该也会有所帮助的吧。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "那快点出发吧。<br>我们会用尽全力，你也不要松懈，竭尽全力救出<FONT color=#a82424>先知</FONT>吧。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "精锐兵力第1军已经出发了。如果你准备好了，就快点前往<FONT color=#a82424>黑暗大君主领地</FONT>，与士兵们会合吧。",
+      "answer": "",
+      "image": "qw_28.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你不应该在这儿。<br>别妨碍我，忙你自己的去吧。",
+      "answer": ""
+    },
+    {
+      "npc": "金发剑客",
+      "question": "……我跟你无话可说。<br><FONT color=#7e12d2>（他好像在与阿尔杰塔对话中）</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你为什么在这里瞎转悠？<br>不不要妨碍我，忙你自己的去吧。",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br><FONT color=#7e12d2>▷请到王城去寻找一起去黑暗大君主的领地的人。</FONT>",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "\n<FONT color=#7e12d2>（请与已经返回的道格拉斯将军对话）</FONT>"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "精锐士兵第1集团军已经出发了。如果你准备好了，就快点前往黑暗大君主领地，与士兵们会合吧。",
+      "answer": "",
+      "image": "qw_28.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "听到脚步声我就猜到是你了。<FONT color=#387206>{user_nick}</FONT>。<br>你还是设法来到这里了啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你见到杰兰特了啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我没跟你介绍过他啊，你是怎么知道杰兰特的？<br><FONT color=#7e12d2>（阿尔杰塔往金发剑客那里瞟了一眼）</FONT><br>啊……原来是因为在被遗弃的韦尔顿哈鲁发生的那件事啊。",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个我确实看到了。</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你果然看到啦？这个白痴居然放走了那家伙。<br>杰兰特，那家伙到底是怎么从你手中逃跑的？！<br>我实在是难以理解。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "杰兰特！你在听我说话吗？！！<br><FONT color=#7e12d2>（阿尔杰塔提高嗓门）</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "<FONT color=#7e12d2>（杰兰特小声叹了口气）</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_06.ogg}<br>你已经出发去了<FONT color=#a82424>黑暗大君主领地</FONT>啊。你要时刻关注着先知的安危。<br>你找到先知之后，一定要将她带到巨石碑那里。<br>这是我们唯一能做的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "杰兰特！你在听我说话吗？！！<br>\n<FONT color=#7e12d2>（阿尔杰塔提高嗓门）</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "<FONT color=#7e12d2>（杰兰特小声叹了口气）</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "等下，小鬼。<br>\n你不能跟着杰兰特走。",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我有个问题。</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "问题？<br>什么问题？说说看。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你们为什么要和贝思柯德战斗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你这算什么问题啊？<br>难道我们那和那种家伙手拉手，友好相处吗？<br>唉，真是无语！",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他不是坏人……</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "就算你真的来自未来，目前的情况也不会立刻改变。无论那家伙将来变成什么样，现在他只是个<FONT color=#a82424>绑架古代人的后裔，破坏世界均衡的人</FONT>！",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我在这里的事情已经处理完了，我要去<FONT color=#a82424>黑山山角</FONT>那里了。<br>你在这里瞎转悠，可能会死于非命，我劝你还是快离开吧。<br><FONT color=#7e12d2>（在黑山山角与阿尔杰塔对话吧）</FONT>",
+      "answer": "",
+      "image": "qw_skirtofblackmountain.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我在这里的事情已经处理完了，我要去<FONT color=#a82424>黑山山角</FONT>那里了。<br>你在这里瞎转悠，可能会死于非命，我劝你还是快离开吧。<br><FONT color=#7e12d2>（在黑山山角与阿尔杰塔对话吧）</FONT>",
+      "answer": "",
+      "image": "qw_skirtofblackmountain.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "不知道杰兰特有没有找到那家伙。<br>杰兰特被这样欺骗，还不知醒悟，真是糟糕。以前他也被<FONT color=#a82424>贝思柯德</FONT>那家伙欺骗过，怎么到现在还迷迷糊糊……啧啧。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他知道贝思柯德不是坏人……</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "哈？！这里还有一名搞不清状况的傻瓜啊？<br>曾经，当他们是什么滑稽的<FONT color=#a82424>六大英雄</FONT>还是十大英雄时，杰兰特是把贝思柯德当做同伴。",
+      "answer": "",
+      "image": "qn_six_heroes_silhouette.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "但最终贝思柯德不还是带着<FONT color=#a82424>黑龙卡拉斯的宝玉</FONT>逃跑了吗？多亏了他，我们在这50年期间白白吃了多少苦头啊。<br>如果开始我们没相信人类，也不会发生这样的事情了！<br>\n<FONT color=#7e12d2>（阿尔杰塔皱着眉头）</FONT>",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我居然对着弱爆了的人类小孩感慨这些事情……<br>看来我较之前软弱了很多啊，哼。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>大家齐心协力比较好……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "绝对不会发生那样的事情！！<br>如果你听明白了，就快走吧。烦得我头都痛了。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "还有，你们是你们。为什么还要向什么王城，向人类请求帮助？我真的很难理解。<br><FONT color=#7e12d2>（会去向将军道格拉斯报告吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "原来如此。<FONT color=#a82424>杰兰特</FONT>为了追踪<FONT color=#a82424>贝思柯德</FONT>，去了黑暗大君主领地的深处……<br>现在让你去那个地方还有些勉强。如果你继续增强实力，那就说不准了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>现在怎么办？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_05.ogg}<br>你去王城寻求帮助吧。如果跟精锐士兵一同前去，说不定能够进入黑暗大君主领地深处。<br>我很担心先知的安危。如果没有她，我们的未来……<br><FONT color=#7e12d2>（百合花叹了口气）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "我收到了报告，金发剑客为了追踪黑骑士，去了<FONT color=#a82424>黑暗领地守备队据点</FONT>方向。<br>我们目前搜集到的情报还不够，因此无法派大量的兵力前往黑暗大君主据点。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "不过，多亏了冒险家公会的协助，我们获得了内部地图的一部分。<br>我已经派侦查队去了那里，我想应该很快就能派兵前往黑暗大君主据点了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是真的吗？！</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "qkname": "不明身份的剑士",
+  "data": [
+    {
+      "npc": "高级战士佩德罗",
+      "question": "你来了啊。正好有些麻烦事要处理呢。<br>你好像知道的。",
+      "answer": "（继续）"
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "在这附近，最近有人看到了<FONT color=#a82424>不明身份的剑士</FONT>…。<br>听了那人的描述，我觉得那个剑士好熟悉。<br>所以我仔细想了想……<br>不管怎样，那个剑士…不会是<FONT color=#a82424>兰伯特</FONT>吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你说……谁？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "呐，淡定。还没确认呢。<br>我就猜到你会好奇，所以我在发愁怎么联系到你并把这件事情告诉你。哈哈。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>父亲… 怎么会在这样的地方…？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "嗯？我没告诉过你关于<FONT color=#a82424>兰伯特</FONT>的事吗？<br>他是六大英雄战士<FONT color=#a82424>巴尔纳</FONT>的徒弟， 和我父亲<FONT color=#a82424>阿雷格罗</FONT>是好兄弟。也算是我的叔叔啦。",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>但他为什么会在这个地方？</FONT>",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "最近有消息称他出现在了神圣天堂。<br>说不定是从神圣天堂来到这里的。<br>不过还是应该好好确认一下是不是他。",
+      "answer": ""
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "目击到不明身份的剑士的地点就在<FONT color=#a82424>女王庭院</FONT>。<br>我现在有别的事情不能离开，你替我亲自确认一下吧。",
+      "answer": "",
+      "image": "qw_68.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了。</FONT>",
+      "answer": "",
+      "image": "qw_68.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#a82424>高级战士佩德罗</FONT> 找你有什么事吗？",
+      "answer": "",
+      "image": "qn_npc_lotus_warriorfedro.png"
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "如果不明身份的剑士的确是<FONT color=#a82424>兰伯特</FONT>的话….<br>他到底为什么要出现在<FONT color=#a82424>女王庭院</FONT>这样的地方呢？….",
+      "answer": ""
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "你回来了啊。<br>对了，不明身份的剑士是不是 <FONT color=#a82424>兰伯特</FONT>呢？<br>\n<FONT color=#7e12d2>（说明外貌）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "…嗯？尽管我也没怎么见过叔叔，但听父亲讲起过，好像不是那个样子的….<br><FONT color=#7e12d2>（佩德罗歪着脑袋）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

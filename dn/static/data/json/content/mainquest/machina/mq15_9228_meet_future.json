@@ -1,0 +1,204 @@
+{
+  "qkname": "和未来的相见",
+  "data": [
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "好的好的，鬼还是可以通过魔法消灭掉的……<br>\n<FONT color=#7e12d2>（斯泰拉认真地嘟囔着什么）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "对，对，我就知道。<br>快，快说吧。到底是怎怎么回事？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个……（说明来龙去脉）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "还，还有一具尸体，那尸体和之前的尸体长得一样，还有一个长得和尸体一样的少女？<br>少女是活着的？<br>啊，那个，所以……到底是什么意思啊？<br><FONT color=#7e12d2>（斯泰拉好像十分混乱）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>就是我说的那个意思。长相一样的尸体和少女……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "等等等等等一下~！这不什么都没解决吗！！<br><FONT color=#7e12d2>（斯泰拉瞥了一眼地图，又迅速还了回来）</FONT><br>嗯嗯~这个是<FONT color=#a82424>伊戴尔基地</FONT>所在地的地图对吧？",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "哎呦，那你就快去那个叫<FONT color=#a82424>伊戴尔基地</FONT>的地方，好好听听是怎么回事吧~！！<br>我现在连害怕的力气都没有了……呜呜。",
+      "answer": "",
+      "image": "qw_71.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哇啊，你别哭啊！别人会觉得奇怪的！！</FONT>",
+      "answer": "",
+      "image": "qw_71.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "你来啦。我是<FONT color=#a82424>学者柯梅里纳</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "难道你就是六大英雄之一的<FONT color=#a82424>血雨腥风的破坏者</FONT>？真没想到能和<FONT color=#387206>{user_class}{user_nick}</FONT>你见面。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "难道你就是六大英雄之一的<FONT color=#a82424>银色新月的灵魂</FONT>？真没想到能和<FONT color=#387206>{user_class}{user_nick}</FONT>你见面。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "难道你就是六大英雄之一的<FONT color=#a82424>暴走的魔力支配者</FONT>？真没想到能和<FONT color=#387206>{user_class}{user_nick}</FONT>你见面。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "难道你就是六大英雄之一的<FONT color=#086171><FONT color=#a82424>神圣之光的守护者</FONT>？真没想到能和<FONT color=#086171> </FONT><FONT color=#387206>{user_class} {user_nick}</FONT><FONT color=#2b2723>你见面。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "啊！你还没有成为英雄吗……？那没事了。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "好像从哪里听说过这个名字……？<br>能搜索一下就好了。但是这个模样……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？（六大英雄）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "啊，啊没什么。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "不过，我真没想到你会来。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>因为我有很多疑问。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "什么？",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>（晃着脑袋）<br></FONT>我也不知道。我也找过研究日志，但没有找到。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>（犹豫了一下，还是张开了口）<br></FONT>有很多需要说明的。不知你了解<FONT color=#a82424>克隆</FONT>吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>克隆？？？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "是，克隆就是复制人类。简单说的话，就是以同卵双胞胎的原理为基础……<br>基本上就是以相同的人类基因为基础……然后将脱氧核糖核酸的转录过程……@!??&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;%",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "通过染色体端位上的着丝点的干涉……令阻碍遗传子的变异最小化……*^* 决定外形的（）（）（）培养液的浓度……然后为了加强细胞，挑战重要的Nacl的浓度……这样那样……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>停……停下！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "很简单吧？",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "这……考虑到过去的技术水平，我已经尽可能简单地说明了呢……<br><FONT color=#7e12d2>（……有点上火）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "那就一句话概况吧。<br>\nXD-27和XD-28，还有其他和我长相一样的东西，都是因为克隆，才让肉体上的所有构成都保持一致。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "我们是从50年后的未来来的。<br>尽管一开始是为了拯救世界而来的……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你是不是发烧了？（伸手去摸额头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "没有发烧！别把我当小孩子。<br><FONT color=#7e12d2>（柯梅里纳不高兴的看着你）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "嗯嗯……不过现在克隆人成了我的敌人。<br>他们正在打算<FONT color=#a82424>进攻现在的人，让这里的人灭亡，使未来的人能移居到这里</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "我知道这很难相信。<br>到<FONT color=#a82424>泰努阿尔神殿</FONT>来的话，可以让你看到更确切的证据。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "这也是我来到之后才了解的事情。基地的部队中部分人计划前往<FONT color=#a82424>泰努阿尔神殿</FONT>执行<FONT color=#a82424>荒漠风暴</FONT>作战。<br>他们肯定是要在那里实行非常重要的计划。",
+      "answer": "",
+      "image": "qw_72.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#2b2723>谁，谁哭了啊？</FONT><br><FONT color=#2b2723>你赶紧去那什么</FONT><FONT color=#a82424>伊戴尔基地</FONT><FONT color=#2b2723>查，查明真相吧！！</FONT><br><FONT color=#7e12d2>（看来没法继续跟她说话了）</FONT>",
+      "answer": "",
+      "image": "qw_71.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "我也正打算立刻去那个地方呢。那我就先……<br><FONT color=#7e12d2>（回去向神圣天堂的高级魔法师斯泰拉报告）</FONT>",
+      "answer": "",
+      "image": "qn_npc_soceressstella.png"
+    },
+    {
+      "npc": "高级魔法师斯泰拉",
+      "question": "<FONT color=#7e12d2>（斯泰拉看上去十分疲惫）</FONT><br><FONT color=#2b2723>嗯嗯…… 好吧，这次全都弄明白了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

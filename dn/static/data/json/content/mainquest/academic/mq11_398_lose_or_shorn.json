@@ -1,0 +1,198 @@
+{
+  "qkname": "弄丢了",
+  "data": [
+    {
+      "npc": "健壮的冒险家",
+      "question": "……我本来不想对小姑娘动粗的……<br><FONT color=#7e12d2>（有个带着阴笑的男人看着{user_nick}这边）</FONT>"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "杰兰特……因为我……<br>\n呜呜。",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_05.ogg}<br>你在干什么？必须找到先知！<br>你该不会是忘记你的使命了吧？",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "怎么会发生这种事……先知到底怎么样了……？自言自语。<br>伟大的骑士王卡西乌斯……我该怎么办呢？自言自语……"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "先知不见了，甚至连主教伊格纳西奥也下落不明。<br>\n现在王城内部一片混乱。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你知道主教去了哪里吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "我之前收到报告，有人看见他往赫尔马岱港口方向去了。<br>现在精锐士兵们正在追踪他的痕迹……但不知道能否找到他。<br><br><FONT color=#7e12d2>※ 组队状态下无法进行该任务。</FONT>",
+      "answer": "",
+      "image": "qw_hermalteport.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br><FONT color=#7e12d2>▷ 请前往赫尔马岱港口。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "怎么会发生这种事……先知到底怎么样了……？自言自语。<br>伟大的骑士王卡西乌斯……我该怎么办呢？自言自语……",
+      "answer": ""
+    },
+    {
+      "npc": "健壮的冒险家",
+      "question": "……我本来不想对小姑娘动粗的……<br><FONT color=#7e12d2>（有个带着阴笑的男人看着{user_nick}这边）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "杰兰特……因为我……",
+      "answer": ""
+    },
+    {
+      "npc": "健壮的冒险家",
+      "question": "……我本不想对小女孩动武……<br><FONT color=#7e12d2>（有个男子望着{user_nick}这里，露出了苦笑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>请让开！如果我不快点找到先知……！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "健壮的冒险家",
+      "question": "很抱歉。<br>我也很需要先知。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你……究竟是什么人？！快把先知还给我！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "健壮的冒险家",
+      "question": "小鬼，只靠眼泪是无法打倒我的。<br>好了，我们该说再见了。<br>\n<FONT color=#7e12d2>（冒险家挥动拳头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_03.ogg}<br>先知……被抢走了？<br>突然出现的那个男子究竟是什么人？！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不太清楚。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "我们连他的名字都不知道，该怎么知道他呢？<br>几乎就要到手的先知……居然就这样被抢走了……！<br><FONT color=#7e12d2>（百合花声音很悲痛）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>对不起。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "……我不是在怪你。但是，我们现在没有时间了。<br>勉强支撑着世界的贝思柯德说不定即将消失，你应该也知道吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "根据记录，她曾出现在莲花沼泽。<br>但那时她已经……<FONT color=#7e12d2>（百合花叹了口气）</FONT><br>应该无法说服她。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>还是试试吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_07.ogg}<br>嗯……<br>或许<FONT color=#a82424>王城地下秘密区域</FONT>会有什么线索，你最后再去确认一下吧。",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "先知居然消失了……现在我该如何是好……呜呜。<br>我果然是个没用的王啊……呜….",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这件事不怪你。</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "勇敢的少女……你也要离开朕吗？<br>不，不要走……<br><FONT color=#7e12d2>（卡西乌斯眼泪汪汪地望着你）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "<FONT color=#a82424>杰兰特</FONT>……因为我….<br>咳….",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>西恩？</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，现在该怎么办……<FONT color=#7e12d2>（战士西恩脸色阴暗）</FONT><br>都怪我，都怪我杰兰特才…….<br><FONT color=#7e12d2>（不知是否由于喉咙哽咽，西恩没能继续说下去）</FONT> 呃呃… 全都是我的错……！！",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>请冷静些。</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "但是……都是由于我的愚蠢，杰兰特才会死。呜…<br>咳咳…… <FONT color=#7e12d2>（西恩抽泣着）<br></FONT>……呜，都怪我，萨芬特拉才会复活，都怪我将杰兰特带到那里，他才会死……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这件事不怪你。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "是我的错！！结果<FONT color=#a82424>萝丝</FONT>也消失了。<br>没想到<FONT color=#a82424>伊格纳西奥</FONT>是这么邪恶的人……<br>如果我再谨慎些就好了！我应该将<FONT color=#387206>{user_nick}</FONT>你所说的话铭记在心的。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>所以，你现在打算怎么做？</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

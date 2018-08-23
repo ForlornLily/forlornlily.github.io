@@ -1,0 +1,142 @@
+{
+  "qkname": "真正认识到了杰罗",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（百合花劫持的那个小孩子肯定是……<br>...<br>...<br>小鸟... 没错，肯定是黛西！）</FONT>",
+      "answer": "",
+      "image": "qn_npc_daisy.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（为何会劫持黛西呢?<br>百合花，到底在耍什么阴谋呢……）</FONT><br><br><FONT color=#7e12d2>* 请移动至阿勒努特峡谷。</FONT>",
+      "answer": "",
+      "image": "qw_74.png"
+    },
+    {
+      "npc": "XD-30",
+      "question": "呼呼……我们俩拥有相同的力量 ……<br>但是为何你却这般厉害？<br><FONT color=#7e12d2>（XD-30摇晃着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>黛西在哪里？你为什么要劫持她？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "XD-30",
+      "question": "呼呼……这个么……理由大概就是你所想的那样吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>难道……黛西是K博士制作出的生命体？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "XD-30",
+      "question": "对。那个少女就是我们身上的宝玉碎片之原型，也是<FONT color=#a82424>XD-00（杰罗）</FONT>的母亲。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰罗……？不是只有XD-01至30吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "XD-30",
+      "question": "咳咳……你果然什么都不知道啊？<br>百合花确实制造了我们。<br>但是，你觉得她是怎么制造出我们的呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那当然是利用偶然间发现的宝玉碎片 ……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "XD-30",
+      "question": "偶然？<br>不。百合花一出生就具备了制造我们的所有能力。<br>因为她也和我们一样。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>跟我们一样？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "XD-30",
+      "question": "百合花就是<FONT color=#a82424>XD-00</FONT>，<FONT color=#a82424>代号杰罗</FONT>。<br>与天启项目并行的学者项目的第一个成果。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>百合花……也是被制作出来的……？这到底是？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "XD-30",
+      "question": "制作出百合花的人就是<FONT color=#a82424>黛西</FONT>。<br>百合花所劫持的那个孩子，她就是在未来制造百合花的人。",
+      "answer": "",
+      "image": "qn_npc_daisy.png"
+    },
+    {
+      "npc": "XD-30",
+      "question": "黛西具有强大的宝玉，她本来可以长生不老的。<br>但是，博士K把她制作得并不完整，因此她正在缓慢地迈向死亡。",
+      "answer": "",
+      "image": "qn_npc_daisy.png"
+    },
+    {
+      "npc": "XD-30",
+      "question": "有一天，她终于明白了自己的生命即将终结。<br>不过她并不害怕或者畏惧死亡。<br>因为，变回宝玉之后，过一段时间还会以新的生命体形式重获新生。但是……",
+      "answer": "",
+      "image": "qn_npc_daisy.png"
+    },
+    {
+      "npc": "XD-30",
+      "question": "她真正惧怕的是，自己死后那些只能陷入痛苦当中的生命。她无法对此置之不理。<br>因此她从自身宝玉抽取一半的力量，制造出了可以传承其记忆与知识以及使命的继承者。而她就是<FONT color=#a82424>百合花</FONT>。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "XD-30",
+      "question": "然而百合花诞生不久，黛西也随即死去。百合花就用黛西留下来的另外一半宝玉制造出了我们。<br>但是，不同于与百合花，我们的任务却全部以失败而告终。这是为什么呢？",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "XD-30",
+      "question": "那是因为百合花给我们注入了额外的感情与记忆。<br>就像黛西制造出百合花一样，她也复制了自己而制造出了我们，但是百合花身上的使命感却未能传承到我们身上。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "XD-30",
+      "question": "不过……不过，唯独你好像与其他人不同。<br>在你的身上……无疑同时具有百合花和黛西的意志。<br>只是被我们视作任务的这些事件，却都被你视作为一种使命。而这……似乎就是你不同于我们的一个特点。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>黛西的使命……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "XD-30",
+      "question": "呼呼……是的。你才是百合花想要的那种孩子。<br>但荒唐的是，你却成为了那个唯一与百合花对抗的人。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>黛西…… 百合花现在哪里？！</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "XD-30",
+      "question": "去被占领的古代寺院吧。<br>未来的黛西所遗留下来的两个姊妹为了世界而发起的战争……<br>呼呼……真……有意思……呼呼……呼……<br><FONT color=#7e12d2>（XD-30的气息逐渐减弱）</FONT>",
+      "answer": ""
+    }
+  ]
+}

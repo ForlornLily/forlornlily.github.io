@@ -1,0 +1,139 @@
+{
+  "qkname": "吞毒",
+  "data": [
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "黑暗女神官指南针有帮助吗？<br>啊，指针还在移动。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "如果埃克莱尔让你们到枯叶林爆炸地区去，请按她的话去做。",
+      "answer": "",
+      "image": "qw_41.png"
+    },
+    {
+      "npc": "黑暗女神官埃克莱尔",
+      "question": "请到枯叶林爆炸地区去。<br>在那里采集一些古代人的有毒物质，把它和黑色核心结合起来，那种强烈的剧毒可以中和你们的剧毒。",
+      "answer": "",
+      "image": "qw_41.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "要到枯叶林爆炸地区去，对吧？<br>明白了。",
+      "image": "qw_41.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "这边。<br>在这里采集有毒物质就行。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>希望这次能有效。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，等等……！<br><FONT color=#7e12d2>(露娜莉娅的表情变得阴沉起来)</FONT>",
+      "answer": ""
+    },
+    {
+      "question": " <br>\n<FONT color=#7e12d2>(碰到有毒物质之后，视野变得模糊起来。<br>感觉露娜莉娅的声音离我越来越远)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "幻象",
+      "question": "……我是不会让你得逞的。",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "露娜莉娅，这次你是不会得逞的。你总有一天……<br><FONT color=#7e12d2>(听不清声音)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(他在说什么……？不知道幻象到底想从露娜莉娅那里得到些什么。<br>幻象为什么对露娜莉娅那么执着呢？他们俩那时到底要去哪儿呢？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(还有，露娜莉娅……</FONT><br>\n<FONT color=#662500>露娜莉娅到底是谁呢？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "别想骗我。<br>\n你还嫩着呢。",
+      "answer": ""
+    },
+    {
+      "question": " <br>\n<FONT color=#7e12d2>(看到了模糊的记忆。</FONT><br>\n<FONT color=#7e12d2>但是看不清形态)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#387206>{user_nick}</FONT>……你回来啦？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "幻象出现了。<br>你好像已经不记得了。",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "古代人的有毒物质在这里。<br><FONT color=#7e12d2>(露娜莉娅伸出手)</FONT><br>带着它回去吧。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "要回到<FONT color=#a82424>时空庭院</FONT>去，对吧？<br>明白了。",
+      "answer": "",
+      "image": "qw_sainthaven_nestworldzone01.png"
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "见到埃克莱尔了吗？<br>啊，那是她让你去寻找的东西吗？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "<FONT color=#7e12d2>(玛德琳接过了古代人的有毒物质)</FONT><br>把它和黑龙的翅膀碎片组合起来形成的物质，一定可以对抗任何剧毒。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "好的，这就是两种剧毒合成之后的物质。<br><FONT color=#7e12d2>(手刚碰到玛德琳交给我的物质，那种物质就消失了，好像被吸收掉了一样)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(真的有效吗？</FONT><br>\n<FONT color=#662500>暂时好像没感觉到有什么变化。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……这次幻影好像又出现了，露娜莉娅的状态也非常不稳定。真让人担心。<br>现在到底是什么时候呢？不会又穿越到了奇怪的时期了吧？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(从黑暗女神官玛德琳的反应来看，好像没有穿越到太远的时间……)</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(不过还是感觉有点奇怪。)</FONT>",
+      "answer": ""
+    }
+  ]
+}

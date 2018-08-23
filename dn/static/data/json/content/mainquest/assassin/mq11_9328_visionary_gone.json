@@ -1,0 +1,183 @@
+{
+  "qkname": "消失的先知",
+  "data": [
+    {
+      "npc": "精锐士兵克林德",
+      "question": "完全搞不清楚到底是怎么回事。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(到赫尔马岱港口那边去看看吧。去见见其他冒险家，说不定能了解到一些情况。)</FONT><br><br><FONT color=#7e12d2>(* 在组队状态下无法执行的任务)</FONT>",
+      "answer": "",
+      "image": "qw_hermalteport.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "杰兰特……因为我……",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "要是……找不回先知的话……呜呜……",
+      "answer": ""
+    },
+    {
+      "npc": "健壮的冒险家",
+      "question": "……嗯，是个倒霉的菜鸟啊。<br><FONT color=#7e12d2>(有个男人带着苦涩的微笑，看着{user_nick}这边)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……要到<FONT color=#a82424>赫尔马岱港口</FONT>那边去啊。<br>明白了。<br>\n <br>\n<FONT color=#7e12d2>(* 在组队状态下无法执行的任务)</FONT>",
+      "answer": "",
+      "image": "qw_hermalteport.png"
+    },
+    {
+      "npc": "健壮的冒险家",
+      "question": "……真麻烦。<br><FONT color=#7e12d2>(有个男人带着苦涩的微笑，看着{user_nick}这边)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "健壮的冒险家",
+      "question": "我上司找先知有事。请多多包涵。<br>唉～所以说在下面做事不容易啊。",
+      "answer": ""
+    },
+    {
+      "npc": "健壮的冒险家",
+      "question": "虽然看上去好像很倒霉……不过那是弱者的宿命。<br>别太难过了，年轻的朋友。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你不认识我吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(如果是和伊格纳西奥一伙的话……</FONT><br>\n<FONT color=#662500>很可能是使徒所属团体的成员。<br>他不认识幻象吗？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "健壮的冒险家",
+      "question": "像你这么弱的人的名字，我一向记不住。<br>如果你想听故事的话，就去问其他老人家吧。",
+      "answer": ""
+    },
+    {
+      "npc": "健壮的冒险家",
+      "question": "好了，我得走了。",
+      "answer": ""
+    },
+    {
+      "question": " <br>\n<FONT color=#7e12d2>(无法继续对话了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "要是……找不回先知的话……呜呜……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎么回事？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "伊格纳西奥想要劫持<FONT color=#a82424>先知</FONT>……我本想阻止他……<br>\n但是追过去的时候，被刚才那个男人拦住了。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>先知？</FONT><br>\n<FONT color=#662500>伊格纳西奥劫持了先知萝丝？！</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "是的，我想阻止他，但是追到这里的时候，被刚才那个男人拦住，然后……<br>\n真是没脸见人。.",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "差一点就抓住了……差一点就能完成我的使命……呜呜……<br>\n今后我都不知道该怎么办了。<br><FONT color=#7e12d2>(柯梅里纳抱住了脑袋)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……看来我得去和<FONT color=#a82424>姐姐</FONT>商量一下以后的事情了。<br><FONT color=#7e12d2>(柯梅里纳垂下了肩膀)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "我先失陪了。<br><FONT color=#7e12d2>(柯梅里纳恭敬地低下了头)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(先知消失了？不是说王城地下是杰兰特的巢穴，所以很安全的吗？！为什么？<br>到王城地下去确认一下情况吧。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "我先失陪了。<br><FONT color=#7e12d2>(柯梅里纳恭敬地低下了头)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "杰兰特……因为我……",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "{user_nick}，怎么办呢？！<br>\n<FONT color=#7e12d2>(战士西恩的脸色很阴沉)</FONT><br>\n因为我，因为我，杰兰特……",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "<FONT color=#7e12d2>(哽咽得说不出话来)</FONT><br>呃呃～都怪我……！",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "萨芬特拉是主教伊格纳西奥制造出来的魔物。目的是威胁神圣天堂，然后把杰兰特引出巢穴。结果，在和萨芬特拉的战斗中……杰兰特……",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "是我太蠢，不然杰兰特是不会死的。<br><FONT color=#7e12d2>(西恩抽泣道)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "因为我萨芬特拉才会复活。我自己一无所知，还把杰兰特带到了那里，他才会死的……<br>\n他为了保护我……为了帮助我……才……呜呜……",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "连萝丝也不见了。<br>\n没想到伊格纳西奥是这么邪恶的人……<br>\n要是我能稍微留意一点的话……呜呜……",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "我很恨我自己。<br>我想去追踪伊格纳西奥的行踪，却让他跑了。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那你现在打算怎么办呢？</FONT>",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "qkname": "采集化石",
+  "data": [
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你那里有<FONT color=#a82424>杰兰特</FONT>给的凭证，对吧？我指的是可以让你自由出入他所在地方的凭证。<br>让我也瞧瞧。",
+      "answer": "（把杰兰特的吊坠给对方看）",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "真是精雕细琢呀。我居然亲眼见到了龙的物件，真是见识到了珍贵之物啊。<br>你务必要保管好，别丢了。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "嗯……虽然先知由<FONT color=#a82424>杰兰特</FONT>保护着，可神圣天堂附近的防卫却很让人担心。<br>黑龙虽然消失了，可还有那些<FONT color=#a82424>怪物</FONT>呢。<br><FONT color=#7e12d2>（主教陷入沉思，目光飘过这边）</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "自古以来都是擒贼先擒王，一旦没了头领，再邪恶的阵营也会涣散的。可是，我军经过上次的激战，早已实力大减了，而且耗尽的<FONT color=#a82424>军需物资</FONT>还不知道何时才能补给上来。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "加之赫尔马岱港口出没的那些盗贼正在妨碍<FONT color=#a82424>军需物资</FONT>的运输，真让人头疼。你能再帮帮我吗？",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你去消灭<FONT color=#a82424>孤岛中心</FONT>可恶的盗贼吧。把盗贼消灭之后，就能找回他们偷走的<FONT color=#a82424>黑暗矿山的火药</FONT>了。你把火药带回来，作为你消灭那些盗贼的凭证。",
+      "answer": "",
+      "image": "qw_33.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>明白。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "啊，对了。我得叮嘱你一句。这件事是你和我两个人的<FONT color=#a82424>秘密</FONT>，不能泄露。<br>如果其他贵族起了不必要的疑心就麻烦了。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "那么，你就前往<FONT color=#a82424>孤岛中心</FONT>消灭那里的盗贼，然后把火药带回来吧。我在这儿等你。",
+      "answer": "",
+      "image": "qw_33.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "咦，这么快就回来啦？<br>哎哟，真是的……快掸掸你衣服上的尘土吧。<br>辛苦你了，我一定会记住你的功劳的。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "现在你先别想别的了，我希望你能和我一起解决<FONT color=#a82424>神圣天堂</FONT>正在面临的问题。<br>我所信任的人本来就没有几个，身边能有像你这样的人才，让我颇感欣慰。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "虽然有点困难，但有一件事最好能确认一下……<br>你愿意接受我的委托吗？因为除了你我已经没什么人可以信任了。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么事？</FONT>",
+      "answer": ""
+    }
+  ]
+}

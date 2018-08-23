@@ -1,0 +1,341 @@
+{
+  "qkname": "奇怪的后遗症",
+  "data": [
+    {
+      "npc": "杰兰特",
+      "question": "\n比起待在这里，你更适合走出去，和其他的人类在一起。",
+      "answer": ""
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "神圣天堂忠实的<FONT color=#387206> {user_nick}，</FONT><FONT color=#a82424>宫廷魔法师卡拉安</FONT>的事情都结束了吗？",
+      "answer": "",
+      "image": "qn_npc_royal_magician_kalaen.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "居然全然不顾为了守护神圣天堂而不竭余力、英勇奋战的士兵，只对<FONT color=#a82424>金龙</FONT>的力量感兴趣……<FONT color=#7e12d2>（将军道格拉斯不满地望着公爵斯图尔特）</FONT>",
+      "answer": "",
+      "image": "qn_npc_duke_stwart.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "<FONT color=#a82424>杰兰特</FONT>……别人不知道，可我却很清楚。<br>他就是50年前率领我们作战的人。",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "唉，什么呀。是想让我长皱纹吗？<br><FONT color=#7e12d2>（卡拉安将小镜子放入口袋，不耐烦地摆了摆手）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "我需要休息了。<br>公爵在旁边一直盯着我们呢，你去问问<FONT color=#a82424>斯图尔特公爵</FONT>有什么事吧。",
+      "answer": "",
+      "image": "qn_npc_duke_stwart.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "看来你是担心<FONT color=#a82424>古代人的后裔</FONT>。<br>只要有我在，任何人都伤害不到她，你就放心吧。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "居然全然不顾为了守护神圣天堂而不竭余力、英勇奋战的士兵，只对<FONT color=#a82424>金龙</FONT>的力量感兴趣……<FONT color=#7e12d2>（将军道格拉斯不满地望着公爵斯图尔特）</FONT>",
+      "answer": "",
+      "image": "qn_npc_duke_stwart.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "<FONT color=#a82424>杰兰特</FONT>……别人不知道，可我却很清楚。<br>他就是50年前率领我们作战的人。",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "神圣天堂忠实的<FONT color=#387206> {user_nick}， 快过来吧。<br>正好我有件重要的事要找你。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么事？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "ionStand2}<br>那金龙……是叫<FONT color=#a82424>杰兰特</FONT>吗？<br>嗯，虽然是个常见的名字，不过正好也和50年前那大英雄的名字相同。不管怎样，我打算授予他光荣的<FONT color=#a82424>任命书</FONT>。",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>什么？任命书？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "是的。他在<FONT color=#a82424>我们年幼的国王陛下盛德的感召下，自觉守护国王和神圣天堂</FONT>，这是多么难得的事啊？这事情要是被大家所知道，一定能大大振奋人心的，我已经准备好了正式的任命书。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>好像有什么误会</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "哈哈。能有什么误会？<br>而且，作为<FONT color=#a82424>国家守护龙</FONT>，现在正在商议在那边为其建造一座雄伟的<FONT color=#a82424>铜像</FONT>。<br>对他本人来讲，这也应该是无尚的荣耀了吧。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>不需要征求他的意见吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "啊，我找你正是为这事。<br>能出入那里的不就只有你吗？<br>而且，作为公爵也不适合亲自前往，你就作为我的使节替我去一趟吧。<br><FONT color=#7e12d2>（说着拿出了任命书）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "<FONT color=#a82424>金龙</FONT>属于我们阵营的事实，对呼吁百姓忠诚于国王陛下也是很有帮助的。<br>不论是百姓还是贵族，都会敬仰我们的。哈哈哈~",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你去将我的意思转达给<FONT color=#a82424>金龙</FONT>吧。以伟大的卡西乌斯骑士王之名任命他为<FONT color=#a82424>神圣天堂的守护者</FONT>、王的守护骑士。",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你去将我的意思转达给<FONT color=#a82424>金龙</FONT>吧。以伟大的卡西乌斯骑士王之名任命他为<FONT color=#a82424>神圣天堂的守护者</FONT>、王的守护骑士。",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "守护骑士？任命书？<br>……又玩这个？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>您说……玩？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "<FONT color=#a82424>50年前</FONT>也是这样。打算给我和同伴们一张玩具一样的纸片，然后便漫无止境地举行仪式。<br>虽说精灵是一种变化成人类的存在，但人类却是本性难移。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>这是在拒绝吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我把神圣天堂当成<FONT color=#a82424>巢穴</FONT>来守护，这是事实。所以我不在乎人类怎么称呼我。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那么请接受这份任命书吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你看着办吧。<br>这东西对我没用。",
+      "answer": "（那就随便放在什么地方吧）",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "看来你没有别的事了。<br><FONT color=#7e12d2>（杰兰特表现得对此事再不关心）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "现在我把神圣天堂当成<FONT color=#a82424>巢穴</FONT>来守护，这是事实。<br>所以我不在乎人类怎么称呼我。",
+      "answer": ""
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "包括推辞了华丽的就任仪式在内，这些都可以包装成一段<FONT color=#a82424>佳话</FONT>。<br>嗯，又可以节约国库的开支，真是不错。哈哈哈。<br>\n<FONT color=#7e12d2>（公爵看起来很高兴）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "ionStand2}<br>现在得为制作铜像做预算了，估计会忙一阵子。<br>\n别的事……啊，对了。<FONT color=#a82424>道格拉斯将军</FONT>总是递上来一些没用的申请，说什么协助治疗伤兵的人员不足。",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "好吧，我虽然知道<FONT color=#a82424>道格拉斯将军</FONT>付出了很多努力，但这一切最终都要归结于国王陛下的圣恩，不是吗？<br>精锐士兵到底取得了什么成就，还申请支援，哎。<br>\n<FONT color=#7e12d2>（公爵愁眉不展地叹息着）</FONT>",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "ionStand2}<br>我也不能完全不管，你去帮我看看吧。<br>有什么需要帮忙的，你就看着帮帮忙好了。",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "ionStand2}<br><FONT color=#a82424>将军道格拉斯</FONT>总是跟我说些没用的建议，说什么协助治疗伤兵的人员不足。<br>你去看看吧，我这边有点忙。",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "哦哦，这是谁呀。这不是<FONT color=#387206>{user_nick}</FONT>吗。上次真是辛苦你了。<br>英勇奋战的你为很多士兵都带来了不小的帮助。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>听说您申请了支援。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "你是为这事来的？这真是……<br>看来他是不打算派个正式的官员来了。<br>这可如何是好。时间紧迫啊……",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "自从<FONT color=#a82424>金龙</FONT>出现后，战士们的功劳全都被忽视了。<br>现在最重要的问题是，对于那些为了保护国家而负伤的伤员们我们所给予的帮助太少了。",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "尤其是出现<FONT color=#a82424>奇怪症状</FONT>的伤兵越来越多，真让人担心。为了能够对症治疗，需要对出现的症状进行研究，我正在寻找能帮忙的人。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我可以帮忙。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "是吗？这真是……你又不属于王城，每次都让你帮忙，真过意不去。<br>现在为伤兵提供支援的是<FONT color=#a82424>高级弓箭手伊西莉安</FONT>。你去找她听听详细情况吧。",
+      "answer": "",
+      "image": "qn_npc_archer_ishilien.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "现在负责治疗伤员的是<FONT color=#a82424>高级弓箭手伊西莉安</FONT> ，所以你去找她问问详细情况吧。<br>现在，患上怪病的士兵越来越多，真让人担心。",
+      "answer": "",
+      "image": "qn_npc_archer_ishilien.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "我向王城申请的是官员，<br>怎么就<FONT color=#387206>{user_class}</FONT>你一个人来了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>非官员不可吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "那倒不是……<br>总之，王城的人似乎分不清事情的轻重缓急。<br>不过那是他们的选择，也是宿命。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>比起那些，我现在想听听怪病的事。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "这次战争中的伤员中，有一部分人出现了奇怪的症状。就连牧师也没见过，正为难呢。<br>不过我对于这种病却不陌生。<br>虽然还不能确定……但应该就是我知道的那种病。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>是什么病？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "我的推测没错的话，那超出正常范围的高烧以及部分身体的变异……<FONT color=#7e12d2>（伊西莉安没有继续说）</FONT> <br>……还需要进一步确认。<br>我想请你来帮我。",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "为了进行研究，我需要可以进行对比的标本。只要能确定它和普通被污染的土壤有什么不同，就能够确信我的推测了。你前往<FONT color=#a82424>死亡城市路口</FONT>，将那里粘在怪物身上的被污染的土壤搜集回来吧。",
+      "answer": "",
+      "image": "qw_38.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "我想比较一下，普通被污染的土壤和从黑暗大君主的领地得到的土壤有什么区别。你前往<br><FONT color=#a82424>死亡城市路口</FONT>，将那里粘在怪物身上的被污染的土壤搜集回来吧。",
+      "answer": "",
+      "image": "qw_33.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "你带回的<FONT color=#a82424>被污染的土壤标本</FONT>状态不是很好，所以没起到什么作用。<br>很抱歉，这次请你从<FONT color=#a82424>更强大的怪物身上</FONT>获取标本吧。",
+      "answer": "",
+      "image": "qw_36.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "<FONT color=#a82424>被污染的土壤标本</FONT>还没搜集回来吗？<br>为了那些伤员，麻烦你尽快。",
+      "answer": "",
+      "image": "qw_36.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "回来了？看来拜托你还是比拜托那些王城的官员们要可靠不少。<br>因为王城的那些人完全分不清事情的先后缓急。",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "果然普通被怪物污染的土壤是这种颜色……从去过黑暗大君主的领地的士兵身上采到的土壤怎么……<br><FONT color=#7e12d2>（伊西莉安仔细观察着标本）</FONT><br>果然我的推测没错。和50年前发生那次事件时的污染一样。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>50年前的……事件的话……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "那场被称为<FONT color=#a82424>灾殃之雨</FONT>的事件。黑龙之血……<br>50年前黑龙之战结束后，同样也出现了无数的受害者。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>黑龙之血？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "是的。强大怪物的血液，对于其他生物来说就如同毒药一般。像沸腾的火山熔岩一般，融化掉身体，甚至还会腐蚀精神。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>完全没有治疗的办法吗？</FONT>",
+      "answer": ""
+    }
+  ]
+}

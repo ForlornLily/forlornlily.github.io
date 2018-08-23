@@ -1,0 +1,251 @@
+{
+  "qkname": "和艾瑞斯重逢",
+  "data": [
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "好，你见到了叫<FONT color=#a82424>贝思柯德</FONT>的守护者吗？",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（向贝勒尼卡报告</FONT><FONT color=#a82424>守护的结界</FONT><FONT color=#662500>完成的事实）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "吼~那真是太好了！这样就能松口气了！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是啊，按照贝勒尼卡大人所说，宝玉似乎没有完全发挥作用。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "果然如此，虽然耿直也不错，但是如果觉得哪里奇怪，就应该多想一想。所以，你不要总是怀疑自己的同伴，好好干好自己的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "总之，<FONT color=#a82424>阿尔特里亚的守护结界</FONT>能结成当然值得高兴……不过这么重要的消息，被我这个表面上和阿尔特里亚完全没有接触的人先知道，要是我一溜烟地跑去告诉<FONT color=#a82424>女巫</FONT>，只不过是让他们徒增怀疑。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "但是，如果女巫那边先知道结界已经形成，然后向查尔德公布，那就什么问题都没有。女巫对梅尔卡的双面情报商人很了解，所以，如果看上去我们是通过查尔德或者复仇军团士兵获得的情报，她们就不会怀疑我们了。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "所以，你现在去<FONT color=#a82424>特里亚的领地</FONT>，确认是不是查尔德都知道了结界的存在。 我们这边要从现在开始准备签订停战协定的会谈，没有多余的人手。",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "\n艾瑞斯不是奇怪的孩子。",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "\n艾瑞斯不是奇怪的孩子。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "因为你好几次潜入，现在领地的警卫加强了，你要小心行事。",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "你还好吗，<FONT color=#387206>{user_nick}</FONT>？！你受伤了吗？！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你……？</FONT>不是我在<FONT color=#a82424>卢比纳特藏身处</FONT><FONT color=#662500>见到的那个奇怪的孩子吗？！</FONT>",
+      "answer": "",
+      "image": "qw_rubinat_hideout.png"
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "ndnpc_Iris_9719_qu_01.ogg}<br>昂……艾瑞斯不是奇怪的孩子啊……<FONT color=#387206>{user_nick}</FONT>，我很担心……我一直很担心……<FONT color=#a82424>切洛斯</FONT>让我不要擅自行动，我还找到这儿来……你太过分了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你究竟是谁， </FONT><FONT color=#a82424>切洛斯</FONT><FONT color=#662500>又是谁啊……呼……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "嗯，这个我不能说……啊！<FONT color=#387206>{user_nick}</FONT>，你为什么会来这么危险的地方？这里生活着很可怕的查尔德！",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "<FONT color=#2b2723>最近他们听说在</FONT><FONT color=#a82424>阿尔特里亚生成了守护结界</FONT><FONT color=#2b2723>，就到处乱跑，常常不在这里……这么说来，在激战之荒地聚集的中级查尔德之间流传着在这里再驻扎下去，只是便宜了梅尔卡的说法……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>等，等下！你对这里的事情这么了解，你不会是特里亚的领地的居民吧？！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "这里可不是能生活的地方。艾瑞斯是想着帮助<FONT color=#387206>{user_nick}</FONT>才来这里的哦？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哈啊……我真不知道该不该相信你的话了……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "我虽然不太清楚，不过<FONT color=#387206>{user_nick}</FONT>，你是来调查什么的吗？那艾瑞斯就把那个查尔德……就是那个把头发弄成角一样……嗯……那个不是头发，是骨头吗……？ 啊，不知道了。总之，我会告诉你<FONT color=#a82424>特里亚</FONT>在哪里。",
+      "answer": "",
+      "image": "qw_tryan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（艾瑞斯随手像涂鸦一样画着简易地图） 哦……哦哦？你那个不是不会被擦掉的笔吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "哦……？这是不会被擦掉的笔……？我不知道呢……嗯……我得去问问！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>喂~？你不是就这么走掉了吧？嗯？艾瑞斯？艾瑞斯？！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "<FONT color=#7e12d2>（艾瑞斯没有回答，就这么消失了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "哎，真是的……特里亚那只鸟不知道飞去哪里了！<br>军纪涣散就得赶紧去练兵场转转啊……特里亚也得这么做吧~？",
+      "answer": "",
+      "image": "qw_tryan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我似乎听到了什么奇怪的话啊……不过，我刚才战斗的对象不是特里亚吧？<br>（总觉得比想象中值得一战）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "是的！特里亚真的是很难对付的！艾瑞斯也能帮上一点……啊，唉……艾瑞斯现在完全是没用的垃圾状态……<br><FONT color=#7e12d2>（突然垂头丧气）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "总之，刚才对付的是特里亚的部下查尔德……怎么说都比特里亚弱一些……嗯……而且<FONT color=#387206>{user_nick}</FONT>没有打碎宝玉就无法真正消灭他，过一会儿他就又会重生了。",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "ndnpc_Iris_9719_qu_02.ogg}<br>可现在也没有别的办法，因为只有非常强大的力量才能打碎宝玉。",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "ndnpc_Iris_9719_qu_03.ogg}<br>如果能像其他查尔德那样吧唧吧唧嘴……把宝玉吸收就好了，但由于<FONT color=#a82424>阿尔特里亚的宝玉和迷之大陆的宝玉性质不同</FONT>，所以无法吸收。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你真是若无其事地说了很可怕的话啊……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "呃？有吗？不，艾瑞斯可没有那种想法？！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>总之，你在卢比纳特失踪时出现在那里，我没办法信任你。</FONT>",
+      "answer": "",
+      "image": "qn_npc_rubinat.png"
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "艾瑞斯真的是站在<FONT color=#387206>{user_nick}</FONT>这边的！我想帮助<FONT color=#387206>{user_nick}</FONT>……<FONT color=#387206>{user_nick}</FONT>，我真的真的很喜欢你！说不定我是因为<FONT color=#387206>{user_nick}</FONT> 才出生的……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（虽然不像是在说谎，但是总感觉她在自说自话，让人难以相信。不过，她说的话本身还是可信的。把关于守护结界的事情原原本本地告诉贝勒尼卡大人）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "……<FONT color=#7e12d2>（艾瑞斯用像是要哭了的表情一样看着我）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>对不起。但是，你得知道，如果你不能说明你自己是谁，那不管你说的是多重要的事情，都不会被当真的。所以，谢谢你帮了我，但是我要先走了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（感觉到了艾瑞斯的视线，但还是回去找</FONT><FONT color=#a82424>贝勒尼卡</FONT><FONT color=#662500>吧）</FONT>",
+      "answer": "",
+      "image": "qn_vernicka.png"
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "好，<FONT color=#a82424>女巫 </FONT>那边似乎已经吧<FONT color=#a82424>守护结界</FONT>的存在告诉了查尔德吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……我想了想，那样的情报如果不是通过和贝勒尼卡大人平时就很亲近的复仇军团士兵或是下级查尔德，是不可能得知的吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "世界上没有空口无凭做成的事情，如果要获得那样的情报，肯定要用什么东西交换。我给你的一切几乎都是免费的吧？不过，反正你提供了关于迷之大陆的情报。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>关于守护结界的事情，查尔德似乎都知道了。中级查尔德之间还流传着再在这里驻军，不过是便宜了梅尔卡的说法。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "嗯……其实查尔德离开是有些可惜……反正会留下一定数量的驻军，要是他们入侵了阿尔特里亚，整个世界都会完蛋，我也做不成生意了，就当是一种投资吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（果然如伊贝尔所说，贝勒尼卡大人认为如果查尔德和复仇军团入侵了阿尔特里亚，这个世界就会被消灭啊。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "辛苦你了，但是你现在已经出尽了风头，<FONT color=#a82424>特里亚</FONT>的士兵看到你一定会把你认出来，你就不要惹是生非了，乖乖待着。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "啊，对了。这么说来<FONT color=#a82424>伊贝尔寄来了信</FONT>啊……？",
+      "answer": "",
+      "image": "qn_hiver.png"
+    }
+  ]
+}

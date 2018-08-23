@@ -1,0 +1,383 @@
+{
+  "qkname": "复仇的意义",
+  "data": [
+    {
+      "npc": "精灵长老",
+      "question": "<FONT color=#387206>{user_nick}</FONT>！？",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_ElfElder_9448_qu_01.ogg}<br><FONT color=#387206>{user_nick}</FONT>，你怎么在这里？<br>阿尔杰塔她怎么样了？",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（讲述了事情的始末）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "你被卷入了时间洪流啊……如果说佩达把剑插入巨石碑之门将其开启……<br>假如巨石碑之门开启后并没发生什么异常，那么莉亚纳的假设就是……<FONT color=#7e12d2>（精灵长老的脸色煞白）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>阿尔杰塔没来这里吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_ElfElder_9448_qu_02.ogg}<br><FONT color=#7e12d2>（摇摇头）</FONT>她还没来。你和阿尔杰塔一起离开，也才是不久前的事。但照你这么说，现在连阿尔杰塔是否平安无事都难说。如果巨石碑之门开启时黑暗倾注进来……。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，我知道你经历了长时间旅行感到很疲倦，但为了找到阿尔杰塔，能否请你尽快动身？我们的人已经去了炙风地狱，所以，麻烦<FONT color=#387206>{user_nick}</FONT>你到监视者之塔去吧。听说那里也可以进出了。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "不过，那地方可以进出，并不是个好征兆……<br>\n<FONT color=#7e12d2>（精灵长老微微皱起了眉头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我方有可以前往炙风地狱的人吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "他没说自己叫什么名字，但他身上明显带着古代龙的宝玉。由于他身穿黑色盔甲，所以精灵们称他为黑骑士。我觉得……他似乎与50年前内尔文提到的那个人很相似。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗬？！（贝思柯德？！！他来了……！）</FONT>",
+      "answer": "",
+      "image": "qn_knight_velskud.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "等黑骑士来了，我也会把你的情况告诉他。<FONT color=#387206>{user_nick}</FONT>你就快点到<FONT color=#a82424>监视者之塔</FONT>去吧。我们会在巨石碑之门已开启的假设下积极寻找对策。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了…… <br>（巨石碑之门已经开启……却只有我一人平安地出现在这里……难道……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_ElfElder_9448_qu_03.ogg}<br><FONT color=#7e12d2>（精灵长老静静地看了我一会儿，低声说道）</FONT><br>战斗还没结束。就算巨石碑之门真的已经打开了，我们也不能停下来。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_ElfElder_9448_qu_04.ogg}<br>去吧。你一路上遭遇的所有命运，所有事件都是你的特雷西亚。<br>只要你按照自己的意志前行，就决不会发生违抗命运之事。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_ElfElder_9448_qu_05.ogg}<br>路途中如果未能获得期望的结果，也不要灰心。<br>今后……我们，<FONT color=#7e12d2>（精灵长老犹豫了一下说道）</FONT>也不会再表现出之前那样令人羞愧的面貌了……",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵希特里德",
+      "question": "真的吗？今后都不会大声咆哮，不会争执了？<br><FONT color=#7e12d2>（希特里德颤抖的手上拿着胃药）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_ElfElder_9448_qu_06.ogg}<br>不会了！还有……争执……。<br>咳咳，我该去觐见陛下了。<FONT color=#387206>{user_nick}</FONT>你也快走吧。<br><FONT color=#7e12d2>（精灵长老脸红了。看样子确实发生过大声争执的情况……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了……（希望希特里德没事，快前往</FONT><FONT color=#a82424>监视者之塔</FONT><FONT color=#662500>吧）</FONT>",
+      "answer": "",
+      "image": "qw_94.png"
+    },
+    {
+      "npc": "兰伯特",
+      "question": "……哼，征服王的模样也搞得很狼狈嘛。<br>不过，能削弱封印石的威力却是个意外收获……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>兰伯特！？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "ndnpc_Rambert_9450_qu_01.ogg}<br>嗬，你居然还活着。而且还是在这巨石碑中……看样子你是古代人后裔这话确实不假。<br><FONT color=#7e12d2>（兰伯特似乎很不悦）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你为什么要屠杀我的族人？为什么杀死我母亲？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "你没冲动地跟我顶嘴，看样子有点长进。<br>你领悟到自己那傲慢的态度会给你带来不好的结果了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>麻烦你给我解释一下！<br>你遭遇了什么事情，这么憎恨我们？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "ndnpc_Rambert_9450_qu_02.ogg}<br>……你还有脸问我？你对你族人们做的事情一无所知吗？<br>被他们害死的千千万万条生命中，就有我的妻子。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？可那不是很久以前的事情吗！<br>你到底活了多少岁？你儿子西恩不是还很年幼吗……！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "ndnpc_Rambert_9450_qu_03.ogg}<br><FONT color=#7e12d2>（兰伯特愤怒地高声说道）</FONT>你以为时间的流水可以洗净罪孽吗！你的族人干下恶行违背了世间的道义，让所有人陷入了痛苦的深渊！那是无论过多久都无法抹销的！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……我没想过逃避责任，但有疑问就该说清楚！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "……我有个妻子。她叫夏提拉……她是这个世界上最坚强，最美丽，最了不起的女人。<br>\n被称为蓝魅夏提拉的她，比任何男人，任何人类都更强大。",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "对我来说，她是最棒的女人，她也同样认可了我的实力。我们整日在一起互相切磋实力，决心为了同一个目标携手共进。",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "有天，我和夏提拉闯进了那个遗迹。并在那里见到了那些可恶的古代人。虽不清楚他们是否是来自过去的人，但我们确实真切地看到了他们。而且，夏提拉还在那里被……",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "她被那些丧心病狂的古代人强拉上了祭坛。我拼命地试图阻止，却无法碰到他们。当时的我，力量太过软弱，完全不能动到古代人分毫！他们对我视若无睹，却把夏提拉拖到了那个野蛮的祭坛上。",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "夏提拉在那里遭到了极其残忍的对待……！等我清醒过来时，她已经疯了，完全失去了神智。变成了一个谁也不认识，只会发狂的疯女人！那么高贵的骑士却落得这个下场。古代人们摧毁了夏提拉的精神！",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "ndnpc_Rambert_9450_qu_05.ogg}<br>不仅她的精神被摧毁，她的身体也毁了。曾经结实美丽的身躯变得软弱不堪，再也无法拿起剑，连握紧我的手都显吃力。她变成了一个害怕世间一切事物的可怜少女。",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "ndnpc_Rambert_9450_qu_04.ogg}<br>古代人在精神上杀死了我的妻子！自那天以后，我的妻子就消失了。留下的，只是一个披着我妻子外壳的怪物！你……你知道眼见心爱之人渐渐变成怪物是什么样的感受吗！从前深爱我的女人，最后却变成了惧怕我的怪物！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃……可，可是西恩没对我说过这事啊……！</FONT>",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "兰伯特",
+      "question": "你与我的儿子有多熟识我不清楚，但他还不知道这个真相。",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "兰伯特",
+      "question": "夏提拉生下西恩后，没过多久就去世了。西恩对母亲估计没多少记忆，就算有，也是错的……这世上只有我一人拥有关于她的准确回忆！谁也不记得她！谁也不知道她死得多么悲惨。",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "知道了所有真相后，你还能大言不惭地提起你的复仇吗？你们村庄和你母亲的遭遇纯属活该！我只是对他们做出了审判！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……（兰伯特的妻子……成了古代人的实验品……发疯了……甚至还穿越了时间……天啊……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……（这件事根本无法逃避。即使我的族人全部献出了生命，依然会不断出现因我们而痛苦的人。夏提拉的死……确实是我们的错……可是……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……我对你妻子的遭遇深感抱歉……尽管如此，这也不能成为我们都该死的理由啊！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "ndnpc_Rambert_9450_qu_06.ogg}<br>你说这不算理由？你们这群古代人的傲慢性子真是一点没变！！<br>……哼，你知道为什么你能活下来吗？那是因为你母亲为了救你，出卖了许多族人。<br>想到她那苦苦哀求的模样我就想笑！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……你，你说什么……！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "哈，这下子总算公平些了。无辜地死去的夏提拉，和你那些无辜被杀的族人！被放在了同样的天平上。现在只需要再除掉你就圆满了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你以为我会乖乖被你杀吗！！哼……我知道我的族人对你做了很过分的事。那是我们的错……这罪孽无论如何都不可能洗得清。我或许只有花费终生来忏悔才能多少有点补偿。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>但话说回来，我的立场也和你相同！你觉得我能原谅杀死了我母亲和朋友们的你吗！！如果你非要为夏提拉报仇，我也不会客气。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "ndnpc_Rambert_9450_qu_07.ogg}<br>……哦嗬，你这是自己找死啊。虽说我和你母亲有约定，一直在等待你可以执行那可恶的……先知的职责，但如果你这么急着想死，我愿成全你。<FONT color=#7e12d2>（兰伯特把手放在了武器上）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……！！（从兰伯特身上散发出非常强烈的杀气……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……！！（……仔细想想，他虽然是人，可进入巨石碑后却安然无恙……？！他真的是人类吗？还是说，他的实力像佩达一样强大？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……我不能退缩！我……我……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "……<FONT color=#7e12d2>（他愣愣地看了我一会儿，低声叹了口气，收回了武器）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "取你性命一点不难，但眼下我暂且放你一马。我儿子好像正往这边来。",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>西恩？！西恩来这里了？</FONT>",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "兰伯特",
+      "question": "ndnpc_Rambert_9450_qu_09.ogg}<br>缘分这玩意儿真是可笑。尽管我儿子还不知道真相，但既然他已经足够强大到可以来到巨石碑，我想或许我可以对他说出真相了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "我的儿子也在日益成长。他会变得强大，助我报仇。到时候你就会死在他手上。等他知道自己母亲的悲惨结局后，不会原谅你的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（西恩和我为敌……？！）别做梦了！你觉得我会让你得逞吗！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "兰伯特",
+      "question": "你真是太天真了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>！！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（他消失了……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（他不杀我吗？就为了把真相告诉西恩，让西恩找我报仇……？）</FONT>",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（不，我不想看到那样的结果……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（母亲，你是因为知道会发生这样的事，所以让我放弃报仇吗？</FONT><br>\n<FONT color=#662500>可是……不，西恩他……西恩他不会说出那样的话的）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（如，如果我料错了呢……？我们会变成彼此的仇人吗？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（这……这真的是我想要的结果吗？我实在无法面对西恩的愤怒，也不想和他动手。我只是想报仇）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（啊，怎么办？下次见到西恩时，我该怎么对待他呢？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（西恩，希望你不要用和刚才那人同样的面孔对待我。对于你母亲的事，我愿意向你道歉无数次，以求得你的原谅……你的要求我都会答应你）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……我对自己好失望……母亲那么殷切地嘱咐过我……可一想到死去的母亲和被毁的村庄，我就止不住地掉眼泪，心里充满愤怒……我绝对不能认同兰伯特的看法。 ）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（啊！不行！我再这么想下去就没完了。现在可不是长吁短叹的时候……）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（我得打起精神来！现在没时间为我自己的事情纠结。快去找精灵长老吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    }
+  ]
+}

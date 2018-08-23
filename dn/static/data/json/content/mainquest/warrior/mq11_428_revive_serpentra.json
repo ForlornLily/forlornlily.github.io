@@ -1,0 +1,375 @@
+{
+  "qkname": "新的危机",
+  "data": [
+    {
+      "npc": "杰兰特",
+      "question": "这里有的只是沉睡的少女和非人类的存在。<br>你应该去充满活力的外界，那里才更适合你。"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "凯德拉事件的悔过书还剩50页没写完，<br>唉……什么时候才能都写完啊？",
+      "image": "qw_cataractgateway.png"
+    },
+    {
+      "npc": "受伤的精锐士兵",
+      "question": "呃……呃……<br>\n<FONT color=#7e12d2>（似乎受了很重的伤，连话都说不连贯了）</FONT>"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "别总是站在我的旁边！<br>\n你会拖累我的品位的，哼。<br>\n你去跟那个像浣熊一样的主教玩去！！",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "先，<FONT color=#a82424>先知</FONT>……到现在还没醒过来……？<br>难道是我的恩德还……不够吗？不是……吧？"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "ionStand2}<br>要让仍在不安中瑟瑟颤抖的可怜的百姓们更加深切地感受到我们年幼<FONT color=#a82424>国王</FONT>的浩荡恩德，我们应该充分利用<FONT color=#a82424>金龙</FONT>和<FONT color=#a82424>先知</FONT>。"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "\n<FONT color=#a82424>主教伊格纳西奥</FONT>最近好像很忙的样子。<br>\n既然有你在从旁帮忙，我也就放心了。",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你就先下去休息吧。<br>这段时间忙坏你了，现在可以去街上转转，难得放松一下。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "呵呵。不必担心，下去吧。这都多亏了你。<br>我我见到的冒险家之中，没有一个人像你这么能干。<br>\n<FONT color=#7e12d2>（主教大为赞赏）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "受伤的精锐士兵",
+      "question": "呃……呃……<br>\n<FONT color=#7e12d2>（似乎受了很重的伤，连话都说不连贯了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "仪式进行得很顺利，你不必担心，照顾好<FONT color=#a82424>杰兰特</FONT>就行了。<br>呵呵呵。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "凯德拉事件的悔过书还剩50页没写完，<br>唉……什么时候才能都写完啊？",
+      "answer": "",
+      "image": "qw_cataractgateway.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "先，<FONT color=#a82424>先知</FONT>……到现在还没醒过来……？<br>难道是我的恩德还……不够吗？不是……吧？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "ionStand2}<br>要让仍在不安中瑟瑟颤抖的可怜的百姓们更加深切地感受到我们年幼<FONT color=#a82424>国王</FONT>的浩荡恩德，我们应该充分利用<FONT color=#a82424>金龙</FONT>和<FONT color=#a82424>先知</FONT>。",
+      "answer": "",
+      "image": "qn_npc_king_casius.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "告诉你别总是站在我身边！<br>太有损我的身价了。哼。",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "伤兵们的状况还是没怎么好转。<br>虽然伊西莉安正在设法帮忙，但因为没有彻底的治疗方法，很让我担心。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "是<FONT color=#387206>{user_nick}</FONT>吗……<br>什么事？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>您的身体怎么样了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "是啊……对于黑暗，我已经勉强适应了。<br>只是无法用眼睛识别事物而已，并没有什么大碍。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "不过还是有件事很让我挂心……<br>虽然气息较弱，我还不能准确地感觉到……<br>但那种隐约传出的气息……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>气息……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "嗯……现在还不能过早地下结论，所以最好还是从王城的人类那里打听打听消息吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>需要打听什么消息呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "……我还没有接到报告，所以你先去听听<FONT color=#a82424>精锐士兵克林德</FONT>那边的消息吧。",
+      "answer": "",
+      "image": "qn_npc_elite_soilder.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "呜呜……这种时候朕……朕……该，该如何是好呢？<br><FONT color=#7e12d2>（独自不安起来）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "嗯……最近王国已经是各种不安了，居然又发生这种问题。真让人头疼。<br><FONT color=#7e12d2>（公爵面露为难的表情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "到底这个国家还能不能有一天安宁的日子了。哼。<br>不过那也不是我的责任，和我无关！",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "我刚接到一份紧急报告。<br>你稍后再来吧。",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "大事不好了！<FONT color=#387206>{user_nick}</FONT>！<br>你听说了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？出什么事了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "听说现在出现了一个<FONT color=#a82424>来历不明的怪物</FONT>。<br>接到报告后出动的侦察兵也遭到了袭击。听说连伤兵都没来得及营救就撤回来了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>来历不明的怪物？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "是的。我刚接到报告，说<FONT color=#a82424>主教</FONT正在找<FONT color=#387206>{user_nick}</FONT>你，打算谋划对策呢，你快去看看吧！！",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "不管怎样这也算好消息。<br>没有问题的话最好，有问题的话知道了问题在哪儿也没什么不好。<br><FONT color=#7e12d2>（和精锐士兵克林德对话吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_elite_soilder.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "噢，神圣天堂真正的朋友<FONT color=#387206>{user_nick}</FONT>，快过来。我也刚接到报告，正想找你呢。<br>现在，在神圣天堂面临的新一轮危机下，正迫切需要你的帮助！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>到底发生了什么事？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "在<FONT color=#a82424>船长达兰特的根据地</FONT>出现了来历不明的怪物，王国忠诚的士兵已经遭到了巨大的打击。<br>在这种猝不及防的事态下，国王陛下无比伤心，我也不得不深感痛惜……",
+      "answer": "",
+      "image": "qw_39.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我去确认一下。</FONT>",
+      "answer": "",
+      "image": "qw_39.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "不。已经被断定是危险的地方，我怎能再派你过去。<br>我已经派人去调查确切的情况了，你先等等报告吧。",
+      "answer": "",
+      "image": "qw_39.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "得，得到消息说，出现了邪恶的怪物正在迫害朕的百姓？这种时候……朕……朕该……如，如何是好呢？<FONT color=#a82424>其他的人</FONT>都怎么说？没有什么好办法吗？",
+      "answer": "",
+      "image": "qn_npc_duke_stwart.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "iontalk}<br><FONT color=#a82424>黑龙</FONT>好不容易被打败了，居然又有<FONT color=#a82424>新的怪物</FONT>出没。<br>真是个混乱的世界。<br>\n<FONT color=#7e12d2>（公爵不住地摇着头）</FONT>",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "必须先安抚百姓说，这不是什么大事。对于怪物，负责守卫都城的<FONT color=#a82424>将军道格拉斯</FONT>会妥善处理的。不是吗？",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "出现了<FONT color=#a82424>来历不明的怪物</FONT>？应该只是路过神圣天堂的附近吧。又不是我召唤来的，和我无关。想要借助我们魔法师的力量的话，就拿国王的任命书来吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可，可是，如果不尽快解决的话……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "将军会看着办的，不是吗？<FONT color=#a82424>将军道格拉斯</FONT>怎么说？<br>……要么，那个装腔作势的主教也会看着处理的。为什么只知道在这种时候来找我呢？",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "我接到了报告！！说有来历不明的怪物出现，正在威胁着神圣天堂的士兵们？<br>可是，经过上一场激烈的战斗，我方伤亡惨重，现在要出战的话，兵力实在是不足啊。<br>\n<FONT color=#7e12d2>（道格拉斯将军叹息着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "不管怎样，这种状况下，最好是听从<FONT color=#a82424>伊格纳西奥</FONT>的意见。<br><FONT color=#7e12d2>（道格拉斯将军看着主教伊格纳西奥）</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "现在，来历不明的怪物出现，袭击了士兵们，已经有很多人受伤了。刚刚接到报告的<FONT color=#a82424>主教伊格纳西奥</FONT>为了谋划对策，正在找<FONT color=#382000> {user_nick}</FONT> 你呢。快去看看吧！！",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你赶快前往<FONT color=#a82424>船长达兰特的根据地</FONT>查查那怪兽的真实身份吧。<br>虽说已经逃跑了，但一定会有目击者的。",
+      "answer": "",
+      "image": "qw_39.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "<FONT color=#a82424>怪物</FONT>出现了？……虽然这种气息有些熟悉，但还是想不起来。<br>最好是亲自去确认一下。这件事就拜托你吧。",
+      "answer": "",
+      "image": "qw_39.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "海怪？原来如此。这种气息无疑就是那时候……<br>……可是，它怎么又出现了呢……？<br>\n<FONT color=#7e12d2>（杰兰特带着惊讶的表情）</FONT>",
+      "answer": "",
+      "image": "qm_sea_drake.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "向你<FONT color=#a82424>下达命令的人</FONT>怎么说的？<br>告诉我他说的话。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "神圣天堂精锐士兵",
+      "question": "<FONT color=#7e12d2>（浑身是伤的士兵匆忙地跑过来）</FONT><br>\n报，报告。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "<FONT color=#2b2723>哦哦，回来啦。那个怪物的真实身份到底是什么？</FONT><br><FONT color=#7e12d2>（士兵将情况报告给主教）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你是说那个怪物就是邪恶的<FONT color=#a82424>萨芬特拉</FONT>……<br>它居然引起了海啸，导致无数人身受重伤，还摧毁了军队……<br>辛苦了，你回去休息吧。",
+      "answer": ""
+    },
+    {
+      "npc": "神圣天堂精锐士兵",
+      "question": "<FONT color=#2b2723>是，知道了。</FONT><br><FONT color=#7e12d2>（士兵拖着疲惫的身躯走出了王城）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>萨芬特拉……？</FONT>",
+      "answer": "",
+      "image": "qm_sea_drake.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "那是在50年前，被六大英雄消灭的魔兽。<br>是什么缘故，让那个凶恶的怪物再次出现……",
+      "answer": "",
+      "image": "qm_sea_drake.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那么，尽快编制军队……</FONT>",
+      "answer": "",
+      "image": "qm_sea_drake.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你也听到了，虽然已经派出了军队，却没能抵挡。而且经过与<FONT color=#a82424>黑龙</FONT>的一战，我们的兵力损失惨重，实在是不足以对抗<FONT color=#a82424>萨芬特拉</FONT>啊。",
+      "answer": "",
+      "image": "qm_sea_drake.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可是……如何能坐以待毙呢？</FONT>",
+      "answer": "",
+      "image": "qm_sea_drake.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "当然不能了。<br>可能的话，我想派出教团的牧师和宫廷的魔法师，只是……你也知道，我是无法擅自调动他们的……",
+      "answer": "",
+      "image": "qm_sea_drake.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "没办法，看来必须得向<FONT color=#a82424>他</FONT>寻求帮助了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>您说的他，是指？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "除了<FONT color=#a82424>杰兰特</FONT>还能有谁。<br>龙族是现存最强的生命体。就算萨芬特拉再强大，也不可能战胜龙族。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可是，杰兰特现在还有伤在身。</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "我知道。可是已经没有别的办法了，不是吗？<br>只凭借人类的力量是没有把握消灭<FONT color=#a82424>萨芬特拉的</FONT>，不仅如此，我们甚至连将要受到多大的损失都无法估计。",
+      "answer": "",
+      "image": "qm_sea_drake.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "先……告诉杰兰特吧。",
+      "answer": "",
+      "image": "qm_sea_drake.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

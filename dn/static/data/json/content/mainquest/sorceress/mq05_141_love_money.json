@@ -1,0 +1,235 @@
+{
+  "qkname": "还是富人好",
+  "data": [
+    {
+      "npc": "魔法师塔拉",
+      "question": "按照前辈的嘱托~我已经告诉那个叫做赛德瑞的牧师，说宝珠已经找到了。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师赛德瑞",
+      "question": "请稍等。不好意思有件事想拜托你。",
+      "answer": "什么事?"
+    },
+    {
+      "npc": "牧师赛德瑞",
+      "question": "... 是关于<FONT color=#a82424>杰克</FONT>的委托。",
+      "answer": "杰克？",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "牧师赛德瑞",
+      "question": "是，杰克也去寻找秘传之球了，不久前刚刚回来，但是他并不知道秘传之球已经找到了，正在召集所有师徒重新去寻找。",
+      "answer": "（继续）",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "牧师赛德瑞",
+      "question": "可否再次回去，向他转告宝珠已经找到的消息?",
+      "answer": "（嗯……有点麻烦哦）"
+    },
+    {
+      "npc": "牧师赛德瑞",
+      "question": "您也知道我没什么家当，但是这次要是帮到杰克的话，我会给<FONT color=#a82424>丰厚的奖励</FONT>的。",
+      "answer": "好吧。"
+    },
+    {
+      "npc": "牧师赛德瑞",
+      "question": "那就拜托你了。<br>\n估计他现在还没从<FONT color=#a82424>融解森林</FONT>出发呢，请你赶紧过去吧。",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "\n前辈和那个……牧师托马斯的谈话结束了吗？<br>\n<FONT color=#7e12d2>（塔拉脸颊红润地注视着我）</FONT>",
+      "answer": "",
+      "image": "qn_cl_tomas.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "魔之气息很不寻常。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "为了找到<FONT color=#a82424>秘传之球</FONT>，正在打算汇聚祭司们的力量。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "\n嗯，你说已经传话给了赛德瑞，是吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>是啊。听说他很担心，还来问过我的后辈了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "\n那么前往副本去找寻秘传之球的牧师杰克怎么办呢？<br>\n如果他还不知道这个消息的话，就会和其他牧师一同前往副本吧。<br>\n嗯，必须派其他牧师去将这件事告诉他，并让他回城。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "\n<FONT color=#7e12d2>（托马斯叫来了另一个牧师，并拿出了写给杰克的书信）</FONT><br>\n他应该还在寂静修道院回廊。<br>\n他说过一定要努力找回秘传之球的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>居然那么努力地想要为我们找回秘传之球……</FONT><br>\n<FONT color=#662500>啊！杰克该不会也是在贪图钱财吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "\n嗯？钱吗？哈哈，像牧师杰克那种程度应该是不会缺钱的。<br>\n因为所属于神殿骑士团的牧师中，也有很多是贵族出身。例如……<br>\n啊，这种话真不像是侍奉女神的人说的，那就就此打住吧。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "\n总之，最重要的是，现在秘传之球已经找到了。<br>\n嗯，不知道消息是不是都传达出去了，那边那个蓝头发魔法师已经回来了。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师赛德瑞",
+      "question": "我正要去向牧师杰克传达消息呢。<br>\n啊，已经传达完了吗？",
+      "answer": "",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "为了找到<FONT color=#a82424>秘传之球</FONT>，我打算把祭司们召集起来。<br>\n召集完成之后正要向寂静修道院回廊出发，只要再等一等……",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "啊哈，秘传之球已经找到了吗？<br>\n太好了。既然现在由辛西亚保管着，我就放心了。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "那么，我现在就回去报告情况。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "\n必须把秘传之球已经找到的消息告诉进入副本去寻找秘传之球的牧师杰克。<br>\n我现在就派牧师去捎信。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "啊！！！前辈~！！<br>大，大事不好了！！",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "宝珠消失啦。<FONT color=#a82424>秘传之球</FONT>啊。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>嗯？！就这么一会儿工夫它怎么会不见呢？</FONT><br>\n<FONT color=#662500>不是说由辛西亚保管的嘛！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "你不觉得有点奇怪吗？<FONT color=#a82424>秘传之球</FONT>由辛西亚保管是很保密的，罪犯是怎么知道的呢？难道是……前辈把它拿走了？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "唉……很抱歉。我也认为就算前辈再怎么爱财也绝不会做出这种事的。<br>我把消息转达给赛德瑞之后，因为有点别的差事就去办了，现在才回来。<br>\n回来一看不就出了这种事了吗？",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "\n要是没出什么事该多好呀……<br>不管怎样，现在大家的精神都非常紧张，所以赶紧去向<FONT color=#a82424>辛西亚</FONT>报告吧。",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "<FONT color=#a82424>辛西亚 </FONT>现在好像非~常生气，你要小心点！<br>她说是不是你为了还赌债把它拿去卖了，对你可是有点~怀疑呢。<br><FONT color=#7e12d2>（塔拉面带担心地喃喃低语）</FONT>",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你也辛苦了。你来告诉我消息，真是个好人。<br>\n不过魔法山脊那位<FONT color=#a82424>蓝头发的魔法师</FONT>一直在担心你呢。",
+      "answer": "",
+      "image": "qn_soceresstara.png"
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "\n看样子那位已经把消息传达给了赛德瑞。<br>\n请代我向<FONT color=#a82424>蓝头发魔法师</FONT>问好吧。<br>\n她虽然有些小心谨慎，但却有着诚实的品性。和你不一样。",
+      "answer": "",
+      "image": "qn_soceresstara.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>不好意思。嗯，不过塔拉确实很诚实。</FONT>",
+      "answer": "",
+      "image": "qn_soceresstara.png"
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "<FONT color=#a82424>辛西亚</FONT>大人很生气呢，赶紧过去看看吧！",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "<FONT color=#387206>{user_nick}</FONT><FONT color=#382000>！</FONT>你你你你你！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我，不是我干的！！</FONT><br>\n<FONT color=#662500>（先坚决否认吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "不是什么啊！即使宝珠再贵，你怎么能偷那个东西呢? 不给我交出来的话，有你好看！",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "……什么。不是？<br>\n<FONT color=#7e12d2>（辛西亚好像也是无凭无据乱发的火，突然严肃起来）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "不管怎样，我也认为不是你。哼！<br>\n你就算再没分寸<FONT color=#a82424>也不可能拿自己的性命开玩笑啊。</FONT> ",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "不过，那帮家伙是怎么知道秘传之球在我手上的呢？<br>\n这就奇怪了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>其实……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "哎呦。是你和塔拉跟牧师们说的？<br>\n哎呦，那就是了。我还以为你是个老实人呢。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "别担心。<br>\n我现在心情不错，不会发火的。",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "qkname": "死亡村庄",
+  "data": [
+    {
+      "npc": "公爵斯图尔特",
+      "question": "哼，先知的行踪得到确认之时，我会派兵力过去的。<br>\n今天姑且就这样吧。<br><FONT color=#7e12d2>（与主教伊格纳西奥对话吧）</FONT>",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "唔，呜呼。关于先知的事，朕会在道格拉斯将军回来之后与他一起商议决定的。 <br>那么...下...下次还会来的是吧？<br><FONT color=#7e12d2>（与主教伊格纳西奥对话吧）</FONT>",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "我一定会揭穿那浣熊一样的<FONT color=#a82424>主教</FONT>的真实面目。哼，四处派遣神殿骑士团，居然还一无所获，谁会相信啊？ ",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "现在接到了另外一个命令，所以我才回到了王城。我还不知详情如何，所以没空和你聊啊。<br><FONT color=#7e12d2>（与主教伊格纳西奥对话吧）</FONT>",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "我已经提交了报告，希望一切顺利吧。<br>>国王陛下会果断处理的。<br><FONT color=#7e12d2>（与主教伊格纳西奥对话吧）</FONT>",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "我们必须马上去寻找<FONT color=#a82424>先知</FONT>，只是现在没有可以调动的兵力，真让人担心。<br>这该如何是好呀。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我可以帮忙！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "哦，你愿意帮我吗？<br>也不能光等着王城的支援，那就让我们合力找到<FONT color=#a82424>先知</FONT>吧。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我可以帮些什么呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "实不相瞒，我最近接到一份报告，很是烦心。<br>神殿骑士团的情报员报告说，他在不久前曾经见过一个貌似<FONT color=#a82424>黑骑士</FONT>的人。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "可是，他说并没有看到本应就在<FONT color=#a82424>黑骑士</FONT>身边的先知。所以，为了进一步确认是否属实，必须派人调查。因为情况出人意料，所以我正在烦忧。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>如果确定是黑骑士的话，我可以去调查。</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "情报员见到<FONT color=#a82424>黑骑士</FONT>的地点是<FONT color=#a82424>黑山山角</FONT>。<br>说是那个可疑的人正在向<FONT color=#a82424>被遗弃的韦尔顿哈鲁</FONT>方向赶去， 你不妨去那里看看。",
+      "answer": "",
+      "image": "qw_31.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": "",
+      "image": "qw_31.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "唔，呜呼。关于先知的事，朕会在道格拉斯将军回来之后与他一起商议决定的。 <br>那么...下...下次还会来的是吧？<br><FONT color=#7e12d2>（与主教伊格纳西奥对话吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "我知道必须去寻找先知。可是我要辅佐年幼的国王，无法分身。所以很抱歉，不能帮你了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可是如果不尽快找到的话……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "很遗憾，希望你能理解。如果先知的下落更准确些的话，那时我再派兵力过去。今天你就退下吧。<br><FONT color=#7e12d2>（请和主教伊格纳西奥对话）</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "我一定要拆穿那个狡猾<FONT color=#a82424>主教</FONT>的鬼把戏。哼。派去一大批神殿骑士团竟然会一无所获，谁会相信？如果只把我卡拉安看作一个区区魔法师就大错特错了。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>现在，更重要的是，如果不尽快找到先知的话……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "你现在是在命令宫廷魔法师吗？<br>谁说不去寻找先知了？<br>将军、公爵还有主教都在那儿按兵不动，为什么我们要先出动？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>重要的不是顺序。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "我手下的魔法师们个个都是以一当百的精英。把这样的兵力投入到无休止的消耗战中，这像话吗？！哼！",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "现在接到了另外一个命令，所以我才回到了王城。我还不知详情如何，所以没空和你聊啊。<br><FONT color=#7e12d2>（与主教伊格纳西奥对话吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "在黑骑士的袭击下，很多同伴受了伤，而且还丢失了先知，实在是惭愧至极。多亏了<FONT color=#382000>{user_nick}</FONT>你的努力，才能得知先知的下落，国王陛下也一定会很高兴的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>看上去……并不怎么高兴。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "怎么会呢？现在报告完了，希望事情一切顺利。<br>国王陛下应该会处理这些事情的。<br><FONT color=#7e12d2>（请和主教伊格纳西奥对话）</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "<FONT color=#a82424>被遗弃的</FONT><FONT color=#a82424>韦尔顿哈鲁</FONT>是一个受到可疑力量侵蚀而变得荒废的场所。如果<FONT color=#a82424>黑骑士</FONT>真的去了那里的话……真不知道他是为何目的。总之，希望我们好运吧。",
+      "answer": "",
+      "image": "qw_31.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "什么? <FONT color=#a82424>黑骑士</FONT>果真去了那里?<br>到底怎么回事。",
+      "answer": "（讲述目击的事情）",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你是说<FONT color=#a82424>金发剑客</FONT>正在和<FONT color=#a82424>黑骑士</FONT>战斗……？<br>嗯……莫非金发剑客也在觊觎先知……还是……",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他不是王城的骑士吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "怎么可能，且不说能与<FONT color=#a82424>黑骑士</FONT>相匹敌的剑士屈指可数，而且即便他是我们派出去的人，道格拉斯将军肯定也会向我报告的啊。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>原来如此。</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "因为不知道<FONT color=#a82424>黑骑士</FONT>把先知藏在了哪里，所以我们只能跟踪黑骑士。可是，我们现在连他的目的和行踪都不知道……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>说不定……有人知道黑骑士的行踪。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你说有人知道黑骑士的行踪？<br>真的吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的。因为她从一开始就在追踪黑骑士。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你说她……原来就是你所说的在凯德拉关卡帮了你大忙的<FONT color=#a82424>银发女剑客</FONT>。好吧，她叫什么来着？",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>她叫阿尔杰塔。</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

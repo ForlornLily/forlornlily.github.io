@@ -1,0 +1,186 @@
+{
+  "qkname": "寻找秘传之球",
+  "data": [
+    {
+      "npc": "牧师托马斯",
+      "question": "呃……居然连秘传之球都被抢走了……",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "偷走秘传之球的怪物是<FONT color=#a82424>牛头怪</FONT>吗？",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "<FONT color=#a82424>牛头怪</FONT>不是常见的怪物。这次突然在<FONT color=#a82424>魔法山脊</FONT>出现，真的很难让人相信……<br>很可能是<FONT color=#a82424>龙之追随者</FONT>在操纵栖息在附近的<FONT color=#a82424>牛头怪</FONT>。",
+      "answer": "",
+      "image": "qm_minotaurosnormal.png"
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "在被抢走的<FONT color=#a82424>秘传之球</FONT>被交到<FONT color=#a82424>龙之追随者</FONT>的手上之前，我们必须赶快行动。<br>向<FONT color=#a82424>魔法师塔拉</FONT>询问一下<FONT color=#a82424>牛头怪</FONT>栖息地的情况吧。",
+      "answer": "",
+      "image": "qm_minotaurosnormal.png"
+    },
+    {
+      "npc": "牧师赛德瑞",
+      "question": "<FONT color=#7e12d2>（受的伤还没恢复，看上去很痛苦）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "我收到了辛西亚的消息。<br><FONT color=#a82424>牛头怪</FONT>抢走了<FONT color=#a82424>秘传之球</FONT>……<br><FONT color=#a82424>牛头怪</FONT>……",
+      "answer": "",
+      "image": "qm_minotaurosnormal.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "嗯？你怎么还是一副帅气的样子？！要使用美人计吗？<br><FONT color=#7e12d2>（辛西亚嘟囔着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n <br>\n有时间在那儿磨蹭，还不快去找回秘传之球。",
+      "answer": "",
+      "image": "qn_soceresstara.png"
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "在被抢走的<FONT color=#a82424>秘传之球</FONT>被交到<FONT color=#a82424>龙之追随者</FONT>的手上之前，我们必须赶快行动。<br>向<FONT color=#a82424>魔法师塔拉</FONT>询问一下<FONT color=#a82424>牛头怪</FONT>栖息地的情况吧。",
+      "answer": "",
+      "image": "qn_soceresstara.png"
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "<FONT color=#a82424>牛头怪</FONT>抢走了秘传之球……？<br><FONT color=#a82424>牛头怪</FONT>……",
+      "answer": "牛头怪的栖息地在魔法山脊附近吗？",
+      "image": "qm_minotaurosnormal.png"
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "很久以前，魔法山脊的牧师们前往<FONT color=#a82424>神圣天堂</FONT>之后，空荡荡的<FONT color=#a82424>寂静修道院回廊</FONT>就被<FONT color=#a82424>牛头怪翁巴巴</FONT>占据，成了他的巢穴。栖息在魔法山脊附近的<FONT color=#a82424>牛头怪</FONT>只有他一个。",
+      "answer": "是吗？我知道了。",
+      "image": "qm_minotaurosnormal.png"
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "<FONT color=#a82424>牛头怪翁巴巴</FONT>是体型巨大而强壮的怪物。<FONT color=#a82424>牛头怪翁巴巴</FONT>一旦发动攻击，就很难阻止。<br>一旦他开始行动，就只能用强力的技能阻止他，或预判他的动作并尽快避开。",
+      "answer": "谢谢你的忠告。",
+      "image": "qm_minotaurosnormal.png"
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "\n哎呀，老师。听说<FONT color=#a82424>牛头怪</FONT>把秘传之球抢走了……？<br><FONT color=#a82424>牛头怪</FONT>……？",
+      "answer": "",
+      "image": "qm_minotaurosnormal.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n<FONT color=#a82424>牛头怪</FONT>不是常见的怪物。所以突然出现在<FONT color=#a82424>魔法山脊</FONT>很难让人相信……<br>很可能是<FONT color=#a82424>龙之追随者</FONT> 操纵了栖息在这附近的<FONT color=#a82424>牛头怪</FONT>。<br>\n ",
+      "answer": "",
+      "image": "qm_minotaurosnormal.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n唉！果然还是因为那些牧师？<br>\n<FONT color=#7e12d2>（辛西亚怒目相向）</FONT><br>\n ",
+      "answer": "",
+      "image": "qm_minotaurosnormal.png"
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "这么说来，老师。很久以前，自从魔法山脊的牧师们离开这里前往<FONT color=#a82424>神圣天堂</FONT>之后，<FONT color=#a82424>牛头怪翁巴巴</FONT>就占领了空空如也的<FONT color=#a82424>寂静修道院回廊</FONT>并把它当成根据地了？<br>\n栖息在魔法山脊附近的<FONT color=#a82424>牛头怪</FONT>只有那家伙一个，说不定这次偷走秘传之球的就是……",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n是啊，这次偷走秘传之球的应该也是那家伙。<br>\n很好，那个牧师！你快去抓住它吧！！",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "<FONT color=#a82424>牛头怪翁巴巴</FONT>是个强大的大型怪物。<FONT color=#a82424>牛头怪翁巴巴</FONT>一旦进入攻击状态，便很难阻止。<br>\n我很担心你能不能对付得了它。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "那家伙一开始行动，就只能发动强大的技能进行阻止，或者推测出它的攻击方向并快速闪避。<br>\n一定要当心呀。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n那些都应该他自己看着办。<br>\n你既然已经夸下海口说要找回秘传之球，就让我们见识一下你的实力吧，年轻人。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师塔拉",
+      "question": "请从<FONT color=#a82424>牛头怪翁巴巴</FONT>那里抢回<FONT color=#a82424>秘传之球</FONT>吧。<br>在我看来，你的态度很真挚。我……相信你。",
+      "answer": "",
+      "image": "qm_minotaurosnormal.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n好了，赶紧前往<FONT color=#a82424>寂静修道院回廊</FONT>吧。<br>\n通过融解森林应该可以到达那里。",
+      "answer": "",
+      "image": "qw_9.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（如果杰克还在的话，我就在融解森林向他报告后，和他一起行动。）</FONT>",
+      "answer": "",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "牧师赛德瑞",
+      "question": "啊，愿……女神的恩宠与你同在！<br>见到你是我的光荣。你是我的<FONT color=#a82424>救命恩人</FONT>。我应该先去拜见你的，但是这段时间有很多需要处理的事情，所以抽不出时间。真对不起……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你的身体怎么样了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师赛德瑞",
+      "question": "除了腿受了点伤，行动有点不便之外，其他都还好。<br>你到这里来有什么事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我来见师兄牧师杰克。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师赛德瑞",
+      "question": "哎呀……<FONT color=#a82424>牧师杰克</FONT>刚好不在。<br>不知道他去哪里了。你有什么急事吗……？",
+      "answer": "",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没什么，那我就下次再来吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师赛德瑞",
+      "question": "我知道了。<br>\n<FONT color=#387206>{user_nick}</FONT>，愿女神的祝福与你同在。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（没办法，</FONT><br>\n<FONT color=#662500>只能独自去寂静修道院回廊了。）</FONT>",
+      "answer": "",
+      "image": "qw_9.png"
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "秘传之球找到了！哈哈！<br>真是辛苦你了。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

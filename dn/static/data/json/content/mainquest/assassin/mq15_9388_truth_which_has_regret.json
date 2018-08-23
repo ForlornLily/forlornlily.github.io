@@ -1,0 +1,345 @@
+{
+  "qkname": "真心的迷恋",
+  "data": [
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "贝思柯德恢复了？真让人吃惊……这次又是怎么回事呢……",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "等会议结束之后，我要下去问问他。<br><FONT color=#7e12d2>(请移动到百合花远征基地</FONT><FONT color=#7e12d2>)</FONT>",
+      "answer": "",
+      "image": "qw_81.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#387206>{user_nick}</FONT>……！你来啦。我也是刚到。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>谈得还行吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "是的，贝思柯德果然是个善良的人……嘿嘿。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(到底是从哪里看出来的……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "啊，<FONT color=#387206>{user_nick}</FONT>，去之前，我想问你一个问题。你真的没去过未来吗……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "NT><FONT color=#662500><br>嗯？确实没去过你说的那个时代。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "哦，原来如此。<FONT color=#387206>{user_nick}</FONT>，因为对你这么强的冒险家却没有留下任何记录的事情感到很奇怪，我对所有有关来历不明的男人的记录进行了确认。其中存在疑点的地方是……",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "我找到了创立了有关天启的基础理论的男人……对穿越时间的基本原理进行了解释，然后就消失了的某个男人的记录。那个男人把基本原理传给世人之后就消失了。他的名字、长相……所有的一切都没有留下来。",
+      "answer": "",
+      "image": "qm_apocalypse.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你能自由地穿越时间，我还在想那个男人会不会就是你呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>很遗憾，好像不是。事实上，能够自由穿越时间本身就是谎言。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……嗯？！<FONT color=#7e12d2>(柯梅里纳瞪大了</FONT><FONT color=#7e12d2>眼睛</FONT><FONT color=#7e12d2>看着我)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……我是为了让你放心。还有，我拥有露娜莉娅给我的阿尔泰精髓，我想总有办法可以逃出来……</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……你，你，你真是太鲁莽了！！真是的！！有些谎话能说，有些谎话不能说！！！太让人伤心了！！呜，呜呜。因为我，你竟然说那种谎话来骗我……",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……呜，呜呜。我还有个问题……你说话的语气为什么一下子变了？从莲花沼泽开始……感觉好像有点不一样了……那段时间到底发生了什么事？",
+      "answer": "",
+      "image": "qw_lotusmarshtown.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？是吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(等等，那好像是幻象出现，让我陷入混乱的时候……和那个有关系吗？但是我自己不知道变了)</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……我也记不起来了。也许是下意识地那样做了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "是吗……？<FONT color=#7e12d2>(好像不太相信的样子)</FONT><br>\n最后我想跟你说的是……",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……真的非常非常感谢。<br><FONT color=#387206>{user_nick}</FONT>，要不是有你的话，我绝对做不到这一步……真的非常感谢。<br><FONT color=#7e12d2>(柯梅里纳低下头，</FONT><FONT color=#7e12d2>向我鞠躬)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……应该是我感谢你才对。其实你用不着专门去帮我调查的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……那是我应该做的。你是我一起战斗过的战友！<br><FONT color=#387206>{user_nick}</FONT>，下次见面的时候，我一定要变成和你一样厉害的人。<br>嗯……我要去执行其他任务了。 <FONT color=#387206>{user_nick}</FONT>，你呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我要在这里见一个人……等见了那个人之后再定。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "在这里吗？嗯……<br>好吧……我们以后再见吧，<FONT color=#387206>{user_nick}</FONT>。<br>我们一起穿越了时间，也一起战斗过！<br><FONT color=#7e12d2>(柯梅里纳向我伸出了手</FONT><FONT color=#7e12d2>)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>当然，柯梅里纳。 </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "是！<br><FONT color=#7e12d2>(柯梅里纳一本正经地</FONT><FONT color=#7e12d2>点了点头)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(没想到除了我之外，还能遇到穿越时间的人。虽然形态不同，同时还有很多奇怪的地方……现在大家都有各自的事情要做，有缘的话，以后一定会再见面的)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(好了，现在到遗迹里面去找露娜莉娅吧。真的露娜莉娅到巨石碑那边去了。这里留下的虽然是幻影……不过也许可以获得什么了解 露娜莉娅和我的线索。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你果然在这里啊。你有话要跟我说吗？露娜莉娅……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……<FONT color=#7e12d2>(好像在说着什么</FONT><FONT color=#7e12d2>)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(连声音都听不到的幻象。不过看嘴唇，好像在说着什么。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(在这里……再进来一次？别到决战场所去？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(在说什么呢？让我从迷宫里出去，然后再进入迷宫吗……？要从传送门出去，然后再进来吗？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(幻象说的话好像只有这个。……先到外面去吧。按照露娜莉娅所说。那样的话，就能知道她是什么意思了吧？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "竟然约好在遗迹中见面，真是个奇怪的人……<br>\n嗯？我要去哪儿？<br>\n嘿嘿，这是秘密。以后见面的时候，我会告诉你的。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……<FONT color=#7e12d2>(露娜莉娅看着我，</FONT><FONT color=#7e12d2>好像很担心的样子)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "[我为什么要把他卷进去呢？一开始明明我一个人战斗就足够了]<br><FONT color=#7e12d2>(声音嗡嗡作响。就像从整个遗迹中发出的</FONT><FONT color=#7e12d2>声音一样)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "[他不知道在巨石碑那里会变成那样]",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "[我必须继续向前走]",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "[以后不能再跟他说关怀的话了。就像不认识的人一样，就像玻璃瓶中的巧克力一样，我不应该看他。我会告诉他，我要到那里去。我不会让他做任何事。]",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "[但是我变弱了，因为他。但是变弱……]",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "[他不应该帮我……玻璃瓶中的巧克力是不甜的]",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<br>[如果要帮的话？]",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<br>[如果要帮的话……]",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<br>[如果他再次不见了的话……]",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<br><br>[我]……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(难道这是……露娜莉娅的记忆吗？或者是内心的……？为什么会在这里出现呢……？</FONT><br>\n<FONT color=#662500> 先……回到神圣天堂去吧。暗影喵好像很了解这个遗迹……去问问它吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "徒弟……喵！！！这段时间你在干嘛？怎么现在才来喵！！！你去了百合花远征基地之后，就完全没了消息喵。不知道我这个做师父的有多担心喵！！",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "喵喵……还好你看上去没事喵！对了，事情顺利吗？和那个叫柯梅里纳的姑娘的事情怎么样了喵？",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……任务顺利完成之后，我们分开了。<br>对了，我想问你件事……你知道那里……到底是研究什么的地方吗？就是你之前说的那个古代寺院。</FONT>",
+      "answer": "",
+      "image": "qw_85.png"
+    },
+    {
+      "npc": "暗影喵",
+      "question": "啊哈～那个嘛喵。嗯……听起来可能有点难懂……是不受时间影响的魔力的非连续性……的什么东西喵。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……你是说……是进行有关时间的研究的地方，对吧？那么说来，露娜莉娅过去在那里待过……所以露娜莉娅的幻象才会留在那里吗？那个幻象是过去的，还是未来的呢……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "啊，对了，<FONT color=#387206>{user_nick}</FONT>喵！！有个泰兰斯·特拉玛依的人在找你喵。",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "喵喵，<FONT color=#387206>{user_nick}</FONT>，你的人气可真高喵～偶尔也来看看老师我吗喵！我很孤独喵～<br><FONT color=#7e12d2>(请到神圣天堂王城的泰兰斯·</FONT><FONT color=#7e12d2>特拉玛依那里去)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "啊，你来啦。唉，贝思柯德突然康复的事情，我也去确认过了。真是神奇。他找到了什么可以代替宝玉的东西呢……他说有事要处理，就离开了。他那种冷淡的态度，真是让人喜欢不起来。",
+      "answer": "(特拉玛依好像没能了解到准确的情况)",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "他走了就走了吧，我们也有自己要做的事情。 <FONT color=#387206>{user_nick}</FONT>……我之前提到过阿努阿兰德，你还记得吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯……那是什么来着？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "时间已经过去很久了，忘记了也不奇怪。阿努阿兰德是精灵们的土地。本来是外部人员无法轻易进入的地方。但是……贝思柯德让我告诉你。那里很快就会发生什么事。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "他虽然不怎么说话，但从来不说废话。从他说话的语气来看，好像他也要到阿努阿兰德去的样子。不过到底是什么事情呢……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(精灵的土地…………想起了幻象和露娜莉娅说的话)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我就是传个话。我不强求你的，你自己做出判断后再决定吧。",
+      "answer": ""
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "听说你最近非常忙。<br>别太勉强自己，先休息一下再去吧。<br><br><FONT color=#7e12d2>*[章节外传2. 代号零]完成。</FONT>",
+      "answer": ""
+    }
+  ]
+}

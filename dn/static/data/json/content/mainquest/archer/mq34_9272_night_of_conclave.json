@@ -1,0 +1,430 @@
+{
+  "qkname": "女王选举会议之夜",
+  "data": [
+    {
+      "npc": "阿尔杰塔",
+      "question": "想用遗物之力打开通向巨石碑之路，需要生命之树失去力量吧。<br>那么最需要的方法就是，妨碍 <FONT color=#a82424>女王选举会议</FONT>吧?",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "那个游侠也中毒了吧?毒的目的不是森林而是精灵。<br>那么<FONT color=#a82424>女王选举会议</FONT>也不会进行下去了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不过女王选举会议是什么?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "什么，你是精灵吗? 连女王选举会议都不知道!<br>而且那表情是希望我说明吗？嘴好累。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "女王选举会议意味着精灵女王的继承仪式。<br>\n这对精灵来说不是常识吗?<br><FONT color=#7e12d2>(杰兰特用真拿你没办法的表情看着我)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "详细情况去问那边的精灵。<br>\n至少那个精灵知道女王选举会议吧。<br><FONT color=#7e12d2>(杰兰特指着阿洁丽雅)</FONT>",
+      "answer": "",
+      "image": "qn_npc_azelia.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "他们的目标是女王选举会议啊… 虽然麻烦但得注意一下了。<br>你去看看女王选举会议，有新情况就告诉我们。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "<FONT color=#7e12d2>(杰兰特望着新月森林。</FONT><br>\n<FONT color=#7e12d2>似乎不想对话)</FONT>",
+      "answer": "",
+      "image": "npc_argenta"
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "不是有话要和<FONT color=#387206>阿尔杰塔 </FONT>大人说吗?<br><FONT color=#7e12d2>(去和阿尔杰塔交谈吧)</FONT>",
+      "answer": "",
+      "image": "npc_argenta"
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "不是有话要和阿尔杰塔大人说吗?<br><FONT color=#7e12d2>(去和阿尔杰塔交谈吧)</FONT>",
+      "answer": "",
+      "image": "npc_argenta"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "现在因为女王选举会议的准备太忙了。<br><FONT color=#7e12d2>(与阿尔杰塔对完话再来吧)</FONT>",
+      "answer": "",
+      "image": "npc_argenta"
+    },
+    {
+      "npc": "女王候补露西安",
+      "question": "有话…要对我说吗?<br><FONT color=#7e12d2>(完成与阿尔杰塔的话再来吧)</FONT>",
+      "answer": "",
+      "image": "npc_argenta"
+    },
+    {
+      "npc": "女王候补艾丽迪安",
+      "question": "我真是很期待女王选举会议啊。<br>在自己的人生中有女王选举会议开举也是个很大的祝福，我竟然还是候补。<br><FONT color=#7e12d2>(完成与阿尔杰塔的对话再来吧)</FONT>",
+      "answer": "",
+      "image": "npc_argenta"
+    },
+    {
+      "npc": "守护者拉德",
+      "question": "以前，听说长老曾是现在女王纳尔希亚大人的<FONT color=#a82424>誓约的守护者</FONT>呢。<br>我也想走有价值的路。<br><FONT color=#7e12d2>(完成与阿尔杰塔的对话再来吧)</FONT>",
+      "answer": "",
+      "image": "npc_argenta"
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "威慑么你会在这里...<br><FONT color=#7e12d2>(尤万西贝尔用混乱的表情看过来)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "不会叫我给你说明吧？真麻烦。<br>\n为什么连精灵们的事也得由我说明?<br><FONT color=#7e12d2>(看起来不高兴。问问阿洁丽雅吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_azelia.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "没想到会有连女王选举会议都不知道的可笑的精灵。<br><FONT color=#7e12d2>(杰兰特不肯回答。去问问阿洁丽雅吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_azelia.png"
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "<FONT color=#7e12d2>(听到提问的阿洁丽雅歪了歪头)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "ndnpc_AN_Archer Agelia_qu_9272_01.ogg}<br>不知道女王选举会议是什么吗? <br>天啊…我以为所有精灵都知道。",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "\n不。也不是那样。<br>\n只是...",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "熟练的游侠虽然没必要知道所有知识，但的确让人吓一跳啊。",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "女王选举会议是<FONT color=#a82424>精灵女王的继承仪式</FONT>。<br>现在的女王<FONT color=#a82424>纳尔希亚</FONT><FONT color=#387206>大人</FONT>快到了永眠的时候，所以得定下下一任女王候补。",
+      "answer": "",
+      "image": "qn_npc_elf_narsilia.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>龙之追随者似乎在以女王选举会议为目标。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "嗯? 不过，关于女王选举会议方法连女王候补生都无法得知。<br>\n就是那种神秘的仪式哦。<br>\n连精灵都不知道的那个仪式，他们想做点什么估计很难。",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "比起那个，以为<FONT color=#387206>{user_nick} </FONT>大人因为是女王候补才来这里的...<br>\n看来不是因为女王选举会议才来的呢?",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "ndnpc_AN_Archer Agelia_qu_9272_02.ogg}<br>好神奇啊。不过这也是<FONT color=#a82424>宿命</FONT>吧。 <br><FONT color=#387206>{user_nick} </FONT>大人也得参加女王选举会议呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>女王选举会议是什么我根本就不知道。</FONT><br>\n<FONT color=#662500>我没有参加的想法，也没有那种预定。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "不管你知不知道，在这种时期有着适当的资格的候补回到了阿努阿兰德了吧?<br>你的所有旅程都是通向特雷西亚的道路。",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "特雷西亚所引导的候补啊...<br>\n看来真是出现了有力的候补呢。",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "来吧。女王候补，快去站在<FONT color=#a82424>生命之树</FONT>前的<FONT color=#a82424>精灵长老</FONT>处吧。<br>女王选举会议以有资格的人聚在生命之树前开始的。",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "我虽然比你不足，但也是候补中的一人。<br>不过关于仪式是怎么进行的，连我们也无从得知。<br>\n先向长老搭话吧。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9272_01.ogg}<br><FONT color=#387206>{user_nick} </FONT>大人啊。<br>\n说不定会参加爱女王选举会议的消息已经听说了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>参加得这么突然也没关系吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "因为漫长的旅行而学了很多人类们的想法啊。<br>我们的路是特雷西亚定好的。<br>不会被形式或顺序所束缚。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "先跟<FONT color=#a82424>其他女王候补</FONT>打招呼吧。 <br>不管是谁当了女王，这是交流下任女王之名的宝贵机会。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9272_03.ogg}<br>而且女王选举会议期间找到守护你的<FONT color=#a82424>誓约的守护者</FONT>吧。<br>\n之后仪式会进行。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>誓约的守护者吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "嗯。是一起携手走过女王继承仪式的特雷西亚之人。<br>而且虽然不是女王候补，却是从旁守护并引导的人。...<br>\n宿命之风会告诉你他是谁的。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "和其他候补们的对话，进行得还愉快吗。",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "不用和我对话了。我们很要好吧？",
+      "answer": ""
+    },
+    {
+      "npc": "女王候补露西安",
+      "question": "你好。 <FONT color=#387206>{user_nick} </FONT>大人。<br>\n对你早有耳闻，见到本人却是第一次啊。<br><FONT color=#7e12d2>(露西安露出明亮的微笑)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "女王候补露西安",
+      "question": "我竟然会成为候补，做梦都没想到呢。<br>不过就这么参加女王选举会议....<br><FONT color=#7e12d2>(女王候补露西安沉浸在感激中)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "女王候补露西安",
+      "question": "我最后一次见纳尔希亚大人是在她从50前的远征中回来的时候..<br>想了想，她做了女王之后一次也没见过呢!<br>难道<FONT color=#387206>{user_nick} </FONT>大人见过女王吗?",
+      "answer": "",
+      "image": "qn_npc_elf_narsilia.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>没有。还没见过。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "女王候补露西安",
+      "question": "果然~!像 <FONT color=#387206>{user_nick} </FONT>大人这种了不起的冒险家也见不到啊。<br>被神秘覆盖的女王~~ 太神秘了。<br>\n有很多话想说的说....",
+      "answer": ""
+    },
+    {
+      "npc": "女王候补露西安",
+      "question": "啊!不过那个传闻是真的吗?成为女王之后连新月森林的一树一草都能感觉到的传说!<br>听说纳尔希亚大人的力量变弱，才导致魔物纵横无阻呢!?",
+      "answer": ""
+    },
+    {
+      "npc": "女王候补露西安",
+      "question": "而且...<br><FONT color=#7e12d2>(故事似乎要变长了。停止对话去见见别人吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "不和别人打招呼也不要紧吗？<br>\n就此把你掠走也说不定啊。<br><FONT color=#7e12d2>(对话似乎要变长。去见见其他候补吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "守护者拉德",
+      "question": "不觉得女王候补和守护者的关系像我们精灵和古代人的关系一样吗？<br>誓约的守护者需要牺牲自己的一切来守护女王候补。",
+      "answer": ""
+    },
+    {
+      "npc": "女王候补艾丽迪安",
+      "question": "我叫<FONT color=#a82424>艾丽迪安</FONT>。<br><FONT color=#387206>{user_nick}</FONT>大人听说在人类村庄逗留很久呢。<br>\n就算如此也跟着特雷西亚来到此处吧?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不好说。那种东西我不太清楚。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "女王候补艾丽迪安",
+      "question": "和人类相处久了有时候据说听不到声音。<br>\n现在的女王<FONT color=#a82424>纳尔希亚</FONT> 大人在冒险时听说也做过许多烦恼。 <br>想想那个，你真的和纳尔希亚大人走着差不多的路呢。",
+      "answer": "",
+      "image": "qn_npc_elf_narsilia.png"
+    },
+    {
+      "npc": "女王候补艾丽迪安",
+      "question": "啊，这位是我的誓约的守护者<FONT color=#a82424>拉德</FONT>大人。<br><FONT color=#387206>{user_nick} </FONT>大人也得快点找到可信任的人....",
+      "answer": ""
+    },
+    {
+      "npc": "女王候补露西安",
+      "question": "果然~ 我就知道你想和我多说说话!<br><FONT color=#7e12d2>(对话似乎要变长了。现在去见见别的候补吧。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9295_01.ogg}<br>没想到能在这里见到你。 ",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你怎么会来这里的?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "当然是为了履行<FONT color=#a82424>誓约的守护者</FONT>的义务啊。<br>我在几代前，看过女王的继承仪式，对仪式的过程和真实比谁都了解，所以能做誓约的守护者。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "不过都对我来此处有点尴尬啊。",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "赛伦西艾尔坐在权座上时我虽然离开了她，但我是成功守护了她的守护者。<br>有充分的资格来这里哦。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9272_02.ogg}<br>而且如果你允许，我想做你的誓约的守护者。 <br>女王的继承仪式进行期间，我会把你当做比我生命还珍贵的人保护你。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我还无法相信你。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "只是因为你想知道，我就把关于<FONT color=#a82424>佩达</FONT>的事告诉你了，不过似乎还没有得到你的信任啊。<br>我是使徒但也不是使徒。<br>\n和他们有不同的目的。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9272_03.ogg}<br>比起和这里的其他人同行，还是和我在一起比较安心不是吗?<br>就想着能监视我就行。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(尤万西贝尔可以信任吗...? 无法确认啊)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "站在这里的人之中，有别人能成为你的誓约的守护者吗?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不知道。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "誓约的守护者对候补还是对守护者，能像宿命一样看出。<br><FONT color=#387206>{user_nick} </FONT>大人找不到其他的誓约的守护者是因为我找到了你。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9272_04.ogg}<br>那么。我就理解为你接受了好了。能守护你是我的光荣。<br>如果这就是你和我的宿命，这种宿命我欣然接受。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>现在我该做什么?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "唉呀。竟然要一个个告诉你，你真像是小孩子呢。<br>长老大人会告诉我们该前进的方向的。",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "npc": "女王候补艾丽迪安",
+      "question": "<FONT color=#387206>{user_nick}</FONT>大人得在女王选举会议期间找到能守护你的可信任的人..<br><FONT color=#7e12d2>(寻找能成为誓约的守护者的人吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9272_04.ogg}<br>找到誓约的守护者了吗?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>决定为尤万西贝尔大人了。</FONT>",
+      "answer": "",
+      "image": "qn_npc_yubaensiael.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "尤万西贝尔? 你知道他是什么样的人吗?<br><FONT color=#7e12d2>(被我的回答，长老似乎吓了一跳)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>旅行中有帮过我。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "原来如此。很久没出现了，所以你可能不知道，但引起过大问题所以犹豫了该不该接受他。<br>虽然他的确有守护者的资格。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "不过女王纳尔希亚说要接受他。<br>虽然很神奇，但她说了这也是特雷西亚的一环。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "我希望没有人选择他作为候补。<br>但是<FONT color=#387206>{user_nick} </FONT>大人选择他作为誓约的守护者。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "女王知道终究会变成这样吗?<br>\n虽然精灵的选择不会有后悔的但是….<br>\n你已经选择了吧。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "<FONT color=#2b2723>也是。和</FONT><FONT color=#387206>{user_nick} </FONT><FONT color=#2b2723>大人同行反而会更好也说不定。<br>尤万西贝尔也相当喜欢你所以不会乱来的吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "望着你的眼睛，感觉我重新变成了小孩子。<br>\n来，长老会告诉我们该前进的方向的。和他对话吧。",
+      "answer": ""
+    }
+  ]
+}

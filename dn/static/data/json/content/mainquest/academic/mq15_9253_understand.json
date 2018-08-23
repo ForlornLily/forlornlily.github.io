@@ -1,0 +1,44 @@
+{
+  "qkname": "可以理解",
+  "data": [
+    {
+      "npc": "学者站台",
+      "question": "- <FONT color=#086171>网络不稳定。</FONT><br>- <FONT color=#7e12d2>重新设置Mission Object 。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "- <FONT color=#086171>Mission Object.</FONT><br>- <FONT color=#7e12d2>请移动至被占领的古代寺院。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（百合花……对你而言黛西是何种存在？<br>XD-30说我是你所希望的那种……可以一同传承黛西之意志的姊妹）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（是的，我也能够理解你的举动。<br>因为你也有需要坚守的使命。但是……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（但是，只能这样做才行吗？<br>不惜牺牲那么多的生命……更不惜利用制造出自己的母亲……<br>只能选择……这么做吗……）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（百合花，正与你对抗的我或许也和你没什么两样。<br>那么……希望你能够理解我。<br>你和我，从黛西那里继承的各自的使命……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（去寻找百合花的基地吧）</FONT>",
+      "answer": ""
+    }
+  ]
+}

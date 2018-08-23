@@ -1,0 +1,127 @@
+{
+  "qkname": "献给她的挽歌Ⅳ",
+  "data": [
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "你过会儿再来找我，<br>知道了吧？"
+    },
+    {
+      "npc": "魔法师泰莎",
+      "question": "卡拉秋居然已经过世了……难以置信，呜呜……<br>\n呜呜。",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "……她原本是佩奥里斯塔的支柱，可是现如今却要在如此乱世将其送走，这是何等的悲哀啊。",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你得去村庄请<FONT color=#a82424>塔玛拉</FONT>过来了。<br>\n其他高级魔法师几乎全都到了。",
+      "answer": "",
+      "image": "qn_npc_soceresstamara.png"
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "你是来叫我过去的吗？<br>谢谢你这段时间以来的帮助，<FONT color=#387206>{user_nick}</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "办完葬礼之后，为了消灭叛徒卡拉翰，我会收集高级魔法师们的意见。<br>你也会继续帮我们的吧。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "魔法师泰莎",
+      "question": "……啊，我实在是太伤心了，你不要再跟我说<FONT color=#a82424>卡拉秋</FONT>的事情了，呜呜。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "要是你也能帮助我们……还有西戴尔就好了。<br><FONT color=#7e12d2>（塔玛拉转身朝着利物沃特码头的方向）</FONT>",
+      "answer": "",
+      "image": "qw_liverwortferry.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "……她原本是佩奥里斯塔的支柱，可是现如今却要在如此乱世将其送走，这是何等的悲哀啊。<br><FONT color=#7e12d2>（西戴尔朝着利物沃特码头的方向站着）</FONT>",
+      "answer": "",
+      "image": "qw_liverwortferry.png"
+    },
+    {
+      "npc": "魔法师泰莎",
+      "question": "卡拉秋居然已经过世了……<br>难以置信，呜呜……",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师泰莎",
+      "question": "因为葬礼的关系，高级魔法师们都走了。<br>刚刚我还看到灵柩队伍朝着那个方向去来着，现在应该差不多结束了吧？<br>我也想看看她最后的仪容啊……<br>\n<FONT color=#7e12d2>（泰莎叹了口气）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师泰莎",
+      "question": "不过要让那个叫西戴尔的小孩担任佩奥里斯塔的首领，我还是不敢相信。<br><FONT color=#7e12d2>(卡拉秋的葬礼好像结束了。到草屋去见见西戴尔吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "高级魔法师塔玛拉",
+      "question": "西戴尔似乎打算继续追踪卡拉翰。<br>如果你打算帮我们，能不能去<FONT color=#a82424>西戴尔</FONT>那里看看？",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "魔法师泰莎",
+      "question": "新一任佩奥里斯塔的团长居然是这种<FONT color=#a82424>小孩</FONT>，<br>……我会好好盯着他的，一定不能让他玷污了佩奥里斯塔的名声。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你来了啊。<br>\n其他高级魔法师也都同意由我们佩奥里斯塔亲手了断那个佩奥里斯塔的耻辱。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#a82424>卡拉翰</FONT>已经强大得能够创造巢穴了，他也已经集齐了能够支撑他力量的古代遗物。<br>不过我看他似乎还没能完全地变身为绿龙，看来除了遗物之外，应该还需要<FONT color=#a82424>其他东西</FONT>。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>其他什么东西？</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "恩，有关这东西我也有一定的推测，我收集了刚刚来过的高级魔法师的意见，调查了一下古代文献。<br>我还曾经从察提部族的人那里听说过有关部族传承的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "卡拉翰是佩奥里斯塔的耻辱，为了帮察提和卡拉秋报仇，为了证明我和他不是同一类人……我们一定要亲手了断了他。<br>\n<FONT color=#7e12d2>（西戴尔一脸毅然决然的表情）</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "对了，<FONT color=#a82424>高级战士佩德罗</FONT>说有事想拜托你……<br>现在没什么事，你可以去村里见见他。<br>等我们调查完古代文献之后，我会跟你联系。",
+      "answer": "",
+      "image": "qn_npc_lotus_warriorfedro.png"
+    }
+  ]
+}

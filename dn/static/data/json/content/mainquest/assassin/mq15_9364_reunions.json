@@ -1,0 +1,79 @@
+{
+  "qkname": "邂逅的形态",
+  "data": [
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你来得正好。好像神殿骑士团终于找到<FONT color=#a82424>贝思柯德</FONT>的行踪了。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "据报告，贝思柯德在<FONT color=#a82424>陨石坠落地边界地区</FONT>露面了。好了，你赶快出发吧。",
+      "answer": "",
+      "image": "qw_60.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>(特拉玛依和贝思柯德之间有种奇妙的紧张气氛)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "好久不见，特拉玛依。<br>……没想到又遇到一位老相识，呵呵。<br><FONT color=#7e12d2>(贝思柯德向{user_nick}那边瞟了一眼)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "看到你衰老的样子，不仅让人感叹岁月是多么无情。<br>你消失了这么长时间，这次突然出现，一定是因为<FONT color=#a82424>巴尔纳</FONT>吧？",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "npc": "特拉玛依",
+      "question": "…………<br>贝思柯德，我们这样对峙下去互相都没什么好处，我就长话短说了。<br>你手上的那把<FONT color=#a82424>杰兰特的剑</FONT>，希望你能交给我。",
+      "answer": "",
+      "image": "qp_geraint_sword.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你为什么要找杰兰特的剑呢？<br>呵呵呵，你一大把年纪了，应该不会对舞刀弄枪的事情感兴趣了吧……？",
+      "answer": "",
+      "image": "qp_geraint_sword.png"
+    },
+    {
+      "npc": "特拉玛依",
+      "question": "虽然过了50年，但你说话的语气一点都没变。<br>我没时间跟你一一解释。如果你不给的话，我就只能去抢了……<br><FONT color=#7e12d2>(特拉玛依把手伸向了武器)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "呵呵，只有挨打的力气的家伙，话还挺能说。<br>好久不见，虽然很想跟你叙叙旧，但我有约在先，只好先失陪了。<br><FONT color=#7e12d2>(贝思柯德转过身去)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#7e12d2>(特拉玛依和贝思柯德之间流动着一种微妙的紧张感)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>(贝思柯德说完之后，移动到其他地方去了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "特拉玛依",
+      "question": "贝思柯德……<br><FONT color=#7e12d2>(特拉玛依的脸上浮现出复杂的表情)</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>(真不敢相信他们俩曾经齐心协力战斗过……)</FONT>",
+      "answer": ""
+    }
+  ]
+}

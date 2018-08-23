@@ -1,0 +1,314 @@
+{
+  "qkname": "现在就去见面",
+  "data": [
+    {
+      "npc": "牧师伊桑",
+      "question": "<FONT color=#a82424>安杰利卡</FONT>小姐是位优秀的魔法师。但有时……<br>\n她做的事情真是让我困惑。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "没～没关系！一切都会好起来的！<br>哇哈哈哈！",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "嗯，难道还要我再次告诉你，你告诉该做什么吗？<br>我最讨厌重复相同的话了。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "我听到了宿命的召唤。<br>你没有听到吗？",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "呃……可恶的食人魔～ 哎呀，气死我啦！！<br>害我险些丧命？！",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_MR_Jasmin_sp_01.ogg}<br>飞艇坠毁，悬浮装置被巨大的食人魔抢走了？<br>嗯……这样啊。看来暂时无法前往神圣天堂了。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_MR_Jasmin_sp_07.ogg}<br>只要密切关注着其他冒险家，迟早有一天能与他们一起前往神圣天堂的。<br>啊，听说他们目前正聚集在<FONT color=#a82424>水晶谷</FONT>？你也快去那里看看吧，怎么样？",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你整天念叨着未来，你究竟知道些什么啊？<br>听说其他人都聚集在<FONT color=#a82424>水晶谷</FONT>商议计划，如果你没事做，就去那里看看吧。",
+      "answer": "",
+      "image": "qw_cristalstream.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "事情并没有想象中的那么顺利。<br>我的无能让我觉得很无奈……<br><FONT color=#7e12d2>（伊桑叹了口气）</FONT>",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你旁边的人是……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "\n啊，这两位是<FONT color=#a82424>弓箭手特里亚纳</FONT>和<FONT color=#a82424>战士西恩</FONT>。<br>他们两位在<FONT color=#a82424>普雷利镇</FONT>偶然碰到，为了解救<FONT color=#a82424>先知</FONT>，一起来到了这里。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>果然是这样。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "……果然？<br><FONT color=#387206>{user_nick}</FONT>小姐，你也去和两位打个招呼吧。<br><FONT color=#7e12d2>（弓箭手特里亚纳眼神中充满期待）</FONT>",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "哇~ 真的是年幼的小……啊，对了！<br>你是<FONT color=#387206>{user_nick}</FONT>吧？哈哈~！！<br>我经常听伊桑提起你！",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "你是伊桑提及的那位啊。<br>你是<FONT color=#387206>{user_nick}</FONT>……没错吧？",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "呃……可恶的食人魔~ 哎呀，气死我啦！！<br>害我险些丧命",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "我得到了<FONT color=#a82424>弓箭手特里亚纳</FONT>和<FONT color=#a82424>战士西恩</FONT>的协助，我们打算去寻找<FONT color=#a82424>安杰利卡</FONT>小姐。<br><FONT color=#7e12d2>（弓箭手特里亚纳目不转睛地望着这边）</FONT>",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br><FONT color=#7e12d2>▷ 请去水晶谷见见冒险家们。</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "你是伊桑提及的那位啊。<br>你是<FONT color=#387206>{user_nick}</FONT>……没错吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你好。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "我叫做<FONT color=#a82424>特里亚纳</FONT>。<br>为了寻找属于我的宿命，我正在进行漫长的旅行。<br><FONT color=#7e12d2>（特里亚纳温柔地笑着）</FONT>",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "不过，人类好像把你这样的人称作是<FONT color=#a82424>小孩子</FONT>吧？<br>我听说小孩应该在家人的保护下，健康成长……<br>你选择的成长道路很独特啊，居然选择独自冒险。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我不是小孩子。我已经很大了……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "是吗？<br><FONT color=#7e12d2>（特里亚纳歪着脑袋）</FONT><br>我不太明白人类划分大人与小孩的标准是什么。<br>那……你是<FONT color=#a82424>大人</FONT>啊？我明白了。",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "见到你很高兴。<br>愿宿命之风伴随你……<br><FONT color=#7e12d2>（和战士西恩打招呼吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "哇~ 真的是年幼的小……啊，对了！<br>你是<FONT color=#387206>{user_nick}</FONT>吧？哈哈~！！<br>我经常听伊桑提起你！",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我可不是小孩子哦。（我的年纪比你更大吧？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊，对了。我听说喊你小孩，你会生气……<br>但在我眼里，你就是个小屁孩……吼！对，对不起啦！<br>不过，你比普雷利镇<FONT color=#a82424>莉莉</FONT>要年长很多哦！嗯！",
+      "answer": "",
+      "image": "qn_lily.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（莉莉……？跟奶奶的名字一样啊……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "嗯……我听伊桑说，<FONT color=#387206> {user_nick}</FONT>你虽然看起来是个小孩子，实际上非常强大。<br>不过，你还是最好不要去那么危险的地方。<br>如果出了什么事，那就……",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我没关系的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "怎么会没关系啊。我绝不能带小孩去<FONT color=#a82424>袭击者埋伏点</FONT>这样危险的地方！<br>那样做太不人道了。<br>作为冒险家，我有义务保护小孩子！！<br>\n<FONT color=#7e12d2>（西恩越来越激动）</FONT>",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你们要去袭击者埋伏点？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "没错！我们偶然发现了<FONT color=#a82424>巨大食人魔</FONT>出没的痕迹~嘿嘿嘿。<br>安杰利卡肯定在那个地方！我确定~！！",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（嗯……他好像不会喊我一起去，我还是自己去看看吧！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "那我们就出发前往<FONT color=#a82424>袭击者埋伏点</FONT>去救安杰利卡吧。<br>那里对<FONT color=#387206>{user_nick}</FONT>你来说太危险，你还是在凯德拉关卡等着我们吧。",
+      "answer": "",
+      "image": "qw_18.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "你是大人？还是小孩？<br>……嗯，人类划分大人与小孩的标准太难了。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "我得到了弓箭手特里亚纳和战士西恩的协助，我们打算前往<FONT color=#a82424>袭击者埋伏点</FONT>。<br>我们在那里发现了巨大食人魔出没的痕迹，确认食人魔就在那里。",
+      "answer": "",
+      "image": "qw_18.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "呃……可恶的食人魔~ 哎呀，气死我啦！！<br>害我险些丧命~？！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你没事吧？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "当然没事啦！！如果我出事了，那你现在看到的我是什么啊，是<FONT color=#a82424>幽灵K</FONT>吗？<br>我安杰利卡可不是那么容易死的！<br>话说，你怎么独自来到这种地方？<br><FONT color=#a82424>伊桑</FONT>这家伙怎么不来救我，他究竟在忙什么啊？！这个傻瓜白痴大笨蛋！！！",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>他马上就到了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "马上？！管他到不到，他怎么能让你这个小孩先到这种地方呢？<br>比你年长的<FONT color=#a82424>伊桑</FONT>应该先到这里才对啊！！",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>是我自己先跑过来的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "是，是吗？<br>呵呵……你就这么担心我啊？<br><FONT color=#7e12d2>（安杰利卡似乎有些感动）</FONT>",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "啊！先不管这个了。<br>\n刚刚你应该也看到了吧，这附近密布着<FONT color=#a82424>小精灵制造装置</FONT>！<br>\n我差点也被<FONT color=#a82424>小精灵</FONT>改造了，你知道吗？",
+      "answer": "",
+      "image": "qm_hopgoblingreen.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "好了好了。也对，如果像我这样可爱的天才美少女被改造的话，不是变成小精灵……<br><FONT color=#7e12d2>（安杰利卡准备发挥想象力，突然又呆住了）<br></FONT>……总之，是变成其他的东西！嘿嘿！",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>不管怎么样都是个怪物啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "嗯……不管怎样都是怪物……没错。<br><FONT color=#7e12d2>（安杰利卡凝视着远方）</FONT><br>总之等着瞧~ 那个<FONT color=#a82424>披着红色披风的黑暗精灵</FONT>！！！<br>居然敢把天才魔法师安杰利卡抓到这个地方？！",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>没发生其他的事情吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "巨大的食人魔摧残我，我耐不住它们的摧残，说出了一些事情。<br>但不是什么重要的事情，只是透露了一些小事而已。<br>是……是真的！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（肯定全招了……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "啊~突然觉得肚子好饿啊~。<br><FONT color=#7e12d2>（安杰利卡努力避开视线）</FONT><br>我们没必要继续待在这里，快离开吧。<br>我去找<FONT color=#a82424>阿尔杰塔</FONT>，你回到凯德拉关卡吧。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>等一下！埃雷娜呢？她去了什么地方？</FONT>",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "埃雷娜……？你是说那个黑暗精灵？<br>我差点就死了，怎么会知道她去了哪里啊？<br>她轻快地踩过我，然后咻~地一声就消失了，哼。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

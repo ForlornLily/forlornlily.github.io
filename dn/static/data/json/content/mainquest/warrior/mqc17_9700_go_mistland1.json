@@ -1,0 +1,216 @@
+{
+  "qkname": "前往迷之大陆 I",
+  "data": [
+    {
+      "npc": "神殿骑士伊拉斯",
+      "question": "你好，<FONT color=#387206>{user_class}</FONT> <FONT color=#387206>{user_nick}</FONT>大人。你已经完成了<br><FONT color=#a82424>红龙巢穴</FONT>的所有任务吗？<br>\n <br>\n<FONT color=#7e12d2>※无法在组队状态下完成该任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "神殿骑士伊拉斯",
+      "question": "真是太厉害了。辛苦你了！",
+      "answer": ""
+    },
+    {
+      "npc": "神殿骑士伊拉斯",
+      "question": "那你打算怎么办呢？",
+      "answer": ""
+    },
+    {
+      "npc": "神殿骑士伊拉斯",
+      "question": "好的。请你从红龙巢穴回来之后，再来找我。<br><br><FONT color=#7e12d2>*请在远程任务窗口中确认是否已经领取任务</FONT><FONT color=#a94407>[巢穴]决战红王</FONT><FONT color=#7e12d2> 。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "神殿骑士伊拉斯",
+      "question": "<FONT color=#a82424>黑暗女神官玛德琳</FONT>正在找你。",
+      "answer": ""
+    },
+    {
+      "npc": "神殿骑士伊拉斯",
+      "question": "虽然抱歉，但是请你正式和伙伴们分开，单独行动。<br><br><FONT color=#7e12d2>※无法在组队状态下完成该任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "神殿骑士伊拉斯",
+      "question": "请去<FONT color=#a82424>时空庭院</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "你醒了啊，<FONT color=#387206>{user_class}</FONT> <FONT color=#387206>{user_nick}</FONT>。<br>你还记得在红龙巢穴发生了什么吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我消灭了佩达，从佩达那里夺回了卢比纳特的半个宝玉……我正准备把宝玉拿起来就昏过去了。而且似乎结界被打破了，我还听到了杰兰特和贝思柯德的声音……？</FONT>",
+      "answer": "",
+      "image": "qn_npc_npc_pether.png"
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "打破结界后，跟着你进去的是杰兰特大人，贝思柯德大人似乎做了善后处理。<br>请你和两位大人对话吧。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "…<FONT color=#7e12d2>（贝思柯德看上去很累）</FONT>"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GereintKid_9700_qu_01.ogg}<br>现在没事了吧？！我都担心死了……"
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "如果你和两位大人都聊完了，就请来找我吧。<br>我将转告你卢比纳特大人留下的话。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GereintKid_9700_qu_01.ogg}<br>现在没事了吧？！我都担心死了……",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……呜，呜！你能够活着回来就好。<br>好……真是太好了……",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "约定……你遵守了啊……<br>……原来你还没忘……",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "是啊……我担心来着……所以呢？！！<br>\n呃……哼！总之，你能活着回来就好。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "什么？！！难道你以为我们是跟着你来的吗？！<br>哈……算了。既然你活着回来了……",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……闲聊就到此为止。你不是有东西要给他吗，杰兰特。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GereintKid_9700_qu_02.ogg}<br>啊，对了。这是佩达的宝玉……准确来说是<FONT color=#a82424>卢比纳特的另一半宝玉</FONT>，你拿着吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊……在我昏迷的时候，杰兰特和贝思柯德拿到了宝玉啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "嗯，卢比纳特一直在说必须有这个，才能去<FONT color=#a82424>谜之大陆</FONT>……但是，你真的要去迷之大陆吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>现在不是没有其他办法了吗。即使消灭了佩达，巨石碑的门也没有关上。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你拼上性命消灭了佩达，这才回来了多久啊！！不，这次我也要去！我要和你一起去谜之大陆！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（卢比纳特虽然说过可以带杰兰特一起去谜之大陆……）<br>啊，这么说来，卢比纳特去哪儿了？</FONT>",
+      "answer": "",
+      "image": "qn_npc_rubinat.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "ndnpc_Velskud_9700_qu_01.ogg}<br>……卢比纳特消失了。",
+      "answer": "",
+      "image": "qn_npc_rubinat.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊？那是什么意思？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "ndnpc_GereintKid_9700_qu_03.ogg}<br>他说，现在，他该做的都已经完成了，使命已尽，一直支撑他的信念也没有那么强烈了……还说要把最后的希望交给你和他的另一个自己，然后便消失不见了。",
+      "answer": "",
+      "image": "qn_npc_rubinat.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "ndnpc_Velskud_9700_qu_02.ogg}<br>不过消失的也只是他的意念体。所以说不定什么时候他又会在哪里出现。",
+      "answer": "",
+      "image": "qn_npc_rubinat.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>另一个自己……也就是说</FONT><FONT color=#a82424>谜之大陆的卢比纳特</FONT><FONT color=#662500>吧……<br>我还是要去迷之大陆 。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我也要一起去！你不是答应我了吗！你不是答应我要和我继续一起游历吗！卢比纳特也说过我能跟你一起去！",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……卢比纳特那家伙说，像我这种情况无论如何都要在这里才行。<br>我持有的宝玉都是为了守护阿尔特里亚而制造的，如果长期在谜之大陆的毒气中，可能会发生强烈的排斥反应，然后暴走。",
+      "answer": "",
+      "image": "qn_npc_rubinat.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "如果我体内的宝玉稳定下来，能够更好控制，我就能在谜之大陆停留得久一些了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了，那我和杰兰特，两个人一起前往迷之大陆。<br>阿尔特里亚就拜托你了，贝思柯德。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "哈？真不知道你为什么要把阿尔特里亚拜托给我。 <br>\n还是小心你自……算了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……？？<br>（杰兰特突然拽了下我的袖子）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "这么说来，卢比纳特说过，如果要前往迷之大陆，得向那边的女神官询问去的方法。<br>谜之大陆的门那边似乎有什么结界，不能随意进入…… ",
+      "answer": "",
+      "image": "qn_darklair_castia.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "贝思柯德就算了，我们快去和那边的女神官对话吧。",
+      "answer": "",
+      "image": "qn_darklair_castia.png"
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "看来你们都已经聊完了。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "那我现在就告诉你卢比纳特大人留下的话吧。",
+      "answer": "",
+      "image": "qn_npc_rubinat.png"
+    }
+  ]
+}

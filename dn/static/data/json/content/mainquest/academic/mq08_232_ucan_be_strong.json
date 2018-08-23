@@ -1,0 +1,217 @@
+{
+  "qkname": "你可以变得更强",
+  "data": [
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "没想到为了凯德拉关卡，小姑娘你居然如此努力，我真的很感动……呜呜……<br>真的很感动，感动！！",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "可恶的黑暗精灵……<br>大家努力守护凯德拉关卡吧！",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "可恶的黑暗精灵……<br>大家努力守护凯德拉关卡吧！",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_CG_Jasmin_sp_01.ogg}<br>你为什么这么努力地跑来跑去？",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "没想到为了凯德拉关卡，小姑娘你居然如此努力，我真的很感动……呜呜……<br>真的很感动，感动！！",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "啊！我们又见面啦。<br>我们说好要一起前往<FONT color=#a82424>寂静修道院正殿</FONT>消灭{monster559}的吧？",
+      "answer": "",
+      "image": "qw_22.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "消灭掉{monster559}之后，去向凯德拉关卡的<FONT color=#a82424>冒险家公会会长戴卡德</FONT>报告。<br>这样一来，凯德拉关卡的其他人也能松一口气了，嘿嘿。",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "听说最近布洛怪出现在了<FONT color=#a82424>融解森林</FONT>附近。<br>我们之前也见到过它们集会，这群家伙应该在密谋什么诡计。",
+      "answer": "",
+      "image": "qm_broo_white.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "根据<FONT color=#a82424>特里亚纳</FONT>和其他人的调查，布洛怪贪图魔法物品，它们将拥有魔法物品的场所作为据点。我打算在<FONT color=#a82424>融解森林</FONT>附近寻找拥有那群家伙贪图的魔法物品的地方。",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（查看{monster559}的相关数据会不会起到帮助呢？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "File No. 232-1",
+      "question": "<FONT color=#086171>{monster559}是种需要注意的魔物……比起咒术，它们使用的力量更接近于秘传魔法。它们将融解森林附近的寂静修道院正殿作为据点，进行活动。</FONT>",
+      "answer": "",
+      "image": "qw_22.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>原来是寂静修道院正殿啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "哇~这个机器真是太神奇了！！<br><FONT color=#7e12d2>（西恩愣愣地望着通讯器）<br></FONT>那我们立刻前往<FONT color=#a82424>寂静修道院正殿</FONT>吧。<br>多亏了<FONT color=#387206>{user_nick}</FONT>，事情变得简单了很多。",
+      "answer": "",
+      "image": "qw_22.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>很高兴能帮上忙~</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "就算是为了凯德拉关卡，我也要加油！嘿嘿，终有一天，我要成为超越<FONT color=#a82424>巴尔纳</FONT>的强大战士，然后去见我的父亲！<br>……呃，虽然我现在还很弱。<br>\n<FONT color=#7e12d2>（西恩抓了抓脑袋）</FONT>",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你会变得很强大的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "嗯，没错！我要变得强大！……嗯，这么小的孩子用如此真挚的表情为我加油，我的心情……嘿嘿嘿。<br>无论如何，<FONT color=#387206>{user_nick}</FONT>，我们快前往<FONT color=#a82424>寂静修道院正殿</FONT>吧~！！",
+      "answer": "",
+      "image": "qw_22.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "消灭掉{monster559}之后，去向凯德拉关卡的<FONT color=#a82424>冒险家公会会长戴卡德</FONT>报告。<br>这样一来，凯德拉关卡的其他人也能松一口气了，嘿嘿。",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "那，我现在就告诉你我的委托~",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "当时在观察魔物们的集会时，布洛怪吸引了我的注意力。使用邪恶咒术的魔怪真的很难对付，连冒险家公会对此都非常头痛。",
+      "answer": "",
+      "image": "qm_broo_white.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "听说最近布洛怪出现在了<FONT color=#a82424>融解森林</FONT>附近。<br>我们之前也见到过它们集会，这群家伙应该在密谋什么诡计。",
+      "answer": "",
+      "image": "qm_broo_white.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "根据<FONT color=#a82424>特里亚纳</FONT>和其他人的调查，布洛怪贪图魔法物品，它们将拥有魔法物品的场所作为据点。我打算在<FONT color=#a82424>灰色废墟</FONT>附近寻找拥有那群家伙贪图的魔法物品的地方。",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（查看{monster559}的相关数据会不会起到帮助呢？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "File No. 232-1",
+      "question": "<FONT color=#086171>{monster559}是种需要注意的魔物……比起咒术，它们使用的力量更接近于秘传魔法。它们将融解森林附近的寂静修道院正殿作为据点，进行活动。</FONT>",
+      "answer": "",
+      "image": "qw_22.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>原来是寂静修道院正殿啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "哇~这个机器真是太神奇了！！<br><FONT color=#7e12d2>（西恩愣愣地望着通讯器）<br></FONT>那我们立刻前往<FONT color=#a82424>寂静修道院正殿</FONT>吧。<br>多亏了<FONT color=#387206>{user_nick}</FONT>，事情变得简单了很多。",
+      "answer": "",
+      "image": "qw_22.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>很高兴能帮上忙~</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "就算是为了凯德拉关卡，我也要加油！嘿嘿，终有一天，我要成为超越<FONT color=#a82424>巴尔纳</FONT>的强大战士，然后去见我的父亲！<br>……呃，虽然我现在还很弱。<br>\n<FONT color=#7e12d2>（西恩抓了抓脑袋）</FONT>",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你会变得很强大的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "嗯，没错！我要变得强大！……嗯，这么小的孩子用如此真挚的表情为我加油，我的心情……嘿嘿嘿。<br>无论如何，<FONT color=#387206>{user_nick}</FONT>，我们快前往<FONT color=#a82424>寂静修道院正殿</FONT>吧~！！",
+      "answer": "",
+      "image": "qw_22.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "消灭掉{monster559}之后，去向凯德拉关卡的<FONT color=#a82424>冒险家公会会长戴卡德</FONT>报告。<br>这样一来，凯德拉关卡的其他人也能松一口气了，嘿嘿。",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "啊，你与<FONT color=#a82424>战士西恩</FONT>约定在<FONT color=#a82424>灰色废墟</FONT>相见？<br>嗯……原来如此。你快去那里看看吧。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "消灭掉{monster559}之后，去向凯德拉关卡的<FONT color=#a82424>冒险家公会会长戴卡德</FONT>报告。<br>那我们现在立刻前往<FONT color=#a82424>寂静修道院正殿</FONT>吧！",
+      "answer": "",
+      "image": "qw_22.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "ionRefusal}<br>噢！我已经听说了。你和<FONT color=#a82424>战士西恩</FONT>一起去过<FONT color=#a82424>寂静修道院正殿</FONT>了吧？",
+      "answer": "",
+      "image": "qw_22.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "我觉得之前发生的事件与那个<FONT color=#a82424>黑暗精灵</FONT>相比，简直是不值一提。说不定那些家伙只是黑暗精灵的手下，用来混淆我们的视线的。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "老实说，我觉得事有蹊跷……<br>\n<FONT color=#7e12d2>（戴卡德摸着胡子）<br></FONT>啊，话说，我还有件事要拜托你，可以吗？小姑娘。",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我不是小孩子！！</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

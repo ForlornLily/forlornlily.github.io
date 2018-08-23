@@ -1,0 +1,279 @@
+{
+  "qkname": "还未完成的事",
+  "data": [
+    {
+      "npc": "杰兰特",
+      "question": "你来<FONT color=#a82424>神圣天堂</FONT>王城的地下。",
+      "image": "qw_sainthaven_inside.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你要是好好听过<FONT color=#a82424>杰兰特</FONT>说的话，就应该知道你该做什么了啊？<br>干吗还要来问我？"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "\n……<br>\n<FONT color=#7e12d2>（好像完全关注于自己的事情，没能注意周围的动静，去主教伊格纳西奥那里看看）</FONT>"
+    },
+    {},
+    {
+      "npc": "将军道格拉斯",
+      "question": "恩……我听说了好不容易救出的<FONT color=#a82424>先知</FONT>一直在睡大觉。到底是为什么呢？……反正我们已经尽力了，关于先知的处理就交给国王吧。总之你辛苦了。",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "叫<FONT color=#a82424>先知</FONT>的那个女孩，据说一直在睡大觉？像个懒鬼似的……哼，我就知道会这样！ 什么先知啊，纯粹就一没用的家伙嘛！",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "能把<FONT color=#a82424>先知</FONT>救回来，你的功劳不小啊。朕……朕很惊讶，不过先知原来……就是一村姑嘛，真让我失望啊。 也不来向我行礼，老是在睡觉，真失望啊……哎。",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "我一直很期待<FONT color=#a82424>先知</FONT>的真正面目，但实际上却是个平凡的女子啊。反正你可是立了大功了，年幼的国王应该也会很高兴的。",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "噢，你来了？瞧瞧，瞧瞧，一看就是经过了一场激战。<br>看你的样子就知道了。<br>\n<FONT color=#7e12d2>（主教表示了担心）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你来<FONT color=#a82424>神圣天堂</FONT>王城的地下。",
+      "answer": "",
+      "image": "qw_sainthaven_inside.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你要是好好听过<FONT color=#a82424>杰兰特</FONT>说的话，就应该知道你该做什么了啊？<br>干吗还要来问我？",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "能把<FONT color=#a82424>先知</FONT>救回来，你的功劳不小啊。朕……朕很惊讶，不过先知原来……就是一村姑嘛，真让我失望啊。 也不来向我行礼，老是在睡觉，真失望啊……哎。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "我一直很期待<FONT color=#a82424>先知</FONT>的真正面目，但实际上却是个平凡的女子啊。反正你可是立了大功了，年幼的国王应该也会很高兴的。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "叫<FONT color=#a82424>先知</FONT>的那个女孩，据说一直在睡大觉？像个懒鬼似的……哼，我就知道会这样！ 什么先知啊，纯粹就一没用的家伙嘛！",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "恩……我听说了好不容易救出的<FONT color=#a82424>先知</FONT>一直在睡大觉。到底是为什么呢？……反正我们已经尽力了，关于先知的处理就交给国王吧。总之你辛苦了。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "可是，<FONT color=#a82424>先知</FONT>……怎么没带到这儿来？<br>什么？在<FONT color=#a82424>杰兰特</FONT>的手上？<br><FONT color=#7e12d2>（要想见杰兰特必须前往王城秘密区域）</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "\n……<br>\n<FONT color=#7e12d2>（好像完全关注于自己的事情，没能注意周围的动静，去主教伊格纳西奥那里看看）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你要是好好听过<FONT color=#a82424>杰兰特</FONT>说的话，就应该知道你该做什么了啊？<br>干吗还要来问我？",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "……尽做些无聊的事，杰兰特这个家伙。<br><FONT color=#7e12d2>（阿尔杰塔一边嘟囔，一边盯着</FONT> <FONT color=#a82424>杰兰特</FONT> <FONT color=#7e12d2>的方向）</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "古代人的后裔在<FONT color=#a82424>龙之巢穴</FONT>的中心。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>您把这里建成了巢穴吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "是的。巢穴的中心就是<FONT color=#a82424>圣域</FONT>。除了巢穴主人允许的人之外，任何外部人等都无法入侵。<br>想要保护古代人后裔的安全，我认为现在这么做是最好的办法。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>原来如此。为了保护她……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我的伤势还没有恢复，所以打算先停留在此。不过，<FONT color=#a82424>阿尔杰塔</FONT>似乎想要离开。看样子像是要和你道别，你去看看吧。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "想要完全破坏<FONT color=#a82424>巢穴</FONT>的话，就必须消灭它的主人。即使有入侵者能够削弱结界，以我的力量也能抵挡，所以你就放心吧。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#a82424>杰兰特</FONT>那家伙，就知道做些无用的事。<br>自讨苦吃也有很多方式的！",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>为什么这么说？</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "那个傻瓜，自己都受伤了，还为了那个<FONT color=#a82424>古代人的后裔</FONT>守护在这里，不是吗。还不如被一口吞下去，伤也能痊愈呢。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗬，那有点……</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "毕竟，那家伙似乎已经选择了他要<FONT color=#a82424>守护的一方</FONT>，我也无话可说了。<br>\n<FONT color=#7e12d2>（嘴上这么说，但表情却很温和）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "那家伙一直以来就总是轻信别人。我却除了杰兰特谁也不相信……<br>以前也是，有些快成功的事却因为那份信任而前功尽弃。",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>以前……？是50年前吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "是的。那时，我和杰兰特为了击退黑龙，来到了神圣天堂。虽然我认为只有我们两个就足够了，可是杰兰特似乎不那么想。<br>所以便召集了<FONT color=#a82424>同伴</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>就是六大英雄吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "不管是六大英雄还是十大英雄，有什么要紧的？不算那几个家伙，他们带来的也有浩浩荡荡几百人了。<br>什么<FONT color=#a82424>魔法师团</FONT>啊，<FONT color=#a82424>弓手团</FONT> 啊的。啊，真令人讨厌。<br>\n<FONT color=#7e12d2>（阿尔杰塔嘟囔着）</FONT>",
+      "answer": "",
+      "image": "qn_six_heroes_silhouette.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "那时，基本上已经制伏黑龙了。甚至成功破坏了它的身体并掏出了宝玉。<br>可是，<FONT color=#a82424>贝思柯德</FONT>却一把抢走了宝玉。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "随后<FONT color=#a82424>贝思柯德</FONT>便带着宝玉销声匿迹了。他肯定是从一开始就这么盘算着加入进来的。好不容易才击退<FONT color=#a82424>黑龙</FONT>，这真是最坏的结果……那时我和杰兰特都受了伤，很长时间都无法行动。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那么这次的黑龙是怎么回事？</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你没看到吗？人类即使得到了龙之宝玉，也无法变成龙。不过看来那家伙还没有放弃。所以，他<FONT color=#a82424>为了成为真正的龙</FONT>，便开始打起了古代人的主意。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么？成为龙？！</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "是的。通过<FONT color=#a82424>古代人小家伙</FONT>获得力量的他变成了<FONT color=#a82424>黑龙</FONT>，虽然力量不如50年前的黑龙强大。也是，那时的家伙是以古代人凝聚的集体力量创造而成的，所以后变成的黑龙是无法与其同日而语的。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>也就是说是古代人创造了黑龙？</FONT>",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你想知道的还真多。不知道！反正，我是没兴趣附和那无用的守护者游戏。<br>现在，我在这儿已经没什么事了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>您要去哪里？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我要去见<FONT color=#a82424>卡拉秋</FONT>。<br>虽然我也受伤了，但我必须想办法帮助杰兰特恢复。",
+      "answer": "",
+      "image": "qn_npc_karakule_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>卡拉秋，是六大英雄中的……？</FONT>",
+      "answer": "",
+      "image": "qn_npc_karakule_silhouette.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "那个<FONT color=#a82424>吵闹的魔法师</FONT>算什么英雄？你想那么说的话，也没错。反正我要去<FONT color=#a82424>莲花</FONT><FONT color=#a82424>沼泽</FONT>了。<br>体弱的<FONT color=#382000>{user_nick}</FONT>，别做蠢事啦，和杰兰特一起乖乖地等着我吧。",
+      "answer": "",
+      "image": "qn_npc_karakule_silhouette.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "<FONT color=#662500>请别担心，我会照顾杰兰特的。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "可笑。谁照顾谁？你连自身都难保还担心别人……<br>真是个难以理解的孩子，吼吼。<br><FONT color=#7e12d2>（还是会深情一笑的……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "那么保重吧，软弱的家伙。",
+      "answer": ""
+    }
+  ]
+}

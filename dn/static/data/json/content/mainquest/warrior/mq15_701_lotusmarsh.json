@@ -1,0 +1,42 @@
+{
+  "qkname": "莲花沼泽",
+  "data": [
+    {
+      "npc": "戴维",
+      "question": "呃呃，<FONT color=#a82424>杰兰特</FONT>居然去世了，这不可能……！<br>不行。我要是就这么独自回去的话，说不上我……<FONT color=#7e12d2>（哽咽）</FONT> 很难保住性命呀……<br>你，<FONT color=#387206>{user_nick}</FONT>！杰兰特的消息由你亲自去说吧！",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>要不我也正想去莲花沼泽呢。</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "ionStand01}<br>好，成交！<br>伟大的奴隶<FONT color=#a82424>戴维</FONT>将亲自指引你去见阿尔杰塔。这可是你整个家族的荣耀啊。",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "※ <FONT color=#7e12d2>[第5章 守护者杰兰特]已经全部完结。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "戴维",
+      "question": "阿尔杰塔就在六大英雄之一的<FONT color=#a82424>卡拉秋</FONT>的宅邸。<br>到达<FONT color=#a82424>利物沃特码头</FONT>后找到卡拉秋的家吧。",
+      "answer": "",
+      "image": "qn_npc_karakule_silhouette.png"
+    },
+    {
+      "npc": "戴维",
+      "question": "※ <FONT color=#7e12d2>要想前往莲花沼泽，必须达到40级。</FONT>",
+      "answer": ""
+    }
+  ]
+}

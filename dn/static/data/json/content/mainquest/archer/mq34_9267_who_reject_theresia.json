@@ -1,0 +1,229 @@
+{
+  "qkname": "拒绝宿命的人",
+  "data": [
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9266_06.ogg}<br>毒太浓了可能会有危险。首先，去告诉阿努阿兰德的其他精灵们关于毒的存在吧。",
+      "answer": "",
+      "image": "qn_npc_azelia.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "干吗等我说话? 这是精灵们的事吧。身为精灵的你适当的去做啊。<br>快点去! 真笨....<br><FONT color=#7e12d2>(阿尔杰塔在咋舌)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "去告诉在那边新月森林处晃荡的精灵就好吧。那种程度不是应该要自己想吗?<br><FONT color=#7e12d2>(阿尔杰塔指着阿洁丽雅)</FONT>",
+      "answer": "",
+      "image": "qn_npc_azelia.png"
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "<FONT color=#7e12d2>(阿洁丽雅在笑着。<br>首先去找阿尔杰塔吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "为什么你在这里....<br><FONT color=#7e12d2>(尤万西贝尔的表情非常混乱)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "在找叫阿尔杰塔的人吗?<br>什么嘛，就在那里。看到街道了吧。<br><FONT color=#7e12d2>(向阿尔杰塔搭话吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "去告诉在那边新月森林处晃荡的精灵就好吧。那种程度不是应该要自己想吗?<br><FONT color=#7e12d2>(阿尔杰塔指着阿洁丽雅)</FONT>",
+      "answer": "",
+      "image": "qn_npc_azelia.png"
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "很高兴见到你。<br>\n是正在寻找特雷西亚的姐妹啊。",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "所有精灵不都是生命之树的树枝吗。要好好爱护身体哦。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不过生命之树很危险。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "很遗憾现在是禁止拜见<FONT color=#a82424>纳尔希亚</FONT>的时间。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>听说了。<br>但必须得告诉她生命之树很危险啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "生命之树怎么会很危险。 <br>女王的力量正在变弱，不过这是举行女王选举会议前的惯例啊。",
+      "answer": "(把关于龙之追随者和剧毒的事告诉她)"
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "ndnpc_AN_Archer Agelia_qu_9267_02.ogg}<br>什…什么。你说有那么恶毒的人们在阿努阿兰德纵横无阻吗!?<br><FONT color=#7e12d2>(阿洁丽雅看起来大吃一惊)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "不能再这样下去了。得先通知长老...<br><FONT color=#7e12d2>(不知道为什么，在闭上嘴思考着)<br></FONT>嗯，不过长老大人现在也似乎非常忙，我们先查探详细情况吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>就我们两个人吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "我想我们得先弄清楚他们的影响到森林的什么地方了，再去报告。<br>不是不相信<FONT color=#387206>{user_nick} </FONT>的话。<br>长老很忙嘛。首先得弄清状况。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好。那么出发吧?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "森林很大所以最好是分头确认吧。<br>我去黄金草原看看吧。<br>\n你去<FONT color=#a82424>消失的满月沙漠</FONT>确认吧。",
+      "answer": "",
+      "image": "qw_77.png"
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "ndnpc_AN_Archer Agelia_qu_9267_01.ogg}<br>但是…你身上似乎有危险的力量蠢蠢欲动着。<br>\n是为那件事而来的吗?",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "我现在有点忙。有话可以去跟阿洁丽雅说吗?<br><FONT color=#7e12d2>(与阿洁丽雅对话吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我不是叫你告诉别的精灵吗。<br>\n连告诉你的事都做不到....",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "我也马上就出发。<br>你去<FONT color=#a82424>消失的满月沙漠</FONT>确认吧。",
+      "answer": "",
+      "image": "qw_77.png"
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9267_01.ogg}<br>为什么你会在这里...<br>真没想到你会来。<br>\n每次见到你，我的决心都会动摇。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>原来是尤万西贝尔大人啊。没想到会在这里见到你。<br>说起来，什么决心...?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9267_02.ogg}<br>与我宿命相关的事啊。以过去的我放弃掉的心为代价，我自己制造出的宿命。<br>不过见到你，就觉得所有事都不曾存在。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>宿命不是制造出来的。宿命是…</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "所有精灵都相信会受到特雷西亚的引导吧。<br>不过其实....不，这些话可能会让你混乱也说不定。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9267_03.ogg}<br>可悲的是我知道了很多你不知道的事情。不过我也是以精灵的身份成长的。<br>\n无法像人类一样快速转变改变命运啊。<br>不过因为那件事得知<FONT color=#a82424>精灵是不会后悔的</FONT>这件事不是事实。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你后悔了什么呢?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "谁知道呢。就当做是<FONT color=#a82424>没能守护重要的人</FONT>吧。<br>不过不用担心。这次绝不会后悔。<br><FONT color=#7e12d2>(尤万西贝尔用深情的眼神看着{user_nick}的脸)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "竟然拒绝了... 不过你知道连那冷淡的表情也很有魅力吗?<br>来这森林的时候没想过能遇见你，我现在愉快多了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你为什么来这里，新月森林呢?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9267_04.ogg}<br>谁知道呢….真是感觉回到了那个时候。 <br>你让我混乱。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9267_05.ogg}<br>你说过自己是来找龙之追随者的吧？<br>他们已经通过此地，走向森林。我只能告诉你这么多。<br><FONT color=#7e12d2>(弓箭手尤万西贝尔为难地转过头避开视线)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>等等。难道你也....</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9267_06.ogg}<br>别再说了。纳尔希亚的女儿。<br>还没到要选择的时候。回去吧。<br><FONT color=#7e12d2>(弓箭手尤万西贝尔在避开话题。回阿努阿兰德见阿洁丽雅吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_azelia.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "阿洁丽雅不见了?<br>为什么问我?怎么不去问那边的警卫兵呢?",
+      "answer": "",
+      "image": "qn_npc_basha.png"
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "在找阿洁丽雅吗?<br>刚才不是和你一起去什么地方确认什么吗？<br>\n没遇见吗?",
+      "answer": "",
+      "image": "qn_npc_azelia.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我们约好在这儿见面的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵警卫兵巴夏",
+      "question": "难道出什么事了吗?<br>黄金草原的话以她的实力早就通关两回了哦?",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "\n…你让我混乱。<br><FONT color=#7e12d2>(弓箭手尤万西贝尔在避开我。回到阿努阿兰德去见阿洁丽雅吧)</FONT>",
+      "answer": ""
+    }
+  ]
+}

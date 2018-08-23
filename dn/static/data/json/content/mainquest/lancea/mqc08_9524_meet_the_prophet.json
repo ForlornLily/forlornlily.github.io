@@ -1,0 +1,130 @@
+{
+  "qkname": "与先知会面",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "之前特拉玛依也通知过他会和<FONT color=#a82424>凯伊</FONT>哥哥一起过来。<br><br>应该是为了让我们见见<FONT color=#a82424>先知</FONT>吧。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "你去<FONT color=#a82424>伊斯拉土著民村落</FONT>看看吧。 <br>他说会在那里等你。",
+      "answer": "",
+      "image": "qw_58.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你来了。 <FONT color=#a82424>先知</FONT>已经苏醒了。<br>她好像有话对你说。 ",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！是先知——！！<br>……不过……在这之前，我有件事要告诉特拉玛依！<br>（转告</FONT><FONT color=#a82424>卡拉秋</FONT><FONT color=#662500>的死讯）</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "什么……？卡拉秋……？！！<br>啊啊……她竟然就这样走了……<br><FONT color=#7e12d2>（特拉玛依好像受到了很大的冲击）</FONT>",
+      "answer": "",
+      "image": "qn_npc_oldkarakule.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "女神的意志究竟是指向何方呢……不过，这一定也是女神的意志吧……",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "先知好像有话要对你说？<br>她想说什么呢？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#7e12d2>（特拉玛依似乎沉浸在悲伤之中，在他默哀的时候，最好和</FONT><FONT color=#a82424>萝丝</FONT><FONT color=#7e12d2></FONT><FONT color=#7e12d2>对话）</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "你在嘀咕什么？你和先知谈话谈完了吗？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "……我们以前见过吧？<br>好像在梦里见过似的，记不清了，但你的脸很熟悉。<br><FONT color=#7e12d2>（萝丝用温柔的眼神看着你）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哇……你还记得啊，先知？你太厉害了！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "是你把我从睡梦中叫醒的吧。<br>我正在不停的逃亡之中……，突然听到了<FONT color=#387206>{user_nick}</FONT>你的声音。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>但是，那个时候你把我推开了吧？这次你是怎么醒来的？<br>难道出现了王子吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "……我做了一个无止尽的黑暗的梦。无比幽深的黑暗之梦……<br>是<FONT color=#a82424>特拉玛依</FONT>救了我。他说不能放弃、不能输，并且一直照顾我。",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哦……嗯……那么，特拉玛依就是你的王子吗？！</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "刚才你们都说了什么废话啊？<br>其实仔细算来，比起<FONT color=#a82424>特拉玛依</FONT>，我做的事情更多…… <br>当然，我绝对不是想说我是王子这种愚蠢的话，哼……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你在梦里看到了什么？是很可怕的梦吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "绿色的怪物……<FONT color=#a82424>绿龙</FONT>复活的时候……<br>死者的亡灵从土里站了起来，走到了坟墓之外的梦……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊啊，这也太可怕了吧……？！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "巨大的黑暗即将降临……而且，黑暗将找上过去的老相识……<br>我很担心这一点……<br><FONT color=#7e12d2>（萝丝盯着特拉玛依那一边）</FONT>",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "但是，现在最紧急的事情是阻止绿龙复活……<br><FONT color=#a82424>卡拉翰</FONT>他现在……<br>就在<FONT color=#a82424>古代宝物仓库</FONT>。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "他似乎想通过古代人的遗物获得力量。由于女神的噩梦遍布世界，我看不到太多的东西……<br><FONT color=#387206>{user_nick}</FONT>，在事情不可挽回之前，赶快行动吧。",
+      "answer": ""
+    }
+  ]
+}

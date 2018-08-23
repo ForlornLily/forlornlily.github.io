@@ -1,0 +1,116 @@
+{
+  "qkname": "托付弟弟",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……这么说来，从刚才开始，你就很不安啊，伊贝尔。怎么了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "其实，在抓捕逃亡的查尔德时，特里亚的军队在我们家附近转悠，邻居们似乎看见了<FONT color=#387206>{user_nick}</FONT>大人。你和查尔德外表完全不同，我还以为不会发生什么问题……",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "<FONT color=#7e12d2>（伊贝尔陷入沉思）</FONT><br><br><FONT color=#7e12d2>*85级以后才可执行此任务</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "反而在<FONT color=#a82424>特里亚的领地</FONT> 内部看见过<FONT color=#387206>{user_nick}</FONT>大人的人成了问题。他们追查我和<FONT color=#387206>{user_nick}</FONT>大人的关系，怀疑你是不是<FONT color=#a82424>反女神派的密探</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……这……！如果是这样，反正原来的家也被烧了……你不应该搬家吗？ </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "是的，像我这样的反女神派联络人，可以住在作为临时住处的宿舍里。但是，为了不让<FONT color=#a82424>格雷尔</FONT>陷入危险，他还是和我分开比较好。",
+      "answer": "",
+      "image": "qn_grele.png"
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "正好我们的舅舅家在格雷尔工作的染色工厂附近，<FONT color=#387206>{user_nick}</FONT>大人能帮我告诉格雷尔，让他不要回原来的家，去舅舅家住一段时间吗？",
+      "answer": "",
+      "image": "qn_grele.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好，我知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": ".……"
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "谢谢，那请你去<FONT color=#a82424>苍翠的风之平原</FONT>，见见<FONT color=#a82424>格雷尔</FONT>吧。",
+      "answer": "",
+      "image": "qw_108.png"
+    },
+    {
+      "npc": "格雷尔",
+      "question": "ndnpc_Grele_9714_qu_01.ogg}<br>姐姐让我暂时待在这里？<br>\n如果我，听话地等着……姐姐一定会来找我的，对吧？一定不会抛下我不管的，对吧……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>姐姐不可能抛弃你。只是因为担心你，所以暂时让你待在这里。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "其实，现在我的家人就只剩下姐姐和大哥了，姐姐要是能不做反女神派的工作，学着做商人，和我一起就好了……虽然我知道我不应该说这样的话，但是反正现在也不用出父母的药费，也不用抚养弟弟妹妹了，这样不也是可以的吗……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>姐姐是为了不再有像你们家一样痛苦的人，希望改变这个世界，才为反女神派工作的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "但是，其他人是不会理解这样的心情的。逃亡查尔德的事情也是邻居们举报的！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（虽然我也知道被背叛是一件多么痛苦的事情，但是怎么才能说服格雷尔呢……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "……请不要露出那样的表情……我不想让<FONT color=#387206>{user_nick}</FONT>大人伤心……<br>其实我知道，姐姐做的事情是正确的。我曾经以姐姐为荣……但是，太累了……",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "对不起，我总是这么撒娇。<br>我现在要去和舅舅说明情况才行。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "您能来到这里，真是谢谢了。",
+      "answer": ""
+    },
+    {
+      "npc": "伊贝尔",
+      "question": "谢谢你能接受我的委托。这样的话，我也能放心了。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这么说来，你的哥哥</FONT><FONT color=#a82424>奇伊</FONT><FONT color=#662500>知道这次的事情了吗？</FONT>",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "qkname": "以热治热",
+  "data": [
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "听了你的话之后，我越来越清楚地意识到一个事实。<br>我们不应该恨杰兰特。",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "为什么会变成这样呢？<br>\n虽然对精灵而言，50年并不是很长的时间，但那天的场景感觉就像是昨天一样。<br>强烈、悲凉，越是回味就越让人怀念。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……到黑山山角去，把这段时间发生的事情告诉露娜莉娅吧。)</FONT>",
+      "answer": "",
+      "image": "qw_skirtofblackmountain.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你在这里干什么？<br>你不知道你要去哪儿吗？",
+      "answer": ""
+    },
+    {
+      "question": " <br>\n<FONT color=#7e12d2>(被黑暗、邪恶的力量包围着的翅膀碎片。<br>周围可以看到一些类似血迹的东西)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "请不要长时间停留在时空的缝隙中。<br>\n那样只会变成无法回去的迷童。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……巨石碑。<FONT color=#a82424>连接女神和世界的媒介</FONT>。<br>原来是这样。杰兰特是这么说的。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>如果黑龙是混沌龙的碎片之一，那其他碎片有没有觉醒成为龙呢？<br>我之前对这种事情不是很关心，所以除了黑龙之外不知道有别的龙。</FONT>",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "还有别的龙存在。<br>虽然现在被杰兰特封印了，见不到它们，但是……<br>在现在之外的时间里，它们一直存在着。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>现在之外的时间里？<br>……你的话可真奇怪。<br>你是说过去，还是……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "不管是过去，还是未来，只要不是现在，对我来说都一样。<br>我不知道如何区别。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "比起这些，现在更应该担心的是别的问题。<br>\n",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "纯白之球的碎片无法继续让我的时间固定下来了。<br>它的力量耗尽了。<br>\n也许很快就会穿越到混乱的时间中去。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "加油。<br><FONT color=#7e12d2>(露娜莉娅淡淡地说道)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那是我加油就能解决的问题吗？嗯？<br>现在光是幻象想要吞噬我的事情，就已经够头疼的了……</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>等等，如果纯白之球的碎片无法再发挥力量的话……<br>那就意味着幻象的活动会更加活跃，对吧？！</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "也许吧。<br>……可能。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "真是辛苦你了<br>\n加油。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……是的，我一直在加油，今后也会这么做的。</FONT><br>\n<FONT color=#662500>你有什么线索吗？露娜莉娅。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "嗯……线索……？<br><FONT color=#7e12d2>(露娜莉娅歪了歪脑袋)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>现在会思考了，真是了不起的进展。<br>我感动得都快哭了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "哎呀，别哭嘛。<br>我想了想，还是不知道。想不起来。<br>\n加油吧。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "啊，对了……我想起了一件事。<br>\n你知道有个叫<FONT color=#a82424>时空庭院</FONT>的地方吗？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你到<FONT color=#a82424>时空庭院</FONT>去找黑暗女神官。<br>她们一直在时空缝隙中生活，也许可以给你提供什么线索。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真让人吃惊。</FONT><br>\n<FONT color=#662500>露娜莉娅竟然给了我一个有用的线索。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "啊，让你的期待落空了吗？<br>哎呀，这可不好。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>还会开玩笑了！<br>你是露娜莉娅吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "很遗憾，是我。我一直是我。<br>不会变成别的东西。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你到<FONT color=#a82424>时空庭院</FONT>去吧。<br>希望你能找到有用的线索。<br>\n……虽然这件事和我没什么关系。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "你需要可以和纯白之球的碎片相媲美的力量，这一点我知道了。<br>但是……如果你不向我说明具体的情况，我很难给你什么建议。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "你的难处我可以理解……<br>不过你能跟我说得更详细一些吗？到底是什么问题？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎么说呢？我的同伴对时间感觉有点混乱……？</FONT><br>\n<FONT color=#662500>认为现在接下去可能不是未来……诸如此类奇怪的……</FONT><br>\n<FONT color=#662500>总之，就是这类问题。</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>所以……</FONT><br>\n<FONT color=#662500>我自身正在经历一场混乱。简单地来说，就是我既是我，又不是我……</FONT><br><FONT color=#662500>嗯……就是这样……这样的问题。</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "<FONT color=#7e12d2>(玛德琳一脸惊讶)<br></FONT>好复杂。要是埃克莱尔在的话，也许可以帮到你……<br><FONT color=#7e12d2>(玛德琳自言自语道，然后突然抬起了头)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "啊，我想到了一个办法。<br>不管是什么方面的混乱，如果你希望获得控制和净化剧毒的工具的话。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "你愿意到<FONT color=#a82424>黑暗大君主之塔</FONT>去搜集黑色核心吗？黑龙被撕下来的翅膀应该还留在那里，你到那里去把碎片拿回来。<br>那是世上任何东西都无法超越的剧毒。",
+      "answer": "",
+      "image": "qw_40.png"
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "但是剧毒可以用剧毒来控制。<br>就像女神的黑暗可以用女神的黑暗来控制一样。",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "你想找黑暗女神官的话，在时空庭院中就能找到。<br>我没什么事情需要到那里去。",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "在和黑龙的激烈战斗之后，那一带在相当程度上受到了剧毒的污染。<br>因此用在<FONT color=#a82424>黑暗大君主之塔</FONT>搜集到的黑龙的翅膀，应该可以成为能够控制住你的混乱的剧毒。",
+      "answer": "",
+      "image": "qw_40.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n要到黑暗大君主之塔去，对吧？<br>\n明白了。",
+      "answer": "",
+      "image": "qw_40.png"
+    },
+    {
+      "question": "<br><FONT color=#7e12d2>(由奇怪的组织构成的翅膀碎片。<br>周围可以看到一些类似血迹的东西。)</FONT>",
+      "answer": ""
+    },
+    {
+      "question": " <br>\n<FONT color=#7e12d2>(小心地采集到了碎片，没有沾上血。<br>感觉到了强大的力量。)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n你干嘛不去从黑龙的翅膀上采集碎片？<br>\n真让人为难。顺序错了。",
+      "answer": ""
+    },
+    {
+      "question": " <br>\n<FONT color=#7e12d2>(采集到翅膀碎片之后，好像听到了一个陌生的声音)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(拿到黑龙的翅膀碎片之后，感觉身体好像变得热了起来。<br>是错觉吗……？)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n我现在没什么好跟你说的。<br>\n你最好还是专注于眼前的战斗。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#387206>{user_nick}</FONT>...?<br>\n咦，是……幻象吗？",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不是幻象。我是……</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "幻象",
+      "question": "……你真的不是我吗？<br>不可能。你就是我。",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "不可能变成别的。你经过了混乱的时间，转了一大圈，最终还是会变成我。<br>把那个没有意义的肉体让给我吧。你只是在浪费时间而已。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(胡说什么呢……！)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……幻象。你还是放弃吧。",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "露娜莉娅。",
+      "answer": ""
+    },
+    {
+      "npc": "幻象",
+      "question": "露娜莉娅……你是我的。<br>我绝不会放弃。等着瞧吧。等我把这个身体……",
+      "answer": ""
+    },
+    {
+      "question": " <br>\n<FONT color=#7e12d2>(意识逐渐变得模糊)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……回来啦？<br>\n<FONT color=#387206>{user_nick}</FONT>……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……露娜莉娅？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你回来啦。<br>……幻象出现了。你知道吗？",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是的，他在那里大言不惭，说要占据我的身体。<br>我们就像在对话一样……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……<br>希望黑色核心能有用。<br>\n快把它带到时空庭院去吧。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你到时空庭院去见见<FONT color=#a82424>黑暗女神官玛德琳</FONT>。<br>那样的话，应该就能重新控制住我的力量，还有你体内的那个人。虽然只是很短的一段时间……",
+      "answer": "",
+      "image": "qn_darklair_castia.png"
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "黑龙的翅膀碎片拿来啦。<br>得到它之后，有什么改善吗？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "……嗯。<br>\n看来好像没什么变化。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "黑暗女神官玛德琳",
+      "question": "光是把它带在身上没什么用处吗？",
+      "answer": ""
+    }
+  ]
+}

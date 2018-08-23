@@ -1,0 +1,197 @@
+{
+  "qkname": "格雷尔的病痛",
+  "data": [
+    {
+      "npc": "诺尔佩",
+      "question": "莉卡？莉卡怎么会在那……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "ndnpc_Nophee_9790_qu_01.ogg}<br><FONT color=#662500>你认识那个叫莉卡的女人？</FONT>",
+      "answer": "",
+      "image": "qn_salica.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "莉卡曾在<FONT color=#a94407>拉达梅斯</FONT>短暂生活过，当时她和反女神派一起帮助那些难民。<br>不仅见多识广，还乐于挑战，对拉达梅斯帮助很大。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "拉达梅斯的废水净化设备，还有沼泽陷阱等等，都是出自莉卡之手。<br>拉达梅斯一向严禁外人进出，但却对莉卡信任有加。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "不过她这人冒险精神强烈，并且四海为家，突然有一天就离开了拉达梅斯。本来想邀请她加入反女神派，真是可惜。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>莉卡竟然在拉达梅斯……这世界真小。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "她倒是值得相信。<br>当然我也不知道她到底什么身份，不过在我的印象中，她是一个值得相信的人。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "如果是她，说出<FONT color=#a94407>治愈之杯</FONT>的事也无妨。说不定她能在寻找治愈之杯线索方面帮上忙。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，知道了。既然你都这么说了，那我也没什么好怀疑的了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "虽然不知道莉卡在寻找什么遗物……但说不定是她来拉达梅斯之前就一直寻找的东西。当初在拉达梅斯，她看起来就像是为寻找什么而来。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>莉卡在寻找什么遗物呢？<br>虽然不太清楚，但也许帮她找到遗物后，能发现有关治愈之杯的蛛丝马迹。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "嗯，与其漫无目的地寻找线索，不如帮她找到遗物，这样也许会有意外的收获。<br>那赶快去<FONT color=#a82424>秘密海底洞穴</FONT>见她吧。",
+      "answer": "",
+      "image": "qw_129.png"
+    },
+    {
+      "npc": "格雷尔",
+      "question": "呼哧……呼哧……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>莉卡还没来吗？<br>格雷尔？怎么了？又是哪里不舒服了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "没事，我还好……呃……！!",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格雷尔！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "呼哧……呼哧……",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "嗯？出什么事了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>莉卡！格雷尔他……！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "ndnpc_Salica_9790_qu_01.ogg}<br>糟糕……看起来不太妙啊……<br>这孩子不久前是不是吞下了宝玉？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>原来你知道。嗯……他刚刚吸收玛蒙的宝玉没多久……可能是状态还不稳定，宝玉一直没能顺利融合。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "ndnpc_Salica_9790_qu_02.ogg}<br>这下糟了……他本身就是突变查尔德，自身状态还这么不稳定…… <br>并且还多次吸收其他查尔德的宝玉……以他目前的状态，根本无法控制体内的宝玉。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那、那该怎么办？诺尔佩说只能靠格雷尔自己完成宝玉融合……可照目前的状态……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "ndnpc_Salica_9790_qu_03.ogg}<br>也不是没有办法。<FONT color=#a94407>宝玉融合</FONT>其实就是让吸收的宝玉魔力在体内循环、融化，但那孩子最近吸收的宝玉魔力却一直积聚在胸口。",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "只要强行让宝玉魔力在体内循环就行了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎么才能让宝玉魔力在体内循环呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "这你问道重点了。世间之事，向来说来容易做来难！<br>如果想实现魔力在体内循环，就需要找到帮助循环的<FONT color=#a94407>催化剂</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "当然催化剂需要各种材料制成。幸好这些材料在岛上都能找到了。<br><FONT color=#a94407>卡伊伦海岸</FONT>上<FONT color=#a82424>人鱼的海草榨取的汁液</FONT>和生长在<FONT color=#a94407>幻影森林</FONT>的<FONT color=#a82424>幻影花</FONT>就是催化剂的材料。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了！我这就去找回来！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "等一下，等一下。你听我说完嘛。<br>人鱼的海草榨取的汁液含有强酸性，用普通的瓶子称装会立即融化。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哦……那该怎么办？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "梅尔卡不是商业之都嘛？仔细寻找，应该能发现可以装取强酸物质的容器。<br>你去不如去问问诺尔佩。",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "<FONT color=#a82424>诺尔佩</FONT>聪明过人，你的话，他一听就懂。<br>到时候好好跟诺尔佩说明目前的情况。",
+      "answer": "",
+      "image": "qn_nophee.png"
+    },
+    {
+      "npc": "格雷尔",
+      "question": "呼哧……呼哧……",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "<FONT color=#387206>{user_nick}</FONT>大人，你怎么气喘吁吁跑来了？<br>赶快来个深呼吸……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>诺、诺尔佩！现在不是开玩笑的时候！<br>（告知格雷尔的情况和莉卡的话。）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "格雷尔大人的情况果然再次恶化了……但幸好有莉卡在身边照顾。<br>不过，你说需要装取人鱼汁液的瓶子……",
+      "answer": ""
+    }
+  ]
+}

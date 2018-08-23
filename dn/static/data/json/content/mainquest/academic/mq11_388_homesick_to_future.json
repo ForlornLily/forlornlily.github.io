@@ -1,0 +1,110 @@
+{
+  "qkname": "想起心中思念的未来",
+  "data": [
+    {
+      "npc": "贝思柯德",
+      "question": "……不要妨碍我。<br><FONT color=#7e12d2>（贝思柯德包裹着伤口，闭着眼睛）</FONT>"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_03.ogg}<br>贝思柯德那边怎么样了？你跟他的关系好点了吗？",
+      "answer": "还没有。"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……不要妨碍我。<br><FONT color=#7e12d2>（贝思柯德闭着眼，他的伤口已经包裹好）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "他还在<FONT color=#a82424>黑山山角</FONT>吧？贝思柯德。<br>他的伤应该还没有痊愈……",
+      "answer": "该如何是好?",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "最好准备些治疗药一起带过去。<br>但应该用什么药物来治疗龙呢，这个我们怎么知道啊？",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "不管怎么说，你也算是和他聊过好几次的了，<br>肯定有数据……恩，你没听过什么吗？",
+      "answer": "（回想之前的记忆）……啊！",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "<FONT color=#7e12d2>（听到此话的百合花不断点头）</FONT><br>从<FONT color=#a82424>孤岛中心</FONT>搜集到的止痛药？<br>……说不定会有用，那你去搜集些止痛药带给他吧？",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_07.ogg}<br><FONT color=#a82424>孤岛中心</FONT>的{monster926}……那个魔物不好对付，你千万要小心啊。<br>不要受伤。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br><FONT color=#7e12d2>▷ 请在孤岛中心狩猎{monster926} ，并搜集发光的粉末止痛药。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你要去<FONT color=#a82424>孤岛中心</FONT>？……那你是迷路了啊。<br>孤岛中心不是这样方向，小鬼。",
+      "answer": "",
+      "image": "qw_33.png"
+    },
+    {
+      "question": "学者站台<br>▶ Mission Object.<br><FONT color=#7e12d2>▷请去找黑山山角的贝思柯德。</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……你找我有什么事情吗？<br>你不会是还要来跟我讲述你那如梦般的未来故事吧。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "这是……？<br>我没有吩咐你去做这样的事情啊？<br>你做些了没用的事情啊。<br><FONT color=#7e12d2>（贝思柯德皱着眉头）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "小鬼，你之前不是和其他冒险家一起攻击我的吗？<br>为了救出先知。<br>现在为什么又给我药？我真的很难理解。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不是你的敌人。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "哼……又要提什么未来了吗？<br>不知道未来的我为什么要将你这样的孩子带在身边。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>未来的你是人类守护者。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "……哼，我做了人类的守护者？<br>至少我知道了未来的我是多么愚蠢。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>那并不愚蠢！！</FONT>",
+      "answer": ""
+    }
+  ]
+}

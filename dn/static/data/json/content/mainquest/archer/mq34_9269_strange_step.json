@@ -1,0 +1,265 @@
+{
+  "qkname": "可疑的举动",
+  "data": [
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "生命之树竟然有危险…真是让人担心啊。<br>也得通知在外面旅行中的冒险者们吧。",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "他们由我通知。<br>联系都留在别的村庄的人们，应该不会花很久。",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "你就回到<FONT color=#a82424>阿努阿兰德</FONT>去吧。<br>旅行中的人们到达之前，去守住我们的故乡吧。",
+      "answer": "",
+      "image": "qw_anuarendelgateway.png"
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "<FONT color=#a82424>神圣天堂的伊西莉安</FONT>已经见过了吗?",
+      "answer": "",
+      "image": "qn_npc_archer_ishilien.png"
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "为什么你在这里....<br><FONT color=#7e12d2>(尤万西贝尔的表情非常混乱)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "为什么你在这里....<br><FONT color=#7e12d2>(尤万西贝尔的表情非常混乱)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "这所有的旅行会把你引向宿命。 <br>帕拉特雷西亚..",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "一直在等着你。",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "ndnpc_AN_Archer Agelia_qu_9269_01.ogg}<br>因为就算是这个瞬间，龙之追随者们也会在破坏森林的吧。",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "你不在的时候，我已经把事情报告给长老了。<br>长老说你可以信任。",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "说起来你说过他们前往青铜残月林间路了吧? <br>时间已经过得相当久了，可能追踪不太容易吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那也得去看看啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "虽然我也想一起去，但身体还没有复原，以这种状态去的话只会碍手碍脚吧。<br>请去<FONT color=#a82424>青铜残月林间路</FONT>吧。<FONT color=#387206>{user_nick}</FONT>!",
+      "answer": "",
+      "image": "qw_79.png"
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "虽然我也想一起去，但身体还没有复原，以这种状态去的话只会碍手碍脚吧。<br>请去<FONT color=#a82424>青铜残月林间路</FONT>吧。<FONT color=#387206>{user_nick}</FONT>!",
+      "answer": "",
+      "image": "qw_79.png"
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "......<br><FONT color=#7e12d2>(弓箭手尤万西贝尔深情地看过来)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "......<br><FONT color=#7e12d2>(看来得先搭话啊)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你...</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9269_01.ogg}<br>果然如卡拉翰所说，相当笨啊。<br>虽然那种地方更让我喜欢你。<br><FONT color=#7e12d2>(陷入沉思的弓箭手尤万西贝尔苦笑着回答)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你以前有帮过我吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "那是因为困扰着的是你。<br>虽然困扰着的样子也并不难看，但我还是更像见到你的微笑。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9269_02.ogg}<br>是。所以不禁抓住了拥有和她一样的脸蛋和眼睛的你的手。<br>不过正在后悔呢。<br>\n似乎把天真的你拉到这里，使徒们的目的地为止。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>使徒们的目的地吗?<br>伤害女王就是你们的目的吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "真是残忍的人啊。是想看到我困扰的样子，故意问那种问题吗？<br><FONT color=#387206>{user_nick}</FONT>那么想我也没办法，不过误会得解开吧?",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9269_03.ogg}<br>和你想的不一样，森林正在死去不光是因为使徒们。<br>你也知道这是因为女王之力的衰弱造成的吧。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9269_04.ogg}<br>精灵女王的力量左右着种族全体的安全的这个世界果然是正确的吗?<br><FONT color=#7e12d2>(尤万西贝尔用遗憾的表情看着我)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不是为了和你对话才来这里的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9269_05.ogg}<br>哦，纳尔希亚的女儿。<br>\n怕失去你的心，似乎要说出所有的真实了。<br>不过我的担心还不能让年幼的你背上。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我对你的真实不怎么关心。</FONT><br>\n<FONT color=#662500>我想找的是毒物的所在地。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9269_06.ogg}<br>我不知道在哪里。我只是在这里静静地看着。<br>\n边等待时机，边看着你们可怜的宿命而已。<br>不过你会指责与他们共同行动的我吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我会阻止你的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9269_07.ogg}<br>那就阻止看吧。<br><FONT color=#7e12d2>(弓箭手尤万西贝尔往月食峡谷方向消失)</FONT>",
+      "answer": "",
+      "image": "qw_80.png"
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9269_08.ogg}<br>一想到你在追我，觉得蛮兴奋的。<br>如果这个捉迷藏永远继续下去就好了….",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我没时间陪你玩。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9269_09.ogg}<br>我也没有时间。<br>不过和你在一起，就像和她在一起，感觉时间会停止。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "看到这个森林了吗。这里马上也会中毒，失去生命力吧。<br>因为他们行动得非常勤奋。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你明明也是精灵，森林正在死去对你来说都无关紧要吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "怎么会呢。所以像这样不和他们一起行动不是吗?<br>我不像其他使徒一样，像个听话的木偶。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "我有我的目的。这关系到我们种族的未来。<br>虽然能告诉你的只有一小部分，但开始燃起了希望你相信我的欲望啊。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9269_12.ogg}<br>这里会有更大的灾难袭来。为了你的安全，我只能告诉你这个....<br>我想拜托你陷入那件事之前去避难，不过看来你也不会听。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那危险是什么?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "你是为了让我陷入混乱中才来找我的吗?<br>\n明明是不能说的，但看到你的眼睛就全部都说出来了….<br>不过只能告诉你了。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9269_13.ogg}<br>龙之追随者和使徒们大概正在聚集在<FONT color=#a82424>黄金草原</FONT>上吧。<br>\n为了迎接他们的王。",
+      "answer": "",
+      "image": "qw_78.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>使徒们的王？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "是。所以和我约好一定要活下来吧。<br>我已经不想重复500年前的痛苦了。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9269_07.ogg}<br>那就阻止看吧。<br><FONT color=#7e12d2>(弓箭手尤万西贝尔往月食峡谷方向消失)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "ndnpc_AN_Yuvenciel_qu_9269_11.ogg}<br>别用和她一样的眼神看着我。 <br>我已经对你无可奉告了。",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "搜索龙之追随者进展怎么样了?<br>\n有什么新的发现吗?",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "ndnpc_AN_Archer Agelia_qu_9269_02.ogg}<br><FONT color=#a82424>龙之追随者之王</FONT>在来这里吗？<br>跟踪他们的行动就能知道剧毒的位置了吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不过不会很危险吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅",
+      "question": "嗯.... 是啊。如果他们的王来了，说不定名为<FONT color=#a82424>使徒</FONT>的人会聚在一起。<br>而且我也因为受伤而无法随意动弹。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

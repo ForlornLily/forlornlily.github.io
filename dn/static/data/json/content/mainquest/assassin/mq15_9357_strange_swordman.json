@@ -1,0 +1,104 @@
+{
+  "qkname": "奇怪的剑客",
+  "data": [
+    {
+      "npc": "高级战士佩德罗",
+      "question": "嗯～为什么有那种传闻呢？嗯……<br>\n<FONT color=#7e12d2>(佩德罗歪了歪脑袋)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "你来啦。有件事我觉得很奇怪。<br>我觉得问你的话，你也许会知道。",
+      "answer": ""
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "……嗯？是不是和某个人有关？！<br>你是怎么知道的！哇，你能未卜先知吗？",
+      "answer": ""
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "有人说最近在附近见到了一个来历不明的剑客……我听着听着，感觉那个人我好像很熟悉。<br>所以我仔细想了想。那个人……会不会是兰伯特呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(不是在说露娜莉娅啊……我还以为是在说她呢。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "你的反应怎么这么不冷不热啊？<br>切……我还很激动，还特地把你叫过来。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "我没跟你说过兰伯特吗？<br>他和我父亲阿雷格罗是师兄弟。也就是说，他是我的师叔？就是他！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "泰努玛拉的英雄！！ </FONT><FONT color=#a82424>沙漠蓝狼</FONT><FONT color=#2b2723>，<FONT color=#a82424>兰伯特</FONT><FONT color=#2b2723> ！<br>他和我父亲一样厉害，哈哈哈哈。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>(兰伯特好像是西恩的父亲吧……？)</FONT>",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>但是他为什么会在这里呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "听说最近他在神圣天堂出现过。<br>会不会是经过那里，来到了莲花沼泽呢？嗯，具体是为了什么，还得确认一下。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "那人是在女王庭院见到他的。<br>我现在还有别的事，没办法脱身。你帮我到那里去确认一下吧。</FONT>",
+      "answer": "",
+      "image": "qw_68.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>(西恩的父亲真的在这里吗？<br>我也很想见识一下。要去看看吗？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "\n嗯，不知道<FONT color=#a82424>高级战士佩德罗</FONT>找你有什么事……<br>\n不过说不定可以获得什么重要的情报。",
+      "answer": "",
+      "image": "qn_npc_lotus_warriorfedro.png"
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "如果那个神秘的剑客真的是<FONT color=#a82424>兰伯特</FONT>……<br>他到底为什么要到<FONT color=#a82424>女王庭院</FONT> 那种地方去呢？真是奇怪。",
+      "answer": "",
+      "image": "qw_68.png"
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "回来啦。<br>怎么样？那个神秘的剑客是<FONT color=#a82424>兰伯特</FONT>吗？",
+      "answer": ""
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "……嗯？听你这么一说，感觉不像是兰伯特。<br>当然，我也只是听父亲提起过，没见过他的样子……</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "据我所知，他好像长得不是那个样子的啊。<br></FONT><FONT color=#7e12d2>(佩德罗歪了歪脑袋)</FONT>",
+      "answer": ""
+    }
+  ]
+}

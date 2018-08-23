@@ -1,0 +1,37 @@
+[
+  {
+    "id": "mqc03_9473_wreckage_of_the_ship",
+    "name": "飞艇残骸",
+    "qid": "9473",
+    "nextid": "208",
+    "chapter": "3"
+  },
+  {
+    "id": "mqc03_9474_darkelf_elena",
+    "name": "黑暗精灵埃雷娜",
+    "qid": "9474",
+    "nextid": "9475",
+    "chapter": "3"
+  },
+  {
+    "id": "mqc03_9475_destroy_equipment",
+    "name": "破坏制造装置",
+    "qid": "9475",
+    "nextid": "211",
+    "chapter": "3"
+  },
+  {
+    "id": "mqc03_9476_research_of_sorceress",
+    "name": "魔法师的研究",
+    "qid": "9476",
+    "nextid": "217",
+    "chapter": "3"
+  },
+  {
+    "id": "mqc03_9477_cleanup",
+    "name": "净化",
+    "qid": "9477",
+    "nextid": "9478",
+    "chapter": "3"
+  }
+]

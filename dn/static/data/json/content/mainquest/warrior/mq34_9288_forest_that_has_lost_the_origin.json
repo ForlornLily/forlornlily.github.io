@@ -1,0 +1,191 @@
+{
+  "qkname": "失去根源的森林",
+  "data": [
+    {
+      "npc": "???",
+      "question": "这就是我打算救的人类吗?",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "\n干嘛？你有话要跟我说吗？<br>\n你跟他聊完了？<br>\n <br>\n ",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "\n<FONT color=#7e12d2>（阿尔杰塔指着旁边的金发剑士）</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_kid.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "两个人现在才算碰面了啊。他对你有点好奇。<br><FONT color=#7e12d2>(与金发剑士进一步交谈吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_kid.png"
+    },
+    {
+      "npc": "萝丝琳德",
+      "question": "没时间和你玩。我现在有点忙。<br><FONT color=#7e12d2>(萝丝琳德像风一样消失了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>(非常眼熟的脸)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "ndnpc_AN_Gereint Young_qu_9288_01.ogg}<br>以为会有什么特别之处，看来也不是那样。竟然放弃众多的混沌龙而守护你。",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "话说回来，他们散布的毒，对生命之树可能没什么影响吧?<br>反正森林的净化能力是以树木的宝玉和遗物们维持的吧。",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "ndnpc_AN_Gereint Young_qu_9288_02.ogg}<br>重要的是那个遗物。我记得是在这里的某处，<br>那个人类说的先知在找的东西，应该是这里的古代人的遗物吧?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>古代人的遗物吗?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "关于遗物阿尔杰塔知道得更清楚吧。<br>比起毒之类的东西，更重要的是确认遗物有没有被拿走吧?",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9288_01.ogg}<br>嗯?? 遗物? <br><FONT color=#7e12d2>(阿尔杰塔忽然露出上火的表情)<br></FONT>对了。是有那种东西。我也变笨了。怎么会忘了那个呢?",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "对了，想起来了。找到那遗物先知就能恢复力量也是。<br>哎哟。真麻烦。<br>喂。奴隶候补!去看看<FONT color=#a82424>森林的根源</FONT>是否无事吧。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你竟然问森林的根源是什么?你为什么连这种东西都不知道。没学过历史之类的吗?<br>精灵之森诞生时移植过来的古代人遗物嘛不就是。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "因为是能增幅古代人能力的特别之物，所以进到先知手里....<br>会重新恢复失去的力量也说不定。也就是说，会变得非常头痛。。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "幸好像你一样愚笨的人类是看不到的。但萝丝琳德曾经是先知..<br>如果你想保护遗物得给你贴个符咒什么的。<br><FONT color=#7e12d2>(阿尔杰塔自言自语地拿出什么东西递过来)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>看不见?为什么呢?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "那当然是因为精灵女王的宝玉之力…啊好麻烦，你就当做那么回事不行吗?<br>萝丝琳德拿走宝玉之前快去<FONT color=#a82424>月食峡谷</FONT>吧。",
+      "answer": "",
+      "image": "qw_80.png"
+    },
+    {
+      "npc": "???",
+      "question": "我还以为人类会有什么特别，看来也没什么。<br>\n为了保护他们，竟然放弃了那么多东西……",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "森林的根源被精灵女王之力隐藏着。<br>像你一样愚笨的孩子是看不到也说不定，所以才给你符咒，这次能找到吧?",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "废话少说，快到<FONT color=#a82424>月食峡谷</FONT>去确认一下根源！<br>没出什么事的话，就把它埋到地底下藏起来。明白了吗？",
+      "answer": "",
+      "image": "qw_80.png"
+    },
+    {
+      "npc": "???",
+      "question": "阿尔杰塔似乎有事叫你去做。有什么话要对我说吗?",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝琳德",
+      "question": "又是你这家伙。是闻到什么气味追来的吗?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(萝丝琳德拿着某种东西。会是那个遗物吗?)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>把遗物还给我。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝琳德",
+      "question": "我为什么要那么做？这是让<FONT color=#a82424>佩达</FONT>认可我萝丝琳德的能力的好机会。<br>我萝丝琳德可以做出比那个老狐狸更伟大的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝琳德",
+      "question": "呵呵呵，听到他的名字你肯定会吓得脸色发青。没错，他就是我们的佩达大人！<br>\n他是<FONT color=#a82424>我的大王，所有使徒的大王。而且马上就会成为全世界的大王</FONT>！",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝琳德",
+      "question": "呵!敢那么称呼佩达大人。是想死吧，你?<br>那位是<FONT color=#a82424>我的王，所有使徒们的王。以及即将成为所有世界的王</FONT>的人!",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝琳德",
+      "question": "ndnpc_AN_Rozalinde_qu_9288_02.ogg}<br>不想白白送命的话，就别来烦我，快点滚开。<br>佩达不像我这样宽宏大量，趁现在<FONT color=#a82424>红龙</FONT>的力量还没完全觉醒，快逃走吧。<br>我是不是很善良？嘻嘻，虽说是看在过去的情份上。<br><FONT color=#7e12d2>(萝丝琳德哼着歌消失了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝琳德",
+      "question": "我是不是很善良？嘻嘻，虽说是看在过去的情份上。<br><FONT color=#7e12d2>(萝丝琳德哼着歌消失了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝琳德",
+      "question": "ndnpc_AN_Rozalinde_qu_9288_01.ogg}<br>不过。现在心情不错所以不会杀死你的。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝琳德",
+      "question": "佩大大人就要驾临啦！他是我们所有人的大王！所有使徒的大王！啊哈哈哈哈！<br><FONT color=#7e12d2>(萝丝琳德的笑声响彻四周)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9288_03.ogg}<br>什么？所以你和萝丝琳德开心地聊完天后就回来了？<br>为什么每次吩咐你做的事情都做不好呢？难不成你是在帮混沌龙做事？",
+      "answer": "",
+      "image": "qn_npc_rosalin.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是的!就算这样我也获得了重要情报啊。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "是吗?如果不是重要的内容就绝不轻易放过你。<br><FONT color=#7e12d2>(阿尔杰塔打磨着拳头俯视着我)</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "qkname": "少女的下落",
+  "data": [
+    {
+      "npc": "自卫团长史蒂夫",
+      "question": "难道……我担心他们是不是没能离开<FONT color=#a82424>墓穴</FONT>。我得让自卫团员去<FONT color=#a82424>墓穴</FONT>调查一下。",
+      "answer": "",
+      "image": "qw_3.png"
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "\n分析一下提摩西和萝丝的逃跑路线，如果既没有回到村子里，又没和其他自卫团员会合的话……<br>\n<FONT color=#7e12d2>（史蒂夫看着普雷利镇附近的地图）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "\n原来如此！<br>\n我想，他们应该是去了<FONT color=#a82424>阴影森林中心</FONT>。",
+      "answer": "",
+      "image": "qw_4.png"
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "\n冒险家，在我查看其他自卫团员的报告的这段时间，请你去一趟阴影森林中心吧。<br>\n因为时间紧迫。我会和其他自卫团员一同查看别的方向。",
+      "answer": "",
+      "image": "qw_4.png"
+    },
+    {
+      "npc": "卫兵达尔西",
+      "question": "快，快请过来，<FONT color=#387206>{user_class} {user_nick}</FONT>！我刚刚得知萝丝和提摩西逃到了山坡下！",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵达尔西",
+      "question": "事情发生得太突然，根本没时间阻止……被一个有着红色翅膀的怪物追赶着……和我一起侦查的<FONT color=#a82424>卫兵山姆</FONT>追着萝丝去了。",
+      "answer": "",
+      "image": "qw_4.png"
+    },
+    {
+      "npc": "卫兵达尔西",
+      "question": "必须赶快告诉<FONT color=#a82424>卫兵史蒂夫</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵山姆",
+      "question": "竟然打倒了那个强大的怪物……<br>虽经常听到你的事迹，但没想到你的实力这么强。",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵达尔西",
+      "question": "希望你能小心。<br>到<FONT color=#a82424>阴影森林中心</FONT>去，找到我们的自卫团员<FONT color=#a82424>卫兵山姆</FONT>。",
+      "answer": "",
+      "image": "qn_npc_guard_dalcy.png"
+    },
+    {
+      "npc": "卫兵山姆",
+      "question": "嗬……嗬……竟然打倒了那个强大的怪物……<br>虽然经常听到你的事迹，但没想到你的实力这么强。",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵山姆",
+      "question": "对不起……我在阴影森林看到萝丝和提摩西被人追赶，所以跟在后面来到了这里……但因为那些<FONT color=#a82424>小妖精</FONT><FONT color=#a82424>头目加扎</FONT>的妨碍，我没能跟上他们。呃……",
+      "answer": "",
+      "image": "qm_goblinred.png"
+    },
+    {
+      "npc": "卫兵山姆",
+      "question": "抓走萝丝的怪物是一个长着<FONT color=#a82424>红色羽毛</FONT>的<FONT color=#a82424>鹰身人</FONT>。提摩西在后面追赶……之后的事情我就不知道了……",
+      "answer": "",
+      "image": "qm_harpyred.png"
+    },
+    {
+      "npc": "卫兵山姆",
+      "question": "我听其他自卫团员说，<FONT color=#a82424>红色鹰身人情妇</FONT>是从<FONT color=#a82424>古代神殿发掘场</FONT>的方向飞过来的。<br>\n萝丝被劫持才没多久，赶快追赶的话一定可以救出萝丝的！",
+      "answer": "",
+      "image": "qm_harpyred.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵山姆",
+      "question": "我会向卫兵史蒂夫报告的。<br>\n如果不能尽快救出萝丝的话……",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "\n我们自卫团的一员卫兵山姆一定在<FONT color=#a82424>阴影森林中心</FONT>。<br>\n请你去和他会合，打听一下发生什么事了。",
+      "answer": "",
+      "image": "qw_4.png"
+    }
+  ]
+}

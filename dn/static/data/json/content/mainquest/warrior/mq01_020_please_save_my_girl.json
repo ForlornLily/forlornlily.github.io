@@ -1,0 +1,72 @@
+{
+  "qkname": "请救救她",
+  "data": [
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "我听说萝丝被<FONT color=#a82424>红色鹰身人情妇</FONT>抓走，带到了<FONT color=#a82424>古代神殿发掘场</FONT>。",
+      "answer": "",
+      "image": "qm_harpyred.png"
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "请前往<FONT color=#a82424>古代神殿发掘场</FONT>救出萝丝吧。",
+      "answer": "",
+      "image": "qw_5.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "我听说提摩西和萝丝目前在<FONT color=#a82424>古代神殿发掘场</FONT>身处危险之中……<br>请你……一定要安全地救出孩子们……",
+      "answer": "",
+      "image": "qn_guard_steave.png"
+    },
+    {
+      "npc": "卫兵山姆",
+      "question": "请到<FONT color=#a82424>古代神殿发掘场</FONT>，一定要救出……<br>\n救出萝丝。<FONT color=#387206>{user_nick}</FONT>，拜托你了。",
+      "answer": "",
+      "image": "qw_5.png"
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "你来啦？萝丝和提摩西怎么样了？",
+      "answer": ""
+    },
+    {
+      "npc": "自卫团长史蒂夫",
+      "question": "\n提摩西和萝丝……难道出了什么事？",
+      "answer": ""
+    },
+    {
+      "npc": "自卫团长史蒂夫",
+      "question": "ionCry}<br>你说……什么……？<br><FONT color=#a82424>提摩西</FONT>……<FONT color=#a82424>提摩西</FONT>他死了？",
+      "answer": "",
+      "image": "qn_guard_timose_down.png"
+    },
+    {
+      "npc": "自卫团长史蒂夫",
+      "question": "啊……傻瓜……我好恨自己，我不应该不管<FONT color=#a82424>提摩西</FONT>的……<br><FONT color=#7e12d2>（史蒂夫的眼中含着泪水）</FONT>",
+      "answer": "",
+      "image": "qn_guard_timose_down.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，<FONT color=#a82424>卫兵史蒂夫</FONT>正在等你。<br>\n咳咳咳咳……",
+      "answer": "",
+      "image": "qn_guard_steave.png"
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "\n<FONT color=#7e12d2>（史蒂夫好久都没能说出话来）</FONT>",
+      "answer": "",
+      "image": "qn_guard_timose_down.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "<FONT color=#a82424>提摩西</FONT>的尸身……由我们来处理，<br>既然守护了自己喜欢的少女……这家伙应该也死而无憾了……",
+      "answer": ""
+    }
+  ]
+}

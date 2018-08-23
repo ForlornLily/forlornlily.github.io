@@ -1,0 +1,371 @@
+{
+  "qkname": "神圣天堂王城",
+  "data": [
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "你把<FONT color=#a94407>悬浮装置</FONT>带来了吗？<br>快，快，给我。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "辛苦你了。好，现在原动力已经准备好，马上可以启动<FONT color=#a82424>阿尔巴特罗号</FONT>了。",
+      "answer": "",
+      "image": "qw_airship.png"
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "嗯……奇怪……咦？怎么回事？<FONT color=#a94407>悬浮装置</FONT>怎么成了这副摸样？<br>你到底是怎么保管悬浮装置的？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "<FONT color=#7e12d2>（告诉他食人魔将其吞入口中的事实）</FONT><br>啊……悬浮装置又不是什么吃的，为什么要吞下去？<br>哎……表面已经被严重腐蚀，看来现在很难运行了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>唉……？还需要什么吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "别担心，这个问题我可以解决。<br>只不过需要一点时间。请你耐心等一会儿。<br><FONT color=#7e12d2>（达到24级后，可移动至神圣天堂）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "啊啊，我有些累，所以休息了一会儿。我们现在能前往神圣天堂了？<br>我们去乘坐阿尔巴特罗号，快出发吧！",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "哇啊~ 这里好棒啊！！对吧对吧！？<br><FONT color=#7e12d2>（埃提亚看起来很开心。必须完成之前的任务，才可以进行对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔的奴隶戴维",
+      "question": "呼呼呼，你想侍奉在阿尔杰塔身边？<br>很抱歉，没有你的份！呼呼呼。",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "我必须向神圣天堂的国王陛下报告才行。凯德拉关卡的守护者<FONT color=#387206>{user_nick}</FONT> ，请与我同行，一起去向国王陛下报告吧。",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "现在要报告的事情不是一两件，我已经忙得晕头转向了。<br><FONT color=#7e12d2>（必须完成之前的任务，才可以进行对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "哼，如果小看我们魔法师，可是会遭殃的哦！<br>……什么？你。没什么事的话就走开。别在这儿碍我的眼。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "嗯……糟糕，大事不好了。<br>王国的命运已经危在旦夕……真让人担心。",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "朕，朕……不是谁想见就能见的。朕现在很忙，退，退下吧……<br>……不过，你还会再来的吧……？",
+      "answer": ""
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "我听说你的事迹了。你立下了汗马功劳。<br>我应该给你相应的奖赏，不过，现在时局紧张，我只能将奖赏推后了。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "乘坐飞艇出发，既方便又舒服。对不对？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你没事吧，埃提亚？你看起来很累。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐，你说你必须去趟王城？ 如果我跟着你，可能会有些累，我要先去找到能坐的地方……还是先找找神圣天堂有没有安静的地方吧。",
+      "answer": ""
+    },
+    {
+      "npc": "飞艇工程师休伯特",
+      "question": "很好。一切准备就绪！我会采取措施，让飞艇尽快能飞起来，你去找那边的售票员阿南娜小姐办理登机手续吧。<br><br><FONT color=#7e12d2>※ 不能在组队状态下进行。</FONT>",
+      "answer": "",
+      "image": "qn_npc_woman_tiketer_arnene.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "到达<FONT color=#a94407>神圣天堂</FONT>了。这里跟以前一样，还是有那么多没被利用的空间啊。哼……人类为什么喜欢住得这么拥挤啊？",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也不清楚。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "你真是个没头脑的家伙。<br>总之，我先走了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>您要去哪儿？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我当然是去找杰兰特啦。还能去哪里？我有很多事情要告诉那家伙。<br>那……你去忙你的吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>忙我的？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "是啊。那个人不是正在用火热的目光注视着你吗？他会告诉你接下来要做什么的。<br><FONT color=#7e12d2>（阿尔杰塔指向精锐士兵克林德）</FONT>",
+      "image": "qn_npc_elite_soilder.png"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "<FONT color=#387206>{user_nick}</FONT> ，那边那位美丽的女子是和你一起的吧？看来你想和她道个别，那你就先过去吧。<br><FONT color=#7e12d2>（克林德望着阿尔杰塔）</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "我之前和你说过，现在我们必须去向<FONT color=#a82424>卡西乌斯国王陛下</FONT>报告了。你应该没忘吧？",
+      "answer": "",
+      "image": "qn_npc_king_casius.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯。不过，我能先帮埃提亚找个休息的地方，然后再去王城吗？</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "好的，我要先去<FONT color=#a82424>王城</FONT>。办理在这里停留的手续需要耗费些时间，你慢慢逛吧，然后再来王城。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "哇~ 姐姐！这里真的好大啊。<br>我们家也曾经住在这里吗？姐姐，你能相信吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这个么……这里好像太复杂了。<br>还是我们的领地更好吧，房子前有训练场，还有高山和原野。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "当然是我们的领地最好啦~<br>如果在这村子里转转，就会累得双腿发软了吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>早知道应该听乳娘的话，准备个轮椅。<br>你要不要先坐在这里？我得去王城了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "嗯，好的。我在这里等你，姐姐！",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "那我先去<FONT color=#a82424>王城</FONT>办理手续，好让各位能谒见国王。一切准备好之后，你们就到王城来吧。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "那你去王城找<FONT color=#a82424>克林德</FONT>吧。<br>如果在那里能了解龙之追随者的消息就好了……不过，这应该有些困难吧？",
+      "answer": "",
+      "image": "qn_npc_elite_soilder.png"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "你来啦。我刚刚报告完毕。我已经向陛下说了关于<FONT color=#387206>{user_nick}</FONT>你的事情，现在请亲自向<FONT color=#a82424>国王陛下</FONT>报告吧。",
+      "answer": "",
+      "image": "qn_npc_king_casius.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我……我自己？向国王陛下报告？？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "是的。有关<FONT color=#a94407>凯德拉关卡</FONT>的情况我已经向陛下说明了。不过，关于<FONT color=#a94407>先知</FONT>的下落……因为不是我亲眼所见，所以希望你说明一下确切的情况。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "在黑骑士的袭击下，很多同伴受了伤，而且还丢失了<FONT color=#a94407>先知</FONT>，我真的很惭愧。多亏了<FONT color=#387206>{user_nick}</FONT>你的努力，我们才能得知先知的下落，国王陛下也一定会很高兴的。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你看上去……并不怎么高兴。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "怎么可能。现在已经报告完了，一切都会顺利的。<br>国王陛下一定会想办法解决的。<br><FONT color=#7e12d2>（请和主教伊格纳西奥对话）</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐在王城的事情还没有处理好吗？<br>这里又没有熟人，我讨厌单独待着……快点结束报告，然后回来吧，姐姐。",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "我一定要拆穿那个狡猾主教的鬼把戏。<br>哼，派去一大批神殿骑士团竟然会一无所获，谁会相信？<br>如果只把我卡拉安看作一个区区魔法师就大错特错了。",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>比起这个，如果不快点找到先知……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "你还在这里啊？<br>等等，仔细一看，你真的非常…可爱啊…嗯嗯！话说，你这样的孩子居然在四处寻找先知？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我怎么了？为了正义，谁都会这么做啊。<br>（不知为何，心情有些差）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "哈哈，你说的话也好可爱啊。但是现实并非如此。<br>先知<FONT color=#a94407>将军</FONT>、<FONT color=#a94407>公爵</FONT>还有<FONT color=#a94407>主教</FONT>都按兵不动，我们没理由先出头。<br><FONT color=#7e12d2>（卡拉安温和地笑着，但与她说话的语气好像有些不符）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "嗯……得赶紧去追黑骑士才行，但又不能抽调王城守备兵力……而且宫廷魔法师或神殿骑士团也不想动身。",
+      "answer": ""
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "因为那个愚蠢的乡下贵族女孩，我都伤透了脑筋，这真是……麻烦啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是因为我吧？我来这里是为了帮忙……<br>还有……我们家族！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "由于国王为人懦弱，不论是宫廷魔法师还是主教都担心自身的安危而畏首畏尾。<br>上一任国王我的兄长在位时，也没有出现这种局面……<br><FONT color=#7e12d2>（公爵斯图尔特轻蔑地说道）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "总之，只凭你一人之言，现在很难做出什么决断。<br>很抱歉，没能帮上你。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你真是帮了大忙。<br>要不是你的话，我们可能永远都无法知道先知的下落。<br>此外，你在<FONT color=#a94407>凯德拉关卡</FONT>也做出了巨大贡献，真是了不起。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>比起这个，如果不快点找到先知……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "没错。我们必须找到<FONT color=#a94407>先知</FONT>。<br>不过，在此之前，你为什么要寻找先知？尤斯提亚家族的人好像没理由要寻找先知啊？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！你知道我们家族啊。我的父亲这么有名吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "伊格纳西奥",
+      "question": "在神圣天堂，应该没有人不知道尤斯提亚家族吧？<br>你们家族中流传下来的枪术，还有正直的人品都为世人称赞。",
+      "answer": ""
+    },
+    {
+      "npc": "伊格纳西奥",
+      "question": "但是， 正当尤斯提亚家族的声望足以与公爵斯图尔特媲美时，尤斯提亚家族却突然离开了，你没听传闻吗？<br>嗯……我只是好奇你这样的少女为什么要参与这件事……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嘿嘿，果然！父亲真是了不起~<br>主教，神圣天堂的大小人物你都记得很清楚啊。你也很了不起。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "那都是女神的祝福……如果你不愿意回答我的问题，那就算了吧。<br>不过你能告诉我，带走先知的确实是传闻中的黑骑士吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？你问的什么？？我太兴奋了，所以… 很抱歉。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "……<FONT color=#7e12d2>（伊格纳西奥深呼了一口气）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我亲眼看到的，黑骑士带走了少女！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "嗯……竟然损毁了王国军队的飞艇，还劫持了先知…… 真是个危险人物。能否从那样一个人的手里顺利救出<FONT color=#a94407>先知</FONT>，我真的很担心……",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "我们必须马上去寻找<FONT color=#a94407>先知</FONT>，只是现在没有可以调动的兵力，这该如何是好啊。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这可怎么办？寻找先知对这里的人来说不重要吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精锐士兵克林德",
+      "question": "这怎么可能。我已经向国王陛下报告了，一切都会好的。<br>国王陛下应该会处理这些事情的。<br><FONT color=#7e12d2>（请和主教伊格纳西奥对话）</FONT>",
+      "answer": ""
+    }
+  ]
+}

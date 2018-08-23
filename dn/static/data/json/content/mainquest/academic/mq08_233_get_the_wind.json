@@ -1,0 +1,146 @@
+{
+  "qkname": "宿命之风来袭",
+  "data": [
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "在这阴郁的风之间，我听到了宿命召唤的声音。<br>你没有听到吗？",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "真是辛苦你了。<br>\n不过，我想再拜托你一件事，可以吗？小姑娘。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我不是小孩子！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "我想拜托你的事情与<FONT color=#a82424>弓箭手特里亚纳</FONT>有关。<br>这件事情拜托<FONT color=#a82424>战士西恩</FONT>去处理或许更快，但他已经受托去处理其他事情了。",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "<FONT color=#a82424>佩奥里斯塔魔法研究所</FONT>那里生活着蜘蛛的首领<FONT color=#a82424>女王蜘蛛拉兰</FONT>。<br>最近，女王蜘蛛拉兰的行迹非常可疑，它好像也听命于<FONT color=#a82424>埃雷娜</FONT>。",
+      "answer": "",
+      "image": "qm_queen_spider.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "通过对事态进行观察，我们发现<FONT color=#a82424>埃雷娜</FONT>似乎是想搜集毒液污染凯德拉关卡。",
+      "answer": "",
+      "image": "qm_ellena.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>（啊……她最终……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "为了阻止这件事，我派<FONT color=#a82424>弓箭手特里亚纳</FONT>去消灭拉兰，但特里亚纳至今音讯全无。<br>小姑娘，你能不能去确认下特里亚纳的情况？",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>明白。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "通过耳边拂过的清风，我似乎听到了宿命的召唤。<br>你没有听到吗？",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "ionRefusal}<br>你真是可靠。很抱歉，你还如此年幼，我就时常交给你一些困难的任务。<br>你到<FONT color=#a82424>佩奥里斯塔魔法研究所</FONT>，帮我确认下<FONT color=#a82424>弓箭手特里亚纳</FONT>的安危吧。",
+      "answer": "",
+      "image": "qw_21.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "在完成任务前，我不能离开。<br>我的任务是消灭{monster510}。",
+      "answer": "",
+      "image": "qm_queen_spider.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "啊，是<FONT color=#387206>{user_nick}</FONT>啊。<br>你怎么会来到这里？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我来看看你是否平安。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "嗯，你也看到了，我平安无事。<br><FONT color=#7e12d2>（特里亚纳歪着脑袋，好像很诧异）<br></FONT>只要再给我点时间，我就能完成任务，顺利返回了。<br>为什么要这么担心呢？",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>因为这里很危险。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "嗯……西恩也是那样，人类全都这么多虑吗？<br>精灵没有那么容易死。只要<FONT color=#a82424>特雷西亚</FONT>指引的路没到尽头……<br>所以，请放宽心吧。<br><FONT color=#7e12d2>（特里亚纳微笑着）</FONT>",
+      "answer": "",
+      "image": "qn_npc_triana.png"
+    },
+    {
+      "npc": "弓箭手特里亚纳",
+      "question": "看来在其他冒险家公会成员到来之前，我们得快点离开了。<br>那，我现在就回去找<FONT color=#a82424>冒险家公会会长戴卡德</FONT>。",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "特里亚纳刚刚报告完之后就离开了。<br>嗯？不过，那是什么啊……？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我见到了埃雷娜的命令书。命令书中记录了很多情报呢。</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "这是……嘿嘿。原来<FONT color=#a82424>佩奥里斯塔魔法研究所</FONT>就是毒蜘蛛的据点？<br>嗯……那里的情况怎么样？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>那里充满了污染物质。但污染物质好像正向某处转移。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "那些东西原来是污染物质啊。污染物质正被转移，说明她还有其他的计划。<br>嗯，事态严重，将这件事交给小姑娘你好像太为难你了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n我没关系的。",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "我要动员冒险家公会的成员，向其他的冒险家寻求帮助。<br><FONT color=#7e12d2>（戴卡德没有听你说话）<br></FONT>小姑娘，你的实力也非常惊人，希望你能继续帮忙。",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

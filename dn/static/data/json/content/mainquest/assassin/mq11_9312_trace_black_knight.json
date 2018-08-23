@@ -1,0 +1,193 @@
+{
+  "qkname": "黑骑士的行踪",
+  "data": [
+    {
+      "npc": "将军道格拉斯",
+      "question": "嗯～听说好不容易救出来的先知还在沉睡。<br>到底是什么问题？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "……啊，是你啊？<br>这次的事情，真是辛苦你了。",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "多亏了主教伊格纳西奥的努力和冒险家们的协助，这次突然出兵才能达到预期的目的。干得好。<br><FONT color=#7e12d2>(道格拉斯拍了拍我的肩膀)</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(主教伊格纳西奥肯定是使徒……从埃雷娜的例子来看，使徒好像对人类并不怎么友好。从将军口中听到称赞他的话，感觉很别扭。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>找到黑龙的痕迹了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "嗯？黑龙？我收到报告，说黑龙在和金龙的战斗中受了重伤，掉了下去……<br>\n但是在黑暗大君主领地中没能找到他。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "但是由于黑龙在黑暗大君主领地上空坠落的时候流出了很多血，黑山山角的污染重新变得严重起来。现在我们没有精力去处理那边的事情，真让人头疼。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "是阴森的丛林路那边。黑暗大君主的关卡位于高出，位于山下的<FONT color=#a82424>阴森的丛林路</FONT>不可避免地会受到影响。因为地理方面的原因，这也是没办法的事。",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "啊，对了，之前有个冒险家问了和你一样的问题。<br>亲眼看到了黑龙的可怕，必然会让人担心。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>其他冒险家……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "战士西恩",
+      "question": "不好意思，<FONT color=#387206>{user_nick}</FONT> 。<br>\n我要先失陪了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(要和将军道格拉斯打个招呼，然后到其他地方去吗？)</FONT>",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "报告已经收到，善良的百姓<FONT color=#387206>{user_nick}</FONT>。<br>你一冒险家的身份，为朕，为王国尽忠职守，精神可嘉。",
+      "answer": ""
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "此外，其，其他冒险家……奉，奉主教之命，好像正在……努力地……做什么事。<br>这次的战，战争给王国的兵力造成了很大的打击，将军在终日操劳，朕很担心……",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "叔父正在忙着处理王城内的事务，将军正忙着安抚士兵。其，其他的事情，主教……<br>\n主教能主动承担，实，实在是万幸。真是位身先士卒的好，好大臣。是吧……？",
+      "answer": "",
+      "image": "qn_npc_duke_stwart.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "古代人的后裔由我来守护，你还是去忙你的事情吧。",
+      "answer": ""
+    },
+    {
+      "npc": "陌生的学者",
+      "question": "嗯？……是个陌生人。<br>嗯……？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我讨厌人多的地方……",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "<FONT color=#a82424>那个小冒险家</FONT>，呵呵。<br>说要去<FONT color=#a82424>黑山山角</FONT>附近看看，刚才一溜烟地出去了。",
+      "answer": "",
+      "image": "qw_skirtofblackmountain.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(真让人担心，要到黑山山角去看看吗……？</FONT><br>\n<FONT color=#662500>反正要去向露娜莉娅报告。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n其他冒险家？<br>\n嗯……你是说那边的小女孩吗？",
+      "answer": "",
+      "image": "qn_npc_academic_commelina.png"
+    },
+    {
+      "npc": "陌生的学者",
+      "question": "啊……！<br>你，你……是谁？",
+      "answer": ""
+    },
+    {
+      "npc": "陌生的学者",
+      "question": "嗯？你和其他冒险家一起参加了这次的黑龙之战？<br>哦哦……？！我，我好像没看见那种记录啊……？<br><FONT color=#7e12d2>(少女有点慌张)</FONT>",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(怎么感觉好像在哪里见过呢？嗯……</FONT><br>\n<FONT color=#662500>这不是……在凯德拉关卡告诉我有关纯白之球的情报的那个孩子吗？)</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_normal.png"
+    },
+    {
+      "npc": "陌生的学者",
+      "question": "嗯？纯白之球？……我吗？<br><FONT color=#7e12d2>(少女歪了歪脑袋)</FONT><br>我完全不记得了。哦哦～到底是怎么回事啊……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(怎么回事？<br>难道这也是穿越时间造成的问题？搞不明白。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我好像在黑龙之战的时候没看见你。<br>你的名字是……？</FONT><br>\n",
+      "answer": ""
+    },
+    {
+      "npc": "陌生的学者",
+      "question": "我是学者<FONT color=#a82424>柯梅里纳</FONT>。<br>你是……啊，是<FONT color=#387206>{user_nick}</FONT>啊。很高兴见到你。<br><FONT color=#7e12d2>(柯梅里纳毕恭毕敬地跟我打招呼)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "嗯……？<br>\n数据中没有这个人的记录啊……嘀咕嘀咕……奇怪……<br><FONT color=#7e12d2>(柯梅里纳歪了歪脑袋)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "你在这里干什么呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>其实我正在寻找黑龙的行踪。<br>我想确认一下他是不是完全消失了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "原来如此。<br><FONT color=#7e12d2>(柯梅里纳略带警惕地看了我一眼)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>听说阴森的丛林路那边的污染变严重了。我想在那里也许可以找到什么线索。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "嗯？……啊！！<br>是，是的。枯竭的玛丽莎泉或那里附近的话……！",
+      "answer": ""
+    }
+  ]
+}

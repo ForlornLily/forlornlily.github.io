@@ -1,0 +1,218 @@
+{
+  "qkname": "英雄的安息",
+  "data": [
+    {
+      "npc": "西戴尔",
+      "question": "<FONT color=#a82424>你说净化巴尔纳</FONT>失败了？<br>尽管我也觉得不会这么简单…该怎么办才好呢？",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "首先还是了解下<FONT color=#a82424>特拉玛依</FONT>还有什么其他的想法为好。",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我希望能净化巴尔纳……看来没那么容易啊。<br><FONT color=#7e12d2>(特拉玛依沉痛地叹了口气)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "</FONT><FONT color=#662500>到底是怎么回事？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "巴尔纳50年前曾在同<FONT color=#a82424>黑龙卡拉斯</FONT>战斗的最前线战斗。<br>作为队伍后方支援的我尽管没有事，但是内尔文、卡拉秋还有巴尔纳却全都被黑龙的血污染了。",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "内尔文回到了精灵的故乡阿努阿兰德，卡拉秋在莲花沼泽修养，寻找治疗的方法。 <FONT color=#a82424>巴尔纳</FONT>则去了 <FONT color=#a82424>泰努玛拉</FONT>。<br>他也在寻找着治疗的方法。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "但是不幸的是，他在那里离开了人世。<br>听说他的健康情况不好之后，我急忙赶往<FONT color=#a82424>泰努玛拉</FONT>，但是已经无力回天了，只能眼睁睁地看着他回到了阿尔泰亚女神的世界……<br><FONT color=#7e12d2>(特拉玛依摸着女神的纹章说道)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我收拾了他的遗体，为他举办了葬礼后就留在那里。<br>大家都非常的痛苦，我却独自一人占着教皇的位置还厚脸皮的活着，真的好难过…。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "然后有一天，我发现了被龙之追随者包围，正在请求帮助的<FONT color=#a82424>少女</FONT>。<br>把她救下时，她的身心已经非常的虚弱了。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "等到她恢复神智之后，说的第一句话就有关泰努玛拉的龙之追随者的事情。<br>她的话很快就被证明是真的，那是预言，我也因此得知她就是<FONT color=#a82424>先知</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "这真的是女神的祝福……<br>先知的预言全都说中了，我利用她的力量，致力于铲除邪恶的异教徒。但是……",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "不久前，先知做出了新的预言……<br>那是有关<FONT color=#a82424>巴尔纳</FONT>的预言。说他会因为邪恶的力量而重新苏醒……这是个很难让人相信的预言。",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "可悲的是，预言又成为了现实。<br>巴尔纳的坟墓被挖开，先知说他已经到了莲花沼泽。所以不宜迟疑，马上前往<FONT color=#a82424>莲花沼泽</FONT>吧。",
+      "answer": "",
+      "image": "qw_lotusmarshtown.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "虽然不知道到底是谁，为了什么原因而利用<FONT color=#a82424>巴尔纳</FONT>……<br>但是我不能把在黄泉中徘徊的朋友丢下不管。<br>必须尽快让他安息才行。",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "他是为了拯救世界而独自死去的……不能让他继续承受牺牲。我们必须……拯救他。<br>还好<FONT color=#a82424>先知</FONT>在我们身边，相信女神的恩宠会跟随着我们。<br><FONT color=#7e12d2>(去和萝丝谈谈吧)</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "……对不起。我的力量不够，没能帮上什么忙。真对不起。<br><FONT color=#a82424>特拉玛依</FONT>该有多伤心啊……",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "好了，快到<FONT color=#a82424>卡拉秋的草屋</FONT>去吧。",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "一定要帮助巴尔纳获得安息啊。不管<br><FONT color=#a82424>先知</FONT>听不听得到女神的话，都请试一试吧。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "本应该安息的故人竟然被用在这种邪恶的事情上……真是让人悲痛。当事人巴尔纳和特拉玛依该有多么痛苦啊……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>龙之追随者为什么要利用巴尔纳呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "这个……我也不知道。对不起。我的能力不够……<br><FONT color=#7e12d2>(萝丝惭愧地低下了头)</FONT><br>但是，我好像可以知道巴尔纳现在在追踪什么。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他在追踪什么呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "黑骑士……<br><FONT color=#a82424>贝思柯德</FONT>，那个人……",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "……事实上，一提起那个人的名字，我就害怕……<br><FONT color=#7e12d2>(萝丝紧咬着嘴唇)<br></FONT>不过这是事实。<br>我的梦是这样告诉我的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他们为什么要追踪贝思柯德呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……是使徒们的主人干的吗？<br>但是为什么现在才……？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "那个……我也不太清楚。<br>我只是在做梦罢了……<br>在梦中我看见巴尔纳正在追赶黑骑士，所以才会这么说。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "尽管不确定，但我听说他以<FONT color=#a82424>竞技场的骑士</FONT>之名，以使徒的身份正在活动。龙之追随者们向来以对叛徒的冷酷而出名，说不定现在正在为消灭叛徒或将贝思柯德拥有的力量重新夺回来而活动着。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "总之，要想净化巴尔纳，光靠刚才那种方法好像不行。<br>最好能用更强的力量压制住他……",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "需要可以切断包围着巴尔纳的邪恶力量的媒介，或者能够超越那种力量的强大力量。比如说，<FONT color=#a82424>龙的力量</FONT>……",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "龙的力量……<br><FONT color=#7e12d2>(特拉玛依好像突然想起了什么)</FONT><br><FONT color=#387206>{user_nick}</FONT>，我听说过一件事。我在来的路上遇到了其他冒险家。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "听说杰兰特的剑在贝思柯德手上。<br><FONT color=#7e12d2>(特拉玛依皱了皱眉头)</FONT>",
+      "answer": "",
+      "image": "qp_geraint_sword.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "我想那把剑应该可以压制住巴尔纳，让他安息。<br>不过好像有点难办。<br>要想把剑拿回来，必须先找到贝思柯德的行踪。",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "我也觉得这个办法比较好。虽然不知道巴尔纳为什么要追踪贝思柯德，但是也许可以在他身上找到什么线索。<br>而且，杰兰特的剑应该可以压制住巴尔纳身上的邪恶力量。",
+      "answer": "",
+      "image": "qp_geraint_sword.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "结论好像出来了。<br>刚好<FONT color=#a82424>贝思柯德</FONT>在莲花沼泽，应该去调查一下。<br>趁现在我们有先知的预言，不能错过这个时机……",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "好的，我会重新祈祷女神现身。<br>那样的话，看到的就不再是迷雾中的景象，而可以看到镜子一样鲜明的未来了。<br>……虽然我的力量不够，但我会尽我的全力。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "萝丝",
+      "question": "我要在草屋附近祈祷，祈求女神赐给我新的启示。<br>……希望我们能拯救那个可怜的人。<br><FONT color=#7e12d2>(萝丝一脸悲伤地望着远方)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "箩丝",
+      "question": "<FONT color=#387206>{user_nick}</FONT>大人请去见西戴尔大人吧。他似乎找到了关于绿龙的线索。",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "npc": "萝丝",
+      "question": "对不起….<br><FONT color=#2b2723>我还不能说….</FONT><br>\n※ <FONT color=#7e12d2>达到50级之后可继续进行任务。</FONT>",
+      "answer": ""
+    }
+  ]
+}

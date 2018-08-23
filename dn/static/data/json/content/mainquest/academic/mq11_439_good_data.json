@@ -1,0 +1,99 @@
+{
+  "qkname": "这是数据的胜利",
+  "data": [
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "嗯，如果理论是正确的话，制作纹章是我的特长。"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_02.ogg}<br>如果想见到贝思柯德，必须进入巢穴，因此需要古代祭司长的符文。<br>我刚刚给你的材料你记下来了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（试着记忆制造方法）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "想必看到材料你也明白了，如果想制造古代祭司长的符文，首先要搜集<FONT color=#a82424>符文碎片</FONT>。然后用符文碎片制作出完整的符文，并找到可以将力量注入其中的核心，将两者合二为一。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>符文碎片？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "根据记录，<FONT color=#a82424>枯竭的玛丽莎泉</FONT>那里还遗留着破碎的符文。<br>虽然在我们的年代，那里已经没有任何可利用的资源，但在我们父母的年代肯定还有的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我去那里找找看。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_07.ogg}<br>你集齐了符文碎片之后，就去找<FONT color=#a82424>纹章学者斯塔西</FONT>吧。<br>只有拥有我刚刚传送给你的符文合成法，他肯定就制作出符文的。",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "嗯，如果理论是正确的话，制作纹章是我的特长。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_0.ogg}<br>只要仔细查看<FONT color=#a82424>枯竭的玛丽莎泉</FONT>附近，肯定能找到符文。<br>虽然那只是符文碎片，但可以用符文碎片来制作完整的符文，因此你要睁大你的眼睛仔细寻找哦。",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br><FONT color=#7e12d2>▷ 请将符文碎片看交给纹章学者斯塔西。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "嗯？是个陌生的小女孩啊。虽然最近世道险恶，但这么小的孩子就做了冒险家？<br>这真是……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我想拜托你一件事。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "哦吼，这纹章是…… <FONT color=#7e12d2>（看到数据的斯塔西表情变得很认真）</FONT> ……50年前的龙之突袭时，我也出了一把力。这纹章不是我当时见过的古代祭司长的符文吗？<br>你怎么会有这东西……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>黑龙复活了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "那，那是真的吗？！这种恐怖的事情怎么又……！！<FONT color=#7e12d2>（斯塔西叹息着）<br></FONT>嗯，虽然我不知道详细情况，但这么小的姑娘要去作战，我没有理由不帮忙！",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "我会参照你给我看的数据，试着制作<FONT color=#a82424>古代祭司长的符文</FONT>。<br>你把符文碎片给我吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>谢谢。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "qkname": "某个影子",
+  "data": [
+    {
+      "npc": "高级战士佩德罗",
+      "question": "你在<FONT color=#a82424>女王庭院</FONT>见到的人，好像不是兰伯特。<br>虽然我也只是听我父亲说过，没见过他的样子……不过好像应该不是他。<br><FONT color=#7e12d2>(佩德罗歪了歪脑袋)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "看来只能我亲自跑一趟了。我们一起到女王庭院去看看。<br>我佩德罗一眼就能认出那个神秘的剑客到底是不是兰伯特。",
+      "answer": "",
+      "image": "qw_68.png"
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "那…那位难道是…？",
+      "answer": ""
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "那…那位难道是…？",
+      "answer": ""
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "那个人……<br>是<FONT color=#a82424>战士巴尔纳</FONT>！",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>巴尔纳……？<br>六位英雄中的那个巴尔纳？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "没错！<br>虽然没有亲眼见过，但和父亲描述的样子非常相似！ 我敢肯定！<br>哇……传说中的英雄 <FONT color=#a82424>巴尔纳</FONT>竟然会在莲花沼泽！！",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "那个方向……好像是<FONT color=#a82424>盲目溪谷</FONT>。<br>\n好了，我们先回到村里去吧。<br>回去的路上，我要冷静一下，再好好想想。",
+      "image": "qw_67.png"
+    },
+    {
+      "npc": "高级战士佩德罗",
+      "question": "回来的路上，我一直在想<FONT color=#a82424>巴尔纳</FONT>为什么会出现在莲花沼泽。<br>因为他和卡拉秋关系很好。<br>会不会是听说卡拉秋去世的消息之后，特地过来吊唁的呢？",
+      "answer": "",
+      "image": "qn_warrior_barnak_silhouette.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>(吊唁……)</FONT>",
+      "answer": ""
+    }
+  ]
+}

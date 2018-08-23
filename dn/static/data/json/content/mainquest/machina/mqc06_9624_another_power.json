@@ -1,0 +1,237 @@
+{
+  "qkname": "另一股力量",
+  "data": [
+    {
+      "npc": "小龙",
+      "question": "你最近怎么一直在忙卡拉秋和西戴尔的事？<br>师父我呢，这段时间为了见到莫林遇到过的魔法师，可以说是想尽了一切办法。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个魔法师……我已经见到了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "我正在完成和完美的我相匹配的完美药剂配方，你只要去把美丽的丛林水芹搜集回来就好了，哈哈哈",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>(…….)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "卡拉翰真是太伟大了！",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "这不是你该来的地方，走开。",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "真的吗？那真是太好了！那现在我可以前往实验室，把我的独臂拳法教给村庄里的人了吧！<br>啊，如果有人是腿受了伤，或者不是右臂而是左臂装了假肢，就没办法学习拳法了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>蓝塔娜很谨慎，现在还不能带我前往实验室。</FONT>",
+      "answer": "",
+      "image": "qn_npc_lantana.png"
+    },
+    {
+      "npc": "小龙",
+      "question": "ndnpc_Shaolung_9624_qu_01.ogg}<br>那是什么狗屁话？不得知道实验室在哪，才能帮到你们村庄的人吗？<br>为什么不能带去呢，这不是很奇怪吗。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>她应该自有她的道理吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "ndnpc_Shaolung_9624_qu_02.ogg}<br>师父我总感觉有些不妙，他们隐藏的事太多了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你是在怀疑我的恩人吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "怎么会呢！我只是担心而已。<br>师父我经过长时间的思考发现了一个规律…….",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "那就是<FONT color=#387206>{user_nick}</FONT>你觉得可以信任的人到最后都<FONT color=#a82424>背叛</FONT>了我们！<br>我刚刚说的话只是出于担心而已。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>也不是都这样啊！杰兰特为了我甚至连性命都舍弃了呢！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "哇咔咔咔咔咔咔咔，是吗？<br>对了，你最近都在忙什么呢？是卡拉秋让你帮她做什么吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是卡拉秋，是卡拉翰让我帮忙。<br>（讲述关于卡拉翰的事）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "小龙",
+      "question": "嗯，察提那么固执己见，也没有别的办法。先治好病要紧，那你就去把搜集到的材料交给<FONT color=#a82424>卡拉翰</FONT>吧。",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "你把丛林水芹搜集回来啦。我都知道，你在搜集丛林水芹的时候并没有时时想着我的样子。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "经过我的仔细思考，已经想出剩下的两种材料是黑灰蘑菇和腐败的沼泽苔藓。如果都让你去搜集，恐怕需要的时间太长，所以我已经把腐败的沼泽苔藓搜集回来了。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "哈哈哈，也是为了减轻你的负担嘛。你现在只要去把剩下的药材<FONT color=#a82424>黑灰蘑菇</FONT>搜集回来就行了。<br>可以在<FONT color=#a82424>古代武器库的东边</FONT>找到。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（哎呀？那不是和蓝塔娜正在搜集的东西一样吗）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "<FONT color=#a82424>腐败的沼泽苔藓</FONT>、<FONT color=#a82424>丛林水芹</FONT>还有<FONT color=#a82424>黑灰蘑菇</FONT>，只要用这三种药材制成的药物中和毒性就可以了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>请你当着我的面制药。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "你把材料给我，我在3秒内就可以制好。你前往<FONT color=#a82424>古代武器库的东边</FONT>把<FONT color=#a82424>黑灰蘑菇</FONT>搜集回来吧。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "休利亚",
+      "question": "把笔记交出来！",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师蓝塔娜",
+      "question": "ndnpc_Lantana_9624_qu_01.ogg}<br>嘎啊啊啊，<FONT color=#387206>{user_nick}</FONT>快救救我。那个人不管三七二十一，见到我就开始攻击。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>休利亚？你怎么会在这里？！？你不要攻击蓝塔娜！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "蓝塔娜？你是在叫这个女人？她可是你的仇人！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么仇人！她是救过我和我同伴的恩人。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "ndnpc_Suriya_9624_qu_01.ogg}<br>你怎么还说这种话？那人不是想要救你，而是要把你和你们村的人卖给红色商团赚钱！",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "她根本就没想过要救你们，只是把你们当做实验的工具而已。她的笔记上记录了一切。快把笔记交出来。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师蓝塔娜",
+      "question": "ndnpc_Lantana_9624_qu_02.ogg}<br>这笔记……这笔记绝对不行。如果丢失了，教授一定会发火的。<br><FONT color=#7e12d2>（蓝塔娜避开了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "站住！<br><FONT color=#7e12d2>（休利亚去追蓝塔娜了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（怎么回事？休利亚知道蓝塔娜在这里，所以找来的？？虽然他在神圣天堂时就说要去寻找实验室……但能找到这儿来，实在有些奇怪！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（莫非是师父……？！？不，师父不是那样的人。也有可能是他不小心告诉了铁匠或者其他人。他要是知道了休利亚的事，可能会感到抱歉，反而会把事情闹大，所以还是先不要告诉他了。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（把黑灰蘑菇交给卡拉翰先治好察提再说吧。如果那人真的有实力，也可以缠着他问出治好自己的方法）</FONT>",
+      "answer": "",
+      "image": "qn_npc_karahan.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "你把材料都搜集回来了啊。<br>你把材料给我，我会在3秒内把药制好的。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "大概需要1.5秒左右的时间。哈哈……<br>来，现在你就去把这个治疗剂交给原住民吧，<FONT color=#a82424>察提</FONT>应该知道原住民在哪儿。",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "卡拉翰",
+      "question": "别担心，我一定会找出治好你的方法，哈哈哈。",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "ionTalk2}<br>卡拉翰真是了不起！<br>一眨眼的工夫，他就把药做好了～<br>但是……我能拜托你一件事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>要我帮什么忙？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "我会将药拿给我们族人的。麻烦你去帮我看看<FONT color=#a82424>西戴尔</FONT>吧，他好像因为我很伤心的样子……",
+      "answer": "",
+      "image": "qn_npc_sidel.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。既然你都这么拜托我了，我就只能去了。</FONT>",
+      "answer": ""
+    }
+  ]
+}

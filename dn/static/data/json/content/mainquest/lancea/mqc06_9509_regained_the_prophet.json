@@ -1,0 +1,74 @@
+{
+  "qkname": "寻回的先知",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "啊，姐姐！你又跟凯伊哥哥他们走散了啊！ <br>不过，凯伊哥哥跟我说，让你前往<FONT color=#a82424>利物沃特村庄废墟</FONT>。<br>你快去那边看看吧！",
+      "answer": "",
+      "image": "qw_51.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "到<FONT color=#a82424>利物沃特村庄废墟</FONT>再碰头吧。",
+      "answer": "",
+      "image": "qw_51.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "是<FONT color=#a82424>利物沃特村庄废墟</FONT>哦。姐姐加油！",
+      "answer": "",
+      "image": "qw_51.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你来啦。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "你快去<FONT color=#a82424>伊格纳西奥</FONT>所在的地方吧。",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "ndnpc_Kaye_9509_qu_01.ogg}<br>那边<FONT color=#a82424>伊格纳西奥</FONT>好像已经开始仪式了！我们得赶紧行动！",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "必须尽快阻止仪式的进行！",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "<FONT color=#a82424>先知</FONT>好像昏过去了……最好将其送到安全的地方。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>把她送到莲花沼泽吧！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "那里人太多，不行。<br>特拉玛依不是说过，不能让别人知道他在帮助我们嘛。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "没错，所以最好选一个很少有人会去的地方……嗯，要不把先知送往<FONT color=#a82424>古代武器库的东边</FONT>吧。",
+      "answer": "",
+      "image": "qw_55.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "大家一起行动的话，太显眼了。先知就由我们送过去吧。<br>我们在<FONT color=#a82424>古代武器库的东边</FONT>重新碰头吧，<FONT color=#387206>{user_nick}</FONT>。",
+      "answer": "",
+      "image": "qw_55.png"
+    }
+  ]
+}

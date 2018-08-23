@@ -1,0 +1,229 @@
+{
+  "qkname": "守护者杰兰特",
+  "data": [
+    {
+      "npc": "杰兰特",
+      "question": "向你<FONT color=#a82424>下达命令的人</FONT>怎么说的？<br>告诉我他说的话。",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（看到了原本不可能在这里见到的人）</FONT>"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "嗯？有未知怪物出现？所以呢？它也许就是刚巧路过神圣天堂吧。反正不是我召唤来的，跟我没关系。"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "这种时候，朕……朕到底该怎么办才好？<br>\n呜呜呜呜……怎么总发生一些这类的事情？呜呜。"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "亲爱的<FONT color=#382000> </FONT><FONT color=#387206>{user_class}</FONT>……听说出现了新的怪物，请你与将军一起好好守护神圣天堂。"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "怪物对我军造成了很大的损失。许多忠诚的士兵都不得不集中精力来恢复元气。<br>\n作为国王的朋友，请你也为这个国家尽一份力量吧。"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "那怪物居然就是<FONT color=#a82424>萨芬特拉</FONT>。真是件可怕的事。<br>\n那是50年前，被六大英雄消灭了的魔兽。",
+      "answer": "",
+      "image": "qm_sea_drake.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那么，尽快编制军队……</FONT>",
+      "answer": "",
+      "image": "qm_sea_drake.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "虽然已经派出了军队，但还是没能抵挡。为了对付<FONT color=#a82424>黑龙</FONT>，我们的兵力已经损失惨重，要想对抗<FONT color=#a82424>萨芬特拉</FONT>力量远远不够。",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "没办法，看来必须得向<FONT color=#a82424>他</FONT>寻求帮助了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他？指的是？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "除了<FONT color=#a82424>杰兰特</FONT>还能有谁。<br>虽然他有伤在身，但依然是现存最强的生命体。只凭借人类的力量是没有把握消灭<FONT color=#a82424>萨芬特拉</FONT>，不仅如此，我们甚至连将要受到多大的损失都无法估计。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>先……告诉杰兰特吧。</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "<FONT color=#a82424>杰兰特</FONT>是一定不会坐视不理的。<br>你快去吧！在神圣天堂惨遭怪物的毒手之前……",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "这种时候，朕……朕到底该怎么办才好？<br>\n呜呜呜呜……怎么总发生一些这类的事情？呜呜。",
+      "answer": ""
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "亲爱的<FONT color=#382000> </FONT><FONT color=#387206>{user_class}</FONT>……听说出现了新的怪物，请你与将军一起好好守护神圣天堂。",
+      "answer": ""
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "嗯？有未知怪物出现？所以呢？它也许就是刚巧路过神圣天堂吧。反正不是我召唤来的，跟我没关系。",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "忠诚的士兵们正在忙于恢复因怪物造成的损失。你作为王国的朋友就请竭尽全力吧。",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（看到了原本不可能在这里见到的人）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……我听到了有脚步声跑来。<br>看来果然是如我预想的那样发生了事故。<br>从附近感觉到的力量正在渐渐缩短着距离。<br>\n<FONT color=#7e12d2>（说明现在的情况）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "难以理解。<br>明明已经是不可能从沉睡中醒来的家伙，怎么可能再次出现呢？",
+      "answer": "",
+      "image": "qm_sea_drake.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "情况我已经了解了。<br>我会前往<FONT color=#a82424>船长达兰特的根据地</FONT>的。",
+      "answer": "",
+      "image": "qw_39.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我能帮上什么忙吗？</FONT>",
+      "answer": "",
+      "image": "qw_39.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我现在的<FONT color=#a82424>视力</FONT>让我难以发挥出全部的战斗实力。虽然可以别的感官作战，但以防万一，你就和我<FONT color=#a82424>同行</FONT>吧。",
+      "answer": "",
+      "image": "qw_39.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了！</FONT>",
+      "answer": "",
+      "image": "qw_39.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……怎么如此嘈杂。我听不清你的声音了。<br>希望周围能保持安静。<br><FONT color=#7e12d2>（组队状态下无法进行该任务）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我所感受到的力量的波动无疑就是萨芬特拉。<br>不管怎样，应该就是同一个家伙……",
+      "answer": "",
+      "image": "qm_sea_drake.png"
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你赶紧去让<FONT color=#a82424>杰兰特</FONT>帮帮神圣天堂！<br>他绝对是个会尽忠职守的人。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我不知道到底是出于什么原因才会让那个多年前就销声匿迹的萨芬特拉再次出现。<br>但现在得赶紧前往<FONT color=#a82424>船长达兰特的根据地</FONT>才行。",
+      "answer": "",
+      "image": "qw_39.png"
+    },
+    {
+      "npc": "国王卡西乌斯",
+      "question": "怎么会发生这种事……先知到底怎么样了……（自言自语）。伟大的骑士王卡西乌斯……我该如何是好呀？（自言自语）……<br><FONT color=#7e12d2>（需要前往王城地下秘密场所，确认萝丝的安危）</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "公爵斯图尔特",
+      "question": "真遗憾。到头来先知只不过是个无用的武器。<br><FONT color=#7e12d2>（需要前往王城地下秘密场所，确认萝丝的安危）</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "宫廷魔法师卡拉安",
+      "question": "哼。所以说不能相信那个狡猾阴险的老头，我卡拉安都说过多少次了？！真够瞧的~王城的家伙们。<br><FONT color=#7e12d2>（需要前往王城地下秘密场所，确认萝丝的安危）</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "没有侦察兵的报告吗？那个，刚刚命你做的事情怎么样了？！<br><FONT color=#7e12d2>（需要前往王城地下秘密场所，确认萝丝的安危）</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#a82424>杰兰特</FONT>。<br>已经如同死人一般。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎么……？你怎么……会在这里……？！</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "门开着我就进来了，有什么不可能的。<br>多亏了某个愚蠢的家伙，<FONT color=#a82424>巢穴</FONT>才能被打破……",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（杰兰特的巢穴……）</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "呵呵呵。这段时间做我的傀儡，谢谢你啦。愚蠢的家伙……<br><FONT color=#7e12d2>（虽然愤怒却无法抓住他）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "主教伊格纳西奥",
+      "question": "你赶紧去让<FONT color=#a82424>杰兰特</FONT>帮帮神圣天堂！<br>他绝对是个会尽忠职守的人。",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我不知道到底是出于什么原因才会让那个多年前就销声匿迹的萨芬特拉再次出现。<br>但现在得赶紧前往<FONT color=#a82424>船长达兰特的根据地</FONT>才行。",
+      "image": "qw_39.png"
+    }
+  ]
+}

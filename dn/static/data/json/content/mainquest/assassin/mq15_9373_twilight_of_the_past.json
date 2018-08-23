@@ -1,0 +1,192 @@
+{
+  "qkname": "过去的黄昏",
+  "data": [
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "快过来……<FONT color=#387206>{user_nick}</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>贝思柯德的状态怎么样？</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "唉……贝思柯德虽然度过了危险期，但还需要继续接受治疗。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "他失去了支撑身体的龙的宝玉，不知道会出现什么副作用。<br><FONT color=#7e12d2>(泰兰斯·特拉玛依摇了摇头)</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "呵呵……在纠缠交织的厄运面前，我已经是第二次落到这种下场了。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "……为什么会发生这种事！嗯……！<br><FONT color=#7e12d2>(特拉玛依忧心忡忡地叹了口气)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "他现在正在<FONT color=#a82424>王城地下</FONT>。<br>王城中能够不被人发现的地方只有那里……",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "你是来看我的丑态的吗……？呵呵。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "在纠缠交织的厄运面前，我已经是第二次落到这种下场了。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>(贝思柯德苦笑了一下)</FONT><br>真是愚蠢。说要用杰兰特的剑来除掉巴尔纳，一开始就是为了把我引出来……",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "我从一开始就不相信那个古代人女孩能够从那个人的魔掌中逃出来。<br>但是我以为她只是诱饵……<br>没想到那个小毛孩竟然是新的使徒，呵呵呵……",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "失去了龙的力量之后，现在的我什么都不是了……<br>50年来一直期待着复仇，现在全都变成了泡影。是不是很悲惨？",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "<FONT color=#7e12d2>(贝思柯德带着嘲笑的口气说道)</FONT>我没有料到那个男人会如此狡猾，这就是代价。<br>你曾经是幻象，应该也知道吧？他和他活过的岁月一样邪恶、狡猾。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "只要他想要，他可以让任何人听命于自己。<br>不管是出于对他的忠心，还是单纯只是追求强大的力量……只要他觉得你有价值，就给你想要的东西，让你听从他的使唤。等到没有价值之后，就无情地折断你的翅膀。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……使徒们的那个国王，好像就是想要杀死我，不，想要杀死幻象的幕后黑手。<br>虽然不知道是出于什么原因。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "在我为了回收黑龙卡拉斯的宝玉而四处活动的时候，你只为了一个目的而活动。<br>按照他的命令，寻找某个女人，那就是你的目的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>幻象好像是为了寻找那个女人才成为使徒的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "才成为使徒的？<br>……真有意思。那个男人不关心自己的手下对自己忠不忠诚。只要目的一致就行了。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "如果说那个男人想要杀死你，那你一定是找到了那个女人，并把她献给了他……<br>……或者你找到了那个女人，并想把她从那个男人面前抢走。呵呵……<br>你可真是个鲁莽而又荒唐的家伙。",
+      "answer": ""
+    },
+    {
+      "npc": "贝思柯德",
+      "question": "现在我想休息一下。你走吧。<br><FONT color=#7e12d2>(贝思柯德的脸色看上去不太好)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(果然，好像是没把露娜莉娅带到国王那里去，所以才会被追杀的。<br>但是他为什么要追踪露娜莉娅呢？为什么为了寻找露娜莉娅而不惜成为使徒呢……？)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(搞不懂。不知道是怎么回事，露娜莉娅。)</FONT>",
+      "answer": "",
+      "image": "qn_npc_lunaria.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>(又看了一眼真实之镜，镜子中出现了某个轮廓。)</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(显示的地方是异变栖息地……<br>要过去看看吗？就当再被骗一次好了。)</FONT>",
+      "answer": "",
+      "image": "qw_59.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": ".……<br><FONT color=#7e12d2>(露娜莉娅什么话都没说就消失了)</FONT>",
+      "answer": "",
+      "image": "qw_62.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我看到的是幻象吗？<br>还是……穿越时间之后在这里出现的，那一瞬间的真的露娜莉娅呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "虽然和贝思柯德之间有很多过去的心结需要解开，不过现在必须让他集中精力恢复健康。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "为了寻找对健康有益的药草，我看了一些书籍，也咨询了宫廷医官。<br>我需要你的帮助。<br><br><FONT color=#7e12d2>* 下一任务必须达到58级以后才能执行。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "虽然进行了应急治疗，但是由于伤口太深，他现在一定很痛苦。<br>学者柯梅里纳和其他冒险家也正在帮助我，人手越多越好。",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "使用药草的话，也许可以好一点……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么药草呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "\n你能帮我去搜集吗？",
+      "answer": ""
+    }
+  ]
+}

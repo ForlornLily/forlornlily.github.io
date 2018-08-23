@@ -1,0 +1,430 @@
+{
+  "qkname": "企图开门的人",
+  "data": [
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（去找精灵长老，打听一下有关巨石碑入侵者的情况吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（精灵长老在生命之树前面，快走吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（精灵长老在生命之树前面，快走吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "你有什么事吗？看你的脸色很不好。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（转述阿尔杰塔的疑问）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "我们已经把这地方把守得水泄不通。<br>之前有几个龙之追随者试图入侵，但全都被我们拦住了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>可是……佩达进来了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "什么？怎么会……？！<br>为了保险起见，你去问问精灵王怎么样？<br>精灵王与根部延伸到巨石碑的生命之树化作一体，应该能看到更多情况。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "我们已经把这地方把守得水泄不通。<br>之前有几个龙之追随者试图入侵，但全都被我们拦住了。<br><FONT color=#7e12d2>*达到74级后就可以继续执行任务。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT><br>\n<FONT color=#662500>（进入生命之树内部）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "…<FONT color=#7e12d2>（好像无法对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "…<FONT color=#7e12d2>（好像无法对话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（佩尔德列斯不在！？这是怎么回事？佩达？旁边这位是……？）</FONT>",
+      "answer": "",
+      "image": "qn_npc_king_yubaensiael.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（聆听对话……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9426_qu_01.ogg}<br>你说的都是真的？露娜莉娅。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#7e12d2>（点点头）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9426_qu_02.ogg}<br>如果你说的都是真的，咱们也算可以友好相处。但称不上是一条船上的人。你的目的是什么？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9426_qu_01.ogg}<br>目的？",
+      "answer": ""
+    },
+    {
+      "npc": "佩达",
+      "question": "ndnpc_Pether_9426_qu_03.ogg}<br>是的。既然你是女神的碎片，人类的感情对你来说应是微不足道的吧。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9426_qu_02.ogg}<br>……你这么想的话，就算是吧。但我这么做只是因为我必须做。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "<FONT color=#387206>{user_nick}</FONT>？你怎么在这里……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>？！？！！呃，尤万西贝尔……我怎么刚才没看见你？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "我是佩尔德列斯。我始终都在这里没动过位置，突然蹦出来的人是<FONT color=#387206>{user_nick}</FONT>你。你有事吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……？！？！啊？<br>（这是怎么回事？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "……看样子你在思索目前我们还无法解答的问题。<br>我有什么可以帮你吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……（就算我问起时间穿越、佩达或露娜莉娅的事情，他也不一定知道。还是先问问巨石碑入侵者的情况吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "嗯，巨石碑有入侵者吗……我没见到。至少他们不是从阿努阿兰德的入口进入的。不过，眼下<FONT color=#a82424>炙风地狱</FONT>似乎有些异常。我察觉到那边有股奇怪的力量，你最好去调查一下。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊，那我去炙风地狱调查一下。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵王佩尔德列斯",
+      "question": "你总是很勤奋啊。<FONT color=#7e12d2>（佩尔德列斯微微一笑）</FONT><br>这里的防御没有任何问题，你专心去调查你的疑问吧。<br><FONT color=#7e12d2>（请前往炙风地狱）</FONT>",
+      "answer": "",
+      "image": "qw_93.png "
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9426_qu_03.ogg}<br>你……<br><FONT color=#7e12d2>（露娜莉娅睁大了眼睛）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>！！！！！你是刚才和佩达一起的……？？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9426_qu_04.ogg}<br>……。原来是这样，这次不太相同呢。没想到我们会以这种方式重逢……<br>……你好吗，好久不见了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好久不……见？你认识我吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……虽然你不知道，但我知道。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（她在说什么啊）侵入巨石碑的人！！是你吗？</FONT><br>\n<FONT color=#662500>你是不是还动过封印石？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……我不是人类，封印石……我只是看了看，没动过。那里面蕴含太多内容……令我很惊讶。<br>之前并未显现出来，直到现在我才看见。我果然……像他一样……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不懂你在说什么。请你明确地回答我。你是谁？为什么会在巨石碑里，又为什么会和佩达在一起？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我跟他一起，是因为我们有同样的目的。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……<FONT color=#387206>{user_nick}</FONT>……你为什么在这里？！！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅！我们终于又见面了！<br>你刚才和佩达说的那些话，是什么意思？你怎么会和佩达在一起？</FONT><br>\n<FONT color=#662500>你不是说过，希望有人能阻止红色军队的主人吗……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你回答我啊，露娜莉娅……你怎么会和佩达在一起？</FONT><br>\n<FONT color=#662500>回答我！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……我想打开巨石碑之门，而他也有同样的目的。<br>就是这样。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你怎么能这么说！打开巨石碑之门后，会发生什么，你不是也清楚吗？！</FONT><br>\n<FONT color=#662500>这事并不是只有你去往巨石碑后就能了结的。门开启后，世界会变成什么样还很难说，难道你也希望这世界消失吗？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……！<FONT color=#7e12d2>（露娜莉娅似乎很吃惊）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你回答我，露娜莉娅！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "不，不是的。我没想过要毁灭一切……总有一天会消失的……<br><FONT color=#7e12d2>（露娜莉娅用悲伤的眼神望着我）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……对不起。现在，我什么都不能告诉你。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这么说你也想打开巨石碑之门？为什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "\n因为我必须打开门。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你这么做总得有个理由吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9426_qu_05.ogg}<br>……我的存在，只是为了打开这扇门。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你怎么能这么说？巨石碑之门开启的话，世界就会灭亡！一切都会消失。全部消失殆尽！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……？！？！！<FONT color=#7e12d2>（露娜莉娅露出非常惊慌的表情）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "打开巨石碑之门的话，一切都会消失？你说谎。这……这不可能。<br>打开门后，只有他……只有他会消失。从来都是这样的。但这回不会了，因为我不打算打开巨石碑之门。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他……？除了佩达之外，你还有其他同伴吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……<FONT color=#7e12d2>（露娜莉娅不再说话了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>如果你是为了打开巨石碑之门而来的，你就是我们的敌人。</FONT><br>\n<FONT color=#662500>（举起武器，指向露娜莉娅）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（露娜莉娅毫不犹豫地把手伸向武器……可是，她的手却穿过了武器！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>！！！！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9426_qu_06.ogg}<br>任何武器、任何攻击都无法伤到我。我是不受任何时间邀请的，来自异邦的不速之客。除非是具有和我相同命运的异邦者，否则谁也无法杀死我。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "但是，我可以杀了你。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（露娜莉娅的手触到了我的脖子……！！感觉好奇怪，仿佛像一丝冰冷的云朵掠过皮肤）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……你不能拿我怎么样的。谁也不能阻止我……<br>你回去吧。回去时不要张望任何世界的情形。紧紧闭起眼睛，什么也不要看。这是他的期望。他那么善良，要是知道伤了你，会难过的……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他是谁……？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "如果你不知道他，我说出来也没什么意思。<br>……如果你非要阻拦我……我也不能对你手下留情了……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……你总是这样……总是什么也不告诉我，只想着应付了事。但这回你别想蒙混过关，露娜莉娅。要是你继续跟我犟，我会不惜动手阻止你。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#7e12d2>（露娜莉娅摇摇头）</FONT>你没法阻止我的，<FONT color=#387206>{user_nick}</FONT>……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（露娜莉娅把手伸向武器，可她的手却直接穿过去了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……！！！怎，怎么回事。至今为止从没发生过这种情况……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ndnpc_Lunaria_9426_qu_07.ogg}<br>……如今的你，不再具有和我相同的命运了。你不用再忍受痛苦了。你已无法触碰我，只有我可以靠近你……",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "如果你非要阻拦我……我也……只好对你……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#7e12d2>（露娜莉娅消失了）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（不行……我怎么可以和露娜莉娅……为敌？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（嗯，露娜莉娅她一定是有什么误会，所以才会做错事。等下次再见面时，我要好好跟她谈谈）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（事已至此，只能把露娜莉娅的事老实地告诉阿尔杰塔了……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……！！！她消失了。危险，这个叫露娜莉娅的女孩……很危险。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>回去把露娜莉娅的事告诉阿尔杰塔吧。</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这是怎么回事？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_ElfElder_9427_qu_02.ogg}<br>……我惭愧啊……",
+      "answer": ""
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "……我没想到，他居然这么厉害！",
+      "answer": ""
+    }
+  ]
+}

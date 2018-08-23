@@ -1,0 +1,164 @@
+{
+  "qkname": "西戴尔的朋友",
+  "data": [
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你去了趟<FONT color=#a82424>古代图书馆</FONT>……？那你应该见到<FONT color=#a82424>察提</FONT>了吧。<br><FONT color=#7e12d2>(卡拉秋陷入了沉思)</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你和察提有交情吗？",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不好意思，察提到底是谁啊？<br>我在古代图书馆没见到叫察提的人啊！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "你没必要装傻吧。<br>西戴尔和那个丫头关系很好……他大概也拜托你办事了吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(再继续解释的话，只会让事情变得更麻烦。再说，这好像是与西戴尔有关的事情，先听听她怎么说吧……？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "那个傲慢的丫头到底在想什么啊……居然扑向我，所以我狠狠地教训了她一顿。<br>真没想到她做出这样的事情。而且最近非常奇怪，她对周围十分警觉。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "可疑的地方不止一两个……咳咳咳……<br><FONT color=#387206>{user_nick}</FONT>，你看上去好像与察提有点交情，请你问问她为何如此警觉吧。",
+      "answer": ""
+    },
+    {
+      "npc": "卡拉秋·佩奥里斯塔",
+      "question": "西戴尔刚刚偷偷跑了出去，肯定又是去见察提了。<br>他好像去了<FONT color=#a82424>古代武器库的西边</FONT>。你去那里找找吧。",
+      "answer": "",
+      "image": "qw_56.png"
+    },
+    {
+      "npc": "西戴尔",
+      "question": "别做出危险的举动，察提。<br>卡拉秋已经非常生气了。",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "哼，我才不管！<br>原本就是那个妖婆就指使那些北方人，让我的同胞染病，并抓走了他们！",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "你只听信别人的胡言，所以才会有这样的误会……哦？ <FONT color=#387206>{user_nick}</FONT>？你怎么会来这里？",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "干什么的，你？！你跟踪我？难道……你是那个妖婆的手下……？！！<br><FONT color=#7e12d2>(察提像一只野猫一样对我嚎叫着)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……你……你……你！！<br>哇，好可爱啊？！！哇，真可爱，真可爱！！<br>像只猫一样♡太可爱了~~！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "<FONT color=#7e12d2>(察提好像一下子愣住了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "……这个外表漂亮，脑袋却空空如也的家伙……难道是那个妖婆派来的……？<br>应该……不是的吧……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哇啊~！！再瞧瞧那毛茸茸的尾巴~！！<br>啊啊，要不要给你吃一个奇异果？<br>或者，这个，这个！我们玩棉絮吧~？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "……好吧，看来说你是间谍，是我失策了。<br>对你产生怀疑的我就像个傻瓜一样。<br><FONT color=#7e12d2>(察提对一个劲嚷嚷着的{user_nick}毫无办法，便索性不予理睬。把头转向了西戴尔)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "最近我的同胞们正不断失踪。 <br>而且，此事件的主谋就是你那个了不得的老师<FONT color=#a94407>卡拉秋</FONT>和这个家伙吧。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "不可能！这一切都是误会！你没有证据，凭什么说是我的老师呢？",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "证据？哼，我身边有一位消息非常灵通的人士。<FONT color=#a82424>那位人士</FONT>绝不会说谎。",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "照<FONT color=#a82424>那位人士</FONT>的话说，爷爷是我们部族的族长，所以卡拉秋为了能掌握一些事情而绑架了爷爷。",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "……你可不能轻易听信任何人啊，察提。",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "你才是呢，反倒是你，盲目地相信着你那个老师？！那位人士一直在帮我，所以他也会……救回我的爷爷！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我说，虽然不知道你们在说什么，但希望你们不要吵架……能让我摸一下你的耳朵吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "察提",
+      "question": "得了吧你，呆子。给我安静点。<br>我没什么话可说了。<br><FONT color=#7e12d2>(察提闭上了嘴巴，不说话了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "西戴尔",
+      "question": "啊啊……对不起，<FONT color=#387206>{user_nick}</FONT>。不过，你最好还是回去吧。<br>老师那里，我自己会给她说明的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呼……我还想和察提再玩一会儿呢……<br>(虽然不知道怎么回事，可既然西戴尔这么说了……还是先回到埃提亚那边吧！)</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(回到埃提亚那边吧)</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐，你快来。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "你累了吧？",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "qkname": "救出少女",
+  "data": [
+    {
+      "npc": "侦察兵福古斯",
+      "question": "幸好追踪红色鹰身人的时候，艾德琳也在旁边，所以她听到了他们的演奏。希望你向她学习竖琴的演奏方法后，立刻前往叹息峡谷。",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "嗯……<FONT color=#a82424>叹息峡谷</FONT>是非常危险的地区，我应该跟你一起去才行……<br>不过<FONT color=#387206>{user_nick}</FONT>，真不好意思，<FONT color=#a82424>冒险家公会</FONT>下达了紧急待命的命令，所以我不能离开。",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "最近公会通缉的人出现在了凯德拉附近呢。身穿黑色铠甲和披风，所以称作黑骑士，因为他，冒险家公会的大部分佣兵都被派去追踪他的下落了。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "<FONT color=#2b2723>但是请</FONT><FONT color=#387206> </FONT><FONT color=#387206>{user_nick}</FONT><FONT color=#2b2723>先去</FONT><FONT color=#387206> </FONT><FONT color=#a82424>艾德琳</FONT><FONT color=#2b2723>那里修好竖琴</FONT><FONT color=#387206> </FONT>再来叹息峡谷吧。我们这边的事情处理好之后，再去和你汇合",
+      "answer": "",
+      "image": "qn_npc_archer_adellin.png"
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "凯德拉关卡对我来说是一个既有喜悦又有悲伤的地方……和他相遇时的幸福，与他分别时的悲伤……<br>那里充满了我们之间的回忆。",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（没有看到什么特别的地方）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "现在我和你没什么好说的，一边去行吗？我现在有另外要见的人。",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "哦，兽人来这里有什么事儿吗？ 从遥远的莲花沼泽来到这里一定有什么要事吧……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你能修好这个竖琴的弦吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "真是好久没见过竖琴了。最近和福古斯一起巡查的时候，似乎听到过竖琴的声音……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你能先修一下竖琴吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "啊，对不起。你是来让我修理竖琴的啊。<br>你手里拿着的竖琴……这么一想，我也有很久没有演奏竖琴了。<FONT color=#7e12d2>（不知为何看上去很悲伤）</FONT><br>我当然能帮你修，但是可能要花些时间。",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "能告诉我你想用这把竖琴来做什么吗？",
+      "answer": "(讲述事情的来龙去脉)"
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "ndPercus_Flute_01.wav}<br>啊，那段曲子的话，我能给你演奏。福古斯的演奏是没法听的，我来演奏我听到的曲子吧。<FONT color=#7e12d2>（轻轻地闭上眼准备演奏）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（真是优美的曲子。不知怎么想起了妈妈的摇篮曲。<br>要是那时陨石没有落到我们村的话，我现在也和哥哥姐姐一起在听妈妈的摇篮曲吧。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "这曲子并不像看起来那么难。 竖琴是只要这样用手指拨动的话，就能自然发出声音的乐器哦。<br><FONT color=#7e12d2>（高级弓箭手艾德琳亲切地微笑着拿出了竖琴）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（去高级弓箭手艾德琳那里吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_archer_adellin.png"
+    },
+    {
+      "npc": "高级弓箭手艾德琳",
+      "question": "竖琴演奏不会太简单，但是祝你好运。在叹息峡谷里用竖琴演奏刚才听到的曲子的话，就能够解除结界了。"
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "少女被关在叹息峡谷。请你带着魔法竖琴前往那里，将红色鹰身人情妇引出来，然后从怪物手中救出少女吧。红色鹰身人情妇不同于普通的鹰身人，它会散发出一种极不寻常的氛围，所以请务必小心。"
+    },
+    {
+      "npc": "峡谷的结界",
+      "question": "<FONT color=#7e12d2>（演奏竖琴解除结界）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>咻……来试试演奏竖琴吧？ <br>（心里想着故乡，演奏起了竖琴）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>成功了！！</FONT>"
+    },
+    {
+      "npc": "休利亚",
+      "question": "切，又晚了一步。再加上麻烦的家伙似乎也跟了上来……<FONT color=#7e12d2>（瞟了一眼这边）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>果然是你。为什么你要一直追着箩丝？ 你说的能够治疗村民们的办法是什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "ndnpc_Suriya_9578_qu_01.ogg}<br>你没听说萝丝是古代人后裔的传闻吗？<FONT color=#7e12d2>（表情有些不耐烦）</FONT><br>也是，跟我们在一起的你那些同伴也都不知道什么是古代预言。<br>说不定那个萝丝知道拯救所有兽人的方法呢，当然了，也包括你们同村的人。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>拯救所有兽人？为什么要拯救兽人？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "ndnpc_Suriya_9578_qu_02.ogg}<br>呼，看来你这个小不点什么也不知道。不过你也在找萝丝吗？像你这种人就算去寻找萝丝，也只能是一无所获。<br>别在这儿烦我了，赶紧走开。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>因为你把我们的村民带走了，所以我是不会走的！ </FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "休利亚",
+      "question": "反正我和你没什么好说的。我只要跟在带走了箩丝的黑骑士后面就行了。 <br><FONT color=#7e12d2>（无法再和休利亚进行对话了。去见侦察兵福古斯吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "事情怎么样了？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>黑骑士出现了。而且把少女……</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "你是说黑骑士出现在叹息峡谷，还把少女抢走了？咻……",
+      "answer": ""
+    }
+  ]
+}

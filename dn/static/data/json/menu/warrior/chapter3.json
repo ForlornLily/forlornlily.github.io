@@ -1,0 +1,86 @@
+[
+  {
+    "id": "mq08_207_scattered_components",
+    "name": "散落的零件",
+    "qid": "207",
+    "nextid": "208",
+    "chapter": "3"
+  },
+  {
+    "id": "mq08_208_depleting_fuel",
+    "name": "枯竭的能源",
+    "qid": "208",
+    "nextid": "",
+    "chapter": "3"
+  },
+  {
+    "id": "mq08_209_red_clothes_darkelf",
+    "name": "红衣服的黑暗精灵",
+    "qid": "209",
+    "nextid": "210",
+    "chapter": "3"
+  },
+  {
+    "id": "mq08_210_destruction_of_manufactory",
+    "name": "破坏制造工厂",
+    "qid": "210",
+    "nextid": "211",
+    "chapter": "3"
+  },
+  {
+    "id": "mq08_211_red_army",
+    "name": "红色军队",
+    "qid": "211",
+    "nextid": "212",
+    "chapter": "3"
+  },
+  {
+    "id": "mq08_212_elimination_hobgoblin",
+    "name": "击退小精灵",
+    "qid": "212",
+    "nextid": "213",
+    "chapter": "3"
+  },
+  {
+    "id": "mq08_213_priestess_in_red",
+    "name": "邪恶的咒术师",
+    "qid": "213",
+    "nextid": "214",
+    "chapter": "3"
+  },
+  {
+    "id": "mq08_214_queen_of_toxin",
+    "name": "剧毒的女王",
+    "qid": "214",
+    "nextid": "215",
+    "chapter": "3"
+  },
+  {
+    "id": "mq08_215_decisive_battle",
+    "name": "决战",
+    "qid": "215",
+    "nextid": "",
+    "chapter": "3"
+  },
+  {
+    "id": "mq08_216_argentas_kiss",
+    "name": "阿尔杰塔的呼吸",
+    "qid": "216",
+    "nextid": "217",
+    "chapter": "3"
+  },
+  {
+    "id": "mq08_217_blessed_stone",
+    "name": "祝福之石",
+    "qid": "217",
+    "nextid": "",
+    "chapter": "3"
+  },
+  {
+    "id": "mq08_218_awakened_guardian",
+    "name": "苏醒的守护者",
+    "qid": "218",
+    "nextid": "401",
+    "chapter": "3"
+  }
+]

@@ -1,0 +1,164 @@
+{
+  "qkname": "交错的时间",
+  "data": [
+    {
+      "npc": "将军道格拉斯",
+      "question": "我在忙着处理战争的余波和重整军队，一点余力都没有。有时间的话，希望你能来帮帮我。<br><FONT color=#7e12d2>(道格拉斯忙着四处奔走)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "唉……受到战争的影响，<FONT color=#a82424>黑山山角</FONT>的污染越来越严重了。真让人担心。<br><FONT color=#7e12d2>(请到枯竭的玛丽莎泉去寻找坠落的黑龙的痕迹)</FONT>",
+      "answer": "",
+      "image": "qw_35.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "要到<FONT color=#a82424>枯竭的玛丽莎泉</FONT>那边去吗？<br>是去寻找黑龙的痕迹啊。明白了。",
+      "answer": "",
+      "image": "qw_35.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……我没办法帮你什么。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "从黑暗大君主的关卡一带坠落下来的话，很可能会坠落在阴森的丛林路附近。<br>\n最有可能的是其中的<FONT color=#a82424>枯竭的玛丽莎泉</FONT>……有必要去确认一下。",
+      "answer": "",
+      "image": "qw_35.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "那里说不定会有在这次的战斗中受伤的黑龙坠落的痕迹。<br>谢谢你的情报。<br><FONT color=#7e12d2>(柯梅里纳认真地点了点头，开始准备出发)</FONT>",
+      "answer": "",
+      "image": "qw_35.png"
+    },
+    {
+      "npc": "???",
+      "question": "露娜莉娅！",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "露娜莉娅，终于找到了！",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "我之所以成为使徒，是为了找你。",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "……露娜莉娅，我不会再让你走了。<br>\n为了给一切画上句号……",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "露娜莉娅！",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "谢谢你的建议。这对我很有帮助。<br><FONT color=#7e12d2>(柯梅里纳郑重地向我表示感谢)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……<br><FONT color=#7e12d2>(露娜莉娅垂下了眼睛)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>幻象为什么会在这里？<br>露娜莉娅，他从我体内完全分离出来了吗？没有吧？</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "ionStand1}<br>我能回答的问题非常少。<br>刚才见到的人，不是你体内的那个人……",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "那是很久以前的那个人。<br>不是这里的那个人。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你是说……是在带着你穿越时间逃走之前的幻象，对吧？</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "没错，很久很久以前。<br>但是对我来说，只是一转眼的时间而已。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "对我来说，现在和过去之类的概念没什么意义。<br>不过你活着的现在，和你原来所在的时期，至少已经经过了60年。<br>\n从这里的人们的基准来看的话。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "刚才的那个人，被称为幻象的人……好像是大约距“<FONT color=#a82424>现在</FONT>”50年前的你。<br>总而言之，就是你注定的未来。<br>……这就是我的理解。好像就是这样。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他说“我之所以成为使徒，是为了找你……<br>这次我不会再让你走了”。</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>什么意思？露娜莉娅，他认识你吗？在成为使徒之前……？！</FONT><br><FONT color=#662500>到底是从什么时候开始的？</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "从什么时候开始……这种问题对我而言没有任何意义。<br>不管是十年还是五十年，对我来说都没什么区别。我不是说过好几遍了吗，<FONT color=#387206>{user_nick}</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅，你刚才说，幻象就是10年后的我。<br>10年后我就会变成幻象。如果你说的是真的的话。</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>所以我在十年之后可能就会变成他。不，是必然会变成他。</FONT><br>\n<FONT color=#662500>露娜莉娅，在这么短的时间里到底发生了什么？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "时间不仅仅只有一面。<br>\n时间……",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……<br>不知道。我，没办法回答你。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不知道和不愿意回答是完全不同的，露娜莉娅。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我……没办法回答……",
+      "answer": ""
+    }
+  ]
+}

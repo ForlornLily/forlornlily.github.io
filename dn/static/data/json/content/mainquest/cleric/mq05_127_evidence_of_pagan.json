@@ -1,0 +1,191 @@
+{
+  "qkname": "异教的证据",
+  "data": [
+    {
+      "npc": "牧师托马斯",
+      "question": "很让人烦神。<br>\n那个掉落圣珠的地方。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "也许这样的判断有些轻率，但很有必要调查一番。<br>那么赶快前往<FONT color=#a82424>融解森林</FONT>见见你师兄<FONT color=#a82424>牧师杰克</FONT>吧。",
+      "answer": "",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "在这期间，我会继续调查<FONT color=#a82424>雷昂纳多</FONT>护送的东西。<br>\n希望你能给我带来好消息。",
+      "answer": "",
+      "image": "qn_cl_leonardo.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "你来啦。<FONT color=#a82424>托马斯</FONT>团长经常提起你。<br>呵呵……辛苦你了。",
+      "answer": "",
+      "image": "qn_cl_tomas.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>对于团长的话，你怎么看？</FONT>",
+      "answer": "",
+      "image": "qn_cl_tomas.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "这个嘛……光凭<FONT color=#a82424>怪物的巢穴</FONT>里发现的<FONT color=#a82424>圣珠</FONT>就下判断，似乎有点太着急，但是有调查的价值。到底有没有什么问题？",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我……很难理解大主教的话。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "不理解<FONT color=#a82424>大主教</FONT>的话？<br>他说前往<FONT color=#a82424>魔法山脊</FONT>的<FONT color=#a82424>牧师</FONT>一行中藏有<FONT color=#a82424>异教徒</FONT>？",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>是的。怎么可能有异教徒？</FONT><br>\n<FONT color=#662500>和我们一样都是神的仆人，怎么……！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "嗯……我们和<FONT color=#a82424>异教徒</FONT>……，也就是<FONT color=#a82424>龙之追随者</FONT>的孽缘，比你想象的更为久远。虽然前代教皇<FONT color=#a82424>贝内迪特教皇</FONT>进行了很多努力，但他们已经在教团内部扎下了根。",
+      "answer": "",
+      "image": "qn_dragonsycophant.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "<FONT color=#a82424>龙之追随者之难</FONT>之后，他们暂时陷入了沉寂。但是在教团看不到的暗处，他们一直没有停止活动。",
+      "answer": "",
+      "image": "qn_dragonsycophant.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "我很理解有着深深信仰的你很难接受这件事……<br>\n不过我也希望你不要太相信别人。<br>\n我很担心当那份信任被打破的时候，你会受到很大的伤害。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我没关系。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "好像没有什么特别的地方……",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（没有看到什么特别的地方）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "呵呵……那就好。<br>好了，我们快去<FONT color=#a82424>霜风峡谷</FONT>吧。<br><FONT color=#a82424>托马斯</FONT>团长正在等着我们。",
+      "answer": "",
+      "image": "qw_7.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "嗯？<br>我好像看到附近有什么东西在闪闪发光。",
+      "answer": ""
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（在草丛中看到有什么东西在发光）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "奇怪的面具",
+      "question": "<FONT color=#7e12d2>（<FONT color=#7e12d2>获得了</FONT>用奇怪的纹样和犄角装饰的</FONT><FONT color=#a82424>红色面具。</FONT><br>\n<FONT color=#7e12d2>拿回去给杰克看）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "你发现的东西是……<br>\n<FONT color=#7e12d2>（杰克表情阴沉）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "嗯，这是……<br><FONT color=#7e12d2>（杰克看了一眼面具，沉吟了片刻）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你见过这东西？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "你来啦。找到什么东西了没有？",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "这……这是<FONT color=#a82424>龙之追随者</FONT>们使用的面具……<br>从面具上雕刻的纹样来看，这不是普通教徒的面具，而是<FONT color=#a82424>龙之追随者</FONT>之中祭司级别的人佩戴的面具。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>更重要的是，对于这件东西，你查出什么来了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "是的。为了说服那个固执的老头子，费了我不少功夫。呵呵……<br>被怪物抢走的<FONT color=#a82424>东西</FONT>竟然是<FONT color=#a82424>贤者之杖</FONT>。",
+      "answer": "",
+      "image": "qn_cl_leonardo.png"
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "<FONT color=#a82424>贤者</FONT>是牧师的始祖<FONT color=#a82424>杰科博</FONT>和魔法师的始祖<FONT color=#a82424>马里安</FONT>的老师，是500多年前的圣人。<br>但是……那么神圣的东西运送的时候竟然这么不小心，真是荒唐……",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "我知道<FONT color=#a82424>教皇</FONT>和<FONT color=#a82424>大主教</FONT>的关系不好，但没想到坏到这种地步。<br>这么重要的事情，竟然不和<FONT color=#a82424>大主教</FONT>说一声，就独断独行……",
+      "answer": "",
+      "image": "qn_npc_bishop.png"
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "\n要找到丢失的<FONT color=#a82424>贤者之杖</FONT>，看来是很难了。不过……如果他们觊觎的是贤者的遗物，就不会满足于贤者之杖。<br>\n他们也许也会对<FONT color=#a82424>秘传之球</FONT>下手。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>秘传之球是什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "<FONT color=#a82424>贤者之杖</FONT>原来由杖和秘传之球组成。据说贤者的两个徒弟，也就是两个始祖，把杖和秘传之球分开，并各自保管了一个部分。<FONT color=#a82424>秘传之球</FONT>由魔法山脊的魔法师们保管着。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "这是……<FONT color=#a82424>龙之追随者的面具</FONT>。果然……<FONT color=#a82424>大主教</FONT>说的没错，魔法山脊隐藏着<FONT color=#a82424>龙之追随者</FONT>的奸细。<br>快把它交给<FONT color=#a82424>托马斯</FONT>团长。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "牧师杰克",
+      "question": "这是……<FONT color=#a82424>龙之追随者的面具</FONT>。<br>\n果然……<FONT color=#a82424>大主教</FONT>说得没错，魔法山脊隐藏着<FONT color=#a82424>龙之追随者</FONT>的奸细。<br>快把它交给<FONT color=#a82424>托马斯</FONT>团长。",
+      "answer": "",
+      "image": "qs_default.png"
+    }
+  ]
+}

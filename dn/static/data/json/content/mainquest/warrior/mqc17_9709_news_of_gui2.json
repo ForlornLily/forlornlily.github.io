@@ -1,0 +1,100 @@
+{
+  "qkname": "大哥的消息 II",
+  "data": [
+    {
+      "npc": "商人帕尔乔",
+      "question": "<FONT color=#7e12d2>（帕尔乔像是想到了什么，动了动嘴和鼻子）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "商人帕尔乔",
+      "question": "但是，我们似乎能做个交易。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>交易？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "商人帕尔乔",
+      "question": "你听说过<FONT color=#a82424>破裂金石盗贼团</FONT>吗？他们在梅尔卡周围兴风作浪，所以现在金石生意很难做。所以，要去<FONT color=#a82424>破裂的</FONT><FONT color=#a82424>金石峡谷</FONT>交接物品也很困难。",
+      "answer": ""
+    },
+    {
+      "npc": "商人帕尔乔",
+      "question": "所以，我看你拥有上好的武器和防具……肯定具有一定实力。而且似乎还有用什么神奇的材料或技术做成的部分……我感觉到了，你很不一般啊。/html>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不愧是商人，真是有眼光啊？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "商人帕尔乔",
+      "question": "这种程度不过是最基本的。<FONT color=#7e12d2>（帕尔乔耸了耸肩）</FONT><br>而且，以我的眼光来看，你应该能够消灭盗贼团。",
+      "answer": ""
+    },
+    {
+      "npc": "商人帕尔乔",
+      "question": "请你保护我安全到达金石矿山，消灭遍布<FONT color=#a82424>破裂的金石峡谷</FONT>的盗贼。我一到矿山，立马就帮你打听你要找的人。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（这似乎是笔不错的交易。向帕尔乔简单说明了格雷尔的大哥奇伊）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "商人帕尔乔",
+      "question": "<FONT color=#7e12d2>（帕尔乔的耳朵竖了起来）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "商人帕尔乔",
+      "question": "好，那就这么成交了。我怕自己卷入战斗中会妨碍你，所以我会悄悄地跟在你后面。请你先出发吧。",
+      "answer": ""
+    },
+    {
+      "npc": "商人帕尔乔",
+      "question": "咻~！多亏了你，我才能安全到达目的地。",
+      "answer": ""
+    },
+    {
+      "npc": "商人帕尔乔",
+      "question": "我到了矿山之后，马上帮你打听那个叫奇伊的人。",
+      "answer": ""
+    },
+    {
+      "npc": "商人帕尔乔",
+      "question": "回去的路上会有矿山的人陪着我，不用担心。事情结束之后，我就会返回<FONT color=#a82424>梅尔卡的心脏</FONT>，我们在那儿再见吧。",
+      "answer": ""
+    },
+    {
+      "npc": "商人帕尔乔",
+      "question": "我等候多时了，<FONT color=#387206>{user_nick}</FONT>大人。你让我打听的事情已经有了眉目。<br><FONT color=#7e12d2>（帕尔乔开始在怀里翻来翻去）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "商人帕尔乔",
+      "question": "不在这里面吗……嗯……我是放在这鸟的行李里了吗……<br>……嗯嗯……这个是当做零食的猕猴桃……呃……这个是当做下午茶的苏子叶……也不是这个！这个是干掉的猫草啊！不对！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……身为金石交易商人居然没有金石呢）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "商人帕尔乔",
+      "question": "啊！终于找到了！<FONT color=#a82424>奇伊</FONT>大人的信！",
+      "answer": "",
+      "image": "qs_default.png"
+    }
+  ]
+}

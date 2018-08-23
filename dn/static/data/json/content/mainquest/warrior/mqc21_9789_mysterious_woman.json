@@ -1,0 +1,228 @@
+{
+  "qkname": "神秘女人",
+  "data": [
+    {
+      "npc": "诺尔佩",
+      "question": "尾随<FONT color=#387206>{user_nick}</FONT>大人一行的原来是个女人。<br>嗯…… 调查卡伊伦岛的女人……",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "那女人手中握有卡伊伦岛的情报，这自然让人难以抗拒。<br>其实，像无头苍蝇一样在卡伊伦岛寻找治愈之杯的线索，无异于大海捞针。 ",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "虽然有些可疑，但不妨接受那个女人的帮助。<br>但绝不能因为她救过你们，就对她深信不疑。至少在弄清她的身份之前，还是小心为妙。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，在接受她的帮助之前，我也打算弄清她的身份。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "比起这个……我更担心格雷尔大人，他体内的宝玉好像再次开始融合了。那是老师最后一次送给我的药。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>现在看起来似乎好些了……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "那就只能祈祷格雷尔大人能顺利结束宝玉融合。<br>对了，你说还有另外一个查尔德攻击了海兰德尔吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，那个查尔德能瞬间击垮海兰德尔的咒语。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "如果真是这样，那很有可能是高级查尔德，甚至是更顶级的查尔德。<br>可两个查尔德为什么会互相攻击呢？",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "查尔德之间当然也会争夺宝玉，但海兰德尔摆明了是冲格雷尔大人而来，攻击他也就等于跟帝国对抗……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>帝国 内部势力也有摩擦？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "这只是推论。这也是我们反女神派由来已久的愿望。<br>总之杰兰特大人还是暂时停手调查卡伊伦岛，先去调查这件事为好。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "关于帝国的查尔德，格里高利最为清楚。<br>那就拜托杰兰特大人去找格里高利问问清楚吧。",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "碍于帝国的监视网，我也不知道格里高利如今藏身何处。<br><FONT color=#a82424>杰兰特</FONT>大人根据气息，应该很容易就能找到格里高利。",
+      "answer": "",
+      "image": "qn_npc_geraint_kid.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "好！那现在是要返回卡伊伦岛喽？<br>这下连船都不晕了！欧耶！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊…… 那个，我说杰兰特啊<br>（转述诺尔佩的话。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "什么？为什么！凭什么要我去找那家伙！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这说不定是抓住艾达特帝国弱点的好机会。<br>我们会努力调查，弥补杰兰特你的空缺。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "啊……我本打算接下来大展身手……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰兰特你当时也看到了。<br>把我们死死压制的海兰德尔竟然被那个查尔德瞬间击垮了咒语……<br></FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "知道了。只要找到格里高利，查出那家伙的底细就行了吧？<br>格里高利不过是个低级查尔德，搞不懂他到底了解多少……总之，我会努力找那家伙问个清楚。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>谢谢你，杰兰特。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "那好，你们赶快前往<FONT color=#a82424>废弃码头</FONT>跟她见面吧。<br>记得照顾格雷尔那家伙。",
+      "answer": "",
+      "image": "qw_126.png"
+    },
+    {
+      "npc": "格雷尔",
+      "question": "我已经没事了，是真的！",
+      "answer": ""
+    },
+    {
+      "npc": "神秘女人",
+      "question": "哦哦~你们真的来了？<br>那个精力爆棚的家伙呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我们来这，不是因为相信你。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "神秘女人",
+      "question": "嗯……你这孩子疑心还挺重！<br>好，那我来自我介绍一下。我叫莉卡，既是冒险家，也是学者。",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "ndnpc_Salica_9789_qu_01.ogg}<br>其实你们应该猜到了，我不会白白帮你们忙。<br>所谓礼尚往来嘛？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>果然另有目的。你想要什么？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "别用那种眼神看我。我跟你们也是同病相怜。<br>我只是一个平凡的学者，希望在这岛上找到古老遗物。如果你们能帮我找到遗物，我一定会全力帮助你们。所以我想知道……你们到底在这里找什么？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（一时竟说不出话来。）<br>这个……只知道在这个地方……但具体是什么，我们也不清楚。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "你们连找的是什么都不知道，就冒然跑到这了？<br>为什么要找到那件东西呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（不能向她提起治愈之杯。）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "ndnpc_Salica_9789_qu_02.ogg} <br>看来是不能说的秘密？<br>好吧，那我就不再追问了。可眼下也没什么线索，不如先帮我找遗物吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>等、等等！我还没答应帮你呢！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "ndnpc_Salica_9789_qu_03.ogg}<br>哎哟，真愁人。<FONT color=#a94407>诺尔佩</FONT>聪明过人，你们真是比他差远了！ ",
+      "answer": "",
+      "image": "qn_nophee.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>额……额？你认识诺尔佩？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "那姐姐竟然认识诺尔佩？ ",
+      "answer": ""
+    },
+    {
+      "npc": "莉卡",
+      "question": "你把我的名字告诉<FONT color=#086171>诺尔佩</FONT>。到时候自然会相信我了。<br>到时下定决心后，就来<FONT color=#a82424>秘密海底洞穴</FONT>找我。我现在得去寻找遗物了。",
+      "answer": "",
+      "image": "qn_nophee.png"
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "你说那女人认识我？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（转述莉卡的话。）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "诺尔佩",
+      "question": "莉卡？莉卡怎么会在那……",
+      "answer": ""
+    }
+  ]
+}

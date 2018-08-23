@@ -1,0 +1,364 @@
+{
+  "qkname": "被抢走的线索",
+  "data": [
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "ionRefusal}<br>这下糟了。",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "嗯？我好像从没见过你……<br>啊！对了！<br>战士西恩和弓箭手特里亚纳提到的冒险家就是你吧？哈哈！见到你很高兴。",
+      "answer": "",
+      "image": "qn_npc_cian.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "虽然打倒了鹰身人，但是<FONT color=#a82424>黑骑士</FONT>突然出现，抢走了 <FONT color=#a82424>先知</FONT>。这可真是……<br>安杰利卡和伊桑也白跑了一趟，现在情绪很低落。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>安杰利卡？伊桑……？</FONT>",
+      "answer": "",
+      "image": "qn_npc_edan.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "是从魔法山脊来的冒险家。<br>正在帮我们寻找先知。<br>\n",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>黑骑士又是谁？</FONT><br>\n",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "黑骑士是最近在这一地区出现的身份不明的人物。<br>关于他的消息，大多只不过是传闻。有人说<FONT color=#a82424>黑骑士</FONT>是<FONT color=#a82424>龙之追随者</FONT>，也有人说他是<FONT color=#a82424>龙的手下</FONT>。<br>\n他的行迹非常可疑。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "龙之追随者就是<FONT color=#a82424>追随龙的团体</FONT>。<br>他们的教义认为服从龙，可以得到真正的救赎，是一群精神不正常的人。",
+      "answer": "",
+      "image": "qm_dragonsycophant.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "很遗憾，那种精神不正常的团体现在在王室的力量鞭长莫及的地方挂起了招牌，在那里堂而皇之地招募信徒。<br>\n唉，世界为什么会变成这个样子……啧啧……",
+      "answer": "",
+      "image": "qm_dragonsycophant.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "关于龙的手下，目前还知之甚少。<br>据说<FONT color=#a82424>龙会对人类和魔物进行洗脑，把它们当作自己的心腹使用</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "好像有人说<FONT color=#a82424>龙之追随者教团的创始人</FONT>就是龙的手下，但是无法确定。",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "啊，黑骑士？<br>\n最近神圣天堂的军队和黑山的魔物之间经常发生冲突。有个经常在冲突现场出现的危险人物，好像就是他。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "同时他也是毁掉在神圣天堂和凯德拉关卡之间运营的2艘<FONT color=#a82424>飞艇</FONT>的罪魁祸首。<br>没想到他的目的是想得到古代人的力量……！<br>\n真是个邪恶的家伙。",
+      "answer": "",
+      "image": "qw_airship.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>飞艇……？</FONT>",
+      "answer": "",
+      "image": "qw_airship.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "你不知道飞艇吗？呵呵～就是在天上飞的巨大的船。<br>要想前往神圣天堂，必须乘坐飞艇。因为凯德拉关卡是非常坚固的要塞。",
+      "answer": "",
+      "image": "qw_airship.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(竟然有人能毁掉那种东西？真厉害。<br>不知道为什么，对于那个叫黑骑士的人，我有一种奇怪的预感……)</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "\n冒险家们和公会的侦察队发现了黑骑士的行踪。<br>所以公会派出了的伏击队，目前正在进行追踪。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "据我们推断，他的目的地应该是一个名叫森林圣域的地方。<br>知道到这一情况之后，其他冒险家们全都到<FONT color=#a82424>森林圣域</FONT>去了。<br>希望能有好消息。",
+      "answer": "",
+      "image": "qw_15.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "ionRefusal}<br>如果你愿意，可以去一起进行搜索。",
+      "answer": "",
+      "image": "qw_15.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（时间的跨越好像并没有想象中的那么大。先去和露娜莉娅对话吧。）</FONT>"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你在干嘛？<br>你不是要去见冒险家公会会长戴卡德吗？",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "冒险家公会会员韦伯",
+      "question": "嗯……<br>\n你，你是谁？<br><FONT color=#7e12d2>(因为受伤的缘故，脸色看上去不太好)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "受伤的冒险家",
+      "question": "<FONT color=#7e12d2>(好像失去了意识)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "……我们晚了一步。<br><FONT color=#7e12d2>(伊桑好像受了伤，皱着眉头)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "侦察兵福古斯",
+      "question": "<FONT color=#a82424>冒险家公会会长戴卡德</FONT> 应该就在凯德拉关卡中央大桥附近。<br>你快去找他吧。",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "<FONT color=#2b2723>其他冒险家已经</FONT>出发前往了<FONT color=#a82424>森林圣域</FONT>。<br>\n你也去帮忙搜索吧，怎么样？",
+      "answer": "",
+      "image": "qw_15.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(先去和露娜莉娅谈谈吧。)</FONT>",
+      "answer": "",
+      "image": "qw_15.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……原来如此。<br>那个叫黑骑士的人带走了那个女孩。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好像比预想的穿越了更多的时间。<br>好像有点误差。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "啊，是吧。<br>太好了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不过我们应该往哪个方向追呢？那个叫萝丝的女孩。</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "不知道。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>如果先知那么重要的话，干嘛不好好保护呢……</FONT>",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "劫走那个女孩的鹰身人不是抓住了吗？<br>下面该去找什么呢？",
+      "answer": "",
+      "image": "qm_harpyred.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你觉得那个叫埃雷娜的人很可疑？<br>……你是说那个指使鹰身人的女人吧？<FONT color=#a82424>你体内的那个男人</FONT>说他知道那个女人的名字。<br>我记得。",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#7e12d2>(露娜莉娅静静地听{user_nick}讲述，歪了歪脑袋)</FONT><br>我是说……鹰身人情妇想把先知带到那个叫埃雷娜的人那里去，但是却被黑骑士抢走了。<FONT color=#a82424>埃雷娜应该会去追踪黑骑士</FONT>吧？",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你是要去找黑骑士啊。<br>找到他的话，就能找到埃雷娜。我明白了。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "但是认识埃雷娜的人不是你。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "这个嘛。<br>……没什么话好说了。快出发吧。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你先到森林圣域去。<br><FONT color=#7e12d2>(露娜莉娅好像不想再说下去了)<br></FONT>我随后就到。",
+      "answer": "",
+      "image": "qw_15.png"
+    },
+    {
+      "npc": "受伤的冒险家",
+      "question": "我没事。我的同伴们追着黑骑士到里面去了，请你去帮帮他们……<br>\n呃！",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会员韦伯",
+      "question": "嗯……你，你是谁？<br><FONT color=#7e12d2>(因为受伤的缘故，脸色看上去不太好)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会员韦伯",
+      "question": "呃呃呃！冒……冒险家……！<br>我在追踪<FONT color=#a82424>黑骑士</FONT>的时候，被人打晕了……<br>\n之后的事情就想不起来了。呃……",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你见到埃雷娜了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会员韦伯",
+      "question": "嗯？什么……？那是谁？<br>\n不好意思……我知道这个名字……",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会员韦伯",
+      "question": "黑骑士好像到森林圣域深处去了……呃……但是接下去怎么样了我就不知道了……呃……<br>\n必须去帮助其他公会成员……才行……<br>\n<FONT color=#7e12d2>(由于受伤的缘故，说话的时候很吃力)</FONT>",
+      "answer": "",
+      "image": "qw_15.png"
+    },
+    {
+      "npc": "冒险家公会会员韦伯",
+      "question": "\n快去追踪黑骑士……到森林圣域深处去……呃……！！",
+      "answer": "",
+      "image": "qw_15.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "你好。<br>你到这么危险的地方来干什么？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>黑骑士去哪儿了？</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "你也是黑骑士追踪队的成员啊。<br>很遗憾，黑骑士实在太强了，我们没有能力抓住他。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "我和安杰利卡为了救出那个少女，向黑骑士发动了袭击，但是却被轻而易举地打倒了 。<br>以冒险家们的力量，是没办法抓住他的。",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "他把我们打成了重伤，然后无声无息地消失了。<br>要不是有个美丽的银发女人救了我们，不知道会变成什么样……<br><FONT color=#7e12d2>(伊桑叹了口气)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>美丽的银发女人？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "我也是头一次见到。<br>其他人已经回去了，我留在这里，希望能找到什么线索，但还是一无所获。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "其他人……<br>\n你们没碰到魔物吗？",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "<FONT color=#7e12d2>(伊桑用疑惑的眼神看着我)</FONT><br>不，没碰到过。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师伊桑",
+      "question": "我要回去向<FONT color=#a82424>冒险家公会会长戴卡德</FONT>报告了。<br>你也快到安全的地方去吧。",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "美丽的银发女人？你对那个感兴趣吗？<br><FONT color=#7e12d2>(露娜莉娅直直地看着我)</FONT><br>难道不应该先去找冒险家公会会长戴卡德吗？",
+      "answer": "",
+      "image": "qn_master_decud.png"
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "ionRefusal}<br>是你啊。这段时间你去哪儿了？<br>好久没见到你，我还以为你在忙别的事情呢。",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "嗯？我在说什么？！<br>你不是说去<FONT color=#a82424>森林圣域</FONT>的吗！？怎么现在才出现？",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "这段时间其他冒险家都已经去了两次了，你竟然现在才出现，难道不觉得太晚了吗？<br>最初去追踪黑骑士的搜索队全灭之后，有个<FONT color=#a82424>银发女剑客</FONT>出现，为那些冒险家提供帮助。所以冒险家们……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>所以呢？</FONT><br><FONT color=#662500>后来又去了森林圣域？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "冒险家公会会长戴卡德",
+      "question": "是的！",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(这次穿越时间掌握得好像不错……</FONT><br>\n<FONT color=#662500>又要把我带到什么地方去啊？)</FONT>",
+      "answer": ""
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "qkname": "拜托姐姐",
+  "data": [
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "你为何没有直接把格雷尔带回来？我突然有些怀疑你那<FONT color=#a82424>阿尔特里亚的善良</FONT>是不是本来就是愚蠢的同义词。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "？那个……？",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>才不愚蠢……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>格雷尔！ 你来啦！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "ndnpc_Grele_9745_qu_01.ogg}<br>虽然我还没有想明白，但我想要守护姐姐……所以，如果我可能会伤害到姐姐，可能威胁到她的安全，我就绝对不能靠近姐姐的身边。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "可是我想守护姐姐！虽然我不想伤害她！但既然姐姐是查尔德，就算我不想伤害她，其他查尔德也有可能伤害姐姐的，对吧？！",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "这你就不必担心了。我保证，一定会最大限度利用我们梅尔卡的暗探网络，对<FONT color=#a82424>伊贝尔</FONT>进行保护的。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "真的吗？你说的是真的吗，蓝色毒蛇？！",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "而且，格雷尔，虽然伊贝尔是查尔德，但她人类的自我并没有完全泯灭。所以我们说不定能找到办法挽救她。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "不过格雷尔你要协助我们找出如何才能使人类的自我战胜查尔德自我。因为目前<FONT color=#a82424>谜之大陆</FONT>上的<FONT color=#a82424>突变</FONT>就只有<FONT color=#a82424>格雷尔</FONT>你一个。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "ndnpc_Grele_9745_qu_02.ogg}<br>我知道了。我一定会尽力协助！",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "很好，那么<FONT color=#387206>{user_nick}</FONT>，如果你和格雷尔一起行动，可能会引起别人的主意。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "所以格雷尔会在这里促进我们这边和反女神派之间的联系，你就独自一人前往南部领地吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……为什么对格雷尔说敬语，对我就……啊，因为格雷尔现在是查尔德了，是谜之大陆的上层，对吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "噗……<br>哎呦，你就别再计较这些了。",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "…………………………",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "别再做那些不符合你身份的事了。<br>到我这里来一下。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "我接到情报说一个貌似<FONT color=#a82424>伊贝尔</FONT>的少女和一个<FONT color=#a82424>蓝发男子</FONT>一起穿过破裂的金石峡谷往北边去了。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "虽然成功以伊贝尔为条件说服了格雷尔，但伊贝尔的存在毕竟是我们所有人的巨大障碍。",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9745_qu_01.ogg}<br>现在最好的办法就是尽快把伊贝尔消灭，打碎宝玉，毁掉证据。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……！！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "然后对格雷尔说她是在和其他查尔德争夺宝玉的过程中被杀的。然后我们便可以说服他对付<FONT color=#a82424>维斯提内 女神</FONT>来为姐姐报仇了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这太不像话了！这么做的话……和伊贝尔的舅舅出卖格雷尔有什么不同？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "ndnpc_Vernicka_9745_qu_02.ogg}<br> 别傻了……你不要忘了，伊贝尔是<FONT color=#a82424>查尔德</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道！可是这么做不是在欺骗格雷尔吗？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "我早料到你会是这种反应了。但你应该很清楚，格雷尔是个多么固执的人。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个……可是……怎么可以欺骗格雷尔杀死伊贝尔呢……</FONT><br>\n<FONT color=#662500>我绝对做不到！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "什么嘛？你们两个在说什么呢？我也有话要和<FONT color=#387206>{user_nick}</FONT>说！",
+      "answer": ""
+    },
+    {
+      "npc": "市国首长贝勒尼卡",
+      "question": "啊，我只是在交付给他一些特别的指示。<br>……我知道了，格雷尔。请不要用脚踢那只椅子。",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，拜托了。<br>我不管世界怎么样，我只要姐姐没事。所以……",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "姐姐姐姐就拜托你了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（虽然还不知道到底应该怎样做，但还是先做好前往</FONT><FONT color=#a82424>南部领地</FONT><FONT color=#662500>的准备吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我知道了，格雷尔。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（离开格雷尔和贝勒尼卡，前往卢比纳特的藏身处吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "你好！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>艾瑞斯？你怎么会在这里？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "ndnpc_Iris_9745_qu_01.ogg}<br><FONT color=#387206>{user_nick}</FONT>，你不是和我说要一起去找<FONT color=#a82424>诺尔佩</FONT>的吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我没和你说过啊？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "额？是艾瑞斯说的啊？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃呃……算了吧。我一和你说话就头疼。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "和我说话头疼？<FONT color=#387206>{user_nick}</FONT>，你一定是遇到什么让你头疼的事了吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是啊。到现在都没找到</FONT><FONT color=#a82424>卢比纳特和杰兰特</FONT><FONT color=#662500>，还要去找</FONT><FONT color=#a82424>伊贝尔</FONT><FONT color=#662500>。而且伊贝尔已经变成了查尔德……让人头疼的事实在太多了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也不知道为什么会和你说这些，哈……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "ndnpc_Iris_9745_qu_02.ogg}<br>没关系。艾瑞斯是来守护<FONT color=#387206>{user_nick}</FONT>你的。所以我什么事都会告诉你。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>任何事？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "ndnpc_Iris_9745_qu_03.ogg}<br>嗯！虽然我还不能知晓一切，但我可以告诉你的是，在某个地方出现了<FONT color=#a82424>两个巢穴</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>莫非是，卢比纳特和杰兰特？或者是伊贝尔建的？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "那我就不清楚了。只是这世界的<FONT color=#a82424>查尔德龙</FONT>是将混沌龙分成细小个体进化而成的，所以要比阿尔特里亚的龙更小，也更轻……",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "嗯……虽然不太好说明，不过他们建造的巢穴应该会更不容易被感知……",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "ndnpc_Iris_9745_qu_04.ogg}<br>而且卢比哥哥现在只是半块宝玉的状态，力量已经减弱了很多……除非亲自去看看，否则很难知道两个巢穴的主人到底是谁。",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "可是，<FONT color=#387206>{user_nick}</FONT>。不管遇到什么样的困难，什么样的悲伤，都请你不要丢弃<FONT color=#a82424>阿尔特里亚的善良</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你怎么会说出这样一番话来呢……？</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "艾瑞斯",
+      "question": "那是因为我很怀念阿尔特里亚……也非常喜欢你。<br><FONT color=#7e12d2>（艾瑞斯明朗地笑了起来）</FONT><br><br>完成了<FONT color=#7e12d2>*章节外传 5.</FONT><FONT color=#086171> [悲情兄妹]</FONT><FONT color=#7e12d2>。敬请期待下面的故事。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "格雷尔",
+      "question": "姐姐就拜托你了，{user_nick}……",
+      "answer": ""
+    }
+  ]
+}

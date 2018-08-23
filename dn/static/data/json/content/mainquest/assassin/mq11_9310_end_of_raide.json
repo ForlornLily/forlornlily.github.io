@@ -1,0 +1,217 @@
+{
+  "qkname": "龙之突袭的结局",
+  "data": [
+    {
+      "npc": "暗影喵",
+      "question": "看到徒弟过得很好，我感到很欣慰喵。<br>你还记得自己现在要到哪里去吗喵？",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "你在磨蹭什么呢喵？<br>其他冒险家全都到<FONT color=#a82424>王城</FONT>去了喵。你难道不用去吗喵？！快到王城去吧喵～",
+      "answer": "",
+      "image": "qw_sainthaven_inside.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你不是要到<FONT color=#a82424>王城</FONT>去吗？<br>虽然不太清楚具体的情况……但其他冒险家好像都到那里去了。",
+      "answer": "",
+      "image": "qw_sainthaven_inside.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "哈哈，做好了心理准备的话，就快去向<FONT color=#a82424>将军道格拉斯</FONT>报告，然后到黑暗大君主练兵场去吧。<br><FONT color=#387206>{user_nick}</FONT>，我想将军道格拉斯一定会允许你去的。",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "我现在没空再顾你啊！<br>\n你自己看着办吧？",
+      "answer": ""
+    },
+    {
+      "npc": "受伤的杰兰特",
+      "question": "……现在我没什么好跟你说的。应该做什么，你自己最清楚。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……是吗？原来时间是这样流动的……",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "啊，是你啊。听说你帮了不少忙。<br>只要你做好了足够的心理准备，希望你能参加这次的出征。怎么样？",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "态度非常好！<br>好的，就让我们以50年前的六位英雄为榜样，一起撰写伟大而壮丽的历史篇章吧！",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "虽然敌人很强，但是只要我们不失去勇气，坚持到底，就一定可以击败黑龙，找回先知。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "好的，你快到<FONT color=#a82424>黑暗大君主练兵场</FONT>去吧。<br>其他的冒险家和精锐部队已经出发了。<br><br><FONT color=#7e12d2>(* 在组队状态下无法执行的任务。)</FONT>",
+      "answer": "",
+      "image": "qw_36.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "以防万一，我们加强了神圣天堂的防御。<br>不用担心这里，快到<FONT color=#a82424>黑暗大君主练兵场</FONT>去寻找先知吧！<br>\n <br>\n<FONT color=#7e12d2>(* 在组队状态下无法执行的任务。)</FONT>",
+      "answer": "",
+      "image": "qw_36.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "到黑暗大君主练兵场去吧。",
+      "answer": "",
+      "image": "qw_36.png"
+    },
+    {
+      "npc": "战士西恩",
+      "question": "让我们快点到黑暗大君主练兵场去吧。<br>这次一定要救出先知！",
+      "answer": "",
+      "image": "qw_36.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "那个可恶的黑骑士，竟然让杰兰特受了伤！",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……是吗？<br>原来时间是这样流动的……",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "\n我的眼睛看不见了……<br>我被那家伙的气息喷个正着，可能再也看不见东西了……",
+      "answer": "",
+      "image": "qm_black_dragon.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "连仅剩的一只眼睛都……变成了这个样子……<br>杰兰特……！<br><FONT color=#7e12d2>(阿尔杰塔抱住了杰兰特，眼角湿润了)</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我觉得这是……最好的结果。<br>无需自责，没那个必要。<br>你已经尽了全力，阿尔杰塔……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你没事吧？<br>那个……黑骑士呢……？</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "贝思柯德……现在这附近感觉不到他的气息。<br>不过只要宝玉还在，龙是不会那么容易死的。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "只要他还没有完全消失，就不能松懈。<br>不知道他会不会针对<FONT color=#a82424>古代人的后裔</FONT>，制造什么事端。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>黑龙是贝思柯德……？！</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "从凯德拉关卡开始，你就一直嚷嚷着要追踪<FONT color=#a82424>黑骑士</FONT>。难道不知道他是谁吗？<br>\n现在不是说这种鸡毛蒜皮的小事的时候，不是吗？",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "是的，黑龙就是贝思柯德。他就是劫持古代人后裔的黑骑士。<br>他把杰兰特仅剩的一只眼睛抓瞎了，然后消失了。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>怎么会这样……？！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "看你好像很吃惊的样子。<br>不管你和他是什么关系，现在不要再在这里浪费时间了。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我会做我力所能及的事情。<br>……你和阿尔杰塔一起回去，回到神圣天堂去。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "<FONT color=#a82424>神圣天堂王城</FONT>有条<FONT color=#a82424>通往地下的路</FONT>。<br>可以通过那条路到达这里。",
+      "answer": "",
+      "image": "qw_sainthaven_inside.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#7e12d2>(露娜莉娅用平静的眼神看着杰兰特和阿尔杰塔)</FONT><br>……是吗？原来时间是这么流动的……",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>露娜莉娅？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，我们得走了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我的脑袋有点混乱。<br>黑骑士……那个叫贝思柯德的男人为什么会认识幻象呢？到底为什么……？</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>幻象受了伤，带着露娜莉娅逃走的时候，是50年之后的事情。<br>贝思柯德已经不是人类，所以可以理解……但是幻象到底是什么人？他为什么要把你……</FONT>",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我也不知道他是什么人。<br>我连<FONT color=#a82424>自己到底是谁</FONT>都不知道。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "不知道目的，也不知道要去哪里……<br><FONT color=#a82424>只有到了之后才知道</FONT>。<br>这就是时间的秘密。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "现在你应该按<FONT color=#a82424>那个人</FONT>说的去做。<br>你现在只能沿着展现在你面前的路前进。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    }
+  ]
+}

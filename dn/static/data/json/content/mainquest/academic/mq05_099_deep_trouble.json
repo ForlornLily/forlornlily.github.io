@@ -1,0 +1,153 @@
+{
+  "qkname": "突发状况很难办",
+  "data": [
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n好了，既然贤者法杖和秘传之球已经找回，现在应该能看到贤者预言啦。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "很久以前，魔法师和牧师的始祖<FONT color=#a82424>贤者</FONT>预言数百年后，世界将会灭亡。随着象征着先知的诞生之星的出现，世界末日也将到来。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "不久前，预示先知觉醒的<FONT color=#a82424>觉醒之星</FONT>升起来了。<br>根据古来的约定，牧师们为了获得贤者的启示，回到了神圣之地魔法山脊。为获得启示需要的两个圣物是……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>贤者法杖和秘传之球。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "……你，真是讨厌……<FONT color=#7e12d2>（辛西亚嘟囔着）</FONT><br>总之，那两样圣物是从同一个法杖上分离出来的。据说如果象征着先知的太古之星升起，将两样圣物合二为一，就能获得贤者的最后启示。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>这些事情我早就知道了。</FONT><br>\n<FONT color=#662500>根据预言……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n够了够了……你又要开始胡言乱语了？<br>\n啧啧……平时看起来蛮正常的，不知道为什么会有妄想症……",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n好了，我们等着看贤者的启示吧？！",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "\n▶ Mission Object.<br>▷ <FONT color=#7e12d2>请去见见高级魔法师辛西亚。</FONT>",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n贤者的启示，先知的出现……呃呃，这都是什么意思啊？<br>\n<FONT color=#7e12d2>（安杰利卡捂住耳朵）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "你说<FONT color=#a82424>红发少女</FONT>就是先知……<br><br><FONT color=#7e12d2>（试着链接学者站台，和百合花联络吧）</FONT>",
+      "answer": "",
+      "image": "qn_npc_academic_station.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_MR_Jasmin_sp_04.ogg}<br>你来啦， <FONT color=#387206>{user_nick}</FONT>。<br>这么长时间没收到你的消息，我正在担心呢。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "你在魔法山脊停留的时间太长了，必须要抓紧时间。<br>先知大概已经到达了第一个目的地--叹息峡谷了。<br>你必须抓紧时间前往<FONT color=#a82424>凯德拉关卡</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "\n等下，飞艇迫降时，你有没有使用紧急喷射装置？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>没有，就那样坠落的……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "是吗？好的，只要将紧急喷射装置改造成中短途移动装置，就能立刻到达凯德拉关卡。<br>那样的话，就能大幅缩短时间，按时找到先知了。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那我现在就前往飞艇残骸所在处。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_MR_Jasmin_sp_08.ogg}<br>好的。你一到达凯德拉关卡，就跟我联系。那，我先结束通讯……<br><FONT color=#7e12d2>（百合花结束了通讯。前往融解森林吧）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者站台",
+      "question": "▶ Mission Object.<br>▷ <FONT color=#7e12d2>请移动到融解森林。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n哇~小孩，你来啦？<br>\n我正在找你呢。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n我想了又想，还是觉得你那个叫<FONT color=#a82424>通信机</FONT>的东西。<br>\n特别的神奇。<br>\n所以我也打算做一个。",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n刚巧那周围散落着类似的废铁块，我就用那些铁块当做零件试着进行了制作。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>啊……？！！！</FONT><br>\n<FONT color=#662500>（我的飞艇！！！！！）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n不过，我最终还是失败了，然后当做废铁卖给了宝林。嘿嘿~<br>\n<FONT color=#7e12d2>（安杰利卡露出了满意的微笑）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>原……原来是这样啊……</FONT><br>\n<FONT color=#662500>（移动装置打水漂了……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "所以……我想看看你的通讯器。<br>那通讯器不仅知道牛头怪的位置，居然还知道杰克和贤者的启示……真的好神奇……<br><FONT color=#7e12d2>（安杰利卡的眼睛闪烁着光芒）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "魔法师安杰利卡",
+      "question": "\n小孩，对不起~！<br>\n我想研究下这东西！<br>\n借给我一段时间吧~！<br>\n<FONT color=#7e12d2>（安杰利卡拿着通讯器，飞快地逃跑了）</FONT>",
+      "answer": "",
+      "image": "qn_npc_angelica.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>啊！！不行！安杰利卡！！请，请等下！！！！！</FONT><br>\n<FONT color=#662500>站住！你这个小……小偷！！！！</FONT>",
+      "answer": ""
+    }
+  ]
+}

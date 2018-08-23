@@ -1,0 +1,182 @@
+{
+  "qkname": "命运的少女",
+  "data": [
+    {
+      "npc": "牧师托马斯",
+      "question": "虽然对<FONT color=#a82424>杰克</FONT>的梦想究竟是什么我们不得而知……<br>但至少……你的阻拦……你亲手停止这件事情，并非我所愿，<br>我没什么好对你说的了……",
+      "answer": "",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "别太难过。<FONT color=#a82424>杰克</FONT>应该也不想看到你这个样子。<br><FONT color=#a82424>杰克</FONT>的事情……就由你和我藏在心里吧。他在追踪<FONT color=#a82424>龙之追随者</FONT>的时候，光荣殉教了。",
+      "answer": "……谢谢你。",
+      "image": "qn_jake.png"
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "<FONT color=#a82424>牧师托马斯</FONT>正在找你。",
+      "answer": "",
+      "image": "qn_cl_tomas.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "<FONT color=#a82424>牧师托马斯</FONT>正在等你，你快去见见他。",
+      "answer": "",
+      "image": "qn_cl_tomas.png"
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "好了……必须尽快把<FONT color=#a82424> 秘传之球</FONT>和<FONT color=#a82424>贤者法杖</FONT>还给它们的主人。现在一定已经等得望眼欲穿了。<br>我会把找回的<FONT color=#a82424>秘传之球</FONT>交给<FONT color=#a82424>辛西亚</FONT>的，你就去雷昂纳多老头那吧。",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n<FONT color=#a82424>秘传之球</FONT>……找到啦。<br>\n麻烦了你两次……辛苦你了。",
+      "answer": ""
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "\n好吧……对于之前的无礼，我表示歉意……<br>\n你要去见<FONT color=#a82424>雷昂纳多</FONT>，刚好把<FONT color=#a82424>贤者之杖</FONT>交给雷昂纳多。好像到了实现雷昂纳多所说的<FONT color=#a82424>贤者的启示</FONT>的时候了。",
+      "answer": "",
+      "image": "qn_cl_leonardo.png"
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "贤，<FONT color=#a82424>贤者法杖</FONT>找回来了？<br>哈哈……！<br>\n现在就要可以看到<FONT color=#a82424>贤者的启示</FONT>了……",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": " 啊……贤者之杖和秘传之球找到了……真是谢谢你。<br> 我绝不会忘记<FONT color=#a82424>神殿骑士团</FONT>对我们的帮助。<br>现在终于可以执行<FONT color=#a82424>贤者的启示</FONT>了……真是太好了……呵呵……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>贤者的启示到底是什么呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "很久之前，贤者预言在数百年后，临近世界末日之时，会出现<FONT color=#a82424>两次征兆</FONT>。<br>\n它们分别是宣告先知<FONT color=#a82424>诞生</FONT>的<FONT color=#a82424>诞生之星</FONT>和宣告先知<FONT color=#a82424>苏醒</FONT>的<FONT color=#a82424>太古之星</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "是的。他预言说，将会有<FONT color=#a82424>先知</FONT>出现，拯救生灵涂炭的世界。<br><FONT color=#a82424>诞生之星</FONT>已经在十几年前出现……不久前预示<FONT color=#a82424>先知觉醒</FONT>的<FONT color=#a82424>太古之星</FONT>也出现了。",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "看到<FONT color=#a82424>太古之星</FONT>出现之后，<FONT color=#a82424>特拉玛依教皇</FONT>将<FONT color=#a82424>贤者之杖</FONT>交给了我。让我按照预言，在<FONT color=#a82424>栖息着魔力的山岗</FONT>将贤者之杖和秘传之球合在一起，实现预言。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n为什么没联络神圣天堂呢？",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "教皇说……侵蚀教团的<FONT color=#a82424>龙之追随者</FONT>的影响，已经到了无法控制的地步。如果联系<FONT color=#a82424>神圣天堂</FONT>，消息就会泄露给<FONT color=#a82424>龙之追随者</FONT>。所以我们才冒着危险秘密地运送贤者之杖。",
+      "answer": "",
+      "image": "qn_dragonsycophant.png"
+    },
+    {
+      "npc": "高级魔法师辛西亚",
+      "question": "你想知道贤者预言？哼。过不了多久你就会知道的。<br>详细的内容在你将<FONT color=#a82424>贤者法杖</FONT>交给<FONT color=#a82424>雷昂纳多</FONT>的时候听他说吧。",
+      "answer": "",
+      "image": "qn_cl_leonardo.png"
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "看来马上就可以亲眼目睹那著名的贤者预言了。<br>\n来，来，快！抓紧。<br>\n在<FONT color=#a82424>雷昂纳多老头</FONT>的眼睛望穿之前，哈哈。",
+      "answer": "",
+      "image": "qn_cl_leonardo.png"
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "\n嗯，正好，<FONT color=#a82424>辛西亚</FONT>来了……<br>\n你也在旁边看着吧。",
+      "answer": "",
+      "image": "qn_soceresscynthia.png"
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "预言中的<FONT color=#a82424>先知</FONT>处于危险之中……这可糟了。<br>必须马上把<FONT color=#a82424>先知</FONT>救出来。这件事应该交给谁呢……",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>和托马斯商议一下，发动神殿骑士团怎么样？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级牧师雷昂纳多",
+      "question": "嗯……知道了。把你看到的预言告诉<FONT color=#a82424>托马斯</FONT>，然后向他请求帮助。拜托你了。",
+      "answer": "",
+      "image": "qn_cl_tomas.png"
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "先知……嗯，必须先联络一下<FONT color=#a82424>神圣天堂大圣堂</FONT>。<br>\n你稍等一会儿。",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "在这期间，你最好配齐所需的装备。今后的旅途，应该并不平坦……<br><FONT color=#7e12d2>（角色等级必须达到9级以上，才能执行下一个阶段的任务）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "接到了<FONT color=#a82424>神圣天堂</FONT>方面的联络。说是为了救出先知，神殿已经派出了<FONT color=#a82424>第2</FONT>和<FONT color=#a82424>第3 骑士团</FONT>前往<FONT color=#a82424>凯德拉关卡</FONT>了。我们<FONT color=#a82424>第 4 骑士团</FONT>也接到指示前往<FONT color=#a82424>凯德拉关卡</FONT>汇合……不过……",
+      "answer": "",
+      "image": "qw_sainthaven.png"
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "你也知道，<FONT color=#a82424>神殿骑士团</FONT>内部出现了<FONT color=#a82424>龙之追随者</FONT>……不知道其他骑士团里又潜伏着多少<FONT color=#a82424>龙之追随者</FONT>。我们不能再继续相信神殿。",
+      "answer": "",
+      "image": "qn_dragonsycophant.png"
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "……呼……把这么沉重的担子交给你，真是抱歉……<br>从现在起……<br>我要把你<FONT color=#a82424>逐出</FONT><FONT color=#a82424>神殿骑士团</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>……？！团长！您的意思是？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "在今后的旅程中，<FONT color=#a82424>神殿骑士</FONT>的身份会束缚住你的手脚。你不能这样……就像<FONT color=#a82424>杰克</FONT>说的那样，你必须不受任何人影响、不被任何人强迫。只有这样，你才能完成<FONT color=#a82424>自己的任务</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "<FONT color=#a82424>救出先知。</FONT><br>这是你<FONT color=#a82424>最后的任务</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>……神的仆人 {user_nick}……，领命……</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "牧师托马斯",
+      "question": "<FONT color=#a82424>凯德拉关卡</FONT>的<FONT color=#a82424>冒险家公会</FONT>会帮助你的。<br>愿你的旅程伴随着女神的庇护和恩宠……愿……我们定能再次相见……",
+      "answer": "",
+      "image": "qn_ranger_fugus.png"
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "qkname": "失踪的候补",
+  "data": [
+    {
+      "npc": "精灵长老",
+      "question": "不过她们为什么还不回来呢。<br><FONT color=#7e12d2>(精灵长老表情非常暗)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "候补们…出发去巡礼的其他候补们一个都没归来。<br>早就过了可来回的时间了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>要不再等等吧?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9273_05.ogg}<br>不对。感觉非常不安。肯定有什么出错了。<br>不过因为女王选举会议无法排遣警卫兵去找她们，真是为难啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那我去找找吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "可以吗?<br><FONT color=#7e12d2>(精灵长老做着放心了的表情，但表情随即硬化)<br></FONT>不，不行。请别那么做。如果连你也回不来的话....",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我没关系的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "她们曾经都是敏捷的森林之子。虽然问题发生了，但原因还不明。<br>连你也有可能陷入危险，我不能轻易决定。<br><FONT color=#7e12d2>(站在旁边的尤万西贝尔开口了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "不用担心。<br>\n由我<FONT color=#387206>{user_nick}</FONT>大人。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "你不知道你才是最可疑的人吗？<br>尤万西贝尔，你离开我们的时候我也在那里。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9273_06.ogg}<br>我相信你的实力，但无法相信你的心。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "我知道你看不惯我。<br>但是<FONT color=#387206>{user_nick} </FONT>大人对我来说和另一个她无异。<br>我只是想保护<FONT color=#387206>她</FONT>而已。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9273_07.ogg}<br>她?啊爱玛莉莉丝大人... 你怎、怎么敢把她的名字挂在嘴上!!<br><FONT color=#7e12d2>(吵架似乎要继续。先尽情仲裁吧。)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>和尤万西贝尔一起去去就来。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "<FONT color=#387206>{user_nick} </FONT>大人信任这个人吗?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>如果这就是我的特雷西亚，我会平安归来吧。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9273_08.ogg}<br><FONT color=#7e12d2>(精灵长老犹豫着回答)<br></FONT><FONT color=#2b2723>那就随便吧。女王选举会议时候补的判断全是通向宿命之路..<br></FONT>去<FONT color=#a82424>黄金草原</FONT><FONT color=#2b2723>就行。希望和阿洁丽雅一起平安归来....</FONT>",
+      "answer": "",
+      "image": "qw_78.png"
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "长老似乎有关于其他女王候补的话要说。<br><FONT color=#7e12d2>(与精灵长老对话吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "长老似乎有关于其他女王候补的话要说。<br><FONT color=#7e12d2>(与精灵长老对话吧)</FONT>",
+      "answer": "",
+      "image": "qn_npc_elder_elf.png"
+    },
+    {
+      "npc": "阿洁丽雅的尸体",
+      "question": "<FONT color=#7e12d2>(还能感觉得到体温)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "听说你要女王选举会议? 看来精灵也没什么人才了。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "尤万西贝尔，别太信任那个男人。"
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "该去出发寻找其他候补了吧?"
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "这个…我们太迟了。<br>得先调查尸体吧?"
+    },
+    {
+      "npc": "阿洁丽雅的尸体",
+      "question": "<FONT color=#7e12d2>(还能感觉得到体温。发现被人刺过的痕迹)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊... 阿洁丽雅大人?</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿洁丽雅的尸体",
+      "question": "<FONT color=#7e12d2>(尸体不可能回答。与尤万西贝尔对话吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "这个…我们太迟了。<br>有什么发现吗?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我不太清楚。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "可怜的<FONT color=#387206>{user_nick}</FONT> 大人。<br>\n你可能不知道，但你现在正做着马上就要哭出来的表情。<br>\n我虽然不认识她，但很羡慕她能让你做出这样的表情。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "不再看看吗?",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "好。那由我去看看吧。<br>\n<FONT color=#7e12d2>(尤万西贝尔查看着阿洁丽雅的尸体)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "唉呀唉呀。不用做着像人类女孩一样的表情努力着。<br>\n先通知<FONT color=#a82424>长老</FONT>吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(得在回去的路上通知阿尔杰塔大人了)</FONT>",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "阿洁丽雅的尸体",
+      "question": "<FONT color=#7e12d2>(尸体不可能回答。与尤万西贝尔对话吧)</FONT>"
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "女王选举会议正在进行吗?<br>因为有身为问题元凶的你在，我相当担心啊。",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "…嗯?你为什么哭啊。谁打你了吗?",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "好好说啊。啊~真让人着急。<br>\n阿洁丽雅什么?那个精灵打你了吗?<br>\n以为那个精灵和你很要好，看来不是啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>阿洁丽雅大人死掉了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "什么嘛。就为那么点事吗？你们本来就会死吧。就为那点事哭吗?<br>虽然精灵的寿命的确比人类长，但先死一、两百年有什么?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>她和我一样也曾是女王候补。</FONT><br>\n<FONT color=#662500>似乎在女王选举会议中被杀了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9273_01.ogg}<br>女王候补被杀了? 在女王选举会议中?<br>那个有点问题吧?所以我告诉你要小心了吧!",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "真是事事不如意啊。真麻烦。<br>通知长老了吗?",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>现在正要去。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "ndnpc_AN_Argenta_qu_9273_02.ogg}<br>那就快去吧。你也小心点。 <br>所以这只是因为女王候补全死掉会很麻烦才说的话。听懂了吧?<br>绝对不是因为担心你才说的话，别误会。",
+      "answer": ""
+    },
+    {
+      "npc": "弓箭手尤万西贝尔",
+      "question": "以现在的情况无法找到更多的线索吧。<br>首先去找<FONT color=#a82424>长老</FONT>报告吧。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "<FONT color=#a82424>阿洁丽雅</FONT>被杀害了是真的吗?<br>啊哈。真是大事不妙啊。神圣的仪式中怎么会发生这种悲剧...",
+      "answer": "",
+      "image": "qn_npc_azelia.png"
+    },
+    {
+      "npc": "精灵长老",
+      "question": "ndnpc_AN_Elf Elder_qu_9273_09.ogg}<br>肯定是有人打开了森林结界来破坏仪式的。<br>确认过阿洁丽雅的周围吗?",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "\n<FONT color=#7e12d2>(听到情况的长老叹息着)</FONT><br>\n原来如此。虽然没别的东西，但似乎大惊失色了啊。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "能理解。你女王候补中也是，和阿洁丽雅是比较要好的。<br>我们精灵也不是很习惯同族的死。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "理解自然的变化并接受，与容忍灾难和体谅这事从头到尾都是不一样的。<br>\n就算是精灵，离别的悲伤还是很痛苦的。",
+      "answer": ""
+    },
+    {
+      "npc": "精灵长老",
+      "question": "但是情况竟然会变成这样，越来越担心别的孩子们有没有事了。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "阿尔杰塔",
+      "question": "女王选举会议中女王候补竟然被杀害了...<br>有你出现怎么总是这样。不是要去报告吗，快点去<br>\n<FONT color=#7e12d2>(去向精灵长老报告情况吧)</FONT>",
+      "answer": ""
+    }
+  ]
+}

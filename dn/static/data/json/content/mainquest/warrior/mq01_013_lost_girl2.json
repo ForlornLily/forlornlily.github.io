@@ -1,0 +1,69 @@
+{
+  "qkname": "失踪的少女Ⅱ",
+  "data": [
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "必须尽快找到萝丝……",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵史蒂夫",
+      "question": "村长海洛德一定非常担心。<br>我们自卫团员也准备去寻找萝丝。",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "听卫兵史蒂夫说，自卫团方面也派出了人手。<br>到了<FONT color=#a82424>阴影森林山麓</FONT>，应该就能见到自卫团员。",
+      "answer": "",
+      "image": "qw_1.png"
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "警……警戒中，无任何异常！我……我什么都没干！",
+      "answer": ""
+    },
+    {
+      "npc": "自卫团长史蒂夫",
+      "question": "我们自卫团的一名团员在听说了<FONT color=#a82424>萝丝</FONT>的消息之后前往了<FONT color=#a82424>阴影森林山麓</FONT>，请冒险家你与他会合吧。",
+      "answer": "",
+      "image": "qn_guard_timose.png"
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "请前往<FONT color=#a82424>阴影森林山麓</FONT>吧。<br>而且一定要救回萝丝啊……咳咳咳……",
+      "answer": "",
+      "image": "qw_1.png"
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "警……警戒中，无任何异常！我……我什么都没干！",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "啊，啊？你……你是谁？！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>村长海洛德很担心。</FONT><br>\n<FONT color=#662500>我是来这里帮忙寻找萝丝的。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "卫兵提摩西",
+      "question": "哦……这，这样啊……是啊……我正在收集魔物们掉下来的地图碎片呢。<br>我要在萝丝被……被伤害之前找到才行……",
+      "answer": ""
+    },
+    {
+      "npc": "村长海洛德",
+      "question": "请前往<FONT color=#a82424>阴影森林山麓</FONT>见见自卫团员吧。<br>\n然后和他一起救回我的孙女萝丝，拜托了。",
+      "answer": "",
+      "image": "qw_1.png"
+    }
+  ]
+}

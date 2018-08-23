@@ -1,0 +1,318 @@
+{
+  "qkname": "你必须去的地方",
+  "data": [
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "<FONT color=#7e12d2>(泰兰斯·特拉玛依的表情非常沉痛)<br></FONT>最终……我还是没能为巴尔纳做什么……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(先到利物沃特码头去，听听露娜莉娅怎么说吧)</FONT>",
+      "answer": "",
+      "image": "qw_liverwortferry.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "他抓住了想要到巨石碑另一面去的我。<br>就像最初见面的时候他向我伸出了手一样，他转过身，拉住了我的手。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "他这样说道。<br>“<FONT color=#662500>露娜莉娅，没想到找到巨石碑的时候会是和你诀别的时候</FONT>”……",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "他利用阿尔泰精髓的力量，和我一起回到了遥远的过去。<br>回到了巨石碑的门没有打开的过去。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我想重新把门打开，但是他不愿意放开我。<br>所以我只能匆忙逃走，逃到了不知道什么时候也不知道是哪里的某个地方。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "他过来追我。<br>他说不能放我走，不能和我分开，不愿把我送到巨石碑的另一面去。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我不停地逃啊逃，逃啊逃。<br>不断地在失控了的时间中穿越。时间没有规律地胡乱流淌。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "再次见到他的时候……<br>他已经变成了名叫幻象的使徒。",
+      "answer": "",
+      "image": "qn_npc_illusion.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "接下去的事情你也知道了。<br>他没有把我交给使徒们的国王，而是选择和我一起逃走。<br>他不想把我交给任何人。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "在逃跑的过程中，使徒们的国王给他留下了致命伤。我以为<FONT color=#7e12d2>他</FONT>会就这样死去。<br>他让我很彷徨，我不希望他死去。<br>……于是我穿越了时间，遇见了你。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你出现在了眼前。<br>幻象死了，只剩下你和我。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "他不想把我交给过去的自己，但是最终你赢了。<br><FONT color=#387206>{user_nick}</FONT>，你是他，同时又不是他。你是你，你是<FONT color=#387206>{user_nick} </FONT>，你只是你自己。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "这就是全部。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……<br>(不知道该说什么才好)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "真的就是这些。<br>我一直依赖他……依赖你，依赖过去的另一个你，以及未来你会成为的那个你。<br>一直以来……就那样活着，忘记了我的义务。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……我带着濒死状态的幻象，在无意之间来到了你的面前。<br>我想一直依赖他到什么时候呢……？",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你恨我吗？<br>……为什么不说话？<FONT color=#387206>{user_nick}</FONT>……我唯一的同伴。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……恨你？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……嗯，你变成这样，都是因为我。<br>\n就算你恨我、讨厌我也没关系。<br>\n要不是我，幻象和你……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你觉得光光说恨就足以了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我被莫名其妙地带到了陌生的地方，没有人告诉我为什么。能相信的人只有你，但你却什么都不告诉我。偶尔幻象还会出现，说什么“我就是你”。我还以为自己会发疯呢。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不过虽然我不知道原因……但是我觉得不能抛下你。</FONT><br>\n<FONT color=#662500>在分手之前，你什么都没跟我说。</FONT><br>\n<FONT color=#662500>但我还是一直相信你。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>所以我希望你也能相信我。</FONT><br>\n<FONT color=#662500>我不会做出幻象那样的选择。我会把你带到巨石碑那里去。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……是的，到巨石碑那里去……我是为了这个，才来见你的。<br>虽然我知道必须重新到那里去，但是……<br><FONT color=#7e12d2>(露娜莉娅低下了头，沉默不语)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……<FONT color=#387206>{user_nick}</FONT>，我想拜托你一件事。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "希望你能帮助我，让我可以重造阿尔泰精髓。<br>也许这是我最后的请求了。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……之前我一直不相信你。<br>我一直想如果我不把阿尔泰精髓送给你，不，送给他的话，就不会变成这样了。<br>我一开始就在依赖他，这是最大的问题。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "但是我一个人不行。<br>无法做到。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我可以帮你，不过……<br>现在你能相信我了吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你不是幻象。<br>时间不是固定的，而是由每个瞬间的选择积累而成的。<br>就像路是由一个个脚印组成的一样。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……<br>需要我帮你做什么呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……我需要陨石碎片。<br>还有真实之镜。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>陨石碎片，是制作异界面具时使用过的……？</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "是的，原来你知道啊。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "首先，必须到<FONT color=#a82424>陨石坠落地中心</FONT>去搜集<FONT color=#a82424>陨石碎片</FONT>。<br>我也一起去。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我消失之后，时间没有发生混乱吧？<br>\n现在的下一个瞬间没有变成过去或者未来吧？<br>你一开始就应该生活在这样的世界中……全都是因为我。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我已经无法把你变回不认识我的那个你了，你只能在这里继续生活下去。 <br>这也是因为我。你遇到的一切困难和不幸全都是因为我……",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "所以你可以恨我。<br>你有这个资格。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "嗯……因为我一个人什么都做不了。<br>除了到巨石碑那里去，我什么事情都做不了。<br>不管以什么形式，一直以来你都在引导着我。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "为什么你二话不说就接受了呢？<br>你可真是个奇怪的人，<FONT color=#387206>{user_nick}</FONT>……一直如此。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "为什么？为什么你总是原谅我呢？<br>你可真是个奇怪的人，<FONT color=#387206>{user_nick}</FONT>……一直如此。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你一直是这样。<br>一直陪着我。我为了到巨石碑那里去而独自来到这里，而你却向我伸出了手。<br>你自己也迷了路，还在担心我要到什么地方去。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "真是个傻瓜。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "你总是这个样子，所以我才会依赖你。<br>……都是因为你。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>…….</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我不想走。也许想一直走下去的人，是我。<br>想重新回到过去，和你一起慢慢地旅行。也许当初我就是这么想的，呵呵呵。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我才是傻瓜。<br>一切全都是因为我。<br><FONT color=#7e12d2>(露娜莉娅低下了头)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "好了，我们回利物沃特码头去吧？<br>我唯一的，同时也是最后一个同伴。<br><FONT color=#7e12d2>(露娜莉娅轻轻地笑了)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "我不会再继续旅行了。<br>我的旅程就快结束了。也许。<br>\n <br>\n<FONT color=#7e12d2>(请和利物沃特码头的露娜莉娅谈谈)</FONT>",
+      "answer": "",
+      "image": "qw_liverwortferry.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "好了，你能把真实之镜给我吗？<br>不用戴异界面具，你也应该能看到。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "question": "<FONT color=#7e12d2>(露娜莉娅把陨石碎片放在真实之镜前面。<br>陨石碎片发出光芒，消失在了镜子之中)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "镜子中剩下的石头。<br><FONT color=#7e12d2>(露娜莉娅指着镜子说道)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我没戴异界面具，所以看不到。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "因为它在镜子里。<br>把它拿出来，你就能看到了。<br>你看，现在看见了吧？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(只是一块普通的石头。<br>和消失在镜子中之前看上去没什么区别……)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "在你的帮助下，我才能制作出这块阿尔泰精髓。<br>一半是属于你的。",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "就像我度过的时间有一半是和你在一起一样。<br>就像你可怜的命运有一半是和我纠缠在一起一样。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "question": "<FONT color=#7e12d2>(露娜莉娅把石头分成两半，把其中一半放在{user_nick}手上。<br>石头立刻消失了，就像从来都不存在一样)</FONT>",
+      "answer": ""
+    }
+  ]
+}

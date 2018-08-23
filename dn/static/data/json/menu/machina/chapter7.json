@@ -1,0 +1,65 @@
+[
+  {
+    "id": "mqc07_9629_sad_friendship",
+    "name": "令人悲伤的友情",
+    "qid": "9629",
+    "nextid": "9630",
+    "chapter": "7"
+  },
+  {
+    "id": "mqc07_9630_potential",
+    "name": "可能性",
+    "qid": "9630",
+    "nextid": "9631",
+    "chapter": "7"
+  },
+  {
+    "id": "mqc07_9631_lost_notes",
+    "name": "丢失的笔记",
+    "qid": "9631",
+    "nextid": "9632",
+    "chapter": "7"
+  },
+  {
+    "id": "mqc07_9632_unwelcome_guest",
+    "name": "不速之客",
+    "qid": "9632",
+    "nextid": "9633",
+    "chapter": "7"
+  },
+  {
+    "id": "mqc07_9633_solve_the_problems_yourself",
+    "name": "解铃还需系铃人",
+    "qid": "9633",
+    "nextid": "9634",
+    "chapter": "7"
+  },
+  {
+    "id": "mqc07_9634_shadows_of_the_past",
+    "name": "过去的阴影",
+    "qid": "9634",
+    "nextid": "9635",
+    "chapter": "7"
+  },
+  {
+    "id": "mqc07_9635_interpretation",
+    "name": "解释",
+    "qid": "9635",
+    "nextid": "9636",
+    "chapter": "7"
+  },
+  {
+    "id": "mqc07_9636_unbearable_anger",
+    "name": "愤怒难忍",
+    "qid": "9636",
+    "nextid": "9637",
+    "chapter": "7"
+  },
+  {
+    "id": "mqc07_9637_sad_succession",
+    "name": "悲伤的继承",
+    "qid": "9637",
+    "nextid": "9638",
+    "chapter": "7"
+  }
+]

@@ -1,0 +1,228 @@
+{
+  "qkname": "萨芬特拉的复活",
+  "data": [
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "<FONT color=#387206>{user_nick}</FONT>大人……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（看样子是王城近卫兵，他急忙跑了过来）<br>有什么事吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "王城近卫兵",
+      "question": "您正打算要走，我却拦住您，真是抱歉。<FONT color=#a82424>萨芬特拉</FONT>攻击了商团的船。<br>虽然之后派出了王室的海军，但是萨芬特拉把整个军舰都弄沉了……",
+      "answer": "",
+      "image": "qm_sea_drake.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你是说萨芬特拉在这附近出现了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "王城近卫兵",
+      "question": "没错。<br>这样下去连赫尔马岱港口也危险了。<br>我们真不知道该怎么办啊……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真是惭愧……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "王城近卫兵",
+      "question": "不不，派我来这里的道格拉斯将军也说这不能怪<FONT color=#387206>{user_nick}</FONT>。<br>现在不是计较谁错了的时候，为了打倒<FONT color=#a82424>萨芬特拉</FONT>，我们要团结一心才行。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "没有谁知道关于<FONT color=#662500>萨芬特拉的事情吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "王城近卫兵",
+      "question": "将军说，<FONT color=#a82424>高级弓箭手伊西莉安</FONT>在50多年前和六大英雄共事过，可能会知道关于萨芬特拉的事情。",
+      "answer": "",
+      "image": "qn_npc_archer_ishilien.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "我听说你去了莲花沼泽，看来你还有什么事情没做完吧。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "我派了王城近卫兵去找你，原来你在这里啊。你能去问问高级弓箭手伊西莉安是否知道关于萨芬特拉的事情吗？",
+      "answer": "",
+      "image": "qn_npc_archer_ishilien.png"
+    },
+    {
+      "npc": "王城近卫兵",
+      "question": "那就拜托你去找高级弓箭手伊西莉安，调查关于萨芬特拉的事情了。希望她能知道些什么。",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "我听说了，<FONT color=#a82424>萨芬特拉</FONT>袭击船舶，造成了巨大的损失，<br>你是为了这件事才来找我的吧？",
+      "answer": "",
+      "image": "qm_sea_drake.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "海怪<FONT color=#a82424>萨芬特拉</FONT>在50年前就已经是个非常强大的魔兽，<br>在屠龙者们打倒黑龙之前，他们也曾参与过讨伐<FONT color=#a82424>萨芬特拉</FONT>。",
+      "answer": "",
+      "image": "qm_sea_drake.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "那时候我们曾经团结一致和<FONT color=#a82424>萨芬特拉</FONT>对战，但是消灭萨芬特拉的却是<FONT color=#a82424>杰兰特的剑</FONT>，若是没有那把剑，是无法消灭萨芬特拉的。",
+      "answer": "",
+      "image": "qp_geraint_sword.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "是，那把剑似乎蕴含了什么特殊的力量。<br>在这之后<FONT color=#a82424>杰兰特的剑</FONT>又展现出了许多神秘的力量。",
+      "answer": "",
+      "image": "qp_geraint_sword.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "不知，你可知道那把剑的去向？<br>如果有<FONT color=#a82424>杰兰特的剑</FONT>，肯定会对打倒萨芬特拉大有裨益的。",
+      "answer": "",
+      "image": "qp_geraint_sword.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>杰兰特的剑……被贝思柯德带走了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "<FONT color=#a82424>贝思柯德</FONT>吗……？<br><FONT color=#7e12d2>（伊西莉安好像非常吃惊的样子）<br></FONT>是这样啊……<FONT color=#a82424>贝思柯德</FONT>的话，应该对杰兰特的剑非常之了解，因为他一直陪伴在其左右。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他为什么要把剑拿走呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "这个嘛……我也不知道原因。<br>他应该不是单纯的只是想要那把剑……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>真不知道他是怎么想的，太郁闷了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "请告诉<FONT color=#a82424>道格拉斯将军</FONT>有关杰兰特的剑的事情。<br>将军他应该能帮上忙。",
+      "answer": "",
+      "image": "qn_npc_genaral_duglas.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "赶紧过来，<br><FONT color=#a82424>伊西莉安</FONT>说了什么能帮到忙的话了吗？",
+      "answer": "",
+      "image": "qn_npc_archer_ishilien.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "<FONT color=#7e12d2>（转告了伊西莉安的话。）</FONT><br>她说需要<FONT color=#a82424>杰兰特的剑</FONT>……？<br>呼……这可真是越来越麻烦了。",
+      "answer": "",
+      "image": "qp_geraint_sword.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "被<FONT color=#a82424>黑骑士</FONT>抢走的剑，我们能用什么办法再给拿回来呢……<br>没能守护好先知和那把剑真是可惜啊。",
+      "answer": "",
+      "image": "qp_geraint_sword.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "抱歉……我不是要指责你，你不要太在意了。总之，要找到杰兰特的剑，就得找到<FONT color=#a82424>黑骑士</FONT>的行踪才行。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我会帮忙的。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "呵呵，当然要了。<br>若不是你，还能有谁担此重任呢。<br>虽然如此，你也不能想着孤身一人紧随<FONT color=#a82424>黑骑士</FONT>其后去抢回那把剑哦。",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "你先去<FONT color=#a82424>遗忘时间废墟</FONT>调查黑骑士的行踪吧。<br>有消息称，有人在那里看到了类似黑骑士的人。<br>我们要想找到他，就得从蛛丝马迹来着手。那就拜托你了。",
+      "answer": "",
+      "image": "qw_47.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>知道了。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "有消息称，有人在<FONT color=#a82424>遗忘时间废墟</FONT>看到了黑骑士。他为什么会去那里呢？<br>我会派侦察兵去其他地方看看的。",
+      "answer": "",
+      "image": "qw_47.png"
+    },
+    {
+      "npc": "将军道格拉斯",
+      "question": "你找到能够查出<FONT color=#a82424>黑骑士</FONT>行踪的线索了吗？",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我发现了这个。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "<FONT color=#7e12d2>（把土壤拿给道格拉斯将军看）</FONT><br>嗯……这个土壤确实很奇怪。<br>说不定这能够帮助我们找到黑骑士的行踪。",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>但愿如此……</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "道格拉斯将军",
+      "question": "在你去遗忘时间废墟的期间，侦察兵们带回了新的情报。",
+      "answer": ""
+    }
+  ]
+}

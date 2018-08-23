@@ -1,0 +1,254 @@
+{
+  "qkname": "我的影子",
+  "data": [
+    {
+      "npc": "暗影喵",
+      "question": "对了，徒弟喵！我帮你把这封信带来了喵。<br>是一个叫学者柯梅里纳的孩子送来的喵！",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳的信",
+      "question": "<FONT color=#086171>利物沃特码头，泰尔罗萨入口旁边，古代寺院旁边，挖开的地方，百合花，首先到达。绝对不要，告诉任何人。 [百合花远征基地]，那里的名字，被人知道的话，我们可能遭到袭击，小心。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "什么啊喵？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>柯梅里纳发来的消息。古代寺院附近挖开的地方，</FONT><br>\n<FONT color=#662500>会不会是之前你说的那个巨大的古代人的研究设施中的一部分呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "嗯，有可能喵。但是你又要到那种危险的地方去吗喵？真拿你没办法喵。你快去吧喵。但是不要进入遗迹太深的地方，明白了吗喵？小心别出什么事喵。",
+      "answer": ""
+    },
+    {
+      "npc": "暗影喵",
+      "question": "快去快回喵～！<br><FONT color=#7e12d2>(请到泰尔罗萨入口的百合花远征基地去</FONT><FONT color=#7e12d2>)</FONT>",
+      "answer": "",
+      "image": "qw_81.png"
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#387206>{user_nick}</FONT>！还好你安全地到达了这里。真是太好了。百合花没有先下手……我还担心百合花会不会先发动攻击呢。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我也很吃惊。没想到百合花会突然出现。</FONT><FONT color=#662500>而且那个样子……就像是怪物一样。</FONT>",
+      "answer": "",
+      "image": "qm_jasmin_black.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "是的，现在不能和百合花战斗。看见我身后的地方了吗？那里曾经是古代寺院的一部分。我想那座古代寺院好像拥有神秘的力量。百合花好像想利用这里的力量激活宝玉，制造瓦尔基里。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>百合花果然是为了利用古代寺院的力量，所以才会一直在附近活动。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……是的，百合花不仅想利用寺院的力量制造瓦尔基里和诺伦，还想让自己……拥有龙一样刀枪不入的身体。用普通的攻击根本动不了一根汗毛。",
+      "answer": "",
+      "image": "qm_jasmin_black.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "但并不是没有办法可以阻止她。只要在寺院中找到并消灭掉为百合花提供能量的瓦尔基里和诺伦，百合花的能量供应就会被切断。 ",
+      "answer": "",
+      "image": "qm_nornen_valkiri.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>原来是这样。那只要到里面去就行了，对吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……嗯？！等等，<FONT color=#387206>{user_nick}</FONT>。下面很危险。听说他们会把敌人当作祭品，也有传闻说会变成时间的迷童。比起直接进去，还是在外面想想办法比较好。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我应该没事吧？反正我只要穿越到其他时间就行。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "没有那个叫露娜莉娅的人，也能做到吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>也许。(也许我也可以穿越时间……不过我有阿尔泰精髓，应该不会被轻易困在遗迹之中)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……明白了。<FONT color=#387206>{user_nick}</FONT>，那就拜托你了。<br>刚才我听说，遗迹里面好像有防御装置。一定要小心！",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "NT><FONT color=#662500><br>露娜莉娅？！你怎么在这里？你不是说要到巨石碑那边去的吗……<br>(向露娜莉娅伸出手)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……<br><FONT color=#7e12d2>(没有碰到露娜莉娅。露娜莉娅的表情看上去有点</FONT><FONT color=#7e12d2>阴沉)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃，等等，你……不是露娜莉娅吗？<br>摸不到，有点晃动……难道是幻象？</FONT><br>\n<FONT color=#662500>露娜莉娅，发生什么事了？</FONT><br>\n ",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……<FONT color=#7e12d2>(好像在说什么，但是听不见。有什么办法可以 </FONT><FONT color=#7e12d2>听到她的话呢？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好像不是露娜莉娅本人，而是幻象……如果你没在说什么的话，我现在还有别的事要做。等所有的事情结束之后，我再过来。你能等我吗？露娜莉娅。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "露娜莉娅",
+      "question": "……<FONT color=#7e12d2>(露娜莉娅轻轻地点了点头</FONT><FONT color=#7e12d2>. 快到遗迹外面去吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……做，做到了吗……？<FONT color=#387206> {user_nick}</FONT>，你打败了百合花！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>太好了！我做到了吧？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……虽然无法确定她是否真的死了，不过新的克隆体们被击退了，基地也落入了你的手中……百合花应该无法再发动战争了。<FONT color=#387206>{user_nick}</FONT>，你可真厉害。你做到了！",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……未来姐妹们受到利用的悲剧，村庄被毁掉的悲剧，再也不会有了。真的非常感谢你，<FONT color=#387206>{user_nick}</FONT>。<FONT color=#387206>{user_nick}</FONT>，你拯救了这个时代。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我……拯救了这个时代？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "没错。<FONT color=#387206>{user_nick}</FONT>，你是这个时代的英雄！毫无疑问！<br>啊，对了，我想跟你说件事……嗯，龙的宝玉我想先交给你保管。",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，是你击败了百合花！你是这次胜利的主角。所以 <FONT color=#387206>{user_nick}</FONT>，请你拿起宝玉。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>好的，知道了。(走近宝玉，把它拿起来吧)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#7e12d2>(柯梅里纳微笑了一下</FONT>)<br>真是个美丽的宝玉。这是女神创造的龙之中拥有善良的心的古代龙的宝玉……一直以来由慈祥的英雄保管的宝玉。杰兰特，阿尔杰她……成为未来的守护者的那个人……",
+      "answer": "",
+      "image": "qn_knight_velskud_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>未来的守护者？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "是的，虽然他们三位从未谋面，但那些英雄们都继承了古代龙的善良的心。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>未来的守护者，是龙吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……啊……嗯……那个……不知道说出来……有没有关系……<br>好吧，历史已经改变，好像说出来也没什么关系……嗯……<br>不不，我可以告诉你！不过绝对不能告诉其他人哦？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(干嘛这样吊人胃口？)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "未来的守护者……是贝思柯德。",
+      "answer": "",
+      "image": "qn_knight_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯？？？？？？贝思柯德不是使徒吗？！？！？？！？！？！？！</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……当，当然，曾经是敌人……不过现在的贝思柯德和未来的贝思柯德完全不同……他是个……慈祥的人！",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>……现在我还有点不……(柯梅里纳的眼睛里发出了光芒)</FONT><br>\n<FONT color=#662500>……嗯……虽然他看上去不像是天性邪恶的人……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "呵呵，总之那是未来的事情。现在那个宝玉……按照原来的历史，本应由黛西保管。但是黛西不在了，它也没有了主人。我不知道该把它放在哪里……所以只能拜托你。",
+      "answer": "",
+      "image": "qn_npc_daisy.png"
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "<FONT color=#387206>{user_nick}</FONT>，你和特拉玛依很熟悉吧？你能去问问特拉玛依，这个宝玉该用在什么地方吗？特拉玛依是黑龙之战中的6位英雄之一，也许他会知道这个宝玉应该用在什么地方。",
+      "answer": "",
+      "image": "qn_npc_lotus_elder_teramai.png"
+    },
+    {
+      "question": "完成任务",
+      "answer": ""
+    },
+    {
+      "npc": "学者柯梅里纳",
+      "question": "……拜托你了。我在这里等你。之后请把结果告诉我。",
+      "answer": ""
+    }
+  ]
+}

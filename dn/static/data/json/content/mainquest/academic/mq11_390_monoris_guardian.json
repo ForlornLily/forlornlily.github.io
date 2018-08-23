@@ -1,0 +1,387 @@
+{
+  "qkname": "巨石碑的守护者是谁",
+  "data": [
+    {
+      "npc": "杰兰特",
+      "question": "贝思柯德？<br>……我为什么要把他的名字挂在嘴边啊。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "无论是一年前，还是十年前都属于过去。<br>重要的是过去在我们的记忆中留下了什么。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_06.ogg}<br>为了我们的世界，我们要选择的最后答案已经非常明确……<br>但想要实现似乎非常困难。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "杰兰特居然就在王城的地下……",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "听到他还健在，我的心终于宽慰了很多，嘿嘿。<br>为此……很抱歉，我想再拜托你一件事。",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "未能摆脱50年前的阴影的人不止我一个。<br>应该也给<FONT color=#2b2723>她</FONT>一次机会才对吧？<br>希望你去见见<FONT color=#a82424>高级弓箭手伊西莉安</FONT>，拜托你了。",
+      "answer": "",
+      "image": "qn_npc_archer_ishilien.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你是个问题很多的孩子啊。<br>我听说人类小孩的好奇心很重。<br>你果然是人类小孩啊。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_06.ogg}<br>为了我们的世界，我们要选择的最后答案已经非常明确……<br>但想要实现似乎非常困难。",
+      "answer": "",
+      "image": "qn_npc_academic_jasmine.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "无论是一年前，还是十年前，都属于过去。<br>重要的是，过去在我们的记忆中留下了什么。",
+      "answer": ""
+    },
+    {
+      "npc": "纹章学者斯塔西",
+      "question": "<FONT color=#a82424>高级弓箭手伊西莉安</FONTgen>跟随着内尔文参与了50年前的那场战斗。<br>那场战争之后，她肯定也有自己的疑问没有解除。<br>希望你能去和她谈谈，拜托你了。",
+      "answer": "",
+      "image": "qn_npc_archer_ishilien.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "我已经听斯塔西说过了。我一直梦想见到的<FONT color=#a82424>他</FONT>就在神圣天堂的王城。<br>还有……只有几位冒险家才能见到他。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>你能跟我说说你的故事吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "……50年前，我跟随纳尔希亚女王……<br>也就是说，我跟随着当时被称为<FONT color=#a82424>内尔文</FONT>的人一起参与了对抗黑龙的战斗。",
+      "answer": "",
+      "image": "qn_archer_nerwin_silhouette.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "一直都以为那是一支由人类和精灵组成的联军，可突然出现的<FONT color=#a82424>龙族</FONT>让所有人都陷入了混乱。",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "金龙……当被我们拥戴为头领的<FONT color=#a82424>杰兰特</FONT>变成龙时，大家都非常震惊。<br>战争结束之后，卡拉秋和巴尔纳都指责他是叛徒。",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "当时有很多人死去，或者身受重伤。<br>但是<FONT color=#a82424>杰兰特</FONT>和<FONT color=#a82424>阿尔杰塔</FONT>却不辞而别，没有向大家道歉，也没有为自己辩解。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "<FONT color=#a82424>内尔文</FONT>被黑龙的血所<FONT color=#a82424>污染</FONT>，受了重伤，被紧急送至<FONT color=#a82424>阿努阿兰德</FONT>。在此之后，她从未能离开过阿努阿兰德。",
+      "answer": "",
+      "image": "qn_archer_nerwin_silhouette.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "直到离开这里之前，内尔文都非常想知道，<br><FONT color=#a82424>他们俩</FONT>打算去做什么……",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "拜托你了，请帮我和内尔文解除这个长时间来困扰我们的疑问吧。<br>请替我问问<FONT color=#a82424>杰兰特</FONT>，过去的50年间他们两位都在做什么吧。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "请转告<FONT color=#a82424>杰兰特</FONT>。<br>我想知道他在过去的50年间都在做什么。",
+      "answer": "",
+      "image": "qn_npc_geraint_closeeye.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_05.ogg}<br>你受<FONT color=#a82424>高级弓箭手伊西莉安</FONT>之托，要去见<FONT color=#a82424>杰兰特</FONT>？<br>嗯……看来黑龙卡拉斯的那场突袭真的波及了很多人的人生啊。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……又是<FONT color=#a82424>50年前的相关人士</FONT>？<br>没想到历经了如此漫长的岁月，大家还是未能从那件事中解脱。",
+      "answer": "",
+      "image": "qn_npc_archer_ishilien.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你不是也一样嘛。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……是啊，我应该也是一样……<br>或者根本没有人能够完全摆脱过去。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "50年前的那场战争过后，<FONT color=#a82424>贝思柯德</FONT>带着黑龙的宝玉消失了。<br>我追踪他到了阿尔特里亚大陆，顺便找出<FONT color=#a82424>混沌龙的碎片</FONT>并将其封印。",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那阿尔杰塔呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "在女神之梦被堕落之毒污染后，世界逐渐变得动荡不安。污染扩散，魔物们逐渐变得更强大。阿尔杰塔为了支撑日渐衰弱的<FONT color=#a82424>巨石碑</FONT>，几乎耗尽了全力。",
+      "answer": "",
+      "image": "qn_npc_argenta.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>你能将我送到巨石碑那里吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我已经告诉过你了，那是不可能的。<FONT color=#a82424>巨石碑</FONT>是女神与这个世界相连的媒介。<br>是权衡世界的秤，是通向女神所在之处的台阶。<br>因此巨石碑是人类无法接触及承担的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>但我必须要那么做。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "知道位置的人只有<FONT color=#a82424>我</FONT>和<FONT color=#a82424>阿尔杰塔</FONT>……另外还有能看到女神的梦的<FONT color=#a82424>那位少女</FONT>。<br>所以你才想要掌控那位少女吗？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你给我的感觉不同于其他冒险家。从你纯洁却不安定的……<br>混乱的声音中可以听出来。<br>你是想通过那个少女接近<FONT color=#a82424>巨石碑</FONT>吗？",
+      "answer": "",
+      "image": "qn_rose.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>那是我的使命。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "我和阿尔杰塔，甚至于所有古代龙所要守护的是<FONT color=#a82424>世界的均衡</FONT>。<br>如果有人接近巨石碑，世界的均衡就会被动摇。<br>那是我决不允许发生的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>那你要杀了我吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "意志是你自己的，你要怎么做也是你的自由。<br>但如果世界的均衡被破坏，为尽我的使命，我会将武器指向你。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>但我也有我的使命。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……如果有可能，我并想杀你。因为其他冒险家们都认为你是他们的同伴。<br>如果杀了你，那在他们眼中我就是<FONT color=#a82424>叛徒</FONT>吧。<br><FONT color=#7e12d2>（杰兰特的表情有些痛苦）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>被认为是叛徒让你很痛苦吗？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……即便同伴们认为我是叛徒，我也无从辩解。<br>因为他们确实因那场战争受到了无法挽回的伤害，我也没用能力治愈他们。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "既然我无法救他们，那就让他们尽情憎恶我吧，这样应该更好吧？<br><FONT color=#a82424>憎恶也是人类活下去的力量</FONT>……<br>曾经有人这么说过。",
+      "answer": "",
+      "image": "qn_knight_velskud_silhouette.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个人是贝思柯德吗？</FONT>",
+      "answer": "",
+      "image": "qn_npc_velskud.png"
+    },
+    {
+      "npc": "杰兰特",
+      "question": "没错。50年前，贝思柯德带着<FONT color=#a82424>黑龙的宝玉</FONT>逃跑后，我才发现原来有<FONT color=#a82424>其他人</FONT>正觊觎着宝玉。贝思柯德是奉那个人之命来抢走宝玉的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>那个人是谁？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "不知道，我有怀疑的对象……<br>但我不想让不确定的事情搅乱你的未来。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（贝思柯德所说的报仇，就是对那个人的报仇吗？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……我不知道他背叛其他同伴时的心情是怎样的。<br>我也不知道他是以什么样的心情在活着。<br>有时候，人类正直的意图反而会变成强烈的恶意。",
+      "answer": "",
+      "image": "qn_npc_archer_ishilien.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>未来的他是个好人……</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你一直说你来自<FONT color=#a82424>未来</FONT>。<FONT color=#7e12d2>（杰兰特片刻沉默）</FONT><br>虽说未来的他是你的同伴，但这仍无法改变现在的他是世界的威胁这一事实。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>但他是个好人。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……<br>真没想到他会如此善待小孩。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（有这么意外吗？）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "你的年纪还小。希望你能健康成长，不要对巨石碑和陈年旧事耿耿于心。<br>我和阿尔杰塔尽我们所能维护世界的均衡，也是为了人类能健康成长。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（很抱歉，我也有我的使命）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "我会认真听说，你告诉我他的答案吧。<br>50年来，这个疑问一直困扰着我。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（转述杰兰特的话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "为了守护世界的均衡……<br><FONT color=#7e12d2>（伊西莉安陷入了沉思）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "原来如此。<FONT color=#7e12d2>（伊西莉安小声叹了口气）</FONT><br>他们两位的使命是守护世界，我知道他们或许会遇到很多苦难，但……",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "但是，让龙体谅大家的感情，对龙来说是不是太过为难了？<br>我不想说友情、爱情之类的大道理。<br>我是那样，内尔文也是……不，所有人应该都是那样。<br><FONT color=#7e12d2>（伊西莉安的表情很复杂）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "<FONT color=#a82424>杰兰特</FONT>曾是我们的头领。所有人都信任他，爱戴他。我想也正因为如此，卡拉秋和巴尔纳见到他的真实面貌时才会那么生气啊。<br>我们一直认为他是我们的<FONT color=#a82424>同伴</FONT>，结果却遭到了<FONT color=#a82424>背叛</FONT>……那是我们当时的想法。",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "但杰兰特和阿尔杰塔却不辞而别，没有半句辩解。<br>比起疾病，冷冰的背叛让大家更痛苦。<br>大家认为自己被利用了，被抛弃了。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>但杰兰特也……</FONT><br>\n<FONT color=#662500>（转述杰兰特所说的话）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "\n……杰兰特还是那样，让人恨不起来。<br>如果他真的是叛徒，大家可能会更舒服……",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "我猜他肯定会这么回答的。<br>但我认为，肯定没人真心憎恶杰兰特。不仅仅是我……是所有人。<FONT color=#7e12d2>（伊西莉安微笑着）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……我好像对你说了太多话了。<br>你不应该被我和过去的事情牵绊，应该往前进，去挑战其他的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "杰兰特",
+      "question": "……我好像对你说了太多话了。<br>你不应该被我和过去的事情牵绊，应该往前进，去挑战其他的事情。",
+      "answer": ""
+    },
+    {
+      "npc": "高级弓箭手伊西莉安",
+      "question": "\n如果他怀有一点点跟我们相同的感情，说不定现在大家就不会这么痛苦了。<br>\n感谢你帮我解除了这个长时间困惑我的疑问，<FONT color=#387206>{user_nick}</FONT>。<br>\n <br>\n<FONT color=#7e12d2>*请链接学者站台。</FONT>",
+      "answer": "",
+      "image": "qn_npc_geraint.png"
+    },
+    {
+      "npc": "学者百合花",
+      "question": "ndnpc_SH_Jasmin_sp_01.ogg}<br>原来发生过那样的事情啊。从我们的时代追溯，应该算是100年前的事情了，<FONT color=#a82424>黑龙卡拉斯</FONT>的突袭似乎影响了很多人的人生啊。",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "先知仍然沉睡着，<FONT color=#a82424>金龙的巢穴</FONT>到底是怎么被解除的呢？<br>我还猜测不出来。也没有相关的材料……真是令人担心啊。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "\n<FONT color=#662500>我会留心观察巢穴的。</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "学者百合花",
+      "question": "嗯，拜托你了。<br>那你先……<br><FONT color=#7e12d2>（百合花陷入了沉思）</FONT>",
+      "answer": ""
+    }
+  ]
+}

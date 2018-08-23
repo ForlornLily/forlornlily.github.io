@@ -1,0 +1,191 @@
+[
+  {
+    "id": "mqc17_9700_go_mistland1",
+    "name": "前往迷之大陆 I",
+    "qid": "9700",
+    "nextid": "9701",
+    "chapter": "17"
+  },
+  {
+    "id": "mqc17_9701_go_mistland2",
+    "name": "前往迷之大陆 II",
+    "qid": "9701",
+    "nextid": "9702",
+    "chapter": "17"
+  },
+  {
+    "id": "mqc17_9702_successor_of_protector",
+    "name": "守护继承者",
+    "qid": "9702",
+    "nextid": "9703",
+    "chapter": "17"
+  },
+  {
+    "id": "mqc17_9703_disappeared_of_dragon",
+    "name": "失踪的龙",
+    "qid": "9703",
+    "nextid": "9704",
+    "chapter": "17"
+  },
+  {
+    "id": "mqc17_9704_girl_of_aorta_gateway",
+    "name": "大动脉关卡的少女",
+    "qid": "9704",
+    "nextid": "9705",
+    "chapter": "17"
+  },
+  {
+    "id": "mqc17_9705_merca_of_blue_viper",
+    "name": "梅尔卡的蓝色毒蛇",
+    "qid": "9705",
+    "nextid": "9706",
+    "chapter": "17"
+  },
+  {
+    "id": "mqc17_9706_blue_wind_plains",
+    "name": "前往苍翠的风之平原",
+    "qid": "9706",
+    "nextid": "9707",
+    "chapter": "17"
+  },
+  {
+    "id": "mqc17_9707_tryan_intent",
+    "name": "特里亚的意图",
+    "qid": "9707",
+    "nextid": "9708",
+    "chapter": "17"
+  },
+  {
+    "id": "mqc17_9708_news_of_gui1",
+    "name": "大哥的消息 I",
+    "qid": "9708",
+    "nextid": "9709",
+    "chapter": "17"
+  },
+  {
+    "id": "mqc17_9709_news_of_gui2",
+    "name": "大哥的消息 II",
+    "qid": "9709",
+    "nextid": "9710",
+    "chapter": "17"
+  },
+  {
+    "id": "mqc17_9710_standards_of_sin",
+    "name": "罪恶的标准",
+    "qid": "9710",
+    "nextid": "9711",
+    "chapter": "17"
+  },
+  {
+    "id": "mqc17_9711_embers_of_barn",
+    "name": "库房的导火索",
+    "qid": "9711",
+    "nextid": "9712",
+    "chapter": "17"
+  },
+  {
+    "id": "mqc17_9712_dream_of_doll",
+    "name": "人偶的梦",
+    "qid": "9712",
+    "nextid": "9713",
+    "chapter": "17"
+  },
+  {
+    "id": "mqc17_9713_in_the_beginning",
+    "name": "太初时，或者更早",
+    "qid": "9713",
+    "nextid": "9714",
+    "chapter": "17"
+  },
+  {
+    "id": "mqc17_9714_take_care_of_brother",
+    "name": "托付弟弟",
+    "qid": "9714",
+    "nextid": "9715",
+    "chapter": "17"
+  },
+  {
+    "id": "mqc17_9715_tragedy_of_world",
+    "name": "悲剧世界",
+    "qid": "9715",
+    "nextid": "9716",
+    "chapter": "17"
+  },
+  {
+    "id": "mqc17_9716_target_of_disaster",
+    "name": "预知灾难的人",
+    "qid": "9716",
+    "nextid": "9717",
+    "chapter": "17"
+  },
+  {
+    "id": "mqc17_9717_resolution_of_girl",
+    "name": "少女的决心",
+    "qid": "9717",
+    "nextid": "9718",
+    "chapter": "17"
+  },
+  {
+    "id": "mqc17_9718_new_guardian",
+    "name": "新守护者",
+    "qid": "9718",
+    "nextid": "9719",
+    "chapter": "17"
+  },
+  {
+    "id": "mqc17_9719_meet_again_iris",
+    "name": "和艾瑞斯重逢",
+    "qid": "9719",
+    "nextid": "9720",
+    "chapter": "17"
+  },
+  {
+    "id": "mqc17_9720_disappeared_grele",
+    "name": "消失的格雷尔",
+    "qid": "9720",
+    "nextid": "9721",
+    "chapter": "17"
+  },
+  {
+    "id": "mqc17_9721_find_a_solution",
+    "name": "寻找答案之人",
+    "qid": "9721",
+    "nextid": "9722",
+    "chapter": "17"
+  },
+  {
+    "id": "mqc17_9722_do_no_trust",
+    "name": "谁也别信",
+    "qid": "9722",
+    "nextid": "9723",
+    "chapter": "17"
+  },
+  {
+    "id": "mqc17_9723_god_of_marionettes",
+    "name": "木偶之神",
+    "qid": "9723",
+    "nextid": "9724",
+    "chapter": "17"
+  },
+  {
+    "id": "mqc17_9724_relaxed_overlord",
+    "name": "悠然的强者",
+    "qid": "9724",
+    "nextid": "9725",
+    "chapter": "17"
+  },
+  {
+    "id": "mqc17_9725_child_of_darkness",
+    "name": "黑暗之子",
+    "qid": "9725",
+    "nextid": "9726",
+    "chapter": "17"
+  },
+  {
+    "id": "mqc17_9726_midnight_stars",
+    "name": "午夜之星",
+    "qid": "9726",
+    "nextid": "",
+    "chapter": "17"
+  }
+]

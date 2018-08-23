@@ -1,0 +1,162 @@
+{
+  "qkname": "奇怪事件的真相",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "姐姐，你快来。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "你看上去心情挺好啊！呼呼呼……",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "姐姐，有关莲花沼泽周围发生的奇怪事情，你向卡拉秋打听过了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>哎呀！我忘记问了？！ <br>我被那个叫察提的孩子完全吸引住了……呃啊……看来得再去找卡拉秋了……！！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "察提？察提是谁？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>啊！卡拉秋让我调查的一个孩子……长着猫耳朵和猫尾巴~~呃啊啊~~！！<br>怎么说呢，就像是一只非常警觉的小猫咪？反正超级可爱！</FONT>",
+      "answer": "",
+      "image": "qn_npc_charty.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>(向埃提亚讲述了和察提在一起时的事情)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9507_qu_01.ogg}<br>嗯……这么说，姐姐你因为被其他可爱的孩子迷住，就忘了我还在等你，也忘记自己该做的事情了……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>呃啊啊啊……不，不是的，埃提亚！呃，因为卡拉秋原本就让我调查一下那个孩子的。！！ <br>再说了，我们埃提亚是世界上最可爱的啦！嘿嘿嘿！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "不过，卡拉秋为什么要让你调查那个孩子呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，也许是因为那个孩子经常做出奇怪举动的缘故吧。 <br>不过，照察提的话说，卡拉秋让她的同胞染上了疾病，还有……嗯！她还说，最近她的同胞居民们陆续失踪，这也是卡拉秋搞的鬼……！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "卡拉秋……？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不过，西戴尔……就是你刚刚所说的卡拉秋的徒弟！<br>他说那都是察提的误会！我也这么想。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "嗯，我也是这么认为的。<br>如果卡拉秋果真是那种做坏事的人，那父亲也不会让我们去向她寻求帮助的。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "可是，察提所说的，她那些同胞居民染病并失踪的事情……不是很奇怪嘛？<br>这会不会就是凯伊哥哥和特拉玛依所说的那个奇怪事件呢？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>对哦！是这样啊？！我的妹妹不愧是天才！ <br>我应该马上前往</FONT><FONT color=#a82424>龙之追随者据点</FONT><FONT color=#662500>，去找特拉玛依和凯伊！</FONT>",
+      "answer": "",
+      "image": "qw_54.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "什么天才啊……说得我怪不好意思的……呼呼……<br><FONT color=#a82424>龙之追随者据点</FONT>好像非常危险，你可要当心啊，姐姐！",
+      "answer": "",
+      "image": "qw_54.png"
+    },
+    {
+      "npc": "凯伊",
+      "question": "啊，快来，<FONT color=#387206>{user_nick}</FONT>。你对莲花沼泽周围发生的奇怪事件调查过了吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>嗯，我从生活在这片地区的一个少女那里听说，她的同胞陆续染病并离奇失踪了！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "你说什么？！这是谁干的……看来，那些事果然和伊格纳西奥脱不了干系。他分明是想利用先知的力量，在这片地区搞些鬼把戏。",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "特拉玛依有别的事情，所以暂时不在。我会等他来的。你再好好搜索一下龙之追随者据点吧。",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "如果犯人真的是伊格纳西奥和那些龙之追随者，那就一定能够找到与事件相关的线索。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>我明白了！我会仔细地对附近进行搜索！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "那么，就拜托你了，<FONT color=#387206>{user_nick}</FONT>。",
+      "answer": ""
+    },
+    {
+      "npc": "凯伊",
+      "question": "见到你真是太好了，<FONT color=#387206>{user_nick}</FONT>！等特拉玛依来了之后，我正打算告诉他目前的情况呢。你有什么发现吗？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>虽然没有发现是谁捣的鬼，但找到了这个！<br>(把</FONT><FONT color=#a82424>可疑的古书</FONT><FONT color=#662500>交给了凯伊和特拉玛依)</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "啊，这个……如果使徒和龙之追随者们果真想用这古书上的方法进行某种仪式的话，那我也许能够猜到先知会被带到哪里去。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>是真的吗？！她被带到哪里去了？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "依我看，应该是<FONT color=#a82424>古代图书馆</FONT>那边。以防万一，我和凯伊通过其他路线前往那边，<FONT color=#387206>{user_nick}</FONT>，你和我们分头行动吧。",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "那么，我们在古代图书馆碰头吧，<FONT color=#387206>{user_nick}</FONT>。",
+      "answer": ""
+    }
+  ]
+}

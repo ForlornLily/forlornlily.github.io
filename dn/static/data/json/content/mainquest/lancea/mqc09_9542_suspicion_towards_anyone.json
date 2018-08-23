@@ -1,0 +1,147 @@
+{
+  "qkname": "疑心",
+  "data": [
+    {
+      "npc": "埃提亚",
+      "question": "你回来啦，姐姐。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "关于凯伊哥哥没有出现在约定场所的事情，<FONT color=#a82424>特拉玛依</FONT>是怎么说的？",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>他没有特别说什么。<br>但是他说自己要亲自打听是谁给了凯伊情报，而且还给钢铁兄弟团寄去了紧急书信！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "他直接和钢铁兄弟团联络吗？<br><FONT color=#7e12d2>（埃提亚非常惊讶，暂时陷入思考）</FONT><br>……这样的话，凯伊哥哥和帮助凯伊哥哥的人不就危险了吗……？",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9542_qu_01.ogg}<br>最初带来先知的还有追伊格纳西奥的，都是<FONT color=#a82424>特拉玛依</FONT>。<br>他帮助了他们两个，或者也有可能是假装是在追其实是在帮忙……",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>（唔……贝思柯德和柯梅里纳都说特拉玛依不是叛徒……但是，凯伊和埃提亚好像都怀疑特拉玛依……啊啊……怎么办啊……）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "ndnpc_Eltia_9542_qu_02.ogg}<br>在先知背叛后消失的地方，也许可以找到特拉玛依真实身份的证据？<br>如果我去的话，一定会证明凯伊哥哥的清白努力寻找证据……可是我又不能去……",
+      "answer": "",
+      "image": "qn_npc_rojalin.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "拜托了，姐姐。<br>请你替我去先知背叛的地方……<FONT color=#a82424>陨石坠落地中心</FONT>。",
+      "answer": "",
+      "image": "qw_63.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "那么，你准备好之后再告诉我吧。<br><br><FONT color=#7e12d2>※需达到58级后与埃提亚对话。</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "我……想相信凯伊哥哥……<br>所以，希望你替我去<FONT color=#a82424>陨石坠落地中心</FONT>搜集证据，姐姐……",
+      "answer": "",
+      "image": "qw_63.png"
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（掉出了一个看起来像是文件的东西。密封得很严实。）</FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "???",
+      "question": "<FONT color=#7e12d2>（……嗯？文件的表面写的不是钢铁兄弟团使用的暗号吗……？得带回去给埃提亚看看）</FONT>",
+      "answer": "",
+      "image": "qn_eltia.png"
+    },
+    {
+      "npc": "埃提亚",
+      "question": "找到证据了吗，姐姐？<br><FONT color=#7e12d2>（把捡到的文件交给埃提亚）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "啊……这个标志是钢铁兄弟团的暗号？ <br><FONT color=#7e12d2>（埃提亚仔细地看着文件）</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "……这份文件为什么会在那种地方……？<br>这在钢铁兄弟团内部也是只有<FONT color=#a82424>首领级</FONT>或极少数的<FONT color=#2b2723>几个人</FONT>可以浏览的<FONT color=#a82424>机密文件</FONT>。<br>以前父亲传递兄弟团的隐秘事项时，我见过他写这种形式的暗号。",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "……这是很机密的暗号，全部解读起来有点困难……但是这里写的好像是兄弟团秘密藏身处相关的内容！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>这份文件是在假先知出现的地方发现的……那么先知？贝思柯德？ 特拉玛依？<br>究竟文件是谁掉的呢？</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "从常识推测的话，特拉玛依的可能性最高。<br>因为他和兄弟团的接触最多。<br>但是，他怎么会有这种机密文件呢？",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "特拉玛依的确在帮助钢铁兄弟团，但是严密来说的话，外人……如果不是故意潜入偷走的话，个人是无法持有这种机密文件的。",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>特拉玛依果然是叛徒吗？！！<br>太失望了！不行，我要直接去找特拉玛依追问真相！</FONT>",
+      "answer": ""
+    },
+    {
+      "npc": "埃提亚",
+      "question": "等等，姐姐！不要这么轻率地行动……！！",
+      "answer": ""
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#7e12d2>（虽然埃提亚想说什么，但完全没听进去。</FONT><FONT color=#7e12d2>去神圣天堂质问特拉玛依吧）</FONT>",
+      "answer": "",
+      "image": "qw_sainthaven_inside.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "用什么药草能让贝思柯德的病情好转呢……嗯？<br><FONT color=#387206>{user_nick}</FONT>，对了，你寄去的书信好像还没收到答复……",
+      "answer": "",
+      "image": "qn_npc_velskud1.png"
+    },
+    {
+      "npc": "{user_nick}",
+      "question": "<FONT color=#662500>不是书信的问题，特拉玛依！<br>（把</FONT><FONT color=#662500>机密文件递到特拉玛依面前）<br>你为什么会有这种东西？！</FONT><FONT color=#662500> </FONT>",
+      "answer": "",
+      "image": "qs_default.png"
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "等等……你把文件伸到我下巴这里，戳到我的胡子了。好了好了，住手吧。<br>你怎么这么激动啊……啊，这是？！<br><FONT color=#7e12d2>（特拉玛依慌忙抓过文件）</FONT>",
+      "answer": ""
+    },
+    {
+      "question": "任务奖励",
+      "answer": ""
+    },
+    {
+      "npc": "泰兰斯·特拉玛依",
+      "question": "这种东西被王城的人发现就糟了……！！<br><FONT color=#7e12d2>（压低声音）</FONT><br>可能会连累兄弟团的某个人……",
+      "answer": ""
+    }
+  ]
+}
