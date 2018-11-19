@@ -1,0 +1,79 @@
+html,
+body {
+    height: 100%;
+    font-size: 2vh;
+    margin: 0;
+}
+.container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    background: url("../images/sign_bg.png");
+    background-size: 100% 100%;
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 7.5vh;
+    font-size: 1.4rem;
+    color:#fff;
+    text-align: center;
+    background: url("../images/nav.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.main-wrapper {
+    overflow: auto;
+    padding-top: 2vh;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+.discuss-user,
+.submit-wrapper{
+    width: 80%;
+    margin: 0 auto;
+}
+.discuss-user {
+    height: 9vh;
+    font-size: 1.4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    background: url(../images/bg_active.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.input-wrapper {
+    flex: 1;
+    width: 90%;
+    margin: 3vh auto 0 auto;
+    border-top: 1px solid #f07f55;
+    padding: 3vh 0 0 0;
+}
+.input {
+    width: 100%;
+    height: 90%;
+    box-sizing: border-box;
+    border: 1px solid #f07f55;
+    border-radius: 1vh;
+    background-color:transparent;
+}
+.submit-wrapper {
+    height: 10vh;
+}
+.submit {
+    border: none;
+    background:none;
+    background-color:#f8bb00;
+    border-radius:0;
+    color:#fff;
+    height: 90%;
+    width: 100%;
+    font-size: 1.4rem;
+}
+.submit:hover {
+    opacity: .8;
+}
