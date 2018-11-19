@@ -1,7 +1,6 @@
 html,
 body {
     height: 100%;
-    font-size: 2vh;
     margin: 0;
 }
 .container {
@@ -15,8 +14,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 7.5vh;
-    font-size: 1.4rem;
+    height: 2rem;
+    font-size: 1rem;
     color:#fff;
     text-align: center;
     background: url("../images/nav.png");
@@ -25,14 +24,14 @@ body {
 }
 .main-wrapper {
     overflow: auto;
-    padding-top: 2vh;
+    padding-top: .5rem;
     flex: 1;
 }
 .schedule-date {
-    height: 9vh;
+    height: 2.5rem;
     width: 95%;
     margin: 0 auto;
-    font-size: 1.4rem;
+    font-size: .8rem;
     color:#f04b12;
 }
 .date {
@@ -42,7 +41,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 1vh;
+    border-radius: 6px;
 }
 .date.left {
     float: left;
@@ -61,11 +60,11 @@ body {
     margin: 0 auto;
 }
 .schedule-title {
-    height: 5vh;
-    line-height: 5vh;
+    height: 1.5rem;
+    line-height: 1.5rem;
     border-bottom:1px solid #f04b12;
     color:#f04b12;
-    font-size: 1.4rem;
+    font-size: .9rem;
     font-weight: normal;
     margin: 1% 0;
 }
@@ -77,11 +76,11 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 30vh;
+    height: 9rem;
     width: 48%;
     float: left;
     margin: 1% 2% 1% 0;
-    border-radius: 1vh;
+    border-radius: 6px;
     border:1px solid #f07f55;
     background-color:#fff9ed;
 
@@ -91,19 +90,19 @@ body {
     margin-right: 0;
 }
 .user-photo {
-    width: 18vh;
+    width: 70%;
 }
 .user-name,
 .theme {
     margin: 1vh 0 0 0;
 }
 .user-name {
-    font-size: 1.3rem;
+    font-size: .8rem;
 }
 .theme {
     height: 30px;
     color:#b8b8b8;
-    font-size: 1.1rem;
+    font-size: .6rem;
 }
 .hide {
     display: none;
