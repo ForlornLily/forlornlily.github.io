@@ -68,41 +68,22 @@ body {
     font-weight: normal;
     margin: 1% 0;
 }
-.date-detail {
-    overflow: hidden;
-}
 .user-info {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    height: 9rem;
-    width: 48%;
-    float: left;
-    margin: 1% 2% 1% 0;
-    border-radius: 6px;
-    border:1px solid #f07f55;
-    background-color:#fff9ed;
-
+    border-radius: 20px;
+    border:1px solid #F9A836;
+    background-color:#FFEDC9;
+    padding: 5px 30px;
+    margin: 10px 0;
 }
-.user-info:nth-child(2n) {
-    float: right;
-    margin-right: 0;
-}
-.user-photo {
-    width: 70%;
-}
-.user-name,
-.theme {
-    margin: 1vh 0 0 0;
-}
-.user-name {
+.user-title {
     font-size: .8rem;
+    color: #E46E4F;
+    margin: 5px 0;
 }
-.theme {
-    height: 30px;
-    color:#b8b8b8;
+.user-brief {
     font-size: .6rem;
+    color: #393738;
+    margin: 2px 0;
 }
 .hide {
     display: none;

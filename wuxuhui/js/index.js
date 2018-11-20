@@ -36,8 +36,14 @@ var requestAjax = function(options, hanlder) {
 }
 var openDiscuss = {
     click: function(target) {
-        //debugger
-        window.open("./discussion.html");
+        var id = target.currentTarget.getAttribute("data-id"),
+            url = openDiscuss.addUrlParam("discussion.html", "id", id);
+        window.open("./"+url);
+    },
+    addUrlParam: function(url, name, value) {
+        url += (url.indexOf("?") == -1)? "?": "&";
+        url += encodeURIComponent(name) + "=" + encodeURIComponent(value);
+        return url;
     },
     bind: function() {
         var target = document.querySelectorAll(".user-info");
