@@ -26,6 +26,7 @@ body {
     overflow: auto;
     padding-top: .5rem;
     flex: 1;
+    display: flex;
 }
 .schedule-date {
     height: 2.5rem;
