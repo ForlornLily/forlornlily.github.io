@@ -22,10 +22,17 @@
         <textarea maxlength="1000" placeholder="最多不超过1000字" id="result" class="input"></textarea>
       </div>
       <div class="submit-wrapper">
-        <button class="submit">提交</button>
+        <button class="submit" id="submit">提交</button>
       </div>
     </div>
   </div>
+  <div class="loading hide">
+    <img src="./images//spinning-circles.svg" alt="loading">
+    <p class="loading-text">正在提交中...</p>
+  </div>
+        <div class="toast-wrap">
+            <span class="toast-msg"></span>
+         </div>
   <script src="./js/discussion.js"></script>
 </body>
 

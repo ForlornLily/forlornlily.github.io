@@ -1,12 +1,3 @@
-(function (doc, win) {
-    var docEl = doc.documentElement,
-        resizeEvt = 'orientationchange' in window ? 'orientationchange' : 'resize',
-        recalc = function () {
-            var clientWidth = docEl.clientWidth;
-            if (!clientWidth) return;
-            docEl.style.fontSize = 20 * (clientWidth / 320) + 'px';
-        };
-    if (!doc.addEventListener) return;
-    win.addEventListener(resizeEvt, recalc, false);
-    doc.addEventListener('DOMContentLoaded', recalc, false);
-})(document, window);
+/*!  2018-11-20 */
+
+!function(t,e){var n=t.documentElement,a="orientationchange"in window?"orientationchange":"resize",s=function(){var t=n.clientWidth;t&&(n.style.fontSize=t/320*20+"px")};t.addEventListener&&(e.addEventListener(a,s,!1),t.addEventListener("DOMContentLoaded",s,!1))}(document,window);var util={dealSearch:function(t){for(var e,n,a=(e=(t=0==t.indexOf("?")?t.substring(1):t).split("&")).length;a--;){var s=e[a];"id"!=(s=s.split("="))[0]?"name"!=s[0]||(n=decodeURIComponent(s[1])):this.id=decodeURIComponent(s[1])}this.setUser(n)},id:"",setUser:function(t){document.querySelector(".discuss-user").innerHTML=t},requestAjax:function(t,e){var n=new XMLHttpRequest;if(type=t.type,url=t.url,data=t.data,n.onreadystatechange=function(){4==n.readyState&&(200<=n.status&&n.status<300||304==n.status?(e(n.responseText),n=null):alert("error: "+n.status))},n.open(type,url,!0),"post"==type){n.setRequestHeader("Content-Type","application/x-www-form-urlencoded");var a="";for(var s in data)a=util.addUrlParam(a,s,data[s])}n.send(a.substring(1))},addUrlParam:function(t,e,n){return t+=-1==t.indexOf("?")?"?":"&",t+=encodeURIComponent(e)+"="+encodeURIComponent(n)},submitData:function(){var t=document.querySelector("#result").value;loading.show(),util.requestAjax({url:"./json/theme.json",type:"post",data:{id:util.id,value:t}},loading.hide)}},loading={target:document.querySelector(".loading"),show:function(){loading.target.classList.remove("hide")},hide:function(t){loading.target.classList.add("hide"),toast("提交成功！")}};function toast(e){setTimeout(function(){document.getElementsByClassName("toast-wrap")[0].getElementsByClassName("toast-msg")[0].innerHTML=e;var t=document.getElementsByClassName("toast-wrap")[0];t.className=t.className.replace("toastAnimate",""),setTimeout(function(){t.className=t.className+" toastAnimate"},100)},500)}util.dealSearch(location.search);var button=document.querySelector("#submit");button.addEventListener("click",util.submitData,!1);
