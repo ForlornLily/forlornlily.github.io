@@ -20,6 +20,7 @@
 
     img {
       max-width: 100%;
+      max-height: 100%;
     }
 
     .wrapper {
@@ -59,6 +60,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
+      margin: 5px 0;
     }
 
     .hide {
@@ -106,7 +108,7 @@
       win.addEventListener(resizeEvt, recalc, false);
       doc.addEventListener('DOMContentLoaded', recalc, false);
     })(document, window);
-    var result = "repeat";
+    var result = "success";
     var util = {
       setFail: function (flag) {
         var curDoc = document,
