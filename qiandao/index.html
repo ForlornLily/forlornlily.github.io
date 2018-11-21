@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>签到</title>
+  <style>
+    html,
+    body {
+      height: 100%;
+      margin: 0;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 1.2rem;
+    }
+
+    img {
+      max-width: 100%;
+    }
+
+    .wrapper {
+      height: 100%;
+      width: 80%;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .title {
+      display: flex;
+      height: 1.9rem;
+    }
+
+    .title .content,
+    .fail .content {
+      font-size: .8rem;
+      font-weight: bold;
+    }
+
+    .image-wrapper,
+    .image {
+      height: 100%;
+    }
+
+    .content {
+      font-size: .7rem;
+      margin: 10px 0;
+      text-align: center;
+    }
+
+    .center {
+      height: 45%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .hide {
+      display: none;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="authoried" class="wrapper">
+    <div class="title success">
+      <h1>签到成功</h1>
+      <div class="image-wrapper">
+        <img class="image" src="./images/success.png" alt="success">
+      </div>
+    </div>
+    <div class="title repeat hide">
+      <p class="content">您已签到成功，无需重复签到</p>
+    </div>
+    <div class="center">
+      <img src="./images/qr.jpg" alt="长按识别二维码">
+    </div>
+    <p class="content">本次会议互动环节在<br>"信息发展研究院"&nbsp;微信公众号：<br>"个人中心"&nbsp;→&nbsp;"务虚会"&nbsp;中进行</p>
+    <p class="content">请长按二维码识别进入</p>
+  </div>
+  <div id="illegal" class="wrapper fail hide">
+    <div class="title ">
+      <h1>签到失败</h1>
+    </div>
+    <div class="center">
+      <img src="./images/fail.png" alt="fail">
+    </div>
+    <p class="content">您非本次参会人员，无法签到</p>
+  </div>
+  <script>
+    (function (doc, win) {
+      var docEl = doc.documentElement,
+        resizeEvt = 'orientationchange' in window ? 'orientationchange' : 'resize',
+        recalc = function () {
+          var clientWidth = docEl.clientWidth;
+          if (!clientWidth) return;
+          docEl.style.fontSize = 20 * (clientWidth / 320) + 'px';
+        };
+      if (!doc.addEventListener) return;
+      win.addEventListener(resizeEvt, recalc, false);
+      doc.addEventListener('DOMContentLoaded', recalc, false);
+    })(document, window);
+    var result = "success";
+    var util = {
+      setFail: function (flag) {
+        var curDoc = document,
+          legalTarget = curDoc.querySelector("#authoried");
+        var failEl = curDoc.querySelector("#illegal"),
+          failClass = failEl.classList,
+          legalClass = legalTarget.classList;
+        if (flag) {
+          if (legalClass.contains("hide")) {
+            return;
+          }
+          legalClass.add("hide");
+          failClass.remove("hide");
+        } else {
+          if (failClass.contains("hide")) {
+            return;
+          }
+          failClass.add("hide");
+          legalClass.remove("hide");
+        }
+      },
+      setSuccess: function (flag) {
+        var curDoc = document,
+          legalTarget = curDoc.querySelector("#authoried"),
+          legalClass = legalTarget.classList;
+        util.setFail(false);
+        var repeatTarget = legalTarget.querySelector(".repeat"),
+          repeatClass = repeatTarget.classList,
+          successTarget = legalTarget.querySelector(".success"),
+          successClass = successTarget.classList;
+        if (flag) {
+          if (repeatClass.contains("hide")) {
+            return;
+          }
+          repeatClass.add("hide");
+          successClass.remove("hide");
+        } else {
+          if (successClass.contains("hide")) {
+            return;
+          }
+          successClass.add("hide");
+          repeatClass.remove("hide");
+        }
+      }
+    }
+    switch (result) {
+      case "repeat":
+        util.setSuccess(false)
+        break;
+      case "fail":
+        util.setFail(true)
+        break;
+      default:
+        util.setSuccess(true)
+        break;
+    }
+  </script>
+</body>
+
+</html>
