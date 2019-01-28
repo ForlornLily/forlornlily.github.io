@@ -14,12 +14,16 @@
 [微信PC版](https://pc.weixin.qq.com/)  
 [企业微信](https://work.weixin.qq.com/)  
 [foobar2000](http://www.foobar2000.org/)  
-[potplayer](http://potplayer.daum.net)  
-[madVR ](http://www.madvr.com/)  
 [MKVToolNix](https://mkvtoolnix.download/)  
 [搜狗输入法](https://pinyin.sogou.com/)
 [QQ](https://im.qq.com/pcqq/)  
 [kindle](https://www.amazon.cn/gp/digital/fiona/kcp-landing-page/ref=sd_allcat_kindle_l3_f98938)  
+[potplayer](http://potplayer.daum.net)  
+[madVR](http://www.madvr.com/)  
+[LAVFilters](https://github.com/Nevcairiel/LAVFilters)
+[xy-SubFilter](https://github.com/Cyberbeing/xy-VSFilter)
+* see [VSB-Studio: 基于PotPlayer和madVR的播放器教程](https://vcb-s.com/archives/7228)  
+
 [Locale Emulator](https://github.com/xupefei/Locale-Emulator)
 
 # Android
