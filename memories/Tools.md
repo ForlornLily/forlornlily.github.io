@@ -9,7 +9,7 @@
 [TortoiseGit](https://tortoisegit.org/)  
 [qBittorrent](https://www.qbittorrent.org/)  
 [WinSCP](https://winscp.net)  
-[Putty](https://www.putty.org/)
+[Putty](https://www.putty.org/)  
 [百度网盘](https://pan.baidu.com/download)  
 [微信PC版](https://pc.weixin.qq.com/)  
 [企业微信](https://work.weixin.qq.com/)  
