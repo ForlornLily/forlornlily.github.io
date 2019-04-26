@@ -4,6 +4,8 @@
   * [PotPlayer](#PotPlayer)
   * [LAV](#LAV)
   * [madVR](#madVR)
+* 其他
+  * 字幕制作: [aegisub](http://www.aegisub.org/)
 # 软件官网
 * [potplayer](http://potplayer.daum.net)  
 * [LAVFilters](https://github.com/Nevcairiel/LAVFilters/releases)
