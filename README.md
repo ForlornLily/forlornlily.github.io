@@ -1,4 +1,3 @@
-# bareisho.github.io
 
 ## qunar
 preview of my mock qunar
