@@ -7,6 +7,7 @@ AKB0048
 爱杀宝贝/キルミーベイベー/ Baby, please kill me   
 暗杀教室/暗殺教室   
 阿滋漫画大王/あずまんが大王  
+Adventure Time  
 # B*
 宝石之国/宝石の国   
 不吉波普不笑/ブギーポップは笑わない  
@@ -135,6 +136,7 @@ Myself ; Yourself
 命运石之门/Steins;Gate  
 美少女战士/美少女戦士セーラームーン   
 名侦探柯南/名探偵コナン  
+My Little Pony  
 # N*
 女高中生的虚度日常/女子高生の無駄づかい  
 NEW GAME   
@@ -203,6 +205,7 @@ sola
 四驱兄弟/爆走兄弟レッツ&ゴー!!  
 守护者联盟/Rise of the Guardians  
 石纪元/Dr.STONE  
+Steven Universe  
 # T*
 天体的秩序/天体のメソッド   
 TARI TARI   
