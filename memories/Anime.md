@@ -44,6 +44,7 @@ CHAOS;HEAD
 穿越时空的少女/時をかける少女  
 # D*
 弹丸论破/弹丸论舞/枪弹辩驳/ダンガンロンパ/ Danganronpa   
+大剑/CLAYMORE  
 刀剑神域/ソードアート・オンライン/Sword Art Online   
 刀剑神域外传Gun Gale Online/ソードアート・オンライン オルタナティブ ガンゲイル・オンライン/Sword Art Online Alternative Gun Gale Online   
 地狱少女/地獄少女   
@@ -228,7 +229,8 @@ TARI TARI
 我家有个狐仙大人/我が家のお稲荷さま   
 我的狐仙女友/かのこん  
 文豪野犬/文豪ストレイドッグス   
-舞-HIME
+舞-HIME  
+我们的七日战争/ぼくらの七日間戦争  
 # X*
 笑容的代价/エガオノダイカ  
 邪神与厨二病少女/邪神ちゃんドロップキック  
