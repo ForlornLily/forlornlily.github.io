@@ -7,7 +7,6 @@ AKB0048
 爱杀宝贝/キルミーベイベー/ Baby, please kill me   
 暗杀教室/暗殺教室   
 阿滋漫画大王/あずまんが大王  
-Adventure Time  
 # B*
 宝石之国/宝石の国   
 不吉波普不笑/ブギーポップは笑わない  
@@ -154,7 +153,7 @@ Princess Principal
 # Q*
 千绪的上学路/ちおちゃんの通学路  
 牵牛花与加濑同学/あさがおと加瀬さん    
-情热传说 the X/热情传奇 the X/テイルズ オブ ゼスティリア ザ クロス/Tales of Zestiria the X   
+情热传说 the X/热诚传说 the X/テイルズ オブ ゼスティリア ザ クロス/Tales of Zestiria the X   
 轻音少女/けいおん!/K-ON!   
 蔷薇少女/ Rozen Maiden   
 千与千寻/千と千尋の神隠し   
