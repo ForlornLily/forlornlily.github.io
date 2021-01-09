@@ -43,6 +43,7 @@ CHAOS;HEAD
 初瓣/ひとひら  
 穿越时空的少女/時をかける少女  
 # D*
+道子与哈金/ミチコとハッチン  
 弹丸论破/弹丸论舞/枪弹辩驳/ダンガンロンパ/ Danganronpa   
 大剑/CLAYMORE  
 刀剑神域/ソードアート・オンライン/Sword Art Online   
