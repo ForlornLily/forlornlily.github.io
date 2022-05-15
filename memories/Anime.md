@@ -31,6 +31,7 @@ BLOOD+
 笨女孩/アホガール  
 冰雪奇缘/Frozen
 # C*
+处刑少女的生存之道/処刑少女の生きる道  
 Carole & Tuesday
 超能力女儿/ヒナまつり   
 吹响吧！上低音号/響け! ユーフォニアム   
@@ -89,7 +90,8 @@ Happ Sugar Life
 黑之契约者/ DARKER THAN BLACK   
 和谐/ハーモニー/ \<harmony/>  
 幻想万华镜/幻想万華鏡 ～The Memories Of Phantasm～
-# J*
+# J*  
+间谍过家家/SPY×FAMILY  
 剧偶像/ゲキドル
 迦南/CANAAN   
 街角魔族/まちカドまぞく  
@@ -133,7 +135,7 @@ Love Live!
 玛娜莉亚魔法学院/Mysteria Friends/Manaria Friends  
 魔法少女奈叶/魔法少女リリカルなのは   
 魔法少女小圆/魔法少女まどか☆マギ   
-魔女之旅/魔女の旅々
+魔女之旅/魔女の旅々  
 魔法少女 俺   
 魔法少女育成计划/魔法少女育成計画  
 comic grils/漫画少女/こみっくがーるず   
@@ -221,7 +223,8 @@ sola
 守护者联盟/Rise of the Guardians  
 石纪元/Dr.STONE  
 Steven Universe  
-# T*
+# T*  
+天使特警/Kiddy Grade  
 天体的秩序/天体のメソッド   
 TARI TARI   
 桃华月惮/桃華月憚   
@@ -249,6 +252,7 @@ TARI TARI
 舞-HIME  
 我们的七日战争/ぼくらの七日間戦争  
 # X*
+夏日重现/Summer Time Rendering  
 熊熊勇闯异世界/くま クマ 熊 ベアー
 笑容的代价/エガオノダイカ  
 邪神与厨二病少女/邪神ちゃんドロップキック  
