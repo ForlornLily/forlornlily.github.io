@@ -117,6 +117,7 @@ Kanon
 空罐少女/アキカン!  
 京四郎和永远的天空/京四郎と永遠の空  
 # L*
+Lycoris Recoil  
 里亚德录大地/リアデイルの大地にて  
 里世界郊游/裏世界ピクニック  
 来自深渊/メイドインアビス/ MADE IN ABYSS   
@@ -134,6 +135,7 @@ Love Live!
 龙珠/ドラゴンボール/Dragon Ball  
 # M*
 魔女猎人/エル・カザド/ EL CAZADOR /EL CAZADOR DE LA BRUJA   
+MADLAX  
 明日同学的水手服/明日ちゃんのセーラー服  
 秘密内幕～女警的反击～/ハコヅメ~交番女子の逆襲~  
 玛娜莉亚魔法学院/Mysteria Friends/Manaria Friends  
@@ -153,6 +155,7 @@ Myself ; Yourself
 名侦探柯南/名探偵コナン  
 My Little Pony  
 # N*
+NOIR  
 女高中生的虚度日常/女子高生の無駄づかい  
 NEW GAME   
 那就是声优！/それが声優!   

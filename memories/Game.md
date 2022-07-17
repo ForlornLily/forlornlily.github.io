@@ -10,6 +10,7 @@
 八方旅人/OCTOPATH TRAVELER 歧路旅人/オクトパストラベラー  
 Blackberry Honey  
 白箱魔法使/白はこの魔法使い  
+白夜极光  
 # C*  
 超级玛丽系列  
 赤影战士/闇の仕事人KAGE  
@@ -20,10 +21,12 @@ Blackberry Honey
 大海原与大海原/大海原と大海原(おおうなばらとわだのはら)  
 东方project  
 底特律：成为人类/Detroit: Become Human  
+Dead Cells  
 # E*  
 俄罗斯方块/TETRIS  
 # F*  
 火焰纹章 风花雪月/ファイアーエムブレム 風花雪月/Fire Emblem: Three Houses   
+烟火  
 Fatal Twelve
 Flowers 系列  
 Fate 系列   
@@ -45,6 +48,7 @@ Highway Blossoms
 饥荒/Don't Starve  
 街头霸王系列    
 # K*  
+空洞骑士系列  
 空之轨迹系列  
 开罗工作室系列  
 狂父/マッドファーザー/Mad Father  
@@ -72,10 +76,12 @@ Mogeko Castle
 Sdorica 万象物语  
 杀戮天使/殺戮の天使    
 水果忍者/Fruit Ninja  
-双截龙（FC）
+双截龙（FC）  
+Spiritfarer
 # T*  
 贪吃蛇  
-坦克大战/バトルシティー/Battle City
+坦克大战/バトルシティー/Battle City  
+Tunic  
 # U*  
 # V*  
 # W* 
